@@ -237,8 +237,8 @@ export function MapView({ incidents }: { incidents: MapIncident[] }) {
           // If we can't zoom in further (already at or past expansion zoom), show first incident
           if (expansionZoom <= currentZoom + 0.5) {
             source.getClusterLeaves(clusterId, 10, 0).then((leaves) => {
-              if (leaves?.features?.length) {
-                const id = leaves.features[0].properties?.id;
+              if (leaves?.length) {
+                const id = leaves[0].properties?.id;
                 const inc = incidentsRef.current.find((i) => i.id === id);
                 if (inc) setSelected(inc);
               }
