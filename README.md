@@ -27,6 +27,20 @@ Every incident includes a verbatim quote pulled directly from the source PDF. If
 
 Next.js, Supabase, Claude (extraction + RAG), Voyage AI (embeddings), MapLibre, Vercel.
 
+## Media Mirroring
+
+War.gov blocks server-side image requests (Akamai 403), so OG images and other server-rendered media need local copies. The mirror script uses Playwright to bypass this:
+
+```bash
+pip install playwright
+playwright install chromium
+python -m pipeline.mirror_media          # mirror all war.gov images
+python -m pipeline.mirror_media --dry-run  # preview without downloading
+python -m pipeline.mirror_media --limit 5  # process first 5 only
+```
+
+This downloads war.gov-hosted images via a real Chromium session, uploads them to Supabase Storage, and updates the incident rows to point at the stored copies. The original war.gov URL is preserved in `source_url` for citation.
+
 ## License
 
 Code: MIT | Data: CC0
