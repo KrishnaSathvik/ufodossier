@@ -5,6 +5,17 @@ export const revalidate = 3600; // regenerate hourly
 
 const BASE = "https://ufodossier.com";
 
+/** Convert partial dates like "1890", "2024-04", "2024-04-15" to valid W3C date or undefined */
+function toValidDate(dateStr: string | null): Date | undefined {
+  if (!dateStr) return undefined;
+  // Only accept full YYYY-MM-DD dates (Google rejects partial dates)
+  if (/^\d{4}-\d{2}-\d{2}/.test(dateStr)) {
+    const d = new Date(dateStr);
+    if (!isNaN(d.getTime())) return d;
+  }
+  return undefined;
+}
+
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const sb = getSupabase();
 
@@ -28,7 +39,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
   const incidentEntries: MetadataRoute.Sitemap = allIncidents.map((i) => ({
     url: `${BASE}/incident/${i.slug}`,
-    lastModified: i.occurred_at ?? undefined,
+    lastModified: toValidDate(i.occurred_at),
     changeFrequency: "monthly" as const,
     priority: 0.7,
   }));
