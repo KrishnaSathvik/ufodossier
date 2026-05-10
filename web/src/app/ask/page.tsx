@@ -6,7 +6,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Ask the Archive",
   description: "Ask questions about the declassified UAP archive. Every answer is grounded in the corpus.",
-  robots: { index: false, follow: true },
+  robots: { index: true, follow: true },
 };
 
 export default function AskPage() {
