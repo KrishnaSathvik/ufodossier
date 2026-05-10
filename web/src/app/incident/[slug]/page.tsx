@@ -2,6 +2,7 @@ import { TopBar } from "@/components/TopBar";
 import { Footer } from "@/components/Footer";
 import { JsonLd } from "@/components/JsonLd";
 import { RedactedExcerpt } from "@/components/RedactedExcerpt";
+import { ShareRow } from "@/components/ShareRow";
 import { getSupabaseServer } from "@/lib/supabase";
 import { notFound, redirect } from "next/navigation";
 import Link from "next/link";
@@ -298,6 +299,12 @@ export default async function IncidentPage({ params }: { params: Promise<{ slug:
             Extracted via LLM. Verbatim excerpt validated.
           </p>
         </section>
+
+        {/* Share */}
+        <ShareRow
+          url={`/incident/${incident.slug ?? incident.id}`}
+          title={incident.title}
+        />
 
         {/* Similar incidents */}
         {similar.length > 0 && (

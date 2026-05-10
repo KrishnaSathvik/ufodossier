@@ -34,12 +34,28 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     priority: 0.7,
   }));
 
+  // Fetch collections
+  const { data: collections } = await sb
+    .from("collections")
+    .select("slug, created_at")
+    .order("sort_order");
+
+  const collectionEntries: MetadataRoute.Sitemap = (collections ?? []).map((c) => ({
+    url: `${BASE}/collections/${c.slug}`,
+    lastModified: c.created_at && !isNaN(new Date(c.created_at).getTime())
+      ? new Date(c.created_at)
+      : new Date(),
+    changeFrequency: "weekly" as const,
+    priority: 0.7,
+  }));
+
   const staticPages: MetadataRoute.Sitemap = [
     { url: BASE, changeFrequency: "daily", priority: 1.0, lastModified: new Date() },
+    { url: `${BASE}/collections`, changeFrequency: "weekly", priority: 0.8, lastModified: new Date() },
     { url: `${BASE}/map`, changeFrequency: "weekly", priority: 0.8, lastModified: new Date() },
     { url: `${BASE}/media`, changeFrequency: "weekly", priority: 0.6, lastModified: new Date() },
     { url: `${BASE}/about`, changeFrequency: "monthly", priority: 0.4, lastModified: new Date() },
   ];
 
-  return [...staticPages, ...incidentEntries];
+  return [...staticPages, ...collectionEntries, ...incidentEntries];
 }

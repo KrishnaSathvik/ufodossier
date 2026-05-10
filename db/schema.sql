@@ -270,3 +270,26 @@ create policy "public read ask_log" on ask_log for select using (true);
 -- ===== Redesign migration: human-readable incident URLs =====
 alter table incidents add column if not exists slug text unique;
 create index if not exists idx_incidents_slug on incidents(slug);
+
+-- ===== Collections migration =====
+create table if not exists collections (
+  id uuid primary key default uuid_generate_v4(),
+  slug text unique not null,
+  title text not null,
+  standfirst text not null,
+  intro_md text,
+  sort_order int not null default 0,
+  created_at timestamptz not null default now()
+);
+
+create table if not exists collection_incidents (
+  collection_id uuid not null references collections(id) on delete cascade,
+  incident_id uuid not null references incidents(id) on delete cascade,
+  sort_order int not null default 0,
+  primary key (collection_id, incident_id)
+);
+
+alter table collections enable row level security;
+alter table collection_incidents enable row level security;
+create policy "public read collections" on collections for select using (true);
+create policy "public read collection_incidents" on collection_incidents for select using (true);

@@ -78,6 +78,10 @@ Release 01 extraction (~120 PDFs, ~4,185 pages) should land between $4 and $10 i
 | `web/src/app/api/ask/route.ts` | RAG endpoint (embed question -> vector search -> stream Sonnet) |
 | `web/tailwind.config.js` | Tailwind theme with all design tokens |
 | `web/src/app/globals.css` | CSS variables, scan-line, vignette, component classes |
+| `pipeline/seed_collections.py` | Seed 7 curated collections into Supabase |
+| `web/src/app/collections/page.tsx` | Collections index (grid of curated sets) |
+| `web/src/app/collections/[slug]/page.tsx` | Single collection detail page |
+| `web/src/components/ShareRow.tsx` | Copy link / X / Bluesky share buttons |
 
 ## Media support (v1)
 
@@ -116,12 +120,14 @@ Key pipeline improvements applied:
 
 All core routes verified working:
 - `/` — homepage with live stats (497 incidents, 38 countries, sidebar breakdowns)
-- `/incident/[id]` — case file with metadata, verbatim excerpt, similar incidents via vector search
+- `/incident/[id]` — case file with metadata, verbatim excerpt, similar incidents, share row (Copy link / X / Bluesky)
+- `/collections` — curated collection index (7 collections, 2-col grid)
+- `/collections/[slug]` — single collection page with breadcrumb, standfirst, incident list
 - `/ask` — RAG query terminal (Voyage embed → `match_incidents` RPC → stream Sonnet)
 - `/about` — methodology page
 - `/images`, `/videos` — gallery pages (show "pipeline pending" until migration runs)
 
-Navigation links: only archive, images, videos, ask, about (removed dead links to unbuilt map/timeline/data/releases pages).
+Navigation links: archive, map, collections, media, ask, about.
 
 ## Open questions
 
