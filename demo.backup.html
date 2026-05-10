@@ -1,0 +1,1064 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PURSUELOG // Declassified UAP Archive</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;700&family=Newsreader:ital,wght@0,400;0,500;0,700;1,400&family=Special+Elite&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0a0a0a;
+    --bg-elev: #111110;
+    --bg-paper: #15140f;
+    --ink: #e8e6e0;
+    --ink-dim: #a8a59c;
+    --ink-faint: #6b685f;
+    --amber: #ff9933;
+    --amber-dim: #b36b1f;
+    --redaction: #000;
+    --stamp: #c8302a;
+    --rule: #2a2925;
+    --rule-strong: #3d3b35;
+    --mono: 'JetBrains Mono', ui-monospace, monospace;
+    --serif: 'Newsreader', Georgia, serif;
+    --type: 'Special Elite', 'Courier Prime', monospace;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  html, body {
+    background: var(--bg);
+    color: var(--ink);
+    font-family: var(--mono);
+    font-size: 14px;
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+    min-height: 100vh;
+  }
+
+  /* Subtle scan-line + grain on body */
+  body::before {
+    content: '';
+    position: fixed; inset: 0;
+    background-image:
+      repeating-linear-gradient(
+        0deg,
+        rgba(255,255,255,0.015) 0px,
+        rgba(255,255,255,0.015) 1px,
+        transparent 1px,
+        transparent 3px
+      );
+    pointer-events: none;
+    z-index: 100;
+    mix-blend-mode: overlay;
+  }
+
+  body::after {
+    content: '';
+    position: fixed; inset: 0;
+    background:
+      radial-gradient(ellipse at center, transparent 0%, rgba(0,0,0,0.4) 100%);
+    pointer-events: none;
+    z-index: 99;
+  }
+
+  /* Top transmission bar */
+  .top-bar {
+    position: sticky;
+    top: 0;
+    background: var(--bg);
+    border-bottom: 1px solid var(--rule);
+    z-index: 50;
+    font-family: var(--mono);
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--ink-dim);
+  }
+
+  .top-bar-inner {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 10px 24px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 24px;
+  }
+
+  .top-bar-left {
+    display: flex; align-items: center; gap: 16px;
+  }
+
+  .blink {
+    display: inline-block;
+    width: 8px; height: 8px;
+    background: var(--amber);
+    animation: blink 1.4s step-end infinite;
+  }
+
+  @keyframes blink {
+    50% { opacity: 0; }
+  }
+
+  .nav {
+    display: flex; gap: 20px;
+  }
+
+  .nav a {
+    color: var(--ink-dim);
+    text-decoration: none;
+    font-family: var(--mono);
+    font-size: 11px;
+    letter-spacing: 0.1em;
+    transition: color 0.15s;
+  }
+
+  .nav a:hover, .nav a.active {
+    color: var(--amber);
+  }
+
+  /* Hero */
+  .hero {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 80px 24px 60px;
+    border-bottom: 1px solid var(--rule);
+    position: relative;
+  }
+
+  .hero-meta {
+    font-family: var(--mono);
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    color: var(--ink-faint);
+    margin-bottom: 24px;
+    display: flex;
+    gap: 24px;
+  }
+
+  .hero-meta span {
+    position: relative;
+  }
+
+  .hero-meta span:not(:last-child)::after {
+    content: '';
+    position: absolute;
+    right: -14px; top: 50%;
+    width: 4px; height: 4px;
+    background: var(--ink-faint);
+    border-radius: 50%;
+    transform: translateY(-50%);
+  }
+
+  h1.hero-title {
+    font-family: var(--type);
+    font-size: clamp(48px, 8vw, 96px);
+    line-height: 0.95;
+    font-weight: 400;
+    letter-spacing: -0.02em;
+    color: var(--ink);
+    margin-bottom: 32px;
+    text-transform: uppercase;
+  }
+
+  .hero-title .stamp-wrap {
+    position: relative;
+    display: inline-block;
+  }
+
+  .hero-stamp {
+    position: absolute;
+    top: -20px;
+    right: -40px;
+    transform: rotate(-12deg);
+    border: 3px solid var(--stamp);
+    color: var(--stamp);
+    font-family: var(--mono);
+    font-weight: 700;
+    font-size: 14px;
+    padding: 6px 14px;
+    letter-spacing: 0.1em;
+    opacity: 0.85;
+  }
+
+  .hero-sub {
+    font-family: var(--serif);
+    font-size: 22px;
+    line-height: 1.5;
+    color: var(--ink-dim);
+    max-width: 640px;
+    font-style: italic;
+  }
+
+  .hero-sub em {
+    color: var(--ink);
+    font-style: normal;
+    background: rgba(255, 153, 51, 0.08);
+    padding: 0 4px;
+  }
+
+  /* Stats strip */
+  .stats {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 32px 24px;
+    border-bottom: 1px solid var(--rule);
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1px;
+    background: var(--rule);
+  }
+
+  .stat {
+    background: var(--bg);
+    padding: 24px 20px;
+  }
+
+  .stat-label {
+    font-family: var(--mono);
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    color: var(--ink-faint);
+    margin-bottom: 12px;
+  }
+
+  .stat-value {
+    font-family: var(--type);
+    font-size: 38px;
+    line-height: 1;
+    color: var(--ink);
+    letter-spacing: -0.02em;
+  }
+
+  .stat-value .unit {
+    font-family: var(--mono);
+    font-size: 14px;
+    color: var(--ink-dim);
+    margin-left: 8px;
+  }
+
+  /* Main content area */
+  .main {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 48px 24px;
+    display: grid;
+    grid-template-columns: 240px 1fr;
+    gap: 48px;
+  }
+
+  /* Sidebar */
+  .sidebar h3 {
+    font-family: var(--mono);
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    color: var(--ink-faint);
+    margin-bottom: 12px;
+    margin-top: 24px;
+    border-bottom: 1px solid var(--rule);
+    padding-bottom: 8px;
+  }
+
+  .sidebar h3:first-child { margin-top: 0; }
+
+  .filter-list {
+    list-style: none;
+    margin-bottom: 8px;
+  }
+
+  .filter-list li {
+    font-family: var(--mono);
+    font-size: 12px;
+    padding: 4px 0;
+    display: flex;
+    justify-content: space-between;
+    color: var(--ink-dim);
+    cursor: pointer;
+    transition: color 0.15s;
+  }
+
+  .filter-list li:hover {
+    color: var(--amber);
+  }
+
+  .filter-list li.active {
+    color: var(--ink);
+  }
+
+  .filter-list .count {
+    color: var(--ink-faint);
+    font-size: 11px;
+  }
+
+  /* Map area */
+  .content-block {
+    margin-bottom: 48px;
+  }
+
+  .block-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 1px solid var(--rule);
+    padding-bottom: 12px;
+    margin-bottom: 20px;
+  }
+
+  .block-title {
+    font-family: var(--mono);
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    color: var(--ink);
+  }
+
+  .block-meta {
+    font-family: var(--mono);
+    font-size: 11px;
+    color: var(--ink-faint);
+  }
+
+  .map-canvas {
+    background: var(--bg-paper);
+    border: 1px solid var(--rule);
+    height: 380px;
+    position: relative;
+    overflow: hidden;
+    background-image:
+      linear-gradient(rgba(255, 153, 51, 0.04) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(255, 153, 51, 0.04) 1px, transparent 1px);
+    background-size: 40px 40px;
+  }
+
+  .map-canvas::before {
+    content: 'GLOBAL INCIDENT DISTRIBUTION';
+    position: absolute;
+    top: 12px; left: 16px;
+    font-family: var(--mono);
+    font-size: 10px;
+    letter-spacing: 0.15em;
+    color: var(--ink-faint);
+  }
+
+  .map-canvas::after {
+    content: 'N=412';
+    position: absolute;
+    top: 12px; right: 16px;
+    font-family: var(--mono);
+    font-size: 10px;
+    letter-spacing: 0.1em;
+    color: var(--amber);
+  }
+
+  /* Continent outlines (rough, schematic) */
+  .map-svg {
+    position: absolute;
+    inset: 0;
+    width: 100%; height: 100%;
+  }
+
+  .map-svg path {
+    fill: none;
+    stroke: var(--rule-strong);
+    stroke-width: 1;
+  }
+
+  .map-dot {
+    position: absolute;
+    width: 6px; height: 6px;
+    background: var(--amber);
+    border-radius: 50%;
+    box-shadow: 0 0 8px var(--amber);
+    transform: translate(-50%, -50%);
+    animation: pulse 3s ease-in-out infinite;
+  }
+
+  .map-dot.unresolved { background: #ff5544; box-shadow: 0 0 8px #ff5544; }
+  .map-dot.identified { background: #5588cc; box-shadow: 0 0 8px #5588cc; opacity: 0.5; }
+
+  @keyframes pulse {
+    0%, 100% { transform: translate(-50%, -50%) scale(1); opacity: 1; }
+    50% { transform: translate(-50%, -50%) scale(1.4); opacity: 0.7; }
+  }
+
+  /* Incident table */
+  .incident-table {
+    width: 100%;
+    font-family: var(--mono);
+    font-size: 12px;
+    border-collapse: collapse;
+  }
+
+  .incident-table thead th {
+    text-align: left;
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    color: var(--ink-faint);
+    padding: 10px 12px;
+    border-bottom: 1px solid var(--rule-strong);
+    font-weight: 400;
+  }
+
+  .incident-table tbody tr {
+    border-bottom: 1px solid var(--rule);
+    cursor: pointer;
+    transition: background 0.15s;
+  }
+
+  .incident-table tbody tr:hover {
+    background: rgba(255, 153, 51, 0.04);
+  }
+
+  .incident-table tbody td {
+    padding: 14px 12px;
+    color: var(--ink);
+    vertical-align: top;
+  }
+
+  .incident-table .col-id {
+    color: var(--ink-faint);
+    font-size: 11px;
+    width: 90px;
+  }
+
+  .incident-table .col-date {
+    color: var(--amber-dim);
+    width: 110px;
+  }
+
+  .incident-table .col-summary {
+    color: var(--ink);
+  }
+
+  .incident-table .col-summary .redacted {
+    background: var(--ink);
+    color: var(--ink);
+    user-select: none;
+  }
+
+  .incident-table .col-loc {
+    color: var(--ink-dim);
+    width: 140px;
+  }
+
+  .incident-table .col-tag {
+    width: 110px;
+  }
+
+  .tag {
+    display: inline-block;
+    font-family: var(--mono);
+    font-size: 9px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    padding: 3px 8px;
+    border: 1px solid currentColor;
+  }
+
+  .tag.unresolved { color: #ff5544; }
+  .tag.identified { color: #5588cc; }
+  .tag.insufficient { color: var(--ink-faint); }
+  .tag.eyewitness { color: var(--amber); }
+  .tag.infrared { color: #d4a868; }
+  .tag.radar { color: #66cc88; }
+  .tag.photo { color: var(--ink-dim); }
+
+  /* Featured incident card */
+  .feature {
+    background: var(--bg-paper);
+    border: 1px solid var(--rule-strong);
+    padding: 32px;
+    margin-bottom: 48px;
+    position: relative;
+  }
+
+  .feature::before {
+    content: 'FEATURED CASE';
+    position: absolute;
+    top: -1px; left: 24px;
+    background: var(--bg);
+    padding: 0 12px;
+    font-family: var(--mono);
+    font-size: 10px;
+    letter-spacing: 0.2em;
+    color: var(--amber);
+    transform: translateY(-50%);
+  }
+
+  .feature-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 32px;
+  }
+
+  .feature-meta {
+    font-family: var(--mono);
+    font-size: 11px;
+    color: var(--ink-faint);
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    margin-bottom: 16px;
+  }
+
+  .feature h2 {
+    font-family: var(--type);
+    font-size: 28px;
+    line-height: 1.2;
+    color: var(--ink);
+    margin-bottom: 20px;
+    font-weight: 400;
+  }
+
+  .feature-body {
+    font-family: var(--serif);
+    font-size: 16px;
+    line-height: 1.7;
+    color: var(--ink-dim);
+    margin-bottom: 20px;
+  }
+
+  .feature-quote {
+    border-left: 2px solid var(--amber);
+    padding: 8px 16px;
+    margin: 16px 0;
+    font-family: var(--mono);
+    font-size: 12px;
+    color: var(--ink);
+    background: rgba(255, 153, 51, 0.04);
+  }
+
+  .feature-quote::before {
+    content: 'VERBATIM EXCERPT // ';
+    color: var(--amber);
+    font-size: 10px;
+    letter-spacing: 0.1em;
+    display: block;
+    margin-bottom: 4px;
+  }
+
+  .feature-doc {
+    background: var(--bg);
+    border: 1px solid var(--rule);
+    padding: 24px;
+    font-family: var(--mono);
+    font-size: 11px;
+    color: var(--ink-dim);
+    line-height: 1.8;
+    position: relative;
+    min-height: 280px;
+  }
+
+  .feature-doc::before {
+    content: 'TYPED REPORT // PAGE 1 of 4';
+    position: absolute;
+    top: 8px; right: 12px;
+    font-size: 9px;
+    color: var(--ink-faint);
+    letter-spacing: 0.1em;
+  }
+
+  .feature-doc .doc-stamp {
+    position: absolute;
+    top: 24px; right: 24px;
+    transform: rotate(8deg);
+    border: 2px solid var(--stamp);
+    color: var(--stamp);
+    font-family: var(--mono);
+    font-weight: 700;
+    font-size: 12px;
+    padding: 4px 10px;
+    letter-spacing: 0.15em;
+    opacity: 0.7;
+  }
+
+  .feature-doc p { margin-bottom: 10px; }
+
+  .feature-doc .red {
+    background: var(--ink-dim);
+    color: var(--ink-dim);
+    user-select: none;
+    padding: 0 4px;
+  }
+
+  /* Ask CTA */
+  .ask-cta {
+    margin: 64px 0;
+    padding: 48px 32px;
+    border-top: 1px solid var(--rule);
+    border-bottom: 1px solid var(--rule);
+    text-align: center;
+    background: var(--bg-elev);
+  }
+
+  .ask-cta-label {
+    font-family: var(--mono);
+    font-size: 11px;
+    color: var(--amber);
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    margin-bottom: 12px;
+  }
+
+  .ask-cta h2 {
+    font-family: var(--type);
+    font-size: 36px;
+    color: var(--ink);
+    font-weight: 400;
+    margin-bottom: 16px;
+  }
+
+  .ask-cta p {
+    font-family: var(--serif);
+    font-size: 17px;
+    color: var(--ink-dim);
+    margin-bottom: 32px;
+    font-style: italic;
+  }
+
+  .ask-input-wrap {
+    max-width: 640px;
+    margin: 0 auto;
+    position: relative;
+  }
+
+  .ask-input {
+    width: 100%;
+    background: var(--bg);
+    border: 1px solid var(--rule-strong);
+    padding: 16px 20px 16px 44px;
+    font-family: var(--mono);
+    font-size: 14px;
+    color: var(--ink);
+    outline: none;
+    transition: border-color 0.2s;
+  }
+
+  .ask-input:focus {
+    border-color: var(--amber);
+  }
+
+  .ask-input-wrap::before {
+    content: '>';
+    position: absolute;
+    left: 20px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: var(--amber);
+    font-family: var(--mono);
+    font-size: 16px;
+    font-weight: 700;
+  }
+
+  .ask-input-wrap::after {
+    content: 'ENTER ↵';
+    position: absolute;
+    right: 16px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: var(--ink-faint);
+    font-family: var(--mono);
+    font-size: 10px;
+    letter-spacing: 0.1em;
+    pointer-events: none;
+  }
+
+  .ask-examples {
+    margin-top: 24px;
+    display: flex;
+    gap: 12px;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .ask-example {
+    font-family: var(--mono);
+    font-size: 11px;
+    color: var(--ink-dim);
+    border: 1px solid var(--rule);
+    padding: 6px 12px;
+    cursor: pointer;
+    transition: all 0.15s;
+  }
+
+  .ask-example:hover {
+    border-color: var(--amber);
+    color: var(--amber);
+  }
+
+  /* Footer */
+  .footer {
+    border-top: 1px solid var(--rule);
+    padding: 40px 24px;
+    max-width: 1280px;
+    margin: 0 auto;
+    font-family: var(--mono);
+    font-size: 11px;
+    color: var(--ink-faint);
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 32px;
+  }
+
+  .footer h4 {
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    margin-bottom: 12px;
+    color: var(--ink-dim);
+  }
+
+  .footer a {
+    color: var(--ink-faint);
+    text-decoration: none;
+    display: block;
+    padding: 3px 0;
+    transition: color 0.15s;
+  }
+
+  .footer a:hover { color: var(--amber); }
+
+  .footer .transmission-end {
+    grid-column: 1 / -1;
+    text-align: center;
+    border-top: 1px solid var(--rule);
+    padding-top: 24px;
+    margin-top: 24px;
+    color: var(--ink-faint);
+    letter-spacing: 0.2em;
+  }
+
+  /* Responsive */
+  @media (max-width: 900px) {
+    .main { grid-template-columns: 1fr; }
+    .feature-grid { grid-template-columns: 1fr; }
+    .stats { grid-template-columns: repeat(2, 1fr); }
+    .footer { grid-template-columns: 1fr; }
+    .nav { display: none; }
+  }
+</style>
+</head>
+<body>
+
+<!-- TOP TRANSMISSION BAR -->
+<div class="top-bar">
+  <div class="top-bar-inner">
+    <div class="top-bar-left">
+      <span class="blink"></span>
+      <span>PURSUELOG // TRANSMISSION ACTIVE</span>
+    </div>
+    <nav class="nav">
+      <a href="#" class="active">archive</a>
+      <a href="#">map</a>
+      <a href="#">timeline</a>
+      <a href="#">ask</a>
+      <a href="#">data</a>
+      <a href="#">releases</a>
+      <a href="#">about</a>
+    </nav>
+  </div>
+</div>
+
+<!-- HERO -->
+<section class="hero">
+  <div class="hero-meta">
+    <span>TRANCHE 01</span>
+    <span>162 SOURCE FILES</span>
+    <span>LAST UPDATED 08 MAY 2026</span>
+  </div>
+
+  <h1 class="hero-title">
+    THE PURSUE<br>
+    <span class="stamp-wrap">
+      ARCHIVE
+      <span class="hero-stamp">DECLASSIFIED</span>
+    </span>
+  </h1>
+
+  <p class="hero-sub">
+    A searchable record of every <em>unidentified anomalous phenomenon</em> incident in the U.S. government's declassified files. Every claim sourced. Every document linked. Decide for yourself.
+  </p>
+</section>
+
+<!-- STATS -->
+<section class="stats">
+  <div class="stat">
+    <div class="stat-label">// Incidents indexed</div>
+    <div class="stat-value">412</div>
+  </div>
+  <div class="stat">
+    <div class="stat-label">// Years covered</div>
+    <div class="stat-value">79<span class="unit">1947–2025</span></div>
+  </div>
+  <div class="stat">
+    <div class="stat-label">// Countries</div>
+    <div class="stat-value">37</div>
+  </div>
+  <div class="stat">
+    <div class="stat-label">// Unresolved</div>
+    <div class="stat-value">298<span class="unit">72%</span></div>
+  </div>
+</section>
+
+<!-- MAIN CONTENT -->
+<div class="main">
+
+  <!-- SIDEBAR -->
+  <aside class="sidebar">
+    <h3>Decade</h3>
+    <ul class="filter-list">
+      <li><span>1940s</span><span class="count">8</span></li>
+      <li><span>1950s</span><span class="count">47</span></li>
+      <li><span>1960s</span><span class="count">62</span></li>
+      <li><span>1970s</span><span class="count">31</span></li>
+      <li><span>1980s</span><span class="count">28</span></li>
+      <li><span>1990s</span><span class="count">22</span></li>
+      <li><span>2000s</span><span class="count">2</span></li>
+      <li><span>2010s</span><span class="count">94</span></li>
+      <li class="active"><span>2020s</span><span class="count">118</span></li>
+    </ul>
+
+    <h3>Branch</h3>
+    <ul class="filter-list">
+      <li><span>USAF</span><span class="count">134</span></li>
+      <li><span>USN</span><span class="count">89</span></li>
+      <li><span>USMC</span><span class="count">14</span></li>
+      <li><span>NORTHCOM</span><span class="count">22</span></li>
+      <li><span>NASA</span><span class="count">12</span></li>
+      <li><span>FBI</span><span class="count">43</span></li>
+      <li><span>State Dept</span><span class="count">28</span></li>
+    </ul>
+
+    <h3>Sensor</h3>
+    <ul class="filter-list">
+      <li><span>Eyewitness</span><span class="count">287</span></li>
+      <li><span>Infrared</span><span class="count">78</span></li>
+      <li><span>Radar</span><span class="count">54</span></li>
+      <li><span>Photo</span><span class="count">102</span></li>
+    </ul>
+
+    <h3>Status</h3>
+    <ul class="filter-list">
+      <li><span>Unresolved</span><span class="count">298</span></li>
+      <li><span>Identified</span><span class="count">41</span></li>
+      <li><span>Insufficient</span><span class="count">73</span></li>
+    </ul>
+  </aside>
+
+  <!-- MAIN COLUMN -->
+  <main>
+
+    <!-- FEATURED CASE -->
+    <article class="feature">
+      <div class="feature-grid">
+        <div>
+          <div class="feature-meta">CASE 2024-INDOPACOM-0412 // INFRARED</div>
+          <h2>Football-shaped object near Japan</h2>
+          <p class="feature-body">
+            U.S. Indo-Pacific Command submitted a 2024 image capture of an apparent football-shaped body intercepted by an infrared sensor over the western Pacific. The object's velocity, altitude, and origin remain unresolved across the official intelligence assessment.
+          </p>
+          <div class="feature-quote">
+            "...the object exhibited no observable thermal exhaust signature. Track lasted 0:47 before sensor lost contact at the eastern edge of the engagement window."
+          </div>
+          <p class="feature-body" style="font-size: 13px; color: var(--ink-faint); font-family: var(--mono); font-style: normal;">
+            → 3 corroborating eyewitness reports · 1 declassified video · status: UNRESOLVED
+          </p>
+        </div>
+        <div class="feature-doc">
+          <div class="doc-stamp">UNCLASS//FOUO</div>
+          <p style="margin-top: 32px;">DEPT OF WAR // INTEL ASSESSMENT</p>
+          <p>DTG: 12 AUG 2024 / 1430Z</p>
+          <p>SUBJ: UAP CONTACT — IPACOM AOR</p>
+          <br>
+          <p>1. (U) At <span class="red">██████</span> hours local, IR sensor aboard <span class="red">██████████████</span> registered a single-track unidentified object at bearing <span class="red">███</span>°, range <span class="red">██</span>nm.</p>
+          <br>
+          <p>2. (U) Object profile: ellipsoid / football geometry. Estimated length 130–195 ft. No observable thermal exhaust.</p>
+          <br>
+          <p>3. (U) Track duration: 47 seconds. Loss of contact at <span class="red">██████</span>.</p>
+          <br>
+          <p>4. (U) Resolution status: UNRESOLVED. Insufficient corroborating sensor data to support identification under current AARO criteria.</p>
+        </div>
+      </div>
+    </article>
+
+    <!-- MAP -->
+    <section class="content-block">
+      <header class="block-header">
+        <span class="block-title">// Global incident map</span>
+        <span class="block-meta">click any marker for case file</span>
+      </header>
+      <div class="map-canvas">
+        <svg class="map-svg" viewBox="0 0 1000 380" preserveAspectRatio="none">
+          <!-- Schematic continent outlines, very rough -->
+          <path d="M 80 100 Q 120 80 180 90 L 220 110 L 240 160 L 200 200 L 150 210 L 100 180 Z" />
+          <path d="M 280 130 Q 320 110 360 120 L 380 180 L 340 220 L 290 200 Z" />
+          <path d="M 420 90 Q 480 70 560 80 L 620 100 L 640 140 L 580 170 L 500 160 L 440 130 Z" />
+          <path d="M 460 200 Q 510 220 540 260 L 480 290 L 440 250 Z" />
+          <path d="M 700 100 Q 780 90 850 110 L 880 160 L 820 200 L 740 180 L 700 140 Z" />
+          <path d="M 820 220 Q 870 230 900 270 L 870 300 L 830 290 L 810 260 Z" />
+        </svg>
+        <!-- Incident dots -->
+        <div class="map-dot unresolved" style="top:42%; left:55%;"></div>
+        <div class="map-dot unresolved" style="top:38%; left:58%;"></div>
+        <div class="map-dot" style="top:30%; left:28%;"></div>
+        <div class="map-dot" style="top:35%; left:31%;"></div>
+        <div class="map-dot identified" style="top:48%; left:75%;"></div>
+        <div class="map-dot unresolved" style="top:52%; left:82%;"></div>
+        <div class="map-dot" style="top:60%; left:48%;"></div>
+        <div class="map-dot" style="top:33%; left:68%;"></div>
+        <div class="map-dot unresolved" style="top:45%; left:50%;"></div>
+        <div class="map-dot" style="top:50%; left:62%;"></div>
+        <div class="map-dot" style="top:28%; left:25%;"></div>
+        <div class="map-dot identified" style="top:55%; left:36%;"></div>
+        <div class="map-dot unresolved" style="top:40%; left:84%;"></div>
+        <div class="map-dot" style="top:65%; left:78%;"></div>
+        <div class="map-dot" style="top:32%; left:73%;"></div>
+        <div class="map-dot unresolved" style="top:46%; left:30%;"></div>
+        <div class="map-dot" style="top:48%; left:54%;"></div>
+        <div class="map-dot identified" style="top:36%; left:60%;"></div>
+      </div>
+    </section>
+
+    <!-- INCIDENT LIST -->
+    <section class="content-block">
+      <header class="block-header">
+        <span class="block-title">// Recent additions</span>
+        <span class="block-meta">8 of 412 · view all →</span>
+      </header>
+      <table class="incident-table">
+        <thead>
+          <tr>
+            <th class="col-id">Case ID</th>
+            <th class="col-date">Date</th>
+            <th class="col-loc">Location</th>
+            <th class="col-summary">Summary</th>
+            <th class="col-tag">Sensor</th>
+            <th class="col-tag">Status</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="col-id">2024-IPC-0412</td>
+            <td class="col-date">2024.08.12</td>
+            <td class="col-loc">W. Pacific / Japan</td>
+            <td class="col-summary">Football-shaped object intercepted by IR sensor, 47s track, no thermal signature</td>
+            <td class="col-tag"><span class="tag infrared">infrared</span></td>
+            <td class="col-tag"><span class="tag unresolved">unresolved</span></td>
+          </tr>
+          <tr>
+            <td class="col-id">2024-NORTHCOM-021</td>
+            <td class="col-date">2024.05.04</td>
+            <td class="col-loc">W. United States</td>
+            <td class="col-summary">21-second IR footage from U.S. military platform, single track at altitude</td>
+            <td class="col-tag"><span class="tag infrared">infrared</span></td>
+            <td class="col-tag"><span class="tag unresolved">unresolved</span></td>
+          </tr>
+          <tr>
+            <td class="col-id">2024-CENTCOM-114</td>
+            <td class="col-date">2024.03.18</td>
+            <td class="col-loc">Syria</td>
+            <td class="col-summary">Multiple glares of unknown origin observed during overwatch operations</td>
+            <td class="col-tag"><span class="tag eyewitness">eyewitness</span></td>
+            <td class="col-tag"><span class="tag insufficient">insufficient</span></td>
+          </tr>
+          <tr>
+            <td class="col-id">2023-EYE-0904</td>
+            <td class="col-date">2023.09.04</td>
+            <td class="col-loc"><span class="redacted">████████</span></td>
+            <td class="col-summary">Bronze ellipsoid, 130–195ft length, materializing from bright light, 9 seconds</td>
+            <td class="col-tag"><span class="tag eyewitness">eyewitness</span></td>
+            <td class="col-tag"><span class="tag unresolved">unresolved</span></td>
+          </tr>
+          <tr>
+            <td class="col-id">2022-IRAQ-008</td>
+            <td class="col-date">2022.11.22</td>
+            <td class="col-loc">Iraq</td>
+            <td class="col-summary">"One possible small UAP" observed during base perimeter sweep</td>
+            <td class="col-tag"><span class="tag eyewitness">eyewitness</span></td>
+            <td class="col-tag"><span class="tag insufficient">insufficient</span></td>
+          </tr>
+          <tr>
+            <td class="col-id">1994-DOS-TJK-007</td>
+            <td class="col-date">1994.07.21</td>
+            <td class="col-loc">Tajikistan</td>
+            <td class="col-summary">Commercial pilot, crew sighting at 41,000ft, cabled by U.S. Embassy</td>
+            <td class="col-tag"><span class="tag eyewitness">eyewitness</span></td>
+            <td class="col-tag"><span class="tag insufficient">insufficient</span></td>
+          </tr>
+          <tr>
+            <td class="col-id">1969-NASA-A12</td>
+            <td class="col-date">1969.11.19</td>
+            <td class="col-loc">Lunar surface</td>
+            <td class="col-summary">Apollo 12 crew transcript, lights observed above lunar terrain</td>
+            <td class="col-tag"><span class="tag photo">photo</span></td>
+            <td class="col-tag"><span class="tag identified">identified</span></td>
+          </tr>
+          <tr>
+            <td class="col-id">1947-FBI-RSW</td>
+            <td class="col-date">1947.07.08</td>
+            <td class="col-loc">Roswell, NM</td>
+            <td class="col-summary">FBI Dallas memo: USAF major reports recovered "flying disc" near Roswell</td>
+            <td class="col-tag"><span class="tag eyewitness">eyewitness</span></td>
+            <td class="col-tag"><span class="tag identified">identified</span></td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+  </main>
+</div>
+
+<!-- ASK CTA -->
+<section class="ask-cta">
+  <div class="ask-cta-label">// Query the archive</div>
+  <h2>Ask anything.</h2>
+  <p>Every answer is grounded in the 412-incident corpus. Every claim cites its source.</p>
+  <div class="ask-input-wrap">
+    <input type="text" class="ask-input" placeholder="What naval encounters had radar corroboration in the 2010s?" />
+  </div>
+  <div class="ask-examples">
+    <span class="ask-example">// show me apollo-era nasa transcripts</span>
+    <span class="ask-example">// state dept cables from the 1990s</span>
+    <span class="ask-example">// roswell, full case file</span>
+    <span class="ask-example">// every infrared encounter in 2024</span>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer class="footer">
+  <div>
+    <h4>The archive</h4>
+    <a href="#">Browse all incidents</a>
+    <a href="#">Map view</a>
+    <a href="#">Timeline</a>
+    <a href="#">Ask the archive</a>
+  </div>
+  <div>
+    <h4>Data + code</h4>
+    <a href="#">Download dataset (CSV)</a>
+    <a href="#">Download dataset (JSON)</a>
+    <a href="#">SQL dump</a>
+    <a href="#">GitHub repo</a>
+    <a href="#">API documentation</a>
+  </div>
+  <div>
+    <h4>About</h4>
+    <a href="#">Methodology</a>
+    <a href="#">Sources</a>
+    <a href="#">Releases log</a>
+    <a href="#">Contact</a>
+    <a href="#">RSS</a>
+  </div>
+  <div class="transmission-end">
+    PURSUELOG.COM // DATA SOURCED FROM WAR.GOV/UFO // NOT AFFILIATED WITH THE U.S. GOVERNMENT // TRANSMISSION ENDS ▌
+  </div>
+</footer>
+
+</body>
+</html>

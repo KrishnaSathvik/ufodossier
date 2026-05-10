@@ -1,0 +1,14 @@
+/* TEAM */
+Site: UFO Dossier
+URL: https://ufodossier.com
+
+/* THANKS */
+Source data: U.S. Department of War (war.gov/UFO)
+AARO: All-domain Anomaly Resolution Office
+DVIDS: Defense Visual Information Distribution Service
+
+/* SITE */
+Standards: HTML5, CSS3
+Software: Next.js, Tailwind CSS, Supabase, Vercel
+Extraction: Claude Haiku (substring-validated)
+RAG: Claude Sonnet + Voyage AI embeddings

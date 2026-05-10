@@ -1,0 +1,44 @@
+# environment
+.env
+.env.local
+.env*.local
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# node
+node_modules/
+
+# os
+.DS_Store
+Thumbs.db
+
+# ide
+.idea/
+.vscode/
+*.swp
+
+# pipeline outputs
+pipeline/outputs/
+
+# embedded repos (cloned data sources)
+pursue-ufo-files/
+uap-release-01/
+
+# next.js
+.next/
+web/.next/
+web/out/
+
+# playwright mcp logs
+.playwright-mcp/
+
+# build artifacts
+*.tsbuildinfo
+
+# backups
+*.backup.tsx
+*.backup.ts

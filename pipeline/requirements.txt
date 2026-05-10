@@ -1,0 +1,9 @@
+anthropic>=0.40.0
+supabase>=2.5.0
+httpx>=0.27.0
+pypdf>=4.0.0
+
+# Only needed for tranches 2+ where we OCR locally instead of importing
+# pre-OCR'd text from the UFO-USA mirror. Leave commented for Release 01.
+# pdf2image>=1.17.0
+# pytesseract>=0.3.10
