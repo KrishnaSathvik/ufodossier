@@ -81,11 +81,11 @@ export default async function CollectionPage({ params }: { params: Promise<{ slu
         "@type": "CollectionPage",
         name: collection.title,
         description: collection.standfirst,
-        url: `https://ufodossier.com/collections/${slug}`,
+        url: `https://www.ufodossier.com/collections/${slug}`,
         isPartOf: {
           "@type": "Dataset",
           name: "UFO Dossier — Declassified UAP Archive",
-          url: "https://ufodossier.com",
+          url: "https://www.ufodossier.com",
         },
       }} />
       <TopBar active="collections" />

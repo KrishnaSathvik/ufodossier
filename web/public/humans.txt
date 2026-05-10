@@ -1,6 +1,6 @@
 /* TEAM */
 Site: UFO Dossier
-URL: https://ufodossier.com
+URL: https://www.ufodossier.com
 
 /* THANKS */
 Source data: U.S. Department of War (war.gov/UFO)

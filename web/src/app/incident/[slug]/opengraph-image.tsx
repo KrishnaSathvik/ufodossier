@@ -4,57 +4,96 @@ import { getSupabaseServer } from "@/lib/supabase";
 export const runtime = "edge";
 export const contentType = "image/png";
 export const size = { width: 1200, height: 630 };
+export const revalidate = 604800; // 1 week
 
-// Font loading with defensive fallbacks
-let specialEliteFont: ArrayBuffer | null = null;
-let jetBrainsFont: ArrayBuffer | null = null;
-let fontsLoaded = false;
-
-async function loadFonts() {
-  if (fontsLoaded) return;
-
-  const controller = new AbortController();
-  const timeout = setTimeout(() => controller.abort(), 5000);
-
+// ---------------------------------------------------------------------------
+// Font loading — each fetch gets its own 5-second timeout
+// ---------------------------------------------------------------------------
+async function loadFont(
+  family: string,
+  weight: number,
+): Promise<ArrayBuffer | null> {
   try {
-    const seCssRes = await fetch(
-      "https://fonts.googleapis.com/css2?family=Special+Elite&display=swap",
-      { signal: controller.signal, headers: { "User-Agent": "Mozilla/5.0" } }
+    const ctrl1 = new AbortController();
+    const t1 = setTimeout(() => ctrl1.abort(), 5000);
+    const cssRes = await fetch(
+      `https://fonts.googleapis.com/css2?family=${family.replace(/ /g, "+")}:wght@${weight}&display=swap`,
+      { signal: ctrl1.signal, headers: { "User-Agent": "Mozilla/5.0" } },
     );
-    const seCss = await seCssRes.text();
-    const seUrl = seCss.match(/src:\s*url\(([^)]+\.woff2)\)/)?.[1];
-    if (seUrl) {
-      const seRes = await fetch(seUrl, { signal: controller.signal });
-      specialEliteFont = await seRes.arrayBuffer();
-    }
-  } catch (e) {
-    console.error("Failed to load Special Elite font:", e);
-  }
+    const css = await cssRes.text();
+    clearTimeout(t1);
 
-  try {
-    const jbCssRes = await fetch(
-      "https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400&display=swap",
-      { signal: controller.signal, headers: { "User-Agent": "Mozilla/5.0" } }
+    const url = css.match(/src:\s*url\(([^)]+\.woff2)\)/)?.[1];
+    if (!url) return null;
+
+    const ctrl2 = new AbortController();
+    const t2 = setTimeout(() => ctrl2.abort(), 5000);
+    const buf = await fetch(url, { signal: ctrl2.signal }).then((r) =>
+      r.arrayBuffer(),
     );
-    const jbCss = await jbCssRes.text();
-    const jbUrl = jbCss.match(/src:\s*url\(([^)]+\.woff2)\)/)?.[1];
-    if (jbUrl) {
-      const jbRes = await fetch(jbUrl, { signal: controller.signal });
-      jetBrainsFont = await jbRes.arrayBuffer();
-    }
+    clearTimeout(t2);
+    return buf;
   } catch (e) {
-    console.error("Failed to load JetBrains Mono font:", e);
+    console.error(`Font load failed (${family}):`, e);
+    return null;
   }
-
-  clearTimeout(timeout);
-  fontsLoaded = true;
 }
 
-export default async function OGImage({ params }: { params: { slug: string } }) {
-  const { slug } = params;
+// ---------------------------------------------------------------------------
+// Image fetching — 5-second timeout, returns data-URL or null
+// ---------------------------------------------------------------------------
+async function fetchImageData(url: string): Promise<string | null> {
+  try {
+    const controller = new AbortController();
+    const id = setTimeout(() => controller.abort(), 5000);
+    const res = await fetch(url, { signal: controller.signal });
+    clearTimeout(id);
+    if (!res.ok) return null;
+    const buf = await res.arrayBuffer();
+    const bytes = new Uint8Array(buf);
+    let binary = "";
+    for (let i = 0; i < bytes.length; i++) {
+      binary += String.fromCharCode(bytes[i]);
+    }
+    const mime = res.headers.get("content-type") || "image/jpeg";
+    return `data:${mime};base64,${btoa(binary)}`;
+  } catch (e) {
+    console.error("Image fetch failed:", e);
+    return null;
+  }
+}
 
-  await loadFonts();
+// ---------------------------------------------------------------------------
+// OG image handler
+// ---------------------------------------------------------------------------
+export default async function OGImage({
+  params,
+}: {
+  params: Promise<{ slug: string }>;
+}) {
+  const { slug } = await params;
 
+  // Load Newsreader + JetBrains Mono in parallel
+  const [newsreaderBuf, jetBrainsBuf] = await Promise.all([
+    loadFont("Newsreader", 500),
+    loadFont("JetBrains Mono", 400),
+  ]);
+
+  const fonts: { name: string; data: ArrayBuffer; style: "normal" }[] = [];
+  if (newsreaderBuf)
+    fonts.push({ name: "Newsreader", data: newsreaderBuf, style: "normal" });
+  if (jetBrainsBuf)
+    fonts.push({
+      name: "JetBrains Mono",
+      data: jetBrainsBuf,
+      style: "normal",
+    });
+
+  const serifFont = newsreaderBuf ? "Newsreader" : "Georgia, serif";
+  const monoFont = jetBrainsBuf ? "JetBrains Mono" : "Courier, monospace";
+  const fontOpts = fonts.length > 0 ? fonts : undefined;
+
+  // ---- Query incident ----
   const sb = getSupabaseServer();
   const { data: slugRow } = await sb
     .from("incidents")
@@ -63,50 +102,205 @@ export default async function OGImage({ params }: { params: { slug: string } }) 
     .single();
 
   if (!slugRow) {
-    // Return a generic fallback
     return new ImageResponse(
       (
-        <div style={{ width: "100%", height: "100%", display: "flex", alignItems: "center", justifyContent: "center", backgroundColor: "#0a0a0a", color: "#e8e6e0", fontSize: "32px" }}>
+        <div
+          style={{
+            width: "100%",
+            height: "100%",
+            display: "flex",
+            alignItems: "center",
+            justifyContent: "center",
+            backgroundColor: "#faf8f3",
+            fontFamily: serifFont,
+            fontSize: "32px",
+            color: "#1a1a1a",
+          }}
+        >
           UFO Dossier
         </div>
       ),
-      size
+      { ...size, fonts: fontOpts },
     );
   }
 
   const { data: incident } = await sb
     .from("v_incident_full")
-    .select("title, summary, occurred_at, occurred_at_text, branch, location_text, resolution_status, source_agency, case_id")
+    .select(
+      "title, case_id, occurred_at, occurred_at_text, location_text, branch, source_agency, image_url, video_url, cover_image_url, source_cover_image_url",
+    )
     .eq("id", slugRow.id)
     .single();
 
   if (!incident) {
     return new ImageResponse(
       (
-        <div style={{ width: "100%", height: "100%", display: "flex", alignItems: "center", justifyContent: "center", backgroundColor: "#0a0a0a", color: "#e8e6e0", fontSize: "32px" }}>
+        <div
+          style={{
+            width: "100%",
+            height: "100%",
+            display: "flex",
+            alignItems: "center",
+            justifyContent: "center",
+            backgroundColor: "#faf8f3",
+            fontFamily: serifFont,
+            fontSize: "32px",
+            color: "#1a1a1a",
+          }}
+        >
           UFO Dossier
         </div>
       ),
-      size
+      { ...size, fonts: fontOpts },
     );
   }
 
+  // ---- Prepare text ----
+  const caseId = incident.case_id ?? "";
   const date = incident.occurred_at ?? incident.occurred_at_text ?? "Undated";
   const branch = incident.branch ?? incident.source_agency ?? "";
-  const status = incident.resolution_status?.replace("_", " ").toUpperCase() ?? "";
-  const title = incident.title.length > 90 ? incident.title.slice(0, 87) + "..." : incident.title;
-  const summary = incident.summary
-    ? incident.summary.length > 180
-      ? incident.summary.slice(0, 177) + "..."
-      : incident.summary
+  const location = incident.location_text
+    ? incident.location_text.length > 35
+      ? incident.location_text.slice(0, 32) + "..."
+      : incident.location_text
     : "";
+  const metaLine = [String(date), location, branch]
+    .filter(Boolean)
+    .join("  \u00b7  ");
 
-  const fonts: { name: string; data: ArrayBuffer; style: "normal" }[] = [];
-  if (specialEliteFont) fonts.push({ name: "Special Elite", data: specialEliteFont, style: "normal" });
-  if (jetBrainsFont) fonts.push({ name: "JetBrains Mono", data: jetBrainsFont, style: "normal" });
+  // ---- Pick lead visual (priority chain) ----
+  const visualUrl =
+    incident.image_url ||
+    incident.cover_image_url ||
+    incident.source_cover_image_url ||
+    null;
 
-  const titleFont = specialEliteFont ? "Special Elite" : "serif";
-  const monoFont = jetBrainsFont ? "JetBrains Mono" : "monospace";
+  let imageData: string | null = null;
+  if (visualUrl) {
+    imageData = await fetchImageData(visualUrl);
+  }
+
+  // ===========================================================================
+  // VARIANT 1 — Media layout (real image / document cover)
+  // ===========================================================================
+  if (imageData) {
+    const title =
+      incident.title.length > 100
+        ? incident.title.slice(0, 97) + "..."
+        : incident.title;
+
+    return new ImageResponse(
+      (
+        <div
+          style={{
+            width: "100%",
+            height: "100%",
+            display: "flex",
+            position: "relative",
+          }}
+        >
+          {/* Full-bleed image */}
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img
+            src={imageData}
+            alt=""
+            style={{
+              position: "absolute",
+              top: 0,
+              left: 0,
+              width: "100%",
+              height: "100%",
+              objectFit: "cover",
+            }}
+          />
+
+          {/* Bottom gradient overlay (~35% of 630 = 220px) */}
+          <div
+            style={{
+              position: "absolute",
+              bottom: 0,
+              left: 0,
+              right: 0,
+              height: "220px",
+              display: "flex",
+              flexDirection: "column",
+              justifyContent: "flex-end",
+              padding: "0 60px 40px 60px",
+              background:
+                "linear-gradient(to top, rgba(0,0,0,0.85) 0%, transparent 100%)",
+            }}
+          >
+            <div style={{ display: "flex", flexDirection: "column" }}>
+              {caseId && (
+                <span
+                  style={{
+                    fontFamily: monoFont,
+                    fontSize: "18px",
+                    color: "rgba(255,255,255,0.7)",
+                    letterSpacing: "0.1em",
+                    marginBottom: "8px",
+                  }}
+                >
+                  {caseId}
+                </span>
+              )}
+              <span
+                style={{
+                  fontFamily: serifFont,
+                  fontSize: "42px",
+                  color: "#ffffff",
+                  lineHeight: 1.15,
+                  marginBottom: "10px",
+                }}
+              >
+                {title}
+              </span>
+              <span
+                style={{
+                  fontFamily: monoFont,
+                  fontSize: "16px",
+                  color: "rgba(255,255,255,0.6)",
+                }}
+              >
+                {metaLine}
+              </span>
+            </div>
+          </div>
+
+          {/* Top-right wordmark */}
+          <div
+            style={{
+              position: "absolute",
+              top: "30px",
+              right: "30px",
+              display: "flex",
+            }}
+          >
+            <span
+              style={{
+                fontFamily: monoFont,
+                fontSize: "14px",
+                letterSpacing: "0.15em",
+                color: "rgba(255,255,255,0.85)",
+                textShadow: "0 1px 4px rgba(0,0,0,0.6)",
+              }}
+            >
+              UFO DOSSIER
+            </span>
+          </div>
+        </div>
+      ),
+      { ...size, fonts: fontOpts },
+    );
+  }
+
+  // ===========================================================================
+  // VARIANT 2 — Typographic fallback (no media available)
+  // ===========================================================================
+  const title =
+    incident.title.length > 130
+      ? incident.title.slice(0, 127) + "..."
+      : incident.title;
 
   return new ImageResponse(
     (
@@ -116,123 +310,94 @@ export default async function OGImage({ params }: { params: { slug: string } }) 
           height: "100%",
           display: "flex",
           flexDirection: "column",
-          backgroundColor: "#0a0a0a",
-          color: "#e8e6e0",
-          padding: "60px",
+          backgroundColor: "#faf8f3",
+          padding: "30px",
           position: "relative",
         }}
       >
-        {/* Vignette border */}
+        {/* Hairline border inset 30px */}
         <div
           style={{
             position: "absolute",
-            top: 0,
-            left: 0,
-            right: 0,
-            bottom: 0,
-            border: "8px solid rgba(255,255,255,0.03)",
+            top: "30px",
+            left: "30px",
+            right: "30px",
+            bottom: "30px",
+            border: "1px solid #d8d4c8",
+            display: "flex",
           }}
         />
 
-        {/* Top bar */}
+        {/* Top-left wordmark */}
+        <div style={{ display: "flex", padding: "20px 30px 0" }}>
+          <span
+            style={{
+              fontFamily: monoFont,
+              fontSize: "16px",
+              letterSpacing: "0.15em",
+              color: "#5a584f",
+            }}
+          >
+            UFO DOSSIER
+          </span>
+        </div>
+
+        {/* Center content */}
         <div
           style={{
             display: "flex",
-            justifyContent: "space-between",
-            alignItems: "center",
-            marginBottom: "30px",
+            flexDirection: "column",
+            justifyContent: "center",
+            flex: 1,
+            padding: "0 80px",
           }}
         >
+          {caseId && (
+            <span
+              style={{
+                fontFamily: monoFont,
+                fontSize: "18px",
+                color: "#8a8780",
+                letterSpacing: "0.1em",
+                marginBottom: "12px",
+              }}
+            >
+              {caseId}
+            </span>
+          )}
+          <span
+            style={{
+              fontFamily: serifFont,
+              fontSize: "48px",
+              color: "#1a1a1a",
+              lineHeight: 1.15,
+              marginBottom: "24px",
+            }}
+          >
+            {title}
+          </span>
+          <span
+            style={{ fontFamily: monoFont, fontSize: "16px", color: "#5a584f" }}
+          >
+            {metaLine}
+          </span>
+        </div>
+
+        {/* Bottom label */}
+        <div style={{ display: "flex", padding: "0 30px 20px" }}>
           <span
             style={{
               fontFamily: monoFont,
               fontSize: "13px",
-              color: "#c8302a",
-              letterSpacing: "3px",
-              textTransform: "uppercase",
-              border: "1px solid #c8302a",
-              padding: "4px 12px",
+              letterSpacing: "0.15em",
+              color: "#8a8780",
             }}
           >
-            {status || "UNCLASSIFIED"}
-          </span>
-          <span
-            style={{
-              fontFamily: monoFont,
-              fontSize: "12px",
-              color: "#666",
-              letterSpacing: "2px",
-            }}
-          >
-            {incident.case_id}
-          </span>
-        </div>
-
-        {/* Title */}
-        <div
-          style={{
-            fontFamily: titleFont,
-            fontSize: "42px",
-            lineHeight: 1.15,
-            marginBottom: "20px",
-            maxWidth: "900px",
-          }}
-        >
-          {title}
-        </div>
-
-        {/* Summary */}
-        {summary && (
-          <div
-            style={{
-              fontSize: "18px",
-              lineHeight: 1.6,
-              color: "#999",
-              marginBottom: "auto",
-              maxWidth: "850px",
-            }}
-          >
-            {summary}
-          </div>
-        )}
-
-        {/* Bottom bar */}
-        <div
-          style={{
-            display: "flex",
-            justifyContent: "space-between",
-            alignItems: "flex-end",
-            borderTop: "1px solid #2a2925",
-            paddingTop: "20px",
-            marginTop: "20px",
-          }}
-        >
-          <div style={{ display: "flex", gap: "24px" }}>
-            <span style={{ fontFamily: monoFont, fontSize: "13px", color: "#888" }}>
-              {date}
-            </span>
-            {branch && (
-              <span style={{ fontFamily: monoFont, fontSize: "13px", color: "#888", textTransform: "uppercase" }}>
-                {branch}
-              </span>
-            )}
-            {incident.location_text && (
-              <span style={{ fontFamily: monoFont, fontSize: "13px", color: "#888" }}>
-                {incident.location_text.length > 40
-                  ? incident.location_text.slice(0, 37) + "..."
-                  : incident.location_text}
-              </span>
-            )}
-          </div>
-          <span style={{ fontFamily: monoFont, fontSize: "13px", color: "#ff9933" }}>
-            ufodossier.com
+            FROM THE DECLASSIFIED PURSUE RELEASE
           </span>
         </div>
       </div>
     ),
-    {
-      ...size,
-      fonts: fonts.length > 0 ? fonts : undefined,
-    }
+    { ...size, fonts: fontOpts },
   );
 }

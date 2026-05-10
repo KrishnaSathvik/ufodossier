@@ -17,8 +17,8 @@ export default function AboutPage() {
         "@type": "WebPage",
         name: "About This Archive — UFO Dossier",
         description: "Methodology, sources, and known limitations of the UFO Dossier declassified UAP archive.",
-        url: "https://ufodossier.com/about",
-        isPartOf: { "@type": "WebSite", name: "UFO Dossier", url: "https://ufodossier.com" },
+        url: "https://www.ufodossier.com/about",
+        isPartOf: { "@type": "WebSite", name: "UFO Dossier", url: "https://www.ufodossier.com" },
       }} />
       <TopBar active="about" />
 

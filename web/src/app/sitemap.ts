@@ -3,7 +3,7 @@ import { getSupabaseServer } from "@/lib/supabase";
 
 export const revalidate = 3600; // regenerate hourly
 
-const BASE = "https://ufodossier.com";
+const BASE = "https://www.ufodossier.com";
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const sb = getSupabaseServer();

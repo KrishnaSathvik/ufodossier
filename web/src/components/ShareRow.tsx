@@ -10,7 +10,7 @@ interface ShareRowProps {
 export function ShareRow({ url, title }: ShareRowProps) {
   const [copied, setCopied] = useState(false);
 
-  const fullUrl = `https://ufodossier.com${url}`;
+  const fullUrl = `https://www.ufodossier.com${url}`;
   const text = encodeURIComponent(title);
   const encodedUrl = encodeURIComponent(fullUrl);
 

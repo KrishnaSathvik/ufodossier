@@ -113,12 +113,12 @@ export default async function IncidentPage({ params }: { params: Promise<{ slug:
         name: incident.title,
         description: incident.summary,
         datePublished: incident.occurred_at ?? undefined,
-        url: `https://ufodossier.com/incident/${incident.slug ?? incident.id}`,
+        url: `https://www.ufodossier.com/incident/${incident.slug ?? incident.id}`,
         author: { "@type": "Organization", name: incident.source_agency ?? "U.S. Government" },
         isPartOf: {
           "@type": "Dataset",
           name: "UFO Dossier — Declassified UAP Archive",
-          url: "https://ufodossier.com",
+          url: "https://www.ufodossier.com",
         },
         ...(incident.location_text ? {
           spatialCoverage: {

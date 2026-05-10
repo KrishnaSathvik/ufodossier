@@ -36,7 +36,7 @@ export const viewport: Viewport = {
 };
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://ufodossier.com"),
+  metadataBase: new URL("https://www.ufodossier.com"),
   title: {
     default: "UFO Dossier — Declassified UAP Archive",
     template: "%s — UFO Dossier",

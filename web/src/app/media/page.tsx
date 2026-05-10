@@ -23,8 +23,8 @@ export default async function MediaPage() {
         "@type": "CollectionPage",
         name: "Source Media — UFO Dossier",
         description: "Source images, videos, and document covers from declassified UAP files.",
-        url: "https://ufodossier.com/media",
-        isPartOf: { "@type": "WebSite", name: "UFO Dossier", url: "https://ufodossier.com" },
+        url: "https://www.ufodossier.com/media",
+        isPartOf: { "@type": "WebSite", name: "UFO Dossier", url: "https://www.ufodossier.com" },
       }} />
       <TopBar active="media" />
       <main className="max-w-content mx-auto px-4 md:px-6 py-10 md:py-14">

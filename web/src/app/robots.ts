@@ -9,6 +9,6 @@ export default function robots(): MetadataRoute.Robots {
         disallow: ["/api/", "/i/"],
       },
     ],
-    sitemap: "https://ufodossier.com/sitemap.xml",
+    sitemap: "https://www.ufodossier.com/sitemap.xml",
   };
 }

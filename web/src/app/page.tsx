@@ -91,13 +91,13 @@ export default async function HomePage() {
         "@type": "Dataset",
         name: "UFO Dossier — Declassified UAP Archive",
         description: `A searchable archive of ${stats.incident_count} UAP incidents extracted from ${stats.source_file_count} declassified U.S. government source documents.`,
-        url: "https://ufodossier.com",
+        url: "https://www.ufodossier.com",
         license: "https://creativecommons.org/publicdomain/zero/1.0/",
         creator: { "@type": "Organization", name: "UFO Dossier" },
         temporalCoverage: `${earliestYear}/${latestYear}`,
         distribution: {
           "@type": "DataDownload",
-          contentUrl: "https://ufodossier.com/sitemap.xml",
+          contentUrl: "https://www.ufodossier.com/sitemap.xml",
           encodingFormat: "application/xml",
         },
       }} />
