@@ -1,12 +1,12 @@
 import type { MetadataRoute } from "next";
-import { getSupabase } from "@/lib/supabase";
+import { getSupabaseServer } from "@/lib/supabase";
 
 export const revalidate = 3600; // regenerate hourly
 
 const BASE = "https://ufodossier.com";
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
-  const sb = getSupabase();
+  const sb = getSupabaseServer();
 
   // Fetch all incidents in batches to handle Supabase row limits
   const allIncidents: { slug: string; extracted_at: string | null }[] = [];

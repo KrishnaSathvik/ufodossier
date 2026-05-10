@@ -1,4 +1,4 @@
-import { getSupabase } from "@/lib/supabase";
+import { getSupabaseServer } from "@/lib/supabase";
 import { redirect, notFound } from "next/navigation";
 import type { Metadata } from "next";
 
@@ -8,7 +8,7 @@ export const metadata: Metadata = {
 
 export default async function UUIDRedirect({ params }: { params: Promise<{ id: string }> }) {
   const { id } = await params;
-  const sb = getSupabase();
+  const sb = getSupabaseServer();
   const { data } = await sb.from("incidents").select("slug").eq("id", id).single();
 
   if (!data) notFound();

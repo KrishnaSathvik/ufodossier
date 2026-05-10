@@ -1,7 +1,7 @@
-import { getSupabase } from "./supabase";
+import { getSupabaseServer } from "./supabase";
 
 export async function getMapIncidents() {
-  const sb = getSupabase();
+  const sb = getSupabaseServer();
   const { data } = await sb
     .from("v_incident_full")
     .select("id, slug, title, occurred_at, occurred_at_text, branch, location_text, country, lat, lon, resolution_status, case_id, sensor_types, summary, raw_excerpt, image_url, video_url, cover_image_url, source_cover_image_url")
@@ -11,7 +11,7 @@ export async function getMapIncidents() {
 }
 
 export async function getTotalIncidentCount() {
-  const sb = getSupabase();
+  const sb = getSupabaseServer();
   const { count } = await sb
     .from("v_incident_full")
     .select("id", { count: "exact", head: true });
@@ -19,7 +19,7 @@ export async function getTotalIncidentCount() {
 }
 
 export async function getGeocodePendingCount() {
-  const sb = getSupabase();
+  const sb = getSupabaseServer();
   const { count } = await sb
     .from("incidents")
     .select("id", { count: "exact", head: true })
@@ -29,7 +29,7 @@ export async function getGeocodePendingCount() {
 }
 
 export async function getMediaIncidents() {
-  const sb = getSupabase();
+  const sb = getSupabaseServer();
 
   // images (exclude videos that have image_url set as thumbnail)
   const { data: images } = await sb

@@ -1,5 +1,5 @@
 import { ImageResponse } from "next/og";
-import { getSupabase } from "@/lib/supabase";
+import { getSupabaseServer } from "@/lib/supabase";
 
 export const runtime = "edge";
 export const contentType = "image/png";
@@ -55,7 +55,7 @@ export default async function OGImage({ params }: { params: { slug: string } }) 
 
   await loadFonts();
 
-  const sb = getSupabase();
+  const sb = getSupabaseServer();
   const { data: slugRow } = await sb
     .from("incidents")
     .select("id")

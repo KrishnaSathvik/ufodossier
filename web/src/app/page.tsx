@@ -3,7 +3,7 @@ import { Footer } from "@/components/Footer";
 import { IncidentList } from "@/components/IncidentList";
 import { JsonLd } from "@/components/JsonLd";
 import { RedactedExcerpt } from "@/components/RedactedExcerpt";
-import { getSupabase } from "@/lib/supabase";
+import { getSupabaseServer } from "@/lib/supabase";
 import Link from "next/link";
 import Image from "next/image";
 import type { Metadata } from "next";
@@ -16,7 +16,7 @@ export const metadata: Metadata = {
 };
 
 async function getStats() {
-  const sb = getSupabase();
+  const sb = getSupabaseServer();
   const { data } = await sb.from("v_stats").select("*").single();
   return data ?? {
     incident_count: 0,
@@ -29,7 +29,7 @@ async function getStats() {
 }
 
 async function getAllIncidents(limit = 30) {
-  const sb = getSupabase();
+  const sb = getSupabaseServer();
   const { data } = await sb
     .from("v_incident_full")
     .select("id, slug, title, occurred_at, occurred_at_text, branch, source_agency, location_text, country, region, resolution_status, sensor_types, image_url, video_url, summary, raw_excerpt, case_id")
@@ -39,7 +39,7 @@ async function getAllIncidents(limit = 30) {
 }
 
 async function getFeatured() {
-  const sb = getSupabase();
+  const sb = getSupabaseServer();
   // Priority 1: unresolved with real image
   const { data } = await sb
     .from("v_incident_full")

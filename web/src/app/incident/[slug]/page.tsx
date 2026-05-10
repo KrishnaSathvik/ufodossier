@@ -2,7 +2,7 @@ import { TopBar } from "@/components/TopBar";
 import { Footer } from "@/components/Footer";
 import { JsonLd } from "@/components/JsonLd";
 import { RedactedExcerpt } from "@/components/RedactedExcerpt";
-import { getSupabase } from "@/lib/supabase";
+import { getSupabaseServer } from "@/lib/supabase";
 import { notFound, redirect } from "next/navigation";
 import Link from "next/link";
 import Image from "next/image";
@@ -13,7 +13,7 @@ export const revalidate = 600;
 const UUID_RE = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i;
 
 async function getIncident(idOrSlug: string) {
-  const sb = getSupabase();
+  const sb = getSupabaseServer();
 
   if (UUID_RE.test(idOrSlug)) {
     const { data } = await sb.from("v_incident_full").select("*").eq("id", idOrSlug).single();
@@ -34,7 +34,7 @@ async function getIncident(idOrSlug: string) {
 }
 
 async function getSimilar(id: string) {
-  const sb = getSupabase();
+  const sb = getSupabaseServer();
   const { data: inc } = await sb
     .from("incidents")
     .select("embedding")
