@@ -2,6 +2,7 @@
 
 import Link from "next/link";
 import Image from "next/image";
+import { RedactedExcerpt } from "@/components/RedactedExcerpt";
 
 interface MapPanelProps {
   incident: any;
@@ -86,7 +87,7 @@ export function MapPanel({ incident, onClose }: MapPanelProps) {
         {incident.raw_excerpt && (
           <blockquote className="border-l-2 border-accent pl-3 py-1 hidden md:block">
             <p className="text-xs text-ink-dim italic line-clamp-3 break-words">
-              &ldquo;{incident.raw_excerpt}&rdquo;
+              &ldquo;<RedactedExcerpt text={incident.raw_excerpt} />&rdquo;
             </p>
           </blockquote>
         )}

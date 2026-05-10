@@ -1,6 +1,7 @@
 import { TopBar } from "@/components/TopBar";
 import { Footer } from "@/components/Footer";
 import { JsonLd } from "@/components/JsonLd";
+import { RedactedExcerpt } from "@/components/RedactedExcerpt";
 import { getSupabase } from "@/lib/supabase";
 import { notFound, redirect } from "next/navigation";
 import Link from "next/link";
@@ -238,7 +239,7 @@ export default async function IncidentPage({ params }: { params: Promise<{ slug:
         {/* Verbatim excerpt */}
         <blockquote className="border-l-2 border-accent pl-5 py-3 my-8">
           <p className="font-serif italic text-[17px] leading-relaxed text-ink">
-            &ldquo;{incident.raw_excerpt}&rdquo;
+            &ldquo;<RedactedExcerpt text={incident.raw_excerpt} />&rdquo;
           </p>
           <cite className="block mt-3 text-xs text-ink-faint font-mono not-italic">
             Verbatim from {incident.source_filename}

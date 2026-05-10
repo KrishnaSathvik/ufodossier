@@ -2,6 +2,7 @@ import { TopBar } from "@/components/TopBar";
 import { Footer } from "@/components/Footer";
 import { IncidentList } from "@/components/IncidentList";
 import { JsonLd } from "@/components/JsonLd";
+import { RedactedExcerpt } from "@/components/RedactedExcerpt";
 import { getSupabase } from "@/lib/supabase";
 import Link from "next/link";
 import Image from "next/image";
@@ -138,7 +139,7 @@ export default async function HomePage() {
                 </p>
                 {featured.raw_excerpt && (
                   <blockquote className="border-l-2 border-accent pl-4 py-1 my-5 text-sm text-ink-dim italic">
-                    &ldquo;{featured.raw_excerpt}&rdquo;
+                    &ldquo;<RedactedExcerpt text={featured.raw_excerpt} />&rdquo;
                   </blockquote>
                 )}
                 <div className="flex items-center gap-4 text-sm text-ink-faint">
