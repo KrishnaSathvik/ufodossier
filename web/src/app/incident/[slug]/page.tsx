@@ -281,15 +281,6 @@ export default async function IncidentPage({ params }: { params: Promise<{ slug:
           </section>
         )}
 
-        {/* Methodology note */}
-        <section className="border-t border-rule pt-6 mb-10">
-          <p className="text-sm text-ink-faint leading-relaxed">
-            Fields above were extracted by an LLM from the source document.
-            The verbatim excerpt is substring-validated against the original text.
-            Dashes indicate the source did not specify a value.
-          </p>
-        </section>
-
         {/* Source */}
         <section className="mb-10">
           <h2 className="text-xs font-mono uppercase tracking-tracked text-ink-faint mb-3">Source document</h2>
@@ -303,6 +294,9 @@ export default async function IncidentPage({ params }: { params: Promise<{ slug:
               </a>
             )}
           </div>
+          <p className="text-xs text-ink-faint mt-4">
+            Extracted via LLM. Verbatim excerpt validated.
+          </p>
         </section>
 
         {/* Similar incidents */}
