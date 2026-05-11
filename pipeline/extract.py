@@ -51,7 +51,7 @@ OUTPUT SCHEMA (JSON array of objects):
     "summary": "1-2 sentence factual restatement in your own words",
     "raw_excerpt": "verbatim text from source, 1-3 sentences",
     "occurred_at_text": "raw date string from source or null",
-    "occurred_at": "YYYY-MM-DD or null",
+    "occurred_at": "YYYY-MM-DD or null — ONLY set this if the source contains a clearly specific date (e.g. 'March 15, 2024' -> '2024-03-15'). Fuzzy phrases like 'Late 2025', 'Early 2024', 'Recently', 'Last summer' MUST produce null here. Never default to January 1 of any year.",
     "occurred_at_precision": "day|month|year|decade|unknown",
     "location_text": "raw location string from source or null",
     "country": "country name or null",
@@ -306,6 +306,13 @@ def run(limit: int | None = None, source_file_id: str | None = None, skip_embed:
 
     total_incidents = 0
     for sf in rows:
+        # Skip photo-only sources where OCR text is just a community-written
+        # image caption, not real document narrative. These files still appear
+        # in /media (via source_files) but should not produce incident rows.
+        if sf.get("filename", "").lower().startswith("fbi photo"):
+            logger.info("skipping %s: photo-only source, no narrative text", sf["filename"])
+            continue
+
         # skip if we've already extracted from this one
         existing = sb.table("incidents").select("id", count="exact").eq("source_file_id", sf["id"]).execute()
         if existing.count and existing.count > 0:

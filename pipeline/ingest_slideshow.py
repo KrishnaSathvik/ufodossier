@@ -138,6 +138,28 @@ SLIDESHOW_IMAGES = [
 ]
 
 
+def _extract_case_identifier(filename: str) -> str | None:
+    """Extract the case identifier from a filename.
+
+    Examples:
+        "FBI-Photo-A5.jpg"    -> "a5"
+        "FBI Photo B12"       -> "b12"
+        "DOW-UAP-PR19-..."    -> "pr19"
+        "DOW-UAP-D38, ..."    -> "d38"
+        "NASA-UAP-VM6-..."    -> "vm6"
+        "something-else.jpg"  -> None
+    """
+    # FBI Photo pattern: "FBI-Photo-B12" or "FBI Photo B12"
+    m = re.search(r"(?:FBI[- ]Photo[- ])([A-Za-z0-9]+)", filename, re.IGNORECASE)
+    if m:
+        return m.group(1).lower()
+    # DOW/NASA UAP pattern: "DOW-UAP-PR19" or "NASA-UAP-VM6"
+    m = re.search(r"(?:DOW|NASA)[- ]UAP[- ]([A-Za-z]+\d+)", filename, re.IGNORECASE)
+    if m:
+        return m.group(1).lower()
+    return None
+
+
 def _tokenize(text: str, min_len: int = 2) -> set[str]:
     """Extract alphanumeric tokens for matching (mirrors extract._tokenize)."""
     stop = {
@@ -224,11 +246,25 @@ def run(dry_run: bool = False) -> None:
         if len(img_tokens) < 2:
             continue
 
+        # Extract the case identifier from the image filename (e.g. "A5" from
+        # "FBI-Photo-A5.jpg", "PR19" from "DOW-UAP-PR19-...jpg"). This prevents
+        # cross-linking: "FBI-Photo-A5" must only match incidents from the "A5"
+        # source, not "B12" or any other file sharing the "FBI-Photo-" prefix.
+        img_case_id = _extract_case_identifier(img["filename"])
+
         best_match = None
         best_overlap = 0
 
         for inc in incidents:
             sf_info = sf_lookup.get(inc["source_file_id"], {"filename": "", "url": ""})
+
+            # If we extracted a case identifier from the image, require the
+            # incident's source filename to contain that same identifier.
+            if img_case_id:
+                sf_case_id = _extract_case_identifier(sf_info["filename"])
+                if sf_case_id != img_case_id:
+                    continue
+
             inc_tokens = _tokenize(sf_info["filename"]) | _tokenize(sf_info["url"])
             overlap = len(img_tokens & inc_tokens)
             if overlap > best_overlap and overlap >= 3:
@@ -238,10 +274,10 @@ def run(dry_run: bool = False) -> None:
         if best_match:
             if not dry_run and not best_match.get("image_url"):
                 sb.table("incidents").update({"image_url": img["url"]}).eq("id", best_match["id"]).execute()
-            logger.info("linked %s -> %s (overlap=%d tokens)", img["filename"], best_match["case_id"], best_overlap)
+            logger.info("linked %s -> %s (overlap=%d tokens, case_id=%s)", img["filename"], best_match["case_id"], best_overlap, img_case_id or "none")
             linked += 1
         else:
-            logger.info("no match for %s (tokens=%s)", img["filename"], sorted(img_tokens)[:8])
+            logger.info("no match for %s (case_id=%s, tokens=%s)", img["filename"], img_case_id or "none", sorted(img_tokens)[:8])
 
     logger.info("slideshow link // linked=%d of %d images", linked, len(SLIDESHOW_IMAGES))
 

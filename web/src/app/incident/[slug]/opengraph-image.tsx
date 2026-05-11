@@ -40,12 +40,12 @@ async function loadFont(
 }
 
 // ---------------------------------------------------------------------------
-// Image fetching — 5-second timeout, returns data-URL or null
+// Image fetching — 8-second timeout, returns data-URL or null
 // ---------------------------------------------------------------------------
 async function fetchImageData(url: string): Promise<string | null> {
   try {
     const controller = new AbortController();
-    const id = setTimeout(() => controller.abort(), 5000);
+    const id = setTimeout(() => controller.abort(), 8000);
     const res = await fetch(url, { signal: controller.signal });
     clearTimeout(id);
     if (!res.ok) return null;
@@ -127,7 +127,7 @@ export default async function OGImage({
   const { data: incident } = await sb
     .from("v_incident_full")
     .select(
-      "title, case_id, occurred_at, occurred_at_text, location_text, branch, source_agency, image_url, video_url, cover_image_url, source_cover_image_url",
+      "title, case_id, occurred_at, occurred_at_text, location_text, branch, source_agency, image_url, video_url, cover_image_url, source_cover_image_url, raw_excerpt, summary",
     )
     .eq("id", slugRow.id)
     .single();
@@ -298,9 +298,15 @@ export default async function OGImage({
   // VARIANT 2 — Typographic fallback (no media available)
   // ===========================================================================
   const title =
-    incident.title.length > 130
-      ? incident.title.slice(0, 127) + "..."
+    incident.title.length > 100
+      ? incident.title.slice(0, 97) + "..."
       : incident.title;
+
+  const excerptText = incident.raw_excerpt || incident.summary || "";
+  const excerpt =
+    excerptText.length > 280
+      ? excerptText.slice(0, 277) + "..."
+      : excerptText;
 
   return new ImageResponse(
     (
@@ -368,19 +374,55 @@ export default async function OGImage({
           <span
             style={{
               fontFamily: serifFont,
-              fontSize: "48px",
+              fontSize: "42px",
               color: "#1a1a1a",
               lineHeight: 1.15,
-              marginBottom: "24px",
+              marginBottom: "16px",
             }}
           >
             {title}
           </span>
           <span
-            style={{ fontFamily: monoFont, fontSize: "16px", color: "#5a584f" }}
+            style={{ fontFamily: monoFont, fontSize: "14px", color: "#5a584f", marginBottom: "20px" }}
           >
             {metaLine}
           </span>
+
+          {/* Verbatim excerpt block */}
+          {excerpt && (
+            <div style={{ display: "flex", flexDirection: "column" }}>
+              <span
+                style={{
+                  fontFamily: monoFont,
+                  fontSize: "10px",
+                  letterSpacing: "0.15em",
+                  color: "#8a8780",
+                  marginBottom: "8px",
+                }}
+              >
+                VERBATIM FROM SOURCE
+              </span>
+              <div
+                style={{
+                  display: "flex",
+                  borderLeft: "3px solid #ff9933",
+                  paddingLeft: "16px",
+                }}
+              >
+                <span
+                  style={{
+                    fontFamily: serifFont,
+                    fontSize: "18px",
+                    fontStyle: "italic",
+                    color: "#3a3935",
+                    lineHeight: 1.45,
+                  }}
+                >
+                  {excerpt}
+                </span>
+              </div>
+            </div>
+          )}
         </div>
 
         {/* Bottom label */}
