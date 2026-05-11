@@ -1,4 +1,3 @@
-import Link from "next/link";
 import Image from "next/image";
 
 interface DocumentCardProps {
@@ -9,7 +8,6 @@ interface DocumentCardProps {
     cover_image_url: string;
     page_count: number | null;
     agency: string | null;
-    incident_slug: string | null;
   };
 }
 
@@ -29,8 +27,13 @@ export function DocumentCard({ document: doc }: DocumentCardProps) {
           sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
           className="object-cover group-hover:scale-[1.02] transition-transform duration-300"
         />
-        <span className="absolute top-2 left-2 bg-bg/80 px-2 py-0.5 text-[10px] font-mono uppercase tracking-tracked text-ink-faint border border-rule">
-          Document
+        <span className="absolute top-2 left-2 bg-bg/80 px-2 py-0.5 text-[10px] font-mono uppercase tracking-tracked text-ink-faint border border-rule flex items-center gap-1">
+          PDF
+          <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+            <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6" />
+            <polyline points="15 3 21 3 21 9" />
+            <line x1="10" y1="14" x2="21" y2="3" />
+          </svg>
         </span>
       </div>
       <div className="mt-2.5">
@@ -44,14 +47,6 @@ export function DocumentCard({ document: doc }: DocumentCardProps) {
       </div>
     </>
   );
-
-  if (doc.incident_slug) {
-    return (
-      <Link href={`/incident/${doc.incident_slug}`} className="group block overflow-hidden">
-        {inner}
-      </Link>
-    );
-  }
 
   return (
     <a
