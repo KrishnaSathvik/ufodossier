@@ -1,7 +1,7 @@
 import { TopBar } from "@/components/TopBar";
 import { Footer } from "@/components/Footer";
 import { JsonLd } from "@/components/JsonLd";
-import { getMediaIncidents } from "@/lib/incidents";
+import { getMediaIncidents, getVideosForMedia, getDocumentsForMedia } from "@/lib/incidents";
 import { MediaGrid } from "./MediaGrid";
 import type { Metadata } from "next";
 
@@ -14,7 +14,11 @@ export const metadata: Metadata = {
 };
 
 export default async function MediaPage() {
-  const { images, videos, documents } = await getMediaIncidents();
+  const [{ images }, videos, documents] = await Promise.all([
+    getMediaIncidents(),
+    getVideosForMedia(),
+    getDocumentsForMedia(),
+  ]);
 
   return (
     <>

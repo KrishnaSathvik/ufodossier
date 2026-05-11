@@ -43,10 +43,36 @@ def render_cover(pdf_bytes: bytes) -> bytes:
     return buf.getvalue()
 
 
+def _normalize_name(name: str) -> str:
+    """Normalize a filename for fuzzy matching.
+
+    Collapses spaces, hyphens, underscores, and commas to a single canonical
+    form, strips the .pdf extension, and lowercases everything.
+    """
+    import re
+    n = name.lower()
+    if n.endswith(".pdf"):
+        n = n[:-4]
+    n = re.sub(r"[\s_,\-]+", "-", n)
+    return n
+
+
+def _tokenize_name(name: str) -> set[str]:
+    """Extract alphanumeric tokens >= 2 chars for fuzzy matching."""
+    import re
+    n = name.lower()
+    if n.endswith(".pdf"):
+        n = n[:-4]
+    stop = {"the", "and", "for", "pdf", "of", "in", "at", "to", "report", "mission"}
+    tokens = set(re.findall(r"[a-z0-9]+", n))
+    return {t for t in tokens if len(t) >= 2 and t not in stop}
+
+
 def _find_local_file(pdf_dir: Path, filename: str) -> Path | None:
     """Find a local file matching the source_file filename.
 
-    Tries exact match, then case-insensitive, then with/without .pdf extension.
+    Tries exact match, then case-insensitive, then with/without .pdf extension,
+    then normalized matching, then token-overlap matching as last resort.
     """
     # Exact match
     candidate = pdf_dir / filename
@@ -65,6 +91,59 @@ def _find_local_file(pdf_dir: Path, filename: str) -> Path | None:
     for p in pdf_dir.iterdir():
         if p.is_file() and p.name.lower() in (lower, lower_pdf):
             return p
+
+    # Normalized matching: collapse spaces/hyphens/underscores
+    norm = _normalize_name(filename)
+    for p in pdf_dir.iterdir():
+        if p.is_file() and p.suffix.lower() == ".pdf":
+            if _normalize_name(p.name) == norm:
+                return p
+
+    # Token-overlap matching: find best match by shared tokens
+    db_tokens = _tokenize_name(filename)
+    if len(db_tokens) < 2:
+        return None
+
+    # Extract document identifiers (e.g. "d20", "pr20", "serial_153", "vm6")
+    # These MUST match to avoid cross-linking different documents.
+    import re as _re
+    id_pattern = _re.compile(
+        r"(?:serial[_\s-]*(\d+))|"       # serial_153 -> 153
+        r"(?:(?:d|pr|vm)(\d+))|"          # d20, pr20, vm6
+        r"(?:cable[_\s-]*(\d+))",         # cable 2 -> 2
+        _re.IGNORECASE,
+    )
+    db_ids = set()
+    for m in id_pattern.finditer(filename.lower()):
+        db_ids.update(g for g in m.groups() if g)
+
+    best_path = None
+    best_score = 0.0
+    for p in pdf_dir.iterdir():
+        if not p.is_file() or p.suffix.lower() != ".pdf":
+            continue
+        local_tokens = _tokenize_name(p.name)
+        if not local_tokens:
+            continue
+
+        # If DB filename has document IDs, require them in the local file too
+        if db_ids:
+            local_ids = set()
+            for m in id_pattern.finditer(p.name.lower()):
+                local_ids.update(g for g in m.groups() if g)
+            if not db_ids & local_ids:
+                continue
+
+        overlap = len(db_tokens & local_tokens)
+        # Jaccard-like score: overlap / max(len) to favor precise matches
+        score = overlap / max(len(db_tokens), len(local_tokens))
+        if overlap >= 3 and score > best_score:
+            best_score = score
+            best_path = p
+
+    if best_path and best_score >= 0.5:
+        logger.info("  Fuzzy matched %s -> %s (score=%.2f)", filename, best_path.name, best_score)
+        return best_path
 
     return None
 

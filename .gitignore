@@ -42,3 +42,6 @@ web/out/
 # backups
 *.backup.tsx
 *.backup.ts
+
+# slideshow source images (uploaded to Supabase Storage)
+/*.jpg

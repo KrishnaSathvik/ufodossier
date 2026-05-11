@@ -173,6 +173,7 @@ select
   sf.file_type as source_file_type,
   sf.duration_seconds as source_duration_seconds,
   sf.cover_image_url as source_cover_image_url,
+  sf.page_count as source_page_count,
   r.tranche_number
 from incidents i
 left join source_files sf on sf.id = i.source_file_id
@@ -203,7 +204,7 @@ where (i.image_url is not null or i.video_url is not null)
 create or replace view v_stats as
 select
   (select count(*) from incidents) as incident_count,
-  (select count(*) from source_files) as source_file_count,
+  (select count(*) from source_files where file_type = 'pdf') as source_file_count,
   (select count(*) from incidents where resolution_status = 'unresolved') as unresolved_count,
   (select count(distinct country) from incidents where country is not null) as country_count,
   (select min(occurred_at) from incidents) as earliest,

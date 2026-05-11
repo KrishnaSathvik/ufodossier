@@ -7,10 +7,10 @@ interface MediaCardProps {
 }
 
 export function MediaCard({ incident, type }: MediaCardProps) {
-  const href = `/incident/${incident.slug || incident.id}`;
+  const href = incident.slug ? `/incident/${incident.slug}` : null;
 
-  return (
-    <Link href={href} className="group block overflow-hidden">
+  const content = (
+    <>
       <div className="aspect-video bg-bg-quiet relative overflow-hidden">
         {type === "image" && incident.image_url ? (
           <Image
@@ -72,6 +72,16 @@ export function MediaCard({ incident, type }: MediaCardProps) {
           {incident.branch && <span className="font-mono uppercase">{incident.branch}</span>}
         </div>
       </div>
-    </Link>
+    </>
   );
+
+  if (href) {
+    return (
+      <Link href={href} className="group block overflow-hidden">
+        {content}
+      </Link>
+    );
+  }
+
+  return <div className="group block overflow-hidden">{content}</div>;
 }

@@ -70,12 +70,6 @@ SLIDESHOW_IMAGES = [
         "agency": "FBI",
     },
     {
-        "url": "https://www.war.gov/portals/1/Interactive/2026/UFO/Slideshow/2024-04-30-Composite-Sketch.jpg",
-        "filename": "2024-04-30-Composite-Sketch.jpg",
-        "alt_text": "Recreation of potential anomalous sighting in southeastern United States in September of 2023.",
-        "agency": "FBI",
-    },
-    {
         "url": "https://www.war.gov/portals/1/Interactive/2026/UFO/Slideshow/NASA-UAP-VM6-Apollo-17-1972.jpg",
         "filename": "NASA-UAP-VM6-Apollo-17-1972.jpg",
         "alt_text": "Archival imagery from the Apollo 17 mission to the Moon. The yellow box contains an enlarged area of the original photo in which three lights are visible above the lunar terrain.",

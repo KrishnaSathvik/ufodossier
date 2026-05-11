@@ -211,20 +211,36 @@ export default async function IncidentPage({ params }: { params: Promise<{ slug:
         )}
         {!incident.video_url && !incident.image_url && (incident.cover_image_url || incident.source_cover_image_url) && (
           <div className="mb-8 bg-bg-quiet overflow-hidden border border-rule">
-            <div className="relative" style={{ minHeight: "240px", maxHeight: "400px", height: "40vw" }}>
-              <Image
-                src={incident.cover_image_url || incident.source_cover_image_url}
-                alt={`Document cover: ${incident.source_filename}`}
-                fill
-                sizes="(max-width: 768px) 100vw, 680px"
-                className="object-contain opacity-90"
-              />
-              <span className="absolute top-2 left-2 bg-bg/90 border border-rule px-2 py-0.5 text-[10px] font-mono uppercase tracking-tracked text-ink-faint">
-                Document cover
-              </span>
-            </div>
+            {incident.source_url ? (
+              <a href={incident.source_url} target="_blank" rel="noopener noreferrer" className="block relative cursor-pointer" style={{ minHeight: "240px", maxHeight: "400px", height: "40vw" }}>
+                <Image
+                  src={incident.cover_image_url || incident.source_cover_image_url}
+                  alt={`Document cover: ${incident.source_filename}`}
+                  fill
+                  sizes="(max-width: 768px) 100vw, 680px"
+                  className="object-contain opacity-90"
+                />
+                <span className="absolute top-2 left-2 bg-bg/90 border border-rule px-2 py-0.5 text-[10px] font-mono uppercase tracking-tracked text-ink-faint">
+                  Document cover
+                </span>
+              </a>
+            ) : (
+              <div className="relative" style={{ minHeight: "240px", maxHeight: "400px", height: "40vw" }}>
+                <Image
+                  src={incident.cover_image_url || incident.source_cover_image_url}
+                  alt={`Document cover: ${incident.source_filename}`}
+                  fill
+                  sizes="(max-width: 768px) 100vw, 680px"
+                  className="object-contain opacity-90"
+                />
+                <span className="absolute top-2 left-2 bg-bg/90 border border-rule px-2 py-0.5 text-[10px] font-mono uppercase tracking-tracked text-ink-faint">
+                  Document cover
+                </span>
+              </div>
+            )}
             <p className="text-xs text-ink-faint px-3 py-2 font-mono">
               Page 1 of {incident.source_filename}
+              {incident.source_page_count && ` (${incident.source_page_count} pages total)`}
               {incident.source_url && (
                 <> &middot; <a href={incident.source_url} target="_blank" rel="noopener noreferrer" className="text-accent hover:underline">View original on war.gov</a></>
               )}
