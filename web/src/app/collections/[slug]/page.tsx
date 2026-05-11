@@ -85,6 +85,7 @@ export default async function CollectionPage({ params }: { params: Promise<{ slu
         isPartOf: {
           "@type": "Dataset",
           name: "UFO Dossier — Declassified UAP Archive",
+          description: "Searchable archive of every UAP incident in the U.S. government's declassified PURSUE files, with substring-validated verbatim excerpts from original source documents.",
           url: "https://www.ufodossier.com",
         },
       }} />

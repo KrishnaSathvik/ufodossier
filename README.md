@@ -2,7 +2,7 @@
 
 A searchable archive of every UAP incident from the U.S. government's declassified PURSUE files. Every claim tied to a verified quote. Every page linked to the original document on war.gov.
 
-**Live:** [ufodossier.com](https://ufodossier.com)
+**Live:** [www.ufodossier.com](https://www.ufodossier.com)
 
 ---
 
@@ -17,6 +17,7 @@ We are not affiliated with the U.S. government.
 - **Incident Archive** — Browse all cases with date, location, agency, sensors, resolution status, and a verbatim excerpt from the source document
 - **Interactive Map** — Geolocated incidents on a clustered dark-theme map with filters
 - **Ask the Archive** — AI-powered Q&A grounded in the documents, with cited case IDs
+- **Curated Collections** — Themed groupings of related cases (e.g., radar-visual cases, nuclear site incidents)
 - **Source Media** — Images, videos, and document covers from the declassified files
 
 ## How It Works
