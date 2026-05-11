@@ -1,4 +1,5 @@
 import { ImageResponse } from "next/og";
+import { getSupabaseServer } from "@/lib/supabase";
 
 export const runtime = "edge";
 export const contentType = "image/png";
@@ -71,9 +72,11 @@ async function fetchImageData(url: string): Promise<string | null> {
 function TextOverlay({
   serifFont,
   monoFont,
+  statsLine,
 }: {
   serifFont: string;
   monoFont: string;
+  statsLine: string;
 }) {
   return (
     <div
@@ -121,7 +124,7 @@ function TextOverlay({
           color: "rgba(255,255,255,0.75)",
         }}
       >
-        480 cases · 1890–2025 · www.ufodossier.com
+        {statsLine}
       </span>
     </div>
   );
@@ -149,6 +152,37 @@ export default async function OGImage() {
   const serifFont = newsreaderBuf ? "Newsreader" : "Georgia, serif";
   const monoFont = jetBrainsBuf ? "JetBrains Mono" : "Courier, monospace";
   const fontOpts = fonts.length > 0 ? fonts : undefined;
+
+  // Query live incident stats
+  let statsLine = "www.ufodossier.com";
+  try {
+    const sb = getSupabaseServer();
+    const { count } = await sb
+      .from("incidents")
+      .select("*", { count: "exact", head: true });
+    const { data: minRow } = await sb
+      .from("incidents")
+      .select("occurred_at")
+      .not("occurred_at", "is", null)
+      .gte("occurred_at", "1947-01-01")
+      .order("occurred_at", { ascending: true })
+      .limit(1)
+      .single();
+    const { data: maxRow } = await sb
+      .from("incidents")
+      .select("occurred_at")
+      .not("occurred_at", "is", null)
+      .order("occurred_at", { ascending: false })
+      .limit(1)
+      .single();
+    if (count && minRow && maxRow) {
+      const minYear = Math.max(new Date(minRow.occurred_at).getFullYear(), 1947);
+      const maxYear = new Date(maxRow.occurred_at).getFullYear();
+      statsLine = `${count} cases · ${minYear}–${maxYear} · www.ufodossier.com`;
+    }
+  } catch {
+    // fall back to plain domain
+  }
 
   const imageData = await fetchImageData(HERO_IMAGE_URL);
 
@@ -190,12 +224,12 @@ export default async function OGImage() {
               right: 0,
               bottom: 0,
               background:
-                "linear-gradient(to bottom, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0.55) 100%)",
+                "linear-gradient(to bottom, rgba(0,0,0,0.25) 0%, rgba(0,0,0,0.7) 100%)",
               display: "flex",
             }}
           />
 
-          <TextOverlay serifFont={serifFont} monoFont={monoFont} />
+          <TextOverlay serifFont={serifFont} monoFont={monoFont} statsLine={statsLine} />
         </div>
       ),
       { ...size, fonts: fontOpts },
@@ -212,11 +246,48 @@ export default async function OGImage() {
           width: "100%",
           height: "100%",
           display: "flex",
-          position: "relative",
-          backgroundColor: "#1a1a1a",
+          flexDirection: "column",
+          justifyContent: "center",
+          backgroundColor: "#0a0a0a",
+          padding: "80px",
         }}
       >
-        <TextOverlay serifFont={serifFont} monoFont={monoFont} />
+        <span
+          style={{
+            fontFamily: monoFont,
+            fontSize: "18px",
+            fontWeight: 500,
+            letterSpacing: "0.2em",
+            color: "rgba(255,255,255,0.85)",
+            marginBottom: "16px",
+          }}
+        >
+          UFO DOSSIER
+        </span>
+        <span
+          style={{
+            fontFamily: serifFont,
+            fontSize: "56px",
+            fontWeight: 500,
+            color: "#ffffff",
+            lineHeight: 1.1,
+            maxWidth: "1000px",
+            marginBottom: "20px",
+          }}
+        >
+          Every declassified UAP incident, in one searchable archive.
+        </span>
+        <span
+          style={{
+            fontFamily: monoFont,
+            fontSize: "14px",
+            fontWeight: 400,
+            letterSpacing: "0.05em",
+            color: "rgba(255,255,255,0.75)",
+          }}
+        >
+          {statsLine}
+        </span>
       </div>
     ),
     { ...size, fonts: fontOpts },
