@@ -134,7 +134,7 @@ export default async function OGImage() {
             letterSpacing: "2px",
           }}
         >
-          ufodossier.com
+          www.ufodossier.com
         </span>
       </div>
     ),
