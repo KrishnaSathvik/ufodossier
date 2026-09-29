@@ -178,13 +178,15 @@ function addFragments(
 
 function loadFragments(): FragmentRecord[] {
   const byCase = new Map<string, FragmentRecord>();
-  const smoke = readJson<{ validated_incidents?: Record<string, unknown>[] }>(
+  const smoke = readJsonOptional<{ validated_incidents?: Record<string, unknown>[] }>(
     "pipeline/reports/r2_smoke/extractions.json",
+    {},
   );
   addFragments(byCase, smoke.validated_incidents, "02");
 
-  const odni = readJson<{ validated?: Record<string, unknown>[]; filename?: string }>(
+  const odni = readJsonOptional<{ validated?: Record<string, unknown>[]; filename?: string }>(
     "pipeline/reports/r2_complete/odni_extraction.json",
+    {},
   );
   addFragments(
     byCase,
@@ -195,15 +197,17 @@ function loadFragments(): FragmentRecord[] {
     "02",
   );
 
-  const r3 = readJson<{ validated_incidents?: Record<string, unknown>[] }>(
+  const r3 = readJsonOptional<{ validated_incidents?: Record<string, unknown>[] }>(
     "pipeline/reports/r3_full/extractions.json",
+    {},
   );
   addFragments(byCase, r3.validated_incidents, "03", (row) =>
     EXCLUDED_R3_SOURCES.has(String(row.source_filename ?? "")),
   );
 
-  const truncation = readJson<{ results?: { validated_incidents?: Record<string, unknown>[] }[] }>(
+  const truncation = readJsonOptional<{ results?: { validated_incidents?: Record<string, unknown>[] }[] }>(
     "pipeline/reports/r3_truncation_fix/results.json",
+    {},
   );
   for (const result of truncation.results ?? []) {
     addFragments(byCase, result.validated_incidents, "03");
@@ -214,7 +218,7 @@ function loadFragments(): FragmentRecord[] {
     ["pipeline/reports/r5_local/extractions.json", "05"],
     ["pipeline/reports/r6_local/extractions.json", "06"],
   ] as const) {
-    const payload = readJson<{ validated_incidents?: Record<string, unknown>[] }>(file);
+    const payload = readJsonOptional<{ validated_incidents?: Record<string, unknown>[] }>(file, {});
     addFragments(byCase, payload.validated_incidents, release);
   }
   return [...byCase.values()];
@@ -247,14 +251,18 @@ function loadChecksums(): Map<string, { sha256: string | null; byteSize: number 
 
 function loadCatalog(): Catalog {
   if (cached) return cached;
-  const coverage = readJson<{ generated_at?: string; records: CoverageRow[] }>(
+  const coverage = readJsonOptional<{ generated_at?: string; records: CoverageRow[] }>(
     "pipeline/reports/corpus_qa/source_coverage.json",
+    { records: [] },
   );
   const official = readJsonOptional<OfficialRow[]>(
     "pipeline/snapshots/pursue/2026-09-18-official/records.json",
     [],
   );
-  const graph = readJson<Graph>("pipeline/reports/corpus_qa/linker/full_graph.json");
+  const graph = readJsonOptional<Graph>("pipeline/reports/corpus_qa/linker/full_graph.json", {
+    canonical_events: [],
+    event_series: [],
+  });
   const officialById = new Map(official.map((row) => [row.external_id, row]));
   const checksums = loadChecksums();
   const fragments = loadFragments();
