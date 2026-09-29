@@ -1,0 +1,44 @@
+UNCLASSIFIED/ /&OA QFFI&IAL l:t!II!! er•t I 
+Spintronics is a broad research field with (currently) three major 
+subfields: (1) materials research that is attempting to create new 
+materials that are both magnetic and semiconductors, (2) research 
+on novel magnetotransport effects in ferromagnetic metals, and (3) 
+research on techniques that can be used to manipulate individual 
+electron spins. The first subfield is targeting magnetic 
+semiconductors because devices based on such materials would be 
+the easiest to integrate with the present semiconductor device 
+technology and processing capabilities. However, despite extensive 
+research, most semiconductor spintronic devices are still theoretical 
+concepts awaiting experimental demonstrations. This report focuses 
+on spintronics research in metallic systems within the scope of the 
+second and third subfields. The second subfield has experienced an 
+unprecedented period of new discovery over the past 20 years, 
+including the discovery of GMR, and has already spawned major 
+technological change in the information storage industry with the 
+use of GMR sensors and read heads. The third subfield is vital for 
+spintronic devices, as virtually any processing of information in such 
+devices is associated with transport and manipulation of spins. 
+New and efficient methods for manipulating spins that stimulate 
+active research programs in spintronics at a large number of 
+academic institutions and a half-dozen industrial research labs 
+around the world are highly desirable. The prize to be gained is 
+active control and manipulation of spin distributions (magnetic 
+moments) for new and improved functionality in 
+electronic/spintronic devices. The confluence of intense basic 
+science and industry interest in ferromagnetic metal spintronics has 
+not occurred on this scale in physics in a long time. 
+The report is arranged as follows: Section 2 is dedicated to 
+magnetotransport effects in magnetic systems where magnetic 
+configuration can influence the system's transport properties. It 
+discusses GMR in magnetic multilayers and related phenomena, 
+highlights basic physical principles responsible for GMR, and 
+describes technological applications of the effect. Section 3 focuses 
+on the reverse connection between the system's magnetic 
+configuration and its transport properties-the so-called STT effect. 
+The physical origin and potential applications are discussed. Section 
+4 discusses other new directions in metallic spintronics, with a 
+particular focus on spintronics with antiferromagnetic materials. 
+Section 5 summarizes, with an eye to the future, the development of 
+spintronic technologies and their aerospace applications. 
+UNCLASSIFIED/ /FOR OFFIGIAk Wii SU•k¥ 
+V

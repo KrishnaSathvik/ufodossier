@@ -1,0 +1,39 @@
+Unclassified 
+SCHEDULE Continued 
+ITEM NO. SUPPLIES/SERI/ICES QUANTITY UNIT UNIT PRICE $ AMOUNT$ 
+1106 610000 
+$2,494,610.00 
+Period of Performance: 09/22/2009 to 09/21/2010 
+1007 
+(New Line Item) 
+Additional Travel 1.00 LO 18,300.00 18,300.00 
+Accounting and Appropriation Data: 
+ACRN: AB 
+9700100.4400 1102A9 25201 S49205 CCXX 16P101T1 
+1106 610000 
+$18,300.00 
+Period of Performance: 09/22/2009 to 09/21/2010 
+1008 
+(New Line Item) 
+UNUSED - This line Item Is unused but must remain part 
+of the contract to insure proper account ing information Is 
+aligned to revised CLINS. Original 0001 from PR 
+1.00 LO 0.00 0.00 
+Accounting and Appropriation Data: 
+ACRN:AB 
+9700100.44001102A9 25201 S49205 CCXX 16P101T1 
+1106 610000 
+$0.00 
+1009 
+(New Line Item) 
+UNUSED - This line item is unused but must remain part 
+of the contract to Insure proper accounting Information is 
+aligned to revised CLINS. Original 0002 from PR 
+1.00 LO 0.00 0.00 
+Accounting and Appropriation Data: 
+ACRN: AB 
+9700100 .4400 1102A9 25201 S49205 CCXX 16P101T1 
+1106610000 
+$0.00 
+PAGE 30F 
+Unclasslfled

@@ -1,0 +1,27 @@
+6 
+White 
+McDivitt 
+there as I chased it around, and those were the 
+only modes I intended to use right then . Later 
+on, I checked out the Reentry Rate Command and I 
+checked the Rate Command before we thrusted . It 
+did seem to be operating fine . Why don ' t you go 
+through the next part , Eli? 
+All right . We 're going to get into the source 
+temperature and pressure , the regulated pressure , 
+and the prop ellant quantity . Let ' s take the 
+temperature first . The temperature of our OAMS 
+was 75 degrees all the way down the line . The 
+i nit ial ind ications on the pressures were approxi­
+mately 2800 psi for the source and 320 psi for the 
+regulated pressure . 
+The quantity gage operated all right except that, 
+as I mentioned earlier , the thing seemed to wander 
+up and down somewhere between 2 and 4 percent , 
+depending upon where you were in the mission . 
+You ' d read it one time and it would be 60, and 
+you'd read it a little while later and it would 
+be 62, and you 'd r ead it a little while l ater and 
+it 'd be back about 60. The greatest variation in 
+that thing that ever occurred was when I went to 
+sleep one time with it reading 60 and woke up and

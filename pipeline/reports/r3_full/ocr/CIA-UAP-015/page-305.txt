@@ -1,0 +1,110 @@
+I --
+1 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+CODE 67 ANGULAR ACCELERATION 
+(Change in angular velocity) 
+X Variable 
+y 
+0 Zero, V • constant 
+l Increasing slowly 
+2 Decreasing slowly 
+3 Increasing fast 
+4 Decreasing fast 
+5 Increasing very fast 
+6 Decreasing very fast 
+7 
+8 
+9 
+CODE 69 DISAPPEARANCE BEARING 
+X Disappeared suddenly 
+y 
+0 N 
+l Ne 
+2 E 
+3 Se 
+4 s 5 SW 
+6 w 
+7 NW 
+8 
+9 
+CODE 72 OBJECT ORIENTATION 
+Apparent inclination of principal 
+CODE 68 APPBARJ:J1TCE BEARING 
+X 
+y 
+O N 
+l NE 
+2 E 
+3 SE 
+4 s 5 SW 
+6 W 
+7 NW 
+8 
+9 
+CODE 70-71 ELEVATION 
+WITH RESPECT TO GROUND1 DEGREES 
+Initial Final 
+X Variable X Variable 
+y y 
+0 0-9 0 0-9 
+l 10-19 1 10-19 
+2 20-29 2 20-29 
+3 30-39 3 30-39 
+4 40-49 4 40-49 
+5 50-59 5 50-59 6 60-69 6 60-69 
+7 70-79 7 70-79 8 80-89 8 80-89 
+9 9 
+axis of object from horizontal CODE 73 MANEUVERS CODE 74 OBSERVER OCCUPATION 
+X Variable y 
+0 +90° to 60° 
+l +60° to 30° 
+2 +30° to 10° 
+3 +10° to 0° 
+4 oo 
+5 OQ to -10° 
+6 -10° to -30° 
+7 -30° to -60° 
+8 -60° to -90° 
+9 
+X y 
+0 
+l 
+2 
+3 
+4 
+5 6 
+7 
+8 
+9 
+307 
+X 
+Y Civilian, occupation r.ot stated 
+O Army, military 
+l NavY, military 
+2 Marine, military 
+3 Air force, military 
+4 Coast guard, military 
+5 Merchant marine, military 
+6 Commercial air, civilian 
+7 CAA, civilian 
+8 Government contractor, civilian 
+9 Civilian, other

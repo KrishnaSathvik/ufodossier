@@ -1,0 +1,42 @@
+UNCLASSIFIED/ /fiOR OfiFl£1.t.k Wli& 8PtLY 
+Detector Array and Analysis System 
+The final imaging quality is determined by neutron source yield integrated over the area 
+of coverage by the number of detectors, the detector configuration, the collimated 
+beam size, the acquisition time, and other scan-related parameters . Scintillators such 
+as Nal, Csl, and BGO as well as Plastic Nal (Tl) are candidates for gamma and x-ray 
+detectors. Due to their small size, they can be used in a large array along with TOF 
+spectrometry to provide detailed special information. Recently, UIUC staff has studied 
+use of an advanced thick Hgb detector which appears to be particularly advantageous 
+for this application. Hgb is a room temperature semiconductor material with an 
+excellent stopping power and a relatively large photo-fraction for detecting high energy 
+gamma rays. Assuming successful development, Hgb detectors would provide superior 
+array performance. 
+With the combined sources, the detector array receives a vast amount of information in 
+a short scan time. To handle this flow of data most efficiently, a fuzzy logic system is 
+employed. The development of this advanced fuzzy !logic system is patterned after a 
+methodology developed for the diagnosis of abnormal situations in nuclear reactor 
+safety analysis. The knowledge box employs a goal tree (and/or decision tree) for 
+representation. This system will use learning -based rules that evolve from extensive 
+simulation tests to provide training about the simultaneous occurrence of specific 
+elements and embedded object shapes. It will also learn to differentiate between 
+positive and negative data by creating rules from these test runs. Materials listed early 
+in the simulation study discussion would be employed. The advantage of this system is 
+twofold . The broad area scan analysis is optimized for fast through-put of objects while 
+the multiple neutron/x-ray identification reduces the probability of false identification. 
+The fuzzy logic system will pass the integrated item or sound an alert (suspicious object 
+in the container) automatically without human involvement. Humans will only be 
+involved when an alert is sounded. An alert occurs for a range of positive identification 
+of materials on to suspected identification . The multiple source detector array concept 
+is designed to minimize items that fall into the category of "in-between" positive 
+identification and clearance. 
+The overall concept described here is illustrated for an airplane luggage scan in Figure 
+5.3. Data from the detection system (TNA, PFNA and x-ray) is processed through fuzzy 
+logic system. If the item undergoing inspection passes this test, it continues on its way 
+to baggage claim . If an alert is sounded, the item can either be passed through the 
+machine for a second scan or be manually inspected, depending on the confidence level 
+of the alert. 
+Since the integrated system is modular, the basic components can easily be assembled 
+in a variety of configurations for use at different facilities. An example is the extension 
+to inspection of container ships being unloaded in port as illustrated in Figure 5.4. 
+UNCLASSIFIED/ /fiOA QFFI&IAL WBE 8HLY 
+52

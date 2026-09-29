@@ -1,0 +1,38 @@
+UNCLASSIFIED/ /FOR OFFICIAL l:191!! 6HLY 
+High Tempenlun Alpha particle production 
+Supercond uctor research needs to be recycled via 
+ne<>.ds to be scaled up and beam dired conversion 
+made to withstand the with electron escape or 
+redirected back into reacto 
+I II Bram 
+Rtaction Produrnlllttrn 
+•n, 
+•11 · 
+110 O.am 
+The magnetic field separalrix: Plasma rings must be made stable 
+mu.st be shaped for optimal and achie, ·e the righ I mir of density 
+confmement , minimal leakage and temperature for sustained 
+and maximum stability fusion and power re.cycling 
+Figure 19. Experiments To Prove a Plasma Fusion Propulsion Concept 
+FAR-TERM DEVELOPMENT 
+In the far term timeframe from 2030 to 2050, design integration of the optimized 
+aneutronic fusion reactors and propulsion systems into aeronautical platforms must be 
+conducted followed by prototype flight tests . Although it is difficult at this point to say 
+which technology will ultimately transition to application, ultimately, industrial 
+collaboration will be necessary to bring forth the propulsion system exper ience with the 
+fusion plasma physics and sustained ignition engineering and the right mix of material 
+science. The platforms will be launched from the ground, air, or space depending on 
+ease of design integrati on, availab ility of secondary boosting technology, and ultimate 
+funding limitations. 
+A roadmap to the development of aneutronic fusion propulsion is shown in Figure 
+20. The journey begins with a series of experiments specifically designed to address the 
+functionality and practicality of fusion propulsion concepts. These experiments should 
+consist of magnetic field plasma interact ions, quenching of induced instabilities, and 
+supplemental analysis to indicate feasibility for basic energy transport and sustainment. 
+After the physics has been demonstrated with numerous field plasma interaction and 
+confinement experiments, the focus can then be more on practical considerations. 
+Although th is transition is certainly not abrupt, a set of success criteria including plasma 
+beta greater than unity, successful ignition, sustained ignition, power balance (at least 
+theoretical), and basic concept designs should be well established. 
+UNCLASSIFIED/ /FOR 061ilCIAk lal&E 8HL'I 
+28

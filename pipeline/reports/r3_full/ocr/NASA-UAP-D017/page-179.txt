@@ -1,0 +1,25 @@
+171 
+got to a position where we were outside the 
+attitude constraint of the scanners. 
+White There were a couple of things . As far as the 
+initial rates were concerned, they were 3 1/2 
+degrees/second roll - right, 3 degreed pitch -down/ 
+second, and 2 degrees yaw- right/second . The final 
+orientation that Jim came to was such that his 
+pitch was on, his roll was on, and his yaw was 
+off by 18 degrees. We found early in the flight that 
+a yaw reference at night on the stars, particularly on 
+a dark night , was very difficult. 
+McDivitt Yes. I still thought that the quickest yaw re­
+ference was to go to the ground . 
+White As far as the day check , we decided that the night 
+was by far the tougher case, adn it didn't seem 
+to be too diff icult. So, we thought that since 
+the day was so easy we wouldn't even go ahead 
+and do it. The orientation by day was a quite 
+easy t ~,ing. 
+9. 3 One Attitude 1'hruster Failure Check 
+McDivitt Okay. We'll just go right through the 
+debriefing here . It was not difficult to 
+establish the rate as long as we had the roll 
+jets in the other axes . We could damp out the

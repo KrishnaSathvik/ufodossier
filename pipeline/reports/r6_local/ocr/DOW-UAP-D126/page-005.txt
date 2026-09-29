@@ -1,0 +1,46 @@
+UNCLASSIFIED/ /FOR OFFl@IAL l::l!H! 8HL'I 
+Advanced Nuclear Propulsion for Manned Deep Space 
+Missions 
+Preface 
+My interest in space flight dates to when I was about 10 years old and 
+received as a birthday gift a popular book about the feasibility of space flight. 
+From it I learned for the first time about Oberth and Goddard and of the 
+possibility of reaching the Moon with a multistage rocket. This occurred at the 
+same time that Hahn and Strassmann announced the discovery of nuclear 
+fission, with the possibility of an atomic bomb by a fission chain reaction. 
+Having been born in Germany in 1929, I received my Ph.D. in physics under 
+Heisenberg in 1955. Inspired by the 15-megaton hydrogen bomb test 
+conducted by the United States in 1952, I have been deeply interested in the 
+nonfission ignition of thermonuclear reactions by inertial confinement since 
+1954. At the time all fusion research in the United States was still classified, 
+but I had quite independently discovered the basic principles of inertial 
+confinement, the Guderley convergent shock wave, and the Rayleigh 
+imploding shell solutions. In 1956 I presented my findings at a meeting 
+organized by Von Weizsacker at the Max Planck Institute in Goettingen. The 
+abstracts of this meeting reside today in the University of Stuttgart library. 
+In 1958 I had delivered a paper at the 2nd United Nations Conference on the 
+Peaceful Use of Atomic Energy on Nerva-type nuclear rocket reactors. The 
+paper turned out to be of some importance as I was invited by the U.S. 
+government to come to the United States under "Operation Paperclip." In San 
+Diego I met Ted Taylor and Freeman Dyson, who were working on the famous 
+"Orion" nuclear bomb propulsion concept. This concept is generally credited to 
+Stanislaw Ulam, but I know from conversations I had with Heisenberg that a 
+similar idea had been presented to Heisenberg by Wernher von Braun in Berlin 
+in or around 1942. Because of my idea to use the Guderley convergent shock 
+wave solution for thermonuclear ignition, Ted Taylor and Freeman Dyson were 
+interested in my joining their group. But because at that time this work was 
+classified and I was not yet a U.S. citizen, this was not possible. 
+In 1967 I saw a new possibility for the nonfission ignition of thermonuclear 
+microexplosions by intense relativistic electron and ion beams, driven by a 
+high-voltage Marx generator. This ignition concept could be used not only to 
+control the release of energy by nuclear fusion, but also to propel a spacecraft, 
+replacing the pusher plate of the Orion concept with a magnetic mirror, 
+reflecting the plasma-fireball of the thermonuclear microexplosion (Reference 
+1, 2). This idea was adopted by the British Interplanetary Society in its 1978 
+Project Daedalus starship study, replacing a neutron-rich deuterium-tritium 
+(OT) thermonuclear explosive with a neutron-poor deuterium-helium3 (DHe3) 
+explosive (Reference 3). Unlike the OT reaction, in which 80 percent of the 
+released energy goes into neutrons, most of the energy in the D-He3 reaction 
+goes into alpha particles, which can be deflected by a magnetic mirror. But 
+UNCLASSIFIED/ ,'FOR OFFI&I.t.k Wliliii QfslL¥ 
+V

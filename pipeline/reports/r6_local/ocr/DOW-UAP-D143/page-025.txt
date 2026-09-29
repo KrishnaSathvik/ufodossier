@@ -1,0 +1,38 @@
+UNCLASSIFIED/;'POR: OPPICIAE USE 014Lf 
+deemed possible with emerging MEMS technologies being developed under the National 
+Nanotechnology Initiative for both chemical and FEEP thrusters (see Chapter 2 for 
+details). It was also found that the currently configured composite structure for the 
+Lightcraft forebody must be reduced from 2-ply to 3-ply (with the same ply-thickness) 
+to meet Lightcraft airframe mass requirements. 
+Another important finding in the study was the significant influence of the ground -based 
+laser wavelength (>..) on Lightcraft performance. Figure 8 illustrates the adverse beam 
+propagation geometry associated with ETO laser propulsion by means of ground-based 
+lasers. It is seen that beam propagation distances through the Earth's atmosphere are 
+short during initial flight phases when the path length traveled by laser energy to the 
+Lightcraft is least. But during latter flight phases (when the vehicle itself is above the 
+sensible atmosphere) the beam propagation path within the atmosphere is much 
+longer, and power losses due to atmospheric attenuation become ever greater with 
+increasing range. And since power losses due to laser beam spreading - even in vacuo 
+- also increase with increasing distance from the laser, power losses are greatest at the 
+end of laser propulsion (when vehicle distance from the laser is greatest). 
+For a ground-based laser with given aperture diameter, adaptive optics, atmospheric 
+conditions, and radiated power, the laser power collected by the Lightcraft was found to 
+be extremely sensitive to laser wavelength. Here, >.. determined the amount of radiated 
+laser power lost through "thermal blooming," turbu lence, and "extinction" during beam 
+passage through the Earth's atmosphere in addition to the power lost from "diffraction" 
+(beam spreading at longer ranges) during propagation through the vacuum of space. 
+And since each loss mechanism was a function of>.., Froning and Davis considered each 
+loss mechanism in their estimation of lost power for the six different laser wavelengths 
+associated with the six different ground-based laser candidates that were evaluated in 
+the study. 
+Shown in Figure 10 (without dimens ions) is the fraction of radiated laser power 
+collected by the Lightcraft at maximum laser propulsion range (when necessary "cut­
+off" velocity for orbital flight is achieved) for the spectrum of wavelengths investigated. 
+It is seen that a significant fraction of laser-radiated power is lost, even if there were no 
+atmospheric transmission losses at all. And additional losses associated with beam 
+propagation through the atmosphere are seen to result in power losses on the order of 
+75% to 99%. Figure 11 shows that significantly more power would be available at the 
+end of laser airbreathing flight than at the end of laser rocket flight. This might benefit 
+surface-to-air Lightcraft missions that would main ly entail airbreathing flight. 
+UNCLASSIFIED'I i'FAA: 061i1Clali.k W&& 8PtLY 
+21

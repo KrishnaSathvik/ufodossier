@@ -1,0 +1,44 @@
+UNCLASSIFIED//POR. Offl@IAI:: ~S& Qptk\f 
+propulsion has two major hurdles that are currently under investigation at CERN and at 
+the Brookhaven National Laboratory. 
+• Antimatter Generation: Only minute quantities of antimatter have ever been 
+produced. Antiprotons are produced in accelerators and in some radioactive decay 
+schemes. CERN has had an active program since 2000 in ant imatter detection and 
+collection. 25 Studies of antimatter production will continue during the upcoming 
+decade due to their importance as a dense storage medium for energy and for their 
+use in particle physics experiments. Current patents should help decrease the costs 
+of production of antihydrogen. Three programs have been part of the CERN 
+Anti matter Factory: 
+- ASACUSA: Antiprotons were directed through helium to generate atoms of 
+helium-2 with antiprotons replacing the orbiting electrons. 
+- ATHENA: An antiproton beam was fired through positrons generated from the 
+decay of Na-22. To generate the antiprotons, a proton synchrotron is used to 
+collide protons on an iridium surface. Antiprotons produced in the collision are 
+directed with electromagnets into an antimatter decelerator and captured. By 
+2002, ATHENA made 106 antihydrogen atoms in this way. The estimated cost of 
+generating antihydrogen using current technology is about $65 million/gram. 
+- ATRAP: This device used a Penning trap to combine cold antiprotons and 
+positrons to create antihydrogen. 
+• Antimatter Storage: Penning traps and Penning-Malmberg traps have been used 
+to contain antihydrogen for several weeks using a combination of RF and magnet ic 
+fields. 26 Further research into antimatter storage will lead to the ability to transport 
+and store nanogram or microgram quantities of antimatter. 
+Speculative Technologies: The Heim Quantum Theory 
+Burkhard Heim was a theoretical physicist that explored a new theory to link quantum 
+mechanics and the Theory of Relativity. 27 He postulated that time and distance are 
+quantized and that matter and energy can be described in terms of 12 dimensions. His 
+worked was followed by the Extended Heim Theory from Walter Droscher and Jochem 
+Hauser.28 The Heim Theory is able to predict, with a high degree of accuracy, the mass 
+and charge of almost all subatomic particles. New particles, such as the neutral 
+electron, are also predicted. The relationship of his work to space propulsion involves 
+the prediction of a quantum gravity force mediated through graviphotons created from 
+the interaction of matter and virtual particles. Droscher and Hauser have proposed the 
+use of graviphotons to provide propulsion in space with no ejection of matter to 
+generate thrust. 
+There are few peer-reviewed articles on Heim Quantum Theory, and physicists disagree 
+with the formulation of the theory and its results. Nevertheless, this would be the first 
+method that would not require the transfer of momentum by ejecting mass to generate 
+thrust. The Heim Working Group and the work of Drescher and Hauser should be 
+followed for possible application to spacecraft. 
+UNCLASSIFIED/fF&A &FFI&I:.l.k W&& Qptk\f 
+37

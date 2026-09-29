@@ -1,0 +1,186 @@
+--- PAGE 1 ---
+UNCLASSIFIED / /5OR-OFFE6EAE-USE-ONET
+
+Defense
+Intelligence
+Reference
+Document
+
+A SCo«é effec Futures
+
+11 January 2011
+
+ICOD: 10 August 2010
+
+DIA-08-1102-007
+
+Quantum Tomography of
+Negative Energy States in
+the Vacuum
+
+UNCLASSIFIED/ /FOUROPPTCTA oso
+
+--- PAGE 2 ---
+UNCLASSIFIED/ /FOA OlifilGIAk WSE 8HLV 
+Quantum Tomography of Negative Energy States in the 
+Vacuum 
+The Defense Intelligence Reference Document provides non-substantive but 
+authoritative reference information related to intelligence topics or methodologies. 
+Prepared by: 
+Technology Warning Division (DW0-4) 
+Defense Warning Office 
+Directorate for Analysis 
+Defense Intelligence Agency 
+Author: 
+AAP Person 58 
+COPYRIGHT WARNING: Further dissemination of the photographs in this publication is not authorized. 
+This product is one of a series of advanced technology reports produced in FY 2010 under the Defense 
+Intelligence Agency, Defense Warning Office's Advanced Aerospace Weapons System Applications 
+AAWSA Pro ram. Comments or questions pertaining to this document should be addressed to 
+MP Person 1 AAWSA Program Manager, Defense Intelligence Agency, ATTN: JUIAF -
+ashington D.C. 20340-5100. 
+UNCLASSIFIED/ }FQA QFFIGl,t.L: W&ii 9tlb¥ 
+ii
+
+--- PAGE 3 ---
+UNCLASSIFIED/ /EOR OFFIEIAk W&liii 8PtLY 
+Contents 
+Introduction ........................................................................................................... 1 
+REVIEW OF NEGATIVE (or SUB-VACUUM) ENERGY ................................................. 3 
+Overview ........................................................................................................ 3 
+Examples of Negative (Sub-Vacuum) Energy Found in Nature ....................... 4 
+Basic Notions of the Quantum Field Theory of Light ................................... 5 
+Basic Notions on the Origin of the Quantum Vacuum Zero-Point 
+Fluctuations ............................................................................................... 7 
+Negative (Sub-Vacuum) Energy in Squeezed Light .................................... 8 
+Negative (Sub-Vacuum) Energy in the Casimir Effect ................................ 13 
+QUANTUM OPTICAL HOMODYNE TOMOGRAPHY .................................................... 15 
+Observing Negative Energy in the Lab .......................................................... 15 
+Basic Notions of Quantum Optical Homodyne Tomography .......................... 16 
+Wigner Functions ..................................................................................... 17 
+Beam Splitters .......................................................................................... 24 
+Photodiodes ............................................................................................. 27 
+Balanced Homodyne Detection ................................................................. 27 
+Outline of Experimental Procedure ........................................................... 32 
+BALANCED HOMODYNE SYSTEMS FOR MEASURING NEGATIVE 
+(SUB-VACUUM) ENERGY ....................................................................................... 33 
+Time-Domain Balanced Homodyne System .................................................. 33 
+Balanced Homodyne System for Casimir Cavities ......................................... 36 
+CONCLUSION ........................................................................................................ 43 
+ACKNOWLEDGEMENTS ......................................................................................... 45 
+REFERENCES ........................................................................................................ 46 
+UNCLASSIFIED// FOR OFFICIAL U:!I! fJHLY 
+iii
+
+--- PAGE 4 ---
+UNCLASSIFIED/ /FOA QFFI@IAL l:l!H! 9HLY 
+Figures 
+Figure 1. Illustration of a Squeezed State of Light ............................................... 13 
+Figure 2. Schematic of the Casimir Effect ............................................................. 14 
+Figure 3. Illustration of Quantum Optical Homodyne Tomography ....................... 16 
+Figure 4. Wigner Function for a Vacuum and for a Coherent State ....................... 19 
+Figure 5. Wigner Function of a Squeezed Vacuum ................................................ 20 
+Figure 6. Wigner Function of a Single Photon ....................................................... 21 
+Figure 7. Quantum Tomography of Schrodinger-Cat States .................................. 22 
+Figure 8. Schematic of an Ideal Lossless Beam Splitter ........................................ 25 
+Figure 9. Illustration of a Fictitious Beam Splitter ................................................ 26 
+Figure 10. Schematic of a Balanced Homodyne Detector ...................................... 29 
+Figure 11. Balanced Homodyne Detector Using Fictitious Beam Splitters ............. 31 
+Figure 12. Balanced Homodyne Detector Using A Single Effective Fictitious Beam 
+Splitter ................................................................................................................. 32 
+Figure 13. Time-Domain Balanced Homodyne Detector ........................................ 34 
+Figure 14. Experimentally Measured Squeezed State ........................................... 35 
+Figure 15. Balanced Homodyne Detector with a Local Oscillator .......................... 38 
+Figure 16. Diagram of Casimir Cavity with BHD Photodiodes ............................... 40 
+Figure 17. Experimental Setup of BHD Photodiodes and LO Field ......................... 40 
+Figure 18. Detailed Schematic of Experimental BHD Apparatus ........................... 41 
+Figure 19. Predicted Casimir Spectral Density ...................................................... 41 
+Figure 20. Predicted Suppression of Vacuum Fluctuations in dB.......................... 42 
+UNCLASSIFIED/ /EOR OEEICl.1.1. Uiliii ONI.¥ 
+iv
+
+--- PAGE 5 ---
+UNCLASSIFIED/ /FOR. OFFICIAL tt.!I!! OHL¥ 
+Quantum Tomography of Negative Energy States in the 
+Vacuum 
+Introduction 
+Future aerospace vehicles could have an advanced propulsion system that uses 
+negative quantum vacuum energy to modify the spacetime geometry in the immediate 
+vicin ity surrounding the vehicle in order to induce faster -than-l ight motion via 
+traversable wormholes or warp drives, or even levitation via antigravity [1, 2]. These 
+exotic propulsion concepts are well-known in mainstream general relativity and 
+quantum field theory research. The notion of a physical state with negative energy is 
+not familiar in the realm of classical physics. However, it is not rare in quantum field 
+theory to have quantum states with negative energy density or a negative energy flux. 
+Even for a quantum scalar field in the flat Minkowski spacetime, it can be proved that 
+the existence of quantum states with negative energy density is inevitable [3]. 
+Although all known forms of classical matter have non-negative energy density, it is not 
+so in quantum field theory. A general quantum state can be a superposition of particle 
+number eigenstates and may have a negative expectation value of energy density in 
+certain spacetime regions due to quantum coherence effects [3]. These considerations 
+remain true even for quantum fields in a curved spacetime where the effects of 
+gravitational fields, or equivalently, accelerations, can be observed due to the mass of 
+astronomical bodies or the motions of astronomical bodies. 
+There are two key examples of specially prepared quantum vacuum states that are 
+known to produce small amounts of negat ive energy density in the laboratory. These 
+are the well-known Casimir effect and the squeezed vacuum states of the 
+electromagnetic field. The former is a static quantum vacuum effect wh ile the latter is 
+a time-domain quantum vacuum effect. There are several other examples of special 
+quantum vacuum or particle states that produce negative energy density, but they are 
+beyond the scope of this report because they remain mathematical curiosities or are not 
+practicable to im plement in the laboratory in the foreseeable future. 
+We already make small amounts of negative energy in the laboratory via the Casimir 
+effect and squeezed electromagnetic vacuum states, but we do not yet know if we can 
+access larger amounts for extended periods of time over extended spatial distributions 
+for the purpose of modifying spacetime for aerospace propulsion applications. It will be 
+necessary to first explore the quantum natu re of the Casimir effect and squeezed 
+electromagnetic vacuum states to determine whether we can measure and spatially 
+map their negative energy density. This is a necessary first step to take before 
+beginning any study on producing large quantities of negative energy because we will 
+first need to know how to measure and spatially map negative energy in order to 
+properly control it after producing it. This is the motivation for this report. 
+We need to firm up our understanding of how lab detectors will respond to negative 
+energy in situ. A first step in this direction was already taken by Hansen et al. [4] in 
+2001 for the time-domain negative energy pulses in squeezed electromagnetic vacuum 
+states, and more recently Marecki [5, 6] generalized the analysis of the output of 
+balanced homodyne detectors (BHDs) for t he case of static negative energy states 
+UNCLASSIFIED// FOR OFFICIAL U.!I!! or~L' 
+1
+
+--- PAGE 6 ---
+UNCLASSIFIED/ }FOA OFFl&IAl WSE er•tv 
+inside Casimir cavities. The most important feature of these devices is their ability to 
+quantify the quantum vacuum fluctuations of the electric field because the output of 
+BHDs provides information on the one- and two-point functions of arbitrary states of 
+quantum fields. Marecki computed the two -point function and the associated spectral 
+density for the ground state of the quantum electric field in Casimir geometries, and 
+predicts a position- and frequency-dependent pattern of BHD responses if a device of 
+th is type is placed inside a Casimir cavity. The proposed device allows for the direct 
+detection of quantum vacuum fluctuations and provides a spatial mapping of the 
+negative energy contained inside the cavity, which will be summarized in this report. 
+UNCLASSIFIED/ /FOR OFFICIAL U.!! 8HLY 
+2
+
+--- PAGE 7 ---
+UNCLASSIFIED/ /iOR QFFl&IAL l:ISI!!! Brit I 
+REVIEW OF NEGATIVE (or SUB-VACUUM) ENERGY 
+Overview 
+The implementation of faster-than-light (FTL) interstellar travel via traversable 
+wormholes or warp drives or other antigravity forces for propulsion, generally requires 
+the engineering of spacetime into very specialized local geometries surrounding the 
+immediate vicinity of the aerospace vehicle undergoing this type of motion. The 
+analysis of these via the general relativistic field equation plus the resultant source 
+matter equations of state demonstrates that such geometries require the use of 
+"exotic" matter in order to produce the requisite FTL or antigravity spacetime 
+modification . Exotic matter is generally defined by general relativity physics to be 
+matter that possesses (renormalized) negative energy density (sometimes negative 
+stress-tension = outward pressure, a.k.a. gravitational repulsion or antigravity), and 
+this is a very misunderstood and misapplied term by the non-general relativity 
+community. We clear up this misconception by defining what negative energy is, where 
+it can be found in nature, and we also review the two primary experimental concepts 
+that are known to produce negative energy in the laboratory. Also, it has been claimed 
+that FTL and antigravity spacetimes are not plausible because exotic matter violates the 
+general relativistic energy conditions. However, it has been shown that this is a 
+spurious issue. The identification, magnitude, and production of exotic matter is seen 
+to be a key technical challenge, however. FTL and antigravity spacetimes also possess 
+features that challenge the notions of causality and there are alleged constraints placed 

@@ -1,0 +1,48 @@
+or more of the aircraft was always being repaired, and eventually
+three of the five AQUILINE prototypes were destroyed in testing.
+
+Although AQUILINE’s visual and accoustic signatures were
+very small, its radar cross section continued to cause problems. The
+radar cross section at low frequencies was less than one-tenth of a
+square meter, giving it a radar signature smaller than that of an eagle,
+but there were flares in the VHF region that increased the likelihood
+of detection.
+
+Studies indicated that the radar cross section problems could
+eventually be reduced to acceptable levels, but the greatest weakness
+of the AQUILINE project was its navigational system. AQUILINE
+did not have a programmable autopilot; it had to be flown by remote
+control from the ground. Once the aircraft flew over the horizon, all
+navigational commands had to be relayed to it by high-flying aircraft.
+A DC-6 loitering at 25,000 feet would give AQUILINE a range of
+250 nautical miles; use of a U-2 at 70,000 feet could increase this to
+350 nautical miles.
+
+~--Such a range was suitable for the targets originally conceived for
+AQUILINE, but the need for intelligence on targets located much
+deeper in the Soviet Union and the People’s Republic of China
+
+—Secret noronnh—
+
+\and the development time and costs for
+
+AQUILINE began to soar. By 1971 ORD had spent six years and $33
+million on AQUILINE but still had many important problems to re-
+solve.
+
+At this point the project was turned over to the Office of Special
+Activities for operational testing at Area 51 in Nevada. Flight tests
+showed the aircraft to be successful by the standards originally set for
+the project in 1967, as it flew 130 miles and obtained very high reso-
+lution photography of a target before returning successfully to the
+original launchsite. However, improving AQUILINE sufficiently to
+make it a practical long-range reconnaissance system was estimated
+to cost another $35 million and take two to three years. On the recom-
+mendation of DDS&T Carl Duckett on | November 1971, Project
+AQUILINE was canceled. The project’s aircraft and equipment were
+eventually transferred to the US Army for use in a battlefield manage-
+ment system known as AQUILA, which has yet to be deployed be-
+cause of continuing developmental problems.
+
+Appendix E
+341

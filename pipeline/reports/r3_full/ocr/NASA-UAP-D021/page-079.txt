@@ -1,0 +1,26 @@
+69 
+··-◄ - ..-... 'ii 
+.;J,, ... ,:·- - L. :-... .. •-t ._~ 
+aligned the platform for reentry that we were able to get 
+enough control out of 3 and 4 to align the platform. 'When 
+we did this, of course, in order to get yaw control we went 
+to roll jets - pitch, and that worked fine. I don't have 
+anything to add to that malfunction. We heard the solenoids 
+working. When we went to DIRECT we could feel we did get an 
+impulse, but we did not seem to get ignition. It sounded 
+more like a swis hing noise. The groun d ana.lyzed it and 
+seemed to think it we.s a problem with the valve seats. I ' m 
+not certain what it wa.s. I do know that we also tri ed s econ­
+dary drivers and that didn't help. I coul d tel l that wasn't 
+the problem when we f i rst heard it. 
+Lovell We tried different modes--PULSE, D IRECT, a.nd RATE COMMAND , 
+but tb.a.t didn't help. I think it was mechanica l problem. 
+Borman RATE COMMAND is a very tight contro l mode. I'm very glad i t 
+was there. I think it is very important to have that for 
+retrofire. We also used it for reentry. I think it is a 
+very good mode. Of course, it is expensive in .f'uel . We 
+used it also for all our thrusting when we were making orbi t 
+adjust maneuvers. 
+Lovell Let me ask a quest ion . When did you go to RATE COMMAND 
+during the reentry? 
+Borman I went to RATE COMMAND during reentry Lfte:r guidance initi-

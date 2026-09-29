@@ -1,0 +1,42 @@
+UNCLASSIFIED/ fFOA OFFl&I.t..k YS& 8Ptk\f 
+manifold, but of the fibre bundle itself has an effect on r::,; . In addition to this, there 
+are (compactified) extra-space dimensional quantum field (i.e., D-Brane or "brane 
+world") analogs of the Casimir effect yet to be explored. But a detailed consideration of 
+these for producing traversable wormholes is beyond the scope of this report and will 
+be left for future investigation. 
+As a final note, the methods used to obtain the electromagnetic T~;; between parallel 
+plane conductors can also be used when the conductors are not paralle l but are joined 
+together along a line of intersection. If the conductors have curved surfaces instead, 
+then one obtains results that are similar to the case of intersecting conductors. These 
+geometries have also been evaluated for the case of dielectr ic media. These particular 
+cases will not be considered further since there are technical subtleties involved that 
+complicate the calculations and application of the different approaches. This topic will 
+also be left for future investigat ion. 
+5. Dynamical Casimir Effect: Moving Mirrors 
+Negative energy can be created by a single moving reflecting (conducting) surface 
+(a.k.a. a moving mirror). A mirror moving with increasing acceleration generates a flux 
+of negative energy that emanates from its surface and flows out into the space ahead 
+of the mirror (Reference 25, 56). This is essentially the simple case of an infinite plane 
+conductor undergoing acceleration perpendicular to its surface. If the acceleration 
+varies with time, the conductor will generally emit or absorb photons (i.e., exchange 
+energy with the vacuum), even though it is neutral. This is an example of the well­
+known quantum phenomenon of parametric excitation. The parameters of the 
+electromagnetic field oscillators (e.g., their frequency distribution function) change with 
+time owing to the acceleration of the mirror (Reference 57). However, this effect is 
+known to be exceedingly small, and it is not the most effective way to produce negative 
+energy. This scheme will not be considered any further. 
+6. Casimir Effect: Negative Energy for Traversable Wormholes 
+The electromagnetic Casimir effect can be used in principle to create a traversable 
+wormhole. The energy density pcE = -(n2nc/720)a4 within a Casimir cavity is negative 
+and manifests itself by producing a force of attraction between the cavity walls. But 
+cavity dimensions must be made exceedingly small in order to generate a significant 
+amount of negative energy. In order to use the Casimir effect to generate a spherically 
+symmetric traversable wormhole throat of radius r11zroar, there is need to design a cavity 
+made of perfectly conducting spherically concentric thin plates with a plate separation d 
+of (Reference 2): 
+(1t3)¼( {he)½d = ~ hroal30 \/7 (8) 
+= (4.05 X 1o - JS) ✓ r lhroal (m) 
+To counteract the collapse of the cavity due to the Casimir Force acting between the 
+plates, the plates will have equal electric charges placed upon them to establish 
+UNCLASSIFIEQ { {FOR OFFICIAL YS& 8HLY 
+20

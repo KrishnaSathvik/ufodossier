@@ -1,0 +1,38 @@
+UNCLASSIFIED1fFOR 8ffl@IAL tt9! e"t I 
+Chapter 6: Conclusions 
+Ultracapacitors are becoming increasingly important in applications ranging from 
+portable electronics to cargo transport cranes. Their introduction in electronic circuits 
+for conversion and storage assistance will become the next major milestone. The 
+virtually unlimited cycle life combined with high power capabilities has made them an 
+integral component to many energy-management schemes. Early adoption of ultracaps 
+by the military was an important differentiator for vehicle performance and a 
+technology driver. Improvements to activated carbons and manufacturing techniques 
+have brought costs down. The ultracapacitor is relatively young and is expanding 
+rapidly as ultracaps are reaching a more widespread audience. Increased adoption has 
+led to recognition of the benefits, and the attention has allowed researchers to develop 
+a better understanding of the power-storage mechanisms. 
+New materials and cell designs will produce increased capacitance and higher voltages, 
+which will in turn give ultracapacitors better energy density. Advanced carbons show 
+great promise to generate a carbon electrode with much higher capacitance than the 
+activated carbons in use today. These include porous carbons, carbon nanotubes, and 
+graphene. Capacitance increases by the carbon electrode alone could double the energy 
+density. Additional advantages in conductivity and the ability to functionalize these 
+materials will generate improvements in power density as well as energy density. 
+Hybrid systems utilizing a battery-like electrode are beginning to gain acceptance. 
+These pseudocapacitive systems maintain the high power density of a symmetric 
+ultracap and also have substantially higher energy density. While these systems 
+sacrifice some cycle-life capability, it appears as though they will survive tens of 
+thousands of cycles. 
+Ultracapacitors are a solution for generating or absorbing high pulse power. They also 
+are excellent devices for backup power and stabilization of fluctuating power 
+requirements. Increased power densities and energy densities will open up new 
+applications for ultracaps, replacing fuel and batteries in some cases, supplementing 
+them in others. Power management and generation for military systems will see 
+increasing uses for ultracaps. Their unique capabilities will enable future designs. Their 
+specific performance capabilities must be optimally utilized and we must have a keen 
+understanding and awareness of the unique spectral signatures these devices generate 
+when storing high power and in charge or discharge modes. Development of these 
+advanced ultracaps must be performed, understood, and adopted by the U.S. 
+government and those who are developing the systems to be used by the government. 
+UNCLASSIFIEO/fFOA OFFI&I:.l.b YS& ONLY 
+27

@@ -16,10 +16,10 @@ function getDecade(occurred_at: string | null): string {
 
 interface Props {
   incidents: MapIncident[];
-  totalCount: number;
+  unplottedCount: number;
 }
 
-export function MapClient({ incidents, totalCount }: Props) {
+export function MapClient({ incidents, unplottedCount }: Props) {
   const [filters, setFilters] = useState<MapFilters>(EMPTY_FILTERS);
 
   const filtered = useMemo(() => {
@@ -67,6 +67,7 @@ export function MapClient({ incidents, totalCount }: Props) {
       <MapFilterSidebar
         incidents={incidents}
         filteredCount={filtered.length}
+        unplottedCount={unplottedCount}
         filters={filters}
         onFiltersChange={setFilters}
       />

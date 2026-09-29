@@ -1,0 +1,51 @@
+UNCLASSIFIED/ J'FOR OFFI@IAl W&lii 9PU.Y 
+either space charge or magnetic energy considerations, the storage limit is tens of 
+picograms, 7-8 orders of magnitude short of 100 micrograms, where practical uses of 
+positrons begin to emerge, as illustrated earlier. 
+The second approach is confinement of neutral Ps atoms in manufactured porous media 
+of either regular lattices of atoms, such as polymers, or irregular strands of insulator 
+material encapsulating voids, such as silica aerogel. 69, 70 Regardless of void size, Ps 
+atoms ultimately annihilate with electrons attached to atoms on the boundaries of voids 
+by the so-called "pickoff" process. Therefore, large, observable lifetimes require 
+materials with extraordinarily large voids. 
+FORMATION OF POSITRONIUM IN POROUS MEDIA 
+Positrons are injected into a porous 
+material at low energy (~100 keV) to 
+ensure that they stop and form a Ps atom 
+over a distance of a few millimeters. 71 
+The positron rapidly loses its energy by 
+collisions with electrons attached to 
+atoms in the material. As it nears 6.8 
+electronvolts (eV)-the binding energy of 
+the ground state of Ps-it captures a 
+weakly bound electron and forms Ps. It 
+diffuses through the material, and over 
+about 1 nanosecond, its energy is 
+rendered to the room temperature of the 
+material, 0.025 eV. This is called 
+thermalization. 
+The quantum mechanical model of Psis 
+remarkably similar to the hydrogen atom. 
+The major difference is that Ps 
+spontaneously annihilates, whereas 
+hydrogen is stable. The "self-annihilation" 
+of Ps due to overlap of electron and 
+positron wave functions results in extremely short lifetimes, as noted earlier. 
+Lifetimes against "self-annihilation" can be demonstrably increased if the following two 
+conditions are met: (1) a way is found to isolate the electron wave function from the 
+positron wave function, and (2) materials provide voids large enough to allow detection 
+of lifetimes well beyond 142 nanoseconds (ns). A high vacuum is required to avoid Ps 
+annihilation on gas molecules within the voids. The following describes how Positronics 
+Research LLC has approached these issues in the laboratory. 72 
+LONG-TERM STORAGE OF POSITRONIUM 
+Under crossed magnetic and electric fields, Ps assumes a doubly oblate shape (Figure 
+21), with the electron and positron separated by hundreds of nanometers to tens of 
+micrometers, depending on the size of the fields.73 Computation of lifetimes against 
+quantum mechanical barrier penetration reveals lifetimes in excess of 1 year over a 
+large range of magnetic and electric fields. 
+UNCLASSIFIED/ ,<FOA OFFICI t L !l&li 0PIL¥ 
+Figure 20. A Positron Forms Ps on the Edge of a 
+Void, Thermalizes, and Becomes Trapped in a Void 
+Before Annihilating (courtesy University of 
+Michigan) 
+25

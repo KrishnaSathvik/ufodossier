@@ -1,0 +1,109 @@
+UNCLASSIFIED / / FOR-OFFEGHH-USE-OA
+
+s()=— and slud=zEy=7 20)
+
+xy (y
+
+where (25) was already used in the last step. By
+virtue of the uniform probability density function
+(10) and of (26), the general transformation law (9)
+finally yields
+
+i(y)} Bi -aj = |
+
+y
+
+hol Dea El ee _. Bi
+
+In other words, the requested pdf of Y; is
+
+Probability density functions of the natural logs of
+all the uniformly distributed Drake random
+variables Dj.
+
+This is indeed a positive function of y over the
+interval In(a;)< ys In(b; ) , as for every pdf, and it is
+easy to see that its normalization condition is
+fulfilled:
+
+n(a;) nt n(a;) B; —a; : b; —a;
+
+...(29)
+
+Next we want to find the mean value and
+standard deviation of Y; , since these play a crucial
+
+role for future developments. The mean value (Y;) is
+
+given by
+
+In(b, ) In(b,) pt
+(v,)=] y- fy (y)ay= | pO af
+
+n(a;)” In(a;,) b; —a;
+
+= bj [in(o, )—1]—a; fIn(a; )-1]
+b, -4a;
+
+t t
+
+(30)
+
+This is thus the mean value of the natural log of all
+the uniformly distributed Drake random variables
+Di
+
+) = (in(D,)) es b,[in(b;)-1]- a, [in(a;)—1]
+
+a, E od}
+
+36
+
+In order to find the variance also, we must first
+compute the mean value of the square of Y¥;, that is
+
+n(a; )
+
+...(32)
+
+The variance of Yi = In(Dj) is now given by (32)
+minus the square of (31), that, after a few reductions,
+yield:
+
+(33)
+Whence the corresponding standard deviation
+a,b;[in(b; )—In(a;)P
+Oy =p) = }-— Se °(34)
+oy (b, —4a; \g
+
+Let us now turn to another topic: the use of
+Fourier transforms, that, in probability theory, are
+called “characteristic functions,” Following again the
+notations of Papoulis (ref. [5]) we call “characteristic
+function”, Oy (¢ ) , of an assigned probability
+distribution Y; , the Fourier transform of the relevant
+probability density function, that is (with j =~V-1 )
+
+(35)
+
+The use of characteristic functions simplifies things
+greatly. For instance, the calculation of all moments
+of a known pdf becomes trivial if the relevant
+characteristic function is known, and _ greatly
+simplified also are the proofs of important theorems
+of statistics, like the Central Limit Theorem that we
+will use in Section 4. Another important result is that
+the characteristic function of the sum of a finite
+number of independent random variables is simply
+given by the product of the corresponding
+characteristic functions. This is just the case we are
+facing in the Statistical Drake equation (3) and so we
+are now led to find the characteristic function of the
+random variable Y;, i.e.
+
+a. Inf) 2. ey
+o, (c)=[ elt? f, (y)dy= | poy ad dy
+
+r 20 In(a;) b, —a;
+
+UNCLASSIFIED/ 4OR-O5ELGLALUSE.ONLY

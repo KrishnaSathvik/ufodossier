@@ -1,0 +1,35 @@
+UNCLASSIFIED/ /FOR OFfl@IAL ~81: er•tv 
+of conventional alloys. In this section, we review the mechanical behavior of metallic 
+glasses, with particular attention to properties of interest for aerospace applications. We 
+consider actual properties in detail in the section below on applications, where we 
+compare the properties of metallic glasses with those of other advanced structural 
+materials. 
+Stiffness : Elastic Deformation 
+Stiffness is the resistance of a material to elastic deformation and is quantified by either 
+the elastic modulus (for tensile or compressive loads) or the shear modulus (for shear 
+loading). Metallic glasses tend to be somewhat (20 -30 percent) less stiff than 
+crystalline alloys of similar composition. The lower modulus is a consequence of the 
+amorphous structure, in which atoms are (on average) slightly farther apart than in a 
+crystalline alloy, enabling certain atomic relaxations that are not possible in a crystal. 
+The lower modulus of amorphous alloys is clearly a concern in applications where 
+stiffness is a primary criterion, but it does present some advantages. For instance, 
+some applications (springs, for example) require the ability to store elastic strain 
+energy (resilience), and here metallic glasses do quite well. Resilience is also a key 
+figure of merit for snap-fit assembly of materials without fasteners. Overall, however, 
+for structural applications, the low stiffness of meta llic glasses is a disadvantage. 
+Strength and Ductility : Plastic Deformation 
+The theoretical strength of perfect, defect -free crystalline metals is several orders of 
+magnitude larger than strengths measured in typical laboratory experiments. The 
+difference exists because metallic crystals inevitably have crystalline defects 
+(dislocations) that are able to move at relatively low stresses and cause plastic 
+(nonrecoverable) deformation . Because dislocations cannot exist in an amorphous 
+structure, in principle the strength of amorphous alloys should approach theoretical 
+limits based on the inherent strength of the atomic bonds. As shown in Table 2, the 
+strength of aluminum -based metallic glasses can be two or three times greater than 
+those of conventional (crystalline) high-strength aluminum alloys. Similarly high 
+strengths are seen for other amorphous alloys; for instance, the best iron -based alloys 
+have a strength of approximately 4 GPa-again, two or three times greater than those 
+of conventional high-strength steels.10 Such high strengths create great interest in 
+potential structural applications of metallic glasses. 
+6 
+UNCLASSIFIED/ /EAR AEEICJOI 11S5 01:fl X

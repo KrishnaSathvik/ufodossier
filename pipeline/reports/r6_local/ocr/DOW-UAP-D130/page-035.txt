@@ -1,0 +1,102 @@
+UNCLASSIFIED / / BOR-O551-6RL-USE-OPie
+
+16 Cummings ML, Guerlain S. Developing operator capacity estimates for supervisory control of autonomous
+vehicles. Hum Factors 2007 Feb;49(1):1-15.
+
+17 Enzinger C, Ropele S, Fazekas F, Loitfelder M, Gorani F, Seifert T, et al. Brain motor system function in a patient
+with complete spinal cord injury following extensive brain-computer interface training. Exp Brain Res 2008
+Sep;190(2):215-23.
+
+18 Berger H. Uber das elektrenkephalogramm des menschen. Archiv fur Psychiatrie und Nervenkrankheiten
+1929;87(1):527-80.
+
+19 Davis P. Effects of acoustic stimuli on the waking human brain. Journal of Neurophysiology 1939;2:494-9,
+
+20 Blankertz B, Dornhege G, Krauledat M, Muller KR, Curio G. The non-invasive Berlin Brain-Computer Interface:
+fast acquisition of effective performance in untrained subjects. Neuroimage 2007 Aug 15;37(2):539-50.
+
+21 Kubler A, Kotchoubey B, Kaiser J, Wolpaw JR, Birbaumer N. Brain-computer communication: unlocking the
+locked in. Psychol Bull 2001 May;127(3):358-75.
+
+2 Bai O, Lin P, Vorbach S, Floeter MK, Hattori N, Hallett M. A high performance sensorimotor beta rhythm-based
+brain-computer interface associated with human natural motor behavior. J Neural Eng 2008 Mar;5(1):24-35.
+
+23 Iversen I, Ghanayim N, Kubler A, Neumann N, Birbaumer N, Kaiser J. Conditional associative learning examined
+in a paralyzed patient with amyotrophic lateral sclerosis using brain-computer interface technology. Behav Brain
+Funct 2008;4:53.
+
+24 Iversen IH, Ghanayim N, Kubler A, Neumann N, Birbaumer N, Kaiser J. A brain-computer interface tool to assess
+cognitive functions in completely paralyzed patients with amyotrophic lateral sclerosis. Clin Neurophysiol 2008
+Oct;119(10):2214-23,
+
+25 Sellers EW, Kubler A, Donchin E. Brain-computer interface research at the University of South Florida Cognitive
+Psychophysiology Laboratory: the P300 Speller. IEEE Trans Neural Syst Rehabil Eng 2006 Jun;14(2):221-4.
+
+26 Greene K. Brain sensor for market research: A startup claims to read people's minds while they view ads. 2007
+[May 12, 2009]; Available from: http://www.technologyreview.com/Biztech/19833/?a=f.
+
+27 Greene K. Connecting Your Brain to the Game Using an EEG cap, a startup hopes to change the way people
+interact with video games. 2007 [May 12, 2009]; Available from:
+http://www.technologyreview.com/Biztech/18276/?a=f.
+
+28 Popescu F, Fazli S, Badower Y, Blankertz B, Muller KR. Single trial classification of motor imagination using 6 dry
+EEG electrodes. PLoS ONE 2007;2(7):e637.
+
+2° van Gerven M, Jensen O. Attention modulations of posterior alpha as a control signal for two-dimensional brain-
+computer interfaces. J] Neurosci Methods 2009 Apr 30;179(1):78-84.
+
+3° Mellinger J, Schalk G, Braun C, Preiss! H, Rosenstiel W, Birbaumer N, et al. An MEG-based brain-computer
+interface (BCI). Neuroimage 2007 Jul 1;36(3):581-93.
+
+31 Ohta H, Matsui T, Uchikawa Y. Whole-head SQUID system in a superconducting magnetic shield. Neurol Clin
+Neurophysiol 2004; 2004:58.
+
+32 Kraus RH, Jr., Volegov P, Matlachov A, Espy M. Toward direct neural current imaging by resonant mechanisms at
+ultra-low field. Neuroimage 2008 Jan 1;39(1):310-7.
+
+33 McDermott R, Lee S, ten Haken B, Trabesinger AH, Pines A, Clarke J. Microtesla MRI with a superconducting
+quantum interference device. Proc Natl Acad Sci U S A 2004 May 25;101(21):7857-61.
+
+34 Chen Y, Intes X, Tailor DR, Regatte RR, Ma H, Ntziachristos V, et al. Probing rat brain oxygenation with near-
+infrared spectroscopy (NIRS) and magnetic resonance imaging (MRI). Adv Exp Med Biol 2003;510:199-204.
+
+35 Luu S, Chau T. Decoding subjective preference from single-trial near-infrared spectroscopy signals. ] Neural Eng
+2009 Feb;6(1):016003.
+
+36 Loeb GE. Cochlear prosthetics. Annu Rev Neurosci 1990;13:357-71.
+
+37 Bailey L. New cochlear implant could improve hearing. University of Michigan News Service [serial on the
+Internet]. 2006: Available from: http://www.umich.edu/news/index.html?Releases/2006/Feb06/r020606a.
+
+38 Cheng YC, Brown RW, Chung YC, Duerk JL, Fujita H, Lewin JS, et al. Calculated RF electric field and temperature
+distributions in RF thermal ablation: comparison with gel experiments and liver imaging. J Magn Reson Imaging
+1998 Jan-Feb;8(1):70-6.
+
+3° Kamitani Y, Tong F. Decoding the visual and subjective contents of the human brain. Nat Neurosci 2005
+May;8(5):679-85.
+
+4° Kamitani Y, Tong F. Decoding seen and attended motion directions from activity in the human visual cortex. Curr
+Biol 2006 Jun 6;16(11):1096-102.
+
+‘1 Fagg AH, Hatsopoulos NG, de Lafuente V, Moxon KA, Nemati S, Rebesco JM, et al. Biomimetic brain machine
+interfaces for the control of movement. J Neurosci 2007 Oct 31;27(44):11842-6.
+
+42 Kim HK, Carmena JM, Biggs SJ, Hanson TL, Nicolelis MA, Srinivasan MA. The muscle activation method: an
+approach to impedance control of brain-machine interfaces through a musculoskeletal model of the arm. IEEE
+Trans Biomed Eng 2007 Aug;54(8):1520-9.
+
+43 Kawato M. Brain controlled robots. HFSP J 2008 Jun;2(3):136-42.
+
+44 Jackson A, Moritz CT, Mavoori J, Lucas TH, Fetz EE. The Neurochip BCI: towards a neural prosthesis for upper
+limb function. IEEE Trans Neural Syst Rehabil Eng 2006 Jun;14(2): 187-90.
+
+45 Leuthardt EC, Miller KJ, Schalk G, Rao RP, Ojemann JG. Electrocorticography-based brain computer interface--
+the Seattle experience. IEEE Trans Neural Syst Rehabil Eng 2006 Jun;14(2):194-8.
+
+46 Diorio C, Mavoori J. Computer electronics meet animal brains. IEEE Computer 2003;36(1):69-75.
+
+47 Parikh H, Marzullo TC, Kipke DR. Lower layers in the motor cortex are more effective targets for penetrating
+microelectrodes in cortical prostheses. J] Neural Eng 2009 Apr;6(2):026004.
+
+29
+UNCLASSIFIED/ 2OR-OFFf6-USE-ONE

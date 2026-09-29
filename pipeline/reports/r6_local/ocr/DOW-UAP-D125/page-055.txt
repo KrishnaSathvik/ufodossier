@@ -1,0 +1,42 @@
+UNCLASSIFIED/ /POI\ OPPICllct tt!I!! 9HLY 
+The three detection techn iques shown in Table 5.1 have previously been used 
+independently in inspection units. The present integrated unit makes use of all three 
+simultaneous ly. Thus, the strengths of each device combine to provide consistent 
+overall coverage of elements/objects. 
+Table 5.1. Three Kinds of Techniques Previously Used in Explosives Detection 
+System 
+Here,, TNA and FNA represent thermal and fast neutron activation respectiv,elv 
+X-ray 
+Element I dentification 
+TNA FNA 
+Eleme nt Den sity 
+Nitrogen High Mediu m -
+Very High Very Low Carbon -
+Oxygen 1-ligh NA -
+Hydrogen Very High High -
+Very High High Chlorine -
+C/0 Ratio High NA -
+Backgro und Noise Hi gh Low NA 
+Pul sed FNA Imaging: geometry & localization Limited provides depth High resolutioninti rmali n information 
+Su itca I carg ,uitca etApplication Small suitcase not good for cargo plastics objects 
+Confi guratio n SimpleComplicated Complicat ed 
+Operation & Maintenance Cost Hi gh High Low 
+The integrated IEC system employs a combination of PFNA/TNA methods and 
+conventional x-ray techniques to collect elemental information as wel l as a 3-D imaging 
+of any suspected objects. The 14.1-MeV neutrons from the D-T reaction will be the 
+primary source for TOF FNA wh ile thermalized neutrons from a block of neutron 
+thermalizing plastic in front of the 2.45-MeV DD IEC will be used for TNA. This 
+combination will increase spatial resolution and significantly reduce the false allarm rate 
+to a low level compared to conventional methods which employ single sources and are 
+limited to yield due to lack of broad area sources. 
+Overview for Weapons/Nuclear Material Simulation Articles 
+The following three categories of items provide a overview of articles of interest for 
+detection in inspection stations. 
+A. Explosives which are of high O and N, low C and H elementa l densities are listed 
+below with sizes ranging from 8 x 8 x 8 cm3 to 20 x 20 x 20 cm3 . 
+• RDX (Cyclonite , C3HGNGO6) with p = 1.83 g/cm 3. 
+• TNT(Trinitrotoluene, C7HsNJO6) with p = 1.654 g/cm 3 . 
+• PETN(Penthrite, CsHsN4O1 2) with p = 1.773 g/cm 3. 
+• TATB(Triaminotrinitrobenzene, CGHGNGOG) with p = 1.93 g/cm 3• 
+UNCLASSIFIED/ /FOR 8FFl€i1Ak W&lii 0NkY 
+48

@@ -1,0 +1,39 @@
+UNCLASSIFIED/ /POI\ orr1e1At t.9!11!! f>HLY 
+The basic principle of this detection method, shown in Figure 2.5, is common to most 
+NAA but is now specialized for detecting the basic elements in the land mines. Key 
+design considerations are the source strength required, the neutron energy desired (i.e. 
+D-D vs D-T fusion) and the type and location of neutron and x-ray detectors (from 
+Reference 2. 7). 
+How to Detect Landmine I 
+Neutron yield of -1 08 is required -~- - ~~ 
+,..., ·i-~~ ~ 
+neutron ta111• - - -~ ... 
+y~ay 
+detector 
+source • ., \ - I 
+~- ~ 
+Alo • • T explosive 
+I3 , 3 I~ I 
+Ato, 1 r io of iv fix d 
+y ray en i ion 
+N(n, y) • • • 10.83 MeV y ray n i ion 
+Figure 2.5. Scheme for Landmine Detection Using a Hybrid Magnetron Type IEC Neutron 
+Source (From Reference 2.7) 
+The IEC developed for this work used a magnetron ion generation technique to improve 
+the neutron production efficiency (Reference 2.6). A built -in magnetron discharge ion 
+source was installed in the IEC. With the magnetron discharge, ions are produced in the 
+vicinity of the vacuum chamber (anode) at negative electric potential. Therefore, the 
+ions produced are expected to have nearly full energy corresponding to the applied 
+voltage to the IEC cathode but slightly smaller energy than the anode potential. This 
+prevents them from hitting the anode of the opposite side improving both fusion 
+reaction rate and ion recirculation life. (Note that thiis approach is yet another way to 
+address the problem of preventing ions created externally from escaping after entering 
+the potential well. The technique here is to use the internal source to create the ions at 
+a potential level less than the height of the potential ! well). 
+In addition to an internal source, the magnetron can produce ample ion current to 
+maintain the discharge under low-pressure conditions . Ions generated in the ion source 
+are attracted by the IEC central cathode because of its high negative electric potential. 
+Therefore, the Kyoto investigators expected that a higher applied voltage would 
+increase the extraction current, giving a higher IEC cathode current. However, it was 
+UNCLASSIFIED/ /FOA OFFIQIAk Wliii 01\lk¥ 
+18

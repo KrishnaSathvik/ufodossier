@@ -1,0 +1,49 @@
+UNCLASSIFIED/ /FOR OFFIEIAk WS& OPtkY 
+vacuum and its related spacetime physics (for example, "emergent" spacetime/gravity 
+theories (Reference 109-111)), New materials or combinations of materials, such as 
+condensed matter (superconductors), semiconductors or metamaterials, would also be 
+an important game changer because of the unique ways that quantum fields would 
+interact with them to produce phenomena of interest. 
+In going forward to the potential demonstration of continuous energy extraction from 
+the vacuum, one should consider the following additional action items for further R&D: 
+• The quantum vacuum electromagnetic effects outlined in Section IV were computed 
+to scale with Planck's constant and are therefore very small. In order to have a 
+practical device based on quantum vacuum properties, it would be preferable that 
+the vacuum effects the scale, meaning that the effects are essentially independent 
+of Plank's constant and consequently may be much larger . By itself this requirement 
+does not guarantee a large enough magnitude, but it certa inly helps. 
+Electromagnetic Casimir effects are typically small and difficult to measure. In fact, 
+measurements have only been made for simple geometries such as the parallel 
+plate or the sphere -plate geometries. This fact raises a question: Is it possible to 
+amplify these effects and bring them into a useful range? This is certainly one of the 
+challenges of vacuum engineering. The experiment described in Section IV could 
+address this question. 
+• Experiments are needed to explore some of the issues that are beyond the present 
+computational ability of QED; for example, the effect of complex geometries on 
+vacuum forces, or the effect of interacting or externally applied fields or dense, 
+moving nuclear matter on the quantum vacuum. Is it possible to make a stable 
+vacuum field that has a large variation in energy density? Can energy density 
+gradients be found on a length scale that is useful for technological applications? 
+One needs to greatly increase our knowledge of the quantum vacuum. The 
+development of a very sensit ive small probe that prov ides a frequency 
+decomposition of the local vacuum energy density would very useful. 
+- A first step in this direction was recently proposed by Marecki (Reference 112) 
+who generalized the analysis of the output of balanced homodyne detectors 
+(BHDs). The most important feature of these devices is the ir ability to quantify 
+the quantum vacuum fluctuations of the electric field because the output of BHDs 
+prov ides informat ion on the one- and two -point funct ions of arbitrary states of 
+quantum fields. Marecki computed the two-point function and the associated 
+spectral density for the ground state of the quantum electric field in Casimir 
+geometr ies, and predicts a position- and frequency-dependent pattern of BHD 
+responses if a device of this type is placed inside a Casimir cavity. The proposed 
+device allows for the direct detection of quantum vacuum fluctuations and 
+provides a spatial mapping of the vacuum energy contained inside the cavity. 
+This offers a potential new characterizat ion of ground states in Casimir 
+geometries, which would provide an understanding of the vacuum energy 
+densities present in some regions in these geometries. 
+• From the status of current research in Casimir forces, it is clear that one is at the 
+cusp of describing the properties of the quantum vacuum for real systems with real 
+material properties. For example, there is no general agreement regarding the 
+calculations of static vacuum forces for geometries other than infin ite parallel plates 
+UNCLASSIFIED/ /FOR OFFICIO! P!ili QIU.,¥ 
+39

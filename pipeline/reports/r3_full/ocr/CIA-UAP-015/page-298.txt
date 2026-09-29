@@ -1,0 +1,61 @@
+I 
+I 
+I 
+WORK SHEET 
+I Observer's 
+I 
+Data Punched 
+Sheet Card 
+Question Column Code Descri;etion 
+I l* 
+2 Incident serial 
+I 
+3 Serial No. number 
+4 
+I 
+6 Serial No. Insertion 
+7 
+8 Dal 
+I 
+9 
+1. 10 Month 
+11 
+I 
+12 Year Observed 
+13 
+14 Day: 
+I 
+1 
+2. 16 Month Re:eorted 
+17 
+I 
+18 Day 
+19 
+20 Month Rec I d ATIC 
+I 
+21 
+22 Hrs. Time of observation 
+23 Greenwich C. T. 
+I 3. 24 Min. 
+25* Time Units Duration of 
+2 observation 
+I 4. 27 Duration 
+2 * 
+29 
+I 30 
+31 Latitude 
+I 
+32* 
+33 
+34 Location 
+I ,. 35 
+36 Longitude 
+37 
+I 
+38 
+39 
+40 Cosine latitude 
+I ~· Denotes separate code key is needed. 
+I I 
+299 
+I

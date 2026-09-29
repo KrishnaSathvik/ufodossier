@@ -1,0 +1,87 @@
+{
+  "filename": "DOW-UAP-D110.pdf",
+  "generated_at": "2026-09-28T20:42:27.385081+00:00",
+  "page_count": 4,
+  "usable_text_chars": 10088,
+  "stats": {
+    "native_good": 3,
+    "native_thin": 0,
+    "needs_ocr": 1,
+    "ocr_failed": 0,
+    "ocr_succeeded": 1,
+    "pages_ocrd": 1,
+    "ocr_unrecoverable_thumbnail": 0
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "native_quality": {
+        "page_number": 1,
+        "native_char_count": 1957,
+        "printable_ratio": 1.0,
+        "alpha_ratio": 0.79,
+        "word_count": 252,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "sufficient clean native text"
+      },
+      "final_category": "native_good",
+      "text_method": "native",
+      "char_count": 1957,
+      "text": ""
+    },
+    {
+      "page_number": 2,
+      "native_quality": {
+        "page_number": 2,
+        "native_char_count": 3548,
+        "printable_ratio": 1.0,
+        "alpha_ratio": 0.815,
+        "word_count": 496,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "sufficient clean native text"
+      },
+      "final_category": "native_good",
+      "text_method": "native",
+      "char_count": 3548,
+      "text": ""
+    },
+    {
+      "page_number": 3,
+      "native_quality": {
+        "page_number": 3,
+        "native_char_count": 3183,
+        "printable_ratio": 1.0,
+        "alpha_ratio": 0.805,
+        "word_count": 462,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "sufficient clean native text"
+      },
+      "final_category": "native_good",
+      "text_method": "native",
+      "char_count": 3183,
+      "text": ""
+    },
+    {
+      "page_number": 4,
+      "native_quality": {
+        "page_number": 4,
+        "native_char_count": 1125,
+        "printable_ratio": 0.999,
+        "alpha_ratio": 0.771,
+        "word_count": 168,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.12, clean=0.79))"
+      },
+      "final_category": "native_good",
+      "text_method": "tesseract",
+      "char_count": 1334,
+      "text": ""
+    }
+  ],
+  "combined_path": "/Users/krishnasathvikmantripragada/Webapps/ufo-dossier/pipeline/reports/r6_local/ocr/DOW-UAP-D110/combined.txt",
+  "production_writes": false
+}

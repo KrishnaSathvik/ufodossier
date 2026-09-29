@@ -1,0 +1,73 @@
+{
+  "generated_at": "2026-09-28T17:16:38.862188+00:00",
+  "production_writes": 0,
+  "deploy": 0,
+  "gpt6": "off",
+  "r4_started": false,
+  "quote_rules_changed": false,
+  "evidence_gate_changed": false,
+  "files": [
+    {
+      "filename": "DOW-UAP-D088.pdf",
+      "disposition": "extract",
+      "accepted": 67,
+      "truncation_events": 9,
+      "extraction_failed_events": 0,
+      "identical_retry_on_truncation": 0,
+      "json_stats": {
+        "json_first_pass": 11,
+        "json_retry_success": 0,
+        "json_retry_failed": 1,
+        "json_truncated": 9,
+        "json_invalid": 1,
+        "api_error": 0,
+        "valid": 11,
+        "extraction_failed": 0,
+        "sections_subdivided": 9,
+        "haiku_calls": 22
+      },
+      "chunk_strategy": "fixed",
+      "page_policy": {
+        "policy_counts": {
+          "empty": 15,
+          "press_clipping": 8,
+          "other": 139,
+          "government_memo_or_investigative": 48
+        },
+        "eligible_for_extract": true,
+        "disposition": "extract_narrative_pages"
+      }
+    },
+    {
+      "filename": "FBI-UAP-D013.pdf",
+      "disposition": "extract",
+      "accepted": 8,
+      "truncation_events": 0,
+      "extraction_failed_events": 0,
+      "identical_retry_on_truncation": 0,
+      "json_stats": {
+        "json_first_pass": 6,
+        "json_retry_success": 0,
+        "json_retry_failed": 0,
+        "json_truncated": 0,
+        "json_invalid": 0,
+        "api_error": 0,
+        "valid": 6,
+        "extraction_failed": 0,
+        "sections_subdivided": 0,
+        "haiku_calls": 6
+      },
+      "chunk_strategy": "cue_routed",
+      "page_policy": {
+        "policy_counts": {
+          "other": 19,
+          "press_clipping": 16,
+          "empty": 10,
+          "government_memo_or_investigative": 10
+        },
+        "eligible_for_extract": true,
+        "disposition": "extract_narrative_pages"
+      }
+    }
+  ]
+}

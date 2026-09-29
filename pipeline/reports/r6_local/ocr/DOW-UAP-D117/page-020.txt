@@ -1,0 +1,42 @@
+UNCLASSIFIED//iiOA. OiiiiICI0I. Pili O111.V 
+EX SITU COMPOSIT ES 
+There are two basic ways of making ex situ composites, in which the metallic glass 
+matrix and the crystalline phase are combined physically, without a chemical reaction: 
+• Add crystalline particles to a melt of a glass-forming alloy and then cast under 
+conditions that allow the matrix to form a metalliic glass. 
+• Make a preform of a crystalline phase (by packing fibers into a mold, for instance) 
+and then cast the glass-forming alloy around the preform. 
+Both approaches have lim itat ions. In the first, the addition of particles to the melt 
+increases the viscosity (which is already quite high relative to non-glass-form ing alloys) 
+considerably, ultimately to a point where casting becomes impossi ble. This limits the 
+volume fraction of particles that can be added, which in turn limits the control one has 
+over the microstructure and, in particular, the spacing of the particles. With a perform, 
+the volume fraction of the crystalline phase can be much higher (up to about 80 
+percent by volume), but the problem then is how to infiltrate the high-viscosity melt 
+into the preform without leaving voids and while still ensuring sufficiently rapid cooling 
+to form a glassy matrix. With both approaches, interfacial reactions between the 
+crystalline phase and the melt can cause partial or complete crystallization of the 
+matrix, degrading the mechanical properties. 
+IN SITU COMPOSITES 
+The difficulty of making satisfactory ex situ composites has led to the development of a 
+new approach in which the crystalline phase is precipitated directly from the melt, 
+either during casting28 or in a separate step prior to casting. 29 30 Precipitation during 
+casting, although easier, is problematic from a practical standpoint because variations 
+in the cooling rate (from the surface to the center of a casting, for instance) lead to 
+significant variations in structure and, hence, in properties. 
+One of the most promising recent advances in the metallic glass field is the 
+development of in situ composites in which the crystalline phase is precipitated as 
+dendrites, either during casting (Figure 8) or by holding the alloy at an elevated 
+temperature prior to casting. 31 By suitably choosing alloy composition, holding time, 
+and temperature, the volume fraction, size, and spacing of the dendritic phase can be 
+controlled. This control provides great flexibility in determining the mechanical 
+properties of the resulting material. Because the crystalline phase is produced prior to 
+casting, variation in the cooling rate across the casting is much less important, though 
+the cooling rate must still be sufficiently high to ensure the matrix forms a glass during 
+cooling. Once the glassy matrix is formed, the composite can be reheated above the 
+glass transition temperature, allowing for thermopla stic forming in a manner similar to 
+single-phase metallic glasses (as described above). Finally, the presence of the 
+dendritic second phase allows for deformation processes (for example, by cold rolling or 
+forging), similar to crystalline alloys. 32 
+14 
+UNCLASSIFIED/ /FOR OPPICIAL l:IS& 0PIL¥

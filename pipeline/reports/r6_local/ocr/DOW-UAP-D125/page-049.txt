@@ -1,0 +1,60 @@
+UNCLASSIFIED/ /POI\ OPPICIAL l1!E or•t I 
+A particle-in-cell method with explicit 
+time integration has generally 0.4 ~------------, 
+dominated earlier plasma simulat ions. 
+However, this method is inappropriate 0.3in multiple time scale problems 
+primarily because the explicit time-step 
+algorithms become numerically unstable 
+when they cannot resolve the fastest 
+time scale supported by the model. 
+Indeed, the fastest time scale may be 
+orders of magn itude faster than the 0.0 
+dynamical time scale of interest . The 
+a= 10·2 
+I;= 10·1 
+lC= 0.0 0 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+- - 0 o- -
+simulation also has to resolve the -0.1 ..............................__.__.......,....._2.........,.......,........1..................,.,o 
+smallest length scale of system to avoid 10-·· 10" 10" 10 
+finite-grid instabilities that require ~ 
+resolution of spatial scales comparable Figure 4.10. Plot of Growth Rate of Spherically 
+Converging/Diverging Ion-Beam Instability for theto the Debye length. In order to Variation of the Angular Velocity Spread, i.e., for 13 = improve the conservations property of T/ lecticl (Nomenclature defined in Reference 6.1} 
+implicit moment particle-in -cell 
+algorithm, H.J. Kim developed a fully implicit particle -in-cell scheme and implemented it 
+using a Jacobian-free Newton-Krylov algorithm that does not require actual formation 
+and storage of the Jacobian matrix to minimize the computational costs. The scheme 
+features the following properties: 1) fully implicit method where all quantities of both 
+the particle and the field equations are consistent at each time step, and 2) a good 
+property for energy conservations. 
+H. J. Kim's study verified that the algorithm correctly handles the typical electrostatic 
+modes. For example, the results agree with the linear dispersion relations for simple 
+limits of two cold electron counter-streaming instabilities, electron Landau damp ing, 
+and ion acoustic waves. The simulation experience presented here demonstrates the 
+energy conservation property of the systems and the efficacy of nonlinear solver 
+combined with an efficien t pre-condition ing which is derived from the nonlinear Poisson 
+equation and particle description relations. For ion acoustic waves, the maximum 
+variation in the total energy is much less than 0.1 percent, indicating that a fully 
+implicit technique performs well in that particular simulation. The number of linear and 
+nonlinear iterations is significantly reduced when the preconditioner is applied. In fact, 
+for the case of linear iterations, the iterat ion number of a preconditioned linear system 
+is 10 times smaller than that of a linear solver without preconditioner. In addition, grid 
+convergence test shows that the scaling of CPU time is virtually linear according to the 
+grid number. The time convergence test suggests that employing the largest time step 
+compatible with accuracy in a given calculation is the most efficient route for obtaining 
+the solution because the CPU time decreases as the time step increases. 
+H. J. Kim performed a normal mode analysis of the ion-ion counter -streaming instability 
+in a spherical inertial electrostatic confinement in order to gain insights into the ion­
+injected inertial electrostatic confinement equilib rium configuration. To do this, it is 
+assumed that the electrostatic confinement equilibrium ion beams are proportional to 
+1/r2, effectively neutralizing the background electron density. It is evident from the 
+analysis of cold ion beams that two -stream instability in finite spherical systems may be 
+excited for small beam velocities compared to those of homogeneous and infinite 
+UNCLASSIFIED/ /5i0A 05i5ilCIAk Wli& &Nllf 
+42

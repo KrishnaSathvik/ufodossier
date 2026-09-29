@@ -1,0 +1,36 @@
+Conrad
+
+Cooper
+
+Conrad
+
+down and coming to a null out there, it appeared to
+start moving somewhat at the same separation rate to
+the south of us slightly towards a trail position very
+slowly. We tracked it for a long time. We were track-
+ing it straight out and then all of a sudden, it be-
+gan to loop around slightly to the left.
+
+It did something like I'd never seen before!
+
+I'd never seen this happen in the simulator, and
+
+it still doesn't seem quite feasible to us that this
+could ever happen.
+
+One possible answer, and it's related to something
+that we saw later in the flight, Gordo, where we
+alined the platform and had yaw error couple into
+roll. Might not this have given us bad steering in-
+formation as far as our radar needles were concerned
+if the scanner wasn't working properly? We didn't
+have the platform alined right. We went along
+
+30 minutes, almost one-third of an orbit. If we
+didn't have an alined platform, that would start
+coupling up in some other axis like roll and we
+would be off in yaw. Then when we thought we were
+pointing at the pole, we really weren't. Maybe it
+didn't really drift behind us, maybe it stayed out
+
+on our wing. We must have put it out fairly well

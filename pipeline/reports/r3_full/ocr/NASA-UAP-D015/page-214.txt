@@ -1,0 +1,46 @@
+116 MAURICE DUBIN 
+found by HEALEA and HouTERMANS (1940) wa in the range from 0·2 to 0·05 for 
+ions of He, Ne , and A at about 400 eV. 
+The impact of ion s on a solid surface re ults also in a process known as sputtering, 
+wherein atoms or clusters of atoms are ejected from the surface as a result of 
+impact. The threshold for sputtering is of the order of 40 eV, and most values 
+given {or rate of sputtering lie between 1 and 10 gm/amp hour. For incident ions 
+at 200 e V the sputtering rate would probably fall to one-third this range of values . 
+For a surface containing atoms of mass number 60, one gram per ampere hour is 
+equivalent to approximll,tely 0·5 sputtered atoms per incident ion. Thu s the 
+sputtering rate for metallic meteorites might be of the order of one atom per 
+incident air particle and possibly higher for stony meteorites. 
+Basicall , for all these proces ·es the important parameter for ionization is the 
+relative vel city. The relative amount of energy absorbed by ionization should 
+not be diffe ent, whe~her or not ablation of the meteoric particle occurs. Because 
+of the long- ean-face path of air compared to the size of the meteoric particle, the 
+air particles must act independently of each other. Effectively the cross-section 
+for ionizatio might increase during evaporation, but this is equivalent to increas­
+ing the air density to allow for a lar ger number of collisions. Indeed, one may, as 
+a gross estimate , expect that on the average a fixed percentage of the kinetic 
+energy absorbed by the air is transmitted into ionization with an efficiency given 
+by GREENHOW and HAWKINS' correction of HERLOFSON's treatment. 
+Recently WHIPPLE (1952) has investigated the amount of meteoric material 
+entering the earth's atmosphere. From experiments of BURNIGHT, and BOHN and 
+NADIG, using rockets; CROZIER and SEELY on air pollution; VAN DE HuLST and 
+ALLEN by observations of zodiacal light and eclip e , and PET'l'ERSSON and ROTS HI 
+from observat ion of deep-sea sediments containing nickel: WHIPPLE noted that 
+data from these methods genera lly agree as to order of magnitude of the amount 
+of material falling into the earth 's atmosphere . From this , the frequency of small 
+meteoric bodies encountering the earth 's atmosphere shou ld exceed the older 
+estimates 'based on meteors and meteorites (WATSON'S) by a factor of possibly 
+104 . The result is perhaps 103 tons or more per day on the entire earth. 
+Earlier the value for the number of electrons formed per cc/sec was found to 
+be 2 X 10- 4 erctrons per cc/sec, based on WATSO ' 'S estimates and HERLOFSON'S 
+theory. Sine GREE ' HOW has indicated that HERLOFSON's value should be 
+increa ed by factor between 102 and 10, and the number of micrometeorites 
+should be inc ased by a factor of 104 to 103 , th rate of production of electrons 
+should be mul tiplied by a factor of about 105, giving an average production rate 
+of electrons of twenty electrons per cc. 
+Having determined roughly the rate of production of electrons , the rate of 
+disappearance of electron s must be considered in order to calculate the equilibrium 
+electron density. The rate of loss of electrons along the meteor trail is given by 
+on 
+- = D \j 2n - ('J.,n 2 - ynn 0at 
+Where D is the diffusion coefficient, <J. the recombination coefficient , y is the 
+coefficient of attachment ,.n 0 is the neutral atomic or molecular density, and n is

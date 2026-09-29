@@ -1,0 +1,48 @@
+UNCLASSIFIED/ /FOR OFFIOIAk WSE OPtklf 
+Figure 4 is a schematic sketch of the ion injectors shown in Figure 6.3. A key 
+component is the magnetic focusing lens at the gun extraction port. This allows very 
+efficient differential pump ing between the high pressure gun chamber and the low 
+pressure IEC chamber and provides focus control. This experiment will involve very 
+high power inputs (about a MW). To avoid excessive power supply and thermal 
+controls, a Marx bank pulsed power input with peak powers of ~1 MW over 1 msec at 
+0.01 Hz will be used. Pulsed experiments with equivalent power inputs on one gun have 
+already been performed successfully. The pulse len9th is set long enough to provide 
+quasi equilibrium physics conditions in the trapped plasma during the "flat top" region 
+of the pulse". Thus the data obtained is relevant to eventful steady-state reactors 
+where the internal fusion power production alleviates the input power supply 
+requirement. 
+The energy gain (Q) scaling for such a device goes as ~l/a 2 where a is the radius of the 
+dense core spot formed in the IEC sphere, ~ is the number of ion recirculations in the 
+trap before the ion is lost, and I is the ion injected current. The 12 gun breakeven 
+design will provide an increase in ~ to ~1000 due to differential pumping effects, I will 
+increase to 6000 mA (due to multiple pulsed guns), and a will be cut down by 10 due to 
+improvements in focusing both and reduced collisionality. This predicts an increase in Q 
+(compared to prior gun experiment) of ~10 8 , giving Q=l ("breakeven") as required for 
+a p-11B plasma (as noted earlier, this breakeven Q assumes a Lawson breakeven 
+confinement parameter of m that exceeds the DT requirement by a factor of 100. In 
+other words, this could also be thought of as a Q=lOO DT equivalent breakeven!) Such 
+an experiment would provide a physics proof-of-principle for this ion injected IEC 
+concept and provide the base for extending this configuration on to a power-producing 
+plant. 
+To accomplish this result quickly on a modest budget, we need to simplify the work by 
+avoiding t he need to develop new injection technology for hydrogen-boron fuel plus 
+avoid the need to handle the fusion energy produced. Thus we propose to confirm the 
+achievement of breakeven conditions using a hydrogen plasma and diagnostics to show 
+that them and T corresponding to Q = 1 (p- 11B) are obtained. (An alternate approach 
+might be to use deuterium as is done in present IEC neutron source studies. However, 
+that would require a massive shielding and other access restrictions for the neuron flux 
+levels) . Modern plasma diagnostics can make quite precise measurement of the plasma 
+conditions needed for the confirmation, so the hydrogen equivalent approach is 
+recommended. 
+CONCLUDING REMARKS 
+Once achieved in hydrogen, these conditions could be fairly quickly confirmed with p-
+11B fuel in later experiments once the needed fuel handling system is added. Thus the 
+proposed hydrogen simulation of p-11B breakthrough conditions would be a landmark 
+achievement, leading the way to rapid deployment of the technology needed to build 
+small fusion power plants. The technology development needed to proceed largely 
+involves the design and engineering of subsystems for the balance-of-plant (BOP). 
+Many of these can employ conventional equipment, but several require new 
+developments. These include the hydrogen-boron fuel injection system, the direct 
+energy conversion system to convert the charged particle product energy to electricity, 
+UNCLASSIFIED/ /FOA OFFICl.t.L. Wi'li OPtlL.¥ 
+64

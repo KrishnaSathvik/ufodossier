@@ -1,0 +1,39 @@
+UNCLASSIFIED/ fFOA. OFFICIAL WSE er•tv 
+The lower atmosphere is a difficult medium through which to propagate a laser beam. 
+The molecules which make up the atmosphere and the aerosols which are suspended in 
+it can scatter and absorb light, reducing the number of photons which arrive at the 
+target. These effects are collectively referred to as "atmospheric extinction." 
+Atmospheric ducting can bend the laser beam (this causes mirages), and atmospheric 
+turbulence or thermal blooming (explained later) can enlarge the spot. These effects 
+combine to reduce the beam's irradiance (measured in watts/cm 2) on the target and its 
+effectiveness. Some are almost independent of wavelength while others can vary 
+dramatically with small changes in wavelength. As a result, the wavelength for a laser 
+weapon which operates in the lower atmosphere must be carefully chosen. 
+Scattering occurs when photons strike molecules or aerosols in the atmosphere and are 
+reflected away from the target direction. This effect is commonly observed in haze or 
+fog but always exists, even in the clearest of skies. For example, as much as 50 to 75 
+percent of a laser beam's energy can be lost over a 10 km lower atmosphere path on a 
+fairly clear day. Within reasonable limits, this reduction in photons reaching the target 
+can be accommodated by increasing the laser power or reducing the range to the 
+target. The losses due to scattering vary quite slowly with changes in wavelength; 
+longer (infrared) wavelengths are less affected than shorter (visible) as can be seen 
+from the green curve in Figure 12. 
+Absorption occurs when molecules or aerosols in the atmosphere absorb some of the 
+photons. This phenomenon, caused by resonant interaction, is very strongly dependent 
+on wavelength and can vary by orders of magnitude with wavelength changes of a 
+fraction of a micron (red curve in Figure 12). 
+Extinction (the sum of absorption and scattering) is shown by the yellow curve in Figure 
+12 and for a low-power laser, there is no apparent difference as both effects simply 
+reduce the number of photons which strike the target. However, if enough energy is 
+absorbed in the laser beam's path (when using a high-power laser), it heats slightly 
+which causes a distortion and defocusing of the laser beam. This effect is called 
+thermal blooming and can be a significant limit on the performance of a lower 
+atmosphere based MW-class laser system. It was a key reason (beyond the desire to 
+eliminate chemicals) why the Navy abandoned development of DF chemical laser 
+weapons for self-defense where thermal blooming is at its worst. One can see from 
+Figure 12 that wavelengths around 1 µm, 1.2 µm, 1.6 µm and 2.2 µm offer the lowest 
+absorption windows. Unfortunately, no MW-class lasers existed at those wavelengths 
+and no candidates were apparent. For this reason, the Navy began the development of 
+FEL technology which can be tuned to any desired optical or infrared wavelength. 
+UNCLASSIFIED/ fFOA QFFl€1AL WSE 8NLY 
+15

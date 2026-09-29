@@ -1,0 +1,42 @@
+•• 
+•• 
+UNCLASSIFIED/ }FOA OFFI€1Ak Wlilii ONkY 
+Benefits of using positrons for a Mars mission include: 
+• The "disposab le /:i.V" used to propel TMI stages into low-probability Earth or Mars 
+intercepts can be eliminated, reducing total propellant mass. 
+• Reduction in shielding and engine mass give lower initial mass low Earth orbit for 
+launch vehicles or faster transits for piloted missions. 
+• The ERV uses a positron engine instead of LOX/CH4. This gives significant mass 
+savings or an equivalent reduction in Mars-to-Earth return time for astronauts. 
+• The improvement in l sp translates to either a reduced launch payload mass for cargo 
+missions or reduced transit times for piloted missions to Mars. 
+• More chemical propellant can be stored on the lander to improve aerobraking or 
+landing strateg ies that reduce hazards for astronauts. 
+Launch dates are set for around 2030. Assuming minimum !:i.V for Mars opposition-class 
+missions, interpla netary scenarios are illustrated in Figure 16. The !:i.V for an insertion 
+trajectory into Mars for the manned mission (Figure 16b) is !:i.V = 3.7 km/sec. Each 
+manned trajectory assumes a 180-day transit time . 
+,.• 
+i 
+C 
+I• 
+.ue 
+'Y' 
+IS 
+" 
+-CS 
+(a) (b) 
+" 
+.. i 
+~ 
+n------+-1- 'Y' ,a 0
+§ 
+> 
+-ts -1 --GS O VS 15 
+)C tOCH k lO!e (P,U) 
+(c) (d) 
+Figures 16. Mars Trajectories (X-coordinates defined in direction of Aries): (a) 2029 cargo mission; (b) 
+2031 manned lander to Mars; (c) 2033 manned return to Earth ; (d) 2035 manned lander to Mars, if necessary 
+(courtesy Positronics Research LLC)52 
+UNCLASSIFIED/ /FOR. orr1e1J1tt U.!I!! or~t I 
+20

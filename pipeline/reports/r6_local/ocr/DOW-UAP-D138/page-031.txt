@@ -1,0 +1,47 @@
+7.8 
+UNCLASSIFIED/ /POI\ OPPIClilrt tt9!! o,~tv 
+1 MNf D 
+si nl = M D/ 2-1 d xhMNT • 
+D 
+where yMN is the higher dimensional energy-momentum tensor. The interaction of the 
+graviton with the graviton KK states and with the SM fields are obtained by integrating 
+the action over the extra coordinates. Because all these states are coupled with the 
+universal strength I IMPI this leads to the compelling possibility of the control of the size 
+of the extra dimensions by processes at energies that will be accessible via the particle 
+accelerators of the near future. Although the coupling is extremely small, the effective 
+coupling is enhanced by the large number of KK states. 
+Referring to Figure 7, additional energy in the form of matter or radiation with the TeV 
+energy scale can alter the shape of the effective potential. In particular, the extrema 
+determining the size of the extra dimensions are modified with the change of the 
+Casimir energy density and hence, the dark energy density, in the models under 
+consideration. 
+In the ADD model discussed in Section 5.2, the Standard Model fields are confined to a 
+I 
+4-dimensional brane and a new gravity scale M O= G2-0 > > TeV is introduced in the D 
+= 4 + d dimensions, where d is the number of extra dimensions. This is determined 
+quite easily by forming the higher dimensional action and integrating out the extra 
+dimension. 
+The Atlas experiment at CERN's Large Hadron Collider will have the capability to probe 
+the ADD type extra dimens ions up to MD~ 8 TeV. In the Randall Sundrum scenario, the 
+hierarchy is explained by the warp factor in the AdSS bulk geometry. A lower bound can 
+be placed on the lowest KK mass by electroweak precision tests (masses on the order 
+of 1 TeV are allowed). In the Universal Extra Dimension scenario, Tevatron results 
+constrain the compactificat ion scale to Mc > 400 GeV. Because the Atlas experiment 
+will be sensitive to Mc - 3 TeV , the estimates in this section indicate that if nature is in 
+fact described by one of these higher dimensional scenarios, then the additional 
+dimens ions can be probed. 
+Even more excit ing is the possibility that their size may be controlled at the energies 
+accessible to the Large Hadron Collider. When the Casimir energy to play the role of 
+dark energy is involved, one can see that the possibility for the direct control of the 
+local dark energy density by controlling the size of the additional dimensions is possible. 
+8 . Summary 
+The idea that a sufficiently advanced technology may interact with, and acquire direct 
+control over, the higher dimensions is a tantalizing possibility, and one that is most 
+certainly worthy of deeper investigation. Control of this higher dimensional space may 
+be a source of technologica l control over the dark energy density and could ultimately 
+play a role in the development of exotic propulsion technologies; specifically, a warp 
+drive. 
+Of course, this may not be actualized until many years in the future, but consider the 
+many spectacu lar physical phenomena that are believed to be true at this early point in 
+UNCLASSIFIED//FOA OFFIGl!1L WSE 8HLY 
+24

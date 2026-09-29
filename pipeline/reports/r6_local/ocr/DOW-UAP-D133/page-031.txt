@@ -1,0 +1,45 @@
+UNCLASSIFIED/ ,'FOR OFFI@IsT.tk WS& OPtklf 
+Coherent Superposition: The formation of a quantum mechanical state (for example, 
+right circular polarization) by adding components of other states (for example, le~ and 
+right polarization) with a definite complex phase between the added states. 
+Collapse: A quantum mechanical wave function is said to collapse to a particular basis 
+value when a measurement is made in that basis. For example, if a photon is emitted 
+isotropically (with equal probability in all direct ions), its wave funct ion is distr ibuted 
+uniformly over a sphere with a radius that grows at the speed of light until it is 
+detected . Upon detection, the photon's wave function is localized at the detection point 
+and disappears everywhere else. 
+Entangled: The separated parts of the same quantum system are said to be entangled 
+when each of the parts can be described only by referencing the state of other parts . 
+This is one of the most counterintuitive aspects of quantum mechanics, because, 
+classically, system parts out of "local" contact should be completely independent. Thus, 
+entanglement represents a kind of quantum "connectedness" in which measurements 
+on one isolated part of an entang led quantum system have nonclassical consequences 
+for the outcome of measurements performed on other (possibly very distant) parts of 
+the same system. 
+EPR Experiment: A class of exper iments with entang led part icles, usually photons, 
+that demonstrate quantum nonlocality. A gedankenexperiment of this kind was first 
+suggested in the famous 1936 paper by Einstein, Podolsky, and Rosen (Reference 4) in 
+which a set of crit icisms of quantum mechanics were presented. 
+Hidden Variable Theories: A set of alternatives to quantum mechanics intended to 
+satisfy the objections of the EPR paper in which the uncertainty principle does not apply 
+and a quantum system can simultaneously have defin ite values of complementary 
+variables like positi on and momentum, provided one of these values is somehow 
+"hidden." Hidden variable theories are usually also "local" (see below) to deal with 
+Einstein's objection to the nonlocality of quantum mechanics. 
+Immaculate Conception Paradox: A type of back-in-time commun ication paradox in 
+which a completely consistent causal loop produces information with no known origin. 
+An example is the Book Paradox, in which an author receives a book in a message from 
+the future. He publishes it, and when the time comes, he transmits the manuscript to 
+himself in the past. The question then arises, Who wrote the book? In this case, no 
+inconsistent timelike loops are involved, and the arguments against bilking (see above) 
+do not apply in this case . 
+Locality: The assumpt ion that the correlat ions between parts of a system can be 
+established only while the subsystems are in contact (or speed-of-light communication), 
+and that once out of such contact, no changes in such correlations are possible. 
+Nonlocality: The situation, apparently present in quantum mechanics, in which 
+correlations between parts of a system can be established independent of the 
+separation of the parts in time and space. 
+Retro-Causal: Situations in theory or in the real world where the effect precedes the 
+cause, in violation of the principle of causality . 
+UNCLASSIFIED/ /fOR. 0rr1e11et U:!I! OHL I 
+25

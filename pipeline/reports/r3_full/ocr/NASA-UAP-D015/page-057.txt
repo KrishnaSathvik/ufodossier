@@ -1,0 +1,47 @@
+DRAFT OF NOTE ON THE SCIENTIFIC OBSERVATIONS
+
+Toward the end of the flight, between 16 hr and 47 min (UT) and 17 hr
+and 03 min (UT), 24 May 1962, Lt. Car. Carpenter made a series of observations
+on a luminous band visible around the horizon. The most decisive observation
+was made with an airglow filter supplied by Mr. Lawrence Dunkelman of Goddard
+Space Flight Center. The filter transmits a narrow band of wavelengths,
+approximately 11 Angstromswide at the half power point and centered at the
+wavelength of the strongest radiation of the night airglow, namely 5577 Angstroms
+The filter cut out all other light, but passed the light of the.luminous band,
+which is thus identified as the 5577 layer.
+
+Lt. Cdr. Carpenter noted that the layer was very bright. He found
+that Phecda\ Ursae Majoris, magnitude 2.5 was lost to sight at the brightest
+part of the layer. Assuming that the image of Phecda occupies about 1 syuare
+
+8
+
+” ar
+minute of arc on the retina, or 8.18 x 10 steradians, Assuming that a star of
+
+magnitude 0.8 yields 107° lux (1umens{m* ) we find that the brightness of the
+
+4
+
+layer is about 3 lumeng{(m° )(steradian) or 3 x 10°" stilbs. This is equivalent
+
+ec)
+
+IS
+to about 4 x 104 ereg(n® )(steradian, taking the least mechanical eyuivalent
+-3
+
+of light as 1.61 x 10 watts per lumen for 5560 A as per the AIP handbook. It
+is about 50 times as bright as a white surface illuminated by moonlight.
+The angular height of the layer was found in 5 different ways:
+
+1. By direct estimate - 8° to 10°.
+
+2. By noting that it is approximately twicé the height of
+the twilight layer. Lt. Cdr. Carpenter estimated the height of the twilight
+layer as 5 sun diameters, which means 2-1/2 degrees, hence the height of the
+5577 layer would be 5°.
+
+3. ‘By observation of the star Phecda (%U Ma) as it passed
+
+the middle of the luminous band.

@@ -1,0 +1,59 @@
+{
+  "generated_at": "2026-09-28T21:04:24.593037+00:00",
+  "extract_documents": 7,
+  "fixed_chunk_docs": 7,
+  "cue_routed_docs": 0,
+  "estimated_haiku_calls_if_no_retry": 10,
+  "estimated_cost_usd": 0.2,
+  "plans": [
+    {
+      "filename": "DOW-UAP-D102.pdf",
+      "strategy": "fixed",
+      "sections": 3,
+      "chars": 167594,
+      "page_count": 156
+    },
+    {
+      "filename": "DOW-UAP-D103.pdf",
+      "strategy": "fixed",
+      "sections": 1,
+      "chars": 798,
+      "page_count": 5
+    },
+    {
+      "filename": "DOW-UAP-D154.pdf",
+      "strategy": "fixed",
+      "sections": 2,
+      "chars": 64132,
+      "page_count": 19
+    },
+    {
+      "filename": "LLE-UAP-D001.pdf",
+      "strategy": "fixed",
+      "sections": 1,
+      "chars": 1193,
+      "page_count": 1
+    },
+    {
+      "filename": "LLE-UAP-D002.pdf",
+      "strategy": "fixed",
+      "sections": 1,
+      "chars": 3159,
+      "page_count": 2
+    },
+    {
+      "filename": "LLE-UAP-D003.pdf",
+      "strategy": "fixed",
+      "sections": 1,
+      "chars": 1184,
+      "page_count": 1
+    },
+    {
+      "filename": "LLE-UAP-D004.pdf",
+      "strategy": "fixed",
+      "sections": 1,
+      "chars": 1721,
+      "page_count": 1
+    }
+  ]
+}

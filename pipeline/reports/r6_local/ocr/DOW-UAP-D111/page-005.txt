@@ -1,0 +1,55 @@
+1
+1
+1
+SCHEDULE Continued 
+ITEM NO. 
+- -
+SUPPLIES/SERVICES OUA.NTITY UNIT 
+-
+UNIT PRICE AMOUNT 
+-
+1007 
+1008 
+1009 
+Accounting and Appropriation Data: 
+ACRN : AB 
+9700100.4400 1102A9 2520 1S49205 CCXX 16P10 1T1 
+1106 610000 
+$2,494,610.00 
+Period of Performance : 09/22/2009 to 12/21/2010 
+Additional Travel 
+Accounting and Appropriation Data: 
+ACRN: AB 
+9700100.4400 1102A9 2520 1S49205 CCXX 16P101 T1 
+1106 610000 
+$18,300.00 
+Period of Performance: 09/22/2009 to 12/21/20 10 
+UNUSED - This line item is unused but must remain part 
+of the contract to insure proper account ing informat ion is 
+aligned to revised CLINS. Original 0001 from PR 
+Accounting and Appropriation Data: 
+ACRN: AB 
+9700100.4400 1102A9 2520 1S49205 CCXX 16P101 T1 
+1106 610000 
+$0.00 
+UNUSED - This line item is unused but must remain part 
+of the contract to insure proper account ing informat ion is 
+aligned to revised CLINS. Orig inal 0002 from PR 
+Accounting and Appropriation Data: 
+ACRN: AB 
+9700100.4400 1102A9 252011S49205 CCXX 16P10 1T1 
+1106 610000 
+$0.00 
+1.00 
+1.00 
+1.00 
+LO 
+LO 
+LO 
+18,300.00 
+0.00 
+o,.oo 
+18,300.00 
+0.00 
+0.00 
+PAGE 5 OF 59 HHM402-08-C-0072

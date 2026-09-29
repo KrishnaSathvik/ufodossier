@@ -1,0 +1,90 @@
+UNCLASSIFIED
+
+Table 2: Manufacturers of Ultracapacitors!?
+
+R (mOhm
+375
+.90
+
+W/kg
+(95%)
+2
+994
+1,139
+5,695
+2,574
+975
+928
+
+RC
+
+Wh/kg
+sec 1
+
+1.08
+55
+
+58
+
+a
+N
+
+W/kg
+Match. | Wot.
+Imped. kg
+
+he
+wlth
+
+390
+
+514
+760
+
+223
+4.3
+
+4
+6,750
+
+Saf 1,400
+
+12,400
+
+2,050
+650
+
+18,225
+
+.63 .
+.50 F
+21 ‘
+21
+
+5,785 i
+
+9
+
+900
+1,038
+
+(1) Energy density at 400 W/kg constant power, Vrated - 1/2 Vrated
+(2) Power based on P=9/16*(1-EF)*V?/R, EF=efficiency of discharge
+* Except where noted, all the devices use acetonitrile as the electrolyte (pc = propylene
+
+carbonate)
+
+AC = Activated Carbon; GC = Graphitic Carbon
+
+** Laminated
+
+pouches; all other devices are
+
+packaged in metal conta
+
+7,987
+9,223
+
+iners
+
+UNCLASSIFIED --6OR-OFFE6EA-USE-ONEY

@@ -1,0 +1,49 @@
+UNCLASSIFIED/ /FOA OFFl&ilAk W&& 8PtLY 
+sample to RP. For lighter curves of back-sweeps (Figure 12b), the measured resistance 
+follows these changes in reverse order . 
+Focusing on the dark curves, we see that the switching field of the free layer Fl is 
+essentially independent of the magnitude of I and shows little broadening. In contrast, 
+the switching field of the pinned layer F2 broadens significantly as the magnitude of I 
+increases, and the midpoiint of the switching also shifts with I, increasing for - I and 
+decreasing for + I. Similar behaviors are seen also in the lighter curves. Opposite shifts 
+for + I and - I indicate these shifts cannot be due to Joule heating, which should cause 
+shifts in the same direction for both directions of I. But Joule heating might contribute 
+to the broadening of the switch ing transitions. The shifts of the dark curves are 
+specified more clearly in Figure 12c, which shows gr,ey -scale plots of the heights of the 
+curves in Figure 12b, with white representing the antiparallel state of maximum 
+resistance, and black the parallel state of minimum resistance. Data for three 
+representative contacts (out of 29) on three different samples show that the behavior 
+of interest is not limited to a single sample or contact, and that similar results are 
+generally obtained for straight line fits to 30 percent (white dashed lines), SO percent 
+(solid white lines), and 70 percent (solid black lines) of the maximum change in R. The 
+sample in Figure 12d is a contact with R = 1.6 n to an inverted version of the sample in 
+Figures 12b and c, so that the "directions" of currents are reversed. The sample in 
+Figure 12e has equal thickness Fl = F2 = 3-nm layers. All three samples show the 
+same features-that is, electrons passing through F2 into the AFM layer enhance 
+pinning, and electrons passing through the AFM layer into F2 reduce it. Similar to the 
+case of AFM=CoFe, a negat ive current density N1012 A/m 2 injected through the F=CoFe 
+into an AFM=IrMn/CoFe interface (Reference 95, 96) was found to increase the 
+exchange bias, while a positive current decreased it. 
+Wei et al. (Reference 91) proposed the follow ing qualitative explanation for these 
+asymmetric changes in switching (exchange bias) field with current. Near the switching 
+field, the metastability of F2's opposite to field orientation is due almost entirely to 
+exchange interactions witlh uncompensated moments in the surface layer of the 
+antiferromagnet. Some of these spins are pinned, thereby inducing an energy barrier 
+for ferromagnetic layer spin reversal (Reference 88, 89). Electrons flowing from F2 into 
+AFM induce torques on moments in the AFM matrix, altering its magnetic configuration 
+(Reference 84). These STT torques tend to favor parallel alignment of moments at the 
+F2/AFM interface and will therefore tend to increase the exchange bias field. Electrons 
+flowing in the opposite direction will tend to have the opposite effect. The observed 
+variations in exchange bias mediated by an electrical current thus can be taken as good 
+evidence of the STT effect in AFM. However, such transport measurements do not 
+distinguish between effects of the current on the bulk AFM and those on interfacial AFM 
+moments, and more elaborate techniques are needed to obtain a detailed 
+understanding of the phenomenon. 
+5. Summary and Conclusions 
+The semiconductor indust ry has distinguished itself by a long-term trend known as 
+Moore's law (Reference 97) that foresees an exponential increase in transistor density 
+on a chip, doubling approximately every 2 years. Continuing at this pace, the transistor 
+density will reach ~ 1013 cm·2 by 2035, which at clock speeds of ~10 GHz wou Id result 
+in ~40 MW/cm2 of power dissipated on a chip. Unless the energy dissipation from 
+UNCLASSIFIED//FOA OFFICIOL Wili 0NL¥ 
+16

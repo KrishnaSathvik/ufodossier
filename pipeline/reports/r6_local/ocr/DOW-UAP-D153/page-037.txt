@@ -1,0 +1,44 @@
+UNCLASSIFIED/ ,'FOR OFFl@IAL YSE OHL¥ 
+As discussed in the previous subsection, we can use balanced homodyne detection to 
+precisely measure the quadratures q0 of a spatial-temporal mode. As was also 
+discussed in the previous subsection, the angle 0 is defined by the phase of the local 
+oscillator with respect to the signal. The phase 0 can be varied using a piezo-electric 
+translator. To measure the quadrature distributions, one may fix 0 and perform a 
+series of homodyne measurements at this particular phase to build up a quadrature 
+histogram. Then the LO phase should be changed in order to repeat the procedure at a 
+new phase, and so on. Another possibility is to monitor the phase while it drifts or to 
+sweep it in a known way. In any case, the homodyne measurement must be repeated 
+many t imes on identically prepared light modes (or on a continuous wave field) to gain 
+sufficient statistical information about the quadrature values at a certain number of 
+refere nce phases. Finally, the Wigner function is tomographically reconstructed from 
+the experimental data. 
+It is beyond the scope of this report to summarize the entire subject of experimental 
+quantum tomography, its mathematical basis and procedures of quantum state 
+sampling, and the corresponding algorithms and numer ical recipes. The reader should 
+see Reference [58] for the excruciating details. 
+Balanced homodyne detectors with local oscillators are amplifiers capable of detecting 
+and quantifying vacuum and sub-vacuum fluctuations. This is the subject of the two 
+experimental approaches that will be discussed in the next section. 
+BALANCED HOMODYNE SYSTEMS FOR MEASURING 
+NEGATIVE (SUB-VACUUM) ENERGY 
+Time-Domain Balanced Homodyne System 
+Squeezed states of light, which are "darker than vacuum," have regions with sub­
+vacuum fluctuations. Slusher and collaborators [40, 41] and Robinson [42, 43] were 
+the first to experimentally observe these sub-vacuum regions. Numerous other 
+experiments followed, which employed variations on the experimental devices and 
+techniques used to generate squeezed light and measure its sub-vacuum fluctuation 
+pulses. Those early experimental devices later gave way to the development and use 
+of balanced homodyne detectors. 
+For example, Schneider et al. [59] describe their compact and efficient source of 
+amplitude-squeezed light. Their experiment used a semi-monolithic degenerate 
+MgO: LiNbQ3 optical parametric amplifier pumped by a frequency-doubled Nd :YAG laser 
+at 532 nm. They employed injection-seeding of the amplifier by a 1064 nm wave to 
+provide active stabilization of the cavity length and stable operation. At a pump power 
+of 380 mW, their device detected a maximum noise reduction of 6.5 dB in the 
+amplitude fluctuations of the 0.2 mW 1064 nm wave, while the average detected noise 
+reduct ion in continuous operation over 14 minutes was 6.2 dB. They reported a 
+squeezing of 7.2 dB in the emitted wave. 
+However, most of these early and more recent series of balanced homodyne detector 
+(BHD) measurements have been performed in the frequency domain. A significant 
+UNCLASSIFIED/ /fl01t OPPlelAL YSE OHLY 
+33

@@ -1,0 +1,26 @@
+UNCLASSIFIED/ /P'OR: OP'P'l@IAL WS& 0Nk¥ 
+Figure 26. An Illustration of the Retinal Neuroprosthesis Created by the Boston Implant Project 
+(http://www. bostonret inaIi mp lant.erg/implant. php ?fontsize= norm a l&h i contrast) 
+The signal processing circuits are on the lelt while the power induction coil is the 
+circular structure. The MEMS stimulating microelectrode array projects out towards the 
+bottom of the picture. 
+The minimal size of the implant means batteries are impractical and forms of wireless 
+power by magnetic induction, ultrasound, or solar energy are required. In addit ion the 
+tissue surrounding the implant is usually very sensitive to temperature rise so the 
+implant must have very low power consumption to ensure it will not harm the tissue. 
+Power by magnetic inductio n is widely used because it allows relatively larger amounts 
+of power transfer compared to ultrasound and solar energy techniques. Parallel coils of 
+wire, one inside the body and one outside, exchange energy by magnetic field coupling 
+in accordance with Faraday's law of induction. Figure 27 is an artist's conception of the 
+magnetic induction method of power transmission. There are two coaxial coils that 
+couple magnetically, one on the inside of the body and one external. The energy of the 
+magnetic field is shown as the curved lines passing through the tissue. 
+A disadvantage of this method is that the coils are relati vely large compared to the size 
+of micro-implants and so tends to define the minimum size. The coil size depends on 
+the amount of energy that needs to be ind uced and on the implant depth with larger 
+diameter coils being required. 
+This type of technology is giving way to improved methods of energy transmission into 
+tissue for implant power by using microscale devices that, although not strictly MEMS, 
+share many of their characteristics. 
+UNCLASSIFIED/ {FOR OFFICIO! !PEii QDlk¥ 
+29

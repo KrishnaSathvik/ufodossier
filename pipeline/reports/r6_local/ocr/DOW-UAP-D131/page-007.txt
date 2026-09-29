@@ -1,0 +1,47 @@
+UNCLASSIFIED/ /FOR: 8FFI@IAL l!ISI!!! er~t a 
+in electromagnetic theory. The simplified GR/Maxwell equations show that there is also 
+a Faraday-like law of induction that can generate Newtonian gravitational fields from 
+time-varying gravitomagnetic fields. 
+Modern attempts to confirm the existence of the gravitomagnetic field include highly 
+accurate laser ranging of the Earth-Moon distance (Reference 12), as well as the launch 
+of the Gravity Probe B satellite (Reference 13). 
+Historical Timeline 
+In order to aid future researchers, it is instructive to follow the general historical 
+development of the modern search for a link between electromagnetism, matter, and 
+gravity. This outline will include both theoretical and experimental aspects, expanding 
+and emphasizing experimental issues where appropriate. Because of space limitations, 
+not all of the many contributions to the field can be highlighted. The reader is 
+encouraged to consult the source references cited in this paper to obtain a fuller 
+appreciation of the amount of effort that has been expended in this area of physics. 
+Podkletnov and Nieminen (Reference 15) published what is considered the first possible 
+evidence for an experimental link between high-temperature liquid nitrogen (LN2) 
+superconductor effects and gravity, allegedly in the form of a gravity shield. Many 
+scientists since then have cast considerable doubt on their findings. Notwithstanding 
+these severe criticisms, since the publication of this paper, many other researchers 
+have considered that the experimental search for gravity-related forces could be taken 
+out of the realm of pure speculation and onto the laboratory bench. Podkletnov's 
+apparent experimental success has in turn prompted some theoreticians to consider 
+fresh approaches to investigating superconductors as a special form of condensed 
+matter capable of modifying and/or producing such forces. 
+It would be a breakthrough of the first order to discover a repeatable, laboratory -scale, 
+heretofore hidden connection between gravity, special forms of matter that can be 
+created in the laboratory, and electromagnetism that would possibly unlock the door to 
+new transportation systems, new energy sources, and a host of other earthly benefits, 
+not to mention professional accolades and untold wealth for the technology developers. 
+However, the rush to be the first to successfully find a repeatable and verifiable link 
+between superconductors and gravity has produced many casualties. Theoreticians 
+have made assumptions to force their theories to explain the putative experimental 
+results. Most experiments have been literally thrown together with little thought paid to 
+the myriad traps and pitfalls that litter the minefield of experimental physics in this 
+uncharted territory. This is primarily due to the expectation that the sought-after forces 
+will be extremely tiny and hard to distinguish from prosaic influences. 
+The most prominent, albeit controversial theoretical work on creating laboratory­
+detectable gravitomagnetic fields via high-temperature superconductors was initiated 
+by Li and Torr (Reference 16-18). Their work expanded on earlier work by DeWitt 
+(Reference 19) and Ross (Reference 20), who considered modifications to the London 
+equations, which relate supercurrent (that is, Cooper pair) flow to electric and magnetic 
+fields in and around a superconductor, to include gravitomagnetic fields. Dewitt showed 
+that a time-varying gravitomagnetic field must arise owing to the presence of magnetic 
+flux quantization in superconductors. Dewitt's work was expanded on by Ross, who 
+UNCLASSIFIED/ /fOll 8FFI@IAL WS& 8PUslf 
+3

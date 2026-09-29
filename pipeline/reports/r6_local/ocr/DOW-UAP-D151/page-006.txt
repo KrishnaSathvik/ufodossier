@@ -1,0 +1,46 @@
+UNCLASSIFIED/ /FOR QFFI&iIAk WS& 8,.klf 
+Chapter 1: Introduction 
+Due to the complexity, duration and numerous support requirements of future manned 
+deep-space missions involving exploration, mineral exploitation, and possible 
+colonization, a likely scenario will be the inclusion of unmanned fleets of support craft. 
+Coupled with other requirements, an intensive research program is needed to 
+investigate the cognitive limits on pilots and other operators responsible for the 
+simultaneous control of multiple unmanned spacecraft making up the support fleet; a 
+"fleet' approach is proposed in an effort to optimize safety and exploratory reach. This 
+research effort would also aim at maximizing the functional efficiency of the mission 
+and reducing the operation costs of unmanned vehicle fleets. 
+In this scenario there is much about the ancillary craft that are automated in both 
+navigation and mission. Many of them will not require full-time piloting but given that 
+they could be hundreds of miles from each other at any instant of time, they need 
+monitoring to prevent unseen system failure or collision from letting them just 
+disappear one day during the mission like a Martian probe. Accomplishing this 
+monitoring task and the occasional piloting task for multiple craft in the fleet could be 
+economically accomplished if only one remote pilot on station at a time was necessary. 
+We will focus here on the cognitive limitation of a human astronaut to perform the 
+multiple-vehicle piloting task. It is not a surprise that there is little work in this specific 
+area - in fact there were zero peer-reviewed articles in the major journals concerning 
+remote piloting of multiple spacecraft (published in the last 30 years). There is 
+however, a large body of cognitive research on the limitations of object supervision and 
+tracking for the task of air traffic control (ATC). There is additionally an emerging body 
+of research concerned with multiple unmanned vehicle piloting for heterogeneous 
+missions. These are the two areas reviewed in detail as they relate to possible 
+spacecraft missions. 
+When a pilot or ATC operator is in control of several craft they have developed an 
+internal mental representation of the identity, position, mission, and current direction of 
+each object tracked. This is referred to colloquially as "the big picture." This mental 
+representation is also called situational awareness. Keeping all of the information about 
+all of the objects straight as long as they are in scope is the goal. 
+The primary research question we seek to answer is whether there is a cognitive limit 
+to the number of moving objects that can be maintained in the big picture. Secondary 
+questions are whether this maximum number is limited by complexity, how those 
+lim itat ions might be described, whether there is a real-time objective measure that will 
+indicate when a pilot is approaching their maximum capacity, and whether that capacity 
+has been overloaded. 
+For the current treatise we will consider only traditional humans as pilots. Cyborg­
+enhanced astrobots are a topic for another tome. 
+In discussing cognitive limitations, it is useful to introduce the concepts of task demand, 
+mental workload, and a simplistic model of multiple resource theory. For a given task, 
+the gross level of neural activity required is a representation of the mental demands of 
+the task. Of course, a complex task can demand varied resources such as visual and 
+UNCLASSIFIED// FOR OFFICIJl!tt tl!H!! 8,.klf 
+1

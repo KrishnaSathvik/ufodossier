@@ -1,0 +1,41 @@
+UNCLASSIFIED/ ,'FOR OFFI@IAI:: ~SE OPtl::Y 
+operating the vehicle and carrying out the mission. It is functionally similar to the 
+"flight management system" 49 of commercial aircraft . The pilot needs critical 
+information in real time that can be easily interpreted. If anything goes wrong, the pilot 
+needs to know the options and probable consequences of each option. A simplified 
+depiction of the nature of the emergency is also critical. Predicted consequences and 
+risks of each response option should also be succinctly displayed as part of the adaptive 
+display options. The pilot also needs to know, unambiguously and quickly, how to select 
+any option. The envisioned functions include the following: 
+• Automated assessment and display of the overall vehicle operational status. 
+• Automated assessment and display of pilot's health and functional status. (If the 
+system detects that the pilot is incapacitated, it automatically engages the "get 
+medical assistance" emergency response mode.) 
+• Provide short-list of anomaly/emergency response options 
+• In emergency, time-critical situations, the system will automatically choose its top 
+recommended response if the pilot does not enter in a command within the required 
+time. 
+• Checklists for various procedures (e.g., pre- and post-flight or diagnostics). 
+• Monitor progress relative to mission goals and timeline. 
+• Provide access to other databases (e.g., something akin to an Internet search). 
+• Provide the option to project a larger version of the display on the virtual surround, 
+whereupon gesture-based commands can be used. 
+When designing this panel, the lessons discussed in Chapter 2 regarding adaptive 
+displays and graphical and alphanumeric representations should be followed. This 
+includes hierarch ical organization, limit of displayed choices of four to seven, 
+simultaneous display of the current mode of the display relative to a model of the 
+system, and sound and verbal accompaniment for displayed informatio n. 
+Additionally, the functions of the surv ival enunciator, flight mode panel, and emergency 
+response panel are all tied into the flight assistant, but these fixed panels provide only 
+the most critical alarm and response options. One of the emergency response panel 
+buttons allows for selection of whatever response option is currently displayed on the 
+flight assistant panel, while the other emergency response buttons are fixed functions. 
+Survival Enunciator Panel 
+On the left side of the flight mode panel, between the center and left main panels, is 
+the survival enunciator. For this limited -size enunciator, only those alarms that are of a 
+life-threatening nature are listed. Less critical alarms are either handled by the flight 
+assistant or the side panels. Audio cues are also recommended for this enunciator, with 
+the added feature that the direction of the source of the sound corresponds to the 
+location of the alarm. 
+UNCLASSIFIED/fFOA. OFFICIO ls. Plili ONls.¥ 
+36

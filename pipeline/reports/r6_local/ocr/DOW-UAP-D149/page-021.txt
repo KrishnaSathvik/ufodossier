@@ -1,0 +1,51 @@
+UNCLASSIFIED/ ;re" OFFICIA:L tt.!I!! OHL¥ 
+a thermocatalytic "cracking" process that makes a syngas (i.e., CO - H2 
+gaseous mixture) from the original kerosene-water liquid mixture. The 
+syngas made onboard is a much better fuel from the Isp standpoint than 
+liquid hydrocarbons, and with the onboard thermocatalytic convers ion there is 
+no need to carry hydrogen from the takeoff. This part of Ajax is certainly very 
+meaningful and probably viable. 
+• MHD energy bypass. This is perhaps the most controversial part of Ajax. An 
+MHD generator extracts energy from the airflow upstream of the scramjet 
+combustor; th is energy bypasses the combustor and is put back into the flow 
+via MHD accelerator placed downstream of the combustor. We will discuss 
+this concept below. 
+• Plasma for drag reduction. A part of the MHD-generated power can, in 
+principle, be used to generate a plasma in air upstream of the vehicle nose. 
+This plasma would weaken the bow shock and reduce the wave drag on the 
+hypersonic vehicle. Although there were claims by some Russian groups 
+about 10-15 years ago that weakly ionized plasmas can reduce shock 
+strength via some unknown physical mechanism, extensive research in the 
+United States, Europe, and Russia has conclusively shown that the effects are 
+purely thermal. However, even with purely thermal action, plasma drag 
+reduction can be quite meaningful and useful for high-speed flight (see 
+below). 
+Perhaps the most basic problem with the MHD bypass, as pointed out by D. 
+Riggins,25 is that as a propulsion power cycle, it runs in the direction opposite to 
+that dictated by thermodynam ics. Indeed, any thermodynamically correct heat­
+into-power conversion cycle has work addition (e.g., compression) prior to heat 
+addition (e.g., in the form of combustion), and work extraction follows the heat 
+addition. This is why air is compressed (wo rk added) upstream of the combustor 
+in all normal propulsion cycles, whether by compressor in a turbojet or a 
+compression ramp upstream of a scramjet combustor. In th is sense, MHD power 
+(work) extraction before air enters the scramjet combustor, followed by MHD 
+power addition after the combustor, constitutes a thermodynamically "wrong" 
+and thus inherently inferior, propulsion system. 
+However, in criticizing the Ajax power cycle and arguing that the Isp of Ajax is 
+always less than that of a system without MHD bypass, D. Riggins26 makes a 
+significant mistake . In his derivations, he assumes that combustion-generated 
+heat addition in the combustor occurs at a gas temperature equal to the 
+stagnat ion temperature of the flow (i.e., that the flow is fully stagnant in the 
+combustor). This assumption is in direct contradiction to the very idea of a 
+scramjet, where combustion occurs in supersonic flow. Heat addition in the 
+combustor thus occurs at a static, not stagnation, temperature. It is this fact 
+that at least gives MHD bypass a chance to increase Isp. 
+Indeed, calculations described in the above-referenced paper27 by the Ajax group 
+do resu lt, in some conditions and with careful optimization, in an Isp increase. 
+Our analysis of the ir calculations shows that increase in static temperature 
+caused by flow deceleration and Joule dissipation in the MHD generator upstream 
+of the combustor is the reason for higher Isp. Indeed, since the entropy increase 
+in the combustor is equal to Q/T, where Q is the heat added and T is the static 
+temperature at which this heat is added, any increase would lead to lower 
+UNCLASSIFIED/FAA AFFl&li¾I:: ~9E Olttt 
+17

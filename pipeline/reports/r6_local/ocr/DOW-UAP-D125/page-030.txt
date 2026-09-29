@@ -1,0 +1,48 @@
+UNCLASSIFIED/ /FOA OFFI&IAk WSE 8Ptklf 
+intense quasi-neutral ion jet. The configuration, low gas leakage, and good heat 
+removal make it possible to scale the design to either low powers or high powers, 
+covering a range of interest for present small satellites on to future medium and large 
+satellites. In addition to maneuverable thrusting, the jet channel extract ion technique 
+enables directing and focusing the plasma stream down on an asteroid or other object 
+for interrogation of it. Analysis of the plasma emission spectra would provide an 
+identification of the materials and surface features of the object. With further 
+development the IEC system potentially offers an att ractive fusion power source. 
+Another advantage of the IEC jet thruster is that it provides a step towards a future p-
+11B IEC power source and/or thruster for satellite operations. This possibility is also 
+briefly discussed here. 
+Relation to Other Prior Thrusters 
+NASA and other laboratories have worked toward developing advanced Hall Thrusters 
+for future satellite applications. Such thrusters, however, do not scale well to lower 
+powers for small satell ites, nor are exhaust plasma modifications possible to provide 
+fast maneuverability. The IEC-jet thruster appears uniquely able to address both issues. 
+Conventional plasma thrusters such as the Hall thruster have undergone much more 
+experimental study than the IEC-jet thruster. However, the simplicity of the IEC-Jet 
+thruster design and its thermal scalability makes it feasible to quickly develop and test, 
+making the lack of data base less of a liability. 
+In the jet thruster concept the plasma target at the center of the chamber, created by 
+the intersection of the multiple ion beams, serves to deflect ions into the escaping jet 
+plasma. The resulting virtual anode, in combination with curved potential lines created 
+by the cathode grid diverts ions, forming a strong plasma jet. This is channeled out 
+through an enlarged hole and guide structure in the grid (Figure 3.2). This design 
+promises a good efficiency and thrust while providing a low weight, and due to the very 
+open accelerator grid structure, a very long lifetime. Thus it provides a good thruster 
+for basic satellite operations and with the added jet contro l/focus ing also provides 
+maneuverability. 
+In addition the IEC jet offers two added features that increase its potential effectiveness 
+for probing various space objects. The fact that the IEC jet can be controlled to form 
+over multiple areas around the sphere would allow tlhe platform to maneuver itself close 
+to a target and then simply open a second jet offset 180 degrees from the propulsive 
+one. The second jet would serve the integration purpose of the platfo rm without having 
+to expend time or additional resources such as fuel to reorient itself to direct the plume 
+at the target. Other current systems, such as Hall thrusters, would first have to position 
+itself close to the target, and then reorient such that the exhaust plume is properly 
+oriented. Thus, the IEC jet thruster would not be subject to expending the resources of 
+time and fuel that other platforms require. Another option for the IEC jet thruster is to 
+operate as a pulsed device. This becomes especially important when considering how 
+long it may take to disable a defensive target (the platform's impulse time to disable). 
+The use of an inte nse pulsed jet could disable the target before it has time to maneuver 
+or apply defensive layers. As discussed later, the basic IEC has been operated 
+experimentally in a pulsed mode using a capacitive power unit. However, to date, 
+formation of the jet has only been studied under steady -state operation. 
+UNCLASSIFIED/ /FOA OFFI&IAk WSE 8PtLY 
+23

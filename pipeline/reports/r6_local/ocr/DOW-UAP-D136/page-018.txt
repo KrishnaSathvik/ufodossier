@@ -1,0 +1,28 @@
+UNCLASSIFIED/ /P'OR: OP'P'l@IAL WS& 0Nk¥ 
+drift and offset in the reading and so shifting the calibration. Depending on its exact 
+construction some versions however can be effective for as much as a few days. 
+Figure 8 shows the latest in microdevice oxygen sensors. (This particular version is not 
+specifically a MEMS device since it is not made by photolithography and it is neit her 
+.§lectrical nor mechanical in nature.) It represents however the trend in oxygen sensors 
+towards optical measurement techniques that are evolving towards optical systems 
+based on MEMS. These sensors can be implemented in small sizes with optical fibers 
+that transmit and receive light from the sensor surface at the tip. Variations on this 
+basic principle are used for indwelling blood oxygen catheters during surgery. 
+fiber op cs 
+silicone cover 
+Figure 8. A Fiber Optical Oxygen Sensor Showing Two Optical Fibers Mated to Plastic Prisms That are 
+Coated With an Oxygen-Sensor Coating, Usually a Fluorescent Ruthenium Compound 
+(http://www.imtek.de/content/projekte _en. php?ls= 11) 
+The oxygen sensors respond to changes in absorption of oxygen into the special coating 
+at the tip, or in some versions, they respond to fluorescence of a thin oxygen-sensitive 
+coating placed on the prism surface. The secret to good performance lies in the 
+proprietary selection of the specific chemical species selected for the coating. 
+Blue light is usually transmitted down the optical fiber and the coating glows orange in 
+proportion to the amount of oxygen present. The light from the glow is conducted back 
+toward the supporting instrumentation system. The intensity of the orange light then 
+indicates oxygen levels in the solution. The particular sensor shown in Figure 8 uses 
+two optical fibers. The one on the left side is not sensitive to oxygen, but rather acts as 
+a reference system that is used to compensate for changes temperature, ambient light, 
+and other system variables. 
+UNCLASSIFIED/ {FOR OFFICIO! !PEii QDlk¥ 
+12

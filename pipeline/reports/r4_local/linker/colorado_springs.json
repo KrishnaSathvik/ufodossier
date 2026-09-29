@@ -1,0 +1,53 @@
+{
+  "canonical_events_created": 1,
+  "events": [
+    {
+      "event_id": "evt-0044",
+      "label": "Colorado Springs 2022",
+      "occurred_at": null,
+      "location_text": "Cheyenne Mountains",
+      "member_case_ids": [
+        "UNDATED-USA-599D8B"
+      ],
+      "source_roles": [
+        {
+          "filename": "FBI-UAP-D002.pdf",
+          "role": "primary_narrative"
+        },
+        {
+          "filename": "FBI-UAP-D003.pdf",
+          "role": "media_for_event"
+        },
+        {
+          "filename": "ICA-UAP-D001.pdf",
+          "role": "analysis_of_event"
+        }
+      ],
+      "notes": [
+        "intra-source episode 1 of 1 from FBI-UAP-D002.pdf",
+        "Labeled from Colorado Springs fixture evidence"
+      ]
+    }
+  ],
+  "media_attached": true,
+  "analysis_attached": true,
+  "extra_incidents_created": 0,
+  "media_sources": [
+    {
+      "event_id": "evt-0044",
+      "source_filename": "FBI-UAP-D003.pdf",
+      "relationship": "media_for_event",
+      "document_class": "media_metadata"
+    }
+  ],
+  "analysis_sources": [
+    {
+      "event_id": "evt-0044",
+      "source_filename": "ICA-UAP-D001.pdf",
+      "relationship": "analysis_of_event",
+      "document_class": "analysis"
+    }
+  ],
+  "pass": true,
+  "note": "Incidents remain immutable; media/analysis are event_source roles only."
+}

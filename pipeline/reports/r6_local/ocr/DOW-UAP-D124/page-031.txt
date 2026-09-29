@@ -1,0 +1,84 @@
+UNCLASSIFIED / /POR OPFECHH-USE-OALY
+
+the Qu Tube, or Supertube, is somewhat controversial.
+According to the inventor (Patent No. 6,132,823) and to
+claims by the company and their quoted results of tests
+conducted by Stanford Research Institute, it reportedly
+has an effective thermal conductivity of the order of 10
+to 100 times greater than that of conventional liquid-va-
+por heat pipes, and over 30,000 times that of an equiva-
+lently sized solid rod of silver. Reports cited also have
+indicated puzzling temperature distributions can occur
+with these tubes, unlike conventional thermal conduc-
+tors and liquid-vapor heat pipes. The tubes also appear
+to have the ability to function at very high temperatures,
+even up to the melting point of the materials used, and
+to support very high heat fluxes. Our tests to date sup-
+port the high temperature capabilities in addition to
+
+the high thermal conductivities. However, the thermal
+conductivity is so high that accurately measuring the
+value is very difficult. We have therefore acquired nine
+10’ long Supertubes, 5/16” in diameter, and have set up
+a method for determining the thermal conductivity us-
+ing high heat flux, a water cooled calorimeter, and a rake
+of over 30 carefully calibrated thermistors. This appara-
+tus should provide an accurate means of determining the
+thermal conductivity, and will also allow us to check the
+high heat flux capability of the tube and to assess pos-
+sible puzzling temperature distributions.
+
+Figure 17 shows a data set in which the temperature
+across the length of a 10” long tube heated from the end
+and cooled in air is essentially constant, whereas a similar
+size copper tube would have the temperature distribu-
+tion shown in the bottom curve. Increasing the thermal
+conductivity, k, of the copper by factors from 1000 to
+30,000 shows agreement between the analysis and the
+data at 30,000 times that of the copper, although this is
+only a lower limit on the actual conductivity. Increas-
+ing the factor even more does not produce a discernible
+change in the curve relative to the data. We have also
+tried other methods to estimate the high thermal con-
+ductivities we have measured, such as the Ingenhouss
+technique; these results also indicate very high thermal
+conductivities. However, we needed a more accurate
+means than previous tests with free convection cooled
+tubes with thermocouples, and therefore we devised the
+test apparatus shown in Figure 18.
+
+‘The 10 ft Supertubes are heated by three 2kW coil
+heaters. Power for the heaters comes from a 3-phase 2
+leg output power controller with two legs fused at 20
+Amps. For safety reasons the power controller and fuses
+are placed in an enclosure along with a Wattnode* power
+
+24
+
+meter. A water calorimeter is used to measure the heat
+conducted along the Supertube. Fins, shown in Figure
+19, are necessary to transfer the high heat flux to the
+water; these were fabricated in such a way that they can
+be easily attached to the Supertubes using hose clamps.
+Also, the fin design increases turbulence in the low
+through the heat exchanger. Having the turbulent flow
+increases the heat transfer rate into the water, and also
+discourages boiling, which could occur with the high
+heat fluxes used.
+
+‘Case. A Temperature Distributon Along Qu Tube and Copper Tube Test
+
+Date 12-1305 Copper and 10-20-05 Superuibe
+
+Figure 17. Comparison of Essentially Constant Supertube
+Temperature Distribution with Theoretical Distribution
+
+Jor a Standard Copper Tube and Rod, Showing that the
+Thermal Conductivity Must be at Least 30,000 Times that
+
+of Copper.
+
+Figure 18. Experimental Apparatus for 10 fi Qu Super-
+tubes.
+
+UNCLASSIFIED / / RO2-O551GhiUSE-ONEY

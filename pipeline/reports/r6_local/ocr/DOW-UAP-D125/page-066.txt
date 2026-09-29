@@ -1,0 +1,50 @@
+UNCLASSIFIED/ /FOR OFFI&IAk Y&& 9Nk¥ 
+In summary, if the physics principles 
+are demonstrated successfully, the 
+MCSA fusion power plant will offer 
+numerous advantages for space 
+propulsion as well as for terrestrial 
+power sources. The non-Maxwellian 
+plasma involved is well suited for 
+operation with D-3He fuel that provides 
+much of the energy output in the form 
+of very energetic 14-MeV protons. 
+Proton energy can be employed for 
+either direct conversion to electricity or 
+directed thrust . As demonstrated in the 
+Fusion Ship II design study, the MCSA 
+power plant is especially well suited for 
+manned deep space missions where the 
+high power-to -weight of the MCSA enables fast trip times. The concept introduces 
+several important new physics. The basic concept of the MCSA system is use of 
+recirculation from escaping particles from one unit into the neighboring one where 
+retrapping occurs. These physical principles have not yet been demonstrated 
+experimentally, but formulated initial tests could be done with a modest size 
+experiment and stepped up in size to eventually demonstrate a fu ll -scale prototype 
+power unit. 
+CONCLUDING REMARKS 
+This section has concentrated on various near-term "spin off" applications of 
+neutron/proton/x -ray sources and also non-electrical power applications such as space 
+propulsion. The homeland security inspection station described here show how versatile 
+the IEC concept is, allowing multi-device broad area inspection. Space propuls ion and 
+related space power seems quite far term due to the large size powers demanded for 
+such applications. However, the possibility of using magnetic coupling of smaller unit 
+provides a modular approach that has many advantages, plus expediting development 
+by allowing concentration on the smaller modules. Iin addition, use of near-tern 
+electrically driven IEC jet plasma devices allows a "product" along the way to the 
+eventual development of the high power fusion devices. 
+REFERENCES 
+5.1 G. H. Miley, L. Wu, H. J. Kim, Nuclear Techniques in National Security Studies on 
+Contraband Detections !EC-based neutron generator for security inspection system", 
+Journal of Radioanalytical and Nuclear Chemistry, Vol. 263, No. 1 (2005) pp.159-
+164. 
+5.2 R. Burton, H. Momota, N. Richardson, Y. Shaban, and G. H. Miley, "Fusion Ship 
+II- A Fast Manned Interplanetary Space Vehicle Using Inertial Electrostatic Fusion", 
+Space Technology and Applications International Forum - STAIF-2003, Albuquerque, 
+NM, 654, Feb 2-5 (2003) (M.S. EI-Genk, ed.), American Institute of Physics Conf. 
+Proceedings, pp. 553-562. 
+59 
+UNCLASSIFIED/ /FOA OFFICIAL: Wili ONL:¥ 
+Figure 5.10. Diagram of Direction Randomization 
+(KAM effect) Due to the Magnetic Field Null Region 
+in the IEC

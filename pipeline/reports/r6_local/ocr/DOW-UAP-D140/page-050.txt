@@ -1,0 +1,47 @@
+UNCLASSIFIED//iiOlil OiiiilCI0L Llili QPIL¥ 
+Appendix B: Li-Baker HFGW Detector 
+Appendix B describes a joint academia/ind ustry project to design the ultra-high 
+sensitivit y Li-Baker detecto r for high-frequency grav itational waves (HFGWs). The 
+partnersh ip consists of Louisiana State University (LSU) and Transportation Sciences 
+Corporation (TSC) in California. The Li-Baker HFGW detector exploits a solut ion of field 
+equat ions that couples photons and GW in first order, and the sensitivity of the detector 
+will be much better than previously-proposed HFGW detectors. The outcome of this 
+study will be an engineering -ready design for the HFGW detection system, to be 
+developed under continued funding. Future construction of this detector will broaden 
+the search spectrum of the existing UGO low frequency GW detect ion system; it will be 
+used to detect and characterize the relic HFGW cosmolog ical background radiation, 
+contributing to clarifying the origins of the universe. This offers the first and best hope 
+of GW detect ion in a completely new GW frequency regime around 10GHz, near the 
+cutoff of what is cosmically generated and a proof of the capability of the detector to 
+sense the HFGW emissions of the HFGW generator discussed in Sections 4.4, 4.5 and 
+4.6. 
+This first activity is to develop designs, plans and specifications for the Li-Baker 
+configuration for ultra-high sensitivity detection of relic high-frequency gravitational 
+waves (HFRGWs) in the laboratory. The first goal will be to develop the design to a 
+stage where the likely performance can be evaluated in detail. Following a future 
+proposal, the Li-Baker detector will subsequently be built and used for the basic-science 
+purposes of sensing HFRGWs having their origin related to the "big bang," as well as for 
+detecting laboratory-generated HFGWs (Romero and Dehnen, 1981; Baker, 1999, 
+2000; Woods and Baker, 2005, 2009). As discussed in Sections 4.4, 4.5 and 4.6 .Use 
+will primar ily be made of "off-the-shelf" components, and components described in the 
+open scientific literature and in the various patents issued to Project Scientist Robert M 
+L Baker, Jr. (Baker, 1999, 2000, 2001, and Patents Pending) who is the inventor of 
+the Li-Baker HFGW Detector (Baker, 2001). Other components will be designed by the 
+project participants during the Detector Design (DD) process. The project plan and 
+timing are described below under separate headings for each component of the work. 
+D01.1 Containment Vessel 
+Design of the cryogenic containment vessel and vacuum system: Dr. R.C. Woods 
+(LSU) + graduate student, G.V. Stephenson (TSC), Dr. R. M L Baker (TSC). This 
+will be divided into four subtasks: 
+DDl.1.1 Selection of material for the containment vessel: this choice will be 
+made in light of the vessel's approximate size and shape, initially anticipated to be 
+cylindrical, overall approximately 2m diameter and 3m length. Manufacturing ultra-h igh 
+vacuum chambers requires fabrication that ensures leak-free performance. For 
+example, Meyer Tool & Manufacturing, Inc. (Oak Lawn, Illinois) supplies custom 
+chambers for ultra-high vacuum (UHV) applications. Companies such as Meyer will be 
+consulted and/or visited to evaluate their manufacturing capability. The final selection 
+from the expected short-list of titanium, stainless steel and/or aluminum containment 
+vessels will be made based upon manufacturer recommendation and evaluation of test 
+data. 
+UNCLASSIFIED/ /FOR OiiiilCl.t.k HSI!! eflti 
+45

@@ -1,0 +1,56 @@
+UNCLASSIFIED/ 4-@R-OFFt6?AE-USE-ONET
+
+The author was aware of three people—James S. McDonnell, the AFFDL’s Albert Draper,
+and Russia’s Glebe Lozino-Lozinski—who clearly understood the need for a long cross-
+range and down-range capability, not just for one missed orbit. Critics will observe that
+Lozino-Lozinski had limited his BOR vehicles to an L/D ratio of 1.7 to 1.8 and not the
+2.7 to 3.0 required for Earth circumferential glide range. First, the longitudinal extent
+of the former Soviet Union was twice that of CONUS, and an Earth circumferential glide
+range was not necessary to ensure recovery within the continental Soviet Union;
+therefore, a lesser L/D ratio was acceptable. Second, in personal conversations with
+the author, Lozino-Lozinski indicated a Russian government agency forced him to limit
+the glide range to ensure recovery in continental Russia and prevent escape to the
+United States. In a further step to prevent escape, when the vehicle was in range of
+CONUS, ground control disabled its deorbit system.
+
+The need for a long cross-range and down-range capability so there is no waiting in
+orbit in the case of an emergency or military need is presented graphically in Figure 13.
+Interestingly, the greatest lateral-range (cross-range) requirement for no waiting is for
+55° orbital inclination, the usual Russian orbital inclination. The nominal U.S. orbital
+inclination is 28.5 degrees, with a waiting time of 8 orbits (approximately 12 hours) for
+a space shuttle-class glider. At the International Space Station orbital inclination, the
+orbital waiting time for a shuttle-class glider is 6 orbits. In comparison, Apollo’s orbital
+waiting time was about 14 orbits, provided the return trajectory included an Earth-
+parking orbit before entry into the Earth’s atmosphere. The FDL-7 and Model 176 class
+of gliders could immediately enter a return glide from their orbits. This provides a
+significant advantage for the International Space Station operators and vehicle crew,
+who need only enter hypersonic gliders attached to an orbital station and initiate
+deorbit procedures to be on the ground in less than 90 minutes in an emergency.
+
+Time (orbits) Required to Landin California or Florida
+Orbital Altitude is 200 nautical miles, 230.1 statute miles, 370.4 km
+100
+
+Minimum lateral Range ‘
+For Once A Day Landing Maximpm Waiting Time
+
+co
+7
+
+na
+oe
+
+&
+o
+
+Orbital Inclination (degrees)
+
+20
+
+0 1000 2000 3000 4000 5000
+Spacecraft Lateral Range (nautical miles)
+
+Figure 13. Sufficient Cross Range (L/D) Means There is No Waiting to Return
+
+14
+UNCLASSIFIED / --OR-OFFTGEAEUSE-ONTT™

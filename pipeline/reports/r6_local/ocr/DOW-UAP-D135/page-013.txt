@@ -1,0 +1,48 @@
+UNCLASSIFIED/ fFOA OFFIEIAk W&i 0Pilk¥ 
+The exact relativistic strong-field condition that establishes the lower lim it criterion for 
+vcr;r to induce antigravity repulsion of a payload (as measured by distant inertia l 
+observers in the rest frame of the source or in the initial rest frame of the payload) is 
+given by (Reference 15): 
+(6) 
+In this expression, y = (I - p2)- 112 is the standard relativistic Lorentz transformation factor 
+which is a function of the normalized relativ istic velocity parameter p= vie, 'I'= 'l' (r) = I -
+(2GM/rc2) is the goo (or time-time) component of the static Schwarzschild spacetime 
+metric 2 of a source (or central) body of mass M, Lis the constant specific angular 
+momentum of a ballistic payload of mass m, and r is the radial distance of the 
+approaching/receding payload from M. One can solve the inequality in Equation (6) for 
+p(or v) under the condition that a payload far from M, such that r » b (b is the periapsis 
+distance of the payload from M) and r » GM!c2 , and find that the payload will become 
+gravitationally repelled by M whenever y2 > 3/2 or p > 3-112. In order to derive an exact 
+solution, Felber considered the case for which M » m so that the energy and momentum 
+delivered to the payload has a negligible back-reaction on the source body's motion. 
+And he found that a strong gravitational field is not required for antigravity propulsion 
+because a weak-field solution achieves the same results. 
+Felber discovered another interesting facet about this new relat ivistic antigravity effect. 
+He found that there is also an antigravity field that repels bodies in the backward 
+direction with a strength that is one-half the strength of the antigravity field in the 
+forward direction. Thus a stationary body will repel a test body that is radially receding 
+from it at any v > vcri,, To delineate the propulsion benefit from this technique, Felber 
+determined that the maximum velocity ( vpmax-wf) that can be imparted to a payload 
+initially at rest by the weak (gravitationa l) field of a larger source mass moving toward 
+the payload at constant V > Vcrit is Vpmax-wf « c[P - (3Pt 1]. For the strong-field case, the 
+maximum velocity (vpma,-,r) that can be imparted to the payload (initially at rest) by the 
+larger source mass moving toward the payload at any constant v is vpma,-,r = pc. Felber's 
+analysis includes examples where he uses black holes for the large source mass. 
+This form of antigravity propulsion is not too surprising because Misner et al. 
+(Reference 16), Ohanian and Ruffini (Reference 17), and Ciufolini and Wheeler 
+(Reference 18) report that general relativistic calculations show that the time­
+independent Kerr (spinning black hole) gravitational field exhibits an inertial frame 
+dragging effect similar to gravitational repulsive forces in the direction of a moving 
+mass at relativistic velocities. This and Felber's exact solution are among the genre of 
+Lense-Thirring type effects that produce antigravity forces. It is interesting to note that 
+even though general relativity theory admits the generation of antigravity forces at 
+relativistic velocities (Reference 19), they have not been seen in laboratory experiments 
+2 A spacetime metric (ds2 ) is a Lorentz-invariant distance function between any two points in spacetime that is 
+defined by ds2 = g""dx1'dx' , where g," is the metric tensor which is a 4x4 matri x that encodes the geometry of 
+spacetime and dx" is the infinitesimal coordinate separation between two points. The Greek indices (µ,v = 0...3) 
+denote spacetime coordinates, ><° ...x3, such that x 1... x3 = space coordinates and ><°= time coordinate . The 
+Schwarzschild metric is: ds2 = - (1 - 2GM/cir) c2dt2 + (1 - 2GM/c2r )"1dr2 + r2(d02 + sin20dcp2) . The corresponding 
+metric tensor is a diagonal matrix : g,,. = diag[ - (1 - 2GM/c2r), (1 - 2GM/c2r)"1, r2, r2sin20). (r, O,cp) are the usual 
+spherical polar coordinates in 3-dimensional space. 
+UNCLASSIFIED/ /FOA OFFI&IAb Yi&: 8,.bY 
+8

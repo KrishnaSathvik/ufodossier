@@ -1,0 +1,193 @@
+--- PAGE 1 ---
+UNCLASSIFIED / / FOR-OFFECGEAEUSE-ONES
+
+Defense
+Intelligence
+Reference
+Document
+
+A SCéD efense Futures
+
+01 November 2010
+
+ICOD: 8 July 2010
+
+DIA-08-1011-002
+
+Cockpits in the Era of
+Breakthrough Flight
+
+UNCLASSIFIED (*FOR-OFFECEAE-USE-ONEY
+
+--- PAGE 2 ---
+UNCLASSIFIED//F8R 8FFIOIAL YSE BHLY 
+Cockpits in the Era of Breakthrough Flight 
+The Defense Intelligence Reference Document provides non-substantive but 
+authoritative reference information related to intelli ence to ics or methodolo ies. 
+Prepared by: 
+Technology Warning Division (DW0-4 ) 
+Defense Warning Office 
+Directorate for Analysis 
+Defense Intelligence Agency 
+Author: 
+AAP Person 82 
+Administrative Notes: 
+(U) COPYRIGHT WARNING: Further dissemination of the photographs in this publica tion is 
+not authorized . 
+This product is one in a series of advanced technology reports produced in FY 2009 under the Defense 
+Intelligence Agency, Defense Warning Office's Advanced Aerospace Weapon System Applications 
+AAWSA Pro ram. Comments or questions pertaining to this document should be addressed to ...., - ...-___-.._,M_E,__Person 
+AAP Person 1 AWSA Program Manager, Defense Intelligence Agency, ATTN: JUIAF - DI/DWO-3,1 •• 
+g , as mg on, DC 20340-5100. 
+UNCLASSIFIEDf,/liOA OliliiliCiliOL Plltli Otill¥
+
+--- PAGE 3 ---
+UNCLASSIFIED/ ,'FOR OFFI@IAL WSE ONLY 
+Contents 
+Introduction ........................................................................................................... iv 
+Chapter 1: Predicting Implications of Propulsion Breakthroughs ........................... 1 
+MARCH OF PROGRESS: REVOLUTIONARY PROPULSION PHYSICS ....................... 1 
+VEHICLE and COCKPIT IMPLICATIONS ............................................................... 2 
+Chapter 2: Human-Machine Interface Lessons ................... .................................. 18 
+HUMAN PERCEPTION NORMS ........................................................................... 18 
+DESIGN FOR STRESS ........... ..... .. ........... ............... .. ................. ..... ........ .... ....... ..... . 21 
+DEVICES TO CONVEY INFORMATION ................................................................ 23 
+DEVICES FOR RECEIVING PILOT COMMANDS ................................................... 27 
+CONTEMPORARY AIRCRAFT COCKPITS ............................................................. 28 
+Chapter 3: Provisional Cockpit for Breakthrough Flight ......... ... ... .......... ... ......... ... 32 
+FLIGHT MODES ................................................................................................. 32 
+PHYSICA L DISPLA VS .................................................................. ............. ....... .. 34 
+VIRTUAL SURROUND DISPLAY ......................................................................... 40 
+CONTROLS ........................................................................................................ 41 
+Chapter 4: Future Work ........................................................................................ 43 
+MULTIPLE FLIGHT REGI ME GUIDANCE CONVENTIO NS ..................................... 43 
+VECTOR MOTION DISPLAY ............................................................................... 43 
+VECTOR MOTION CONTROL .............................................................................. 43 
+OPTIMUM MIX OF CONTROL METHODS ............................................................. 44 
+Appendix A: Annotated Bibliography ......... .. ......................................................... 45 
+Appendix B: Endnotes .......................................................................................... SO 
+Figures 
+Figure 1. Six Independent Degrees of Freedom ...................................................... 3 
+Figure 2. Comparing Conventions of Aircraft Motion .............................................. 5 
+UNCLASSIFIED/ fFOA. OFFICIO Is. flili Ol'lls.¥ 
+ii
+
+--- PAGE 4 ---
+UNCLASSIFIED/ ,'FOR OFFI@IAI:: ~SE OPtl::Y 
+Figure 3. Necessary Distinction Between External & Internal Force Environments. 6 
+Figure 4. Warp Drive ............................................................................................... 8 
+Figure 5. Hypothetical Gravitational Bias Drive ....................................................... 9 
+Figure 6. Inertial Frame Bias Drive and Vehicle Zones .......................................... 10 
+Figure 7. Typical Science Fiction Orientations ....................................................... 12 
+Figure 8. Cosmic Microwaves as Universal Motion Reference Frame ..................... 15 
+Figure 9. Human Fields of View ............................................................................. 20 
+Figure 10. Flight Deck of Contemporary Aircraft ................................................... 29 
+Figure 11. Contemporary Primary Flight Display ............. ...................................... 30 
+Figure 12. Space Cockp it Vis ions Circa 1959 ....... .... ...... .. ... .............................. ..... 31 
+Figure 13. Provisiona l Breakthrough - Era Cockpit .................................................. 33 
+Figure 14. Functional Des ignation of Physical Cockpit Panels ....... ......... .... ..... ....... 34 
+Tables 
+Table 1: Comparing Reaction Time to Distance Traversed at Various Speeds ..... .. 13 
+UNCLASSIFIED/fFOA. OFFICIO ls. Plili ONls.¥ 
+iii
+
+--- PAGE 5 ---
+UNCLASSIFIED/ ,'FOR OFFI@IAL WSE ONLY 
+Cockpits in the Era of Breakthrough Flight 
+Introduction 
+Responding to the request to explore forefront science relevant to future cockpits for 
+any form of aerospace craft and/or deep-space craft that is propelled by any 
+unspecified advanced or breakthrough propulsion physics, this report offers a 
+provisional cockpit design that employs the following: 
+• Predictions of propulsion physics breakthroughs. 
+• Lessons of human-machine interface. 
+• Emerging technology for displays and controls. 
+This study discusses the implications of breakthrough propulsion, includ ing the mastery 
+over gravitational and inertial forces and the prospect for faster-than-light spaceflight. 
+The main reference used to predict these possibilities is the book Frontiers of Propulsion 
+Science [Millis & Davis, 2009]. Although the breakthroughs discussed in this book are 
+not immine nt, enough progress has been made to allow for thoughtful speculation 
+about their characteristics and possible implementations. 
+How these advances may affect future cockpits is described, and this is the central 
+message of this study. The most significant differences from legacy cockpits are 
+identified and then used to set the baseline design requirements. 
+Additionally, substantial lessons about human-machi ne interfaces are reviewed and 
+applied to this notional cockpit. Most of this progress relies on better accommodating 
+the norms and limitations of human perception-lessons that do not change even when 
+vehicle characteristics change. 
+Recent advancements in the use of hand gestures for commands are also included, as 
+well as advancements in brain-machine interfaces. In this conceptual study of far-future 
+possibilities, these technologies are assumed to have reached fu ll maturity, with one 
+exception: in order to focus this study on future cockpits, the options for brain implants 
+and for transhumanism-where humans are reengineered to adapt to new 
+requirements-are not considered. 
+Next-step investigations are suggested to refine the ideas presented herein. A caveat 
+is that advances in cockpits for breakthrough flight might be further advanced by taking 
+advantage of the gaming industry techniques or through science fiction speculation. 
+Note: All projections in this report are based on public domain informati on. 
+UNCLASSIFIED/fFOA. OFFICIO ls. Plili ONls.¥ 
+iv
+
+--- PAGE 6 ---
+UNCLASSIFIED/ ,'FOR OFFI@IAL WSE QptLY 
+Chapter 1: Predicting Implications of Propulsion 
+Breakthroughs 
+MARCH OF PROGRESS: REVOLUTIONARY PROPULSION PHYSICS 
+Breakthroughs in propulsion physics (such as the control over gravitational or inert ial 
+forces, propellant-less space drives, and even faster-than-light travel) are not 
+imm inent; however, enough progress has been made to allow for thoughtful 
+speculation about their nature and implications. As a preview, the implicat ions to 
+cockpit design include added degrees of motion, combination of operat ional regimes 
+(near ground, orbit, and beyond), greater range of speed (from zero-speed hover to 
+beyond light speed), and loss of familiar motion cues (pilot's inertia and visual cues) 
+result ing from the separat ion of external and internal environments . 
+The primary reference used to predict these possibilities is the book Frontiers of 
+Propulsion Science [Millis & Davis, 2009], 1 particu larly chapters 3, 4, and 15. This book 
+may be the first-ever scholarly compilation of science pertaining to breakthrough 
+flight-methods sufficiently advanced to enable human voyages to other star systems. 
+The book examines a wide range of works, offering introductory explanations and 
+comparisons between approaches and identifying high -priority unknowns needing 
+deeper study. References to specific ideas and issues cite that book and other original 
+works. 
+Setting Ideal Performance as Design Target 
+This report focuses on the most significant likely differences between contemporary 
+cockpits and cockpits in the era of breakthrough flight. Possibilities that imply the most 
+demanding changes are considered first, and explanations of the correlations between 
+the propuls ion characteristics and resulting cockpit features are provided . Looking to 
+the far future, this study evaluates the impact of having achieved the following 
+breakthrough advancements: 
+• Control over grav itational and inertial forces: 
+- The craft is propelled by interacting with the properties of the space-time and/ or 
+inertial frames surrounding the craft - and can accelerate at g levels beyond 
+human endura nce. 
+- The environment inside a craft can be sustained anywhere between 0 g and 1 g 
+(m inimum range) without regard for either the motion of the craft or its outside 
+gravitational environment. 
+• Faster-than -light (FTL) speeds are possible by having maste red control over those 
+aspects of nature that impose the light-speed limit. However, due to reasonable 
+relativist ic projections of the energy required for propulsion coupled with the limits 
+of the human lifespan, it is reasonable to expect that travels will be limited to within 
+our galaxy. For the sake of bracketing the scope of coverage, this study assumes 
+that practical star flight will be limited to a 100-l ight -year radius around our Sun. 
+Even with this constraint, thousands of star systems are within that range. 
+UNCLASSIFIED/fFOA: OFFICIO la Plili Oralla¥ 
+1
+
+--- PAGE 7 ---
+UNCLASSIFIED/ ,'FOR OFFI@IAI:: WSE ONl::Y 
+• The energy supply for these features resides on the vehicle and is considered to 
+have a dynamic interplay with the motion of the vehicle . The energy can be 
+transferred to and from the environment surrounding the craft as a consequence of 
+the propulsive maneuvers. 
+Sanity Check on Predictions 
+Objectively, the propuls ion physics predictions offered in this report should be 
+interpreted as informed conjectures or, at best, well-reasoned speculations. Absent of 
+verified theories and engineering implementations, it is premature to consider this first 
+study as the last word on this topic. Further progress will likely reduce the span of 
+options and provide greate r i nsight into implementation details. 
+It must also be stressed that these interpretive predictions and cockpit implications are 
+solely generated by the author and, thus, have not yet been published or debated with 
+other scientists and engineers. Therefore, the reader should consider these predictions 
+to be an initial step into the process. 
+VEHICLE AND COCKPIT IMPLICATIONS 
+~deally, it is desirable to have a vehicle that can mo

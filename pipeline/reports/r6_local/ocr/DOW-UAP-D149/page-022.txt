@@ -1,0 +1,49 @@
+UNCLASSIFIED/ /FOA 8FFI@IAL ~S! 8HL I 
+entropy increase and thus, as can be easily shown, to higher lsp. The lsp increase 
+due to the increase in combustor temperature is made smaller by negative 
+factors such as irreversib ilities due to Joule dissipation in both MHD generator 
+and accelerator and by the thermodynamically "wrong" work extraction before 
+the combustor. 
+The lsp increase, however, even in optimal cases, is only several percent. Given 
+the crude assumptions in the paper28 ( 1D flow, no boundary layer and heat 
+losses, uniform plasma, no e-beam energy losses, no losses in electric circuitry), 
+this gain of several percent would turn into a loss of l sp in more realistic analysis. 
+Addit ionally, the weight and complexity associated with magnet and e-beam 
+systems should be kept in mind. Therefore, one can state with certainty that 
+MHD energy bypass at Mach<12 (where nonequilibrium ionization of air is 
+required) is not a meaningful technology. 
+Where the MHD bypass could be useful is at very high Mach numbers 
+(Mach>12). First, stagnation temperatures at these Mach numbers are high 
+enough for significant thermal ionization with reasonable amount of alkali seed 
+(0.01-1% by volume), thus eliminating the need for a heavy, complex, and 
+entropy-generating nonequilibrium ionization system. Second, at static 
+temperatures (>2,000K) reached in the combustor at these Mach numbers, 
+there is no combust ion per se, just dissociation of fuel and air molecules followed 
+by full or partial recombination into other molecules that releases heat into the 
+flow downstream of the combustor in the expansion nozzle. For such a regime, 
+the group at NASA Ames showed29, 30 through modeling that MHD bypass can 
+indeed increase the lsp. Note, however, that materials and structures, as well as 
+fuel development, are currently such that air-breathing flight at Mach> 12 is not 
+realistic. In the future, if air-breathing propulsion at Mach> 12 becomes possible 
+in principle, reexamination of MHD bypass benefits and flaws will be warranted, 
+especially if lightweight magnets also become available by that time. 
+THE REVERSE ENERGY BYPASS 
+Returning to Mach< 12, one of the authors of th is survey, togethe r with his 
+colleagues, has proposed a very different bypass concept, dubbed the reverse 
+energy bypass (Figure 8). 31, 32 The energy (in the form of electricity) is extracted 
+from the flow in an MHD generator placed just downstream of the combustor (or 
+collocated with the combustor). This at least avoids the need fore-beam 
+ionization, since the air mixed with combustion products is sufficiently hot right 
+after the combustor that an acceptable electrical conductivity (on the order of 10 
+mho/m or higher) can be generated thermally, provided alkali metals are seeded 
+into the fuel and are thus present in the combustor and downstream of it. 
+A part of the electrical energy generated downstream of the combustor could be 
+used upstream of the MHD generator, which is why this is called the reverse 
+energy bypass (the energy being bypassed is moved in the upstream direct ion) . 
+Plasma-assisted combustion (such as ignition, flameho lding, and mixing) would 
+benefit from this electrica l energy. Plasma heat addition, in steady or trans ient 
+modes, enabled by this electrical power, would be beneficial for control of shock 
+interaction at the inlet and for drag reduction and/or steering and pitch or yaw 
+control when used in front of the vehicle's nose. 
+UNCLASSIFIED} FOR OPP!e!i!CL tl!JE 8HLY 
+18

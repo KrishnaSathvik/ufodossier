@@ -1,0 +1,36 @@
+UNCLASSIFIED1/FOR 8ffl@IAL tt91! e"t I 
+Activated 
+Materi al selection 
+and construction 
+carbon 
+electrodes 
+Electrolyte 
+Activated 
+carbon 
+electrodes 
+0000000000 
+Separator soaked in electrolyte 
+0000000000 
+■ Electrodes 
+■ Separator 
+■ Electrolyte 
+■ Wound component 
+■ Case 
+Figure 2. Operation of an Ultracapacitor. A simple ultr acapacitor utilizes two similar electrod es (typica lly 
+carbon) with a separator and electrolyt e to create the electroc hemical double layer that governs operation . 7 
+BATTERIES AND ULTRACAPS 
+For an ultracapacitor, energy is stored within the electrica l double layer, which is a 
+physical storage mechanism . Contrast this with batter ies, where charge and discharge 
+take place through a chemical (Farada ic) reaction . Since charge is stored physically, 
+there is no direct degradation mechanism that limits cycle life. Side reactions do occur, 
+which prevents infinite cycle life, but ultracaps can often be cycled tens of millions of 
+times .8 Batteries store their energy through chemica l reaction; consequently, cycle life 
+is much shorter and heavily dependent on the depth of discharge . In contrast, there are 
+no limitations to the discharge depth with an ultracapac itor. Table 1 addresses some of 
+the general characteristics of batteries and ultracapacitors, which can help to determine 
+the preferred system for a specified application . The values are based upon 2008 data, 
+so some numbers are outdated, but the relat ive values remain consistent. There are 
+now hybrid devices that blur the boundaries further by introducing a battery-like 
+electrode to replace one of the two identical electrodes in a traditional ultracapacitor. 
+UNCLASSIFIEO/fFOA OFFI&I:.l.b YS& ONLY 
+3

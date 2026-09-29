@@ -1,0 +1,41 @@
+UNCLASSIFIED/ /P'OR: OP'P'l@IAL WS& 0Nk¥ 
+Methods of creating a more sustained blood concentration of a given drug are desirable 
+to increase drug effectiveness. Similarly there are other medical applications for 
+controlled-release drug-delivery systems, such as that for insulin, where it is desirable 
+to maintain a more sustained dose over a period of hours. 
+There has been the application of MEMS technologies in the creation of better ways to 
+deliver drugs to the human body by way of small implantable reservoirs that can slowly 
+release their drug over a prolonged period of time. Figure 6 shows a MEMS-based 
+insulin-delive ry pump for the treatment of diabetes. This is perhaps one of the largest 
+applications of BioMEMS in medicine. 
+Subcutaneous drug delivery 
+Debiotech p iezoelec ric 
+in sulin pump 
+S itzerland 
+http://lllww.tfebiotech.com/dobiotoch.h 
+• MEMS technology using Si and glass 
+biocompatibility 
+• Precise control of nl volumes 
+• Prevent under/overdosing and detect occlusions, other problems 
+• Small size: 114th the size of existing monitors 
+• Proprietary hermetic packaging 
+• In he U.S. alone, 60 million people are affec e by diabe es 
+• 15% of worldwide heal h spending goes award rea ing diabe es. 
+• 450,000 people now wear ransportable insulin pumps worldwide. 
+sources: Debiotech ebsite· Advanced Packaging 
+Figure 6. An Insulin MEMS Pump. An implantable drug-delivery device. 
+Diabetes is a disorder in which glucose (blood sugar) is not proper ly taken into the cells 
+of the body. This process is norma lly mediated by the hormone insulin, which is 
+produced by the islet cells of the pancreas. Insulin circulates in the blood to actuate a 
+receptor on tissue cells that causes them to uptake glucose from the blood stream. If 
+there is too little insulin (as in Type 1 diabetes) the cells will not uptake glucose from 
+the blood, the cells will starve, and blood sugar levels become too high from 
+unabsorbed glucose. Alternat ively, cells may not respond properly to normal insulin 
+levels (as in Type 2 diabetes) and require artificially higher levels of insulin to uptake 
+glucose. This is called insulin resista nce. In either case, blood insulin levels can be 
+increased by using insulin injection devices. 
+Brittle diabetes is a conditio n where blood glucose levels fluctuate wildly with eating or 
+fasting causing hyperglycem ia (too high a blood glucose-more than about 100 mg 
+percent) or too low (hypoglycemia-less than about 60 mg percent). Britt le diabetics 
+UNCLASSIFIED/ {FOR OFFICIO! !PEii QDlk¥ 
+8

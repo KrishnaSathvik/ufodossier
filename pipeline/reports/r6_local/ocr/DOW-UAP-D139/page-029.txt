@@ -1,0 +1,41 @@
+UNCLASSIFIED/ fFOA OFFl&I.t.k Y&& 8PtL\f 
+adequate Coulomb repulsion. 9 Equation (8) shows that a 1 km radius throat will require 
+a cavity plate separation of 1.28 x 10-16 m (smaller than a nuclear diameter), which 
+gives pEc =- 1.62 x 1036 J/m 3 for this configuration . In contrast, a wormhole with a 
+throat radius of 1 AU will require a plate separation of 1.57 x 10-12 m (or 35% smaller 
+than the electron's Compton wavelength), which results in an energy density of -7.14 x 
+1019 J/m 3. 10 There is no technology known today that can engineer a cavity with such 
+minuscule plate separations. In addition, such minuscule plate separations are 
+unrealistic because the Casimir effect switches over to the non-retarded field behavior 
+( ~ a3) of van der Waals forces when plate separations go below the wavelength (::::: 10 
+nm) where they are no longer perfectly conducting (Reference 58). This scheme will not 
+be considered any further. However, future work will be necessary to elucidate whether 
+the various quantum field analogs of the Casimir effect can provide a more reasonable 
+technical solution to this problem. 
+IV. Constructing a Traversable Wormhole is not Easy 
+A. NEGATIVE ENERGY REQUIREMENTS AND ENERGY CONDITION 
+VIOLATIONS 
+One knows how to make small quantities of negative energy in the lab. But one does 
+not know if it is possible to make large quantities of negative energy. It was pointed out 
+in Section III that one, some, or all of the classical energy conditions must be violated 
+in order to build a trave rsable wormhole. And it was also cautioned that this was not a 
+showstopper because the energy conditions have all been violated by nature or by lab 
+experiment prior to their formulation. However, the reader should be forewarned that 
+there are a number of published claims that the energy condition violations can be 
+avoided. These claims are just semantic games whereby investigators universally 
+invoke the following scenario: divide the total stress-energy into weird matter plus 
+normal matter, push all the energy condition violations into the weird matter so that 
+the normal matter does not violate the energy conditions. Given that the energy 
+conditions are not absolute, such rearranging approaches are not necessary. 
+Traversable wormhole throats violate the NEC (or ANEC). So how big a violation is 
+required? The answer is that there is only need to calculate the amount of negative 
+energy that will be needed to generate and hold open a wormhole throat. A simple 
+formula for short-throat wormholes using the thin shell formalism gives this quantity in 
+terms of the equivalent mass (note: the energy density derived from the general 
+relativistic field equation is too complex to use for this mass comparison) (Reference 
+3): 
+9 I n a detai led analys is the elect rostatic energy required to support the Coulomb repulsion between the plates 
+would be considered separate ly. 
+10 Mean Earth-Sun distance, 1 AU =1.50 x 1011 m. 
+UNCLASSIFIEQ { {FOR OFFICIAL Y&& 8HLY 
+21

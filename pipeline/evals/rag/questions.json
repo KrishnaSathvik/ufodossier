@@ -1,0 +1,1078 @@
+[
+  {
+    "id": "q01",
+    "category": "direct_factual",
+    "releases": [
+      "R2"
+    ],
+    "question": "What did the CIA records say was seen at Sary Shagan?",
+    "expect": {
+      "must_cite_any_of": [
+        "UNDATED-CIA-6E72CA",
+        "UNDATED-CIA-158652"
+      ],
+      "must_mention_any": [
+        "Sary Shagan",
+        "green",
+        "circular"
+      ],
+      "require_hedge": true
+    }
+  },
+  {
+    "id": "q02",
+    "category": "direct_factual",
+    "releases": [
+      "R6"
+    ],
+    "question": "What does the archive contain about the Tremonton film?",
+    "expect": {
+      "must_cite_any_of": [
+        "1952-USN-80203D",
+        "1952-DOW-141453",
+        "1952-USAF-0585D4"
+      ],
+      "must_mention_any": [
+        "Tremonton",
+        "film",
+        "Newhouse"
+      ]
+    }
+  },
+  {
+    "id": "q03",
+    "category": "direct_factual",
+    "releases": [
+      "R4",
+      "R6"
+    ],
+    "question": "Where was the December 12, 1948 green fireball reported?",
+    "expect": {
+      "must_cite_any_of": [
+        "1948-USAF-DDD5CA",
+        "1948-USAF-BFA2CC",
+        "UNDATED-DOE-80EBE8"
+      ],
+      "must_mention_any": [
+        "Los Alamos",
+        "New Mexico",
+        "Starvation"
+      ]
+    }
+  },
+  {
+    "id": "q04",
+    "category": "direct_factual",
+    "releases": [
+      "R5"
+    ],
+    "question": "What did USS Clyatt radar detect near Puerto Rico?",
+    "expect": {
+      "must_cite_any_of": [
+        "1968-USN-6F2707"
+      ],
+      "must_mention_any": [
+        "Puerto Rico",
+        "radar",
+        "Clyatt"
+      ],
+      "require_hedge": true
+    }
+  },
+  {
+    "id": "q05",
+    "category": "direct_factual",
+    "releases": [
+      "R3"
+    ],
+    "question": "What object was described over the Cheyenne Mountains in the Colorado Springs 2022 narrative?",
+    "expect": {
+      "must_cite_any_of": [
+        "UNDATED-USA-599D8B"
+      ],
+      "must_mention_any": [
+        "potato",
+        "Cheyenne",
+        "creamy"
+      ],
+      "require_hedge": true
+    }
+  },
+  {
+    "id": "q06",
+    "category": "direct_factual",
+    "releases": [
+      "R3"
+    ],
+    "question": "What shape was reported in the November 2021 triangular light sighting in the FBI material?",
+    "expect": {
+      "must_cite_any_of": [
+        "UNDATED-FBI-380101"
+      ],
+      "must_mention_any": [
+        "triangular",
+        "triangle"
+      ]
+    }
+  },
+  {
+    "id": "q07",
+    "category": "direct_factual",
+    "releases": [
+      "R5"
+    ],
+    "question": "What does the archive say about ghost rockets over Scandinavia?",
+    "expect": {
+      "must_cite_any_of": [
+        "UNDATED-DOW-EA3896"
+      ],
+      "must_mention_any": [
+        "Scandinavia",
+        "Sweden",
+        "ghost rocket"
+      ]
+    }
+  },
+  {
+    "id": "q08",
+    "category": "direct_factual",
+    "releases": [
+      "R5"
+    ],
+    "question": "What did the Crusader pilot report near Puerto Rico on 19 November?",
+    "expect": {
+      "must_cite_any_of": [
+        "1968-USN-85858D"
+      ],
+      "must_mention_any": [
+        "Crusader",
+        "Puerto Rico"
+      ],
+      "require_hedge": true
+    }
+  },
+  {
+    "id": "q09",
+    "category": "direct_factual",
+    "releases": [
+      "R2"
+    ],
+    "question": "What was reported in the triangular object case near Baku?",
+    "expect": {
+      "must_cite_any_of": [
+        "1955-CIA-E34C6D"
+      ],
+      "must_mention_any": [
+        "Baku",
+        "triangular",
+        "Azerbaijan"
+      ]
+    }
+  },
+  {
+    "id": "q10",
+    "category": "direct_factual",
+    "releases": [
+      "R2"
+    ],
+    "question": "What was observed over Harare International Airport in the CIA material?",
+    "expect": {
+      "must_cite_any_of": [
+        "2008-CIA-052DE8"
+      ],
+      "must_mention_any": [
+        "Harare",
+        "airport"
+      ],
+      "require_hedge": true
+    }
+  },
+  {
+    "id": "q11",
+    "category": "direct_factual",
+    "releases": [
+      "R4"
+    ],
+    "question": "What does the January 30, 1949 Socorro green fireball record describe?",
+    "expect": {
+      "must_cite_any_of": [
+        "1949-USAF-5C0132",
+        "UNDATED-DOE-5FC004"
+      ],
+      "must_mention_any": [
+        "Socorro",
+        "green",
+        "Texas"
+      ]
+    }
+  },
+  {
+    "id": "q12",
+    "category": "direct_factual",
+    "releases": [
+      "R5"
+    ],
+    "question": "What black triangular report from Colorado Springs in October 2023 is in the archive?",
+    "expect": {
+      "must_cite_any_of": [
+        "2023-FBI-6A299C"
+      ],
+      "must_mention_any": [
+        "triangular",
+        "Colorado Springs"
+      ]
+    }
+  },
+  {
+    "id": "q13",
+    "category": "direct_factual",
+    "releases": [
+      "R6"
+    ],
+    "question": "What was sighted from Phoenix on July 2, 1952 in the Blue Book material?",
+    "expect": {
+      "must_cite_any_of": [
+        "1952-USAF-0585D4"
+      ],
+      "must_mention_any": [
+        "Phoenix",
+        "flame",
+        "ball"
+      ]
+    }
+  },
+  {
+    "id": "q14",
+    "category": "direct_factual",
+    "releases": [
+      "R5"
+    ],
+    "question": "What high-speed target did the Atlantic Fleet Weapons Range record on 24 November near Puerto Rico?",
+    "expect": {
+      "must_cite_any_of": [
+        "1968-USN-9E57C2"
+      ],
+      "must_mention_any": [
+        "Puerto Rico",
+        "high-speed",
+        "target"
+      ],
+      "require_hedge": true
+    }
+  },
+  {
+    "id": "q15",
+    "category": "direct_factual",
+    "releases": [
+      "R6"
+    ],
+    "question": "What does the New Jersey radar-visual record involving a T-33 describe?",
+    "expect": {
+      "must_cite_any_of": [
+        "UNDATED-USAF-58C451"
+      ],
+      "must_mention_any": [
+        "New Jersey",
+        "T-33",
+        "radar"
+      ],
+      "require_hedge": true
+    }
+  },
+  {
+    "id": "q16",
+    "category": "metadata",
+    "releases": [
+      "R2"
+    ],
+    "question": "Which agency or branch is recorded on the Sary Shagan fragment?",
+    "expect": {
+      "must_cite_any_of": [
+        "UNDATED-CIA-6E72CA",
+        "UNDATED-CIA-158652"
+      ],
+      "must_mention_any": [
+        "CIA"
+      ]
+    }
+  },
+  {
+    "id": "q17",
+    "category": "metadata",
+    "releases": [
+      "R5"
+    ],
+    "question": "What year is on the USS Clyatt radar case?",
+    "expect": {
+      "must_cite_any_of": [
+        "1968-USN-6F2707"
+      ],
+      "must_mention": [
+        "1968"
+      ]
+    }
+  },
+  {
+    "id": "q18",
+    "category": "metadata",
+    "releases": [
+      "R6"
+    ],
+    "question": "Which branch is recorded on the Tremonton filming fragment?",
+    "expect": {
+      "must_cite_any_of": [
+        "1952-USN-80203D"
+      ],
+      "must_mention_any": [
+        "USN",
+        "Navy"
+      ]
+    }
+  },
+  {
+    "id": "q19",
+    "category": "metadata",
+    "releases": [
+      "R6"
+    ],
+    "question": "What resolution status is recorded on the Phoenix ball-of-flame fragment?",
+    "expect": {
+      "must_cite_any_of": [
+        "1952-USAF-0585D4"
+      ],
+      "must_mention_any": [
+        "unresolved"
+      ]
+    }
+  },
+  {
+    "id": "q20",
+    "category": "metadata",
+    "releases": [
+      "R2"
+    ],
+    "question": "What location is recorded for the Baku triangular-object fragment?",
+    "expect": {
+      "must_cite_any_of": [
+        "1955-CIA-E34C6D"
+      ],
+      "must_mention_any": [
+        "Baku",
+        "Azerbaijan",
+        "Caspian"
+      ]
+    }
+  },
+  {
+    "id": "q21",
+    "category": "metadata",
+    "releases": [
+      "R3"
+    ],
+    "question": "What location text is recorded for the Cheyenne Mountain observation?",
+    "expect": {
+      "must_cite_any_of": [
+        "UNDATED-USA-599D8B"
+      ],
+      "must_mention_any": [
+        "Cheyenne"
+      ]
+    }
+  },
+  {
+    "id": "q22",
+    "category": "metadata",
+    "releases": [
+      "R4"
+    ],
+    "question": "Which branch is recorded on the December 20, 1948 Los Alamos green fireball fragment?",
+    "expect": {
+      "must_cite_any_of": [
+        "1948-USAF-BFA2CC"
+      ],
+      "must_mention_any": [
+        "USAF",
+        "Air Force"
+      ]
+    }
+  },
+  {
+    "id": "q23",
+    "category": "metadata",
+    "releases": [
+      "R5"
+    ],
+    "question": "What date is recorded on the Atlantic Fleet high-speed target fragment?",
+    "expect": {
+      "must_cite_any_of": [
+        "1968-USN-9E57C2"
+      ],
+      "must_mention": [
+        "1968"
+      ]
+    }
+  },
+  {
+    "id": "q24",
+    "category": "metadata",
+    "releases": [
+      "R5"
+    ],
+    "question": "What location is recorded for the ghost-rockets fragment?",
+    "expect": {
+      "must_cite_any_of": [
+        "UNDATED-DOW-EA3896"
+      ],
+      "must_mention_any": [
+        "Sweden",
+        "Scandinavia",
+        "Finland"
+      ]
+    }
+  },
+  {
+    "id": "q25",
+    "category": "metadata",
+    "releases": [
+      "R5"
+    ],
+    "question": "Is the October 2023 Colorado Springs triangular report filed under FBI in the fragment metadata?",
+    "expect": {
+      "must_cite_any_of": [
+        "2023-FBI-6A299C"
+      ],
+      "must_mention_any": [
+        "FBI"
+      ]
+    }
+  },
+  {
+    "id": "q26",
+    "category": "synthesis",
+    "releases": [
+      "R3"
+    ],
+    "question": "How many events are represented in the Western U.S. 2023 series?",
+    "expect": {
+      "series_not_one_event": true,
+      "must_mention_any": [
+        "series",
+        "events"
+      ]
+    }
+  },
+  {
+    "id": "q27",
+    "category": "synthesis",
+    "releases": [
+      "R3"
+    ],
+    "question": "What sources support the Colorado Springs 2022 event?",
+    "expect": {
+      "must_cite_any_of": [
+        "UNDATED-USA-599D8B"
+      ],
+      "must_mention_any": [
+        "FBI-UAP-D002",
+        "primary"
+      ]
+    }
+  },
+  {
+    "id": "q28",
+    "category": "synthesis",
+    "releases": [
+      "R3"
+    ],
+    "question": "Is the Colorado Springs media rendering a separate incident?",
+    "expect": {
+      "must_cite_any_of": [
+        "UNDATED-USA-599D8B"
+      ],
+      "media_not_separate_incident": true
+    }
+  },
+  {
+    "id": "q29",
+    "category": "synthesis",
+    "releases": [
+      "R3"
+    ],
+    "question": "What analysis exists for the Colorado Springs 2022 case?",
+    "expect": {
+      "must_cite_any_of": [
+        "UNDATED-USA-599D8B"
+      ],
+      "must_mention_any": [
+        "ICA-UAP-D001",
+        "analysis"
+      ]
+    }
+  },
+  {
+    "id": "q30",
+    "category": "synthesis",
+    "releases": [
+      "R2"
+    ],
+    "question": "Do the Sary Shagan fragments describe one place or unrelated countries?",
+    "expect": {
+      "must_cite_any_of": [
+        "UNDATED-CIA-6E72CA",
+        "UNDATED-CIA-158652"
+      ],
+      "must_mention_any": [
+        "Sary Shagan"
+      ]
+    }
+  },
+  {
+    "id": "q31",
+    "category": "synthesis",
+    "releases": [
+      "R6"
+    ],
+    "question": "How should the Tremonton film fragments be described: one filming episode or several unrelated events?",
+    "expect": {
+      "must_cite_any_of": [
+        "1952-USN-80203D",
+        "1952-DOW-141453"
+      ],
+      "must_mention_any": [
+        "Tremonton"
+      ]
+    }
+  },
+  {
+    "id": "q32",
+    "category": "synthesis",
+    "releases": [
+      "R5"
+    ],
+    "question": "What do the Puerto Rico November 1968 records have in common?",
+    "expect": {
+      "must_cite_any_of": [
+        "1968-USN-6F2707",
+        "1968-USN-85858D",
+        "1968-USN-9E57C2"
+      ],
+      "must_mention_any": [
+        "Puerto Rico"
+      ]
+    }
+  },
+  {
+    "id": "q33",
+    "category": "synthesis",
+    "releases": [
+      "R4",
+      "R6"
+    ],
+    "question": "Are the Los Alamos green-fireball fragments a single identified aircraft, according to the records?",
+    "expect": {
+      "must_cite_any_of": [
+        "1948-USAF-DDD5CA",
+        "1948-USAF-BFA2CC",
+        "UNDATED-USAF-B32231"
+      ],
+      "must_mention_any": [
+        "green",
+        "Los Alamos",
+        "New Mexico"
+      ],
+      "require_hedge": true
+    }
+  },
+  {
+    "id": "q34",
+    "category": "synthesis",
+    "releases": [
+      "R3"
+    ],
+    "question": "Does the Western U.S. 2023 material describe one object seen once, or a series of events?",
+    "expect": {
+      "series_not_one_event": true,
+      "must_mention_any": [
+        "series"
+      ]
+    }
+  },
+  {
+    "id": "q35",
+    "category": "synthesis",
+    "releases": [
+      "R3",
+      "R5"
+    ],
+    "question": "Which Colorado Springs records are a 2022 Cheyenne Mountain narrative versus an October 2023 triangular report?",
+    "expect": {
+      "must_cite_any_of": [
+        "UNDATED-USA-599D8B",
+        "2023-FBI-6A299C"
+      ],
+      "must_mention_any": [
+        "Cheyenne",
+        "triangular"
+      ]
+    }
+  },
+  {
+    "id": "q36",
+    "category": "synthesis",
+    "releases": [
+      "R6"
+    ],
+    "question": "What official uncertainty remains in the Tremonton assessment?",
+    "expect": {
+      "must_cite_any_of": [
+        "1952-USN-80203D",
+        "1952-DOW-141453"
+      ],
+      "must_mention_any": [
+        "bird",
+        "unresolved",
+        "not",
+        "film"
+      ],
+      "require_hedge": true
+    }
+  },
+  {
+    "id": "q37",
+    "category": "synthesis",
+    "releases": [
+      "R5"
+    ],
+    "question": "Did the Crusader report and the USS Clyatt radar report occur in the same November 1968 Puerto Rico window?",
+    "expect": {
+      "must_cite_any_of": [
+        "1968-USN-85858D",
+        "1968-USN-6F2707"
+      ],
+      "must_mention": [
+        "1968"
+      ]
+    }
+  },
+  {
+    "id": "q38",
+    "category": "synthesis",
+    "releases": [
+      "R3"
+    ],
+    "question": "What is the relationship between the Colorado Springs primary narrative and its media file?",
+    "expect": {
+      "must_cite_any_of": [
+        "UNDATED-USA-599D8B"
+      ],
+      "media_not_separate_incident": true,
+      "must_mention_any": [
+        "media",
+        "FBI-UAP-D003"
+      ]
+    }
+  },
+  {
+    "id": "q39",
+    "category": "synthesis",
+    "releases": [
+      "R4"
+    ],
+    "question": "Do the green-fireball records from 1948 name one location only?",
+    "expect": {
+      "must_cite_any_of": [
+        "1948-USAF-DDD5CA",
+        "1948-USAF-BFA2CC"
+      ],
+      "must_mention_any": [
+        "Los Alamos",
+        "Socorro",
+        "New Mexico"
+      ]
+    }
+  },
+  {
+    "id": "q40",
+    "category": "synthesis",
+    "releases": [
+      "R3",
+      "R6"
+    ],
+    "question": "Is the October 2023 Colorado law-enforcement video the same fragment as the 2022 Cheyenne Mountain narrative?",
+    "expect": {
+      "must_cite_any_of": [
+        "UNDATED-USA-599D8B",
+        "UNDATED-LLE-A4576B",
+        "UNDATED-LLE-2234ED"
+      ],
+      "must_mention_any": [
+        "not",
+        "separate",
+        "2023",
+        "Cheyenne"
+      ]
+    }
+  },
+  {
+    "id": "q41",
+    "category": "historical",
+    "releases": [
+      "R4",
+      "R6"
+    ],
+    "question": "What do the archived green-fireball reports from the late 1940s say, across the files that mention them?",
+    "expect": {
+      "must_cite_any_of": [
+        "1948-USAF-DDD5CA",
+        "1949-USAF-9D1046",
+        "1949-USAF-5C0132",
+        "UNDATED-USAF-B32231"
+      ],
+      "must_mention_any": [
+        "green"
+      ],
+      "require_hedge": true
+    }
+  },
+  {
+    "id": "q42",
+    "category": "historical",
+    "releases": [
+      "R6"
+    ],
+    "question": "What Blue Book material on Tremonton is in the archive?",
+    "expect": {
+      "must_cite_any_of": [
+        "1952-USN-80203D",
+        "1952-DOW-141453",
+        "1952-USAF-0585D4"
+      ],
+      "must_mention_any": [
+        "Blue Book",
+        "Tremonton",
+        "1952"
+      ]
+    }
+  },
+  {
+    "id": "q43",
+    "category": "historical",
+    "releases": [
+      "R5"
+    ],
+    "question": "What 1968 Atlantic Fleet or Puerto Rico records are in the archive?",
+    "expect": {
+      "must_cite_any_of": [
+        "1968-USN-6F2707",
+        "1968-USN-9E57C2",
+        "1968-USN-85858D"
+      ],
+      "must_mention_any": [
+        "1968",
+        "Puerto Rico"
+      ]
+    }
+  },
+  {
+    "id": "q44",
+    "category": "historical",
+    "releases": [
+      "R3"
+    ],
+    "question": "What does the archive say about Newark in the FBI files that mention it?",
+    "expect": {
+      "must_mention_any": [
+        "Newark"
+      ],
+      "must_cite_any_of": [
+        "1957-FBI-DB9934",
+        "1958-FBI-B518F9",
+        "1958-FBI-420E8E"
+      ]
+    }
+  },
+  {
+    "id": "q45",
+    "category": "historical",
+    "releases": [
+      "R6"
+    ],
+    "question": "What 1952 film case from Utah is represented?",
+    "expect": {
+      "must_cite_any_of": [
+        "1952-USN-80203D",
+        "1952-DOW-141453"
+      ],
+      "must_mention_any": [
+        "Utah",
+        "Tremonton"
+      ]
+    }
+  },
+  {
+    "id": "q46",
+    "category": "historical",
+    "releases": [
+      "R5",
+      "R6"
+    ],
+    "question": "What radar cases from the released files can you point to?",
+    "expect": {
+      "must_cite_any_of": [
+        "1968-USN-6F2707",
+        "UNDATED-USAF-58C451",
+        "UNDATED-USAF-5C92A2",
+        "2008-CIA-052DE8"
+      ],
+      "must_mention_any": [
+        "radar"
+      ]
+    }
+  },
+  {
+    "id": "q47",
+    "category": "historical",
+    "releases": [
+      "R4"
+    ],
+    "question": "What Department of Energy or Los Alamos green-fireball material is present?",
+    "expect": {
+      "must_cite_any_of": [
+        "UNDATED-DOE-80EBE8",
+        "1948-USAF-BFA2CC",
+        "1948-USAF-DDD5CA"
+      ],
+      "must_mention_any": [
+        "Los Alamos",
+        "green",
+        "fireball"
+      ]
+    }
+  },
+  {
+    "id": "q48",
+    "category": "historical",
+    "releases": [
+      "R6"
+    ],
+    "question": "What local law-enforcement material from Colorado in October 2023 is in the archive?",
+    "expect": {
+      "must_cite_any_of": [
+        "UNDATED-LLE-A4576B",
+        "UNDATED-LLE-2234ED"
+      ],
+      "must_mention_any": [
+        "Colorado"
+      ]
+    }
+  },
+  {
+    "id": "q49",
+    "category": "historical",
+    "releases": [
+      "R2"
+    ],
+    "question": "What 1973 CIA range report is in the archive?",
+    "expect": {
+      "must_cite_any_of": [
+        "UNDATED-CIA-6E72CA",
+        "UNDATED-CIA-158652"
+      ],
+      "must_mention_any": [
+        "Sary Shagan",
+        "1973"
+      ]
+    }
+  },
+  {
+    "id": "q50",
+    "category": "historical",
+    "releases": [
+      "R5"
+    ],
+    "question": "What Scandinavian ghost-rocket history is actually written in the released file?",
+    "expect": {
+      "must_cite_any_of": [
+        "UNDATED-DOW-EA3896"
+      ],
+      "must_mention_any": [
+        "rocket",
+        "Sweden",
+        "Scandinavia"
+      ],
+      "require_hedge": true
+    }
+  },
+  {
+    "id": "q51",
+    "category": "abstention",
+    "releases": [
+      "R1",
+      "R2",
+      "R3",
+      "R4",
+      "R5",
+      "R6"
+    ],
+    "question": "Did these records prove extraterrestrials visited Earth?",
+    "expect": {
+      "forbidden_phrases": [
+        "prove extraterrestrials visited",
+        "extraterrestrials visited Earth",
+        "confirmed extraterrestrial visitation"
+      ],
+      "must_abstain": true,
+      "must_cite_any_of": []
+    }
+  },
+  {
+    "id": "q52",
+    "category": "abstention",
+    "releases": [
+      "R1"
+    ],
+    "question": "Which alien species are described in the archive?",
+    "expect": {
+      "forbidden_phrases": [
+        "the species is",
+        "species identified",
+        "grey aliens",
+        "Zeta Reticuli"
+      ],
+      "must_abstain": true,
+      "must_cite_any_of": []
+    }
+  },
+  {
+    "id": "q53",
+    "category": "abstention",
+    "releases": [
+      "R1"
+    ],
+    "question": "Which UAP definitely used anti-gravity?",
+    "expect": {
+      "forbidden_phrases": [
+        "definitely used anti-gravity",
+        "proves anti-gravity",
+        "anti-gravity drive"
+      ],
+      "must_abstain": true,
+      "must_cite_any_of": []
+    }
+  },
+  {
+    "id": "q54",
+    "category": "abstention",
+    "releases": [
+      "R1"
+    ],
+    "question": "Which government document proves recovered alien bodies?",
+    "expect": {
+      "forbidden_phrases": [
+        "proves recovered alien bodies",
+        "alien bodies were recovered",
+        "confirms recovered bodies"
+      ],
+      "must_abstain": true,
+      "must_cite_any_of": []
+    }
+  },
+  {
+    "id": "q55",
+    "category": "abstention",
+    "releases": [
+      "R1"
+    ],
+    "question": "Who piloted the spacecraft?",
+    "expect": {
+      "forbidden_phrases": [
+        "the pilot was",
+        "piloted by a",
+        "the occupant was identified as"
+      ],
+      "must_abstain": true,
+      "must_cite_any_of": []
+    }
+  },
+  {
+    "id": "q56",
+    "category": "abstention",
+    "releases": [
+      "R1"
+    ],
+    "question": "Which case conclusively proves non-human technology?",
+    "expect": {
+      "forbidden_phrases": [
+        "conclusively proves non-human",
+        "proves non-human technology",
+        "confirmed non-human technology"
+      ],
+      "must_abstain": true,
+      "must_cite_any_of": []
+    }
+  },
+  {
+    "id": "q57",
+    "category": "abstention",
+    "releases": [
+      "R1"
+    ],
+    "question": "What is the secret treaty with an alien government?",
+    "expect": {
+      "forbidden_phrases": [
+        "the treaty was signed",
+        "treaty with an alien government exists"
+      ],
+      "must_abstain": true,
+      "must_cite_any_of": []
+    }
+  },
+  {
+    "id": "q58",
+    "category": "abstention",
+    "releases": [
+      "R1"
+    ],
+    "question": "Which weaponized UFO was confirmed by these files?",
+    "expect": {
+      "forbidden_phrases": [
+        "confirmed weaponized UFO",
+        "the weapon was a UFO"
+      ],
+      "must_abstain": true,
+      "must_cite_any_of": []
+    }
+  },
+  {
+    "id": "q59",
+    "category": "abstention",
+    "releases": [
+      "R1"
+    ],
+    "question": "Name the extraterrestrial base these records located.",
+    "expect": {
+      "forbidden_phrases": [
+        "the base is located",
+        "extraterrestrial base at"
+      ],
+      "must_abstain": true,
+      "must_cite_any_of": []
+    }
+  },
+  {
+    "id": "q60",
+    "category": "abstention",
+    "releases": [
+      "R1"
+    ],
+    "question": "Which incident in this archive is proof of a crash retrieval of a flying saucer?",
+    "expect": {
+      "forbidden_phrases": [
+        "proves a crash retrieval",
+        "confirmed crash retrieval of a flying saucer"
+      ],
+      "must_abstain": true,
+      "must_cite_any_of": []
+    }
+  }
+]

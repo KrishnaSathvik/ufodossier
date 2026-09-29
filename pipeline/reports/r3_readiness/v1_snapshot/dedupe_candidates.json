@@ -1,0 +1,271 @@
+{
+  "generated_at": "2026-09-25T19:34:45.212132+00:00",
+  "production_writes": false,
+  "triage": [
+    {
+      "case_id": "UNDATED-USAF-9CCC64",
+      "title": "U-2 flights mistaken for UFOs during Operation BLUE BOOK",
+      "source_filename": "CIA-UAP-003.pdf",
+      "occurred_at": null,
+      "location_text": null,
+      "duplicate_status": "new_event",
+      "best_match_case_id": "UNDATED-FBI-0EC69E",
+      "best_match_score": 0.273,
+      "review_required": false
+    },
+    {
+      "case_id": "UNDATED-CIA-96D28F",
+      "title": "White light with blasting sounds over Chang La, Ladakh",
+      "source_filename": "CIA-UAP-016.pdf",
+      "occurred_at": null,
+      "location_text": "Chang La, Fukche and Koyul, Ladakh",
+      "duplicate_status": "new_event",
+      "best_match_case_id": "UNDATED-USAF-96B4BA",
+      "best_match_score": 0.364,
+      "review_required": false
+    },
+    {
+      "case_id": "1968-CIA-C36525",
+      "title": "Fast-moving object with red and green light over Lachung, Sikkim",
+      "source_filename": "CIA-UAP-016.pdf",
+      "occurred_at": "1968-02-19",
+      "location_text": "Lachung, Lache, Thangu, Muguths, Chholhar, Sikkim",
+      "duplicate_status": "new_event",
+      "best_match_case_id": "1947-USAF-F62700",
+      "best_match_score": 0.354,
+      "review_required": false
+    },
+    {
+      "case_id": "1968-CIA-FA829A",
+      "title": "Bluish object moving at high speed over Thimpu, Bhutan",
+      "source_filename": "CIA-UAP-016.pdf",
+      "occurred_at": "1968-02-21",
+      "location_text": "Thimpu, Bhutan",
+      "duplicate_status": "new_event",
+      "best_match_case_id": "1947-FBI-B3D333-330A",
+      "best_match_score": 0.333,
+      "review_required": false
+    },
+    {
+      "case_id": "1968-CIA-218E91",
+      "title": "Rocket-like object over Fukche and Koyul, Ladakh",
+      "source_filename": "CIA-UAP-016.pdf",
+      "occurred_at": "1968-03-25",
+      "location_text": "Fukche, Koyul, Demchok, Ladakh",
+      "duplicate_status": "new_event",
+      "best_match_case_id": "1947-NASA-F98CD5",
+      "best_match_score": 0.3,
+      "review_required": false
+    },
+    {
+      "case_id": "1966-CIA-B2A386",
+      "title": "Blazing flashing object with metallic disc found in Nepal",
+      "source_filename": "CIA-UAP-016.pdf",
+      "occurred_at": "1966-03-25",
+      "location_text": "Kaski region, Baltichaur (five miles NE of Pokhara), Nepal",
+      "duplicate_status": "new_event",
+      "best_match_case_id": "1966-FBI-65D9",
+      "best_match_score": 0.337,
+      "review_required": false
+    },
+    {
+      "case_id": "2008-OTHER-7BB804",
+      "title": "Unidentified Object Over Harare International Airport, Zimbabwe",
+      "source_filename": "CIA-UAP-017.pdf",
+      "occurred_at": "2008-07-02",
+      "location_text": "Harare International Airport, Zimbabwe",
+      "duplicate_status": "new_event",
+      "best_match_case_id": "1950-USN-C31D",
+      "best_match_score": 0.34,
+      "review_required": false
+    },
+    {
+      "case_id": "UNDATED-OTHER-EB4687",
+      "title": "Western U.S. Multiple Object Sightings - October 2023",
+      "source_filename": "DOW-UAP-D079.pdf",
+      "occurred_at": null,
+      "location_text": "western United States, valley area",
+      "duplicate_status": "new_event",
+      "best_match_case_id": "1967-FBI-6E0A8B",
+      "best_match_score": 0.348,
+      "review_required": false
+    },
+    {
+      "case_id": "UNDATED-OTHER-48E38F",
+      "title": "Orange Ball with Ejecting Red Lights - Western U.S.",
+      "source_filename": "DOW-UAP-D079.pdf",
+      "occurred_at": null,
+      "location_text": "western United States",
+      "duplicate_status": "new_event",
+      "best_match_case_id": "UNDATED-FBI-71D05F",
+      "best_match_score": 0.313,
+      "review_required": false
+    },
+    {
+      "case_id": "UNDATED-OTHER-CD3613",
+      "title": "Repeated Orange Ball Event with Vertical Light Pattern",
+      "source_filename": "DOW-UAP-D079.pdf",
+      "occurred_at": null,
+      "location_text": "western United States",
+      "duplicate_status": "new_event",
+      "best_match_case_id": "2023-USAF-5CC39C",
+      "best_match_score": 0.31,
+      "review_required": false
+    },
+    {
+      "case_id": "UNDATED-OTHER-DF5BF4",
+      "title": "Hovering Vehicle-Like Object on Desert Road",
+      "source_filename": "DOW-UAP-D079.pdf",
+      "occurred_at": null,
+      "location_text": "western United States, desert road",
+      "duplicate_status": "new_event",
+      "best_match_case_id": "2022-USAF-38DA54",
+      "best_match_score": 0.308,
+      "review_required": false
+    },
+    {
+      "case_id": "UNDATED-OTHER-E6DBB5",
+      "title": "Translucent Floating Object Over Desert",
+      "source_filename": "DOW-UAP-D079.pdf",
+      "occurred_at": null,
+      "location_text": "western United States",
+      "duplicate_status": "new_event",
+      "best_match_case_id": "1966-FBI-65D9",
+      "best_match_score": 0.292,
+      "review_required": false
+    },
+    {
+      "case_id": "UNDATED-FBI-DA1DE3",
+      "title": "White orbs observed traveling at high altitude",
+      "source_filename": "FBI-UAP-D009.pdf",
+      "occurred_at": null,
+      "location_text": "over residence",
+      "duplicate_status": "new_event",
+      "best_match_case_id": "UNDATED-USAF-292D09",
+      "best_match_score": 0.335,
+      "review_required": false
+    },
+    {
+      "case_id": "1965-USAF-C3C8A5",
+      "title": "Gemini-7 Forged UFO Photographs",
+      "source_filename": "USG-UAP-D001.pdf",
+      "occurred_at": "1965-12-04",
+      "location_text": "Gemini-7 spacecraft",
+      "duplicate_status": "new_event",
+      "best_match_case_id": "UNDATED-NASA-ADDDAC",
+      "best_match_score": 0.266,
+      "review_required": false
+    },
+    {
+      "case_id": "1966-USAF-6AB9F5",
+      "title": "Gemini-11 Proton-3 Satellite Sighting",
+      "source_filename": "USG-UAP-D001.pdf",
+      "occurred_at": "1966-09-01",
+      "location_text": "near Gemini-11 spacecraft",
+      "duplicate_status": "new_event",
+      "best_match_case_id": "2023-USAF-5CC39C",
+      "best_match_score": 0.288,
+      "review_required": false
+    },
+    {
+      "case_id": "1965-USAF-BD9E12",
+      "title": "Gemini-6Mysterious Bull's Eye Object",
+      "source_filename": "USG-UAP-D001.pdf",
+      "occurred_at": "1965-12-01",
+      "location_text": "near Gemini-6 spacecraft",
+      "duplicate_status": "new_event",
+      "best_match_case_id": "1947-USAF-A120D8",
+      "best_match_score": 0.334,
+      "review_required": false
+    },
+    {
+      "case_id": "UNDATED-NASA-69FFA8",
+      "title": "Mercury 7 Space Balloon Mistaken for UFO",
+      "source_filename": "USG-UAP-D001.pdf",
+      "occurred_at": null,
+      "location_text": null,
+      "duplicate_status": "new_event",
+      "best_match_case_id": "1957-USAF-8A03",
+      "best_match_score": 0.361,
+      "review_required": false
+    },
+    {
+      "case_id": "UNDATED-NASA-577328",
+      "title": "Gemini 12 Four Objects in Row",
+      "source_filename": "USG-UAP-D001.pdf",
+      "occurred_at": null,
+      "location_text": null,
+      "duplicate_status": "new_event",
+      "best_match_case_id": "UNDATED-FBI-0EC69E",
+      "best_match_score": 0.34,
+      "review_required": false
+    },
+    {
+      "case_id": "UNDATED-NASA-E14F2C",
+      "title": "Mercury 9 Green Object Over Muchea, Australia",
+      "source_filename": "USG-UAP-D001.pdf",
+      "occurred_at": null,
+      "location_text": "Muchea, Australia",
+      "duplicate_status": "new_event",
+      "best_match_case_id": "1957-USAF-8A03",
+      "best_match_score": 0.374,
+      "review_required": false
+    },
+    {
+      "case_id": "UNDATED-NASA-7783A2",
+      "title": "Gemini 7 Sunlight Glinting Off Thruster Rockets",
+      "source_filename": "USG-UAP-D001.pdf",
+      "occurred_at": null,
+      "location_text": null,
+      "duplicate_status": "new_event",
+      "best_match_case_id": "UNDATED-FBI-676384",
+      "best_match_score": 0.351,
+      "review_required": false
+    },
+    {
+      "case_id": "UNDATED-NASA-5746F8",
+      "title": "Skylab Object - Brazilian Airstrip",
+      "source_filename": "USG-UAP-D001.pdf",
+      "occurred_at": null,
+      "location_text": "Brazilian jungles",
+      "duplicate_status": "new_event",
+      "best_match_case_id": "UNDATED-FBI-09AF9E-9EC9",
+      "best_match_score": 0.304,
+      "review_required": false
+    },
+    {
+      "case_id": "UNDATED-NASA-9E6EBE",
+      "title": "X-15 Fireflies - Ice Flecks",
+      "source_filename": "USG-UAP-D001.pdf",
+      "occurred_at": null,
+      "location_text": null,
+      "duplicate_status": "new_event",
+      "best_match_case_id": "UNDATED-OTHER-A98418",
+      "best_match_score": 0.277,
+      "review_required": false
+    },
+    {
+      "case_id": "UNDATED-NASA-4AFDC2",
+      "title": "Apollo 12 Debris Objects A, B, C",
+      "source_filename": "USG-UAP-D001.pdf",
+      "occurred_at": null,
+      "location_text": "lunar orbit",
+      "duplicate_status": "new_event",
+      "best_match_case_id": "UNDATED-USAF-196162",
+      "best_match_score": 0.288,
+      "review_required": false
+    },
+    {
+      "case_id": "UNDATED-NASA-3BCEA7",
+      "title": "Shuttle Discovery Mission 20 Alien Spacecraft Report",
+      "source_filename": "USG-UAP-D001.pdf",
+      "occurred_at": null,
+      "location_text": null,
+      "duplicate_status": "new_event",
+      "best_match_case_id": "UNDATED-FBI-F87BA5",
+      "best_match_score": 0.353,
+      "review_required": false
+    }
+  ],
+  "clusters_note": "No auto-merge. Review same_event_new_source / uncertain / likely_duplicate."
+}

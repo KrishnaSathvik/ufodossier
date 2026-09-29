@@ -1,0 +1,42 @@
+UNCLASSIFIED/,SFOR. QFFIElal L: 1!ii 011! X 
+p = pRT (6) 
+It is possible to stat istically model the motion of the molecules of oxygen and nitrogen in air, 
+and the ir kinetic energy, KE, can be determined based on the mass, m, of each molecule and 
+the temperature of the gas. 
+KE =_!.mV 2 ='i kT 
+2 2 
+(7) 
+In this equation, k is the Boltzmann constant (1.3807 x 10-23 J/K). We can calculate the 
+velocity of air molecules based on the temperature of the air. 
+(8) 
+Or, for the average velocity of a molecu le: 
+V= ✓ 8=T (9) 
+For air near sea level (p = 101,320 Pa, T = 293 K) the average velocity of molecules in air is 
+463 m/s or 1,035 MPH. This value is just a little higher than the speed of sound in air (343 
+m/s or 767 MPH) as computed earlier. These molecules only travel a short distance before 
+they collide with each other. This distance is defined as the "mean free path " given by the 
+symbol A. 
+(10) 
+In this expression, d is the diamete r of a molecule, which is approximately 0.3 nanometers. 
+For air at 20° C and 101,325 Pa, the mean free path (A) is approximately 100 nanometers or 
+about 333 molecular diameters. 
+When the supersonic projectile in Figure 4 moves through the air, molecules of nitrogen and 
+oxygen in the air bounce off the vehicle 's surface and collide with other molecules of air a 
+short distance away. At the speed of sound, these molecules are not moving fast enough to 
+get out of the way and a large number of molecules pile up along a straight line that 
+emanates from the nose or leading edge of the projectile as a "shock wave." 
+Supersonic flow in the atmosphere labeled as region 1 passes through the shock and moves 
+parallel to the surface of the body. The flow "expands" through a Prandtl-Meyer expansion 
+fan at the end of the airfoil and speeds back up to its original Mach number. Flow in the 
+boundary layer separates from the end of the airfo il and forms a highly turbulent wake 
+downstream of the airfoil. The wake is also composed of Strouhal eddies that can subsist in 
+the air long after the airfoil has passed by. The flow density, pressure, and temperature 
+increases dramatically across the bow shockwave and returns to the origi nal Mach number 
+downstream of the airfoil. 
+For a b lunt-nosed object, as shown in F igure 5, the magnitude of the impact that the 
+shockwave has on the flow is easier to explain. For a blunt object, the shock detaches from 
+the surface of the object into the freestream in front of the object. Since the orig inal flow 
+moving at M1 is travel ing at 90° with respect to the shock near the nose of the object, the 
+shock in this region is referred to as a "norma l" shock. The properties across a norma l shock 
+UNCLASSIFIED//FOR 0661El.t.L: W&&: OttLY 
+7

@@ -1,0 +1,35 @@
+UNCLASSIFIED/fFOR. QFFIEl.t.L: Uii QD:I! X 
+Storage 
+Oscillo­
+~ l 
+: 
+scope
+~--- --~: Photodetectors 
+Hyperson ic 
+Aircraft 
+c===-
+' ' ' ' ' 
+' ' ' 
+' 
+Test Range 
+llL
+: .. 111: 
+~Laser / 1 
+lit 
+D 
+Velocity= L/ll t 
+~~~ams /~ 
+Lasers 
+Figure 8. Laser-Based Chronograph. 
+Currently, the best devices for the detection of hypersonic vehicles are based on the 
+reflection of radio and microwave radiation through RADAR and upon the detection of 
+infrared energy emitted by the ionized gases surrounding high-speed vehicles and in their 
+wake. Optical and RADAR methods are also based on electromagnetic energy, yet make use 
+of different parts of the electromagnetic spectrum as shown in Figure 9. Longer wavelength 
+photons, or quanta of electromagnetic energy, have less energy than short wavelength 
+photons. As a result, detection of short wavelength radiation tends to be more line-of-sight 
+as in infrared or other optical methods. Longer wavelengths, used in RADAR, tend to bend 
+around the Earth and can provide over-the-horizon detection of ICBMs, reentry vehicles, and 
+other hyperson ic vehicles. 
+UNCLASSIFIED//EQA: QlililEl.t.L: W&&: O,.L'l 
+12

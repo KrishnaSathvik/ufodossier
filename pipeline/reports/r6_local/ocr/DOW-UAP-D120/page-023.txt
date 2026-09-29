@@ -1,0 +1,48 @@
+UNCLASSIFIED//P'O" OP'P'lf!IAL YSIE Ql'.L¥ 
+alloys' superior thermal fatigue resistance gives them great potential for use in TPS; 
+thus, it would be appropriate to revisit this class of alloy after addressing its past 
+problems. 
+Many of the Ni-base alloys are fusion weldable, but the higher strength grades are 
+prone to cracking without special precautions such as preheating the work piece. Most 
+alloys capable of being processed into sheet also can be processed to create a fine­
+grained structure. The fine-grained material can be superplastically formed, which is 
+potentially of very important benefit to making light-gauge, load-bearing structures and 
+TPS components. Finally, although almost all Ni-base alloys contain Cr and Al, both of 
+which improve oxidation resistance by forming a stable, protective scale, this scale 
+begins to lose its effectiveness above about 1,000 °Celsius. A number of effective 
+environmental coatings have been developed by the gas turbine industry for Ni-base 
+alloys. The only concern or unknown for application in a reusable 550 vehicle is the 
+durability of these coatings under very high mass flow conditions, such as during 
+reentry. 
+Refractory Meta I Alloys 
+Refractory metal alloys were discussed briefly earlier in connection with the DynaSoar 
+project. Subsequent to this, there has been limited systematic interest in designing 
+aerospace structures that incorporate refractory metal alloys. There has been interest 
+in using these alloys for high-temperature gas-cooled nuclear reactors, where the 
+operating environment is benign and well controlled, but this has limited relevance to 
+the current discussion of space vehicles required to withstand reentry into the earth's 
+atmosphere. The attraction of refractory metals as a class is the high melting 
+temperature of Mo, Nb, and Ta. Although alloys of these metallic elements exhibit 
+"normal" temperature dependence of mechanical strength, 0.STm of Nb or Mo is still a 
+higher temperature than Ni-base alloys can withstand. Of the three metals, Nb is by far 
+the most attractive because of its lower density, lower elastic modulus, and better (but 
+not good) oxidation resistance. The clear barrier to use of Nb alloys is their reactivity in 
+air at high temperatures. There are coatings for these alloys, but at 1,250 °Celsius, a 
+breach in the coating will cause immediate, catastrophic failure. 
+A reasonable design practice for critical structure, such as the TPS, is to disallow use of 
+any coated material if the material fails catastrophically when the coating is breached. 
+If this practice were the norm, then refractory metal alloys would not be usable in the 
+TPS or other critical hot structure in a reusable 550 vehicle. 
+Ceramic Matrix Composites 
+Ceramic matrix composites (CMCs) are attractive because they are much tougher than, 
+but retain the high-temperature capability of, monolithic ceramics. CMCs' toughness is 
+derived from the fibers used to reinforce the ceramic matrix. When a CMC is loaded in 
+tension and the stress in the ceramic matrix reaches a critical value, microcracks 
+develop. This stress level is known as the matrix microcrack stress. In a monolithic 
+ceramic such as silicon carbide (SiC) or silicon nitride (Si3N4), microcracks would 
+propagate rapidly, causing immediate failure. For this reason, monolithic ceramics are 
+not suitable for tension-loaded applications. This characteristic is mitigated in CMCs by 
+reinforcing the ceramic matrix with high-strength ceramic fibers, typically Al2O3 or SiC, 
+whose role is to bridge and arrest the cracks. Under continued loading, the fibers also 
+18 
+UNCLASSIFIED/ /FOA QFFICilAL WIiii QNLY

@@ -1,0 +1,45 @@
+UNCLASSIFIED/ /fOR. 8FFl&IAk W&li ,HIia¥ 
+Miniaturized solid propellant gas generators could be used as ACS thrusters. Forty­
+eight 50 mN-sec pulses are required to reorient the nanosat after it achieves the 
+required orbital altitude. Although this could be achieved either by a monopropellant or 
+a cold gas thruster, it could also be achieved using an array of gas generators. Such 
+miniaturized gas generators have already been successfully built and commercialized by 
+companies such as MOOG and Lockheed-Martin Space Systems. By incorporating 
+micro-electromechanical systems (MEMS) techniques, the devices have been produced 
+relat ively inexpensively . Miniaturized electric propulsion ACS thrusters, such as pulsed 
+plasma and MEMS field-emission electric propulsion (MEMS FEEP) thrusters, have been 
+developed and are now emerging into widespread commercialization. 
+GUIDANCE, NAVIGATION AND CONTROL 
+Guidance Navigation and Control (GN&C) subsystem key technologies and concepts 
+have been identified to enable successful altitude determination of spin-stabilized and 
+three-axis-stabilized nanosats for future missions. They include miniaturization of a 
+sun sensor and horizon crossing indicator. The miniature precision "fan" sun sensor will 
+pinpoint the sun virtually everywhere in the entire celestial sphere with every satellite 
+rotation. The sun sensor will be required to weigh less than 0.25 kg, draw less than 0.1 
+watt, operate on no greater than a 3.3 volt bus, and meet a 0.1 ° resolution 
+requirement. The miniature horizon crossing indicator has a small bore-sight field of 
+view that is mounted at an angle off the spin axis. As the spacecraft rotates, a cone of 
+coverage is formed. The sensor must be capable of detecting Earth over a range of 
+orbital radii with a pointing accuracy of 0.05 °. Total horizon crossing indicator weight 
+and power will be less than 0.2 kg and 0.1 watt, respective ly. 
+Of particular interest to Constellation missions is the incorporation of GPS onboard the 
+nanosats, to eliminate ground-based ephemeris generation. This allows for increased 
+autonomy and simpler, more accurate time resolution onboard the spacecraft. For GPS 
+to fit within the constraints of a nanosat, the receiver electronics need to be 
+miniaturized into a layer within the C&DH module. 
+COMMAND AND DATA HANDLING 
+Developing the C&DH subsystem for a nanosat presents some unique challenges, with 
+low mass (0.25 kg) and low power (0.5 W) requirements being the biggest drivers. 
+Advanced microelectronic solutions are being developed to meet these challenges. The 
+microelectronics developed must be modular and of scalable packaging to both reduce 
+cost and meet the requirements of various missions. This development will utilize the 
+most cost effective approach, whether infusing commercially driven semiconductor 
+devices into spacecraft applications or partnering with industry in the design and 
+development of high capacity data processing devices. The major technologies will 
+include: lightweight, low power electronics packaging; radiation hard, low power 
+processing platforms; high capacity, low power memory systems; and radiation hard, 
+reconfigurable, field programmable gate arrays (RHrFPGA). 
+The C&DH requirements are as follows: 
+• Power: 0.5 watts. 
+UNCLASSIFIED,<,<FOA QFFI&IAL HSI!! OHLY 
+4

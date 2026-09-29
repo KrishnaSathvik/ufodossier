@@ -1,0 +1,56 @@
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+TABLE XI CHI SQUARE TEST OF REVISED KNOWNS VERSUS UNKNOWNS 
+ON THE BASIS OF DURATION OF OBSERVATION 
+Adjusted x2, 
+Duration of Number of Number of Number of (K-n} 2 
+Observation KNOWNS KNOWNS (K) UNKNOWNS (n) K 
+I 5 sec or less 92 31 27 0.52 
+6-10 sec 47 16 21 1. 56 
+I 
+11-30 sec 
+31-60 sec 
+118 
+92 
+40 
+31 
+33 
+42 
+1. 23 
+3.90 
+I 
+61 sec-5 min 
+6 min-30 min 
+252 
+259 
+85 
+87 
+99 
+71 
+2. 31 
+2.94 
+Over 30 min 91 31 37 1. 16 
+I 
+Not stated 335 113 104 0.72 
+Total 1286 434 434 14.34 
+I 
+I 
+Degrees of freedom 
+5% 
+7 
+14. 1 
+I 
+1% 18.5 
+I 
+I 
+I 
+I 
+I 73 
+I

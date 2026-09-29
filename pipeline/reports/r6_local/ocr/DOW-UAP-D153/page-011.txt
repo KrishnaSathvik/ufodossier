@@ -1,0 +1,43 @@
+UNCLASSIFIED/ /POI\ OPPICIAL YSIE 8Htlf 
+where the first and second terms in the second line are the kinetic and potential 
+energies of the oscillator, respectively. The additional 1/2 appearing in the first line of 
+Eq. (1) is called the vacuum zero-point energy for the reason to be explained in the 
+next section . The first line of Eq. (1) is more common ly expressed in units of energy 
+(Joules) in quantum mechanics, which is obtained simply by multiplying the right-hand 
+side by the photon energy nw so that H ose =hw (ii +½) . 
+It is beyond the scope of this report to elaborate further on the entire subject of the 
+quantum optics. The reader should consult Reference [38] for more information. 
+Basic Notions on the Origin of the Quantum Vacuum Zero-Point Fluctuations 
+Here we discuss the basic notions of the quantum vacuum zero-point fluctuations 
+(ZPF), which is an important feature in quantum optics. The orig in of the ZPF is 
+attributed to the Heisenberg Uncertainty Principle. According to this principle, q and 
+pare any two conjugate observables that we are interested in measuring, and they 
+obey the commutation relation already shown in the previous section. Their 
+corresponding uncertainty relation is !1q!1p?:. h/2, where !1q is the variance (a.k.a. 
+uncertainty) of observable q and !1p is that of the conjugate observable p. This 
+relation states that if one measures observable q with very high precision (i.e., its 
+uncertainty !1q is very small), then a simultaneous measurement of observable p will 
+be less precise (i.e ., its uncertainty !1p is very large), and vice versa . In other words, 
+it is not possible to simultaneously measure two conjugate observable quantities with 
+infinite precision. 
+This minimum uncertainty is not due to any correctable flaws in measurement, but 
+rather reflects the intrinsic fuzziness in the quantum nature of energy and matter. 
+Substantial theoretical and experimental work has shown that in many quantum 
+systems the limits to measurement precision is imposed by the quantum vacuum ZPF 
+embodied within the uncertainty principle. Nowadays we rather see the Heisenberg 
+Uncertainty Principle as a necessary consequence, and therefore, a derived result of the 
+wave nature of quantum phenomena. The uncertainties are just a consequence of the 
+Fourier nature of conjugate pairs of quantities (observables). For example, the two 
+Fourier-wave-conjugates time and frequency become the pair of quantum-particle 
+conjugates time and energy and the two Fourier-wave-conjugates displacement and 
+wave number become the pair of quantum-particle conjugates position and momentum. 
+The Heisenberg Uncertainty Principle dictates that a quantized electromagnetic 
+oscillator (a.k.a. a photon state) can never come entirely to rest, since that would be a 
+state of exactly zero energy, which is forbidden by the commutation relation given in 
+the previous section. Instead, every mode of the field has liw/2 as its average minimum 
+energy in the vacuum, and this is called the zero-point energy (ZPE) .** This ZPE term 
+is added to the classical blackbody spectral radiation energy density p(w)dro [i.e., the 
+energy per unit volume of radiation in the frequency interval (ro,w + dro)] [25]: 
+*" hw is the energy of a single mode (or photon). 
+UNCLASSIFIED/ /EOA QFFI&IAL YSE!! 9HL I 
+7

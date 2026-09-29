@@ -1,0 +1,44 @@
+UNCLASSIFIED/ /FOR OFFIEIAk WS&i OPtkY 
+et al. (Reference 87-89) also studied this problem using Green-function techniques in 
+the Schwinger-DeWitt quantum ether prescription for (T:; ) in a curved spacetime. The 
+results from these studies agreed with the equivalence principle and showed that 
+quantum vacuum ZPF does gravitate since the energy of each ZPF mode is redshifted 
+by the factor (- goo)1l 2 = [1 - (2GM/ c2r)]112 even though the modes remain unchanged 
+(Mis the mass of a gravitating body, r is the radial distance from the body, and goo is 
+the time-time component of the Schwarzschild metric tensor). 
+These studies suggest that cavity electromagnetic vacuum states are cont inuously 
+degrading inside a background gravitational field. The total energy (Ecasarav) stored in the 
+Casimir device is given by (Reference 87, 89): 
+_ _ 1t2Ahc(l + ~ gel) (J) (5)G::asarav - 720d 3 2 C2 
+where A is the area of the plates, dis their separation, and g is the acceleration of 
+gravity at Earth's surface (9.81 m/s 2). But can one extract energy from this 
+mechanism? The answer to this question is not known at present, but consideration of 
+the conservat ion of energy suggests that the same two possible outcomes given in the 
+previous section would seem to apply: 1) the lost energy is injected into the 
+gravitational energy of the body, or 2) the lost energy reappears as positive energy 
+density ZPF modes elsewhere in the universe. Further research will be needed to 
+address this question as well. 
+Vacuum Field Stress: Negative Vacuum Energy from the Casimir 
+Effect 
+As this report has already discussed, the standard Casimir effect (neglecting spacetime 
+curvature, a.k.a. background gravitational fields) is by far the easiest and most well 
+known way to produce negative vacuum energy. Therefore, the vacuum with in certain 
+types of Casimir cavity geometries is degraded. It turns out that there are many 
+different types of Casimir effects found in quantum field theory (Reference 1-3, 62, 90). 
+For example, if one introduces a single infinite plane conductor into the Minkowski (flat 
+spacetime) vacuum by bringing it adiabatically from infinity so that whatever quantum 
+fields are present suffer no excitation but remain in their ground states, then the 
+vacuum (electromagnetic) stresses induced by the presence of the infinite plane 
+conductor produces a Casimir effect. This result holds equally well when two parallel 
+plane conductors (with separation distance d) are present, which gives rise to the 
+famil iar Casimir effect inside a cavity. Note that in both cases, the spacetime manifold 
+is made incomp lete by the introduction of the plane conductor boundary condition(s). 
+The vacuum region put under stress by the presence of the plane conductor(s) is called 
+the "Casimir vacuum." The generic expression for the energy density of the Casimir 
+vacuum is Pee = - ADhcd-4 , where Ao = C,(D)/8rc2 in spacetimes of arbitrary dimension D 
+(Reference 1-3). The appearance of the zeta-function C,(D) is characteristic of 
+expressions for vacuum stress-energy tensors, Tv'.:; . In our familiar 4-dimensional 
+spacetime (D = 4), Ao= rr.2/720 . To calculate T;~; for a given quantum field is to 
+calculate its associated Casimir effect. 
+UNCLASSIFIED/ /FOR OFFICI0L: 11ili QIU.,¥ 
+30

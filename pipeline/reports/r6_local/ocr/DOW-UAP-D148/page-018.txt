@@ -1,0 +1,41 @@
+UNCLASSIFIED/fFOR. QFFIEIA.L: Ulii Qt!! X 
+RADAR systems are widely used for aircraft surveillance and can detect the distance to 
+objects and the position of an object (through triangulation); with Doppler RADAR, the 
+velocity can be directly measured. RADAR does have limitations. While low-frequency 
+RADAR systems are capable of following the curvature of the earth, the long wavelength of 
+this energy makes it difficult to resolve small objects. Higher frequency RADAR tends to be 
+more "line of sight." Since it depends upon reflected energy, several problems are 
+highlighted by the RADAR Equation: 
+p . = P,,·ansmill d GA a F4 
+(15)
+rece,ved ( 4 1r )2 R/ R,2 
+In this equation, Ptransm itted represents the transmitted power, Prece ived the received power, G 
+the transmitting antenna gain, A the aperture area of the receiving antenna, a the RADAR 
+cross section, F the pattern propagation factor, and Rt and Rr are the distance from the 
+transmitter to the target and the target to the receiver, respectively. If the RADAR 
+transmitter and receiver are in the same unit, the power returned as a reflection from a 
+target decreases as R4 . This means that energy received in reflected energy decreases by 
+94% every time the distance to the target is doubled. 
+RADAR depends upon the reflection of electromagnetic waves off of a target's surface, 
+thereby making objects with a small RADAR cross section difficult to detect (e.g., stealth 
+aircraft). Atmospheric phenomenon, including inversions and turbulence, can lead to 
+interference with RADAR reflections. Even with these limitations, RADAR is widely used to 
+monitor high-speed aircraft, meteors, and man-made objects reentering the atmosphere 
+from Earth orbit. 
+Velocity Vector 
+Radar Dish 
+Hypersonic Vehicle 
+Radial direction 
+I 
+Rotat 
+Pedei 
+Reflected Energy Transmitted Energy 
+R= radial distance 
+Figure 10. Schematic of a RADAR System. 
+Doppler RADAR 
+Doppler RADAR systems yield velocity data for a target. Pulsed RADAR systems send out a 
+short burst of high-frequency radiation that is reflected from a target. The RADAR unit 
+processes the delay time between the transmitted pulse and the received echo to determine 
+the range or distance to the target. The energy reflected from the target is, however, 
+14 
+UNCLASSIFIED//FQR QfifilEIA.k W&lii O,.L\f

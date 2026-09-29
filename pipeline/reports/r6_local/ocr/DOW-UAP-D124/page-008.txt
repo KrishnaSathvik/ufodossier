@@ -1,0 +1,60 @@
+UNCLASSIFIED/ /FOR: 9FFl@IAL WIiii QPIL¥ 
+Propulsion Perspective 
+In exiting Earth's atmosphere, the propulsion system and configuration are inexorably 
+linked. A hypersonic glider exits the atmosphere on either a rocket booster or a first 
+stage of a two-stage-to-orbit aircraft. As such, it usually exits the atmosphere quickly, 
+and the key exit design considerat ions are the high transonic aerodynamic and the 
+mechanical loads encountered in the exit trajectory. Whether for a new rocket launcher 
+or the U.S. space shuttle, the phenomenon is the same: the peak mechanical loads 
+occur during exit. In this case, the exit aerodynamics are important but not vital. The 
+vital aerodynam ics and the rmodynamics (aerothermodynamics) are in the entry glide, 
+where thermal loads are max imal and must be controlled. The vehicle must always be 
+controlled in flight so its attitude and direction are within limits set by the 
+aerothermodynamics. The angle-of-attack limits are very close for high-performance 
+hypersonic gliders, as their glide angle of attack is 11 to 15 degrees, not the 45 degrees 
+of the space shuttle. Even the Russian Buran had a lower glide angle of attack than the 
+shuttle; a TsAGI report given to the author by Vladimir Neyland shows it to have been 
+about 30 to 35 degrees. 2 Like the Buran, the high-performance glider is best controlled 
+by an automatic integrated flight control system that monitors the thermodynamic state 
+of the vehicle, as well as its aerodynamic and trajectory states . The sensor array 
+provides real-t ime information to the control system that can maintain the correct 
+attitude in a manner a human controller could not accompl ish. So it is this phase of the 
+flight that designs the hyperson ic glider. 
+The exception is when powered by an All 
+Rocket 
+air-breathing rocket (HOTOL, Skylon, 
+and LACE), which must remain lower in 
+the atmosphere until reaching the air­
+breathing rocket transition to 
+conventional rocket. The configuration 
+for the air-breathing rocket is different, 
+as it must have a retractable air inlet in 
+the mach O to 5 range but does not 
+determine the vehicle configuration. 
+The impact is significant, as the carried 
+oxidizer is reduced in the heaviest initial 
+portion of the flight, as shown in Figure 5. 35 ton payload
+2 for a Delta Clipper-type design with 334 t on 101 ton TOGW 
+an aerospike nozzle tested by 28.6 ton 15.9 ton DEW 
+678 m2 428 m2
+Konstantin Feotkiskov. The example is 
+from a Senior Capstone Design Study Figure 2. Impact of Air-Breathing Rocket 
+Team from Parks College, Saint Louis 
+University, circa 1992, and is based on the engineering reports the author was 
+permitted to read from the library of Konstantin Feotkiskov, an aerospace designer and 
+cosmonaut. The question, as always, is, why bother with air-breathing systems at all if 
+they are that much of a challenge? The answer is to consider a part ial air-breathing 
+system based on available hydrogen/oxygen rockets that operate to about mach S.S. It 
+operates in a flight region where the carried oxidizer quantities are the greatest. An 
+operational system is sought that is capable of a large number of flights per year. The 
+fewer resources required for launch, the greater ease with which the system can 
+operate and the greater potential to operate from more bases. 
+LACE 
+Rooket 
+Aero Spike 
+Konstanbn FeotkIskov 
+..._Under expanded 
+·, 
+Over expand'e<I 
+UNCLASSIFIED/ ,erQA QFFI&il.t.k WIiii &Ptllf 
+1

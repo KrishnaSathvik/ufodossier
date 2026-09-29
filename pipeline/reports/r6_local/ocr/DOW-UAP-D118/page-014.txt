@@ -1,0 +1,38 @@
+UNCLASSIFIED/ /FOR OFFICIAL USE 014Lf 
+Hot Face 
+Current Out 
+N-Type 
+Current In 
+Cold Face 
+Figure 7. Peltier Junction Heat Pump. Running an electrical current through this device will drive therma l 
+energy into the upper conductor, which grows hot. The lower conductors lose energy and become cold. The same 
+principle works in reverse: heating the top conductor (or cooling the bottom one) will create an electrical voltage 
+across the device. 
+Unfortunately, natural materials are relatively poor at this-the best efficiencies 
+achieved with them so far are around 10 percent. An optimal thermoelectric material 
+would be simultaneously a strong electrical conductor-perhaps even a 
+superconductor-and an excellent thermal insulator. 
+Fortunately, in 2001, scientists at the Research Triangle Institute in North Carol!na used 
+semiconductor superlattices to create a Peltier junction that operated at 2.5 times the 
+efficiency and 23,000 times the speed of all previous designs. The electrically 
+semiconductive superlattice materials were unusually good radiators-and unusually 
+poor conductors-of heat. 
+For spacecraft hulls fashioned from programmable materials, it should be possible to 
+create Peltier coolers on any surface in order to pump heat out of one area and divert it 
+to another. In addition, it may be desirable to manipulate the thermal conductivity of 
+the spacecraft skin-highly conductive in some areas, highly insulating in others-either 
+to smooth out temperature differences between the sunward and shadowed sides of the 
+spacecraft or, in some cases, to accentuate them (for example, so that a radiator, 
+precision blackbody, or cryogenic instrument on the shadowed side remains as cold as 
+possible). 
+Finally, it may be desirable to store heat for later release . This can be accomplished, for 
+example, by placing an insulating barrier around a hot portion of the spacecraft skin 
+while also reducing the emissivity of the hot spot so its ability to radiate the heat away 
+into space is minimized. Later, the hot spot can be reconnected to the rest of the 
+spacecraft skin through conductive bridges, allowing the heat to escape and spread out. 
+In addition, thermal management of the spacecraft interior will provide significant 
+benefits for the overall energy budget. The table below details the energy consumption 
+of a typical household (a reasonable analog for a crewed spacecraft, with the exception 
+of energy required for air circulation and other life support functions) . 
+UNCLASSIFIED/ fFOA QFFICI.t.k Wili 81Uklf 
+10

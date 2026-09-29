@@ -1,0 +1,28 @@
+UNCLASSIFIED/ /P"OR: OP"P"l@IAL WSli 01'11.¥ 
+Electrode arrays are sometimes used, such as in the case of deep brain stimulation for 
+late-stage Parkinson's disease, which is characterized by tremors of hands. There is a 
+"brain pacemaker" that sends electrical impulses to specific parts of the patient's brain 
+via permanently inserted electrodes. This can stop the tremors for reasons that are not 
+exactly known and for which the best location in a given patient to place the electrode 
+is also not known beforehand. Thus introducing multiple electrodes and stimulating 
+each one in-turn until the best result is found allows a greater degree of possible 
+effectiveness and therapeutic result. MEMS techniques are being employed in this 
+application to permit a greater number of contacts and to reduce the size of the lead 
+wire on the electrodes. 
+MEMS multichannel electrode stimulating and recording electrode systems are also used 
+in brain interface applications to record or stimulate the activity of many neural circuits. 
+Such electrodes allow ability to record or stimulate complex muscle movements 
+associated with the limb such as in walking or in grasping objects with the hands. 
+Figure 20 shows an electrode system looking much like a bed of nails. 
+Figure 20. Scanning Electron Micrograph of a Brain Electrode Array Manufactured From Titanium and 
+Produced by a Process of Electrodischarge Machining ("Electrical Discharge Machining and Chemical Etching", 
+Fofonoff * , Martel, Hatsopoulos, Donoghue, Hunter) 
+All muscles of the body are activated by nerves that route to the brain. It is known from 
+careful studies conducted by many investigators over the years that there is a wiring 
+and physical mapping of the muscles to certain clusters of specialized cells in the motor 
+cortex of the brain. 
+It is also known that when a person plans or strongly imagines moving part of his body, 
+there is a complex electrical activation of the corresponding regions of the brain 
+involving many cells over a local area. 
+UNCLASSIFIED/ (FOR OFFICJA 1 1155 01!1.¥ 
+23

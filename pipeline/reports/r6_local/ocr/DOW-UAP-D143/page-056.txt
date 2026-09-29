@@ -1,0 +1,35 @@
+UNCLASSIFIED SfPOROPPICTAL USE ONLY
+
+storage device capable of cooling DEW systems. Their 3 MJ device is the first large-
+scale module capable of storing heat at a high rate as required for DEW systems, and it
+stores heat at an average rate of 230 kW. Heat is stored in a 35 kg module by melting
+a wax-type phase change material (see Figure 21). These materials, by themselves,
+cannot support the high heat transfer rate and must be combined with other materials
+to enhance their thermal properties in order to make them work. Thermal
+management is one of the many challenges of the high-power BSSSL devices used in
+DEW systems, which produce tremendous amounts of waste heat. Rejecting heat from
+these systems in real time is not practical, making thermal energy storage a necessity.
+
+The cost of BSSSL systems and related infrastructure are becoming competitive with
+that of the proposed 10 MW electron gun-driven CO2/gas mixture lasers. BSSSL costs
+are continuously decreasing as their technology matures and as more systems become
+widely available for testing and operational deployment. The HELLADS matched-index-
+of-refraction liquid cooling technique and General Atomics’ advanced thermal energy
+storage device will also dramatically improve the cost competitiveness of BSSSL
+systems compared to all chemical and gas dynamic laser systems by producing greater
+efficiencies in solid-state lasing operation while at the same time increasing the average
+beam power.
+
+Figure 21. Phase Change Materials Allow Storage of Large Intermittent Heat Loads While
+Slow Regeneration Removes Heat from Aircraft (courtesy of P. Saunders, AFRL/RDS,
+Kirtland AFB, NM).
+
+High Power Fiber Laser
+
+From 2006 to 2009, a newly emergent class of solid-state lasers, called high-power
+fiber lasers (HPFLS), has undergone transformational innovations resulting in a 10-fold
+increase in near diffraction-limited beam output power of a single-fiber laser operating
+with broadband output in the 1 um wavelength region with 90% optical efficiency, >
+
+52
+UNCLASSIFIED 4460 R-OFFEGEAE-USE-ONET

@@ -1,0 +1,54 @@
+UNCLASSIFIED / /+OR-OFFEGEAEUSE-ONET
+
+where £(@) is the Fourier transform of g(t) and is sharply peaked around w=0. In
+general, almost all results of quantum field theory in a vacuum state or under the
+influence of external conditions (i.e., in vacuum states “deformed” by boundary
+conditions or external fields) are derivable from the spectral density. This quantity is
+usually known analytically, and it is of great interest to measure it for interesting
+quantum field states.
+
+Because the ground state is stationary, the quantum noise in the Casimir cavity is time-
+independent, i.e., it is independent of the phase of the LO, and thus the spectral
+density is also time-independent. Marecki [5, 6] derived the diagonal part of the
+spectral density for the y-components of the quantum electric field between two
+parallel, perfectly conducting plates (positioned at x =0 and x= a) in a Casimir cavity
+(see Figure 2):
+
+6, (4,5) == > [2 [QCont)-O(@|2x—nL)] (17)
+
+for y=0, where L = 2a is twice the distance between the plates and the function Q(x) is
+defined as
+
+SINX COSX sinx
+By) = ——+—-
+
+X x x
+
+Note that the diagonal terms of the spectral density are the important quantities to be
+measured because they will be dominant if the photodiodes are separated by a
+sufficiently large distance [5, 6]. Spectral densities reveal much finer details of the
+quantum ground state than already-measured Casimir forces do. By exploring the
+freedom of choosing the locations of the photodiodes inside the Casimir cavity as well
+as the polarizations, phases and frequencies of the LO, one can obtain a detailed
+characterization of one- and two-point functions of any state S of the quantum electric
+field. Therefore, an application of this particular type of BHD measurement, via
+Equations (16) and (17), amounts to a tomography of the ground state of the Casimir
+cavity.
+
+For the experimental detection of the Casimir spectral density with a BHD-type device,
+the Casimir cavity plates are separated by a = 1 micrometers while the photodiodes
+inside it are of submicrometer width in the x-direction and submillimeter length in the
+y-direction (see Figure 16). Photodiodes of several nanometers in size have already
+been constructed and their high quantum efficiency versions are under development,
+see Reference [60] and the references cited therein for more technical information. As
+shown in Figure 16, a coherent state in the TE1 mode of the Casimir cavity with a very
+small wavenumber in the y-direction provides an appropriate LO. A BHD with such a
+LO and the photodiodes located as shown in Figure 17 would be sensitive only to the y-
+component of the quantum electric field. Figure 18 shows a schematic of the BHD
+apparatus with a LO. In the figure, the linearly polarized signal field S (if present) is
+optically mixed with a coherent state (LO), which is polarized orthogonally to S, on the
+polarizing beam splitter (PBS1). The half wave plate (HWP) reflects the planes of
+polarization with respect to its optical axis, thereby inducing a 1/4 shift of the plane of
+
+39
+UNCLASSIFIED / / FORO FFECGEAEUSE-ONE—

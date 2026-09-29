@@ -1,0 +1,49 @@
+UNCLASSIFIED/ /FOR: orr1e1J1tt Y!H: e .. tv 
+The remainder of discussion concentrates on the surveyed studies into five technology 
+areas, and listing their advantages and disadvantages, as well as their critical barriers 
+to further development and likely future paths of research. 
+NONINVASIVE ELECTRICAL DEVICES 
+The current state-of-the-art BMI devices that have shown the most promise in the near 
+term utilize muscle amplification of the neural signal. This is the result of commerc ial 
+investment in development. These primarily EMG based systems are noninvasive 
+connections to existing or constructed nerve-muscle pairs. Neurally operated 
+prosthetics have been demonstrated such as the artificial hand. Decoding algorithms 
+are nearly as fast as muscle response itself at selecting 1 of 10 actions. Commercial 
+products for entertainment are available for normal, healthy consumers. These 
+entertainment devices contain few sensors but make use of more complex decoding 
+algorithms. All sensors don't just turn on and off, rather they can relay amplitude, 
+polarity, and frequency of muscle action, as well as detect underlying spiking signals 
+from neurons. This combination, along with algorithms developed from a support vector 
+machine, will allow device selection of many more actions than the simple binary 
+combinatorics of the number of sensors. The gaming market will drive this noninvasive 
+technology in the next 5 years with advances in signal processing from current sensors. 
+The EMG based systems can be scaled to a large number of sensors for a more complex 
+control task. It has been demonstrated with amputees the feasibility to move existing 
+nerves around to control existing muscles. There has not been a study yet to explore 
+how many nerve-muscle pairs may be available for such use in a normal human, with 
+or without reinnervation. Such a study could be done theoretically based on current and 
+near term work with patients. The longer term for EMG will likely evolve toward very 
+small, wireless chronic implants that operate near the skin surface and are easy to 
+install and remove. 
+Devices based solely on noninvasive detection of EEG signals from the cortex in normal, 
+healthy individuals are unlikely in the next 5 years. This is primarily because of muscle 
+noise filtering issues which will need to be solved through development of better EMG 
+sensors and detection algorithms mentioned above. Even though such devices have 
+been shown to work in laboratory settings, moving them to the arbitrary conditions in 
+naturalistic settings introduces significant complication to signal detection and filtering 
+that greatly limits the information transfer bandwidth to a fraction of the target 5 
+bits/sec. Also an issue is the origin of surface EEG signals, which are still under 
+theoretical study even after 80 years. Some of the frequency bands direct ly related to 
+spiking activity in axons are somewhat understood, but the whole of the signals contain 
+many transients that are likely the more interesting and possibly more robust parts of 
+brain activity. In the medium to long term, many applications are envisioned in surface 
+or near surface detection of cortical spiking activity or ERP, once the background 
+separation issue in naturalistic environments is addressed . However, these signals still 
+require localized coherent firing of tens of thousands of neurons, a biological 
+requirement that has lim ited the information transfer rates of these techniques to 1 
+bit/sec or less, which is well below target rates but could be useful for some 
+applications. 
+One can suppose an ultra-high density EEG, thousands of sensors with wireless micro 
+probes embedded subcutaneously that track electrical activity and relative location 
+UNCLASSIFIED/ /FOR. 8FFI@IJltL Y9I!! 9Htl" 
+24

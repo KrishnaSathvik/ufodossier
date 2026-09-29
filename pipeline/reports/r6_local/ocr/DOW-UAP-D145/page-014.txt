@@ -1,0 +1,42 @@
+UNCLASSIFIED//POlt Offl@IAL HS& QptkY 
+Ion Drives 
+Ion thruster electrical propulsion provides a convenient and efficient method of 
+generating thrust. A gas that is easily ionized, such as xenon, is carried onboard as a 
+propellant. The voltage difference between an electrode and a metal screen accelerates 
+xenon ions toward the screen and out the back of the spacecraft, generating thrust. 
+The specific impulse of this kind of drive is about 3,000 seconds. It is relatively 
+common for satellites to use ion drives, generating minute forces measured in 
+millinewtons, to maintain orbit. Solar energy and radioactive decay are possible 
+sources of electric power for satellites in Earth orbit. In deep space, fusion or fission 
+reactors could provide electrical power. However, once the xenon propellant has been 
+expended, the ion drive is no longer useful. 
+Ion drives include the VASIMR (Variable Specific Impulse Magnetoplasma Rocket) 
+designed by the Ad Astra Rocket Company in Webster, Texas. This system uses two RF 
+radiowave antennae to couple energy into an ionized gas that is used for propulsion in 
+space. While ion drives are often used to help maintain orbit for satellites circling the 
+Earth, the VASIMR technology has been proposed for use in moving payloads 
+throughout the solar system. The specific impulse for this technology is cited as 5,000 
+seconds compared to ~3,300 seconds for typical ion drives. 5 
+Photonic Propulsion 
+Photons of visible light, infrared radiation, or x-rays can produce thrust through 
+momentum transfer, where the momentum of each photon is given by p = h/A (h = 
+Planck's constant, A = radiation wavelength). Photonic propulsion has been explored by 
+Y. K. Bae Corporation (http://www.ykbcorp.com ) who holds a patent on a photonic 
+laser thruster. These drives generate no contaminants and require a source of 
+electricity to produce photons. Their photonic laser thruster (PLT) uses an active 
+resonant optical cavity formed between two mirrors on a pair of spacecraft to generate 
+thrust . Photonic drives would be viable on fusion or fission -powered spacecraft if their 
+power output were used to generate electrical power that could provide light. 
+RADIATION SHIELDING 
+Radiation shielding will be important for astronauts traveling to the Moon, to the other 
+planets, and to other star systems. Radioactive particles and cosmic rays left over from 
+the big bang, radiation from supernovae, x-ray emissions from black holes, and a 
+constant flux of energetic protons from our own sun all contribute to the radiation dose 
+received by humans in space. 
+Radiation levels are typically measured in sieverts (Sv), expressing the amount of 
+energy deposited in human tissue from radiation. One sievert is equivalent to 1 joule of 
+energy absorbed for every kilogram of tissue. 6 • 7 An older unit, the rem (Roentgen 
+equivalent, man) is still in common use: 1 rem = 0.01 Sv. Sieverts are now the 
+international standard unit. 
+UNCLASSIFIED/fF&A 9FFI€il.t.k Y&li QptkY 
+6

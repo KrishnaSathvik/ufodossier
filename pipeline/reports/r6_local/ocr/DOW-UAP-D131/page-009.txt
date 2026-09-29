@@ -1,0 +1,51 @@
+UNCLASSIFIED/ /FOR OFFl&I.t..k WSI: OPtklf 
+except possibly for his proofreading skills. Strangely, the only persons who contacted 
+Podkletnov in the mid-1990s about the paper were the Ital ian theoretical physicist G. 
+Modanese and this author. Podkletnov claimed he had never heard of the work of Li and 
+Torr prior to publish ing the paper. 
+According to the 1992 paper, the essence of his experiment was the high-speed 
+rotation of a relatively large ( 14. 5-cm diameter x 6-mm thick) YBCO sintered ceram ic 
+superconduct ing disk in the vapors of liquid helium {LHe). The disk was levitated by 
+Meissner repulsion over a large support electromagnet immersed in LHe that was 
+powered by a variable-frequency supply from 50 Hz to 106 Hz. At the diametrical 
+periphery of the disk were positioned two additional but smaller electromagnets also 
+powered by variable frequency supplies. These two "rotational" electromagnets were 
+used to spin the disk in some unspecified manner. A small nonconducting, nonmagnetic 
+test mass was suspended from an analytical balance about 15 mm from the top of the 
+disk. Subsequent information from Podkletnov indicated that to obtain the maximum 
+stable test sample weight loss of about 0.3 percent, the optimum conditions required 
+operation of these two electromagnets at frequencies of 105 Hz and disk rotational 
+speeds of several thousand rpm. 
+Apart from the difficulty believing, on purely theoretical grounds, that such an 
+enormous weight loss was possible, there was considerable doubt about the validity of 
+the observations based on experimental issues. Among many other concerns, a few 
+comments regarding the cryostat are in order . The only information on the physical 
+configuration of the experiment is given in the sketch provided in Reference 15. 
+Referring to that figure, it is difficult to believe the only thing separating the vapors of 
+LHe in the cryostat from the laboratory atmosphere was a thin plastic film. Ordinarily, 
+so much water vapor and other gases would have condensed on the outer surface of 
+the film as to render it completely opaque, thus making the observation of the disk 
+extremely unlikely. If the cryostat was actually designed roughly per the sketch in the 
+article, the LHe would be boiling so vigorously that it would rupture any film unless 
+adequate He gas escape was provided . As pointed out by dePodesta (Reference 23), 
+thermal currents and buoyancy changes above such a cryostat would be so severe as to 
+render the determination of the weight of a test mass suspended only 1.5 cm above the 
+disk (and therefore only a few mm above a separating film covered with ice) virtually 
+impossible . This was an entirely unsatisfactory cryogenic design for the purpose. 
+Important issues such as how the disk was balanced, how it was prevented from 
+rupturing at high speeds, how much power was used to operate the coils, and what 
+means were employed to prevent the balance from being affected by the magnetic 
+fields from the coils were not addressed in the article. Nevertheless, the article caused 
+experimental ists around the world to try to duplicate the essence of the exper iment, 
+generally in an overly simplified manner. All started out using the less costly LN2 
+approach with either fixed or rotating permanent magnets and small ( ~2- to 3-cm 
+diameter) disks purchased commercially. Several researchers, including Gonnelli at 
+Turin Politecnico (Reference 24), Woods at the University of Sheffield (Reference 25), 
+and this author witnessed very slight apparent weight changes while the disk was 
+passing through its critical temperature, Tc. However, in most cases, the effect was so 
+close to the noise that further experimentation was not considered. At a private 
+unpublished meeting (see below) hosted by Professor R. Gonnelli at the Turin 
+Politecnico in April 1999, however, Podkletnov made it clear that unless the exact disk 
+formulation was followed, high-frequency magnetic fields were employed (not 
+UNCLASSIFIED/ /FOR. OFFI&I.t.k W&& &Ptklf 
+5

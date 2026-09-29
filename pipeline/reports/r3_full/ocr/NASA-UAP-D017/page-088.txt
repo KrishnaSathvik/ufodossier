@@ -1,0 +1,24 @@
+82 
+White That ' s right . Okay, the electrical system --
+8 . 6 Electrical System 
+White Okay, t he system s monitoring. I thought it was 
+satisfactory . We went through and monitored the 
+systems every time for the GO/NO GO checks, and 
+qui t e a few times along the line in addition to 
+this. So I thought the method of monitoring was 
+satisfactory. I don't believe we really had any 
+way of monitoring the electrical power remaining . 
+McDivitt Yes, that ' s a draw back, and we all know it, I 
+guess . 
+White Righ t . That ' s an unsatisfactory conditio nmd 
+I don ' t know what we're going to do about it. 
+I think it's too much of a job to try to think 
+that you ' re going to sit in there and calculate 
+all the things you have on,and try to keep an 
+onboard plot of what electrical power you have 
+remaining . 
+McDivit t Yes , I think this is a ground function . I don't 
+think that we can realistically do it onboard the 
+spacecraft . 
+White I don't believe we got any indication of how our 
+electrical power was going from the ground,except

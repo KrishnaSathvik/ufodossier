@@ -1,0 +1,49 @@
+UNCLASSIFIED/,CFOA OFFl€1Ak Uliliii ONkY 
+The AFFDL's approach was to design a hypersonic performance configuration that would 
+minimize the waiting time in orbit to return to the continental United States (CONUS). 
+This resulted in configurations with sharper leading edges and smaller nose radii than 
+found in NASA and Russian configurations. All of the material, structural, and 
+thermodynamic details related to the sharper configurations were tested and verified in 
+ground test facilities and flight tests (BGRV and ASSET). Characteristics of selected 
+AFFDL hypersonic glider configurations are identified in Table 1. 
+Table 1. Characteristics of Selected Flight Dynamics Laboratory Hypersonic 
+Glider Configurations During the 1958-68 Timeframe 
+# Model Observation 
+l FDL-24B Flat bottom, sharp leading edges, conventional tails, as 
+designed 
+2 All Body Glider, similar 
+to Russian BOR vehicles Upnirned spatular nose, conventional tail s 
+3 ASSET 
+Test vehicle to evaluate aerodynami cs, 
+thermodynamics and materi als, based on nose of 
+DynaSoar 
+4 FDL-7MC Flat bottom , sharp leading edges, variable geometry 
+wing, ex perimentally developed tail X configuration 
+5 Blunt nose, wing-body DynaSoar type configuration 
+6 Spaturlar Nose Version 
+of DynaSoar type 
+First integration of 2-dirnensional nose (less drag) on a 
+hypersonic glider (R.D. Newmann) 
+7 FDL-8 Flat bottom , sharp leading edges, outboard tails 
+8 HL-10 ASA Ames flat up-swept with bottom, round upper 
+body, high dihedral angle tai ls 
+9 X-24A NASA Langley round body, high dihedral angle tails 
+LO Star Body based on Russian Star Body type configuration 
+Configuration 2 was a higher wing-loading, relatively blunt all-body with an upswept 
+spatular nose that is not unlike Russia's Bor series of Lozino-Lozinski hypersonic gliders. 
+When the author was at Wright-Patterson, interest in this waned quickly because of the 
+limited cross range available. Because of the longitudinal extent of the former Soviet 
+Union compared with the United States, the minimum L/D ratio to ensure a landing on 
+the continental land mass was less for the former Soviet Union than it was for the 
+United States-1. 7 for the Soviet Union versus 2. 7 for the United States . 
+Configuration 3 was a subscale research vehicle to evaluate the thermodynamic and 
+materials for hypersonic gliders. The nose and leading edge radii were full-scale size. 
+ASSET was successfully flown on a Thor intermediate-range ballistic missile (IRBM) 
+booster. One that was recovered after an ocean landing is on display in the U.S. Air 
+Force Museum in Dayton, Ohio. Configuration 6 was the first two-dimensiona l nose 
+applied to a conventional winged-body (configuration 5) in the United States. 
+Configuration 4 was a product of cooperation between the AFFDL (Alfred Draper) and 
+McDonnell Douglas Astronautics Company (Robert Masek) to develop a vehicle to 
+support the Manned Orbiting Laboratory (MOL). This concept was briefed to the U.S. 
+UNCLASSIFIED/ /FOR OFFICIO! 1ISliii AIIL¥ 
+6

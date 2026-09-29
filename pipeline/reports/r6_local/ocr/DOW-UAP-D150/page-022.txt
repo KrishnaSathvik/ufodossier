@@ -1,0 +1,55 @@
+UNCLASSIFIED / /POR"OFFECEAE-USE-OsEE-
+
+Research with Graphene Quantum Dots
+
+Graphene is an ideal candidate for spin qubits due to its low intrinsic spin-orbit coupling and
+the sparse amount of nuclear spins. We discussed bound states in gate-tunable graphene
+quantum dots realized in both graphene nanoribbons and gapped single-layer and bilayer
+graphene. In contrast to quantum dots realized in edged graphene flakes, gate-tunable
+quantum dots are defined electrostatically rather than by the physical edge of a graphene
+sample. This allows one to controllably break the valley degeneracy, a prerequisite for spin-
+based quantum computing, e.g., by using a magnetic field. We have also discussed quantum
+manipulation of spin qubits in such dots, as well as recent theoretical studies on the
+consequences of spin-orbit interaction and hyperfine interaction with nuclei for spin-
+relaxation and spin-decoherence. Both theoretical and experimental efforts have focused on
+single-layer graphene quantum dots. The next major area is likely to be bilayer graphene.
+Bilayer graphene is potentially superior to single-layer graphene due to the creation of a
+tunable bandgap by electric fields which allows for an all electrical control of graphene
+quantum dots.
+
+These new capabilities may be a boon for spintronic quantum information processing.
+Single-qubit gates, based on single-spin electron spin resonance, have achieved significant
+breakthroughs. Fast (~200 ps) two-qubit operation has been demonstrated, but single-qubit
+operations on a similar time scale still remain a challenge. A proposed new configuration of
+two-spin encoding of the qubit, where a single and a triplet state play the role of the 0 and 1,
+shows promise. With this type of gubit, the interferometer, demonstrated by the Princeton
+researchers, could be used for single-qubit gates on a nanosecond time scale. Alternatively,
+fast qubit rotations in a slightly different singlet-triplet qubit can be obtained by aligning
+nuclear spins to create different nuclear polarizations in the two dots. Fast single-qubit and
+two-qubit gates available in the same system allow for efficient quantum error correction and
+could provide an important head start in the battle against decoherence. However, no two-
+qubit gates for this type of qubit, which would involve four spins, have yet been
+demonstrated. Utilizing graphene as a structural basis for quantum computing, coupled with
+other carbon based materials such as self-assembling DNA, motifs, may lead the
+revolutionary development in quantum computing.
+
+SUMMARY OF ADDITIONAL INORGANIC TECHNOLOGIES
+
+The advancement of quantum computing schemes is the subject of significant investment
+and development over the past two decades. Recently, Ladd reviewed inorganic technologies.
+(5) Ladd proposes that ion traps are the most probable technology based on their long T2,
+but then concludes that a comparison between the technologies is incomplete without further
+development on all fronts. The current treatise concentrates on organic technology but
+summarizes here the work of Ladd and others for completeness.
+
+Photon Technologies
+
+Using the polarization state of a photon is an appealing approach to store, communicate, and
+manipulate qubits. Photons do not require a vacuum or very low temperature for fairly good
+isolation from thermodynamic interactions. They do require special, non-linear media for
+robust, reliably predictable manipulation. A major advance in 2001, known as the KLM
+scheme, showed that a scalable quantum computing was possible using linear optics and
+single-photon detectors and sources. (80) The major hurdle, according to Ladd, is photon
+
+21
+UNCLASSIFIED / / EQB.OFELCIAL ASS iO Pbaiye

@@ -1,0 +1,42 @@
+UNCLASSIFIED1/FOR 8ffl@IAL tt91! e"t I 
+15 
+Ill II 
+'t ~-Y 
+°! 10 
+(Cll,Cfl1),N• 
+0.68rvnclame. 
+I 
+Is 
+0 
+0 L--+--1----= ======= :'.....J .______,... 
+0 3 s 
+Aveqge pore Size {Ml) 
+Figure 9. Relationship Between Average Pore Size and Normalized Specific Capacitance. As the average 
+pore size decreases below 1 nm, the specific capacitance increases due to distorted electrolyte Ion salvat ion. 
+THIN FILMS 
+CNT films have been used in 2D thin-film ultracapacitors having respectable gravimetric 
+and volumetric capacitance. Activated carbon powders have a better performance in 
+terms of energy per unit area, 35 but they need to be processed into films before use, 
+and th is lim its their choice for microdevice fabrication, which allows mass production of 
+capacitors on semiconductor wafers. Carbide-derived carbo n (CDC) is a class of carbon 
+materials produced by selectively etching metals from meta l carbides using chlorine at 
+elevated temperatures in a process similar to current dry-etching techniques used in 
+MEMS and microchip fabrication. CDC has been shown to have excellent performance as 
+the active material in traditionally processed ultracaps 36 since it can have its 
+microstructure precisely tuned by tailoring the synthesis conditions for a particular 
+electrolyte. 37 
+For microfabricated supercapacitors, CDC is attractive for several reasons. The 
+precursor carbides are conductive and can be deposited in uniform t hin and th ick films 
+by well-known chemical and physical vapor deposition (CVD and PVD) techniques. 38 I n 
+addition, the chlor ination process can be performed at tempe ratures at least as low as 
+200°C, 39 and the resulting coatings are well-adhered with an atomically perfect 
+interface, 40 which minimizes device impedance. This technology can be used to produce 
+the microfabricated ultracaps on the same chip as the integrated circuits, which they 
+are powering (shown in Figure 10).41 Chlorine-containing plasma etching of materials in 
+semiconductor manufacturing is a well-established technique and is similar to the 
+chlorination procedure in CDC manufacturing. Continuous porous carbon films cannot 
+be produced by conventional CVD, PVD, or other techniques, and the high-temperature 
+activation needed to produce the microstructures necessary for ultracapacitor 
+performance in CVD carbons would destroy the devices they were intended to power. 
+UNCLASSIFIEO/fFOA OFFI&I:.l.b YS& ONLY 
+20

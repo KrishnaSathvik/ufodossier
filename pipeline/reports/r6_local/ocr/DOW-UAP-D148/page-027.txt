@@ -1,0 +1,49 @@
+UNCLASSIFIED/fFOR. QFFIEl.t.L: Uii QD:I! X 
+Commercial and Governmental IR Systems 
+There is a long history in the United States of the usage of IR detectors to sense launches 
+and to track the trajectory of ICBMs.21 ARPA init iated studies of the possible use of IR 
+detection of aircraft and missiles in the 1950s. Under their Defense Support Program (DSP), 
+Joseph Knopaw studied the possible use of IR detectors in satellites to detect missiles and 
+the hot exhaust plumes of ICBMs. Rand Corporat ion subm itted a report in 1955 that outlined 
+the detection of ICBM launches from satellites in Earth orbit . In 1956, the U.S. Air Force 
+chose Lockheed as the lead designer with Joseph Knopaw as the project manager for 
+Subsystem G, ICBM Attack Alarm System (WS-117L) . 
+By 1958, control of the Air Force system shifted to ARPA (Advanced Research Projects 
+Agency) as the MIDAS missile defense alarm system. The satellite IR detection system could 
+alert the Strategic Air Command of possible Soviet missile launches 15 minutes earlier than 
+the DEW system could. The first successful satellite launch occurred in 1960 with a 300 -mile 
+orbit. In 1963, MIDAS 9 with a 2,250-m ile polar orbit succeeded in detecting nine missile 
+launches using an 8-inch concentric telescope and an Aerojet-General IR detector. 
+In 1964, the Air Force launched the RJS-2 satellites into geosynchronous orbit over the 
+equator. The MIDAS system was renamed the Defense Support Program in 1969 and an 
+agreement between the United States and Australia provided communication to the 
+constellation of MIDAS satellites from the Overseas Ground Station (OGS) in Australia and 
+the Continental Ground Station (CGS) at the Buckley Air National Guard Station in the United 
+States. Four Phase 1 Integrated Missile Early Warning Satellites (!MEWS) were launched 
+between 1970 and 1973 followed by Phase 2 satellites from 1975 to 1977, the Multi-Orbit 
+Satellite/Performance Improvement Modification (MOS/PIM) models from 1979 to 1984, two 
+Sensor Evolutionary Development (SED) satellites from 1984 to 1987, and DSP-1 satellites 
+since 1989. The DSP satellites are designed for the global monitoring of ICBMs, SLBMs, and 
+tactical missiles. Their operating life is 5 to 7 years, and they weigh approximately 5,000 
+lbs. With 6,000 IR telescopic detectors, these satellites monitor IR emissions between 2. 7 
+and 4.3 microns. The 23rd, and last, DSP satellite was launched in November 2007. 
+The DSP system is capable of monitoring more than ICBMs. In 1972, the system detected a 
+large meteor passing over several western states 94 km above the Earth. This meteor, 
+moving at 18 km/s, was on a trajectory over Salt Lake City that would have done significant 
+damage if it had impacted the Earth. In 1991, DSP satellites detected the launch of 88 Iraqi 
+SCUD missiles. The DSP system is currently controlled under the ALERT (attack and launch 
+early report to theater) system under the ALERT Control Center located at Shriever Air Force 
+Base in Colorado . The current operational inventory is classified . 
+Other commercial IR detection equipment includes the Lucid Dimensions Spherical Detection 
+System (SDS) using a 3D spherical sensor array. 22 This system is designed to track ballistic 
+missiles, aircraft, and vehicles. Developed under an SBIR, this system can be mounted on 
+ground-based vehicles, ships, or aircraft. 
+LIDAR 
+LIDAR, or "light detection and ranging," uses pulses of laser light directed toward a target. 
+Reflected light is detected and, through the time of flight of the laser beam, the distance to 
+the target can be computed. While LIDAR systems are similar in function to RADAR systems, 
+the highly directional nature of the laser beam perm its a very accurate determination of 
+target distance. As an example, reflected panels left on the moon's surface by the Apollo 
+astronauts are now used to accurately monitor the distance from the Earth to the moon using 
+UNCLASSIFIED//FQA: QlililEl.t.L: W&li ONL'l 
+23

@@ -1,0 +1,44 @@
+UNCLASSIFIED/ ,SfOR 8FFI€il.t.k Wlili QPIIL¥ 
+microelectric design of chronic neural implants. In 2006, Fetz et al. illustrated an 
+intracranial operated neural implant that could function as neural prosthetic to assist 
+upper limb movement for individuals that suffered from spinal cord injuries. The 
+intriguing part of the Fetz design is its ability to funct ion as an autonomous battery 
+operated device. This is a departure from traditional BMI devices that are cumbersome 
+and difficult to operate. Clearly this is a step forward in the development of microwire 
+electrode design applications (Reference 44). Figure 5 illustrates the schematic flow 
+chart of the Fetz MEMS neurochip, also called a programmable system-on-chip (PSoC) 
+architecture . 
+Programmable System on Chip Architecture 
+(1R module) ( eITM>ry) ( MeITM>ry) 
+t t l 
+Prim ry 
+( 
+Secondary 
+PSoC PSoC( ) J 
+l ! l 
+o 
+:5"' 
+E~w;;:, 
+r.n 
+lf n 
+M icrowire e lectrodes EMG ecllod s 
+Figure 5. Schematic of the Neurochip Functional Blocks. Parallel PSoC microcontrollers record neural and 
+muscle signals to independent memory modules. Primary PSoC also controls a constant-cur rent stimulator circuit 
+and communicates via IR to a PC or hand-held PDA. (Reference 44) 
+Traditional PSoC designs operate on a high power consumption and short battery life of 
+radiotelemetry systems (Reference 46). In the Fetz study, researchers implanted 
+electronic devices that collected data in unrestrained monkeys. The system operated 
+without the power limiting and cumbersome restraints exhibited by these previous 
+systems . For this design, an onboard spike processing and a stimulator circu it were 
+employed to allow for real-time bidirectional interface with the nervous system. After 
+several modifications, Fetz et al. successfully created a device that was able to 
+simultaneously record electromyogram (EMG) activity and neural activity at the 
+implant. The lithium battery operated power source and electronic data systems were 
+skillfully packaged within a compact percutaneous (inner skin) titanium casing that was 
+attached to a monkey's skull; the entire implant weighed only 56 g. Neural data was 
+acquired from 12 microwire electrodes chronically implanted in the primary motor 
+cortex. Leads run subcutaneously from the head casing to a connector on the monkey's 
+back. Two pairs of stainless-steel wires were inserted percutaneously into the forearm 
+muscles where they were attached to an EMG signal recorder (Reference 44). 
+UNCLASSIFIED/ lf81l OfPltlJlcL U:!I! f>flt I 
+15

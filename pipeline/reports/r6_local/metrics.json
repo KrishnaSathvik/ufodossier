@@ -1,0 +1,96 @@
+{
+  "generated_at": "2026-09-28T21:04:28.567191+00:00",
+  "verdict": "R6_LOCAL_COMPLETE",
+  "production_writes": 0,
+  "deploy": 0,
+  "gpt6": "off",
+  "linker_v1_frozen": true,
+  "linker_v1_1": false,
+  "quote_rules_changed": false,
+  "evidence_gate_changed": false,
+  "corpus": {
+    "records": 75,
+    "pdfs": 59,
+    "media": 16,
+    "video": 15,
+    "audio": 1,
+    "local_law_enforcement": 8,
+    "pages": 2607,
+    "pages_ocrd": 948,
+    "ocr_failed": 18,
+    "extract": 7,
+    "source_only": 52,
+    "fixed_chunk_docs": 7,
+    "cue_routed_docs": 0
+  },
+  "extraction": {
+    "candidates": 23,
+    "quote_valid": 20,
+    "quote_rejected": 3,
+    "evidence_insufficient": 5,
+    "accepted": 15,
+    "truncations": 0,
+    "extraction_failed": 0,
+    "json_stats": {
+      "json_first_pass": 41,
+      "json_retry_success": 0,
+      "json_retry_failed": 0,
+      "json_truncated": 0,
+      "json_invalid": 0,
+      "api_error": 0,
+      "valid": 41,
+      "extraction_failed": 0,
+      "sections_subdivided": 0,
+      "haiku_calls": 41
+    },
+    "cost_usd": 0.82,
+    "runtime_seconds": 121.9,
+    "haiku_calls": 41
+  },
+  "identity": {
+    "canonical_events": 196,
+    "event_series": 1,
+    "decisions": 55,
+    "rejected_pairs": 20,
+    "candidates": 1039,
+    "decision_breakdown": {
+      "same_event": 3,
+      "same_series": 49,
+      "media_for_event": 1,
+      "analysis_of_event": 2
+    },
+    "status_breakdown": {
+      "auto_supported": 54,
+      "review_supported": 1
+    },
+    "same_release_decisions": 2,
+    "cross_release_decisions": 0,
+    "cross_release_by_relationship": {},
+    "colorado_springs_pass": true,
+    "western_us_pass": true,
+    "d082_episodes": 5,
+    "linker_regression_pass": true,
+    "linker_failures": [],
+    "source_evolution": {
+      "hint_count": 12,
+      "by_kind": {
+        "later_media_for_prior_event": 5,
+        "reissued_source": 1,
+        "superseding_source": 1,
+        "same_release_media_for_event": 5
+      }
+    }
+  },
+  "gate": {
+    "fabricated_accepted_observed": 0,
+    "catalog_admin_inflation": 0,
+    "thin_caption_incidents": 0,
+    "truncation_loss": 0,
+    "unexplained_extract_zero": [],
+    "generic_location_auto_merges": 0,
+    "cross_date_auto_merges": 0,
+    "source_only_event_inflation": 0
+  },
+  "needs_review_count": 75,
+  "stage_a_runtime_seconds": 2703.1
+}

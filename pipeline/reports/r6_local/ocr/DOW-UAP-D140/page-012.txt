@@ -1,0 +1,34 @@
+UNCLASSIFIED/ /iiOR OiiiilCI OL lallili QPIL¥ 
+one-microsecond-long pulses one second apart. The required average power for each 
+FBAR band will now be 10 W. As a practical nanotechnology limit, the slice width can be 
+reduced by two orders of magnitude to 10 nm. This would also require that the row 
+displacements would be 110 pm (we are now into atomic if not sub-atomic dimensional 
+changes). The overall length could be reduced to about 2 cm or the ampl itude of the 
+HFGWs could be increased to A= 4.9x10 -26 . In this latter case the average energizing 
+microwave power applied to each band would need to be increased to 1 kW. A preferred 
+compromise in this apparent nano-technology limit might be to reduce the HFGWs 
+generator's length to about 20 cm and increase the HFGW amplitude A to 4x 10-27 m/m. 
+The complementary approach to optimizing a practical HFGW generator is to increase 
+the force produced by each element without increasing the required power (that is, 
+increasing element efficiency). This was initia lly done using the modern light-weight 
+piezoelectric FBARs rather than the heavy 10-gram crystals considered by Dehnen and 
+Romero-Borja that were of 1981 vintage. Special designs of FBAR-like elements for 
+optimum force-generation efficiency will improve the HFGW generator performance 
+beyond that for the usual cell-phone FBAR designs. Another approach to element design 
+is to utilize nano-size lasers whose targets are the force-generating elements (Li and Li, 
+2006). Utilization of myriads of nano-size lasers would generate high-frequency HFGW 
+pulses as noted in U. S. Patent Number 6,784,591. Thus there are a number of 
+opportunities to enhance HFGW generation performance, utilizing special element 
+designs, either by reducing the generator size or increasing the generated HFGW 
+ampl itude or both. 
+2.1.4 Infrared-Excited Molecules Approach 
+The very theoretical IR-generated HFGWs suggested by Woods and Baker (2009) have 
+significant promise. If one has a standing wave in a waveguide ring and excites it 
+properly, then one will have a GW source at its center, as shown in Figure 3. The GW 
+flux produced at its center is proportional to the n submicroscopic particle pairs (in this 
+case pentane molecule pairs) in each ring. There is no n2buildup, but there is an n 
+buildup. If one has a stack of N plates of rings, which are excited in sequence at light 
+speed as a generated, growing as a GW passes by, then one has an nN2 buildup in GW 
+flux. 
+UNCLASSIFIED/ /FOR OiiiilCl.t.k HSI!! eflti 
+7

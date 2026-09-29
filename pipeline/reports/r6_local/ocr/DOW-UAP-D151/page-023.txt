@@ -1,0 +1,48 @@
+UNCLASSIFIED/ /FOR OFFICl"L 891!! er~tY 
+Chapter 4: Studies in Command of Multiple Semi­
+Automated Vehicles 
+Another analogue to remotely commanding several spacecraft is piloting or supervising 
+operation of several unmanned ground or air vehicles (UGVs and UAVs). The primary 
+use of these scenarios is in military operations which imposed additional criteria on the 
+control system. Examples of several UAVs and their primary missions are shown in 
+Figure 6. Control of vehicles can be either in-theater, at a range of yards to 10's of 
+miles, or from a long-range command and control center, such as the Predator 
+reconnaissance in the Iraq or Afghan Theater executed from bases within the 
+continental United States. 
+In addition to single vehicle control systems, UAV swarms are being developed. In this 
+scenario a remote pilot executes a command to the swarm which communicates 
+amongst itself to establish, for example, an RF emitter target location. 44 In this type of 
+a control system the raw number of vehicles under one pilot's control can dramatically 
+increase, but the number of swarms then takes the place of the number of vehicles in 
+developing big picture cognitive limits. Such systems are also under development for 
+space exploration. 45 
+In 2005, the US Army was operating two tactical surveillance UAVs: the Hunter and its 
+newer replacement, the Shadow. Each UAV requires a team of two operators. Dixon 
+studied the workload of Hunter/Shadow operators and with the help of SMEs designed a 
+simulation to determine if augmentation systems could increase the number of aircraft 
+controlled per pilot from one-half to two. Pilots were responsible for mission completion 
+(reconnaissance of a command target area), locating targets of opportunity (TOO), and 
+on-board system monitoring. There were three levels of pilot aircraft control: baseline, 
+autoalert, and autopilot. In the first two conditions, operators controlled the flight of the 
+aircraft using a joystick to indicate direction; altitude and airspeed were help constant, 
+while a computer controlled the remaining flight parameters (pitch, bank, etc.). 
+Occasionally pilots needed to compensate for wind changes. In the autopilot condition, 
+operators entered the final coordinates of the next command target and the aircraft 
+proceeded in a straight line, compensating automatically for wind changes. 
+Pilots flew 10 straight flight legs. At the beginning of each leg, the command target was 
+identified and instructions on what to locate were given. If the pilot forgot the 
+instructions, they could hit a "repeat" button. At the end of each leg, high-workload 
+tasks of loitering and zoom/pan the onboard camera to visualize the entire command 
+target were executed. Along each leg between command targets, pilots were instructed 
+to search for TOOs. Primary task completion included locating all relevant information 
+about the command target. Secondary task completion included TOO identification and 
+monitoring for an on-board system failure. The autoalert condition detected system 
+failures and produced an audio alert when the command target was reached. 
+Results showed that the autoalert augmentation dramatically decreased the time to 
+locate system failures, as well as significantly decreasing the numbe r of requested 
+inst ructio n repeats. Also, the autopilot augmentation dramatically decreased both 
+flightpath deviation and the requested number of repeats, and also dramatically 
+increased the number of TOO detections. Results were similar for the single and dual 
+aircraft scenarios, though some performance, notably TOO detection (92% to 79%), did 
+UNCLASSIFIED/ /EOR OFFICiI.\k W&li 8Ptl¥ 
+18

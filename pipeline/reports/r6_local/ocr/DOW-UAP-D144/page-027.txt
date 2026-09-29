@@ -1,0 +1,42 @@
+UNCLASSIFIED/ ,'FOR OFFI@IAL WSE QptLY 
+Dwell and Reaction Time 
+It takes about 0.4 to 0.6 seconds of dwell time at a particular display to extract the 
+necessary quantitative informat ion and at least 0.125 to 0.2 seconds for a qualitative 
+recheck to reaffirm the reading has not significantly changed . In addition, the pilot 
+needs another 0.125 to 0.2 seconds to act on that information. 28 Taken together, this 
+creates a total response time of 0. 7 to 1.0 seconds between first looking at a display 
+and commanding the appropriate response. 
+As an aside, displays whose update rates exceed this dwell time cannot be accurately 
+read. This means that displays should be slowed down to the rate at which humans can 
+absorb their information, rough ly a half-second. 
+Tunnel Vision 
+While under stress, humans tend to narrow their visual attention, often fixating on a 
+single central display or task : the greater the stress, the greater the narrow ing. 
+Humans are obliv ious to this effect as it is happening. (As an aside, hypoxia - breathing 
+insufficient levels of oxygen-induces the same effect and can be used to simulate this 
+condition during train ing.) Periphera l vision is ignored, although some evidence 
+suggests that spatial peripheral cues are subconsciously retained. This tunnel vision 
+tendency cannot be prevented, but can be accommodated by providing the most critical 
+information on the central display in a natural symbolic format. 29 
+Forgetful Visual Scanning 
+Humans tend to lose track of when they last looked at a part icular area of information, 
+sometimes forgetting to recheck parameters when needed. 30 This is where automated 
+checklists can help, 31 as well as vehicle management systems that process the vehicle 's 
+situat ion and then recommend the best corrective measures . 
+Limiting Options 
+Humans tend to be able to retain only about 3 to 10 different items in short-term 
+memory. Some studies focus on seven items as the optimum. Thus, it is recommended 
+in quick-selection menus, or when designing hierarchical categorizat ions, to have no 
+more than four to seven items per level. For groupings of information that are not 
+needed during critical moments, these constraints can be relaxed, but with the added 
+consequence of requir ing significantly more browsing time. 
+Adaptive Display Errors 
+In computer displays having multip le layered windows, or where the display changes in 
+different situations, it is common that a user will lose track of how their current display 
+image relates to the whole system. 32 This problem is called "getting lost" or referred to 
+as a "keyhole" error. To prevent this error, it is best to simultaneously display some 
+schematic indicator of where the user is in the system. This requires a pictorial 
+representatio n of the relations of the system's operational windows . This situation is 
+consistent with the evidence that humans tend to rely on a physical model for where to 
+UNCLASSIFIED/fFOA: OFFICIO la Plili Oralla¥ 
+22

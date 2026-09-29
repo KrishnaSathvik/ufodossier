@@ -1,0 +1,535 @@
+{
+  "generated_at": "2026-09-25T22:19:04.493370+00:00",
+  "documents": [
+    {
+      "filename": "CIA-UAP-002.pdf",
+      "page_count": 42,
+      "usable_text_chars": 45430,
+      "native_good_pages": 4,
+      "native_thin_pages": 4,
+      "pages_ocrd": 34,
+      "ocr_succeeded": 32,
+      "ocr_failed": 2
+    },
+    {
+      "filename": "CIA-UAP-003.pdf",
+      "page_count": 406,
+      "usable_text_chars": 755596,
+      "native_good_pages": 50,
+      "native_thin_pages": 27,
+      "pages_ocrd": 329,
+      "ocr_succeeded": 327,
+      "ocr_failed": 2
+    },
+    {
+      "filename": "CIA-UAP-004.pdf",
+      "page_count": 1,
+      "usable_text_chars": 1797,
+      "native_good_pages": 0,
+      "native_thin_pages": 0,
+      "pages_ocrd": 1,
+      "ocr_succeeded": 1,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "CIA-UAP-005.pdf",
+      "page_count": 4,
+      "usable_text_chars": 12299,
+      "native_good_pages": 0,
+      "native_thin_pages": 0,
+      "pages_ocrd": 4,
+      "ocr_succeeded": 4,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "CIA-UAP-006.pdf",
+      "page_count": 2,
+      "usable_text_chars": 4822,
+      "native_good_pages": 2,
+      "native_thin_pages": 0,
+      "pages_ocrd": 0,
+      "ocr_succeeded": 0,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "CIA-UAP-007.pdf",
+      "page_count": 3,
+      "usable_text_chars": 7659,
+      "native_good_pages": 0,
+      "native_thin_pages": 1,
+      "pages_ocrd": 2,
+      "ocr_succeeded": 2,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "CIA-UAP-008.pdf",
+      "page_count": 2,
+      "usable_text_chars": 5003,
+      "native_good_pages": 0,
+      "native_thin_pages": 1,
+      "pages_ocrd": 1,
+      "ocr_succeeded": 1,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "CIA-UAP-009.pdf",
+      "page_count": 1,
+      "usable_text_chars": 126,
+      "native_good_pages": 0,
+      "native_thin_pages": 0,
+      "pages_ocrd": 0,
+      "ocr_succeeded": 0,
+      "ocr_failed": 1
+    },
+    {
+      "filename": "CIA-UAP-010.pdf",
+      "page_count": 2,
+      "usable_text_chars": 3896,
+      "native_good_pages": 0,
+      "native_thin_pages": 0,
+      "pages_ocrd": 2,
+      "ocr_succeeded": 2,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "CIA-UAP-011.pdf",
+      "page_count": 3,
+      "usable_text_chars": 4024,
+      "native_good_pages": 0,
+      "native_thin_pages": 0,
+      "pages_ocrd": 3,
+      "ocr_succeeded": 3,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "CIA-UAP-012.pdf",
+      "page_count": 2,
+      "usable_text_chars": 6609,
+      "native_good_pages": 0,
+      "native_thin_pages": 0,
+      "pages_ocrd": 2,
+      "ocr_succeeded": 2,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "CIA-UAP-013.pdf",
+      "page_count": 1,
+      "usable_text_chars": 2447,
+      "native_good_pages": 0,
+      "native_thin_pages": 0,
+      "pages_ocrd": 1,
+      "ocr_succeeded": 1,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "CIA-UAP-014.pdf",
+      "page_count": 2,
+      "usable_text_chars": 3677,
+      "native_good_pages": 0,
+      "native_thin_pages": 1,
+      "pages_ocrd": 1,
+      "ocr_succeeded": 1,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "CIA-UAP-015.pdf",
+      "page_count": 312,
+      "usable_text_chars": 425124,
+      "native_good_pages": 61,
+      "native_thin_pages": 49,
+      "pages_ocrd": 202,
+      "ocr_succeeded": 201,
+      "ocr_failed": 1
+    },
+    {
+      "filename": "CIA-UAP-016.pdf",
+      "page_count": 6,
+      "usable_text_chars": 5313,
+      "native_good_pages": 0,
+      "native_thin_pages": 0,
+      "pages_ocrd": 6,
+      "ocr_succeeded": 6,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "CIA-UAP-017.pdf",
+      "page_count": 3,
+      "usable_text_chars": 3840,
+      "native_good_pages": 2,
+      "native_thin_pages": 0,
+      "pages_ocrd": 1,
+      "ocr_succeeded": 1,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "CIA-UAP-018.pdf",
+      "page_count": 3,
+      "usable_text_chars": 3803,
+      "native_good_pages": 1,
+      "native_thin_pages": 0,
+      "pages_ocrd": 2,
+      "ocr_succeeded": 2,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "CIA-UAP-019.pdf",
+      "page_count": 19,
+      "usable_text_chars": 41218,
+      "native_good_pages": 0,
+      "native_thin_pages": 1,
+      "pages_ocrd": 18,
+      "ocr_succeeded": 18,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "DOW-UAP-D077.pdf",
+      "page_count": 4,
+      "usable_text_chars": 11500,
+      "native_good_pages": 4,
+      "native_thin_pages": 0,
+      "pages_ocrd": 0,
+      "ocr_succeeded": 0,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "DOW-UAP-D078.pdf",
+      "page_count": 1,
+      "usable_text_chars": 1105,
+      "native_good_pages": 1,
+      "native_thin_pages": 0,
+      "pages_ocrd": 0,
+      "ocr_succeeded": 0,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "DOW-UAP-D079.pdf",
+      "page_count": 2,
+      "usable_text_chars": 6373,
+      "native_good_pages": 2,
+      "native_thin_pages": 0,
+      "pages_ocrd": 0,
+      "ocr_succeeded": 0,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "DOW-UAP-D080.pdf",
+      "page_count": 8,
+      "usable_text_chars": 13670,
+      "native_good_pages": 5,
+      "native_thin_pages": 1,
+      "pages_ocrd": 2,
+      "ocr_succeeded": 2,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "DOW-UAP-D081.pdf",
+      "page_count": 2,
+      "usable_text_chars": 5657,
+      "native_good_pages": 2,
+      "native_thin_pages": 0,
+      "pages_ocrd": 0,
+      "ocr_succeeded": 0,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "DOW-UAP-D082.pdf",
+      "page_count": 3,
+      "usable_text_chars": 8166,
+      "native_good_pages": 3,
+      "native_thin_pages": 0,
+      "pages_ocrd": 0,
+      "ocr_succeeded": 0,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "DOW-UAP-D083.pdf",
+      "page_count": 5,
+      "usable_text_chars": 8983,
+      "native_good_pages": 4,
+      "native_thin_pages": 1,
+      "pages_ocrd": 0,
+      "ocr_succeeded": 0,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "DOW-UAP-D084.pdf",
+      "page_count": 25,
+      "usable_text_chars": 7876,
+      "native_good_pages": 1,
+      "native_thin_pages": 2,
+      "pages_ocrd": 22,
+      "ocr_succeeded": 7,
+      "ocr_failed": 15
+    },
+    {
+      "filename": "DOW-UAP-D085.pdf",
+      "page_count": 7,
+      "usable_text_chars": 169,
+      "native_good_pages": 0,
+      "native_thin_pages": 0,
+      "pages_ocrd": 7,
+      "ocr_succeeded": 2,
+      "ocr_failed": 5
+    },
+    {
+      "filename": "DOW-UAP-D086.pdf",
+      "page_count": 3,
+      "usable_text_chars": 212,
+      "native_good_pages": 0,
+      "native_thin_pages": 0,
+      "pages_ocrd": 3,
+      "ocr_succeeded": 3,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "DOW-UAP-D087.pdf",
+      "page_count": 253,
+      "usable_text_chars": 127372,
+      "native_good_pages": 3,
+      "native_thin_pages": 11,
+      "pages_ocrd": 239,
+      "ocr_succeeded": 211,
+      "ocr_failed": 28
+    },
+    {
+      "filename": "DOW-UAP-D088.pdf",
+      "page_count": 210,
+      "usable_text_chars": 175301,
+      "native_good_pages": 23,
+      "native_thin_pages": 14,
+      "pages_ocrd": 173,
+      "ocr_succeeded": 161,
+      "ocr_failed": 12
+    },
+    {
+      "filename": "FBI-UAP-D001.pdf",
+      "page_count": 2,
+      "usable_text_chars": 3398,
+      "native_good_pages": 1,
+      "native_thin_pages": 0,
+      "pages_ocrd": 1,
+      "ocr_succeeded": 1,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "FBI-UAP-D002.pdf",
+      "page_count": 2,
+      "usable_text_chars": 2175,
+      "native_good_pages": 1,
+      "native_thin_pages": 0,
+      "pages_ocrd": 1,
+      "ocr_succeeded": 1,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "FBI-UAP-D003.pdf",
+      "page_count": 1,
+      "usable_text_chars": 93,
+      "native_good_pages": 0,
+      "native_thin_pages": 0,
+      "pages_ocrd": 1,
+      "ocr_succeeded": 1,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "FBI-UAP-D004.pdf",
+      "page_count": 3,
+      "usable_text_chars": 3420,
+      "native_good_pages": 2,
+      "native_thin_pages": 0,
+      "pages_ocrd": 1,
+      "ocr_succeeded": 1,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "FBI-UAP-D005.pdf",
+      "page_count": 3,
+      "usable_text_chars": 3409,
+      "native_good_pages": 2,
+      "native_thin_pages": 0,
+      "pages_ocrd": 1,
+      "ocr_succeeded": 1,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "FBI-UAP-D006.pdf",
+      "page_count": 3,
+      "usable_text_chars": 2650,
+      "native_good_pages": 1,
+      "native_thin_pages": 1,
+      "pages_ocrd": 1,
+      "ocr_succeeded": 1,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "FBI-UAP-D007.pdf",
+      "page_count": 4,
+      "usable_text_chars": 3922,
+      "native_good_pages": 3,
+      "native_thin_pages": 1,
+      "pages_ocrd": 0,
+      "ocr_succeeded": 0,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "FBI-UAP-D008.pdf",
+      "page_count": 2,
+      "usable_text_chars": 2383,
+      "native_good_pages": 1,
+      "native_thin_pages": 0,
+      "pages_ocrd": 1,
+      "ocr_succeeded": 1,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "FBI-UAP-D009.pdf",
+      "page_count": 2,
+      "usable_text_chars": 3216,
+      "native_good_pages": 1,
+      "native_thin_pages": 0,
+      "pages_ocrd": 1,
+      "ocr_succeeded": 1,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "FBI-UAP-D010.pdf",
+      "page_count": 2,
+      "usable_text_chars": 2599,
+      "native_good_pages": 1,
+      "native_thin_pages": 1,
+      "pages_ocrd": 0,
+      "ocr_succeeded": 0,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "FBI-UAP-D011.pdf",
+      "page_count": 4,
+      "usable_text_chars": 2914,
+      "native_good_pages": 0,
+      "native_thin_pages": 1,
+      "pages_ocrd": 3,
+      "ocr_succeeded": 3,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "FBI-UAP-D012.pdf",
+      "page_count": 66,
+      "usable_text_chars": 121760,
+      "native_good_pages": 12,
+      "native_thin_pages": 4,
+      "pages_ocrd": 50,
+      "ocr_succeeded": 40,
+      "ocr_failed": 10
+    },
+    {
+      "filename": "FBI-UAP-D013.pdf",
+      "page_count": 55,
+      "usable_text_chars": 51666,
+      "native_good_pages": 0,
+      "native_thin_pages": 1,
+      "pages_ocrd": 54,
+      "ocr_succeeded": 51,
+      "ocr_failed": 3
+    },
+    {
+      "filename": "ICA-UAP-D001.pdf",
+      "page_count": 4,
+      "usable_text_chars": 3768,
+      "native_good_pages": 3,
+      "native_thin_pages": 0,
+      "pages_ocrd": 1,
+      "ocr_succeeded": 1,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "NASA-UAP-D015.pdf",
+      "page_count": 216,
+      "usable_text_chars": 314570,
+      "native_good_pages": 131,
+      "native_thin_pages": 11,
+      "pages_ocrd": 74,
+      "ocr_succeeded": 72,
+      "ocr_failed": 2
+    },
+    {
+      "filename": "NASA-UAP-D016.pdf",
+      "page_count": 340,
+      "usable_text_chars": 372075,
+      "native_good_pages": 225,
+      "native_thin_pages": 20,
+      "pages_ocrd": 95,
+      "ocr_succeeded": 88,
+      "ocr_failed": 7
+    },
+    {
+      "filename": "NASA-UAP-D017.pdf",
+      "page_count": 290,
+      "usable_text_chars": 318464,
+      "native_good_pages": 215,
+      "native_thin_pages": 6,
+      "pages_ocrd": 69,
+      "ocr_succeeded": 65,
+      "ocr_failed": 4
+    },
+    {
+      "filename": "NASA-UAP-D018.pdf",
+      "page_count": 224,
+      "usable_text_chars": 193689,
+      "native_good_pages": 38,
+      "native_thin_pages": 11,
+      "pages_ocrd": 175,
+      "ocr_succeeded": 134,
+      "ocr_failed": 41
+    },
+    {
+      "filename": "NASA-UAP-D019.pdf",
+      "page_count": 223,
+      "usable_text_chars": 236926,
+      "native_good_pages": 185,
+      "native_thin_pages": 4,
+      "pages_ocrd": 32,
+      "ocr_succeeded": 30,
+      "ocr_failed": 4
+    },
+    {
+      "filename": "NASA-UAP-D020.pdf",
+      "page_count": 325,
+      "usable_text_chars": 364392,
+      "native_good_pages": 256,
+      "native_thin_pages": 3,
+      "pages_ocrd": 66,
+      "ocr_succeeded": 66,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "NASA-UAP-D021.pdf",
+      "page_count": 222,
+      "usable_text_chars": 263361,
+      "native_good_pages": 159,
+      "native_thin_pages": 2,
+      "pages_ocrd": 61,
+      "ocr_succeeded": 57,
+      "ocr_failed": 4
+    },
+    {
+      "filename": "NASA-UAP-D022.pdf",
+      "page_count": 78,
+      "usable_text_chars": 77380,
+      "native_good_pages": 20,
+      "native_thin_pages": 1,
+      "pages_ocrd": 57,
+      "ocr_succeeded": 49,
+      "ocr_failed": 8
+    },
+    {
+      "filename": "USG-UAP-D001.pdf",
+      "page_count": 86,
+      "usable_text_chars": 153980,
+      "native_good_pages": 45,
+      "native_thin_pages": 12,
+      "pages_ocrd": 29,
+      "ocr_succeeded": 29,
+      "ocr_failed": 0
+    }
+  ]
+}

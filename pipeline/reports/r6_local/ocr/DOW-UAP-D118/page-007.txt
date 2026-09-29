@@ -1,0 +1,26 @@
+UNCLASSIFIED//f8R 8FFHilAI: Wli& (Ulkl/ 
+can exert precise control over their optical, electrical, thermal, and magnetic properties 
+rather than simply selecting these properties from the limited catalog nature has 
+provided. 
+Barrier 
+Figure 2. Quantum Dot. A quantum dot confines electrons in a very small vol ume of space, forcing the m to 
+behave as standing waves. Their structure t hus resembles the electron clouds or "orbitals" of an atom. 
+Second, it is possible to pump electrons in and out of a quantum dot using electric 
+fields. Thus, instead of a single designer material, it is possible to create a 
+programmable material whose "atoms" can be changed on demand, allowing a bounded 
+but infin ite variety of material properties that can be summoned or dismissed at will. 
+.......!.!.... 
+:::r: 
+Confined 
+___,,___ Electrons 
+Figure 3. Programmable Materials. Various structures use electr ic fields to vary the confinement properties of 
+quantum dots and can be assembled into bulk materials. 
+PHOTONICS AND METAMATERIALS 
+"Sub-wavelength" features are objects implanted on or embedded in a transparent 
+material that are larger than atoms or molecules but smaller than a wavelength of light. 
+They can have significant effects on the optical proper ties of the material, since they 
+change the way it responds to electric and magnetic fields. However, because they are 
+too small to be "seen" by the photons interacting with them, they do not directly block 
+the passage of light. The result is a transparent material whose optical properties 
+UNCLASSIFIED/ /F&R &FFi&iAk W&& &•lk\f 
+3

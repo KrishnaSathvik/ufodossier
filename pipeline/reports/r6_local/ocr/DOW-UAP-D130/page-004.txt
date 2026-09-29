@@ -1,0 +1,21 @@
+UNCLASSIFIED/ ,'FOR: 8ffl@IJllt t:191!! l>flt I 
+Conclusions .......................................................................................................... 27 
+Figures 
+Figure 1. Simplified Rendering of a Neuron ............................................................ 1 
+Figure 4. Experimental Overview of Brain-Controlled Robot in a Closed Loop 
+Figure 9. Image Distortion and Custom Microwire Electrode Assembly to 
+Figure 11. T2 Value Analysis Summary of T2 Values in All the Image Slices That 
+Figure 2. The General Layout of a Closed-Loop Control Interface ........................... 5 
+Figure 3. Two Commercially Available EEG Sensors ................................................ 8 
+With Visual Feedback Experiment ......................................................... 13 
+Figure s. Schematic of the Neurochip Functional Blocks ...................................... 15 
+Figure 6. Implant Location ................................................................................... 16 
+Figure 7. Histology and Electrode Tracks ............................................................. 17 
+Figure 8. The Michigan Electrodes ........................................................................ 18 
+Improve It............................................................................................. 19 
+Figure 10. Example of T2 Variability ..................................................................... 19 
+Spanned the Electrode Arrays in All Animals ....................................... 20 
+Figure 12. A Hybrid Neuro-Robotic System .......................................................... 21 
+Figure 13. Experimental Arrangements ................................................................ 21 
+UNCLASSIFIED/ /FOil Offl@IJllL YSIE 8Htlf 
+iv

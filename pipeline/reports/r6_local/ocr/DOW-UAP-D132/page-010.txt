@@ -1,0 +1,35 @@
+UNCLASSIFIED/ /Pelt err1e1J11t l!ISl!!! 8HL'I 
+From a viewpoint exterior to the region, however, from the above one finds that the 
+remotely observed coordinate ratio measurement yields a different value 
+(7) 
+Therefore, although a local measurement with physical rods and clocks yields c, an 
+observer in an exterior reference frame remote from the mass speaks of light "slowing 
+down" on a radial approach to the mass owing to the ratio.Jg 00 /-g I 1 < 1. Conversely, 
+under (metric engineering) conditions for which .Jg00 /-g 11 > 1, the velocity of light-and 
+exotic-technology craft velocities that obey similar formulas-would appear 
+superluminal in the exterior frame. This gives our fifth entry for the table of physical 
+effects. 
+Refractive Index Modeling 
+Given that velocity-of-light effects in a spacetime-altered region, as viewed from an 
+external frame, are governed by Equation (7), it is seen that the effect of spacetime 
+alteration on light propagation can be expressed in terms of an optical refractive index 
+n, defined by 
+(8) 
+where n is an effective refractive index of the (spacetime-altered) vacuum. This widely 
+known result has resu lted in the development of refractive index models for GR 
+(References 14-17) that have found application in problems such as gravitational 
+lensing (Reference 18). The estimated electric or magnetic field strengths required to 
+generate a given refractive index change given by standard GR theory (the Levi-Civita 
+Effect) can be found in (Reference 19). 
+In engineering terms, the velocity of light c is given by the expression c = 1/.Jµ 0c0 , 
+where µ0 and &0 are the magnetic permeability and dielectric permittivity of undistorted 
+vacuum space (µ0 = 4Jr x10-7 H/m and &0 = 8.854x l0-12 F/m) . The generation of an 
+effective refractive index n = .j- g11/ g00 =t:- I by technological means can from an 
+engineering viewpoint be interpreted as manipulation of the vacuum parameters µ 0 and 
+&0. In GR theory, such variations in µ0, &0 and hence the velocity of light, c, are often 
+treated in terms of a "THsµ" formalism used in comparative studies of gravitational 
+theories (Reference 20). 
+As discussed below, a number of striking effects can be anticipated in certain 
+engineered spacetime regions. 
+UNCLASSIFIED/ /FOR OFFI@IAI: WSE OHl:l/ 
+5

@@ -1,0 +1,31 @@
+52 L 
+Cooper 
+Conrad 
+FCSD REP 
+Cooper 
+Conrad 
+Cooper 
+Conrad 
+l ight blinks Green/OFF , Green/OFF . 
+Lock on light will blink on and it will come out R and 
+R dot will go from peg to peg . And they 'll settle out 
+when it really is warmed up good and you ' ve gotten past 
+the transient periods and they ' ll all come back to zero . 
+I think what they ' re looking for are clues to tell you 
+that the set is warming up correc t ly. Ba.ck in the 
+early days of TACAN we had warmup prob lems. 
+In other words , this would be your firnt indicati on if 
+something was wrong? 
+Purge Section . One and Two. 
+Well , we got our first load, this 6-4 load . The first 
+load that came up over the DCS sys tem and it came up right 
+over the Cape. 
+Purg e Section . One and Two . Got that? 
+Yes, no . Yes. That ' s when we were getting rushed . Let ' s 
+go back to that . Let ' s stop right there . The REP was 
+supposed to go out at 02 :07 and I purg·ed early and I 
+always had been purging early because I purged it about 
+1+50 and then I went through the chec k off list and they 
+were all checked off here . I powered up at 1+50, I 
+purged the fuel cells and here I chec ked them off here . 
+. . . prop gauge experiments and the RAD 1 on and the cold

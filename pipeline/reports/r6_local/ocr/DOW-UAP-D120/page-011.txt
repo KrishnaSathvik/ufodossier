@@ -1,0 +1,51 @@
+UNCLASSIFIED// POI': OPPlelAL l:ISE 8PtLY 
+not technology dependent but are cost intensive, no matter what technology is 
+employed to meet the requirements. 
+An additional characteristic of PMC structures-one related to the laminated 
+construction of components made by hand layup or automated tow placement 
+methods-is their susceptibility to formation of delaminations when impacted 
+perpendicular to the plane of the plies. This is due to the mismatch in bending stiffness 
+between adjacent plies that have different unidirectional fiber orientations. This 
+mismatch causes shear stresses to develop that can exceed the shear strength of the 
+interlaminate bonds, causing small, embedded cracks to form. Under subsequent 
+inplane compression loading, the laminates bow because of the Poisson stresses and 
+separate because of the lack of an interlaminar bond to hold them together. In 
+significant compression loads, the laminates buckle, and this leads to structural failure. 
+This phenomenon, called compression after impact, is an insidious failure mode because 
+the delaminations are not externally detectable unless ultrasonic inspection methods 
+are used. Sources of such an impact include dropped tools, foreign objects (for 
+example, meteorites), and, perhaps most commonly, hail storms. Ultrasonic inspection, 
+if required, is expensive and time consuming. The latter concern in turn affects vehicle 
+availability and turnaround time. PMC parts made using RTM typically have reinforcing 
+fibers in the through-thickness direction, so concerns about compression after impact 
+are minimal. 
+The maximum temperature at which PMCs can be used is limited by PMCs' susceptibility 
+to oxygen degradation of the polymeric matrix. The maximum-use temperature for 
+prolonged exposure is determined by the thermal oxidative stabil ity (TOS) of a 
+particular resin. The TOS, like any chemical reaction, is determined by both time and 
+temperature . The glass transition temperature (T9) of the polymeric matrix also 
+imposes strength and dimensional stability limitations independent of the TOS lim its. 
+This is particularly true for thermoplastics. However, the TOS limits usually impose 
+lower temperature limits than T9 if prolonged thermal exposure is contemplated. Three 
+distinct classes or groups of resins exist, each with a successively higher temperature 
+capability. These are conventional epoxies and most thermal plastics, bismaleimides 
+(BMis), and linear polyimides. The first class is limited by TOS to about 125° Celsius. 
+BMis can be used to about 175° Celsius. Linear polyimides, such as the in situ 
+polymerization of monomer reactants (PMR) group of thermosetting formulations, can 
+be used to about 300° Celsius. Many of the PMR resins contain the hazardous 
+compound methylenedianiline, which requires special care during use, including 
+protect ive clothing to limit personnel exposure (for example, during ply cutting and 
+hand layup). This requirement reduces productivity, adds cost, and creates a degree of 
+liability concern for the manufacturer of the PMC components. For RTM, the BMis and 
+PMR resins typically have higher viscosity and require commensurately higher injection 
+temperatures to reduce the viscosity to manageable levels for reasons discussed 
+earlier. New resins are constantly being developed, including some with attractive 
+properties. However, many of the sources of these resins are startup companies that 
+exist on R&D fund ing, often in the form of U.S. government SBIR (Small Business 
+Innovative Research) projects. Such companies are good at innovation but often have 
+lim ited experience transitioning new products from the laboratory to large -scale 
+production. Furthermore, in the current economic climate, access to suff icient capital to 
+set up production-scale capacity can be a form idable problem for a small company. 
+Larger companies (for example, BASF, DuPont, GE Plastics) typically are not in terested 
+6 
+UNCLASSIFIED/ .{FOR OFFICilAL l:ISE 8HLY

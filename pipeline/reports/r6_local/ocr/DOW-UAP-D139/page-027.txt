@@ -1,0 +1,47 @@
+UNCLASSIFIED/ fFOA OFFI&il.t..k Y&& 8Ptk\f 
+It turns out that there are many different types of Casimir effects found in quantum 
+field theory (Reference 22-24, 28, 55). For example, if one introduces a single infinite 
+plane conductor into the Minkowski (flat spacetime) vacuum by bringing it adiabatically 
+from infinity so that whatever quantum fields are present suffer no excitation but 
+remain in their ground states, then the vacuum (electromagnetic) stresses induced by 
+the presence of the infinite plane conductor produces a Casimir effect. This result holds 
+equally well when two parallel plane conductors (with separation distance d) are 
+present, which gives rise to the familiar Casimir effect inside a cavity. Note that in both 
+cases, the spacetime manifold is made incomplete by the introduction of the plane 
+conductor boundary condition(s). The vacuum region put under stress by the presence 
+of the plane conductor(s) is called the Casimir vacuum. The generic expression for the 
+energy density of the Casimir effect is pcE = -A(ric)a4, where A= (,(D)/8rr.2 in spacetimes 
+of arbitrary dimension D (Reference 22-24). The appearance of the zeta-function (,(D) 
+is characteristic of expressions for vacuum stress-energy tensors, r::,;.In our familiar 
+four-dimensional spacetime (D = 4), A= rc2/720. To calculate r,:; for a given quantum 
+field is to calculate its associated Casimir effect. 
+Analogs of the Casimir effect also exist for fields other than the electromagnetic field. 
+When considering the vacuum state of other fields, one must consider boundary 
+conditions that are analogous to the perfect-conductor boundary conditions for the 
+electromagnetic field at the surfaces of the plates (Reference 22-24, 28). Other fields 
+are not electromagnetic in nature, that is to say they are non-Maxwellian, and so the 
+perfect-conductor boundary conditions do not apply to them. It turns out that complete 
+manifolds exhibit what is called the topological Casimir effect for any non-Maxwellian 
+fields. In order to define boundary conditions for other fields the conductor boundary 
+conditions are replaced and Minkowski spacetime by a manifold of the form 9t x r (i.e., 
+a product space), where 9t is the real line defining the time dimension for this particular 
+product space and r is a flat three-dimensional manifold having any one of the 
+following topologies: 912 x S1, 9~ x T2, T3, 9t x K2, etc., 9t being the real line that defines 
+any linear space dimension (e.g., 9t = line, 9t2 = two-dimensional plane, etc.), T" being 
+the n-torus, K2 the two-dimensional Klein bottle, S1 the circle, etc. 
+The case r = 9\2 x S1 has the closest resemblance to the electromagnetic Casimir effect, 
+the difference being that instead of imposing conductor boundary conditions, one 
+imposes periodic boundary conditions on some of the space coordinates in the three­
+dimensional manifold. When imposing this topological constraint on the field theoretic 
+calculation of the topological Casimir effect (for linear massless fields), one finds that 
+the generic expression for the energy density is also pcE = - A(11c)a4, where 
+A= ±dr (rr.2/90), dr is the number of degrees of freedom (e.g., helicity states) per spatial 
+point, the plus sign holds for boson fields (giving a negative energy density) and the 
+negative sign for fermion fields (giving a positive energy density). 
+If one were to admit spin structure in the manifolds described above and the field is 
+spinorial, then there is another important subtlety that must be taken into account 
+when evaluating r::,; . However, this introduces an additional complexity involving the 
+relationship between the spin structure and the global structure (i.e., the configuration 
+space or fibre bundle) of the field in question whereby the topology not only of the base 
+UNCLASSIFIEQ { {FOR OFFICIAL W&& 8HLY 
+19

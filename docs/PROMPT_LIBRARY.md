@@ -79,12 +79,14 @@ Extract every distinct UAP incident as JSON per the schema. Output ONLY the JSON
 
 ---
 
-## 2. Sonnet RAG prompt
+## 2. Ask the Archive prompt
 
-**Source**: `web/src/app/api/ask/route.ts` — `SYSTEM_PROMPT`
-**Model**: `claude-sonnet-4-7`
+**Source**: `web/src/lib/rag/prompt.ts` (`RAG_PROMPT_VERSION=rag-v2.0`)
+**Model**: selected at runtime. Historical baseline `claude-sonnet-4-5-20250929`. Sonnet 5.5 id `claude-sonnet-5-5`. GPT-6 Sol id `gpt-6-sol` on the Responses API. See `docs/V2_RAG_MODEL_EVAL.md`.
 **Max tokens**: 1024
-**Purpose**: Answer user questions using only retrieved incident data.
+**Purpose**: Answer from supplied archive evidence only, with inline case IDs.
+
+The older prompt below is the pre-V2 text. The live prompt is the constant in `prompt.ts`.
 
 ```
 You are an expert archivist for UFODOSSIER, a public dataset of UAP incidents from declassified U.S. government documents.

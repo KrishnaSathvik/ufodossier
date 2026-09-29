@@ -1,0 +1,32 @@
+UNCLASSIFIED/; FOR OFFICl"L U.!I! er•tY 
+The Mars reference mission 53 , 54 considered payload masses of 60,000 kg for 2015 
+missions. This can be reduced to 45,000 kg assuming technological advances by 2031 
+with a complete interplanetary spacecraft mass of 90,000 kg. 
+In summary, the mission scenario for a positron spacecraft is similar to that for existing 
+studies, but with the use of less costly launch vehicles. Every 778 days, two 45,000-kg 
+payloads are launched from Earth using a Saturn V or equivalent chemical rocket. One 
+payload is the unmanned system or manned crew lander sent to Mars; the other 
+contains the positron propulsion system and the propellant tank. They are assembled as 
+a complete unit in LEO. 
+Unmanned systems are launched in advance of the crewed system in order to ensure 
+that the Martian habitat is well established. The crew arrives at Mars in late 2033, 
+performs research for 1 year, and then returns home in a smaller positron spacecraft 
+using a shorter trajectory. Artists' renditions of two possible positron spaceships 
+previously described in this study are shown in Figure 17. 
+(a) (b) 
+Figure 17. Spacecraft Using Positron Engines. (a) Solid-core system enters Mars orbit; (b) Modified Sanger 
+photon rocket system burns for landing on Mars (courtesy Positronics Research LLC).55 
+Architectures for Mars exploration using a positron SSRV are summarized below: 
+• Before humans leave for Mars on initial flights, cargo ships precede them to Mars on 
+low-energy trajectories to take the components of a Mars space station (MSS) and 
+necessary supplies, includi ng a Mars surface lander (MSL). The MSS will be similar 
+to an Earth space station (ESS). The cargo ships will utilize positron rocket engines. 
+• Manned positron SSRVs launched from Earth rendezvous in LEO with the ESS. The 
+SSRV is a horizontal-takeoff, horizontal-landing winged-body, manned vehicle in 
+which the first stages of flight use air-breathing engines with positrons heating the 
+air. It switches to the rocket engine to complete the final ascent phase to LEO. 
+• Once ready for interplanetary flights at the ESS, including refueling, the SSRV flies 
+to Mars on a fast, high-energy trajectory, carrying a crew of five or six astronauts 
+and powered by positron rocket engines. The SSRV conducts a rendezvous with the 
+UNCLASSIFIED/ /FAA: AfiEICllL. Uiliii 0,.111¥ 
+21

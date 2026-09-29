@@ -1,0 +1,14 @@
+UNCLASSIFIED11FOR. 8FFl@IAL tt.!! e"t I 
+leading alternative candidates for asymmetric ultracaps. Using a pseudocapacitive 
+design will most likely not be able to deliver the cycle life of a symmetric ultracap, but it 
+may be possible to achieve tens of thousands of cycles out of a battery-like electrode. 
+Better capacitance and higher operating voltage of the asymmetric electrode design 
+allow ultracapacitors to begin approaching batteries in terms of energy density. 
+Additional ultracapacitor improvements will come from materials and cell design. Cell 
+design factors include optimizat ion and assembly techniques. Thinner electrodes and 
+current collectors will be one of the primary paths for better performance. Electrolytes 
+that provide cell voltages of at least 3 volts will be standard. Improvements such as 
+these will likely lead to improvements in commercially available ultracaps from 4 Wh/kg 
+to 5-6 Wh/kg. 21 
+UNCLASSIFIEO/;LFOA OFFI&il:.l.b YS& OrtLY 
+12

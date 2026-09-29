@@ -1,0 +1,44 @@
+UNCLASSIFIED/ /POiit OPPICIIIIL ~SE e•n:Y 
+In summary, quantum field theory predicts that the vacuum is an interlaced cobweb of 
+quantum fields which are never strictly at rest, and which exhibit zero-point 
+fluctuations. These fluctuations give rise to real and measurable phenomenon, with the 
+Casimir effect being the most poignant. It seems only natural to attempt to relate the 
+ideas from the previous section regarding a ubiquitous dark energy field to this 
+quantum vacuum energy. If a relationship can be established, one would be a step 
+closer to the technological realization of warp drive. 
+5. Extra Space Dimensions 
+In connection with the Casimir effect, extra dimensions provide a rich arena for one to 
+generate models that explain the origin of dark energy. Technically speaking, the 
+Casimir effect is a direct consequence of the non-trivial boundary conditions that the 
+presence of the conducting plates imposes upon the quantum vacuum. The quantum 
+modes on the interior region of the plates are restr icted, and there is a pressure 
+difference when compared to the quantum vacuum on the exterior region of the plates. 
+It is this pressure difference that causes the plates to attract. 7 
+A very similar phenomenon to the Casimir effect can occur when the quantum vacuum 
+energy in extra space dimensions are considered. The exploration of this idea has 
+important ramifications in the context of explaining dark energy. Before one can 
+address these ideas it is necessary to review the role of higher space dimensions in 
+physics. 
+It was Riemann, with his development of differential geometry in the 19th century, who 
+provided the necessary tools to study higher dimensional descriptions of the world 
+(Reference 26). Riemann held the belief that 3-dimensional space was not enough to 
+provide an adequate description of nature. Improvements in physics led to Maxwell's 
+unified theory of electricity and magnetism, and then GR, which unified space and time 
+with Special Relativity (SR). Inspired by these unifications, physicists of the early 20th 
+century wanted to unify gravity and electromagnetism. The first attempt was by 
+Nordstrom in 1914, who used a scalar potential for the gravitational field. Later Weyl 
+and Kaluza, using Einstein's tensor potential, followed two separate paths. Weyl's 
+attempt involved an alteration of the geometry of spacetime in four dimensions. His 
+early attempts had physical consequences which did not match experimental data. 
+However, Weyl's work was extended by Einstein and Schrodinger independently in the 
+Einstein-Schrodinger non-symmetric field theory, which is widely regarded as the most 
+advanced unified field theory based on classical physics. 
+5.1 KALUZA - KLEIN THEORY 
+In 1919 Kaluza (Reference 27) offered a unique approach to unify ing gravity and 
+electromagnetism which involved adding an additional spatial dimension to GR, and 
+populat ing this extra dimension with two mathematical objects called a vector potential 
+A1i and a scalar potential </J. The line element in this theory is given by: 
+7 This analogy Is not strictly true as different geometries can, in fact, create repulsive Casimir forces and so the 
+pressure analogy breaks down. It is, however, a useful visualization tool. 
+UNCLASSIFIED//FOR: OFFIGl,1L W&lii &•ILY 
+8

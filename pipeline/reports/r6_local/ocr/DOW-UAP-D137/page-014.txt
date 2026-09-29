@@ -1,0 +1,15 @@
+UNCLASSIFIED/ f FOA OFFl&I.t .k YSE &P•t v 
+Pointing Telescope 
+single mode lasers 
+Figu re 6. I ncoherent Combination of Single Mode Laser s at the Ta rget 
+Pointing Telescope 
+'------r---' 
+Single mode 
+lasers 
+Figure 7. Incoherent Combination of Single Mode Lasers in a Fiber Combiner 
+This larger fiber does not maintain the beam quality of the individual laser beams and 
+results in performance roughly equivalent to separately focusing the beams onto a 
+single spot. For example, seven individual fibers have been combined into a larger fiber 
+to produce a single beam with a beam quality of about 6 times the diffraction limit and 
+UNCLASSIFIED/ fFOA OFFI&I.t.k YSE 8,.L\f 
+9

@@ -1,0 +1,40 @@
+UNCLASSIFIED/ /P'OR: OP'Pl@IAL WS& 0NI.¥ 
+Thus the trend has been to employ 
+MEMS technology to reduce the size of 
+the cant ilever beams to microscopic 
+proportions. In such cases, even the 
+mass of cells or virus particles can be 
+measured. Figure 35 shows a 
+microcant ilever system that is on the 
+order of one micron in widt h and 10 
+microns in length. This cantilever beam 
+was used as a mass detector , with 
+sensit ivity to a single vaccinia virus 
+partic le (vaccinia virus forms the basis of 
+the smallpox vaccine). 
+Biomolecular sensors with the ability to 
+"multiplex," or to detect a large number 
+of different molecular species at the 
+same time, are being developed for 
+cancer diagnostics and therapy 
+monitoring. 
+The secret to good performance is finding a coating that has a high sensitivity for a 
+specific material of interest. Antibodies are often used as coatings since they can be 
+tailored to bind to many different molecules. Even so, there are olten problems of 
+antibody shelf-life and they are not perfectly specific and so experience interference 
+from other chemicals in the test sample. 
+Figure 36 illustrates the affinity coating. Antibodies for different proteins are coated 
+onto different micro-cantilever beams, making each beam a sensor. 
+b 
+r
+Tumour biomarker 
+proteins 
+0 
+Figure 35. Scanning Electron Micrograph Showing a 
+Cantilever Beam With a Single Vaccinia Virus 
+Particle 
+Anti ody 
+Figure 36. Antibodies Attached to a Cantilever Array Create Different Specificities to Substances in 
+Blood That are Indicative of Cancer 
+UNCLASSIFIED/ (EAR OFFICIO! !Pfli 0111.¥ 
+38

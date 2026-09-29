@@ -1,0 +1,43 @@
+UNCLASSIFIED/;'POR: OPPICIAE USE 014Lf 
+In order to launch a laser-propelled Lightcraft nanosat or picosat from the ground, sea, 
+or air, it will be necessary to control and steer the high-energy laser (HEL) beam, while 
+at the same time making real-time adjustments to account for platform motion, optical 
+train and atmospheric effects on beam propagation, so that the beam maintains high 
+quality, low-loss, precision contact with the Lightcraft from launch all the way up to 
+LEO. While the atmospheric effects on laser beam propagation were briefly discussed 
+in the Lightcraft Nanosatellite Configuration section of Chapter 2, a more in-depth 
+examination of this phenomenon can be found in Reference 32. In what follows, we 
+briefly discuss what a HEL beam control system is designed to do and what innovations 
+were recently developed by the various DoD directed energy weapons programs that 
+are just now being successfully tested and deployed. 
+A beam control system is designed to:t t 
+• Acquire and precisely track a designated target. 
+• Handles the HEL beam emitted from the laser: 
+- Aligns the HEL beam to the optical train's axis - from the laser resonator to the 
+beam director's exit aperture. 
+- Safely relays the HEL beam through the optical train with minimal loss of 
+energy and beam quality. 
+• Expands the HEL beam and focuses it at the range of the target. 
+• Places and maintains the HEL beam on the desired target's aimpoint. 
+• Corrects for beam quality degradations in the optical train or the atmosphere (if 
+needed). 
+HEL weapons usually have high-power optical trains containing more than a dozen 
+mirrors. However, these systems need to be far more compact with minimal high­
+power trains. As directed energy weapon applications begin to employ smaller HEL 
+systems, the size, weight and complexity of the accompanying beam control system 
+has come down as well. The typical HEL beam control system includes: ** 1) a gimbaled 
+beam director, 2) tracking and pointing functions, 3) adaptive optics, 4) acquisition 
+sensors, and 5) target illuminators. Solutions have been recently developed to drive 
+towards a smaller, lighter and simpler beam control system while considering the entire 
+end-to-end system architecture. Existing beam control solutions are robust but large 
+and complex. The technical strides achieved in the past 20 years in wavefront sensing, 
+aperture sharing elements, beam tracking and beam correcting provide new tools to 
+offer a simplified low mirror count beam control system while retaining the ruggedness 
+of function necessary for a laser weapon. 
+Figure 33 and Figure 34 show schematics of a notional inertially-stabilized 
+pointer/tracker mount and beam control system that was developed by NAVSEA's 
+DE&EWS Program. 
+ttD. Kiel, Directed Energy Systems Symposium Short Course, Naval Post-Graduate School, Monterey, CA, 2010. 
+**D. Kiel, Directed Energy Systems Symposium Short Course, Naval Post-Graduate School, Monterey, CA, 2010 . 
+UNCLASSIFIED'I i'FAA: 061i1Clali.k W&& 8PtLY 
+63

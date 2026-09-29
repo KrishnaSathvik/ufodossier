@@ -1,0 +1,26 @@
+UNCLASSIFIED/ j FOR OFFICIAL O!JE OIILT 
+Aerospace Applications of Programmable Matter 
+Introduction 
+For the owners of a $100 million satellite-a TV broadcast satellite, for 
+example-avoiding bankruptcy often depends on the spacecraft's continued 
+good health until its scheduled replacement is in orbit. Unfortunately, 
+numerous failure modes are possible, including blown fuses, failed sensors, 
+and browned-out solar arrays. The common trait of most such failures is that 
+they cannot be repaired from the ground. In addition, it is not typically 
+possible to repurpose a spacecraft or its components for new services that no 
+one foresaw at the time of manufacture. Either way, a new satellite is required. 
+However, when sensors, filters, emitters, and photovoltaic solar panels are 
+made of Programmable Matter smart materials, the solution to a component 
+failure or new mission requirement might be as simple as a software update. 
+Other advantages of dynamic materials include advanced energy management 
+and energy scavenging from a variety of sources. Smart materials can even 
+create new defensive capabilities, such as chameleon-style camouflage, 
+deflection of laser beams, and even outright invisibility. 
+If it becomes possible to change the properties of certain materials on demand, 
+based on remotely triggered instructions, the benefits for spacecraft-both 
+crewed and autonomous-will be considerable. This white paper-by no means 
+an exhaustive reference-is intended to serve as a primer on the principles 
+behind smart materials and their possible aerospace applications over the next 
+50 years. 
+UNCLASSIFIED//liQR Qfli1&'10L: P!iii Ctr! Y 
+iv

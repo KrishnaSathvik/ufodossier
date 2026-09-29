@@ -1,0 +1,50 @@
+UNCLASSIFIED 77/POR SCPPICTAL USE CNet
+
+e Far Field Super-Lens Based on the Interferometry of Sub-Diffraction Waves.
+Sub-diffraction imaging has long been considered to be possible only using near-
+field microscopes. Those are fairly complex, slow-scanning, and large devices that
+are not appropriate for advanced aerospace platforms. Metamaterials enable new
+imaging modalities: super-lenses, hyper-lenses, and far-field super-lenses. In
+addition to a survey of the existing scientific literature, novel ideas on developing a
+new interferometric Far-field Super-Lens (FSL) based on the multi-beam multi-
+detector technique utilizing materials with Indefinite Permitivity Tensor are
+presented. Fabrication of such Indefinite Permittivity Materials (IPMs) for the mid-
+infrared part of the spectrum is achieved and demonstrates the capabilities of
+transmitting electromagnetic waves with the spatial period much smaller than the
+vacuum wavelength of light. Interference between sub-diffraction waves enables
+disentangling multiple diffractive orders and extracting their amplitudes.
+
+e Nonlinear Non-Reciprocal Chiral Metamaterials: Developing Novel Optical
+Isolators and “One-Way” Microwave Mirrors. These developments are
+motivated by the need to construct one-way “light diodes” for compact optical
+isolators. Presently there are two approaches to optical isolation: the most common
+using magnetic fields, and the less developed based on using nonlinearities. A
+different approach relies on the phenomenon of adiabatic mode conversion in
+nonlinear chiral metamaterials. Preliminary theoretical results for a simple chiral
+fiber with a variable twist period (pitch) that enables full transmission of a tightly
+confined core mode in the forward direction and full mode-conversion of the core
+mode into a cladding mode for the backwards propagation is obtained.
+
+e Slowing Down Light and Miniaturizing Optical Components Using the
+Phenomenon of Electromagnetically Induced Transparency in
+Metamaterials. The speed of light places a natural limit on the size of
+optical/microwave components. Metamaterials offer an exciting opportunity to slow
+down light. This has two major implications: (a) light can be stored/manipulated in
+smaller volumes, and (b) nonlinear effects are strongly enhanced by the resulting
+energy compression.
+
+Applications to Sub-Diffraction Imaging: Super-Lens and
+Hyper-Lens
+
+The super-lens is one of the earliest applications of metamaterials (Reference 21), and
+its principle is shown is Figure 5. Without the super-lens, all information about sub-
+diffraction (or sub-wavelengths, which is equivalent) features of the periodic object
+would have been lost. The reason for the information loss is evanescent decay of the
+large spatial wavenumbers. The only method of accessing/measuring these features
+would be to scan the object using a near field scanning optical microscope. By inserting
+a super-lens between the object and the imaging plane, evanescent waves may be
+amplified and the image transferred forward. Unfortunately, this approach by itself does
+not remove the need for a near-field scanning device; the image that is recreated in the
+imaging plane is still sub-wavelength, and needs to be read out.
+
+UNCLASSIFIED/ LEQB.OEELGI=SEONTY

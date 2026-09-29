@@ -1,0 +1,38 @@
+UNCLASSIFIED/ ;'FOR OFFl&I.t.k Wlilii QNL¥ 
+If the charged fusion products are entrapped within the deuterium cylinder, and if the 
+condition pz. > 10g/cm 2 is satisfied, and finally, if the beam energy is large enough that 
+a length z > (10/p) cm of the cylinder is heated to a temperature of 109 K, a 
+thermonuclear detonat ion wave can propagate down the cylinder. This then leads to 
+large fusion gains. 
+The stopping length of single GeV protons in dense deuterium is much too large to fulfill 
+inequality (Reference 16). But this is different for an intense beam of protons, where 
+the stopping length is determined by the electrostatic proton -deuteron two-stream 
+instability (Reference 14). In the presence of a strong azimutha l magnetic field, the 
+beam dissipation is enhanced by the formation of a collis ionless shock (Reference 15) 
+with the thickness of the shock by order of magnitude equal to the Larmor radius of the 
+deuter ium ions at a temperature of 109 K, which for a magnetic field on the order of 107 
+G is on the order of 10-2 cm. For the two-stream instability alone, the stopp ing length is 
+given by 
+(17) 
+where c is the velocity of light, Wi the proton ion plasma frequency, and & =nb / n, with 
+n the deuterium target number density and nb = 2 x 1016 cm-3, the proton number 
+density in the beam. For a hundredfold compressed deuterium rod, one has 
+n = 5 x 1024 cm-3 , with m,- = 2 x l015 s-1 . One finds that e =4 xl0-9 and ,i 2:: 1.2 x 10-2 cm . This 
+short length, together with the format ion of the collisionless magneto-hydrodynam ic 
+shock, ensures the dissipation of the beam energy into a small volume at the end of the 
+deuterium rod. For a deuter ium number density n = 5 x 1024 cm-3 , one hasp= 17 g/cm3, 
+and to have pz. > 10 g/cm 2 requires that z ~ 0.6 cm. With /4 < z , the condit ion for the 
+ignition of a thermonuclear detonation wave is satisfied. The ignit ion energy is given by 
+E,-g ~ 3nkTtrr2z11 (18) 
+where T ~ 109 K. 
+For hundredfold compressed deuterium, one has nr 2 = 10-3 cm2, where initia lly it 
+was nr2 = 10-• cm 2. With nr2 = 10-3 cm 2 and z = 0.6 cm, one finds that E,-811 ::; 1016 erg or ~ 
+lGJ. This energy is provided by the 107-ampere GeV proton beam lasting 10-7 seconds. 
+The time is short enough to ensure the cold compression of deuterium to high densit ies. 
+For a 103-fold compression, found feasible in laser fusion experiments, the ignition 
+energy is 10 times less. 
+In hitting the target, a fraction of the proton beam energy is dissipated into X-rays by 
+ente ring and bombarding the high Z material cone, focusing the proton beam onto the 
+deuterium cylinder . The X-rays released fill the hohlraum surrounding the deuterium 
+UNCLASSIFIED/ /fOll Offl@IAL YSIE 8Htl/ 
+9

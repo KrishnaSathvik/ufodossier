@@ -1,0 +1,49 @@
+UNCLASSIFIED/ /FOlil OFFl&IAl WSE 8,.lV 
+section on laminated insulation). Many plastics come in a wide variety of shapes, forms, 
+and grades, including bulk volumes, a variety of sheet thicknesses, and various rod 
+diameters. The subject of using plastics as insulation fills volumes in reference books 
+and has yet to be exhausted . Table 1 shows selected dielectric properties, collected 
+over several years, on some of the most common plastics for high-voltage use. 
+Table 1. Dielectric Properties of Some HPM Plastics 
+Material Trade Name 
+Breakdown Voltage 
+(kV /mil) 
+Acetal Delrin 4.0 
+Polypropylene 6.0 
+Polyetherim ide Ultem 7.0 
+Polysulfone Ultrason S 7.5 
+Polyethersulfone Ultrason E 5.8 
+Polycarbonate Lexan 6.3 
+Polvohenylene Ether Noryl 0.6 
+Polyphenylene Sulfide Ryton 0.4 
+Polyethylene 5.0 
+Polyvinylch loride 1.8 
+Epoxies 
+One of the greatest advantages of casting epoxies is that a high dielectric strength can 
+be attained with low maintenance, a long shelf life, and ease of transportation 
+compared with liquid or laminated insulation schemes. Some of the best epoxies ever 
+used for high-voltage insulation have only recently become available. These 
+advancements are due mainly to efforts by the automotive industry to miniaturize the 
+ignition coil to the point where a separate coil could be incorporated into the spark plug 
+cap at each cylinder. Technologies have been devised for casting several varieties of 
+epoxy to allow larger volume castings. The goals are to minimize voids and bubbles, 
+deal with any exothermal effects, and reduce shrinkage. In addition, a good candidate 
+material for high-voltage casting must have a high dielectric strength at the frequencies 
+required, a long pot life, good adhesion, and an unlimited cure depth at a low 
+temperature. With many epoxies, shrinkage and the glass transition point are funct ions 
+of the cure temperature. New, state-of-the-art epoxies have several desirable 
+character istics never before available in a single product that make them ideal for high­
+voltage applications. Two such characteristics are a low viscosity at room temperature 
+and a long pot life. This means the epoxy can be mixed (resin and hardener) and the 
+unit to be insulated can be filled under vacuum to eliminate voids and bubbles. Some of 
+these epoxies have the viscosity of milk at about 100 degrees Fahrenheit and a pot life 
+of several hours. A third desirable characteristic is a very low, almost imperceptible 
+exotherm. This allows insulation of items sensitive to heat, such as thin plast ics, paper, 
+and electronic components or integrated circuits . A fourth desirable characteristic is low 
+shrinkage, even in large castings. This allows insulation of regions where dimensional 
+stability is important, such as at distances from high-voltage sections and resonant 
+structures. A fifth desirable characteristic is good adhesion, both to itself and to 
+components to be insulated. This is important because any separation from a 
+component creates a void region where the dielectric strength will be compromised. 
+UNCLASSIFIED//5OB OFFICIO ls. U&'li QPlls.¥ 
+3

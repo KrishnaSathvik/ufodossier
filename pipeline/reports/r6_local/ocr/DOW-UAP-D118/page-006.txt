@@ -1,0 +1,48 @@
+UNCLASSIFIED/ /
+
+(e") Conduction Band
+
+Conduction Band
+
+Valence Band
+
+INCREASING ENERGY
+
+Metal Semiconductor
+
+Figure 1. Energy Levels of a Metal and a Semiconductor. In a metal, many clectrons reside in the conduction
+band and can be pushed to neighboring atoms with only a tiny addition of thermal or electrical energy. In a
+semiconductor, enough energy must first be added to excite the electron out of the valence band, across the band
+gap, and into the conduction band. Thus, to conduct electricity, semiconductors require much higher voltages and
+temperatures than do metals.
+
+Electrons below the band gap of a semiconductor behave as though they were in an
+insulator, while electrons above the band gap behave as though they were ina
+conductor. They flow easily and can be used to store or transport energy and
+information.
+
+The difference between a metal and an insulator is that the outermost electron shell of
+a metal atom is more than half-empty. It has lots of conduction electrons and lots of
+room for them to move around. An insulating material, such as sulfur, has an outer
+shell that is almost completely filled. All its electrons are valence electrons—
+homebodies that do not like to travel. Semiconductors have outer shells that are
+approximately half-filled. With the input of energy, their electrons can jump to a higher
+level where they find open space to travel through. Conduction electrons can also be
+“donated” by neighboring atoms.
+
+A “quantum dot” is simply a very small structure—usually on the order of 5-20
+nanometers—that contains a modest number of conduction electrons, which it confines
+in all three dimensions and prevents from leaving the structure. In addition, because
+the Heisenberg uncertainty principle requires position uncertainty to increase when
+particle momentum is restricted, the trapped electrons are unable to hold a well-defined
+position and instead behave as standing waves that resemble the orbitals of, and
+exhibit many of the same properties as, a natural atom,
+
+However, there are two major differences between a quantum dot and a natural atom.
+First, there are far more than 92 possible configurations—an infinite number, in fact—
+for the confined electrons. Thus, with quantum dots it is possible to create designer
+
+atoms with properties that simply do not occur on the periodic table. If we want to, we
+
+2
+UNCLASSIFIED / / F@ReOFFECEAEUSE-ONLY

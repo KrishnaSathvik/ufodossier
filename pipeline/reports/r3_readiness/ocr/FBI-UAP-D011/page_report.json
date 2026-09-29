@@ -1,0 +1,86 @@
+{
+  "filename": "FBI-UAP-D011.pdf",
+  "generated_at": "2026-09-25T18:53:15.176336+00:00",
+  "page_count": 4,
+  "usable_text_chars": 2914,
+  "stats": {
+    "native_good": 0,
+    "native_thin": 1,
+    "needs_ocr": 3,
+    "ocr_failed": 0,
+    "ocr_succeeded": 3,
+    "pages_ocrd": 3
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "native_quality": {
+        "page_number": 1,
+        "native_char_count": 171,
+        "printable_ratio": 0.982,
+        "alpha_ratio": 0.228,
+        "word_count": 8,
+        "replacement_char_count": 0,
+        "category": "native_thin",
+        "reason": "thin but printable native text (caption/short page)"
+      },
+      "final_category": "native_thin",
+      "text_method": "native",
+      "char_count": 171,
+      "text": ""
+    },
+    {
+      "page_number": 2,
+      "native_quality": {
+        "page_number": 2,
+        "native_char_count": 1742,
+        "printable_ratio": 0.994,
+        "alpha_ratio": 0.738,
+        "word_count": 278,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "ocr_replaced_native (soft-hyphen density (2) suggests scanned text layer)"
+      },
+      "final_category": "native_good",
+      "text_method": "tesseract",
+      "char_count": 2020,
+      "text": ""
+    },
+    {
+      "page_number": 3,
+      "native_quality": {
+        "page_number": 3,
+        "native_char_count": 706,
+        "printable_ratio": 0.963,
+        "alpha_ratio": 0.414,
+        "word_count": 74,
+        "replacement_char_count": 0,
+        "category": "native_thin",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.57, clean=0.34))"
+      },
+      "final_category": "native_thin",
+      "text_method": "tesseract",
+      "char_count": 552,
+      "text": ""
+    },
+    {
+      "page_number": 4,
+      "native_quality": {
+        "page_number": 4,
+        "native_char_count": 227,
+        "printable_ratio": 0.934,
+        "alpha_ratio": 0.101,
+        "word_count": 3,
+        "replacement_char_count": 0,
+        "category": "native_thin",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.37, clean=0.02))"
+      },
+      "final_category": "native_thin",
+      "text_method": "tesseract",
+      "char_count": 105,
+      "text": ""
+    }
+  ],
+  "combined_path": "pipeline/reports/r3_readiness/ocr/FBI-UAP-D011/combined.txt",
+  "production_writes": false
+}

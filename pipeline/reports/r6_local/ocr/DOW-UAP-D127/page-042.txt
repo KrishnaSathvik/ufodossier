@@ -1,0 +1,72 @@
+UNCLASSIFIED/ /fOR OFFI&IAk Wlii QPU,¥ 
+(82) 2 fx ' erf(x)= r e-:-dz (85) 
+This is "how likely" the most likely number of 
+ExtraTerrestrial Civilizations in the Galaxy is, i.e. 
+it is the peak height in the lognormal probability 
+density function f N(n) . 
+Next to the mode, the median m (ref. (9)) is one 
+more statistical number used to characterize any 
+probability distribution. It is defined as the 
+independent variable abscissa m such that a 
+realization of the random variable will take up a 
+value lower than m with 50% probability or a value 
+higher than m with 50% probability again. In other 
+words, the median m splits up our probability 
+density in exactly two equally probable parts. Since 
+the probability of occurrence of the random event 
+equals the area under its density curve ( i.e. the 
+definite integral under its density curve) then the 
+median m (of the lognormal distribution, in this 
+case) is defined as the integral upper limit m: 
+(111(11 )-,,1)2 
+f111 JN(n)dn = f"'_!__ rd- e---;;;;r- == (83) 
+Jo Jo n v 2na 2 
+In order to find m , we may not differentiate (83) with 
+respect to m , since the "precise" factor ½ on the 
+right would then disappear into a zero . On the 
+contrary , we may try to perform the obvious 
+substitution 
+zzO (84) 
+into the integral (83) to reduce it to the following 
+integral defining the error function erf(z) 
+-,/ Ji 0 
+Then , after a few reductions that we skip for the sake 
+of brevity, the full equation (83) is turned into 
+(86) 
+that is 
+e,f[ln(m) - p) == 0 (87) 
+✓2a 
+Since from the definition (85) one obviously has 
+erf(0)=0 , (87) becomes 
+ln(m)- µ == 0 (88)
+✓2a 
+whence finally 
+Irredian = m =e" I. (89) 
+This is the median of the lognormal distribution of 
+N. In other words, this is the number of 
+ExtraTerrestrial civilizations in the Galaxy such 
+that, with 50% probability the actual value of N will 
+be lower than this median, and with 50% probability 
+it will be higher. 
+ln conclusion, we feel u seful to summarize all the 
+equations that we derived about the random variable 
+N in the following Table 2. 
+Random variable 
+Probability distribution 
+Probability density function 
+N =number of comm unicating ET civilizations in Galaxy 
+Lognormal 
+(111(11}--p)' 
+1 1 ---;;;;r-
+fN(n) =- · ..n,; e (n z O) 
+n 2na 
+Mean value 
+(T2 
+-
+(N) =e" e 2 
+Variance a1 =e2" e a2 (ea2 -1) 
+Standard deviation 
+a' 
+a N =e" e2 .Jea' -1 
+UNCLASSIFIED/ /fOR OFfl&IAk Wlii QNls¥ 
+42

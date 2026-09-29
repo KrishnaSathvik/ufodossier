@@ -1,0 +1,22 @@
+UNCLASSIFIED/ ,<FOA OFFl&IAk WSE 8HLY 
+However, emerging from work on quantum gravity offers the possibility of an explicitly 
+nonlinear form of quantum mechanics that reduces to linear quantum mechanics in the 
+limiting case of weak or no gravity. Using the wave picture, it is possible to formulate a 
+Laplace-Beltrami wave equation for gravitationally curved space. The Laplace-Beltrami 
+operator on the left-hand side contains information about the space-time geometry (the 
+metric te nsor) and operates on the wave function. On the right-hand side is the same 
+term found in the flat space Klein-Gordon wave equation. In flat space (no gravity), this 
+"curved-space" wave equation reduces to the Klein-Gordon wave equation, but in 
+curved space it is nonlinear in a way that could facilitate nonlocal communication. Thus, 
+in an environment where strong space curvature is expected-for example, the vicinity 
+of a neutron star or black hole-sufficient quantum nonlinearit y may exist to facilitate 
+nonlocal communication . 
+XIII. Conclusion 
+Ultimately, the question of whether nonlocal communication is possible is an 
+experimental one. The issue should be resolvable by testing for nonlocal communication 
+and observing what experimental lim its appear. In particular, are the limits of 
+coherence/entanglement complementarity so severe as to preclude signaling? Currently 
+at least one experiment in progress aims to produce a coincidence-free version of the 
+Ghost Interference experiment. We await the outcome of such tests. 
+UNCLASSIFIED/ /POI\ OPPIEIICL U:!I!! 9HLY 
+23

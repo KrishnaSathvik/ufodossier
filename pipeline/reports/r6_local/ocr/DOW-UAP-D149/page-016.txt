@@ -1,0 +1,49 @@
+UNCLASSIFIED/ /FOR 8PPl€1A:L l191! t>flt I 
+Similar ly, if a voltage source (e.g., a battery) is connected to the electrodes 
+placed on either side of the flow in such a way that the applied e.m .f. acts 
+against the induced Faraday e.m.f., then the current will flow in the direction 
+opposite to the Faraday current, and the jxB force will be in the direct ion of the 
+flow. This will be an MHD accelerator that converts the battery -supplied electr ical 
+energy partially into entha lpy of the flow and part ially into Joule dissipation in 
+the circuit . The correspond ing load factor, k, defined as the ratio of the applied 
+electric field E and the product uB, k= E/uB, is greater than 1 in this accelerator 
+configurat ion. 
+In generator and accelerator devices, the interact ion between the induced 
+motion of electric charges across the B field and that field results in an e.m.f. 
+induced along the flow. This secondary e.m.f. is called the "Hall e.m.f., " and the 
+magnitude of Hall effect increases with the ratio of electron-cyclotron frequency, 
+ws=eB/m , and the electro n collis ion frequency, v . This ratio is called the electron 
+Hall parameter, ne. As the Hall parameter approaches 1, the Hall current 
+directed along the flow increases at the expense of the transverse Faraday 
+current, resulting in reduct ion of the jxB force. To reduce or eliminate the Hall 
+current, the electrodes placed on either side of the flow are normally segmented 
+and thus form mult iple pairs. Each electrode pair has a prope r resistor and/or 
+battery in its circuit. Theoretically, th is segmented -electrode Faraday 
+configurat ion enables the performance equal to that without the parasitic Hall 
+effect. However, as the Hall parameter increases, so does the voltage fall 
+between the adjacent electrode segments, so that eventually arcing between the 
+segments starts, effectively negat ing the advantage of segmenting. 
+A better (and more "natural") MHD configuration at high values of the Hall 
+parameter is the one where each electrode pair (with the electrodes on either 
+sides of the flow and right across each other) is shorted, and the voltage is 
+either extracted (in the generator case) or applied (in the accelerator case) along 
+the flow, between the first and the last electrode pair. This is called the "Hall 
+configurat ion ." 
+A usefu l dimensionless parameter reflecting the strength of MHD inte raction is 
+called the MHD interact ion parameter, or the Stuart number, and it represents 
+the ampere body force effect relative to the flow momentum flux: 
+S= aBL 
+pu 
+In this equat ion, cr is the electrical conductivity of the fluid, B is the magnet ic 
+field strength, L is the characteristic linear dimension, p is the fluid density, and 
+u is the velocity . 
+Therefore, for a significant MHD effect in h igh-speed, high dynamic pressure flow 
+(e .g., in hypersonics), the conduct ivity and the B field strength must be high . 
+Herein lies the principal problem for aeronautica l MHD applications. Indeed, 
+normal air is not an elect rical conductor . Air does become ionized and thus 
+electrically conducting as it is heated to very high temperatures (3,000 - 10,000K 
+or higher), such as those achieved in shock and boundary layers around reentry 
+vehicles, at Mach numbe rs M= 12-25 or so. The ionizat ion fraction then reaches 
+10·5-10 ·2, and the conductivity from 100 to about 3,000 mho/m ensues. Seeding 
+UNCLASSIFIED/FAA QFFl&lillt ~9E 8HLI 
+12

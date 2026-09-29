@@ -1,0 +1,26 @@
+UNCLASSIFIED/ /fOR. 8FFl&IAk W&li ,HIia¥ 
+Figure 1. Air Force X-25LR Laser Lightcraft {courtesy of F. Mead, AFRL/ PRSP, Edwards AFB, 
+CA). 
+In the two-mode propulsion concept, a forebody aeroshell acts as an external 
+compression surface for the airbreathing engine inlet. Affixed to the bottom of the craft 
+is a parabolic-shaped afterbody mirror, which serves as a primary receptive optic for 
+the laser beam and as an external plug nozzle expansion surface. The primary thrust 
+structure is the centrally located annular shroud, which provides air through the inlet 
+and also acts as a ring-shaped energy "absorption/propulsion" chamber for plasma 
+formation. The air inlet is closed when the Lightcraft operates in the rocket mode. 
+The Lightcraft is very lightweight and uses its shape to facilitate vertical flight. The 
+craft has the appearance of a fat acorn when viewed from the side. The lower portion 
+of the craft is a very highly polished metal mirror, whereby the lower point of the 
+acorn-shape is the midpoint of a stretched-out parabolic mirror (see Figure 2). The 
+Lightcraft receives kilojoule pulses from a ground-based infrared laser at a rate of 25 
+times per second. The axisymmetric, off-axis parabolic collection mirror facilitates flight 
+by concentrating the pulsed laser light into an annular focus. The laser beam's pulse 
+interacts with the mirror, spreading out and focusing into an annular area inside the 
+circumference of the craft. The intensity of the 18 microsecond pulsed laser is 
+sufficiently high that atmospheric breakdown occurs in the annular area causing inlet air 
+to momentarily burst into a highly luminous plasma (10,000 - 30,000 K), thereby 
+producing a superheated plasma shock wave (with instantaneous pressures reaching 
+tens of atmospheres) that generates thrust in the direction of the laser beam. A lip 
+around the craft's circumference, akin to a plug nozzle, directs the expansion of the 
+UNCLASSIFIED,<,<FOA QFFI&IAL HSI!! OHLY 
+12

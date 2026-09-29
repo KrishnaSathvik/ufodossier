@@ -1,0 +1,36 @@
+UNCLASSIFIED/ /FOR OFFI@IsT.tk WS& OPtklf 
+paper attempts to address these questions by taking a close look at quantum 
+entanglement, quantum nonlocality, the experiments that have explored them, 
+and proposed experiments to test the causal and faster-than-light 
+communication issues evoked by such physics. 
+Quantum entanglement describes the condition of separated parts of the same 
+quantum system in which each of the parts can be described only by 
+referencing the state of other parts. This is one of the most counterintuitive 
+aspects of quantum mechanics, because classically one would expect system 
+parts out of "local" contact to be completely independent. Thus, entanglement 
+represents a kind of quantum "connectedness" in which measurements on one 
+isolated part of an entangled quantum system have nonclassical consequences 
+for the outcome of measurements performed on the other (possibly very 
+distant) part of the same system. This quantum connectedness acting in 
+entangled quantum systems is called quantum nonlocality. 
+Nonlocality was first highlighted by Albert ~instein and his coworkers Boris 
+_fodolsky and Nathan ,Rosen in their famous EPR paper (Reference 4). They 
+argued that the nonlocal connectedness of quantum systems was unphysical 
+in that it implied a faster-than-light connection in apparent conflict with 
+special relativity. Despite their objection, quantum nonlocality has now been 
+demonstrated (see Section I) in many quantum systems (Reference 1, 2). In 
+the physics community, it is now generally acknowledged to be implicit in the 
+quantum formalism as applied to entangled systems, although there remain a 
+few Copenhagen "holdouts" who would require an explicit demonstration of 
+nonlocal signaling before admitting that nonlocality can be considered a real 
+quantum phenomenon. 
+The question investigated in this paper is whether quantum nonlocality is the 
+private domain of nature or whether it can be used in experimental situations 
+to send signals from one observer to another. As we will see, there is at 
+present no compelling answer to this question. However, it is clear that if such 
+nonlocal observer-to-observer communication were possible, it would have 
+far-reaching implications. In particular, it would represent an enabling 
+technology for superluminal (and retrocausal) signaling and communications, 
+and perhaps make possible the real-time exploration of the universe. 
+UNCLASSIFIED/ /rOR. 0rr1e11et U:!I! OHL I 
+V

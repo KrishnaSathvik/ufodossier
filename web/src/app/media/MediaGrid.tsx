@@ -7,7 +7,15 @@ import { MediaCard } from "@/components/MediaCard";
 import { VideoCard } from "@/components/VideoCard";
 import { DocumentCard } from "@/components/DocumentCard";
 
-function MediaGridInner({ images, videos, documents }: { images: any[]; videos: any[]; documents: any[] }) {
+function MediaGridInner({
+  images,
+  videos,
+  documents,
+}: {
+  images: any[];
+  videos: any[];
+  documents: any[];
+}) {
   const searchParams = useSearchParams();
   const router = useRouter();
 
@@ -38,7 +46,7 @@ function MediaGridInner({ images, videos, documents }: { images: any[]; videos: 
       {tab === "images" ? (
         images.length === 0 ? (
           <p className="py-12 text-center text-ink-faint">
-            No images available yet. Source media is linked as the pipeline processes documents.
+            No images are listed yet.
           </p>
         ) : (
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
@@ -50,7 +58,7 @@ function MediaGridInner({ images, videos, documents }: { images: any[]; videos: 
       ) : tab === "videos" ? (
         videos.length === 0 ? (
           <p className="py-12 text-center text-ink-faint">
-            No videos available yet. Source media is linked as the pipeline processes documents.
+            No videos are listed yet.
           </p>
         ) : (
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
@@ -59,24 +67,30 @@ function MediaGridInner({ images, videos, documents }: { images: any[]; videos: 
             ))}
           </div>
         )
+      ) : documents.length === 0 ? (
+        <p className="py-12 text-center text-ink-faint">
+          No document covers are listed yet.
+        </p>
       ) : (
-        documents.length === 0 ? (
-          <p className="py-12 text-center text-ink-faint">
-            No document covers available yet. Covers are rendered as the pipeline processes PDFs.
-          </p>
-        ) : (
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-            {documents.map((doc: any) => (
-              <DocumentCard key={doc.id} document={doc} />
-            ))}
-          </div>
-        )
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+          {documents.map((doc: any) => (
+            <DocumentCard key={doc.id} document={doc} />
+          ))}
+        </div>
       )}
     </>
   );
 }
 
-export function MediaGrid({ images, videos, documents }: { images: any[]; videos: any[]; documents: any[] }) {
+export function MediaGrid({
+  images,
+  videos,
+  documents,
+}: {
+  images: any[];
+  videos: any[];
+  documents: any[];
+}) {
   return (
     <Suspense fallback={<div className="py-12 text-center text-ink-faint">Loading...</div>}>
       <MediaGridInner images={images} videos={videos} documents={documents} />

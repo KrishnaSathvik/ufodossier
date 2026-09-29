@@ -1,0 +1,43 @@
+UNCLASSIFIED/,'rOR: orrlCIJ!tL USE O14Lf 
+Chapter 4: Summary of Multi-Megawatt Laser Study for 
+Lightcraft Propulsion Applications 
+SUMMARY OF LASER STUDY PERFORMED BY TEXTRON SYSTEMS 
+In 2002, V. Hasson (TEXTRON Systems Corporation) conducted a study of candidate 
+multi-megawatt laser systems for laser Lightcraft propulsion [29]. 
+Candidate high-power/high-energy lasers identified in the study: 
+• Carbon Dioxide (CO2) Laser: technical issues include large wavelength and 
+atmospheric absorption of the laser beam. 
+• Carbon Monoxide (CO) Laser: technical issues include large wavelength, 
+atmospheric absorption of the laser beam, and toxicity of the lasing fuel (CO 
+gas). 
+• Hydrogen Fluoride (HF) or Deuterium Fluoride (DF) Laser: technical issues include 
+atmospheric absorption of the laser beam, corrosive lasing fuel chemicals, pulse 
+energy, running cost, and beam quality. 
+• Chemical Oxygen-Iodine Laser (COIL): technical issues include fuel chemicals, 
+pulse energy, and running costs. 
+• Bulk Slab Solid-State Laser (BSSSL): technical issues include cost, average 
+power, and run duration. 
+The first four gas dynamic and chemical laser candidates have already demonstrated 
+megawatt-class average beam output power. The study then reviewed the 
+development, testing and operational legacy of the first candidate laser technology, 
+which included a review of the various system architectures that use other gas mixtures 
+combined with CO2. The study recommended a new design for a 10 MW (beam output 
+power) electron gun-driven CO2/gas mixture laser because this technology does not 
+require additional R&D and can be implemented now. The other gases selected for the 
+lasing fuel are N2 and H2, which, in combination with CO2, offer superior performance 
+over systems using helium. 
+However, very recent technologically disruptive innovations led to the 10-fold increase 
+in the beam output power of bulk slab SSLs and their newly emergent solid-state 
+cousin, called high-power fiber lasers, which has made these devices more competitive 
+with high-power chemical and gas dynamic lasers on the basis of average beam power, 
+peak beam power, electrical wall plug and optical efficiencies, cost, complexity, mass, 
+and size. Free-electron lasers are another class of laser technology that was not 
+reviewed by Hasson, but recent technological innovations are accelerating their 
+development to the point where their present average beam output power of 20 kW will 
+be increased to 100 kW or higher within the next 12 to 24 months following the 
+publication of this report. The output beams of several of these laser devices can be 
+optically combined to produce a single beam with megawatt-class average output 
+power. It is for this reason that we will summarize their technology in Summary of 
+Emergent High-Power Solid-State and Free-Electron Laser Technologies section. 
+UNCLASSIFIED,<,<FOA QFFISIAL HSI!! 8HLY 
+42

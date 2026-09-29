@@ -2,7 +2,7 @@
 
 ## Project
 
-UFO Dossier is a searchable public archive of every UAP incident in the U.S. government's declassified PURSUE files (war.gov/UFO). The pipeline downloads PDFs from war.gov, imports community-OCR'd text from the UFO-USA GitHub mirror, extracts structured incident rows via Claude Haiku with substring-validated verbatim excerpts, embeds them with Voyage, and serves everything through a Next.js site with a RAG "ask the archive" feature powered by Claude Sonnet. The goal is trust: every claim ties to a verified quote from the source document, and every incident page links to the original file on war.gov.
+UFO Dossier is a searchable, source-grounded archive of publicly released U.S. government UAP records from the PURSUE files (war.gov/UFO). The pipeline preserves original files, extracts structured incident fragments with Claude Haiku and substring-validated verbatim excerpts, links fragments into canonical events, embeds published rows with Voyage, and serves a Next.js site. Ask the Archive is provider-configurable. Extraction stays on Haiku. The goal is trust: a claim stays tied to a verified quote, and a fragment is not described as an event unless the linker says so.
 
 ## Stack
 
@@ -10,8 +10,8 @@ UFO Dossier is a searchable public archive of every UAP incident in the U.S. gov
 - **DB**: Supabase (Postgres + pgvector + Storage). Schema in `db/schema.sql`
 - **Pipeline**: Python 3. `pipeline/ingest_manifest.py` -> `pipeline/import_converted.py` -> `pipeline/extract.py` -> `pipeline/embed.py`
 - **Extraction model**: Claude Haiku (`claude-haiku-4-5`) for structured extraction
-- **RAG model**: Claude Sonnet (`claude-sonnet-4-7`) for answering user questions with streaming
-- **Embeddings**: Voyage AI (`voyage-3`, 1536d) with OpenAI `text-embedding-3-small` fallback
+- **RAG**: environment-selected. Historical production baseline is `claude-sonnet-4-5-20250929`. The evaluated V2 chain, applied only after `RAG_PROVIDER=openai`, is `gpt-6-sol` at medium, then the same model at low, then `claude-sonnet-5-5` if OpenAI fails. The unset default remains the historical Anthropic model so a process start does not flip production. See `docs/V2_RAG_MODEL_EVAL.md`.
+- **Embeddings**: Voyage AI (`voyage-3`, 1024-d zero-padded to 1536). `EMBEDDING_PROVIDER=voyage` and `EMBEDDING_MODEL=voyage-3`. A Voyage failure does not switch to OpenAI embeddings.
 
 ## The non-negotiable
 
@@ -98,46 +98,29 @@ python -m pipeline.ingest_manifest --tranche 1 --include-non-pdf  # ingest video
 python -m pipeline.extract --link-media                            # match media to incidents
 ```
 
-## Pipeline status (Release 01)
+## Pipeline status (V2 local)
 
-Full extraction complete. Stats:
-- **117** source files with OCR text (imported from UFO-USA community mirror)
-- **94** source files yielded incidents
-- **497** structured incidents extracted (substrate-validated excerpts)
-- **497/497** have Voyage-3 embeddings (1024d, zero-padded to 1536)
-- **Agencies**: FBI (88), USAF (116), USN (31), NASA (16), DoD mission reports, State Dept cables
-- **Date range**: 1890 to 2025-04-11
-- **Resolution**: 389 unresolved, 59 insufficient data, 49 identified
-- Haiku extraction cost: ~$6 (well within $10 budget)
+Corpus QA is complete for the official PURSUE inventory of six releases. Counts on the site are computed from `pipeline/reports/corpus_qa/` and the linker graph. Do not treat fragments and canonical events as the same number. R1 production rows were not re-extracted. The reviewed R2–R6 fragments, linker graph, and Voyage embeddings are in the production database as of 2026-09-29. The site has not been redeployed, and `RAG_PROVIDER` stays unset. Details: `docs/V2_R1_R6_CORPUS_QA.md`, `docs/V2_LOCAL_RELEASE_GATE.md`, and `docs/PRODUCTION_MIGRATION_REPORT.md`.
 
-Key pipeline improvements applied:
-- **Batch embeddings**: `embed_batch()` sends all incidents per file in 1 Voyage API call (was 1 call per incident). Reduced Voyage calls from ~500 to ~94.
-- **Case ID collision handling**: `upsert_incident` catches duplicate case_id (23505) and extends the hash suffix.
-- **Chunking fix**: oversized paragraphs (>60K chars) are now hard-split instead of becoming 1M-char chunks.
-- **Rate limit resilience**: exponential backoff (5×2^n seconds, max 8 retries) + 1.5s inter-call delay.
+Extraction model remains `claude-haiku-4-5`. Embeddings remain Voyage `voyage-3`, stored as `vector(1536)`.
 
 ## Web app status
 
-All core routes verified working:
-- `/` — homepage with live stats (497 incidents, 38 countries, sidebar breakdowns)
-- `/incident/[id]` — case file with metadata, verbatim excerpt, similar incidents, share row (Copy link / X / Bluesky)
-- `/collections` — curated collection index (7 collections, 2-col grid)
-- `/collections/[slug]` — single collection page with breadcrumb, standfirst, incident list
-- `/ask` — RAG query terminal (Voyage embed → `match_incidents` RPC → stream Sonnet)
-- `/about` — methodology page
-- `/images`, `/videos` — gallery pages (show "pipeline pending" until migration runs)
+Local routes include `/`, `/incidents`, `/incident/[slug]`, `/map`, `/collections`, `/releases`, `/releases/[release]`, `/sources`, `/source/[id]`, `/media`, `/audio`, `/ask`, and `/about`.
 
-Navigation links: archive, map, collections, media, ask, about.
+Ask the Archive lives in `web/src/lib/rag/`. The route does not hardcode the active model. Telemetry defaults to a local JSONL file so this milestone does not write `ask_log` in production. `RAG_TELEMETRY_SINK=supabase` is the later switch.
+
+Navigation: archive, map, collections, releases, sources, media, audio, ask, about.
 
 ## Open questions
 
 1. `import_converted.py` sets `processed_at` to the string `"now()"` — does Supabase PostgREST evaluate that as SQL `now()`, or does it store the literal string? Needs verification.
-2. ~~The `v_stats` view counts all incidents including flagged ones.~~ Currently no flagged incidents exist, so this is academic.
+2. ~~Production still needs the reviewed V2 data migration.~~ Data load finished 2026-09-29. Deploy and the RAG provider switch have not been started. See `docs/PRODUCTION_MIGRATION_REPORT.md`.
 3. ~~Sidebar filter counts on `page.tsx` are hardcoded placeholder values.~~ Fixed — dynamic counts query.
 4. ~~`getSimilar()` uses naive query.~~ Fixed — uses `match_incidents` RPC with embedding fallback.
 5. ~~`ip_hash` not populated.~~ Fixed — `/api/ask` now hashes IP with salt.
-6. No rate limiting on `/api/ask` beyond a 500-char question cap. `ip_hash` is now populated but not checked for throttling.
+6. `/api/ask` rate-limits per hashed IP in memory (10 requests per minute) and caps questions at 500 characters. That limiter is single-process only.
 7. ~~`import_converted.py` matching over-matches FBI sections.~~ Fixed — Git Trees API, improved `_normalize_name`, match against all source_files with skip logic.
-8. **BLOCKED**: Schema migration `db/migrations/001_add_media_columns.sql` needs to be run in Supabase SQL Editor (requires Postgres password, not the service key). This adds `image_url`/`video_url` columns and `v_media_incidents` view. After running, execute `python -m pipeline.extract --link-media` to link 14 existing media source files to incidents.
+8. Canonical events and source-record ingestion columns are in production via `db/migrations/011_canonical_and_ingestion.sql`. `db/migrations/010_rag_telemetry_DESIGN_ONLY.sql` was not applied. Do not set `RAG_TELEMETRY_SINK=supabase`.
 9. ~~Timezone bug in homepage year range.~~ Fixed — `parseInt(date.split("-")[0])` instead of `new Date(date).getFullYear()`.
-10. ~~Dead nav links to unbuilt pages.~~ Fixed — removed map/timeline/data/releases links from TopBar and Footer.
+10. Homepage counts come from the local catalog. Published case-file counts still come from Supabase and are labeled separately.

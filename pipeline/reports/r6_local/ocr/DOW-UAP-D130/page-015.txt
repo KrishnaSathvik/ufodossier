@@ -1,0 +1,47 @@
+UNCLASSIFIED/ /FOA OFFIEill.tL l::181: 8HLY 
+EMG 
+Instead of measuring nerve impulses and amplifying them, one can design a system 
+that monitors muscle movement in a hands-free approach to a mechanical interface, 
+essentially using the muscles as a biological amplifier of neural signals. One may close 
+the feedback loop using a heads-up display, monocle, or other visual device, or another 
+traditional sensory feedback. The advantage of such a design is that controls may be 
+actuated through a lightweight wireless system, effectively providing control stations 
+anywhere such a wireless system would work. Such a system could be used to untie a 
+pilot from the cockpit. Recent work has shown that performance of 1-2 bits/s is possible 
+with minimal training, about four times the current performance of a comparison EEG 
+forehead sensor (Reference 14). 
+MRI AND FMRI 
+Magnetic Resonance Imaging (MRI) works by a simple excitation and relaxation of spin 
+states. When molecules containing hydrogen are placed in a strong static magnetic 
+field, a small but detectable number of hydrogen protons align their intrinsic spins along 
+the direction of the external field. An applied radiofrequency (RF) pulse near the proton 
+resonant frequency, 42.6 MHz/Tesla or 128 MHz at 3 Tesla, knocks the spins 
+perpend icular to the field and the relaxation back to ground state releases RF energy in 
+patterns that can be reconstructed to show both composition and distr ibution of any 
+hydrogen-rich mater iel. The resonant frequency is a direct funct ion of the local 
+magnetic field defined by the Larmor relation: c.o = y B; where c.o is the frequency of 
+precession, B is the local magnetic field, and y is a constant of the mater ial, 42.6 
+MHz/Tesla for bare protons as mentioned above. 
+Small perturbations to the static field will change the resonant frequency. By applying a 
+small gradient to the stat ic field, for example 100 milliTes la/meter along the z-axis, and 
+limiting the bandwidth of the RF excitation signal to 8ro, one may select a slice of the 
+brain perpendicular to the z-axis for excitat ion to 82. A change in the gradient field will 
+change the position of the excited slice for the next excitation. Similar gradients in the 
+x and y d irections can limit the excitation to a single small volume of brain tissue. In 
+current MRis, these gradient fields are produced with electromagnets, and the series of 
+time-dependent imaging gradient manipulations is called the scan sequence. 
+Free hydrogen (H) would produce a resonant signal slightly different than the bare 
+proton due to the local field changes induced by its valance electron. Hydrogen gas (H2) 
+would produce a still different frequency since the local field around each proton is 
+altered by the two shared electrons. Water molecules (H2O) contain two hydrogen 
+atoms and an entirely different "electron shield" than either H or H2 and thus shows still 
+another slightly different resonant frequency. Fat and other lipid molecules, important 
+cell structure building blocks, have long chains of hydrocarbons, and the resulting 
+ensemble of electron screening produces a wide peak that is substant ially shifted 10 
+from that of water. 
+Brain gray matter and white matter have different macroscopic lipid content and are 
+thus able to be differentiated in an MRI scan. Different signals also arise in bone, 
+1° Frequency detection sensitivities in MRI are very good, and "su bstant ial" here means about 3 parts per million. 
+The frequency shifts caused by imaging gradients ranges in the parts per thousand. 
+UNCLASSIFIED/ f FOA OFFIEiIAL l::ISE 8PtLY 
+9

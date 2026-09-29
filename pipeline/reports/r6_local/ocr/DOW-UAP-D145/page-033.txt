@@ -1,0 +1,38 @@
+UNCLASSIFIED//POlt Offl@IAL WS& &NkY 
+Chapter 6: Speculation on Research Needs Over the Next 
+30 Years 
+What are the technological needs in space propulsion over the next 30 years (and 
+beyond)? In 1961, Arthur C. Clarke observed, "The short-lived Uranium Age will see 
+the dawn of space flight; the succeeding era of fusion power will witness its 
+fulfillment." 18 Although the dawn of the uranium age occurred in the middle of the 
+twentieth century, spaceflight is still in its infancy. 
+Early pioneers envisioning the technology that could propel humankind to the stars 
+included the Austrian engineer Eugen Sanger, who in 1953 proposed the use of 
+antimatter annihilation to generate photons for the creation of rockets that could 
+approach the speed of light. 19, 20 The propulsion technology chosen for space 
+exploration depends very much upon the mission. For example, flight from the surface 
+to low-Earth orbit requires considerable energy to break free of the Earth's gravitational 
+field, yet the duration of the flight is short. Space travel to the nearest stars will be of 
+long duration and will be strongly influenced by the type and quantity of fuel available 
+for extended journeys. 
+There are many different propulsion systems proposed for space exploration. The 
+systems listed below involve propulsion through the transfer of momentum to the 
+spacecraft throug h ejection of a propellant, where the propellant is a gas (ion drives), 
+combustion products (chemical rockets, nuclear thermal), high-ene rgy particles (fusion 
+drive, ant imatter drive), or photons (Bae drive). 
+• Chemical rocket, liquid fuel. 
+• Ion drives (VASIMR, PTI, and others). 
+• Bae photon drive (laser system). 
+• Stationary laser systems. 
+• Solar sails. 
+• Fission rockets: 
+- Pulsed. 
+- Thermal reactor with ion drive. 
+- Thermal reactor with propellant and Laval nozzle. 
+• Fusion drives: 
+- D-T fusion. 
+- Aneutronic fusion. 
+- Bussard (proton and boron-11). 
+- Antimatter catalyzed. 
+UNCLASSIFIED/fF&A &FFI&I:.l.k W&li &NkY 
+25

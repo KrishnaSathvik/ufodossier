@@ -1,0 +1,38 @@
+UNCLASSIFIED11FOR. 8FFl@IAL tt.!! e"t I 
+Initial ultracaps used aqueous electrolytes made with Ab(SO4)3 (aluminum sulfate), 
+H2SO4 (sulfuric acid), or KOH (potassium hydroxide) . While these electrolytes have 
+excellent ionic conductivity, the operating voltage is limited to 1.2 volts using carbon 
+electrodes. Organic electrolytes have lower ionic conductivity, but the higher dielectric 
+constant increases the nominal cell voltage up to as high as 3 volts. Carbon has been 
+used as a high-surface-area electrode material since the inception of the 
+electrochemical capacitor. It is still the material of choice for many ultracapacitors; one 
+of the primary reasons is the low cost of carbon materials. However, there are many 
+types of carbon that are available for use as an electrode material. In addition to 
+carbonaceous electrodes, metal oxides and conductive polymers are find ing increasing 
+use in ultracap design. Advancements in the understanding of the electric double-layer 
+and ultracapacitor behavior have led to better materials utilization and, consequently, 
+improved devices. 
+Early electrochemical capacitors were rated at a few volts and had capacitance values 
+measured from less than one farad up to several farads. Today cells range in size from 
+small devices with exceptional pulse-power performance in the millifarad range up to 
+devices rated at several kilofarads. There are even some specialized ultracapacitor cells 
+now in production that have ratings of more than 100 kF. The technology is 
+experiencing increasingly broader use, replacing batteries in some cases and in others 
+complementing their performance. Ultracap technology has grown into an industry with 
+sales of several hundred million dollars per year that is poised for rapid growth in the 
+near term due to expansion of power quality needs and the emerging energy 
+management/conservation applications. 11 
+Advancements in ultracapacitors have led to numerous devices from an array of 
+manufacturers. Table 2 compares the various products on the market, showing voltage, 
+capacity, power density, and additional energy-storage characteristics. Ultracaps have 
+moved away from aqueous electrolytes and are typically organic electrolytes due to the 
+increased voltage performance. Electrodes vary from carbon/carbon systems to hybrid 
+systems using metal oxides or conductive polymers paired with a carbon electrode. 
+Packaging and sizes of ultracapacitors covers a large range as these are now used from 
+cellular communications and small electronics to power delivery and management for 
+seaport cranes. Ultracapacitor technology development is focusing on delivering better 
+energy density, and this is being approached by improved carbon electrodes, better 
+electrolytes, and alternative electrodes that provide pseudocapacitive behavior, 
+including battery-like electrodes. 12 
+UNCLASSIFIEO/;LFOA OFFI&il:.l.b YS& OrtLY 
+6

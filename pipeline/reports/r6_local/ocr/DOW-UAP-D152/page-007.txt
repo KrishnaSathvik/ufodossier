@@ -1,0 +1,33 @@
+UNCLASSIFIED/ /P'OR. 8FFIEil1'1.k lellii Ql'II.¥ 
+If both masses are positive, we have the usual Newtonian attraction. For negative 
+masses, the force has the same magnitude but is repulsive. A quite different situation 
+exists if one mass is positive and the other one is negative. With both forming a mass 
+dipole, the system becomes self-accelerating, because one mass is repelled and the 
+other one attracted. With the two masses having opposite sign, the total energy and 
+momentum of the combined system remains zero for all times, leaving intact the 
+conservation laws of energy and momentum. Under its self-acceleration, the mass 
+dipole would eventually reach the velocity of light. It is this property of self-acceleration 
+without expenditure of energy that has intrigued many researchers and raised the 
+prospect of a propulsion system without limits. We remark that even without an 
+appreciable gravitational interaction, a mass dipole with zero, or close to zero inertial 
+mass, could be accelerated to very high velocities with negligible jet power and energy. 
+No matter how strange the properties associated with negative masses appear to be, 
+there can be little doubt that they can be incorporated into Einstein's gravitational field 
+theory as long as they do not violate the principle of equivalence. In particular, the well 
+known Schwarzschild solution for a positive mass M 
+ds2 = dr
+2 
+2 +r2(d0 2 +sin 2 0dqi)-(l-2yM!c 2r)c2dt2 (1)
+l-2yM le r 
+can be extended to a negative mass, simply by replacing M with -M: 
+(2) 
+where y is Newton's constant. 
+One therefore has to raise the question if nature has not made use of negative masses 
+somewhere. Over and over again we have found that what is possible, within the 
+framework of the fundamental laws of physics, exists. Only one important physical set 
+of laws, Einstein's special theory of relativity appears to forbid the existence of negative 
+masses. This is because in a relativistic quantum field theory the particle number is not 
+a conserved quantity, and the existence of negative masses would make all matter 
+unstable against decay into negative masses. 
+UNCLASSIFIED/fFOA OFFI&il.t.k lellii OJi,k¥ 
+3

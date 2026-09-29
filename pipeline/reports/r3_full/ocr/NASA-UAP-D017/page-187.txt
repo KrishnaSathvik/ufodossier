@@ -1,0 +1,26 @@
+White 
+179 
+thrusters continued to fire throughout t he 
+maneuver at interv al s like there was indeed a 
+signal coming from the Horizon Scan Mode. As 
+the spacecraft starte d back down toward the 
+horizon , I thought sure that the horizon scanner 
+would catch the horizon , because at this time 
+the sun was no longer right on the horizon . 
+However, we developed a slight amount of roll 
+during the l ast 120 to 150 degrees of pitch , 
+and as we went down through the horizon , we were out 
+of limits in roll and Horizon Scan did not pick 
+up the horizon . I then took over the spacecraft 
+and maneuvered back to a position from which the 
+Horizon Scan Mode could r eacquire and -put it 
+in t his condi t ion . It s t ayed locked on. Ed has 
+a few notes here . We ' ll have him read his . 
+About the only notes that I ma.de on .the scanner 
+was that at sunset and sunrise it had a tendency 
+to break lock . I have a note her€ that at 22: 22, at 
+sunset with the sun right on the scanner , i . e . 
+90 degrees to the spacecraft , the scanner 
+bro ke lock three different times . At 22: 58, a t 
+sunrise , the scanner put in spurious inputs 
+but was abl e t o control and didn ' t lose lock.

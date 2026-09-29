@@ -1,0 +1,45 @@
+UNCLASSIFIED/ /FOR OFFIEIAk WS& OPtkY 
+Spacing, d (µm) 
+0.5 0.6 0.7 0.8 0.9 1.0 
+0 
+-
+5 
+l 
+i=;;_;......,
+-= 10 
+~ 
+X 
+~ 
+G,l 
+15 
+.:e ..... 
+·= e20 
+~ 
+~ 
+~ 
+~ 25 
+30 
+. ----1-·---·mput K=4energy 
+---- ----
+output 
+energy 
+Figure 10. Tunable Casimir Effect: Engine Cycle 
+Another "tunable" conductive-type plate experiment under consideration involves the 
+use of plates consisting of three-dimensional photonic crystals, with the bandgap of the 
+photons that can transmit through the structure being a "tunable" value. Using 
+microelectromechanical processing methods, Sandia National Laboratory has produced 
+such crystals and is researching methods of actively modifying the structures while in 
+use (Reference 32). The technology requirements for this concept are the nano­
+fabrication of microcavities with thin-film deposited surfaces, RF-driven piezoelectric 
+mounts for cavity oscillation, mirror-switching modality (for example, hydrogen 
+pressure modulation), and calorimetric measurement of energy/heat production. 
+An initial experiment to explore this concept was recently performed by Iannuzz i et al. 
+(Reference 33). They investigated the effect of hydrogen switchable mirrors (HSMs) on 
+the Casimir force. HSMs are shiny metals in their "as deposited" state. However, when 
+they are exposed to a hydrogen-rich atmosphere, they become optically transparent. 
+Because the electromagnetic ZPF depends on the optical properties of the surfaces, the 
+Casimir force of attraction between two HSMs in air should be different than the 
+attraction between the same HSMs immersed in a hydrogen-rich atmosphere. That is 
+because one expects that the Casimir force will be much weaker when the HSM is in the 
+UNCLASSIFIED/ /FOR OFFICIO! P!ili QIU.,¥ 
+16

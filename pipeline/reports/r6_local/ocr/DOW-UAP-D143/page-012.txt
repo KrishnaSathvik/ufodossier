@@ -1,0 +1,46 @@
+UNCLASSIFIED/ /fOR. 8FFI61Ak U&i 0'911.¥ 
+The communications subsystem is further complicated by constellations requiring spin­
+stabilized nanosats. A spinning nanosat cannot easily point an antenna toward Earth. 
+Therefore, a low gain omni antenna is assumed and communications must take place 
+near perigee, when the range is 3 to 5 Earth radii. A large ground antenna and high 
+data rate compression must be used to achieve reasonable data rates with minimum 
+power. This places an additional burden on the ground stations for both sensitive 
+receivers/bit synchronizers and advanced decoders. These same considerations limit 
+data rate for satellite-to-satellite communication. 
+Although the inclusion of an onboard command receiver is high ly desired, it puts an 
+additional strain on an already challenged nanosat mass and power budget . For this 
+reason, the concept of a totally autonomous, receiverless nanosat design appears most 
+attractive. However, "receiver-on-a-ch ip" technology has advanced to the point where 
+including a receiver onboard looks feasible. The biggest disadvantage of a receiver now 
+becomes the ground personnel and software needed to support the ability to command 
+the nanosat. Command actions taken onboard will of course be limited to basic 
+functions such as "transmit data" because of the lack of redundancy and mechanical 
+functions. Although scenarios have been defined to allow nanosats to autonomously 
+determine when to transmit their stored data, utilizing a receiver to control the 
+telemetry downlink from the ground still has value. The capability of uploading flight 
+software changes, as well as sending a master reset if necessary, would also exist with 
+such an onboard command receiver. 
+MECHANICAL AND STRUCTURES 
+The nanosat mechanical system will be kept as simple as possible. The ideal nanosat 
+mechanical design should consist of a one-piece structure on which all other 
+components are mounted. 
+Multifunctional structures can provide thermal control, shielding and serve as substrates 
+for printed circuit boards. For example, diamond facesheet honeycomb panels can 
+serve as a structure, thermal conductor and radiator, and printed circuit board 
+substrates. The diamond facesheet provides ten times greater thermal conductivity 
+than aluminum and can dissipate heat from high power density electronics modules 
+with a low mass comparable to carbon fiber composites. Another example is the 
+structural battery system. It consists of a honeycomb panel whose core is filled with 
+the cells of a nickel-hydrogen battery (or other flight qualified cell technology). 
+Concurrent engineering and fabrication techniques will be used to create a single 
+computer model for the design, analysis (structural, thermal, and dynamic), and 
+fabrication of the nanosat and its components. Dynamic modeling capabilities to 
+simulate nanosat deployments will provide faster designs and a reduction in the amount 
+of deployment test ing required. This approach will significantly lower development 
+costs by reducing duplication of effort, chances of errors, the number of drawings and 
+paperwork required. 
+Mass production techniques not traditionally used for spaceflight hardware will be used, 
+such as casting and injection molding. Options being considered for the nanosat 
+structure material are: cast aluminum; cast aluminum-beryllium alloy; injection molded 
+UNCLASSIFIED,<,<FOA QFFIEiIAL HSI!! OHLY 
+8

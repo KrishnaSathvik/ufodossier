@@ -1,0 +1,20 @@
+UNCLASSIFIED//&OR Oii&ICI0L Ll&li QPIL¥ 
+Position of 
+focused GW 
+generated 
+IR monomode waveguide 
+formed by active material 
+High power IR source 
+Figure 3. Circular Resonator Geometry Using Infrared Excitation 
+Analogous to Figure 2, we see in Figure 4 the radiation pattern for a pair of orbiting 
+masses. 
+GW 
+I 
+.1 
+GW 
+' Figure 4. Radiation Pattern Calculated by Landau and Lifshitz (1975) 
+Next consider a number N of such orbit planes stacked one on top of another with the 
+gravitational-wave (GW) radiation growing flux (Wm-2) proportional to N2 as the GW 
+moves up the axis of the N orbit planes as in Figure 5. 
+UNCLASSIFIED/ /FOP OiiiilCl.t.k l!ISI!!! l>flti 
+8

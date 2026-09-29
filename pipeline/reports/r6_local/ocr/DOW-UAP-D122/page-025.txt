@@ -1,0 +1,32 @@
+UNCLASSIFIED/ /FOR: errl@IAL YSI: e .. tv 
+hemisphere invisible and creating the same illusion as shown in A. Alternatively (D), one could expand the red line 
+that light never crosses to create a hidden space. 
+Why are such curved optical spaces of any practical advantage? They seem more 
+complicated, but the distortion of space in such spaces is always finite, never infinite as 
+in the conventional Euclidean cloaking devices. As the spatial distortions directly 
+correspond to the required refractive indices, the required optical properties are never 
+infinite, and hence such devices can, in principle, operate in a broad band of the 
+spectrum. Curved space is more practical than flat space, although the theory is more 
+complicated. These ideas can be extended from the two-dimensional toy model to the 
+three-dimensional world, but they can no longer be visualized. Figure 21 below shows 
+some ray trajectories in three-dimensional non-Euclidean cloaking devices. 
+Figure 21. Three-Dimensional Cloaking. One can extrapolate the ideas illustrated in the previous figure to 
+three-dimensional space, replacing the plane by flat space and the sphere by a hypersphere. The lentil-shaped 
+object indicates the hidden interior of the device; the partly shaded grid, the boundary of the invisibil ity device. For 
+better contrast , light rays are shown in red. A: Rays are bent around the invisible region. B: In three dimens ions, 
+some rays turn out to perform two loops in hyperspace that appear in physical space as light wrapped around the 
+invisible interior . 
+Such non-Euclidean cloaking devices are imperfect because they delay the light 
+traveling through the cloak. With sensitive timing or wave-front sensing one could, in 
+principle, detect the presence of the cloaking device. Perfect cloaking is impossible, but 
+as long as time delays and wave-front dislocations are of no concern, invisibility could 
+become reality. 
+Implementation 
+Non-Euclidean cloaking devices do not have an obvious symmetry like the Euclidean 
+microwave-cloaking device. 36 They require materials with an electromagnetic response 
+that varies from cell to cell and is anisotropic. Most probably, such cloaking structures 
+can be made for microwaves. A precursor of the necessary technology is the recently 
+demonstrated ground-plate cloak. 37 This device implements the coordinate 
+transformation shown below (that already appeared in the first paper on cloaking by 
+UNCLASSIFIED/ /&OR OFFICI.t.k WS& 8,.LY 
+20

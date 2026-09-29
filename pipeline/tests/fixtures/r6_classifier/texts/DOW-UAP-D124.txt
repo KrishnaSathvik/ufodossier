@@ -1,0 +1,190 @@
+--- PAGE 1 ---
+UNCLASSIFIED/ /FOROFFICTAT USE UNLY
+
+Defense
+Intelligence
+Reference
+Document
+
+BR Acquisition Threat Support
+
+8 March 2010
+
+ICOD: 1 December 2009
+
+DIA-08-1001-006
+
+Space Access: Where We've
+Been. ..and Where We Could
+
+Go
+
+UNCLASSIFIED / /$OR-OFFECEAEUSE-ONET
+
+--- PAGE 2 ---
+UNCLASSIFIED/ /FQA QFFl61alil l!ISI!! 91ft I 
+Space Access: Where We've Been . . . and Where We Could 
+Go 
+Prepared by: 
+Acquisition Support Division (DW0-3) 
+Defense Warning Office 
+Directorate for Analysis 
+Defense Intelligence Agency 
+Author: 
+AAP Person 67 
+Administrative Note 
+COPYRIGHT WARNING: Furthe r dissemin ation of the photo graphs in this publication is not authorized. 
+This product is one in a series of advanced technology reports produced in FY 2009 
+under the Defense Intelligence Agency, Defense Warning Office's Advanced Aerospace 
+Weapon System Applications (AAWSA) Program. Comments or questions pertaining to 
+this document should be addressed tolAAP Person 1 I, AAWSA Program 
+Manager, Defense Intelligence Agency, ATTN: CLAR/DW0 -3, Bldg 6000, Washington, 
+DC 20340-5100 . 
+UNCLASSIFIED/ /FQA QFFICl1'1k W&li 8HLY 
+ii
+
+--- PAGE 3 ---
+UNCLASSIFIED/;'FOR OFFI@IAL l:ISE OHL¥ 
+Contents 
+Introduction ............................................................................................................ v 
+Propulsion Perspective ........................................................................................... 1 
+Hypersonic Configuration Concepts ........................................................................ 2 
+Thermodynamics and Materials ............................................................................ 16 
+The Qu Tube ......................................................................................................... 23 
+Rocket Propulsion ................................................................................................ 25 
+Up-and-Down Operations ..................................................................................... 30 
+Launch Options .................................................................................................... 33 
+Atmospheric Variations ........................................................................................ 35 
+Conclusion ............................................................................................................ 37 
+Appendix A: Historical Perspective ....................................................................... 43 
+Appendix B: Aeropropulsion Integrated Vehicle ................................................. .. 46 
+Appendix C: TAV Operational Costs ............. ......................................................... 47 
+Appendix D: Landing Ellipses for Hypersonic Gliders ..... ........................... ............ 48 
+Figures 
+Figure 1. Hardware Flow ........... ............................................................................. vi 
+Figure 7. Detailed Design Analyses Show the Weight Trends are as Much a 
+Figure 9. NASA Langley Wing-Body Configuration WB-004 with Critical Areas for 
+Figure 15. Both Delta Planform Lifting Body (Dynasoar) and Model 176 Offer 
+Figure 2. Impact of Air-Breathing Rocket ................................................................ 1 
+Figure 3. HSVS Hypersonic Cruise Aircraft Showing True Skin Temperature ........... 3 
+Figure 4. Hypersonic Rocket -Powered Glider Hypersonic Air - Breathing Cruiser ...... 4 
+Figure 5. Delta-Lifting Body Designs ....................................................................... 5 
+Figure 6. Martin Marietta X-24 A & B Research Gliders ............................................ 7 
+Function of Configuration Family as Lift-to-Drag Ratio ............................ 9 
+Figure 8. High-Performance Hypersonic Glide Aircraft .......................................... 10 
+Wing Bodies Identified ........................................................................... 11 
+Figure 10. FDL-7C/D and FDL-7MC Lifting-Body Configuration .............................. 12 
+Figure 11. FDL-7C/D with a DuPont Retractable Inward-Turning Inlet .............. ... 12 
+Figure 12. Comparison of FDL-7C/D and Model 176 .............................................. 13 
+Figure 13. Sufficient Cross Range (L/D) Means There is No Waiting to Return .... . 14 
+Figure 14. Hypersonic Glider Characteristics ......................................................... 15 
+Superior Landing Performance ............................................................. 16 
+Figure 16. McDonnell Aircraft Company Roll-Bonded Titanium Structure .............. 17 
+UNCLASSIFIED/ /FOR OFFICIO! 1155 ON! X 
+iii
+
+--- PAGE 4 ---
+UNCLASSIFIED/ /POI': OPPIEIJct t:191! BHL'f 
+Figure 17. Model 176 in the McDonnell Douglas Hypervelocity Impulse Tunnel .... 18 
+Figure 18. FDL-7C/D, Model 176 Entry Temperature Distribution ......................... 19 
+Figure 19. Even At Mach 12, Embedded Vortices in the Boundary Layer Alter the 
+Local Heat Transfer .............................................................................. 19 
+Figure 20. Thermographic Phosphor Image of Model 176 at Near-Maximum 
+Angle of Attack ..................................................................................... 20 
+Figure 21. From L/D Maximum to Maximum Angle of Attack, There Is Always a 
+Cool Sub-layer Adjacent to the Wall ..................................................... 20 
+Figure 22. This 1988 SEP Bordeaux SiC/SiC Panel Could Sustain Temperatures of 
+up to 3,000°F ........................................................................................ 21 
+Figure 23. UBE Corporation's Tyranno Cloth .......................................................... 21 
+Figure 24. A Porous Nickel Tip Oozing Water ........................................................ 21 
+Figure 25. FDL ASSET Flight-Tested From Orbital Speeds to Evaluate 1960s 
+Materials .............................................................................................. 22 
+Figure 26. Heat Pipe Shuttle Leading Edge Designed and Built by McDonnell 
+Figure 27. Boost-Glide Strategic Vehicle with Pratt & Whitney XLR-129 Rocket 
+Douglas Astronautics ........................................................................... 22 
+Engine Installed ................................................................................... 25 
+Figure 28. XLR-129 ............................................................................................... 25 
+Figure 29. Two Rocket Air-Breathing Rocket Cycles to Mach 5.5 ........................... 27 
+Figure 30. HOTOL Evolution: From Aerodynamic Optimum Configuration to 
+Practical Launcher Configuration ......................................................... 27 
+Figure 31. LACE Air-Breathing Rocket ................................................................... 29 
+Figure 32. The FDL-7 Class of Vehicles .................................................................. 29 
+Figure 33. Takeoff and Landing Speeds of Minimum-Sized Launchers ................... 30 
+Figure 34. Horizontal launch Not Practical Unless Weight Ratio Less Than Four ... 31 
+Figure 35. Propellant Tanks That Are Not Reentry Vehicles Greatly Reduce 
+System Weight ..................................................................................... 33 
+Figure 36. Simple Horizontal Integration and Vertical Launch Provides Rapid 
+Launch Capability ................................................................................. 34 
+Figure 37. A Vertical Launch Complex Provides Vertical Toss Back Booster 
+Recovery and Horizontal Landing Facilities for the Hypersonic Gliders 34 
+Figure 38. A 1964 MDC Astronautics, St. Louis, Briefing ........................................ 35 
+Figure 39. Earth's Atmosphere .............................................................................. 36 
+Figure 40. FDL-5 Scale Model of A Stage and One-Half .......................................... 37 
+Figure 41. The FDL-7 and Model 176 Class of Hypersonic Gliders .......................... 37 
+Figure 42. Hypersonic Decelerating ....................................................................... 38 
+Figure 43. Where We Are Today ............................................................................ 39 
+Figure 44. Where We Could Be If We Can Recapture the Engineering Confidence 
+and Expertise of the Apollo/Saturn V Era ............................................. 40 
+Figure 45. TAV Operational Costs .......................................................................... 47 
+Figure 46. Landing Ellipse ..................................................................................... 48 
+Tables 
+Table 1. Characteristics of Selected Flight Dynamics Laboratory Hypersonic 
+Glider Configurations During the 1958-68 Timeframe ............................... 6 
+Table 2. Elements of the Space Infrastructure Shown in Figure 44 ....................... 41 
+UNCLASSIFIED/ ;CfOR. OFFI&IAI: W&li &Ptklf 
+iv
+
+--- PAGE 5 ---
+UNCLASSIFIED/ fFOR OFFIE!IAL l::l!H! 8HL'I 
+Space Access: Where We've Been . . . and Where We Could 
+Go 
+Introduction 
+Development of commercial access to space by our budding space­
+faring civilization is a straightforward effort dominated by 
+propulsion and reliability. The initial focus should be on schedulable, 
+dependable access to and from low Earth orbit (LEO). For years we 
+have known the means to accomplish such a task but have lacked a 
+dedicated organized effort. The key requirement is to develop a 
+robust and not necessarily a low-cost infrastructure, without which 
+commercial exploitation of LEO and the moon will not be possible. 
+This is a matter of skill; operational hardware based on durable, 
+reliable, and demonstrated components; and operational systems. It 
+is not necessarily a matter of technology. However, technology 
+discovery and development are necessary for future space travel 
+beyond Earth's environs. This paper addresses these issues by 
+providing a running account of the historical details associated with 
+the development of the myriad systems proposed and tested to 
+provide access to space. 
+Among the many advances in space access that will be possible in 
+the future,1 the key technology developments will be in the area of 
+propulsion, because without these we are confined to our solar 
+system by flight times limited to a project team's functional life. The 
+Pioneer spacecraft were fortunate to be monitored for 20 years. 
+However, the issue facing our spaceflight organizations is the lack of 
+a durable, consistent, schedulable, and frequent hardware system to 
+and from space assets such as the International Space Station. 
+In October 1958, the author's job in the vertical wind tunnel at 
+Wright-Patterson Air Force Base abruptly changed; hypersonic and 
+high-temperature flows became a new focus. What was then the 
+Aircraft Laboratory was to become the Air Force Flight Dynamics 
+Laboratory (AFFDL), with a focus on space flight. Al Draper of the 
+AFFDL began working with a select group of aerospace firms on 
+hypersonic gliders. The initial requirement from the Air Force was to 
+quickly find operational access to space. Technology application, 
+hardware design and fabrication with an innovative application, and 
+extending the industrial capabilities of the time were very much the 
+issue, as exemplified by the Lockheed A-12/SR-71. When asked 
+about space access at the time, a group of Aerospace Corporation 
+UNCLASSIFIED/ /FOR. OFFICI CIs. flili Qllls.¥ 
+V
+
+--- PAGE 6 ---
+UNCLASSIFIED/ ,«POil Offl@IAL YSli QPU,¥ 
+veterans responded, "It was not a technology issue; it was a 
+hardware issue." 
+In a keynote address to the Aeronautical Revolutionary Concepts 
+Workshop sponsored by the Vehicle Applications Panel of the 
+National Research Council and held at NASA Ames in July 1984, 
+then-Assistant Secretary of Commerce for Productivity, Technology, 
+and Innovation Dr. D. Bruce Merrifield identified the problem of 
+translating ideas into prod

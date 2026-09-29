@@ -1,0 +1,21 @@
+UNCLASSIFIED/ /fOR. 8FFI61.t..k W&i QJsll,¥ 
+in which the luminal rotational motion emerges as a fluctuation of the electron 
+coordinate, called by Schrodinger Zitterbewegung (German for quivering motion). 
+We may analyze the simple pole-dipole model in more detail as follows. If the positive 
+and negative masses are m+, m-, with m+ -1m-1<< m+ , and with the mass pole given 
+by 
+(38) 
+the mass dipole is 
+(39) 
+where r << re is the distance of separation in between m+ and m-. The center of mass 
+is determined by 
+(40) 
+The angular momentum then becomes (mis the angular velocity of circular motion with 
+rJJ) ➔ C): 
+(41) 
+Comparing (40) with (37) shows that 
+(42) 
+and 
+(43) 
+UNCLASSIFIED/fFOA OFFI&I.t.k W&li OJi,k¥ 
+13

@@ -1,0 +1,278 @@
+[
+  {
+    "filename": "DOW-UAP-D099.pdf",
+    "alarm": "high_ocr_failure",
+    "ocr_failure_rate": 0.25,
+    "needs_review": true
+  },
+  {
+    "filename": "FBI-UAP-D024.pdf",
+    "alarm": "high_quote_rejection",
+    "quote_rejection_rate": 0.5,
+    "needs_review": true
+  },
+  {
+    "filename": "FBI-UAP-D027.pdf",
+    "alarm": "high_ocr_failure",
+    "ocr_failure_rate": 0.6,
+    "needs_review": true
+  },
+  {
+    "filename": "DOW-UAP-D099.pdf",
+    "alarm": "ocr_failure_gt20pct",
+    "ocr_failure_rate": 0.25,
+    "needs_review": true
+  },
+  {
+    "filename": "DOW-UAP-D100.pdf",
+    "alarm": "very_large_document",
+    "page_count": 245,
+    "needs_review": true
+  },
+  {
+    "filename": "DOW-UAP-D101.pdf",
+    "alarm": "extract_zero_accepted",
+    "candidates": 1,
+    "quote_rejected": 1,
+    "evidence_insufficient": 0,
+    "needs_review": true
+  },
+  {
+    "filename": "FBI-UAP-D026.pdf",
+    "alarm": "extract_zero_accepted",
+    "candidates": 1,
+    "quote_rejected": 1,
+    "evidence_insufficient": 0,
+    "needs_review": true
+  },
+  {
+    "filename": "FBI-UAP-D027.pdf",
+    "alarm": "ocr_failure_gt20pct",
+    "ocr_failure_rate": 0.6,
+    "needs_review": true
+  },
+  {
+    "filename": "FBI-UAP-D028.pdf",
+    "alarm": "extract_zero_accepted",
+    "candidates": 1,
+    "quote_rejected": 1,
+    "evidence_insufficient": 0,
+    "needs_review": true
+  },
+  {
+    "filename": "FBI-UAP-D038.pdf",
+    "alarm": "ocr_failure_gt20pct",
+    "ocr_failure_rate": 1.0,
+    "needs_review": true
+  },
+  {
+    "filename": "FBI-UAP-D042.pdf",
+    "alarm": "ocr_failure_gt20pct",
+    "ocr_failure_rate": 1.0,
+    "needs_review": true
+  },
+  {
+    "alarm": "paired_source_without_event",
+    "external_id": "CIA-UAP-D022",
+    "pdf_pairing": "CIA-UAP-D023",
+    "left_has_accepted": false,
+    "right_has_accepted": true,
+    "needs_review": true
+  },
+  {
+    "alarm": "paired_source_without_event",
+    "external_id": "CIA-UAP-D023",
+    "pdf_pairing": "CIA-UAP-D022",
+    "left_has_accepted": true,
+    "right_has_accepted": false,
+    "needs_review": true
+  },
+  {
+    "alarm": "paired_source_without_event",
+    "external_id": "DOS-UAP-D001",
+    "pdf_pairing": "EOP-UAP-D001 | DOS-UAP-D002",
+    "left_has_accepted": false,
+    "right_has_accepted": true,
+    "needs_review": true
+  },
+  {
+    "alarm": "paired_source_without_event",
+    "external_id": "DOS-UAP-D002",
+    "pdf_pairing": "EOP-UAP-D001 | DOS-UAP-D001",
+    "left_has_accepted": true,
+    "right_has_accepted": false,
+    "needs_review": true
+  },
+  {
+    "alarm": "paired_source_without_event",
+    "external_id": "DOW-UAP-D098",
+    "pdf_pairing": "DOW-UAP-D103 | DOW-UAP-D104 | DOW-UAP-D105",
+    "left_has_accepted": false,
+    "right_has_accepted": false,
+    "needs_review": true
+  },
+  {
+    "alarm": "paired_source_without_event",
+    "external_id": "EOP-UAP-D001",
+    "pdf_pairing": "DOS-UAP-D001 | DOS-UAP-D002",
+    "left_has_accepted": false,
+    "right_has_accepted": true,
+    "needs_review": true
+  },
+  {
+    "alarm": "paired_source_without_event",
+    "external_id": "FBI-UAP-D024",
+    "pdf_pairing": "FBI-UAP-D025",
+    "left_has_accepted": true,
+    "right_has_accepted": false,
+    "needs_review": true
+  },
+  {
+    "alarm": "paired_source_without_event",
+    "external_id": "FBI-UAP-D025",
+    "pdf_pairing": "FBI-UAP-024",
+    "left_has_accepted": false,
+    "right_has_accepted": true,
+    "needs_review": true
+  },
+  {
+    "alarm": "paired_source_without_event",
+    "external_id": "FBI-UAP-D026",
+    "pdf_pairing": "FBI-UAP-027",
+    "left_has_accepted": false,
+    "right_has_accepted": false,
+    "needs_review": true
+  },
+  {
+    "alarm": "paired_source_without_event",
+    "external_id": "FBI-UAP-D027",
+    "pdf_pairing": "FBI-UAP-026",
+    "left_has_accepted": false,
+    "right_has_accepted": false,
+    "needs_review": true
+  },
+  {
+    "alarm": "paired_source_without_event",
+    "external_id": "FBI-UAP-D028",
+    "pdf_pairing": "FBI-UAP-D029",
+    "left_has_accepted": false,
+    "right_has_accepted": false,
+    "needs_review": true
+  },
+  {
+    "alarm": "paired_source_without_event",
+    "external_id": "FBI-UAP-D029",
+    "pdf_pairing": "FBI-UAP-D028",
+    "left_has_accepted": false,
+    "right_has_accepted": false,
+    "needs_review": true
+  },
+  {
+    "alarm": "paired_source_without_event",
+    "external_id": "FBI-UAP-D030",
+    "pdf_pairing": "FBI-UAP-D031",
+    "left_has_accepted": true,
+    "right_has_accepted": false,
+    "needs_review": true
+  },
+  {
+    "alarm": "paired_source_without_event",
+    "external_id": "FBI-UAP-D031",
+    "pdf_pairing": "FBI-UAP-D030",
+    "left_has_accepted": false,
+    "right_has_accepted": true,
+    "needs_review": true
+  },
+  {
+    "alarm": "paired_source_without_event",
+    "external_id": "FBI-UAP-D037",
+    "pdf_pairing": "FBI-UAP-D038 | FBI-UAP-D039",
+    "left_has_accepted": false,
+    "right_has_accepted": false,
+    "needs_review": true
+  },
+  {
+    "alarm": "paired_source_without_event",
+    "external_id": "FBI-UAP-D038",
+    "pdf_pairing": "FBI-UAP-D037 | FBI-UAP-D039",
+    "left_has_accepted": false,
+    "right_has_accepted": false,
+    "needs_review": true
+  },
+  {
+    "alarm": "paired_source_without_event",
+    "external_id": "FBI-UAP-D039",
+    "pdf_pairing": "FBI-UAP-D037 | FBI-UAP-D038",
+    "left_has_accepted": false,
+    "right_has_accepted": false,
+    "needs_review": true
+  },
+  {
+    "alarm": "paired_source_without_event",
+    "external_id": "FBI-UAP-D040",
+    "pdf_pairing": "FBI-UAP-D041 | FBI-UAP-D042",
+    "left_has_accepted": false,
+    "right_has_accepted": false,
+    "needs_review": true
+  },
+  {
+    "alarm": "paired_source_without_event",
+    "external_id": "FBI-UAP-D041",
+    "pdf_pairing": "FBI-UAP-D040 | FBI-UAP-D042",
+    "left_has_accepted": false,
+    "right_has_accepted": false,
+    "needs_review": true
+  },
+  {
+    "alarm": "paired_source_without_event",
+    "external_id": "FBI-UAP-D042",
+    "pdf_pairing": "FBI-UAP-D040 | FBI-UAP-D041",
+    "left_has_accepted": false,
+    "right_has_accepted": false,
+    "needs_review": true
+  },
+  {
+    "alarm": "one_event_many_sources",
+    "event_id": "evt-0044",
+    "source_count": 3,
+    "sources": [
+      "FBI-UAP-D002.pdf",
+      "FBI-UAP-D003.pdf",
+      "ICA-UAP-D001.pdf"
+    ],
+    "needs_review": true
+  },
+  {
+    "alarm": "one_source_many_events",
+    "source_filename": "FBI-UAP-D012.pdf",
+    "event_count": 14,
+    "needs_review": true
+  },
+  {
+    "alarm": "one_source_many_events",
+    "source_filename": "DOW-UAP-D088.pdf",
+    "event_count": 67,
+    "needs_review": true
+  },
+  {
+    "alarm": "one_source_many_events",
+    "source_filename": "FBI-UAP-D013.pdf",
+    "event_count": 8,
+    "needs_review": true
+  },
+  {
+    "alarm": "one_source_many_events",
+    "source_filename": "DOE-UAP-D004.pdf",
+    "event_count": 10,
+    "needs_review": true
+  },
+  {
+    "alarm": "source_only_sibling_inconsistency",
+    "left": "DOW-UAP-D089",
+    "right": "DOW-UAP-D090",
+    "left_action": "extract",
+    "right_action": "source_only",
+    "needs_review": true,
+    "note": "R4 carry-forward classifier watch"
+  }
+]

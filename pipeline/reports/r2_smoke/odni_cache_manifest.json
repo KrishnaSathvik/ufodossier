@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-09-25T18:38:40.738523+00:00",
+  "production_writes": false,
+  "out_dir": ".cache/files/pursue/r2",
+  "fetched": [
+    {
+      "external_id": "ODNI-UAP-D001",
+      "status": "downloaded",
+      "path": ".cache/files/pursue/r2/ODNI-UAP-D001.pdf",
+      "byte_size": 58516,
+      "sha256": "bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64319dbffb",
+      "url": "https://www.war.gov/medialink/ufo/052226/release_02/documents/ODNI-UAP-D001_USPER_Narrative_Senior_USIC.pdf",
+      "title": "ODNI-UAP-D001, USPER Narrative, Senior USIC Official",
+      "content_type": "application/pdf"
+    }
+  ],
+  "errors": []
+}

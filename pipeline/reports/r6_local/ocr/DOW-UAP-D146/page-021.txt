@@ -1,0 +1,14 @@
+UNCLASSIFIED/ /POI\ OPPICIJIIL l:ISE 8Ptk¥ 
+capable of either generating low-thrust, high-specific-impulse exhaust or relatively 
+high-thrust, low-specific-impulse exhaust. The intention of the VASIMR design is to 
+bridge the gap between high-thrust, low-specific-impulse propulsion systems and low­
+thrust, high-specific-impulse systems. AdAstra is currently testing the VX-200 engine (a 
+200-kW engine). The power distribution is as follows: A helicon discharge uses 30 kWe 
+(kilowatts, electrical}for ionizing the argon gas using RF waves and uses 170 kWe for 
+powering the ion cyclotron resonance to heat and accelerate plasma in the second part 
+of the engine. The specific impulse is optimally ~5,000 seconds, with a specific power 
+of ~1.5 kg/kW. The mass of the VX-200 engine is estimated at ~300 kg. NASA intends 
+to test this engine on the International Space Station using a large battery to power it 
+during the tests. 
+UNCLASSIFIED/ /POlt OPPl@IAL 1:191! 8HL1/ 
+16

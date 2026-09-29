@@ -1,0 +1,51 @@
+UNCLASSIFIED/ /FOR OFFI@IAL 1::191!! 8HLY 
+Table 1. Metric Effects on Physical Processes in an Altered Spacetime as 
+Interpreted by a Remote (Unaltered Spacetime) Observer 
+Variable Typical Stellar Mass 
+(goo < 1, lg11 I>1) 
+Spacetime-Engineered 
+Metric 
+(g(X) > 1, lg11 I < 1) 
+. M ➔ tit/ ji:iTime Interval 00 
+Processes (for example, 
+clocks) run slower 
+Processes (for example, 
+clocks) run faster 
+w ➔ wji;;Frequency 00 
+Redshift toward lower 
+frequencies 
+Blueshift toward higher 
+frequencies 
+E ➔ E.ji;;Enerqv 00 Energy states lowered Energy states raised 
+t. 1 !::.r ➔ t::.r/~Spa ,a 
+Objects (for example, 
+rulers) shrink 
+Objects (for example , 
+rulers) expand 
+Velocity vL = c ➔ c.Jgoo / - 811 Effective v L < c Effective v L > c 
+Mass m= E/ c2 ➔ (-g IJ.Ji:;)m Effective mass increases Effective mass decreases 
+Gravitational "force" 
+f(g oo ,81 1) "Gravitational" "Antig ravitationa I" 
+Spatial Interval 
+Again, by considering the case typical for an altered spacetime metr ic in the vici nit y of, 
+say, a stellar mass, then ~> 1 for the radia l dimens ion x1 = r, as expressed by the 
+second term in Equation ( 4 ). Therefore, local measurements with physical rulers within 
+the altered spacet ime yield a spatial interval ~dr > dr; thus a spatial interval dr 
+between two locations in an undistorted spacetime - say, remote from the mass- would 
+be judged by local (proper) measurement from within the altered spacetime to be 
+greater. From th is one can rightly infer that, relatively speaking, rulers (atom ic 
+spacings and so forth) within the altered spacetime are shrunken relative to their 
+values in unaltered spacetime. Given this result, a physical object (for example, atom ic 
+orbit) that possesses a measure !::.r in unaltered spacetime shrinks to !::..r ➔ t::.r/ ~ 
+when placed with in the altered spacetime . Conversely, under conditions for which 
+~< 1, objects would expand-thus the fourth entry for the table of physical effects. 
+Velocity of Light in Spacetime-Altered Regions 
+Interior to a spacetime region altered by, say, a dense mass (for example , a black 
+hole), the locally measured velocity of light c in, say, the x1 = r direction is given by the 
+ratio of locally measured (proper) distance/time intervals for a propagating light signal 
+( Reference 13). 
+; .J-g,1 dr 
+V = --- = C (6) 
+L ..{i;;dt 
+UNCLASSIFIED/ /FOR OFFI@IAL l::ISE OHL¥ 
+4

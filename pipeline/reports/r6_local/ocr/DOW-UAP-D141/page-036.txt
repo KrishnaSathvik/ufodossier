@@ -1,0 +1,41 @@
+UNCLASSIFIED/ (EAR OFEICJ0k W&E 8Htt 
+[5] A. Alu, M. G. Silveirinha, A. Salandrino, and N. Engheta, "Epsilon-Near-Zero 
+Metamaterials and Electromagnetic Sources: Tailoring the Radiation Phase Pattern," 
+Physical Review B 75, 155410 (2007). 
+[6] D. Schurig, J. J. Mock, B. J. Justice, S. A. Cummer, J. B. Pendry, A. F. Starr, D. R. 
+Smith, "Metamaterial Electromagnetic Cloak at Microwave Frequencies", Science 314, 
+977 (2006). 
+[7] Hu Tao, Nathan I. Landy, Christopher M. Bingham, Xin Zhang,Richard D. Averitt, 
+and Willie J. Padilla, "A metamaterial absorber for the terahertz regime: Design, 
+fabrication and characterization", Opt. Express 16, 7181 (2008). 
+[8] R. Liu, Q. Cheng, T. Hand, J. J. Mock, T. J. Cui, S. A. Cummer, and D. R. Smith, 
+"Experimental Demonstration of Electromagnetic Tunneling Through an Epsilon-Near­
+Zero Metamaterial at Microwave Frequencies", Phys. Rev. Lett. 100, 023903 (2008). 
+[9] H.-T. Chen, J. F. O'Hara, A. J. Taylor, R. D. Averitt, C. Highstrete, M. Lee, and W. J. 
+Padilla, "Complementary planar terahertz metamaterials," Opt. Express 15, 1084-1095 
+(2007). 
+[10) J. Valentine, S. Zhang, T. Zentgraf, E. Ulin-Avila, D. A. Genov, G. Bartal & X. 
+Zhang, "Three-dimensional optical metamaterial with a negative refractive index", 
+Nature! 455, 376 (2008). 
+[11] A. F. Hoffman et. al., ,,Negative refraction in semiconductor metamaterials", 
+Nature Materials 6, 946 (2007). 
+[12] Y. A. Urzhumov and G. Shvets, "Optical magnetism and negative refraction in 
+plasmonic metamaterials", Solid State Comm. 146, 208 (2008). 
+[13) R. Merlin, "Metamaterials and the Landau-Lifshitz permeability argument: Large 
+permittivity begets high-frequency magnetism", PNAS 106, 1693-1698 (2009). 
+[14) G. Shvets and Ya. A. Urzhumov, "Engineering Electromagnetic Properties of 
+Periodic Nanostructures Using Electrostatic Resonances", Phys. Rev. Lett. 93, 243902 
+(2004). 
+[15] M. Davanco, Y. Urzhumov, and G. Shvets, ''The complex Bloch bands of a 2D 
+plasmonic crystal displaying isotropic negative refraction", Opt. Exp. 15, 9681 (2007). 
+[16] Y. A. Urzhumov, G. Shvets, J. Fan, F. Capasso, D. Brandl, and P. Nordlander, 
+"Plasmonic nanoclusters: a path towards negative-index metafluids", Opt. Exp. 15, 
+14121 (2007). 
+[17] V. Lomakin, Y. Fainman, Y. Urzhumov, and G. Shvets, "Doubly negative 
+metamaterials in the near infrared and visible regimes based on thin film 
+nanocomposites", Opt. Exp. 14, 11164 (2006). 
+[18] X. Zhang, M. Davanco, Y. Urzhumov, G. Shvets, and S. R. Forrest, "From 
+Scattering Parameters to Snell's Law: A Subwavelength Near-Infrared Negative-Index 
+Metamaterial", Phys. Rev. Lett. 101, 267401 (2008). 
+UNCLASSIFIED/ {EAR OFEICll.k W8I!! eNti 
+32

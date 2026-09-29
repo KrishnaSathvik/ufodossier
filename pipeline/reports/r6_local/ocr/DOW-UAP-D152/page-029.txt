@@ -1,0 +1,53 @@
+UNCLASSIFIED / /F@R-6F624--U52-04.~
+fl ,
+F =m) Baty,
+c
+
+where
+
+B= 2 pdxr-ox(oxr)
+
+H=-2co.
+
+With
+
+curl(@xr) = 2&
+div(-@x(@Xr)) =20°,
+one has
+
+divH =0
+
+| OO allt 20,
+c Ot
+
+E and H can be derived from a scalar and vector potential
+
+E= ee. grad®
+c Ot
+H=curlA.
+
+Applied to a rotating reference system one has
+
+A i 5
+@® =-——(@xr)
+
+5! )
+A
+
+=—c(@ Xr)
+
+UNCLASSIFIED ++-@R-OFFIGEAi-USE-OE
+
+(87)
+
+(88)
+
+(89)
+
+(90)
+
+(91)
+
+(92)
+
+25

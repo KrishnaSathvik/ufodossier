@@ -1,0 +1,33 @@
+UNCLASSIFIED//POlt Offl@IAL WS& &NkY 
+Appendix D: Relativistic Rocket Worksheet 
+Estimate of the Performance of an 
+lntersteller Relativistic Space Vehic le 
+1. Define the Specifi cations for the Rocket 
+a. Rocket mass 
+3 
+°payload:= 370-10 -kg Assume the same mass as the ISS with a crew of 6. 
+~ngine := 14-ton ~ngine = 1.27 x 
+4 
+LO kg 
+11\-ocket := °payload + mengine 11\-ocket = 3.827 x 
+5 
+10 kg 
+b. Specific impulse for the engine 
+Tsp := 0.119-c 
+I 
+~ 
+C 
+= 0.119 
+2. Define the Requirements for the Mission to Alpha Centauri 
+a. Assume that the rocket will accelerate halfway to Alpha Centauri at 1 g (earth 
+gralAtational acceleration), and will decelerate during the last half of the trip at the same 
+rate. 
+a:=-g-
+1000 
+a = 9.807 X 
+- 3m lQ -
+2 s 
+ly := c-365-24-3600-s 
+D := 4.22-ly Distance to Proxima Centauri in lightyears. 
+UN CLASS IFIED/ fF&A &FFI &I:.l.k W&li &NkY 
+38

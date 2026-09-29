@@ -1,0 +1,55 @@
+UNCLASSIFIED / / POT OFFTCGEAEUSE-ONE-
+
+constraint on any Spherical IEC device planned for these applications. The observed
+loss of convergence with decreasing pressure and increasing current makes achieving
+significant beam-beam scaling far less favorable.”
+
+In addition to the issue of beam-background fusion dominating in the gridded systems
+at higher pressures, Thornson pointed out the importance of energetic ions undergoing
+charge exchange and being lost from the system. This work and others on the small
+gridded systems at that time showed several important problems which are best
+understood by considering beam-background vs. beam-beam fusion scaling. The former
+scales with density and pressure as nb: Nbk <Ov> ~ Nb + p <ov> while beam-beam
+fusion goes as nb?<ov>.
+
+Here: nb = beam ions per cm3; npk= background atoms per cm?; p = background
+pressure; <ov> is the fusion reactivity averaged over the appropriate beam-
+background (or beam-beam) distribution functions.
+
+If ions are produced as done in most small gridded experiments by electron ionization
+collisions with neutral gas during a plasma discharge between the grid and vacuum
+vessel wall, reduction of background gas pressure will also reduce the ion source,
+reducing the reaction rate. Thus, it becomes apparent that to get the favorable beam-
+beam scaling needed to go into the power reactor regime, ions must be produced
+externally while the main reaction chamber is keep at very low background pressure to
+avoid charge exchange losses. Indeed, without explaining that this was the reason,
+Hirsch used external ion “guns” in his early experiment at Farnsworth labs. The present
+author (G. Miley), however, went back to the internal discharge ion source technique to
+simplify the device for portable neutron source applications. Power devices will need to
+go back to external production of some type however. Again, this issue will be
+addressed further later.
+
+While earlier workers sought small grid openings designed to provide uniform ion flows
+for good core plasma convergence (stressed in the earlier papers already noted), Miley
+disclosed in a paper in Reference 1.5 that the STAR mode could be produced with wider
+grid openings. In fact, Miley noted that three key modes can be formed in gridded IECs
+depending on the pressure and grid openings. These are described as:
+
+“Glow discharge operation of the IECGD is categorized by three distinct discharge
+“modes”: Star, Central Spot, and Halo (illustrated in Figure 1.3). These names are quite
+descriptive of the visual appearances of the visible light emitted from the discharges. All
+three modes are reproducible and stable; each is associated with a different potential
+well structure, hence neutron production rate. The star mode was used extensively in
+recent experiments. It is distinguished by microchannels or “spokes” radiating outward
+from a bright center spot (Figure 1.4). As verified by magnetic deflection experiments,
+the spokes are primarily composed of ion beams aligned so that they pass through the
+center of the openings delineated by the grid-wires. This mode is very efficient for
+neutron production, since the large effective grid transparency allows numerous passes
+of ions through the center spot before being intercepted by the grid or being ion by
+charge exchange. The Star mode is typically obtained at lower operating pressures
+(<10 mTorr) and higher voltages (>30 kV), using a carefully formed grid with good
+sphericity and high transparency (>95 percent). The halo (or “jet”) mode occurs when
+one of the grid openings is slightly enlarged compared to the others.”
+
+8
+UNCLASSIFIED / OR-O5EL6IAL-USE-OR

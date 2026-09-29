@@ -1,0 +1,41 @@
+UNCLASSIFIED/ -F@R-OFFEGHAL-USE-ONEE-
+
+As shown in Figure 13, the last capacitor of the Super Marx is a superconducting ring
+with a large toroidal current. There the large azimuthal magnetic field set up by the
+toroidal current magnetically insulates the ring against breakdown to the wall.
+
+The load is the deuterium target shown in Figure 13. It consists of a solid deuterium rod
+covered with a thin ablator placed inside a cylindrical hohlraum. To the left of the
+hohlraum and the deuterium rod is a mini-rocket chamber filled with solid hydrogen.
+
+The method of discharging the energy from the Blumlein transmission line to the target
+then goes as follows (see Figure 13):
+
+A short laser pulse is projected into the mini-rocket chamber through a hole of an
+electrode at the center of the ring.
+
+By heating the hydrogen in the mini-rocket chamber to a high temperature, a
+supersonic hydrogen jet is emitted through the Laval nozzle toward the electrode at
+the center of the ring, forming a bridge to the target.
+
+A second laser pulse then traces out an ionization trail inside the hydrogen jet,
+facilitating an electric discharge to the target, with the space charge neutralizing
+plasma pinching the proton beam down to a small diameter.
+
+-
+
+ee © @© @ eje e# @© ® @ @ #¥ A
+
+H
+
+H, Jet ,
+ ——————e_  ——— el
+
+Target
+(a)
+
+Figure 13. The Superconducting Toroidal Capacitor (a) and Its Discharge Onto the Target (b)
+
+24
+
+UNCLASSIFIED / -FOR-OFFt6HH-USE-Of-

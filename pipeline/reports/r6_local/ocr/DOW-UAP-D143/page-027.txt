@@ -1,0 +1,40 @@
+UNCLASSIFIED F/P OR OPPICTAL USE ONLY
+
+Figure 12 shows, for a given laser aperture diameter, adaptive optics, and atmospheric
+conditions, the decrease in laser power collected by the Lightcraft with increasing range
+from a 11.2 um wavelength CO2 laser. The decrease is shown for a vertical laser-
+pointing angle and for a final laser-pointing angle of 83° (from the vertical) that occurs
+at maximum laser propulsion range (about 500 km), where the Lightcraft reaches
+maximum speed.
+
+11.2 micron Laser Beam
+Laser Wavelength Angle from
+the Vertical
+
+Laser Power Captured by Lightcraft (W)
+
+) 100 200 300 400 500
+Lightcraft Slant Range from Laser (km)
+
+Figure 12. Captured Laser Power vs. Increasing Range from 11.2 ym CO2 Laser !2°),
+
+Figure 13 shows the significant difference in the laser power collected by the Lightcraft
+during its laser propulsion phase of flight for the selected laser wavelength of 1.62 um,
+and for the 11.2 um COz laser wavelength chosen for a government baseline Lightcraft.
+This comparison is for a Lightcraft trajectory determined from optimization work during
+the latter phases of the Froning and Davis study. It was also for the highest radiated
+power (10 MW) and the largest laser aperture (10 m) that was deemed practical for Air
+Force operations and systems.
+
+Unfortunately the demonstrated laser beam power levels for the attractive 1.62 um
+wavelength, which suffered the least propagation losses, are relatively modest. This
+attractive laser wavelength is associated with the wavelength-tunable free-electron
+laser (FEL), whose maximum beam power is currently in the 20 kW range. Thus, there
+is the need for a 500-fold increase in FEL beam power to achieve the 10 MW beam
+power required for (10 kg-class) Lightcraft ETO propulsion. However, 100 kW beam
+
+FEL designs are being proposed by the Navy for prototyping and testing in FY 2011 and
+2012.
+
+23
+UNCLASSIFIED L4502.055160i-USE-ONEY

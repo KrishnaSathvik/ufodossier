@@ -1,0 +1,29 @@
+“Secrer noronn—
+Chapter 6
+271
+
+important design features that contributed to a small radar return were Convair KINGFISH
+fiberglass engine inlets and wings whose leading edges were made of
+Pyroceram.” ;
+
+Lockheed’s new entry was much like its first, but with several
+modifications and a new designator, A-12. It, too, would employ two
+of the powerful J58 engines. Lockheed's major innovation in reducing
+radar return was a cesium additive in the fuel, which decreased the
+radar cross section of the afterburner plume. This improvement had
+been proposed by Edward Purcell of the Land committee. Desiring to
+save weight, Kelly Johnson had decided not to construct the A-12 out
+of steel. Traditional lightweight metals such as aluminum were out of
+the question because they could not stand the heat that would be gen-
+erated as the A-12 flew at Mach 3.2, so Johnson chose a titanium
+alloy.
+
+On 20 August 1959, Lockheed and Convair submitted their pro-
+posals to a joint Department of Defense, Air Force, and CIA selection
+panel. As the table shows, the two aircraft were similar in performance
+
+“Convair Division, General Dynamics Corporation, “KINGFISH Summary Report.”
+1959 (5). Kelly Johnson was very skeptical of the Convair design, noting in the Archangel
+project log on 1-20 August 1959: “Convair have promised substantially reduced radar
+cross section on an airplane the size of our A-12, They are doing this, in my view. with
+total disregard for aerodynamics, inlet and afterburner performance.”

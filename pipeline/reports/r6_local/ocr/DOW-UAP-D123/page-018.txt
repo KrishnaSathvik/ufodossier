@@ -1,0 +1,85 @@
+UNCLASSIFIEDj} P'OR. OP'P'l@IAL l:ISE 8PUs:lf 
+the order of 30 minutes, indicating that a spacecraft employing t hree 72-kN solid-core 
+engines would require 6-9 mg of positrons per mission. 
+Solid-core fission and positron systems are compared in Table 4. 
+Table 4. Comparison of Space Propulsion and Power 
+Systems - Solid Core 
+Fission-Based Positron Powered 
+Technology • NERVA/Rover 
+demonstrated 
+• Never fl ight tested 
+• Conceptual 
+• Must demonstrate 
+positron storage and 
+controlled injection 
+• Near-term technology 
+demonstration for positron 
+storage needed 
+Performance . I,p "' 950 sec 
+. Thrust "' 72 - 123 kN 
+. Power "' 367 - 5320 MW 
+(matched to thrust) 
+• Lifetime "' 2 hours total 
+operation 
+. lsp - as in fission systems 
+. Thrust -variable, similar to 
+fission systems 
+. Power - matched to thrust 
+• Lifetime - set by material 
+considerations 
+Operation . Design dictated by 
+neutronics, fuel burn up 
+and fission poisoning 
+. High neutron & gamma 
+radiation during operation 
+. Requires active, accurate 
+and massive control 
+. Requires shutdown 
+cooling to remove heat 
+from nuclear waste 
+• Radiation after shutdown 
+due to fission products 
+. No criticality, burn up or 
+poison accumulation 
+issues 
+. Design based only upon 
+heat transfer and gamma 
+attenuation issues 
+• Does not require 
+shutdown cooling 
+. Simple on-off control, 
+power controlled by rate of 
+positrop utilization 
+• Not a radiation source 
+Materials . Material dictated by 
+neutron Jes 
+• Propellant-heated H2 
+. Working fluids for power 
+systems - inert gas 
+• Uranium in graphite media 
+• Corrosion issues require 
+complex fuel 
+. Material choices dictated 
+by temperature 
+• Propellant-heated H2 
+. Working fluids for power 
+systems - inert gas 
+Payload • Requires massive shield • Shield required around 
+Integration from reactor 
+• Requires separation from 
+reactor 
+• Complex design issues 
+due to neutron scattering 
+manned area separated 
+from positron storage 
+• Propulsion and power 
+sources can be integrated 
+into vehicle 
+Post Operation • Not able to return to earth 
+or inhabited surface 
+• Not reusable or refuelable 
+• Able to return to Earth or 
+inhabitedsurface 
+• Reusable and refuelable 
+UNCLASSIFIED//EAR OFFICIO I. Pili QPII.¥ 
+13

@@ -1,0 +1,38 @@
+UNCLASSIFIED -FOR-OFFECTAL USE ONET
+
+In the 2020-2030 timeframe, ultracapacitor cell designs will be different. Simple plate
+designs, coin cells, and laminated pouches will still be used for some applications.
+However, advanced designs and form-factors will be used to fit specialized applications.
+Ultracapacitors will be designed for incorporation into chip architectures. Several
+options will exist for micro- and nano-electronics. Electrolyte options will most likely be
+different from those used today. New electrolyte solvents and better salts will be
+discovered that produce higher voltage cells while maintaining good ionic conductivity.
+Ionic liquids and complex solvents that withstand higher voltages are likely candidates.
+Three dimensional architectures may begin to be introduced, which will greatly improve
+both energy density and power density. Manufacturing techniques will enable small-
+and medium-format three-dimensional electrodes, where the electrical double layer is
+stored perpendicular to the current collector. The manufacture and assembly of large-
+format ultracapacitors with extremely high power capabilities will be enabled by three-
+dimensional architectures of nano-engineered carbons and current collectors.
+
+Beyond 2030 it is difficult to project the future developments of ultracapacitors since
+materials science is experiencing a nanomaterials revolution. It can be expected,
+however, that nearly all microelectronic circuitry will incorporate thin-film ultracaps or
+MCaps, and laptop computers will become the size of an iPhone with mostly voice-
+activated functions. As depicted in Figure 16, advancements will occur on a much faster
+timescale than what has happened over the last 50 years.
+
+In the energy storage area, particularly for PHEV and EV batteries, the major impact for
+ultracapacitors may allow not only reduced mass and size but also order-of-magnitude
+reduction in costs.
+
+2010 2020 2030 2050
+
+ULTRACAPS bw)
+
+|
+
+Figure 16. Evolution of Ultracapacitors
+
+26
+UNCLASSIFIED 4602-OFFIGEAL-USE-ONE

@@ -1,0 +1,33 @@
+8.1 Platform
+
+Cooper
+
+eSONABENTAE Oo» 1
+
+8.0 SYSTEMS OPERATIONS
+
+By day we used standard procedure of finding a
+zero yaw, which is a little easier to do down at
+about retro position. The nose is a little bit
+
+in the way for determining zero yaw unless you
+pitch down just a little past nose low in zero-
+zero-zero position. When pitched down just a tiny
+bit, zero yaw was very readily apparent to within
+a fairly reasonable degree of accuracy, and then
+ease it right on up. We had lines for the zero-
+zero position to give us our pitch and roll on the
+
+horizon. This was the regular day alinement.
+
+Night was pretty much the same except we'd get
+zero yaw by a star, get roll and pitch by the zero
+lines on the window (or knowing where they were
+approximately) line this with the top of the air-
+glow or the horizon. At that point you'd go into
+Cage, hold it there at that position until it
+caged) then uncage the platform to BEF or SEF
+whichever the case might be, and then to to Plat-
+form and Attitude on the FDM and FDI's. Then
+
+aline the platform fine aline SEF or BEF by keeping

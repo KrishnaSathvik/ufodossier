@@ -1,0 +1,52 @@
+UNCLASSIFIED/ }FOR: 8FFI@IAL l::191!! er•t I 
+cases, the low-pressure hydrogen exiting the expansion turbines is entered into the 
+rocket motor at a matching pressure. 
+LACE Deeply Cooled 
+--• LOX 
+Figure 29. Two Rocket Air-Breathing Rocket Cycles to Mach S.S. To the lelt is one employ ing liquefied air 
+(LACE cycle) . To the right is one employing high-p ressure air cooled to near saturation. 
+There is always the option of direct 
+ascent by rocket into a trajectory. 
+Whether by turbojet or rocket, a million 
+pounds of thrust is always noisy and 
+smoke filled . We can thank the Russian 
+design bureaus for arriving at a concept 
+that eliminated the noisy, smoky, and 
+hazardous launches by increasing the 
+operational flexibility of the British 
+HOTOL concept . Figure 30 shows the 
+development of the all-rocket HOTOL 
+system from the original HOTOL.23 The 
+original air-breathing rocket HOTOL, 
+powered by the Rolls Royce 545 engine 
+as developed by Alan Bond, essentially 
+used all hydrogen fuel (except for space 
+operations). The hydrogen required a 
+volume about 5 times greater than a 6: 1 
+LOX/hydrogen propellant for a rocket 
+engine. The classical aerodynamicist's 
+approach was to minimize drag and 
+maximize the L/D ratio. But accelerating 
+to orbital speed requires a low angle of 
+attack and minimum drag coefficient at 
+!ln1~h Aemsp,1cc flOTOI 
+Roll s Roya! 545 
+lruerun Ba E I IOTOL. 
+RD0l20 
+~ gt%'.\ =.b 
+~ RU5Sumll0TOL 
+RU 0120 
+Figure 30. HOTOL Evolution: From Aerodynamic 
+Optimum Configuration to Practical Launcher 
+Configuration. The latte r was developed through British 
+Aerospace-Russian cooperat ion. 
+zero lift (Coo), not max imum L/D ratio. The simple problem, recognized by Kuchemann, 
+was that the vehicle was too slender and therefore had a large wetted area compared 
+with its reference planform area; hence, zero lift drag and structural weight were too 
+high. Even when the BAE Systems team switched to an all-rocket and compromised 
+the slenderness, this did not significantly reduce the wetted area. The Russian 
+approach was to design a stout vehicle with a much lower ratio of wetter area to 
+reference planform area. 24 The trapezoidal cross section of the FOL-7 /Model 176 yields 
+a ratio of wetted area to planform area less than the circular cross section of the 
+UNCLASSIFIED/ /EAR AEFICIOP 1!55 All! X 
+27

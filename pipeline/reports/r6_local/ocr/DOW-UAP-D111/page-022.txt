@@ -1,0 +1,100 @@
+"Case" means either a MIL-STD-129 defined exterior container within a palletized unit load or a
+MIL-STD-129 defined individual shipping container.
+
+(2) Beginning March 1, 2007, the only acceptable tags are EPC Class 1 passive RFID tags that meet
+the EPCglobal Class 1 Generation 2 specification. Class 0 and Class 1 Generation 1 tags will no
+longer be accepted after February 28, 2007.
+
+"Electronic Product Code# (EPC)" means an identification scheme for universally identifying
+physical objects via RFID tags and other means. The standardized EPC data consists of an EPC (or
+EPC identifier) that uniquely identifies an individual object, as well as an optional filter value
+when judged to be necessary to enable effective and efficient reading of the EPC tags. In addition
+to this standardized data, certain classes of EPC tags will allow user-defined data. The EPC tag
+data standards will define the length and position of this data, without defining its content.
+
+"EPCglobal#" means a joint venture between EAN International and the Uniform Code Council to
+establish and support the EPC network as the global standard for immediate, automatic, and accurate
+identification of any item in the supply chain of any company, in any industry, anywhere in the
+world.
+
+(i) EPC Class 0 passive RFID tags that meet the EPCglobal Class 0 specification; and
+(ii) EPC Class 1 passive RFID tags that meet the EPCglobal Class 1 specification. This
+includes both the Generation 1 and Generation 2 Class 1 specifications.
+
+“Exterior container" means a MIL-STD-129 defined container, bundle, or assembly that is sufficient
+by reason of material, design, and construction to protect unit packs and intermediate containers
+and their contents during shipment and storage. It can be a unit pack or a container with a
+combination of unit packs or intermediate containers. An exterior container may or may not be used
+as a shipping container.
+
+"Palletized unit load" means a MIL-STD-129 defined quantity of items, packed or unpacked, arranged
+on a pallet in a specified manner and secured, strapped, or fastened on the pallet so that the whole
+palletized load is handled as a single unit. A palletized or skidded load is not considered to he
+a shipping container. A loaded 463L System pallet is not considered to be a palletized unit load.
+
+Refer to the Defense Transportation Regulation, DoD 4500.9-R, Part II, Chapter 203, for marking of
+463L System pallets.
+
+"Passive RFID tag" means a tag that reflects energy from the reader/interrogator or that receives
+and temporarily stores a small amount of energy from the reader/interrogator signal in order to
+generate the tag response.
+
+(1) Until February 28, 2007, the cceptable tags are-
+
+"Radio Frequency Identification (RFID)" means an automatic identification and data capture
+technology comprising one or more reader/interrogators and one or more radio frequency transponders
+in which data transfer is achieved by means of suitably modulated inductive or radiating
+electromagnetic carriers.
+
+(1) Except as provided in paragraph (b) (2) of this clause, the Contractor shall affix passive
+RFID tags, at the case and palletized unit load packaging levels, for shipments of items that-
+
+(E) Class VI - Personal demand items (non-military sales items).
+
+"Shipping container" means a MIL-STD-129 defined exterior container that meets carrier regulations
+and is of sufficient strength, by reason of material, design, and construction, to be shipped safely
+without further packing (e.g., wooden boxes or crates, fiber and metal drums, and corrugated and
+solid fiberboard boxes).
+
+(b)
+
+(1) Are in any of the following classes of supply, as defined in DoD 4140.1-R, DoD Supply Chain
+
+Materiel Management Regulation, AP1.1.11:
+
+(A) Subclass of Class I - Packaged operational rations.
+
+(B) Class II - Clothing, individual equipment, tentage, organizational tool kits, hand tools,
+and administrative and housekeeping supplies and equipment.
+
+(C) Class IIIP - Packaged petroleum, lubricants, oils, preservatives, chemicals, and
+additives.
+
+(D) Class IV - Construction and barrier materials
+
+(A) Defense Distribution Depot, Susquehanna, PA: DoDAAC W25G1U or $W3124; or
+
+(F) Subclass of Class VIII - Medical materials (excluding pharmaceuticals, biologicals, and
+reagents -- suppliers should limit the mixing of excluded and non-excluded materials).
+
+(G) Class IX - Repair parts and components including kits, assemblies and subassemblies,
+reparable and consumable items required for maintenance support of all equipment, excluding medical-
+
+peculiar repair parts; and
+(ii) Are being shipped to any of the following locations:
+
+(B) Defense Distribution Depot, San Joaquin, CA: DoDAAC W62G2T or SW3224.
+
+(C) Defense Distribution Depot, Albany, GA: DoDAAC SW3121.
+
+(D) Defense Distribution Depot, Anniston, AL: DoDAAC W31G1Z or SW3120.
+
+(E) Defense Distribution Depot, Barstow, CA: DoDAAC SW3215.
+
+(F) Defense Distribution Depot, Cherry Point, NC: DoDAAC SW3113.
+
+(G) Defense Distribution Depot, Columbus, OH: DoDAAC SWO700.
+
+(H) Defense Distribution Depot, Corpus Christi, TX: DoDAAC W45H08 or SW3222.
+
+PAGE 22 OF 59 HHM402-08-C-0072

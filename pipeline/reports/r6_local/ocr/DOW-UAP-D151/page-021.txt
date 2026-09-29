@@ -1,0 +1,36 @@
+UNCLASSIFIED/ j FOR OFFICl,CL tl.!l!! 8HL'&' 
+States: 
+Fatigue 
+II Intensity f 
+Decision Time <= Task load +Processing Rate Motive 
+sec) (bits) (bits•sec 1) Anxiety ... 
+etc. 
+increases 
+Decision Time + Time available ⇒ Time pressure 
+(sec) (sec) 
+ITime I 
+Figure 5. Information Processing Model for a Human Operator. 37 
+In modeling the controllers themselves, one can look to selection efforts and find which 
+candidate skills are the best predictors of training success. Pre-strike data (see footnote 
+h on page 9) of ATC training showed that strong candidates had skills in spatial 
+relations, abstract reasoning, and math as well as oral decision-mak ing.38 
+In designing a model, it is tempting to engage subject matter experts (SME) to 
+estimate the demand of vari ous resources within a multiple resource model of ATC. 
+Cohen studied SME predictions of workload within a model of 7 channels (visual 
+perception, auditory perception, spatial information processing, analytical information 
+processing, verbal information processing, manual activity and speech). The authors 
+concluded that using the 7-channel multiple resource model with the SME approach 
+doesn't work for predicting workload in the ATC task. 39 
+Hancock has written extensively on the multiple-resource model of cognitive task 
+performance under stress. He points out that functional brain imaging studies clearly 
+show resources are separated anatomically, providing evidence that the multiple 
+resource model should not be abandoned in future research. 40 
+One model that was proposed was that local visual distractions interfered with cockpit 
+ATC tasks. The model has attractiveness given the incredible complexity of cockpit 
+displays and the popular notion that in-vehicle distraction is the root of all evil for 
+automobile driving. Iona proposed that a tu nnel display for in-cockpit ATC informat ion 
+would reduce the effect of outside visual distraction and increase primary task 
+performance measures. The authors concluded that this type of augmentation has litt le 
+effect on trained professional pilots in performance of their duties. 41 
+UNCLASSIFIED/ /EOA OFFl&l.t.l:: Y!U! 8HLY 
+16

@@ -1,0 +1,37 @@
+UNCLASSIFIED/ (FOR OFFIClt.k YSE 8Htt 
+Definition of Metamaterials 
+A metamaterial is defined as an artificial medium whose properties (mechanical, optical, 
+magnetic, or other) cannot be found in naturally-occurring materials. The emphasis of 
+this study will be on electromagnetic and optical metamaterials. Such metamaterials 
+can exhibit rather extreme properties, such as negat ive refractive index, which implies 
+that both electric permittivity and magnetic permeability must be negat ive 
+( £ < 0 µ < 0) (Reference 1). Such meta materials used to be called " left-handed" 
+I 
+because of the unusual phase relationship between the electr ic and magnetic fields. 
+Specifically, in most (positive index, including vacuum) media one uses the right-hand 
+rule to define the relationsh[p between electric field ( E) magnetic field ( H), and the 
+propagation wavenumber ( f ). The physical basis of the right-hand rule is that the 
+direction of energy propagation defined by the Poynting vector S=cEx HI 47Z' and the 
+direction of the phase velocity (defined by the wavenumber k) must coincide. That 
+does not hold true for negative index metamaterials where the two directions are 
+opposite, therefore, t he left -han ded relationship must hold for the three vectors. 
+Nevertheless, the "left-handed" designat ion did not withstand the test of time because 
+it was causing confusion and creating irrelevant allusions to helica l (a.k.a. chiral) 
+structures. Although chiral structures can indeed exhibit negative index behavior 
+(Reference 2), chirality is not necessary. 
+A typical metamater ial consists of resonant elements such as Split Ring Resonators 
+(SRR). An example of an SRR is shown in Figure 1. The main function of the SRR is to 
+enable strong magnetic response of the structure. A simple empirical formula exists for 
+the magnetic permeability of a metamaterial comprised of the SRRs: 
+(1) 
+where {J)M is the resonant frequency of the SRR, and F is proportional to t he volume 
+filling factor of SRRs. It is noteworthy that SRRs are designed in such a way that it has 
+a large capacitance. As the result, the resonant freque ncy of an SRR is small, (that is, 
+the SRR-containing cell is very sub-wavelength). In the example shown in Figure 1 
+(taken from Reference 6), the unit cell operated at {J)j27Z" = 10 GHz is A/10. I n fact, the 
+sub-wavelength size of the meta material is what distinguishes them from their close 
+cousins: photonic crystals. By properly designing magnetic SRRs, it is possible to 
+achieve any value of µ for any given frequency. Special challenges exist for optical 
+structures, though, as will be explained below. 
+UNCLASSIFIED/ {fQR OFEICl.t.ls: W81!! 8flti 
+1

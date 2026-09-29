@@ -1,0 +1,35 @@
+UNCLASSIFIED/ ,'FOR OFFI@IAL WSE ONLY 
+Cockpits in the Era of Breakthrough Flight 
+Introduction 
+Responding to the request to explore forefront science relevant to future cockpits for 
+any form of aerospace craft and/or deep-space craft that is propelled by any 
+unspecified advanced or breakthrough propulsion physics, this report offers a 
+provisional cockpit design that employs the following: 
+• Predictions of propulsion physics breakthroughs. 
+• Lessons of human-machine interface. 
+• Emerging technology for displays and controls. 
+This study discusses the implications of breakthrough propulsion, includ ing the mastery 
+over gravitational and inertial forces and the prospect for faster-than-light spaceflight. 
+The main reference used to predict these possibilities is the book Frontiers of Propulsion 
+Science [Millis & Davis, 2009]. Although the breakthroughs discussed in this book are 
+not immine nt, enough progress has been made to allow for thoughtful speculation 
+about their characteristics and possible implementations. 
+How these advances may affect future cockpits is described, and this is the central 
+message of this study. The most significant differences from legacy cockpits are 
+identified and then used to set the baseline design requirements. 
+Additionally, substantial lessons about human-machi ne interfaces are reviewed and 
+applied to this notional cockpit. Most of this progress relies on better accommodating 
+the norms and limitations of human perception-lessons that do not change even when 
+vehicle characteristics change. 
+Recent advancements in the use of hand gestures for commands are also included, as 
+well as advancements in brain-machine interfaces. In this conceptual study of far-future 
+possibilities, these technologies are assumed to have reached fu ll maturity, with one 
+exception: in order to focus this study on future cockpits, the options for brain implants 
+and for transhumanism-where humans are reengineered to adapt to new 
+requirements-are not considered. 
+Next-step investigations are suggested to refine the ideas presented herein. A caveat 
+is that advances in cockpits for breakthrough flight might be further advanced by taking 
+advantage of the gaming industry techniques or through science fiction speculation. 
+Note: All projections in this report are based on public domain informati on. 
+UNCLASSIFIED/fFOA. OFFICIO ls. Plili ONls.¥ 
+iv

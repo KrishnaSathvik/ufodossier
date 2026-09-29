@@ -1,0 +1,45 @@
+UNCLASSIFIED / /FOR-OFFECGHH-USE-OAL
+
+According to Newtonian mechanics and Planck’s conjecture, the interaction of a positive
+
+with a negative Planck-mass particle leads to a velocity fluctuation da,t, =c witha
+displacement of the particle equal to 6=(1/2)a,t° =r,/2, where a,=F,/m, .
+
+Therefore, a Planck-mass particle immersed in the Planck aether makes a stochastic
+quivering motion (Zitterbewegung) with the velocity
+
+Vp =~(r,c/2)(Vn/n), (46)
+
+where n=1/r, is the average number density of positive or negative Planck mass
+
+particles. The kinetic energy of this diffusion process is given by
+
+i ve = m, 7e(@)- Ean (2) 47
+2)? (a)? Vn) (8m, Jn)’ ai
+
+Putting
+h
+
+v=—-vVs, (48)
+Mm,
+
+where S is the Hamilton action function and v is the velocity of the Planck aether, the
+Lagrange density for the Planck aether is
+
+as. : h? (Vn)
+Lanne, (vs?)+U+ (=) | (49)
+
+mM, m,\ n
+
+Variation of (49) with regard to S according to
+
+Flas Sl aoe |=0 50
+ét\ aS/at) at\.aS/dr (50)
+leads to
+
+nD es) 0 (51)
+ot m,
+
+16
+
+UNCLASSIFIED S/F OR OPPICTAL USE ONT

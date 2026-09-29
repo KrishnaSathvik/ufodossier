@@ -1,4 +1,4 @@
-import { TopBar } from "@/components/TopBar";
+import { HeaderShell } from "@/components/HeaderShell";
 import { Footer } from "@/components/Footer";
 import { JsonLd } from "@/components/JsonLd";
 import { IncidentList } from "@/components/IncidentList";
@@ -85,11 +85,11 @@ export default async function CollectionPage({ params }: { params: Promise<{ slu
         isPartOf: {
           "@type": "Dataset",
           name: "UFO Dossier — Declassified UAP Archive",
-          description: "Searchable archive of every UAP incident in the U.S. government's declassified PURSUE files, with substring-validated verbatim excerpts from original source documents.",
+          description: "A searchable archive of publicly released U.S. government UAP records. Quotes are checked against the original files.",
           url: "https://www.ufodossier.com",
         },
       }} />
-      <TopBar active="collections" />
+      <HeaderShell active="collections" />
 
       <main className="max-w-content mx-auto px-4 md:px-6">
         {/* Breadcrumb */}

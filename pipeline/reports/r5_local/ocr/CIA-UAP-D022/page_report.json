@@ -1,0 +1,121 @@
+{
+  "filename": "CIA-UAP-D022.pdf",
+  "generated_at": "2026-09-28T19:14:27.017206+00:00",
+  "page_count": 6,
+  "usable_text_chars": 7399,
+  "stats": {
+    "native_good": 4,
+    "native_thin": 0,
+    "needs_ocr": 2,
+    "ocr_failed": 0,
+    "ocr_succeeded": 2,
+    "pages_ocrd": 2,
+    "ocr_unrecoverable_thumbnail": 0
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "native_quality": {
+        "page_number": 1,
+        "native_char_count": 733,
+        "printable_ratio": 0.995,
+        "alpha_ratio": 0.761,
+        "word_count": 104,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "sufficient clean native text"
+      },
+      "final_category": "native_good",
+      "text_method": "native",
+      "char_count": 733,
+      "text": ""
+    },
+    {
+      "page_number": 2,
+      "native_quality": {
+        "page_number": 2,
+        "native_char_count": 1120,
+        "printable_ratio": 1.0,
+        "alpha_ratio": 0.721,
+        "word_count": 157,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "sufficient clean native text"
+      },
+      "final_category": "native_good",
+      "text_method": "native",
+      "char_count": 1120,
+      "text": ""
+    },
+    {
+      "page_number": 3,
+      "native_quality": {
+        "page_number": 3,
+        "native_char_count": 1404,
+        "printable_ratio": 0.941,
+        "alpha_ratio": 0.506,
+        "word_count": 179,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.39, clean=0.42))"
+      },
+      "final_category": "native_good",
+      "text_method": "tesseract",
+      "char_count": 1291,
+      "text": ""
+    },
+    {
+      "page_number": 4,
+      "native_quality": {
+        "page_number": 4,
+        "native_char_count": 1574,
+        "printable_ratio": 0.951,
+        "alpha_ratio": 0.518,
+        "word_count": 214,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.41, clean=0.45))"
+      },
+      "final_category": "native_good",
+      "text_method": "tesseract",
+      "char_count": 1475,
+      "text": ""
+    },
+    {
+      "page_number": 5,
+      "native_quality": {
+        "page_number": 5,
+        "native_char_count": 1240,
+        "printable_ratio": 0.995,
+        "alpha_ratio": 0.648,
+        "word_count": 155,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "sufficient clean native text"
+      },
+      "final_category": "native_good",
+      "text_method": "native",
+      "char_count": 1240,
+      "text": ""
+    },
+    {
+      "page_number": 6,
+      "native_quality": {
+        "page_number": 6,
+        "native_char_count": 1440,
+        "printable_ratio": 0.993,
+        "alpha_ratio": 0.719,
+        "word_count": 196,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "sufficient clean native text"
+      },
+      "final_category": "native_good",
+      "text_method": "native",
+      "char_count": 1440,
+      "text": ""
+    }
+  ],
+  "combined_path": "/Users/krishnasathvikmantripragada/Webapps/ufo-dossier/pipeline/reports/r5_local/ocr/CIA-UAP-D022/combined.txt",
+  "production_writes": false
+}

@@ -1,0 +1,16 @@
+UNCLASSIFIED/,'rOR: orrlCIJ!tL USE 014Lf 
+Mitigating the Atmosphere with 
+Adaptive Optics 
+The AO System needs to operate (sense, compute, and adJust the deformable 
+mirror) approx. > 1OX faster than the atmosphere changes (-1 O's - 10Os hz) 
+Figure 36. HEL Adaptive Optics System (courtesy of the Directed Energy Professional 
+Society). 
+All of these HEL beam control innovations can be quickly adapted to laser propulsion 
+applications with little or no additional technical modifications or R&DTE. It is expected 
+that all of the R&DTE work presently being done by the various DoD directed energy 
+weapons/HEL programs can be immediately leveraged for laser Lightcraft nano-/pico­
+satellite programs should they become established. Primary mirrors with exit apertures 
+of ~ 10 m will be required to launch laser-propelled Lightcraft from ground/sea to LEO 
+while apertures on aircraft-mounted laser beam control optics will be ~ 1.0 m. 
+UNCLASSIFIED//FOR 061ilCl.li.k W&& 8Ptl'l 
+67

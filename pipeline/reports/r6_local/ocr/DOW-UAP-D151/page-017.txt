@@ -1,0 +1,44 @@
+UNCLASSIFIED/ /FAA QFFl&IAL l::ISI!! 6flt I 
+lapses). Peiris concluded that a built-from-scratch automated system is needed to 
+identify subtle features, especially in the low-count electrode EEG (5 electrodes). 28 
+In the defin ition of complexity, it is important to note that one should not focus entirely 
+on a single aspect of the ATC task in the laboratory . Donald defines complexity in two 
+aspects: task complexity independent of the event rate, and ancillary aspects of the job 
+in a naturalistic environment. The complexity of the task as a whole needs to be 
+considered instead of focusing on a single aspect such as monitor and detect and the 
+rate at which this task can be completed. 29 
+The naturalistic environment was in fact utilized by Brookings in 1996. 30 Moreover, in 
+situ measurements were conducted by Collet in 2009. 31 Both studies examined TLX 
+ratings, as well as several ANS variables. Brookings additionally utilized EEG. 
+In the Brookings study, three simulated TRACON sessions were conducted. The first 
+session varied traffic volume between low, medium and high levels, while the second 
+session varied task complexity at a constant rate of aircraft. The third scenario was 
+conducted with an overwhelming number of aircraft, the goal being to take 
+physiological data in the condition where situational awareness is lost. k 
+The traffic load variance session lasted 45 minutes with three 15-minute sessions where 
+the controller was required to handle 6, 12, and 18 aircraft; the order of presentation 
+was counterbalanced across subjects. Other complexity factors, such as the ratio of 
+overflights, arrivals, and departures, were kept constant. 
+In the complexity variation session, the number of aircraft was kept constant at 12, 
+while various complicating factors were modulated. Changing complexity factors 
+included: 
+• Altering the ratio of arriving to departing and flyover traffic. 
+• Changing the probability that a pilot didn't hear or failed to execute a controller's 
+instruction. 
+• Increasing or decreasing the heterogeneity of aircraft type. 
+In the overload session, 15 aircraft were presented in 5 minutes. 
+Physiological variables monitored included heart activity using two electrodes on the 
+chest, EOG using electrodes around the eyes,1 respiration using elastic transducer bands, 
+and 19 channels of EEG using a cap outfitted with a standard 10-20 configuration.m 
+Task performance points were awarded for successfully handing aircraft, minus any 
+points for operational errors such as separation conflicts, hand-off errors, and missed 
+approaches. TLX ratings were recorded between workload conditions during a designed 
+1-minute lull in traffic. The simulation was considered quite difficult, even for 
+professional Air Force ATC, and participants were required to practice until they didn't 
+k I n colloqu ial terms, ATC call this "losing the picture." 
+1 Electrodes are pointed out here as more recent methodology could use infra-red optical devices to record heart 
+and ocular activ ity. 
+m The standard 10-20 configuration refers to electrodes every 10%/20% of the total distance between right ­
+left/anter ior-poster ior anatom ical markers. A 10-10 configuration would include twice the electrodes, etc. 
+UNCLASSIFIED/ /FOA 8FFI&IAL l::ISI!! 8HLY 
+12

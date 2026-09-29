@@ -1,0 +1,42 @@
+UNCLASSIFIED/ ,'FOR OFFI@IAL WSE ONLY 
+Peripheral Vision 
+Peripheral vision has been used with some success to display rates of change and 
+artificial horizons in aircraft. Evidence indicates that peripheral vision can process 
+spatial information in parallel without appreciable mental attention. Also, evidence 
+indicates that peripheral spatial cues (e.g., artificial horizon laser trace) may still be 
+subconsciously processed during stress-induced tunnel vision, even though the pilot is 
+no longer consciously notic ing it. 26 
+Attention 
+In the absence of stimuli, visual attent ion is spread evenly across the full field of view, 
+and that information is processed subconsciously in parallel. But in the event of motion 
+or noise, visual attention aims toward those changes, and then that information is 
+processed serially. In t he context of cockpits, this means that all the panels and 
+windows that are normally in the field of view are processed subconsciously in parallel, 
+and a change in any one of those will be noticed, thus drawing attention to that change. 
+Once attention has been triggered, the informatio n is processed more serially. 
+Blinking lights are a common way to draw attention. Sound can also be used, and the 
+combination of sound and lights is common ly used in malfunction enunciator panels. It 
+is possible, however, to saturate the pilot with too many blinking lights and sounds. 
+Although firm values are not established, it is recommended to keep such functions to a 
+minimum-preferably tied to the highest-priority status indications. 
+Another method to draw the attention is through physical feeling. Vibrations or a 
+change in feel of the vehicle will get the attention of the pilot, and with experience, the 
+correlation between physical sensations and the status of the vehicle can become 
+second nature. Historically, there are many instances where the pilots were innately 
+able to sense changes in operating condition of the vehicle just through feel. 
+In addition to naturally created sensations, having deliberate vibrations built into the 
+seat is another option for sending information to the pilot. Force-feedback controls 
+have also been found helpful, where the degree of resistance or vibration fed back 
+through a control (e.g., joystick and pedals) provides interpretable information that can 
+be mentally processed in parallel. 
+Upon the advent of control over gravitational and inertial forces, it will likely become 
+possible to deliberately provide the pilot with vestibular cues-mimicking inertial 
+accelerations in associat ion with the external conditions, but at survivable levels. 
+DESIGN FOR STRESS 
+The most important time for the pilot-machine interface to work optimally is in 
+moments of crisis. Thus, as a starting point for cockpit design, it is best to focus on the 
+highest-priority information and controls and to present those displays and controls in a 
+manner that accommodates human norms during stress. 27 Accordingly, this section 
+covers human limits and errors and advice for providing alarms and response options. 
+UNCLASSIFIED/ fFOA. OFFICIO Is. flili Ol'lls.¥ 
+21

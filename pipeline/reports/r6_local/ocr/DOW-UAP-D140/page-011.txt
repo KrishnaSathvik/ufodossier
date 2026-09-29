@@ -1,0 +1,56 @@
+UNCLASSIFIED/ / BOR-O5EILGLAL-USE-Oh—
+
+(2.8x10°13)/(4x10°3) = 7x10°!! Wm. Thus A = 2x10°33. It is an extremely small
+HFGW amplitude, but possibly a detectable signal.
+
+2.1.2 Alternative Approaches
+
+There are several alternative approaches to the laboratory generation of HFGWs
+developed over the past 45 years as discussed in the preceding Section 2.1.1. They can
+be categorized as EM-cavity generated, nuclear-energy generated, superconductor-
+generated, laser-impact generated and energized microscopic & submicroscopic-particle
+generated HFGWs. Of these categories the last category appears to be the most
+promising for early deployment in HFGW communications systems. Furthermore, one
+embodiment of that category: the Magnetron-energized FBARs generator, utilizing off-
+the-shelf equipment, would seem the most useful for proof-of-concept tests. For a
+practical, operational communications system HFGW generator (transmitter) the strong
+dependence of HFGW generator’s power on the number of radiating elements, N,
+recommends a system utilizing molecular elements as suggested by Braginsky and
+Rudenko (1978) or using Infrared (IR)-energized pentane molecules in a stack of
+circular waveguides as proposed by Woods and Baker (2009). The Magnetron-energized
+FBARs and the IR-energized pentane will be considered in the next-following sections.
+
+2.1.3 Piezoelectric Approach
+
+Let us consider the 1.8x10® cell-phone film bulk acoustic resonators or FBARs, 10,000
+Microwave-Magnetron, proof-of-concept laboratory HFGW generator. Assuming a 10 um
+distance or margin between the 100 um square conventional FBARs, the overall length
+of the laboratory generator will be 110 x (10° m) x (1.8108 elements) = 19.8 km. It
+will have a total HEGW power of 0.066 W and for a distance out from the last in-line, in-
+phase FBAR element of one HFGW wavelength (6.1 cm) it will have a flux of 3.53 Wm,
+yielding a HFGW amplitude there of A = 4.9x10°78 m/m. By the way, the inline set of
+FBAR elements also produces a more needlelike radiation pattern of HFGWs so that the
+flux and resulting A may even be larger. Although the frequencies may be different
+analyses (2003), one can extrapolate approximately from the results of Dehnen and
+Romero-Borja’s analyses in which the angle of the needle-like radiation pattern is
+inversely proportional to the square root of the product of the distance between the
+radiators (the width between FBAR bands or tracks) and WN. The distance for the system
+discussed here is 6.1 cm and for Dehnen’s system 0.00001 m, for a factor of 6,100 and
+N differs by (1.8x108)/(5x107) = 3.6 for a product of 2.2x10* and the inverse of the
+square root is 6.7x10°3. Using the result from Dehnen’s paper (Equation (4.51), page
+12) of a needle half angle of 1.7 degrees we would extrapolate to 0.0115 degrees or
+very approximately 2x10°4 radians. Since there is no longer the constraint to the use of
+rudimentary off-the-shelf components as there was for the proof-of-concept apparatus,
+the specially designed submicroscopic elements can be manipulated. First, they will be
+staggered into two bands or tracks of 100 rows each or 110 x 100 um = 1.1 cm wide
+bands of FBARs a wavelength or 6.1 cm apart. The rows will be staggered by displacing
+adjacent rows in the bands by 1.1 um. Thus the overall length will be reduced to 198
+m. Second, the 100 um length of each FBAR element can be sliced, along the direction
+of travel of the HFGW build up, into one-hundred 1 um wide slices (exhibiting 0.1 um
+margins). The staggered row displacements are now reduced to 11 nm. The overall
+length will be reduced to about 198 cm. Concentrating the 10 MW power to each of
+these 1.1 cm wide bands may prove to be difficult. Thus, as an example, the
+continuous-wave Magnetrons will be replaced by a pulsed microwave source having
+
+6
+UNCLASSIFIED / (EOQR.O5SLGE=-USEONTY

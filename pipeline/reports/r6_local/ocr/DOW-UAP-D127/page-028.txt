@@ -1,0 +1,45 @@
+UNCLASSIFIED/ /FOR OFFIEil.t.k W&i Q~lls¥ 
+Appendix B: Original Text of the Author's Paper #IAC-08-
+A4.1.4 Titled the Statistical Drake Equation 
+IAC-08-A4.1.4 
+THE STATISTICAL DRAKE EQUATION 
+Claudio Maccone 
+Co-Vice Chair, SETI Permanent Study Group, International Academy ofAstronautics 
+Address : Via Martorelli, 43 - Torino (Turin) 10155 - Italy 
+URL: http://www.maccone.com/ - E-mail: clmaccon@libero.it 
+ABSTRACT. We provide th statistical generalization of the Drake equation. 
+From a simple product of seven positive numbers, the Drake equation is now turned into the product of seven 
+positive random variables. We call this "the Statistical Drake Equat ion," The mathematical consequences of 
+this transformation are then derived. The proof of our results is based on the Central Limit Theorem (CL T) of 
+Statistics. In loose terms, the CLT states that the sum of any number of independent random variables, each of 
+which may be ARBITRARILY distributed , approaches a Gaussian (i.e. u01mal) random variable. This is called 
+the Lyapunov Form of the CLT, or the Lindeberg Form of th CLT, depending on the mathematical constraints 
+assumed on the third moments of the various probability distributions. In conclusion, we show that: 
+l) The new random variable N, yielding the number of communicating civilizations in the Galaxy, follows the 
+LOGNORMAL distribution . Then, as a consequence, the mean value of this lognormal distribution is the 
+ordinary Nin the Drake equation. The standard deviation, mode, and all the moments of this lognormal N 
+are found also. 
+2) The seven factors in the ordinary Drake equation now become seven positive random variables. The 
+probability distribution of each random variable may be ARBITRARY. The CLT in the so-called 
+Lyapunov or Lindeberg forms (that both do not assume the factors to be identically distributed) allows for 
+that. In other words the CLT "translates" into our statistical Drake equation by allowing an arbitrary 
+probability distribution for each factor. This is both physically realistic and practicalJ y very useful, of 
+course . 
+3) An application of our statistical Drake equation then follows. The (average) DISTANCE between any two 
+neighboring and communicating civilizations in the Galaxy may be shown to be inversely proportional to 
+the cubic root of N. Then, in our approach , this distance becomes a new random variable. We derive the 
+relevant probability density function , apparently previously unknown and dubbed "Maccone distribution" 
+by Paul Davies. 
+4) DATA ENRICHMENT PRINCIPLE . It should be noticed that ANY positive number of random vai'iables 
+in the Statistical Drake Equation is compatible with the CLT. So, our generalization allows for many more 
+factors to be added in the future as long as more refined scientific knowledge about each factor will be 
+known to the scientists . This capability to make room for more future factors in the statistical Drake 
+equation we call the "Data Enrichment Principle", and we regard it as the key to more profound future 
+results in the fields of Astrobiology and SETI. 
+Finally, a practical example is given of how our statistical Drake equation works numerically . We work out in 
+detail the case where each of the seven random variables is uniformly distributed around its own mean value 
+and has a given standard deviation. For instance, the number of stars in the Galaxy is assumed to be uniformly 
+distributed around (say) 350 billions with a standard deviation of (say) I billion. Then, the resulting lognormal 
+distribution of N is computed numerically by virtue of a MathCad file that the author has written. This shows 
+UNCLASSIFIED/; P"OR OP"P"lelltt li!I! er•tv 
+28

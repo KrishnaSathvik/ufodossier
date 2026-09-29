@@ -1,0 +1,205 @@
+{
+  "generated_at": "2026-09-25T22:19:16.335403+00:00",
+  "new_extract_documents": 28,
+  "estimated_new_haiku_calls_if_no_retry": 57,
+  "estimated_new_cost_usd": 1.14,
+  "plans": [
+    {
+      "filename": "CIA-UAP-004.pdf",
+      "strategy": "fixed",
+      "sections": 1,
+      "chars": 1798,
+      "page_count": 1
+    },
+    {
+      "filename": "CIA-UAP-007.pdf",
+      "strategy": "fixed",
+      "sections": 1,
+      "chars": 7660,
+      "page_count": 3
+    },
+    {
+      "filename": "CIA-UAP-008.pdf",
+      "strategy": "fixed",
+      "sections": 1,
+      "chars": 5004,
+      "page_count": 2
+    },
+    {
+      "filename": "CIA-UAP-010.pdf",
+      "strategy": "fixed",
+      "sections": 1,
+      "chars": 3897,
+      "page_count": 2
+    },
+    {
+      "filename": "CIA-UAP-011.pdf",
+      "strategy": "fixed",
+      "sections": 1,
+      "chars": 4025,
+      "page_count": 3
+    },
+    {
+      "filename": "CIA-UAP-012.pdf",
+      "strategy": "fixed",
+      "sections": 1,
+      "chars": 6610,
+      "page_count": 2
+    },
+    {
+      "filename": "CIA-UAP-014.pdf",
+      "strategy": "fixed",
+      "sections": 1,
+      "chars": 3678,
+      "page_count": 2
+    },
+    {
+      "filename": "CIA-UAP-015.pdf",
+      "strategy": "fixed",
+      "sections": 8,
+      "chars": 425125,
+      "page_count": 312
+    },
+    {
+      "filename": "CIA-UAP-019.pdf",
+      "strategy": "fixed",
+      "sections": 1,
+      "chars": 41219,
+      "page_count": 19
+    },
+    {
+      "filename": "DOW-UAP-D078.pdf",
+      "strategy": "fixed",
+      "sections": 1,
+      "chars": 1106,
+      "page_count": 1
+    },
+    {
+      "filename": "DOW-UAP-D080.pdf",
+      "strategy": "fixed",
+      "sections": 1,
+      "chars": 13671,
+      "page_count": 8
+    },
+    {
+      "filename": "DOW-UAP-D081.pdf",
+      "strategy": "fixed",
+      "sections": 1,
+      "chars": 5658,
+      "page_count": 2
+    },
+    {
+      "filename": "DOW-UAP-D082.pdf",
+      "strategy": "fixed",
+      "sections": 1,
+      "chars": 8167,
+      "page_count": 3
+    },
+    {
+      "filename": "DOW-UAP-D083.pdf",
+      "strategy": "fixed",
+      "sections": 1,
+      "chars": 8984,
+      "page_count": 5
+    },
+    {
+      "filename": "DOW-UAP-D084.pdf",
+      "strategy": "fixed",
+      "sections": 1,
+      "chars": 7877,
+      "page_count": 25
+    },
+    {
+      "filename": "DOW-UAP-D087.pdf",
+      "strategy": "fixed",
+      "sections": 3,
+      "chars": 127373,
+      "page_count": 253
+    },
+    {
+      "filename": "DOW-UAP-D088.pdf",
+      "strategy": "fixed",
+      "sections": 3,
+      "chars": 175302,
+      "page_count": 210
+    },
+    {
+      "filename": "FBI-UAP-D001.pdf",
+      "strategy": "fixed",
+      "sections": 1,
+      "chars": 3399,
+      "page_count": 2
+    },
+    {
+      "filename": "FBI-UAP-D004.pdf",
+      "strategy": "fixed",
+      "sections": 1,
+      "chars": 3421,
+      "page_count": 3
+    },
+    {
+      "filename": "FBI-UAP-D005.pdf",
+      "strategy": "fixed",
+      "sections": 1,
+      "chars": 3410,
+      "page_count": 3
+    },
+    {
+      "filename": "FBI-UAP-D006.pdf",
+      "strategy": "fixed",
+      "sections": 1,
+      "chars": 2651,
+      "page_count": 3
+    },
+    {
+      "filename": "FBI-UAP-D007.pdf",
+      "strategy": "fixed",
+      "sections": 1,
+      "chars": 3923,
+      "page_count": 4
+    },
+    {
+      "filename": "FBI-UAP-D008.pdf",
+      "strategy": "fixed",
+      "sections": 1,
+      "chars": 2384,
+      "page_count": 2
+    },
+    {
+      "filename": "FBI-UAP-D013.pdf",
+      "strategy": "fixed",
+      "sections": 1,
+      "chars": 51667,
+      "page_count": 55
+    },
+    {
+      "filename": "NASA-UAP-D017.pdf",
+      "strategy": "fixed",
+      "sections": 6,
+      "chars": 318465,
+      "page_count": 290
+    },
+    {
+      "filename": "NASA-UAP-D019.pdf",
+      "strategy": "fixed",
+      "sections": 4,
+      "chars": 236927,
+      "page_count": 223
+    },
+    {
+      "filename": "NASA-UAP-D020.pdf",
+      "strategy": "fixed",
+      "sections": 7,
+      "chars": 364393,
+      "page_count": 325
+    },
+    {
+      "filename": "NASA-UAP-D021.pdf",
+      "strategy": "fixed",
+      "sections": 5,
+      "chars": 263362,
+      "page_count": 222
+    }
+  ],
+  "note": "One call per section if JSON succeeds on the first pass. Retries add a second call."
+}

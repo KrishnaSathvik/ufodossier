@@ -1,0 +1,59 @@
+• Precoord Effectiveness: SATISFACTORY 
+WEATHER 
+• Weather: 
+• WX Mission Impact: No Impact 
+• Location of WX Occurrence: 
+• Cause of Impact: 
+EFFECTIVENESS 
+• Tasker: 
+• Intel Gap Filled?: Unknown 
+• Gentext: 
+On Station 
+• Time On Station DTG: 
+• Callsign: 
+• JTAR Number: 
+• Killbox (Location): 
+• Mission Type: AREC 
+• JTAC Callsign: 
+• Gentext/Additional Details: 
+• Did not Arrive On Station: 
+Off Station 
+• Time Off Station DTG: 
+• Total Time On Station: 
+• Gentext/Additional Details: 
+UAP 
+• Initial Contact DTG: 290141:00ZOCT25 
+• UAP Event Type: UAP Incident 
+• UAP Maneuverability Observations: FAST MOVING SPEEDS UP TO 500MPH 
+• UAP Response to Observer Actions: 
+• MDS Type / Asset Type: 
+• Tail Number: 
+• Friendly Aircraft Location: 
+• Friendly Aircraft Altitude/Depth: ~22,500 FT 
+• Friendly Aircraft Trajectory: 
+SECRET//NOFORN 
+SECRET//NOFORN 
+DECLASSIFIED
+DECLASSIFIED
+UNCLASSIFIED
+UNCLASSIFIED
+Declassified by:
+MG Richard A. Harrison
+USCENTCOM Chief of Staff
+Declassified on: 20260608
+-
+-
+(b) (1) (B)
+(b) (1) (B)
+-
+-
+-
+-
+(b) (1) (B)
+(b) (1) (B)
+-
+(b) (1) (B)
+(b) (1) (B)
+(b) (1) (B)
+-
+3.5C. (B)(6)

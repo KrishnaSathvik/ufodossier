@@ -1,0 +1,46 @@
+Baker’s new lenses were used in a camera system known as the
+A-2, which returned to a trimetrogon arrangement because of prob-
+lems with the A-f system’s rocking mount. The A-2 consisted of
+three separate K-38 framing cameras and 9.5-inch film magazines.
+One K-38 filmed the right oblique, another the vertical, and a third
+the left oblique. The A-2 system also included a 3-inch tracking
+camera. All A-2 cameras were equipped with the new 24-inch f/8.0
+Baker-designed lenses. These were the first relatively large photo-
+graphic objective lenses to employ several aspheric surfaces. James
+Baker personally ground these surfaces and made the final bench tests
+on each lens before releasing it to the Agency. These lenses were able
+to resolve 60 lines per millimeter, a 240-percent improvement over
+existing lenses."
+
+Once Baker and Scott had redesigned the 24-inch lens for the
+K-38 devices, they turned their attention to Baker’s new camera de-
+sign, known as the B model. It was a totally new concept, a high-reso-
+lution panoramic-type framing camera with a much longer 36-inch
+f/10.0 aspheric lens. The B camera was a very complex device that
+- used a single lens to obtain photography from one horizon to the
+other, thereby reducing weight by having two fewer lenses and shutter
+assemblies than the standard trimetrogon configuration. Because its
+lens was longer than those used in the A cameras, the B camera
+achieved even higher resolution—100 lines per millimeter.
+
+The B camera used an 18- by 18-inch format, which was
+achieved by focusing the image onto two counterrotating but overlap-
+ping 9. 5-inch wide strips of film. Baker designed this camera so that
+one film supply was located forward, the other aft. Thus, as the film
+supplies unwound, they counterbalanced each other and did not dis-
+turb the aircraft’s center of gravity.
+
+The B camera had two modes of operation. In mode I, the
+camera used a single lens to make seven unique exposures from 73.5°
+on the far right and far left obliques to vertical photos beneath the air-
+craft, effectively covering from horizon to horizon. Mode II narrowed
+the lateral coverage to 21.5° on either side of vertical. This increased
+the available number of exposures and almost doubled the camera’s
+
+“ “Basic Configuration and Camera Data,” 24 January 1956, OSA Records (TS
+Codeword); OSA History, chap. 5, annex 44 (TS Codeword).
+
+—Seeret NOFORIT—
+Chapter 2
+
+53

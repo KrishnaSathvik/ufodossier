@@ -1,0 +1,48 @@
+UNCLASSIFIED/ /Pelt OfFIEJIAk Wlilii ,u1L¥ 
+layering of different materials; and (3) insulation by other means, such as magnetic 
+insulation-these are usually used only where special conditions apply. 
+UNIFORM HOMOGENEOUS 
+Uniform homogeneous insulation implies that the insulating material is consistent 
+throughout the volume. However, in some cases, such as that of epoxies, there is a 
+uniform loading of some other material, usually to increase some desired characteristic 
+of the final product. Examples are loading with silica to increase dielectric strength and 
+loading with glass fibers to increase mechanical strength. The loaded material is 
+typically of such small dimensions that it has only a very small effect on other material 
+parameters from the truly homogeneous case. The use of uniform homogeneous 
+insulation also results in a more easily modeled design. 
+SOLID 
+Solid insulation is often the easiest and typically the most desirable form of insulation 
+since it does not require maintaining or replacing a liquid level or containing or 
+monitoring pressure. This fact is often critical to a source project if maintenance or long 
+shelf lives are important factors. 
+Plastics 
+The true title for this section should be "Thermoplastic Polymers (Plastics)," as they 
+comprise one of the largest groups of insulating materials used in pulsed power and 
+HPM generation. The term "plastics" includes acetals, acryl ics, amides, imides 
+polyarylate, polybutylene, polycarbonate, polypropylene, styrene, and sulfone 
+polymers. Plastics were first used as insulation in the 1930s, and it is hard to conceive 
+of constructing a high-voltage pulse source without them. Plastic materials have been 
+tailored to suit a wide variety of applications. In the early 1980s, plastics manufacturers 
+soliciting Sandia National Labs stated that they could engineer plastics to meet any set 
+of material properties desired. It later became apparent that this was not the case and 
+that, as usually occurs in nature, when one parameter was made more desirable, others 
+were made less desirable . In spite of this fact, some well-eng ineered plastics are now 
+available for some very demanding applications, such as switch housings and 
+transmission lines. Nevertheless, virtually no new plastics are being introduced today. 
+For the past 20 years, engineers have worked with essentially the same plastic 
+materials, although some improvements have been made in the quality of resins and 
+extruding and casting methods. In spite of this, there is still much more variation in 
+specifications (especially mechanical specifications, such as tensile strength) for plastics 
+from batch to batch than there is for metals. For this reason, the most demanding 
+plastics applications where the limits of some specification will be approached require 
+purchasing and independently testing a specific batch to assure confidence. One 
+interesting and well-documented phenomenon associated with plastics is the 
+nonlinearity of electrical breakdown strength with thickness. In very thin layers, some 
+plastics display extremely high breakdown strength. For instance, polypropylene in half­
+mil (1 mil = 1/1000 inch) layers yields 7,000-volts-per-mil breakdown strength, while 
+in one-eighth-inch thickness, this figure drops off to 900 volts per mil. One theory to 
+explain this is that the proximity of imperfections in the material across the thickness 
+reduces the dielectric strength in thicker samples. This fact can be used to advantage 
+by layering thin sheets of insulation together to form thicker insulating regions (see 
+UNCLASSIFIED/fFOA 8FFI@IAL 1:181!! OHLY 
+2

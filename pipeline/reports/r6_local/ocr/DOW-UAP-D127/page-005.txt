@@ -1,0 +1,36 @@
+UNCLASSIFIED/ /fOR OFFI&IAk Wlii QPU,¥ 
+The thickness of the Galactic Disk at half-way from its center, h a " 1t'-'Y ' is about 16,000 ly. 
+The volume of the galaxy may then be approximated as the volume of the 
+corresponding cylinder, i.e. 
+(1) 
+Now consider the sphere around us having a radius r. The volume of such a sphere is 
+4 ( Ef Distance ) 3 
+V o ur _ Sphere = 3n - (2)2 
+In the last equation, we had to divide the distance "ET _Distance" between ourselves 
+and the nearest ET civilizat ion by 2 because we are now going to make the 
+unwarranted assumption that all ET civilizations are equally spaced from each 
+other in the galaxy! This is a crazy assumption, clearly, and should be replaced by 
+more scientifically-grounded assumptions as soon as we know more about our Galactic 
+Neighborhood. At the moment, however, this is the best guess that we can make, and 
+so we shall take it for granted, although we are aware that this is a weak point in the 
+reasoning. 
+Furthermore, let us denote by N the total number of civilizat ions now living in the 
+galaxy, including ourselves. Of course, this number N is unknown. We only know that 
+N ~ 1 since one civilization does at least exist! 
+Having thus assumed that ET civilizations are UNIFORMLY SPACED IN THE GALAXY, we 
+can then write down the proport ion: 
+V a a/a.,y V o ,,r_Sphere --= -~- (3)
+N 
+That is, upon replacing both (1) and (2) into (3): 
+34 ( Ef- Dis lance ) 2 - i'l" _ ___ 
+i'l" RGa/axy h = 3 2 (4)N 1 
+The last equation contains two unknowns: N and ET_Distance, and so we don't know 
+which one it is better to solve for. 
+However, we may suppose that, by resorting to the (rather uncertain) knowledge that 
+we have about the Evolut ion of the galaxy through the last 10 billion years or so, we 
+might somehow compute an approximate value for N. 
+Then, we may solve (4) for ET_Distance thus obtaining the (AVERAGE) DISTANCE 
+BETWEEN ANY PAIR OF NEIGHBORING CIVILIZATIONS IN THE GALAXY (DISTANCE 
+LAW) 
+UNCLASSIFIED/ ;'FQA QFFICiIPL. !Iii 011! Y 
+5

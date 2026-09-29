@@ -1,0 +1,175 @@
+{
+  "generated_at": "2026-09-28T21:20:39.888600+00:00",
+  "hint_count": 12,
+  "by_kind": {
+    "duplicate_external_id": 1,
+    "type_change": 1,
+    "cross_release_pairing": 9,
+    "later_media_for_prior_event": 1
+  },
+  "fbi_uap_d014": [
+    {
+      "kind": "duplicate_external_id",
+      "external_id": "FBI-UAP-D014",
+      "occurrences": [
+        {
+          "release": 4,
+          "type": "pdf",
+          "identity_key": "pursue:FBI-UAP-D014",
+          "title": "FBI-UAP-D014, Correspondence Relating to UFO Sightings, 1967, 1974"
+        },
+        {
+          "release": 3,
+          "type": "image",
+          "identity_key": "pursue:FBI-UAP-D014:image",
+          "title": "FBI-UAP-D014, Digital Rendering, Narrative Statement 1-1, Western United States Event, 2023"
+        }
+      ]
+    },
+    {
+      "kind": "type_change",
+      "external_id": "FBI-UAP-D014",
+      "types": [
+        "image",
+        "pdf"
+      ],
+      "releases": [
+        3,
+        4
+      ],
+      "note": "same external_id, different asset types \u2014 package evolution, not an event merge"
+    },
+    {
+      "kind": "cross_release_pairing",
+      "later_id": "DOW-UAP-D079",
+      "later_release": 3,
+      "later_type": "pdf",
+      "prior_id": "FBI-UAP-D014",
+      "prior_release": 4,
+      "auto_merged": false
+    }
+  ],
+  "hints": [
+    {
+      "kind": "duplicate_external_id",
+      "external_id": "FBI-UAP-D014",
+      "occurrences": [
+        {
+          "release": 4,
+          "type": "pdf",
+          "identity_key": "pursue:FBI-UAP-D014",
+          "title": "FBI-UAP-D014, Correspondence Relating to UFO Sightings, 1967, 1974"
+        },
+        {
+          "release": 3,
+          "type": "image",
+          "identity_key": "pursue:FBI-UAP-D014:image",
+          "title": "FBI-UAP-D014, Digital Rendering, Narrative Statement 1-1, Western United States Event, 2023"
+        }
+      ]
+    },
+    {
+      "kind": "type_change",
+      "external_id": "FBI-UAP-D014",
+      "types": [
+        "image",
+        "pdf"
+      ],
+      "releases": [
+        3,
+        4
+      ],
+      "note": "same external_id, different asset types \u2014 package evolution, not an event merge"
+    },
+    {
+      "kind": "cross_release_pairing",
+      "later_id": "DOW-UAP-D102",
+      "later_release": 6,
+      "later_type": "pdf",
+      "prior_id": "DOW-UAP-D098",
+      "prior_release": 5,
+      "auto_merged": false
+    },
+    {
+      "kind": "later_media_for_prior_event",
+      "later_id": "DOW-UAP-PR159",
+      "later_release": 6,
+      "later_type": "video",
+      "prior_id": "DOW-UAP-D098",
+      "prior_release": 5,
+      "auto_merged": false
+    },
+    {
+      "kind": "cross_release_pairing",
+      "later_id": "DOE-UAP-D001",
+      "later_release": 2,
+      "later_type": "pdf",
+      "prior_id": "DOE-UAP-D005",
+      "prior_release": 4,
+      "auto_merged": false
+    },
+    {
+      "kind": "cross_release_pairing",
+      "later_id": "DOE-UAP-D005",
+      "later_release": 4,
+      "later_type": "pdf",
+      "prior_id": "DOE-UAP-D001",
+      "prior_release": 2,
+      "auto_merged": false
+    },
+    {
+      "kind": "cross_release_pairing",
+      "later_id": "DOW-UAP-D079",
+      "later_release": 3,
+      "later_type": "pdf",
+      "prior_id": "FBI-UAP-D014",
+      "prior_release": 4,
+      "auto_merged": false
+    },
+    {
+      "kind": "cross_release_pairing",
+      "later_id": "DOW-UAP-D098",
+      "later_release": 5,
+      "later_type": "pdf",
+      "prior_id": "DOW-UAP-D103",
+      "prior_release": 6,
+      "auto_merged": false
+    },
+    {
+      "kind": "cross_release_pairing",
+      "later_id": "DOW-UAP-D098",
+      "later_release": 5,
+      "later_type": "pdf",
+      "prior_id": "DOW-UAP-D104",
+      "prior_release": 6,
+      "auto_merged": false
+    },
+    {
+      "kind": "cross_release_pairing",
+      "later_id": "DOW-UAP-D103",
+      "later_release": 6,
+      "later_type": "pdf",
+      "prior_id": "DOW-UAP-D098",
+      "prior_release": 5,
+      "auto_merged": false
+    },
+    {
+      "kind": "cross_release_pairing",
+      "later_id": "DOW-UAP-D104",
+      "later_release": 6,
+      "later_type": "pdf",
+      "prior_id": "DOW-UAP-D098",
+      "prior_release": 5,
+      "auto_merged": false
+    },
+    {
+      "kind": "cross_release_pairing",
+      "later_id": "DOW-UAP-D105",
+      "later_release": 6,
+      "later_type": "pdf",
+      "prior_id": "DOW-UAP-D098",
+      "prior_release": 5,
+      "auto_merged": false
+    }
+  ]
+}

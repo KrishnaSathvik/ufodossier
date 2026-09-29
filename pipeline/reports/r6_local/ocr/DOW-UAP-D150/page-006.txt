@@ -1,0 +1,45 @@
+UNCLASSIFIED/ /FOR. 8FFI@IAL l!ISI!!! er~t I 
+Quantum Computing and Utilizing Organic Molecules in 
+Automation Technology 
+Summary 
+Powerful onboard computing hardware is a desired option for future space travel. Without 
+large data processing capability, the copious amounts of data acquired during flight from 
+astronomical sensors as well as crew and vehicle sensors will need to be sent back to 
+earthbound machines for processing, introducing delays measured in hours for routine 
+calculations. Current commercial computer hardware trajectories in silicon substrate 
+semiconductors are not likely to produce a radiation-hard or small and portable 
+supercomputer without significant mission-specific alteration. Alternatives to traditional 
+computing technology include computers based on entangled quantum states and molecular 
+computing hardware based on DNA molecules. 
+Included in th is review is significant introduction to the necessary elements of quantum 
+computing and a summary of the state-of-the-art technologies. Following is background on 
+DNA and production of engineered DNA chains. Finally, DNA logic gates are presented along 
+with a treatment of nanomachines that will repair DNA circuitry. Forecasts of technology 
+development in the 10-20 and 40-year horizons are included along the way, as well as 
+summary discussion and a conclusion. 
+The first operating quantum computers capable of solving real-world problems will 
+commence within 10 years and be based on ion trap technology. This is entirely based on the 
+amount of research resources dedicated to the problem and the fact that there appear to 
+only be engineering challenges remaining. Atomic and ion traps require very substantial 
+cryogenic and EM shielding systems and are not practical for space travel. 
+Pure photonic technologies available today have difficulty with both miniaturization and 
+scalability. However, the amount of active work in the field makes a disruptive advance likely 
+in the 10-year timeframe . Optical computers will likely be realized in the 20-year horizon; 
+however, the very powerful promise of quantum computing will still have issues with photon 
+loss in any solid state device. The 40-year horizon will see photon technologies play an 
+essential but supporting role in distributed quantum computing. Realized all-optical non­
+quantum systems will have radiation tolerance advantages over current semiconductor 
+technology and are likely to augment or even replace general -purpose computing devices for 
+space trave l. 
+Hybrid designs uti lizing arrays of quantum dots and photon communication channels will be 
+an option for space travel supercomputing on the 40-year timescale. These systems operate 
+at attainable temperatures without cryonics, and require no more shielding than humans. It 
+is likely that spintronics will be an essential ingre dient. 
+Simple organic computing based on DNA tiles will be realized in the next 20 years. On the 
+40-year time horizon, useful DNA-based devices will be essential space exploration tools. 
+These could take the form of orbital-del ivered wireless sensors searching planetary/asteroid 
+features or for essential compounds such as high concentrations of water. DNA computers 
+will also be realized on the 40-year timeline . Their advantage over solid state devices will be 
+the ability to repair nanoscale elements damaged in normal use or by cosmic radiation. 
+UNCLASSIFIED/ j FOR OFFICIAL 031!!! l>flt I 
+5

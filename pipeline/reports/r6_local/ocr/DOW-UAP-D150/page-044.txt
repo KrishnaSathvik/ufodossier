@@ -1,0 +1,29 @@
+UNCLASSIFIED/ /Fdk OFFICIAL USE l>flti" 
+Figure 25. AFM Scan of walkers as they follow a track pattern places on 
+the surface. Each can take up to 50 steps. Visible is the body of each 
+walker as they carry cargo (gold atoms} along the designed path. 
+Scale bar is 50 nm. (129} 
+The Nano Walker; a Spider-like Approach 
+A simple cargo carry ing robot was demonst rated by Gu. (129) Spiders follow a designated 
+path placed on a surface, picking up gold atoms as they pass over them. Such a device could 
+be used to collect samples from asteroid or planetary surfaces . On a massive scale, they 
+could collect mission critica l mater ials from an explorat ion site. 
+In a different approach, a nano-scale molecular proto-robot with a potential for integration 
+with computing and sensing (i.e ., into a real molecular robot), (130) was introduced by 
+Stojanovic: This design starts with a consideration of the following situation; a surface 
+covered with substrates in a scaffold configuration is exposed to a single deoxyr ibozyme that 
+will bind to its substrate, cleave it, release both products, and then bind again to another 
+substrate, repeating the cycle, for as long as there are substrates available on the scaffold. 
+(Figure 26) This deoxyribozyme would move over the surface with the process called self­
+repelling random walk, being attracted more by substrates, than by the residual product on 
+the surface. But every loss of the contact with surface could lead to the removal of the 
+deoxyribozyme in the bulk solution, with experimentally determined processivity (cleaving 
+substrates without leaving into bulk solution) into single digits. However, combin ing the 
+concepts of self-repelling walk of deoxyribozymes and multivalency, led to testing 
+assemblies with 2-6 deoxyribozyme legs displayed on inert bodies (i.e., spiders), and the 
+processivity was increased to up to several thousands. Essentially, the cumu lative binding of 
+multiple catalysts to substrates would attach the spider tightly to the matrix, whereas 
+individual catalysts would still be able to rapidly cleave substrates, release products, and 
+bind new substrates through the process of dissociation and rebinding. If density of 
+UNCLASSIFIED/ /FAR OSSICl.\k W&E 8HLY 
+43

@@ -1,0 +1,177 @@
+THE AEROPLANE
+
+and pseudo-circular and pseudo-square wings thus exhibit
+significant d.fferences. This also applies to the ground effect,
+i.e., the land.ng qualities. The provis.on ot oblique nozzle-
+shaped slots at the tips yielded no useful results. In any case,
+square-cut tips were found to be a disadvantage, with respect
+to drag, as well as to other qualities.
+
+Later N.A.C.A. research by F. E. Weick and Robert Saundefs
+referred to aspect ratios of the order of 3 in connection with
+slotted auxiliary Vevions flaps for the trim of tailless aeroplanes.
+This constituted the first investigation of what has become
+known to-day as the “ Delta Wing,” i.e., the combination of
+sweep-back with low aspect ratio. Such shapes are of special
+interest for aeroplanes capable of flying through the trans-sonic
+region.
+
+Pancakes 4 la Zimmermann
+
+The results of Zimmermann’s research were so convincing
+that a number of otherwise quite respectable designers were
+tempted into experimentation with disc-wing aeroplanes. In
+accordance with Zimmermann’s views, all these designs were
+intended to be of the safety-first type of privately owned
+aircraft. This distinguishes the early phase from the more
+recent interest in Flying Saucers. , ? ‘
+
+In 1934 Farman was stimulated into experimenting with a
+wing with an aspect ratio of only 1.9. This was seen in his
+F-1020 monoplane which otherwise had a long fuselage with
+a conventional tail. It was said to have proved very stable
+in flight, but was nog further heard of. An_ experimental
+parasol monoplane with a completely circular wing, a camber
+flap in the trailing edge and severely skewed ailerons was
+tested in the U.S.A. (in 1934), with indifferent results. It was
+shown in flight in news reels.
+
+At about the same time Raoul J. Hoffmann, of St. Peters-
+burgh, Florida, an eminent aeronautical engineer of Austrian
+origin (known as the first to prove—in 1913—that the ratio
+C2/o5 governs optimum climb and glide with minimum
+
+sinking speed, took up development of the disc-wing aeroplane.
+
+Hoffmann's Flying Saucer was a tailless aircraft with an
+aspect ratio of slightly over 2. The first type was an ultra-
+light single-seater with 36 b.h.p. Later a side-by-side two-seater
+with an 85 b.h.p. Cirrus engine was comtructed and flew well;
+the wing tips served as ailerons and the elevators formed part
+of the trailing edge. The aerofoil sections employed were
+N.A.C.A. M.6 basically, with N.A.C.A. M.1 at the tips. Both
+are sections designed by.M. M. Munk. The former is a reflexed-
+camber section with a practically stationary centre of pressure;
+the latter is symmetrical -
+
+The central structure of the wing, the fuselage and the fin
+was of welded-steel tube; the wing had three spars. This
+little two-seater was stated to fly well and to exhibit very good
+stability. It seems, however, that the controllability, in
+particular directionally, was not satisfactory. The vision from
+
+the cockpit must have been very restricted—a moot point with -
+
+designs. A speed range from 28 m.p.h. to 135 m.p.h.
+all Cteimed.” The pete weight was given as 900 Ib., and the
+wing loading was 5.5 Ib./sq. ft. ' ;
+
+One remarkable characteristic observed during the flying
+tests of Hoffmann’s aircraft was that, when coming in to land.
+the approach was steep: yet prior to the flattening out and
+just before touching down, the glide flattened. This would
+
+_
+
+CLARK ¥ AEROFON SECTION
+(NACA REP No 439
+
++.
+
+GUIDING ANGLE
+AT MAX LUFT
+
+MAX LUFT COEFFICIENT
+RATIO MIN DRAG COEFFICIENT
+
+INCIDENCE FOR MAX LIFT;
+GUIDING ANGLE AT MAX LIFT
+
+ASPECT RATIO (»b*'s)
+
+Fig. '17.—These results from Zimmermann’s wind-tunnel
+tests on disc wings (1932) clearly show the characteristics
+
+of low aspect ratio aerofoils.
+
+@ 282
+
+NND 927545
+
+MARCH 5, 1948
+
+RATIO
+
+CLARK ¥ AEROFON SECTION
+
+(NACA. ZIMMERFIANN,
+
+COEFFICIENT OF RESULTANT AERODYNAMIC FORCE
+urt Jor AG
+
+ASPECT RATIO (. b’/s)
+
+18.—Further results from Zimmermann’s tests shown here
+also indicate the advantages to be gained from disc wings.
+
+seem to contradict the experience referred to above, and it
+was attributed to a ground effect arising from the rake of the
+wing-tips. It is indeed reasonable to expect that the presence
+of the ground would affect the formation of the marginal
+vortices to an extent which may markedly influence the
+behaviour of disc wings during take-off and landing. Hoffmann
+projected a pusher and a twin-engined version, but these types
+did not materialize.
+
+A further development was the Arup monoplane of
+R. J. Hoffmann and C. L. Snyder at South Bend, Indiana. The
+wing shape was very similar. It resembled a semi-circle flying
+with its straight side as the leading edge; to this wing, ailerons
+were added as special tips. The aspect ratio practically
+corresponded to that of the previous Hoffmann types. Again,
+aerofoils with little Prrvihovae’ iprtbasees! travel were used.
+
+The latest type had its tailplane and elevator separately
+located over the wing trailing edge (similar to the “ Elytro-
+plane” of De Rougé). It seems that the longitudinal control
+at certain incidences was not satisfactory. The ailerons which
+formed part of the wing shape and reduced the aspect ratio
+to a value of 1.75 had a triangular shape and were greatly
+skewed (taking into account the oblique flow over the wing
+tips). The engine was a 70 b.h.p. Le Blond radial; a tricycle
+undercarriage was fitted.
+
+With the pilot alone, a gliding speed of 23.5 m.p.h. was
+recorded (the wing loading was about 3.3 Ib./sq. ft.) and a
+gliding angle of 21 degrees was measured, with a sinking speed
+of 12.3 ft. per second, wh.ch can be accommodated by a sturdy
+undercarriage without flattening out of the glide. ‘The maxi-
+mum speed was 86 m.p.h., and the take-off was stated to require
+5 secs. in zero wind.
+
+Several more Arup types seem to have been constructed
+and flown during 1935. ‘The flying qualities were praised—
+gliding angles of 1:2.6 being quoted—and the published
+performance figures sounded extremely good. Yet, for reasons
+never disclosed, the production stage was not reached and the
+development ceased abruptly. It is worth noting that Charles
+Zimmermann himself has taken no part in this development,
+but he was an interested spectator at demonstration flights
+with an Arup monoplane at Langley Field.
+
+An Italian “ Tortellino ”
+
+At the time of the Arup development (1934), F. Piana
+Canova, an Italian, began to embark on a development for a
+tajlless aeroplane with a low aspect ratio. In May, 1935, he
+secured patents for a rhomboidal wing, one diagonal of which
+coincided with the direction of flight. The ailerons were to
+be located at the lateral apices, elevator and rudder at the
+rear apex, while the airscrew was in front of the leading apex.
+Another patent related to bi-convex aerofoils with ducts and
+control valves for the pilot, enabling the latter to neutralize
+the negative pressure on the forward ventral surface when at
+negative incidences. The latter patent was, apparently, never
+submitted to flight experiments,
+
+(To be continued.)

@@ -1,0 +1,35 @@
+UNCLASSIFIED/ /fOR OFFI&IAk Wlii QPU,¥ 
+7. Ifx is limited to a half line (p(x) = 0 for x <0) and the fin.t moment of x is ihted at a: 
+a = f p(x dx 
+then the maximwn en opy OCCW1! when 
+p(x) =,! - f.r/al 
+a 
+and 1s equal to logea. 
+Now, we wish to point out that there is a third possible case, other than the two given 
+by Shannon. This is the case when the probabi lity density funct ion p(x) is limited to a 
+FINITE INTERVAL a::; x::; b. This is obviously the case with any physical POSITIVE 
+random variable, such as a distance, or the number N of extraterrestrial communicating 
+civilizations in the,". And it is easy to prove that for any such finite random variable the 
+maximum entropy distribution is the UNIFORM distribution over a -5, x -5, b. Shannon did 
+not bother to prove this simple theo rem in his 1948 papers since he probably regarded 
+it as too trivial. But we prefer to point out this theorem since, in the language of the 
+statistica l Drake equat ion, it sounds like: 
+"Since we don't know what the probability distr ibution of any one of the Drake random 
+variables D; is, it is safer to assume that each of them has the maximum possible 
+entropy over a; -5,x-5, h;, i.e., that D; is UNIFORMLY distributed there. 
+The proof of th is theorem is along the same lines as for the previous two cases 
+discussed by Shannon: 
+We start by assuming that a; -5, x -5, b; . 
+We then form the linear combination of the entropy integral plus the normalization 
+condition for D; 
+where i is a Lagrange multip lier. 
+Performing the variation, one finds 
+- Iogp(x)- 1+1 = 0 that is: p(x)= e ,1,- i . 
+Applying the normalization condition (constraint) to the last expression for p(x) yields 
+b, ( ) f. b; ,l,- 1 2-1 f. b; ,1,-1 ( )I = f. p x dx = e dx = e dx = e b; - a,. 
+a1 a1 a1 
+that yields 
+,l,- 1 1 e = --
+h; - a; 
+UNCLASSIFIED/ /POlt Offl@IAL WSi 9Nk¥ 
+26

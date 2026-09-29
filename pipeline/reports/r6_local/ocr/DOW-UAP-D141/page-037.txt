@@ -1,0 +1,38 @@
+UNCLASSIFIED/ /FAR QSSICIAb WSE 8HL I 
+[19] T. Taubner, D. Korobkin, Y. Urzhumov, G. Shvets, and R. Hillenbrand, "Near-field 
+microscopy through a SiC superlens", Science 313, 1595 (2006). 
+[20] Yoav Avitzour, Yaroslav A. Urzhumov, and Gennady Shvets, "Wide-angle infrared 
+absorber based on a negative-index plasmonic metamaterial", Phys. Rev. B 79, 045131 
+(2009). 
+[21] J. B. Pendry, "Negative Refraction Makes a Perfect Lens", Phys. Rev. Lett. 85 
+(2000) 3966. 
+[22] Zubin Jacob, Leonid V. Alekseyev and Evgenii Narimanov, "Optical Hyperlens: Far­
+field imaging beyond the diffraction limit", Opt. Exp. 14, 8247 (2006). 
+[23] A. Salandrino and N. Engheta, "Far-field subdiffraction optical microscopy using 
+metamaterial crystals: Theory and simulations," Phys. Rev. B 74, 075103 (2006). 
+[24] A. A. Govyadinov, and V. A. Podolsky, "Material photonic funnels for subdiffraction 
+light compression and propagation", Phys. Rev. B 73, 155108 (2006) 
+[25] Zhaowei Liu, Hyesog Lee, Yi Xiong, Cheng Sun, Xiang Zhang, "Far-Field Optical 
+Hyperlens Magnifying Sub-Diffraction-Limited Objects", Science 315, 1686 (2007). 
+[26] G. Shvets, S. Trendafilov, J. B. Pendry, and A. K. Sarychev, PRL 99, 053903 
+(2007). 
+[27] Zhaowei Liu, Stephane Durant, Hyesog Lee, Yuri Pikus, Nicolas Fang, Yi Xiong, 
+Cheng Sun, and Xiang Zhang, "Far-Field Optical Superlens" 7, 403 (2007). 
+[28] R. Merlin, Science 317, 927 (2007). 
+[29] Yoav Avitzour and Gennady Shvets, "Manipulating Electromagnetic Waves in 
+Magnetized Plasmas: Compression, Frequency Shifting, and Release", Phys. Rev. Lett. 
+100, 065006 (2008). 
+[30] Kosmas L. Tsakmakidis, Allan D. Boardman, & Ortwin Hess," 'Trapped rainbow' 
+storage of light in metamaterials ", Nature 450, 397 (2007). 
+[31] G. Shvets and J. S. Wurtele, Phys. Rev. Lett. 89, 115003 (2002). 
+[32] Shuang Zhang, Dentcho A. Genov, Yuan Wang, Ming Liu, and Xiang Zhang, 
+"Plasmon-lnduced Transparency in Metamaterials", Phys. Rev. Lett. 101, 047401 
+(2008). 
+[33] N. I. Landy, S. Sajuyigbe, J. J. Mock, D. R. Smith, and W. J. Padilla, "Perfect 
+Metamaterial Absorber", PRL 100, 207402 (2008). 
+[34] Hu Tao, Nathan I. Landy, Christopher M. Bingham, Xin Zhang, Richard D. Averitt, 
+and Willie J. Padilla, "A metamaterial absorber for the terahertz regime: Design, 
+fabrication and characterization", Opt. Exp. 16, 7181 (2008). 
+[35] T. J. Coutts, Renewable Sustainable Energy Rev. 3, 77 (1999). 
+UNCLASSIFIED/ {EAR OFSICll.k WSI!! eNti 
+33

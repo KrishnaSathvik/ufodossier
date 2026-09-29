@@ -1,0 +1,31 @@
+UNCLASSIFIED/ /fOR. 8FFI61.t..k W&i QJsll,¥ 
+The Planck aether model can give a simple explanation for this paradox. The Planck 
+aether consists of two superfluid components, one composed of positive Planck masses 
+and the other one of negative Planck masses. The two components can freely flow 
+through each other, making possible two configurations, one where both components 
+are corotating and one where they are counterrotating. The corotating configuration is 
+realized on a rotating platform, where it leads to the Sagnac and neutron interference 
+effects. This suggests that in the presence of the magnetic vector potential the two 
+superfluid components are counterrotating. Outside the coil, where curl A = 0, the 
+magnetic energy density vanishes, implying that the magnitudes of both velocities are 
+exactly the same . Inside the coil, where curl A * 0, there must be a small imbalance in 
+the velocity of the positive over the negative Planck masses to result in a positive 
+energy density. 
+9 . Negative Masses in Cosmology 
+In the Planck aether theory, the negative gravitational field energy surrounding a mass 
+is due to an excess of negative over positive mass, and the negative mass surrounding 
+a highly collapsed spherical body or black hole is of the same order of magnitude as the 
+positive mass accumulated inside the collapsed body . An assembly of interacting 
+positive and negative masses can, in general, not lead to a thermodynamic equilibrium. 
+If all the positive masses are separated from the negative ones, it is sufficient to 
+require that each mass species reaches thermodynamic equilibrium. It was shown by 
+Vysin [12] that an assembly of negative masses can acquire thermodynamic 
+equilibrium provided the temperature is negative. The kinetic energy of a negative 
+Planck mass is negative, and an assembly of negative Planck masses has, for this 
+reason, a negative temperature. It therefore can reach thermodynamic equilibrium. 
+We now make the following hypothesis: 
+If an assembly of positive and negative masses, with the total energy equal to 
+zero, is brought together, the temperature and hence entropy of the mixture will 
+go to zero. 
+UNCLASSIFIED/fFOA OFFI&I.t.k W&li OJi,k¥ 
+29

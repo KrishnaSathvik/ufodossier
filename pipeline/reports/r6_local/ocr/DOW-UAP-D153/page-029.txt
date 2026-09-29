@@ -1,0 +1,34 @@
+UNCLASSIFIED/ /POI': orr1c11tt U.!I! Oflt I 
+bosonic commutation relations: [a;' a:,;] a, 'a,;,] and [a;' a:,,] al 'a,,.] =0 / = [ = = [81 Ill 
+where 6c111 (= l if e= m and 0 if t ":/: m) is the Kronecker delta and the indices (t , m) are 
+integers [38]. 
+A beam splitter is a four-port device not only in the case of two incoming light modes 
+interfering to produce two emerging light modes; a beam splitter is always a four-port 
+device. Even if only one beam is split into two beams, if literally nothing behind the 
+semitransparent mirror is interfering with the incident beam, quantum mechanically this 
+nothing means a vacuum state. The very possibility that the second light mode behind 
+the mirror might be excited makes a difference. The vacuum fluctuations carried by the 
+empty mode (and entering the apparatus via the so-called unused input port of the 
+beam splitter) do cause physical effects. Therefore, the vacuum fluctuations entering 
+the second (unused) input port of the beam splitter must always be assigned a formal 
+mode operator, a2, in order for the system to conserve energy, 2) obey the beam 1) 
+splitter's aforementioned bosonic commutat ion relations and 3) guarantee that the two 
+outgoing beams are independent bosonic light modes. 
+first input 
+a1 
+second output 
+A/
+a2 
+second input 
+a2 
+first output 
+A / 
+al 
+Figure 8. Schematic of an Ideal Lossless Beam Splitter. Two 
+incident spatial-temporal light modes (with the annihilation operators a 1 
+and a2) interfe re optically to produce two emerging light modes (with 
+the annihi lati on operators a; and a; ) (courtesy of Ulf Leonhardt). 
+In Figure 9 we illustrate the effect of vacuum fluctuations for the case of a fictitious 
+beam splitter, which is a model for describing linear absorpt ion or, equivalently, 
+UNCLASSIFIED)) FOR orrtClltt U.!I! OHL¥ 
+25

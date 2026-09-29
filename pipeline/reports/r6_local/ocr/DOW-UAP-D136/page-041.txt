@@ -1,0 +1,18 @@
+UNCLASSIFIED/ /P'OR: OP'P'l@IAL WS& 8NI.¥ 
+needed to culture living cells, in volumes of less than a milliliter. The device contains 
+thermopneumatic micropumps, microvalves, culture media reservoirs, cell culture 
+chamber, and optical readout systems to detect fluorescent markers that the cells 
+express when subjected to certain types of stress. 
+Sensors for glucose, oxygen, and pH monitor the culture medium and work with a servo 
+system to keep culture cond itions within a narrow range. One of the designed cell 
+culture systems can be seen in Figure 32. The system is made from micromachined 
+acrylic, and has fluidic pathways defined as channels in the plastic. The entire system is 
+first laid out using a CAD (computer aided design) system and then machined to fine 
+tolerances and chemically polished. 
+r r 
+Figure 32. Design of an Automated Cell Culture System for NASA Space Applications Incorporating 
+Microfluidics and Integrated Optical Components (Towe et. al.) 
+Figure 33 shows a more compact version of the device which contains two integrated 
+optical cells designed to monitor the expression of green fluorescent protein (GFP) and 
+UNCLASSIFIED/ {FOR OFFICIO! !Pfli ODIi.¥ 
+35

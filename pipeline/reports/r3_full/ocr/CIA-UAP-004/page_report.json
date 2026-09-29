@@ -1,0 +1,36 @@
+{
+  "filename": "CIA-UAP-004.pdf",
+  "generated_at": "2026-09-25T21:39:47.130024+00:00",
+  "page_count": 1,
+  "usable_text_chars": 1797,
+  "stats": {
+    "native_good": 0,
+    "native_thin": 0,
+    "needs_ocr": 1,
+    "ocr_failed": 0,
+    "ocr_succeeded": 1,
+    "pages_ocrd": 1,
+    "ocr_unrecoverable_thumbnail": 0
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "native_quality": {
+        "page_number": 1,
+        "native_char_count": 2311,
+        "printable_ratio": 0.987,
+        "alpha_ratio": 0.595,
+        "word_count": 335,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.32, clean=0.56))"
+      },
+      "final_category": "native_good",
+      "text_method": "tesseract",
+      "char_count": 1782,
+      "text": ""
+    }
+  ],
+  "combined_path": "/Users/krishnasathvikmantripragada/Webapps/ufo-dossier/pipeline/reports/r3_full/ocr/CIA-UAP-004/combined.txt",
+  "production_writes": false
+}

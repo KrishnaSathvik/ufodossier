@@ -1,0 +1,33 @@
+.....-- --:-1---
+,___ • - - UN IVERS IT Y OF CA LI FOR N I A 
+LOS ALAMOS SCIENTIFIC LABOltATOllY 
+(CoNnACT W-740S•BNG-36) 
+P.O. Box 1663 
+LOS ALAMOS, NEW MEXICO 
+IN JU!PLY 
+a1P1a TO: J -l6•8J.2 
+,, 
+I 
+.. 
+JUL I 7 1962 
+Dr. Jocelyn Gill 
+Room 62033 
+Federal Office Bldg. No. 6 
+Headquarters, N.A.S.A. I .-.·.. riot, ¥..; , 
+IWashington 25, D. C • . ,. 
+l ,, #u,\ 1AAl10,i 
+Dear Dr. Gill: 
+-The June 29 issue of Science brought to my attention J. H. Glenn's comments 
+on "The High layer~'. It seemed possible that the layer he described could be 
+. 
+accounted for as a region of relatively large nitrogen peroxide (N02 ) concentration, 
+and the past two weeks have been spent in checking this hypothesis • Unfortunately 
+I am not familiar with either photochemistry or upper atmosphere physics so the 
+following analysis leaves much to be desired; the hypothesis seems tenable, however, 
+f . so I would like to bring it to your attention. 
+Effective path length and comparison with possible surface observations. 
+Referring to Figure 1, the height (H) of a point at a distance (L) from a point 
+on the surface of a sphere of radius (R) can be found from the formula 
+(1) 
+which has the solution 
+(2)

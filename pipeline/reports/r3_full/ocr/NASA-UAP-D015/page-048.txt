@@ -1,0 +1,28 @@
+LOS ALAMOS SCIENTIFIC LABORATORY 
+UNIVIEll81TY OP' CALIP'OIINIA 
+LOIi ALAM09, NIEW MUICO 
+TO: Dr. Jocelyn Gill DATE: July 13, 1962 
+Readily detectable structure would produce ve.r1e.t1ons of o-N1 and aNa ot 
+about half the attenuation figure given in equations (18) and (19) which is 
+near the threshold of detectability. 
+I have not yet found an author who estimates the concentration of Ne or 
+N02 'in the atmosphere; Bates and Nicolet discuss the reactions which lead to it 
+in the book "'lhe Earth as a Planet", edited by G. P. Kuiper (Volume II of 
+The Solar System). 
+Nicolet calculates the photodissociation time as 200 seconds during daytime, 
+and shows the concentration must be so low that no effect on solar observations 
+would be found. 
+As a general conclusion, it seems to me more likely that N02 would be 
+responsible for an absorbing layer, generated perhaps with the aid of downward 
+diffusion of NO to higher pressure regions favoring oxidation to N~. 'lhe 
+color suggested by Glenn fits very well', as may be quickly verified by looking 
+thru. the vapor space above concentrated nitric acid. 
+Experimental Proposal. 
+Ideally, one could ask for the absorption coefficient as a function of wave­
+length (over a very wide spectral range) and time after sunset on the air volume 
+investigated. 
+I t seems possible to get very useful data with a relatively simple experiment 
+perha ps possible of inclusion in one of the manned orbital flights. 
+Using a slow-speed movie camera, photograph the star field and such planets 
+(including the moon) as opportunity permits, with approximately a 10° field of 
+view and enough exposure to pennit photometric measurements as the light sources

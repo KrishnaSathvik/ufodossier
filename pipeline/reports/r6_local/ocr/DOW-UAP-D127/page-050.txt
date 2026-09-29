@@ -1,0 +1,57 @@
+UNCLASSIFIED/ /FOR OFFI&IAk Wlii QPU,¥ 
+3 -e-£(,-) [E '(,}r+l ] (137).Ji;a . ,.2 
+Setting this derivative equal to zero means setting 
+E'(r)·r+l=O (138) 
+That is, upon replacing (l 35) into (138), we get 
+Rearranging, this becomes 
+that is 
+(141) 
+whence 
+In[£] =!!_+ i!_ (142) 
+r 3 9 
+and finally 
+_!:!_ 0'"2 
+r;mde"',.peak=Ce 3e 9 (143) 
+This is the most likely ET_Distance/rom Earth. 
+How likely? 
+To find the value of the probability density 
+function f ET_Disim,"' (r) corresponding to this value 
+of the mode, we must obviously replace () into (). 
+After a few rearrangements, which we skip for the 
+sake of brevity, one gets 
+Peak Value of fET_Distana,(r) = fET_Distana,( 1rroctcl 
+... (144) 
+This is the peak height in the pdf f ET_Dist"""' (r) • 
+Next to the mode, the median m (ref. [9]) is one 
+more statistical number used to characterize any 
+probability distribution. It is defined as the 
+independent variable abscissa m such that a 
+realization of the random variable will take up a 
+value lower than m with 50% probability or a value 
+higher than m with 50% probability again. In other 
+words, the median m splits up our probability 
+density in exactly two equally probable parts. Since 
+the probability of occurrence of the random event 
+equals the area under its density curve (i.e. the 
+definite integral under its density curve) then the 
+median m (of the lognormal distribution, in this 
+case) is defined as the integral upper limit m: 
+J,"' I (145)fET Distanu,(r)dr=-
+0 - 2 
+Upon replacing ( 113), this becomes 
+(146)
+2 
+In order to find m, we may not differentiate ( 146) 
+with respect to m, since the "precise" factor ½ on the 
+right would then disappear into a zero. On the 
+contrary, we may try to perform the obvious 
+substitution 
+(147) 
+into the integral (146) to reduce it to the following 
+integral (85) defining the error function erf(z). Then, 
+after a few reductions that we leave to the reader as 
+an exercise, the full equation (145), defining the 
+median, is turned into the corresponding equation 
+involving the error function erj{x) as defined by (85): 
+UNCLASSIFIED/ /FOR OFFI&IAk Wlii ,un.¥ 
+50

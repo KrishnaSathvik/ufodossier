@@ -1,0 +1,36 @@
+UNCLASSIFIED/ j FOR OFFICIAL t,!E 9HLY 
+"Impossible " Materials 
+When natural materials are shaped and combined in macroscopic ways, it becomes 
+possible to produce what Roger Bacon described as "natural magic": devices such as 
+mirrors, lenses, polarizers, magnets, wires, semiconductors, fluorescent dyes, and 
+phosphorescent screens that glow in the dark. We take these devices for granted, but 
+to our primitive ancestors they would have seemed supernatural, as indeed they are in 
+the sense of not occurring naturally. 
+However, by combining the same materials in nanostructured ways, we achieve a 
+higher order of magic: Bragg mirrors that reflect a single wavelength while transmitting 
+all others, superlenses that defy Newton's diffraction limit to focus with unnatural 
+sharpness, superstrong magnets that measure the world around them with 
+unprecedented sensitivity, photoluminescent materials that absorb light in a broad 
+range of wavelengths and re-emit it in a single brilliant color. Soon we may have high­
+temperature superconductors and even materials that are functionally invisible. 
+One such "impossible" material hypothesized is the nanostructured "metapolarizer." 
+Where classical polarizers either reflect or absorb half the light that hits them (typically 
+resulting in energy wastage of SO percent or higher), a metapolarizer simply ignores 
+one polarity of light and converts or rotates or "retards" the other. This principle can be 
+harnessed, for example, to double the battery life of a laptop display or to double the 
+brightness of a flat-screen TV. 
+However, even these magical materials are "static"; that is, their properties are fixed at 
+the time of manufacture. The greatest revolution in materials science may in fact come 
+from materials capable of changing their properties on demand. 
+Advantages of Dynamic Materials 
+Leaving behind the world of static materials, we come to a sort of programmable magic 
+whose fruits already include switchable mirrors, dynamic optical filters, deformable 
+lenses, magnets and polarizers that appear and disappear on command. Less 
+glamorous but equally important are such "behind the scenes" capabilities as tunable 
+electrical conductivity, tunable bandgap semiconductors, tunable lasers, and tunable 
+photonic crystals. 
+However, the ultimate exemplar of designer materials will be multifunctional smart 
+materials, which are capable not only of switching a particular property on and off but 
+of changing their properties-indeed, their very purpose-on demand. 
+UNCLASSIFIED/ /F9A 8FFUiiili11J11 Wiili 1'UILY 
+5

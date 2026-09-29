@@ -1,0 +1,51 @@
+UNCLASSIFIED/ / P'OR: OP'P'l@IA L WS& 0Nk¥ 
+NASA Space Applications for Microfluidic Systems ........ ........... ......... ......... ...... 34 
+Microcant ilever MEMs Sensors ....... ....... ...... ... .............. ... ...... .... ............ .... ........ ... 36 
+Conclus ion ....... ......... ......... ....... ............. ......... ..... .... ............................................. 39 
+Figures 
+Figure 1. Varieties of BioMEMS and Sensors ..................................................... ...... 2 
+Figure 3. Schemati c Diagram of a MEMS Motor Complete With a Method of 
+Figure 7. An ISFET (Ion Sensitive Field Effect Transistor) Needle-Type pH Sensor 
+Figure 9. Control of an Insulin-Delivery System by an Implantable Glucose 
+Figure 2. Funct ional MEMS Micromachines At tached to Sensing Bioe lectrodes ... .... 5 
+Converting Oscillatory Motion to Linear Motion ....................................... 5 
+Figure 4 . Illustration of the Basic Physical Principle of the BioMEMS Motor ..... ...... 6 
+Figure 5. Close-up Views of the Mic ro-Moto r Gear .......... .... ................ ................ .... 6 
+Figu re 6. An Insulin MEMS Pump ............................................................................ 8 
+for Monitoring Tissue Physiologic Status ............................................... 11 
+Figure 8. A Fiber Optical Oxygen Sensor .............................................................. 12 
+Sensor ................................................................................................... 13 
+Figure 10. Glucose Oxidase .................................................................................. 14 
+Figure 11. An Experimental MEMS Blood Glucose Sensor ..................................... 15 
+Figure 12. Photomicrograph ................................................................................. 16 
+Figure 13. A MEMS Thermopile Glucose Sensor .................................................... 17 
+Figure 15. Thermopile Glucose Sensor (left) With Functional Illustration (right) 
+Figure 16. Photograph and Illustration of the Thermopile Glucose Sensor in a 
+Figure 18. A Neural Cell Showing Dendritic Inter-Connections That are Electrically 
+Figure 14. Illustration of the Thermocouple Principle .......................................... 18 
+are Made Using Photolithographic Techniques .................................... 19 
+Catheter .............................................................................................. 19 
+Figure 17. A MEMS Biopotential Electrode System ................................................ 20 
+Active With Other Cells........................................................................ 21 
+Figure 19. A Neuroprosthetic Interface ................................................................ 22 
+Figure 20. Scanning Electron Micrograph of a Brain Electrode Array Manufactured 
+From Titanium and Produced by a Process of Electrodischarge 
+Figure 21. Scanning Electron Micrograph of a 1141 Electrode Array Made to Be 
+Figure 22. Polymer Based Cortical Penetrating Neuroelectrodes Made by Processes 
+Figure 23. A MEMS Microelectrode Array Implanted Into the Cortex of a Rat Brain 
+Figure 26. An Illustration of the Retinal Neuroprosthesis Created by the Boston 
+Figure 27. Power Transfer by Magnetic Induction to an Implanted BioMEMS Retinal 
+Figure 28. A New Generation of Implantable Neurostimulation Devices Can Pass 
+Figure 29. Illustration of the Internal Construction of the Ultrasound Powered 
+Machining ............................................................................................ 23 
+Inserted Into the Surface of the Human Brain .................................... 25 
+of Thin Film Deposition and RF Etching ............................................... 26 
+............................................................................................................ 27 
+Figure 24. A Representation of the Retinal Prosthesis ......................................... 28 
+Figure 25. A BioMEMS Fabricated 4x4 Microelectrode Retinal Array ..................... 28 
+Implant Project ................................................................................... 29 
+Prosthesis ........................................................................................... 30 
+Through the Lumen of a Syringe Needle .............................................. 31 
+Neurostimulator Developed at ASU ..................................................... 32 
+UNCLASSIFIED/ {FOR OFFICIO! !PEii QDlk¥ 
+iv

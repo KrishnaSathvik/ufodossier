@@ -1,0 +1,96 @@
+UNCLASSIFIED/ /fOR OFFI&IAk Wlii QPU,¥ 
+that the mean value of the lognormal random variable N is actually of the same order as the classical N given 
+by the ordinary Drake equation, as one might expect from a good statistical generalization. 
+1. INTRODUCTION 
+The Drake equation is a now famous result 
+(see ref. [1] for the Wikipedia summary) in the 
+fields of SETI (the Search for ExtraTetTestial 
+Intelligence, see ref. [2]) and Astrobiology (see ref. 
+[3]). Devised in l 960, the Drake equation was the 
+first scientific attempt to estimate the number N of 
+ExtraTerrestrial civilizations in the Galaxy with 
+which we might come in contact. Frank D. Drake 
+(see ref. [4]) proposed it as the product of seven 
+factors: 
+N=Ns-fp-ne·fl·fi·fc·fL. (1) 
+Where: 
+I) Ns is the estimated number of stars in our 
+Galaxy. 
+2) fp is the fraction (= percentage) of such stars 
+that have planets. 
+3) ne is the number "Earth-type" such planets 
+around the given star; in other words, ne is 
+number of planets, in a given stellar system, 
+on which the chemical conditions exist for life 
+to begin its course: they are "ready for life," 
+4) fl is fraction( = percentage) of such "ready for 
+life" planets on which life actually starts and 
+grows up (but not yet to the "intelligence" 
+level). 
+5) fl is the fraction (= percentage) of such 
+"planets with life fom1S" that actually evolve 
+until some form of "intelligent civilization" 
+emerges (like the first, historic human 
+civilizations on Earth). 
+6) Jc is the fraction (= percentage) of such 
+"planets with civilizations" where the 
+civilizations evolve to the point of being able 
+to communicate across the interstellar 
+distances with other (at least) similarly 
+evolved civilizations. As far as we know in 
+2008, this means that they must be aware of 
+the Maxwell equations governing radio waves, 
+as well as of computers and radioastronomy 
+(at least). 
+7) fl is the fraction of galactic civilizations alive 
+at the time when we, poor humans, attempt to 
+pick up their radio signals (that they throw out 
+into space just as we have done since l 900, 
+when Marconi started the transatlantic 
+transmissions). In other words, fl is the 
+number of civilizations now transmitting and 
+receiving, and this implies an estimate of"how 
+long will a technological civilization live?" 
+that nobody can make at the moment. Also, 
+are they going to destroy themselves in a 
+nuclear war, and thus live only a few decades 
+of technological civilization? Or are they 
+slowly becoming wiser, reject war, speak a 
+single language (like English today), and 
+merge into a single "nation", thus living in 
+peace for ages? Or will robots take over one 
+day making "flesh animals" disappear forever 
+(the so-called "post-biological universe")? 
+No one knows ... 
+But let us go back to the Drake equation (1). 
+In the fifty years of its existence, a number of 
+suggestions have been put forward about the 
+different numeric values of its seven factors. Of 
+course, every different set of these seven input 
+numbers yields a different value for N, and we can 
+endlessly play that way. But we claim that these 
+are like ... children plays! 
+We claim the classical Drake equation (1), as 
+we shall call it from now on to distinguish it from 
+our statistical Drake equation to be introduced in 
+the coming sections, well, the classical Drake 
+equation is scientifically inadequate in one regard 
+at least: it just handles sheer numbers and does not 
+associate an error bar to each of its seven factors. 
+At the very least, we want to associate an error 
+bar to each D;. 
+Well, we have thus reached STEP ONE in our 
+improvement of the classical Drake equation: 
+replace each sheer number by a probability 
+distribution! 
+The reader is now asked to look at the flow 
+chart in the next page as a guide to this paper, 
+please. 
+2. STEP 1: LETTING EACH FACTOR 
+BECOME A RANDOM VARIABLE 
+In this paper we adopt the notations of the 
+great book "Probability, Random Variables and 
+Stochastic Processes" by Athanasios Papoulis 
+(1921-2002), now re-published as Papoulis-Pillai, 
+UNCLASSIFIED/ ,'FOR: QFFIGI CL. Wii ODIL:¥ 
+29

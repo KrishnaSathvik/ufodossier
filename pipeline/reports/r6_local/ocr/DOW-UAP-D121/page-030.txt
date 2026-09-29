@@ -1,0 +1,27 @@
+UNCLASSIFIED/ fFOR 8FFI@IAL tl91!! f>flt I 
+Figure 7 is a closeup photograph of the same actual components as built and tested at 
+the High Energy Research and Test Facility antenna range. This source was used 
+extensively for testing in the 1990s, including remote tests in which the entire system, 
+including the antenna, a screen room, and far-field diagnostics, was fitted into a trailer 
+specially modified for the purpose. 
+Figure 7. HS Output Section With the Point Geometry Converter Feeding an Extended­
+Ground-Plane Antenna Through a Brewster Angle Window 
+THE PHOENIX HPM SOURCE 
+The Phoenix was a UWB source developed by the AFRL specifically for asset testing at 
+the High-Energy Microwave Laboratory (HEML). The HEML has a large anechoic 
+chamber and is capable of testing small fighter aircraft. The Phoenix had a ferrite core 
+transformer-based system using two flowed oil switches to generate the fast rise-time 
+voltage pulse. It was bulkier than the H-series sources and thus was less portable. An 
+oil-processing platform with 1-micron filtering and a 5-horsepower DC motor driving the 
+positive displacement oil pump was used. The pumping system was capable of a 7-
+gallon-per-minute flow rate through the two switches. The oil switches were designed 
+into 50.Q parallel-plate transmission lines. The peaking switch electrode spacing was 
+only 0.015 to 0.020 inches and was highly overvolted. The operating voltage was about 
+500 kV with a 90-ps rise time and a 1.25-ns pulse width. The peak power was 5 GW, 
+and the radiated field at 9 meters was 45 kV/m, giving it an FOM of more than 400 kV. 
+Phoenix had the fastest rise time of any HPM source to date. Figure 8 shows the 
+waveform of the radiated field at a distance of 8.5 meters. Figure 9 shows the result ing 
+spectral content. Note that the source has good spectral content beyond 2.5 GHz owing 
+to the extremely fast rise time. 
+UNCLASSIFIED/ /5iOA O5i5ilCI0I. Uili OPII.¥ 
+22

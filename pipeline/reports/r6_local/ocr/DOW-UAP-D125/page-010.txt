@@ -1,0 +1,49 @@
+UNCLASSIFIED/ /POI\ orr1e1At li!II!! OHL¥ 
+beam-like ions. Since electron energy loss processes such as radiation emission are 
+serious, the Lawson temperature criterion must be modified for the IEC. A first rough 
+estimate is the Te/T1< 1/3 for DT. (Here T1 and Te are the ion and electron 
+"temperatures", respectively). Control of this ratio is a complex physics issue, involving 
+the relative ion and electron source rates and energies and the potential well structure. 
+In later sections use of p- 11B (hydrogen-boron-11) fuel in the IEC is considered. This is 
+very attractive since it provides all charged part icle reaction products, making this an 
+unique "aneutronic" system. Such a reactor represents a truly ideal system from an 
+environmental and energy sustainability perspective. However, for such fuels, t he 
+Larson criterion becomes much more demanding, increasing nT by two orders of 
+magnitude and T to 150 kV. Also, for the IEC, a Te/T1< 1/9 becomes essential. (Using 
+temperature ration is a very simplified representation. The radiation losses are quite 
+sensit ive to deviation in the actual energy distribution of the ions and electrons . For 
+example, electron Bremsstrahlung emission primarily comes from the high energy "tail" 
+of the electron distribution while energy transfer with ions is dominated by the "foot" of 
+the electron distribution. At high powers, interactions in these regions can become quite 
+non-linear, depleting or "burning out 0 the local populations in these regions. This effect 
+causes energy losses to saturate, hence can be quite beneficial under some 
+circumstance . However, the phenomenon is complex to evaluate numerically, so little 
+has been reported on it for IECs to date). The very aggressive p-11B Lawson 
+requirement is employed in the design of the breakeven experiment of Section VI. 
+While this discussion of IEC physics has been greatly simplified, it hopefully provides 
+more insight into the basic concepts and issue before delving into more detail. 
+IEC BACKGROUND 
+Inertial Electrostatic Confinement (IEC) was conceived of by Philo Farnsworth, the 
+inventor of electronic television, as an approach to fusion power using electrostatic 
+fields for confinement (Reference 1.2). When he did this in 1955, the prime approaches 
+being pursued worldwide were magnetic confinement or inertial (laser compression of 
+targets) confinement. In fact, electrostatic confinement had been written off by most 
+scientists due to Earnshaw's theorem (Reference 1.4) which stated that plasma could 
+not be confined by electrostatic fields alone. That was simply an expression of the fact 
+that use of a biased plate to confine one species, say ions, would automatically attract 
+the opposite species, electrons, such that the whole plasma would transport to the 
+plate. Farnsworth seemed to intuitively understand that this theorem assumed steady ­
+state, so that if, as in IEC, the ions were dynamically moving and confined, they would 
+electrostatically confine the electrons. Farnsworth went further and realized that in a 
+spherical system virtual electrodes would form a high density plasma region if the 
+confined ions were focused at the center of the sphere (Reference 1.2). 
+While Hirsh worked with Farnsworth to demonstrate early experimental success with 
+IEC experiments (Reference 1.2), the concept passed from view as magnetic and 
+inertial confinement resea1rch exponentiated. Then in the late 1990s R. W. Bussard 
+revived the concept with the hybrid IEC magnetic approach (Reference 1.6-1.7). In this 
+approach the electrons were confined in the magnetic field, forming a potentials trap for 
+ions. [Note the similarity to the original conceptual potential well discussed by Elmore, 
+et al. (Reference 1.1)]. Upon invitation by R.W. Bussard to join this effort, the author, 
+George Miley, undertook supporting experiments that were a variation of the original 
+UNCLASSIFIED/ /EAR OFFICIO! !!SF ON! X 
+3

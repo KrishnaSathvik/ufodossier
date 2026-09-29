@@ -1,0 +1,35 @@
+{
+  "filename": "FBI-UAP-D003.pdf",
+  "generated_at": "2026-09-25T18:53:06.353678+00:00",
+  "page_count": 1,
+  "usable_text_chars": 93,
+  "stats": {
+    "native_good": 0,
+    "native_thin": 0,
+    "needs_ocr": 1,
+    "ocr_failed": 0,
+    "ocr_succeeded": 1,
+    "pages_ocrd": 1
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "native_quality": {
+        "page_number": 1,
+        "native_char_count": 0,
+        "printable_ratio": 0.0,
+        "alpha_ratio": 0.0,
+        "word_count": 0,
+        "replacement_char_count": 0,
+        "category": "native_thin",
+        "reason": "ocr_replaced_native (empty native text)"
+      },
+      "final_category": "native_thin",
+      "text_method": "tesseract",
+      "char_count": 78,
+      "text": ""
+    }
+  ],
+  "combined_path": "pipeline/reports/r3_readiness/ocr/FBI-UAP-D003/combined.txt",
+  "production_writes": false
+}

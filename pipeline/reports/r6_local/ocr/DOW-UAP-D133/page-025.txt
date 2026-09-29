@@ -1,0 +1,46 @@
+UNCLASSIFIED/ /FOR OFFI@IAL li!I! er~t I 
+conditions. Thorne and coworkers showed that "nearby" to any inconsistent paradoxical 
+situation involving timelike wormholes there is always a self-consistent situation that 
+does not involve a paradox. As Sherlock Holmes said, "When the impossible is 
+elim inat ed, whatever remains, however improbable, must be the truth." These 
+speculations assert that equipment failure producing a consistent sequence of events is 
+more likely than producing an inconsistency between the send and receive events. The 
+implications of this are that bilking itself is impossible, but very improbable events 
+could perhaps be produced in avoiding it. 
+The other issue raised by retrocausal signaling might be called the "immaculate 
+conception" paradox. Suppose you are using the setup described above, and you 
+receive from yourself in the future the manuscript of a best-selling novel with your 
+name listed as the author. You sell it to a publisher and become rich and famous. And 
+when the time subsequently comes for transmission, you duly send the manuscript 
+back to yourse lf, thereby closing the timelike loop and producing a completely 
+consistent set of events. But the question is, Just who wrote the novel? Clearly, you did 
+not; you merely passed it along to yourself. Yet highly structured information (the 
+novel) has been created out of nothing. And in this case, nature should not object, 
+because there was no bilkin g, and you produced no inconsistent timelik e loops. 
+It is not known how to resolve either of these paradoxes. Here are a few possibilities: 
+• If nonlocal signaling is impossible, then the paradoxes need no resolution, but better, 
+more "air-tight" proofs of the impossibility of nonlocal signaling would be needed. 
+• If nonlocal signaling is possible and can be used to form timelike loops, then 
+paradoxes become important subjects for further experimental testing, study, and 
+theoretical treatment. 
+• As suggested by Stephen Hawking (Reference 24 ), perhaps nature "abhors" timelike 
+loops, so that if one is about to be created, quantum vacuum fluctuations will grow 
+without limit and destroy the apparatus that is attempting to produce the loop. Even 
+in this case, use of nonlocal signaling might still be possible, provided timelike loops 
+were carefully avoided in such systems. (See below.) 
+X. Superluminal Communication Without Paradoxes 
+One path to avoid the retrocausal paradoxes outlined above would be to make sure 
+there were no timelike loops in the communication system. This can be achieved by 
+careful arrangement of the propagation delays in the sending and receiving ends of the 
+hypothetica l nonlocal commun ication. 
+Consider the space-time interval 5, as defined by the equation: 5 2 = x2 - (ct)2, where 
+x is the spatial distance separat ing two events (for example, send and receive), t is 
+their separation in time, and c is the speed of light. A positive value of 5 2 means the 
+interval is spacelike and s=O is a lightlike interval, and a negative value of s2 means 
+the interval is timelike. The interval s is a Lorentz-invariant quantity that, in particular, 
+retains its sign independent of the choice of inert ial reference frame from which the two 
+events are viewed. 
+As long as the nonlocal communication system is arranged so that the space-time 
+interval between the sender and the receiver is always separated by a spacelike or 
+UNCLASSIFIED/;'FOR OFFI@IAI: WSE OHl:l/ 
+19

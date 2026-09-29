@@ -1,0 +1,44 @@
+UNCLASSIFIED/ /iiOR OiiiilCI O L lallili QPIL¥ 
+where L1x is the position uncertainty, LJp is the momentum uncertainty, and n is 
+Planck's reduced constant. Thus measuring x disturbs p, which in turn disturbs future 
+measurements of x 
+Llx(dt) = Llx(O) + dt[L1p(O)/m] (4) 
+where Llx(O) is the initial position uncertainty is, Llp(O) is the initial momentum 
+uncertainty, dt is the time of the future measurement, and m is the mass of the system 
+under measurement. E/c2 may be substituted for mass in an energy only system. This 
+is depicted in Figure 13. 
+To summarize, the quantum effects of measurements on future measurements is 
+quantum back action. Therefore the Standard Quantum Limit defines the lower 
+sensitivity limit for all measurement instruments, including gravitational-wave 
+detectors, according to the Heisenberg uncertainty principle. Detectors cannot avoid 
+quantum back action, however the use of higher energies in the detection process can 
+change the relative scale and impact of back action, and the use of squeezed states can 
+shift the relative distribut ion of back action into states not i nvolved in measurement. 
+TIME t= 0 
+"A---+----, '• : 
+I 
+I 
+' ' ~ ~ Ap(O) > li/2 
+Al((O) 
+A~(qt) =ox(dt) + Slt[Ap(O) / m]Measurement of x drives down All.{0) Therefore ApjO) drives up Ax(£1t)which drives up Ap(O) 
+Quantum Back Action: 
+x dt) measurement affected 
+l1Y, earlier x(O) measurement 
+\ 
+\ 
+I 
+I 
+I I 
+I I 
+ox dt) ---. : ~ 
+I I 
+TIME t= dt 
+Figure 13. Quantum Back Action as a Mechanism for Creating the Standard Quantum Limit 
+Calculating the Standard Quantum Limit (SOU 
+A method for calculating the Standard Quantum Limit (SQL) is introduced in this 
+section. The calculation of coherent versus stochastic SQL is compared and contrasted. 
+Important terms of the SQL calculation are described, including the impact of contained 
+energy levels within the detector on SQL, and the sources of Quality Factor and its 
+effect on SQL. Calculating the Standard Quantum Limit (SQL) 
+UNCLASSIFIED/ /FOR OiiiilCl,.k 1!191!!! tJflti 
+17

@@ -1,0 +1,24 @@
+UNCLASSIFIED/,'rOR: orrlCIAL USE 014Lf 
+Free Electron Laser 
+High-energy free electrons from a particle accelerator (e.g., a high-voltage, high­
+current electron injector gun) can emit amplified, coherent photons when they are sent 
+through an undulator (or "wiggler" magnets), which generates a periodically vary ing 
+magnetic field with a linear array of permanent or superconducting magnets. The 
+electron accelerator produces a micro-pu lse of "electron bunches" moving at relativistic 
+speeds that are laterally accelerated (or "wiggled") by the alternating magnetic fields in 
+the undulator, thus releasing laser photons at optical wavelengths (see Figure 28 to 
+Figure 30). The optical laser radiation is amplified at the double -Doppler- shifted 
+wavelength of the undulator. The resulting laser beam photon energy depends on the 
+electron energy, the undulator period, and (weakly) the magnet ic field strength. The 
+electron beam gets spent at the end of the lasing process. 
+Figure 28. Free-Electron Laser (courtesy of the Naval Post-Graduate School FEL Lab). 
+ron beam p ls s optical 
+la er 
+-
+•wiggl r pulses
+-100 pa.rtially 
+r fl cting t 7ansmittingPhoton Emision rror r-ror 
+Figure 29. Free-Electron Laser Mechanism (courtesy of the Naval Post-Graduate School FEL 
+Lab). 
+UNCLASSIFIED{fFOA 9FFH31AL ~8! 8HLY 
+58

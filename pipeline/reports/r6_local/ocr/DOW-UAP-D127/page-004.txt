@@ -1,0 +1,52 @@
+UNCLASSIFIED / / FORO FFECEAL-USE-ONE~
+
+An Introduction to the Statistical Drake Equation
+
+1. Introduction
+
+SETI (an acronym for “Search for Extraterrestrial Intelligence”) is a relatively
+new branch of scientific research, having begun only in 1959. Its goal is to
+ascertain whether alien civilizations exist in the universe, how far from us
+they exist, and possibly how much more advanced than us they may be.
+
+As of 2009, the only physical tools we know that could help us get in touch
+with aliens are the electromagnetic waves an alien civilization could emit and
+we could detect. This forces us to use the largest radiotelescopes on Earth for
+SETI research, because the higher our collecting area of electromagnetic
+radiation is, the higher our sensitivity is (that is, the farther in space we can
+probe). Yet, even by using the largest radiotelescopes on Earth (the 310-meter
+dish at Arecibo, for instance), we cannot search for aliens beyond, say, a few
+hundred light years away. This is a very, very small amount of space around us
+within our galaxy, the Milky Way, that is about 100,000 light years in diameter.
+Thus, current SETI can cover only a very tiny fraction of the galaxy, and it is
+not surprising that in the past 50 years of SETI searches, NO extraterrestrial
+civilization was discovered. Quite simply, we did not get far enough!
+
+This demands the construction of much more powerful and radically new
+radiotelescopes. Rather than big and heavy metal dishes, whose mechanical
+problems hamper SETI research too much, we are now turning to “software
+radiotelescopes,” where a large number of small dishes (ATA = Allen
+Telescope Array, and ALMA = Atacama Large Millimeter/submillimeter Array)
+or even just of simple dipoles (LOFAR = Low Frequency Array) using state-of-
+the-art electronics and very-high-speed computing can outperform the
+classical radiotelescopes in many regards. The final dream in this field is the
+SKA (= Square Kilometer Array), currently being designed and expected to be
+completed around 2020.
+
+2. The Key Question: How Far are They ?
+But still, the key question remains: how far are they?
+
+Or, more correctly, how far do we expect the NEAREST extraterrestrial civilization to be
+from the Solar System in the galaxy?
+
+This question was first faced in a scientific manner back in 1961 by the same scientist
+who also was the first experimental SETI radio astronomer ever: the American, Frank
+Donald Drake (born 1930). He first considered the shape and size of the galaxy where
+we are living: the Milky Way. This is a spiral galaxy measuring some 100,000 light
+years in diameter and some 16,000 light years in thickness of the Galactic Disk at half-
+way from its center. That is:
+
+The diameter of the galaxy is (about) 100,000 light years, (abbreviated ly) i.e., its
+radius, Reéaiay, is about 50,000 ly.
+
+UNCLASSIFIED / FO R-OFFEGH-USE-OSLY

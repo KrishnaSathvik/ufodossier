@@ -1,0 +1,29 @@
+UNCLASSIFIED/ /fOR. 8FFl&I.t.k W&li ,HIia¥ 
+depth of the wells. This simple fact might explain the unsolved cusp/core problem of 
+galactic halos [14]. 
+But what happens in the center of galaxies must also happen to a lesser degree in the 
+center of the sun, the planets, the earth and the moon. To "mine" negat ive matter, if it 
+should exist there, excludes the sun, and also all planets, that have a hot molten core. 
+This does not exclude the moon, however, having the deepest potential well near the 
+earth, with only hot rocks in its center accessible by advanced nuclear mining 
+technology, permitting in principle constructing a tunnel throug h the moon [15]. 
+11. Searching for Negative Matter in the Gravitational 
+Potential Well of the Moon 
+The radius of the moon is R=l.74x10 8cm and the gravitational acceleration at its 
+surface is g0 ~ 1.62xl0 2cm/s2 . At a distance r < R from its center the gravitational 
+acceleration is 
+(105) 
+and the pressure balance equation is 
+(106) 
+where p = p(r) is the pressure for r < R. The pressure at the center therefore is 
+P - pgO f
+R 
+rdr -- -2 
+I pg R (107)max -R O· 
+0 
+With p ~ 3.33g I cm3 the average density of the moon, one finds 
+that Pmax ~ 5xl010dynl cm3 ~ 50,000atm. 
+The temperature T can be estimated from the equation P max =nkT , where 
+k =l.38xl0 -16 erg!K is the Boltzmann constant and n~l0 23 cm-3 the atomic number 
+UNCLASSIFIED//POlt orr1e11tt tt!II!! or~LY 
+32

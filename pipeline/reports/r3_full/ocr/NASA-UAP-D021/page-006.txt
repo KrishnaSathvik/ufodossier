@@ -1,0 +1,21 @@
+15.0
+
+TRAINING
+
+Gemini Mission Simulator...sscceseseceees et85
+DCPS (Launch abort simulator) .ecoesseeeeeslGl
+MAC Engineering Simulator....ccsseseeeessel9l
+Translation and Docking Trainer..eeesseee 192
+Planetarium..sccccccssccsssscsscccccsvsensl gs
+Systems Briefings.ssccccccccsccccccccceses sl I4
+Flight Hxperiments....cscssscsccccccessesel 9S
+Spacecraft systems tests...scccrccceeresssa0e
+Egress training. ..cscccsscsscccvcccscsecssso04
+Parachute Trainings ccccecsssessssscveceeee209
+Launch simulations....ecscsseeseeeeeaeees 5206
+Reentry simulations.....csccsscceccseneee eQ06
+Simulated network simulations....sseeeeese e206
+Network simulations. .ssccccersccsccnseess 206
+Flight Plan training. ..cccccscesesecsevessQ0]
+
+CONCLUDING COMMENTS «ccccccccscsccescescnsseseeses 208

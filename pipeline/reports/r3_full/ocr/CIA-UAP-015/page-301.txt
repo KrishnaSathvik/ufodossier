@@ -1,0 +1,89 @@
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+X 
+y 
+0 
+CODES 
+CODE 1. GENERAL 
+a. These cards (and the corresponding WORK SHEETS) contain data from 
+several sources. Columns referenced to the u. s. Air Force Technical 
+Information Sheet (Form A) must have at least one entry. If no data 
+are available for any column, the Y (or 12 punch) should be used. 
+b. Columns 22, 23, 24, 25, 26, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, and $1 are calculated from data appearing in the 
+u. s. Air Force Technical Information Sheet {Form A). If the basic 
+data for these calculations are not available, the appropriate columns 
+are left blank. 
+c. If a number in any column is used to enter data, then X (or 11 punch) 
+qualifies the data as indicated in the Code for the specific column, 
+CODE 7 SIGHTING IDENTIFICATION 
+{Ti.1is column may or may not 
+contain multiple punches) 
+CODE 22 LOCAL SUN TIME 
+(Refers to date of a.c.T. observation) 
+X 
+y 
+0 Same day 
+1 All sightings 1 Previous day 
+2 2 Unit sightings, all observers 
+3 Unit sightings, single observers 
+4 Unit sightings, multiple observers 
+5 Object sightings 
+6 
+7 
+8 
+9 
+CODE 23-26 LOCAL SUN TIME 
+{Calculated from G.C.T., 
+date, latitude, and longitude) 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+CODE 27 LATITUDE 
+X South Latitude y 
+0 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+303 
+CODE 31 LONGITUDE 
+X East Longitude y 
+0 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9

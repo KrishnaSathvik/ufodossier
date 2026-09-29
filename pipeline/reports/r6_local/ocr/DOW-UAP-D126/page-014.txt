@@ -1,0 +1,35 @@
+UNCLASSIFIED/ /Pelt err1e1J11t l!ISl!!! eHt'I 
+l > le (15) 
+where le = Sa. In Table 2, the values for a and le for all the charged fusion products of 
+the DD reaction are compiled. For all of them, the critical current is below l e = 3.84 
+x 106 A. Therefore, with the choice l ~107 A, all the charged fusion products are 
+entrapped inside the deuterium cylinder. 
+Table 2. Critical Ignition Currents for Thermonuclear Reactions 
+Reaction Fusion Product Energy [Me V] a [G cm] le [A] 
+DT He4 3.6 2.7 x 10:i 1.35 X 10° 
+DD He5 0.8 l.12 x 10:, 5.6 x 105 
+DD T 1.0 2.5 x 10:i 1.25 X 10° 
+DD H 3.0 2.5 x 10"' 1.25 X 10° 
+DHe3 H 14.65 5.56 x 105 3.84x 106 
+DHe5 He4 3.66 2.78 x 10:i 1.39 x 10° 
+For the argon ion laser configuration proposed for the launch into Earth orbit, where a 
+small amount of DT serves as a trigger for the ignition of a larger amount of deuterium, 
+the ignition of a magnetic field supported detonation wave in deuterium is possible 
+there with an auxiliar y high-explosive-driven megampere current generator, setting up 
+an axial magnetic field, by an azimuthal current around the rod. The charged fusion 
+products there are spiraling down the rod. The current needed to entrap the charged 
+fusion products are there on the same order of magnitude; that is, ~ 107 A. 
+For the deuterium-trit ium thermonuclear react ion, the condition for a propagating burn 
+in a sphere of radius rand density p, heated to a temperature of 108 K, is given by 
+pr ~ l g/cm 2 . This requires energy of about 1 megajoule (MJ). For the deuterium 
+reaction, this condition is pr~ 10 g/cm 2, with an ignition temperature about 10 times 
+larger . That a thermonuclear detonation in deuterium is possible at all is due to the 
+secondary combustion of the T and He3 DD fusion reaction products (Reference 8). The 
+energy required would be about 104 times larger, or about 104 MJ-for all practical 
+purposes out of reach for nonfission ignition. However, if the ignition and burn are 
+along a deuterium cyl inder, where the charged fusion products are entrapped by a 
+magnetic field within the cylinder, the condition pr~ 10 g/cm 2 is replaced by 
+pz ~10 g/cm 2 (16) 
+where z is the length of the cylinder. 
+UNCLASSIFIED/ /felt 8ffl@IAI: W&li 8Ptl:¥ 
+8

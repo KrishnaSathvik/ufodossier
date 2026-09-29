@@ -1,0 +1,45 @@
+UNCLASSIFIED/ /fOft Offl@IAL li!I!! OHL¥ 
+5.3 G. H. Miley, R. Stubbers, J. Webber, H. Momota, "Magnetically-Channeled SIEC 
+Array (MCSA) Fusion Device for Interplanetary Missions", Space Technology and 
+Applications Internat ional Forum-STAIF 2004 (M .S. El Genk, Ed.) American Institute 
+of Physics Conf. Proceedings (2004). 
+5.4 H. Momota, G. H. Miley, and J. Nadler, "Direct Energy Conversion for IEC 
+Propulsions", Report to National Inst itute for Fusion Science of Japan, Report NISF-
+641, ISSN 0915-633 X, August (2000). 
+5.5 Y. Gu, M. Williams, R. Stubbers, G. Miley, "Pulsed Operation of Spherical Inertial­
+Electrostatic Confinement Device," Proceeding of 12th Topical Meeting on the 
+Technology of Fusion Energy, ANS, Reno, NV, 16-20 June (1996), pp. 1342-1346. 
+Section VI. Possible Next Step Breakeven Experiment 
+The prior sections have presented much information about the existing data base and 
+theory for IEC operation. The potential for use in applications such as a neutro n source 
+and related radiation sources (proton and x-ray) are well established. However the 
+ultimate goal is to develop a power-producing IEC. Better yet to do this taking 
+advantage of the unique ability of the IEC to use non-Maxwellian plasma to burn 
+advanced fuels to minimize radioactive and radiation emission involvement. However 
+the best current device resu lts are 5 or 6 orders of magnitude down in energy gain Q 
+(energy out/ in) from breakeven. Thus it may appear that such a hope is many years 
+off. Fortunately, the IEC can be scaled up in energy gain while keeping a small size 
+since the losses are in velocity space (i.e. via ion upscattering out of the potential well 
+trap). This is in sharp contrast to Tokomaks where loses occur via diffusion across the 
+outer surface, so Increased confinement times have been achieved by going to the 
+massively large ITER type devices. The problems and costs for construction of ITER 
+have thrown its development in to the distant future, making this approach ineffective 
+for addressing the present energy crisis (or as a LLNL associate director recently 
+bemoaned, "Fusion is irre levant - no politicians even mention it In the energy scenario"). 
+To provide the reader with some insight into the IEC "vision" for power, we next 
+present a conceptual proposal for a near term IEC breakeven experiment to prove the 
+physics of operation with aneutronic p-11 B fuel. If such a program can be initiated 
+aggressively, the IEC could have a major impact on the energy crises. 
+DEMONSTRATION OF NET ENERGY GAIN USING IEC ANEUTRONIC 
+FUSION 
+The IEC is one of the few approaches to fusion that has the potential of burning 
+aneutronic fuels such as D-3He and p-11B in a reasonable scale device. This fue l results 
+in charged-particle reaction products which allow efficient use of direct energy 
+conversion technology with no direct greenhouse emissions and minimal radioactivity or 
+radioactive wastes. Such a power source has all of t he features sought for future power 
+plants needed worldwide to turn the tide of the growing energy crisis. The experiment 
+proposed here would provide verifiable and reproducible proof of break-even conditions 
+necessary to burn p-11 B as a practical aneutronic fuel in an IEC fusion power-generating 
+device. 
+UNCLASSIFIED/ ,SfQR 8FFl€i1Ak W&lii 0NkY 
+60

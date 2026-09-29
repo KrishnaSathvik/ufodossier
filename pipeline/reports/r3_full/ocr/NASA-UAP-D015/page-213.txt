@@ -1,0 +1,47 @@
+115 Meteor ionization in the E-region 
+the micrometeorite and the subsequent ionization by the freed particle _ Experi­
+mental information on collisions of neutral particles and the resulting excitation 
+and ioniz ation is very limited. Much of the available information is contained in 
+MASSEY and BURHOP (1952). 
+Although the ionization efficiency is much greater for electrons than for heavy 
+ions, as long as the ion energy is greater than the threshold value for ionization, 
+the possibility of ionization exists. For example. a recent technique for obtaining 
+velocities for neutra l particles near the range of meteor velocities is the shock-tube 
+method of RESLER et al. (1952). It was found that the extent of ionization as a . 
+function of Mach number was rather large. In the case of argon at Mach 18, 
+argon at 1 cm of g pressu,re was 50 per cent ionized. Mach 18 corresponds to a 
+linear velocity of 18 X 0·350 = 6 km/sec, somewhat less than meteor velocities . 
+For this low velo ·ty there also was a highly luminous region associated with the 
+shock fronts in b h argon and air. 
+BERRY et al . (1942) investigated the ionization of gases by collisions of their 
+own accelerated olecules. They found that the onset energies observed for such 
+ionization were roughly only three times the ionization potentials of the atoms. 
+They also concluded that in the range of speeds for argon between 48 e V to 1,000 e V, 
+relatively little change had occurred in the kinetic energy delivered to the newly 
+formed argon ion, and therefore it seemed unlikely that the mechanism of ionization 
+was one involving a transfer of kinetic energy. Also at energies of about 2,000 eV 
+the cross-secti on for ionization of argon was greater than for N2 by only a factor 
+of 2. In fact the arrangement of the cross-sections for ionization in decreasing 
+order was found to be A, N2 , H 2 , and He. 
+An estimate of the order of magnitude may be determined (for a few of the 
+reactions) from MASSEY and BuRHOP. Although most experiments have been 
+made with positive ions, it seems that the cross-section for ionization in the case 
+of neutral atoms is at least the same order , but usually somewhat higher. 
+The secondary emission coefficient for surfaces, y, is the :q.umber of ejected 
+electrons per incident positive ion. Some ob ervers have found a higher value of 
+y for surfaces which oxidize readily, implying that higher values arise from the 
+oxide layer. PAE'.1.'0W and WALCHER {1938) reason tha.t since the electron emission 
+cannot depend much on the work function of the adsorbed atoms , in th case of ·a 
+monolayer of ox~gen on caesium, it would follow that the extra electron emission 
+came from the bsorbed layer itself. The value of y for the low-energy range in 
+the case of mi rometeorites and based on positive ion bombardment would 
+probably be in e range from 0·02 to 0·5. Allowing for an energy absorption of 
+10 e V for a secondary electron, these coefficients are in themselves sufficient to 
+give a ratio of kinetic energy absorbed in ionization for 200 eV of better than 103 : 1. 
+Negative ions have been found to result from the impact of positive ions on 
+surfaces. ARNOT and MILLIGAN (1936) have estimated that for incident Hg+ ions 
+of about 200 e V energy, about 10- 3 Hg- ions were formed per incident ion. For 
+neutral oxygen atoms and molecules which also form negative ions , this ratio 
+could very well be higher. Positive ions incident ; on surfaces may be reflected 
+without neutra lization , although it is generally felt that an ion on striking a wall 
+become, neutralized. For rare gas ions incident on nickel, the reflection coefficient

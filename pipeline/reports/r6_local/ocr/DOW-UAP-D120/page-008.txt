@@ -1,0 +1,49 @@
+UNCLASSIFIED//POlt OPPl@IAL YSI!! 8HLY 
+construction to be considered too risky. Today, the combination of higher toughness 
+alloys and FSW opens up the possibility of greater design flexibility result ing in lighter 
+large structures with equal or greater reliability than earlier ones. 
+In sum, metall ic, nonreusable (at least nominally so) launch vehicles made from 
+advanced Al alloys and fabricated through FSW constitute an incremental but significant 
+improvement over earlier versions. 
+In recent years , PMCs have matured significantly. For many components that are not 
+exposed to elevated temperatures, PMCs provide a degree of design flexibility not 
+readily available in meta ls. Consequently, PMC mater ials have begun to supplant Al 
+alloys in the construction of commerc ial subsonic aircraft. The use of PMCs in the 
+empennage of the Boeing 777 was one of the first examp les of Al alloys being 
+displaced. Subsequent ly, the new Boeing 787 has more structure made from 
+compos ites than from metall ic materials. Once PMCs are introduced into a structure in 
+significant quant it ies, a constraint related to galvanic incompatib ility between the PMC 
+st ructure and any adjo ining Al alloys also is introduced. When a PMC structure is in 
+direct contact with an Al alloy structure, catastrophic corrosion of the Al alloy 
+components can occur. In the Boeing 787, the remedy for this concern is the use of 
+titan ium (Ti) alloys in areas where there is direct contact between the metallic and the 
+PMC structures. This is directly analogous to the plastic bushing a plumber puts in the 
+j oint between copper and iron piping. Notwithstanding this constra int, the specific 
+strength and stiffness of PMC structures make a compe lling argument for the ir 
+application in high-performance structures, such as launch vehicles. 
+Composite structures can be manufactured using one of three methods: hand layup of 
+pre-preg, automated tow placement, and resin transfer moldi ng. 
+• The most rudimentary of these, but also the most flexible, is hand layup of pre -preg. 
+This method uses sheets of material that contain both the fiber and the polymeric 
+matrix (called pre-preg). The polymer ic matrix can be either a thermoset (for 
+example, epoxy) or a the rmoplast ic. Individua l plies are cut from the pre-preg 
+typica lly using a numer ically controlled laser or mechanical cutting device and are 
+laid up to form the desired shape. Areas that have heavie r loads contain more plies 
+locally, and the plies are cut in an orientation with respect to the fiber direction in 
+the pre-preg to achieve the desired strength relative to the principal load path. 
+These plies are carefully placed according to a drawing (bluepr int), making hand 
+layup a labor-intensive process and, therefore , mak ing parts made using th is 
+met hod expensive . During ply placement, it is crit ical that no ply wrinkles are 
+introduced, as these create severe reductions in the local load-bearing capability of 
+the final component. Once all the plies are in the ir proper places, the article is 
+placed in a vacuum-tight bag that is evacuated and placed in an autoclave for curing 
+of the epoxy matr ix or fusing of the thermop lastic. A disadvantage of a pre-preg 
+whose matrix is a thermoset is lim ited shelf life. In practice , this is managed to a 
+degree by storing the pre-preg in a freezer to slow the rate of chemica l reaction that 
+sets the epoxy . However, th is does not completely halt the reaction, causing these 
+mater ials to have a shelf life beyond which they are not easily manipulated duri ng 
+layup and do not develop full strength after curing in the autoclave. An addit ional 
+issue is out time-the time the pre-preg can be out of the freezer during layup 
+before the reaction proceeds at an accelerated rate and reaches a point at which the 
+3 
+UNCLASSIFIED//F8R 8FFUiil>I. 11&5 ON! X

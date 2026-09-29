@@ -1,0 +1,47 @@
+UNCLASSIFIED/ /FOR OFFIElIAk WSE OPtklf 
+rays which can be extracted through a special port (requires a thin low-Z window for 
+transmission). This can be viewed as a small scale soft source for individual laboratory 
+studi es such as done at various large scale national laboratories like ANL, BNL, and LBL 
+(synchrotron "light sources"). However, this use has not progressed much past the 
+initial laboratory studies. 
+The cylindrical geometry offers a unique configuration for security inspection 
+applicat ions. To illustrate this we next consider a design proposed for such a system. 
+INTEGRATED X-RAY /NEUTRON SOURCES 
+This integrated inspection system was proposed by G. Miley, et al., in Reference 5.1. It 
+incorporates combined 2.5 - and 14-MeV IEC neutron sources and an IEC x-ray source. 
+Such neutron sources have already been described, but some comments about the x­
+ray version are worthwhile . The cylindrical IEC, like t he spherical one, can be converted 
+to an attract ive tunable x- ray source with minimum alteration of the apparatus. X-ray 
+operation involves reversing electrode polarities and adding electron emitters along the 
+vessel wall. Hydrogen gas is substituted for deuterium since in this configuration the 
+main function of gas ions is to provide electron Bremsstrahlung emission. Intense 
+emission is concentrated in a small volume surrounding the central axis due to the high 
+electron density formed there. The resulting x-ray energy spectrum is peaked at an 
+energy equivalent to about two -thirds of the applied voltage. In the inspection station, 
+a voltage around 120 kV is employed to obtain ~80 -kV x-rays with some distribution of 
+energies above and below this mean value. X-ray production is spread along the axis 
+over a long line-like region i n the IEC provid ing broad area coverage for imaging, 
+consistent with the broad coverage of the companion IEC neutron sources. 
+Consequently, the basic concept of the integrated inspection unit is to combine IEC 
+neutron and x-ray sources plus approp riate detectors into a single "package ". This 
+combination expands the range of elements that can be detected during a single scan 
+and incorporates x-ray imaging with the 3-D detector array for NAA to obtain improved 
+identification of the shape and location of suspected objects in a container. In cases 
+where the object is too large to allow good x-ray penetration, information is still 
+obtained from the 3-D NAA detector array. 
+Nuclear and Chemical Explosive Detection Techniques 
+Most current inspection systems concentrate on x-ray imaging. This interrogation relies 
+on the photoelectric effect or Compton Scatter ing Imaging (CSI). It provides good 
+localization and some geometric information for higher Z materials. The NAA technique, 
+including both thermal neutron analysis (TNA) and fast neutron analysis (FNA), are 
+powerful methods for detecting certain types of explosives. Basic elements such as 
+oxygen, carbon, and chlorine present in the explosives can be identified through the (n, 
+n'y) reaction init iated by fast neutrons. The gamma rays produced in the reaction are 
+characterist ic of elements being interrogated. Another basic element in many 
+explosives, nitrogen, is usually measured through (n, y) reactions init iated by thermal 
+neutrons. Either steady -state or pulsed sources can be employed for TNA. However, 
+increased sensitivity can be obtained with pulsed FNA (PFNA). This method uses a 
+pulsed high-energy neutron source and the time-of-flight (TOF) diagnostics to reduce 
+the "noise" effect resulting from scattered neutrons and x-rays. 
+UNCLASSIFIED/ /EAR OFFJCJALt 11ii QrslL¥ 
+47

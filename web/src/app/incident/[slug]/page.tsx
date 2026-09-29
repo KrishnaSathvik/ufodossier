@@ -1,10 +1,13 @@
-import { TopBar } from "@/components/TopBar";
+import { HeaderShell } from "@/components/HeaderShell";
 import { Footer } from "@/components/Footer";
 import { JsonLd } from "@/components/JsonLd";
 import { RedactedExcerpt } from "@/components/RedactedExcerpt";
 import { ShareRow } from "@/components/ShareRow";
 import { getSupabaseServer } from "@/lib/supabase";
+import { getFragmentBySlug, getSource, identityForCase } from "@/lib/corpus/catalog";
+import { datePrecisionLabel, sightingLabel, sourceRolePhrase } from "@/lib/labels";
 import { notFound, redirect } from "next/navigation";
+import { BackLink } from "@/components/BackLink";
 import Link from "next/link";
 import Image from "next/image";
 import type { Metadata } from "next";
@@ -27,14 +30,56 @@ async function getIncident(idOrSlug: string) {
 
   // Resolve slug to UUID
   const { data: slugRow } = await sb.from("incidents").select("id, slug").eq("slug", idOrSlug).single();
-  if (!slugRow) return null;
+  if (!slugRow) return localIncident(idOrSlug);
 
   const { data } = await sb.from("v_incident_full").select("*").eq("id", slugRow.id).single();
   if (data) data.slug = slugRow.slug;
-  return data;
+  if (data) return data;
+  return localIncident(idOrSlug);
+}
+
+function localIncident(idOrSlug: string) {
+  const fragment = getFragmentBySlug(idOrSlug);
+  if (!fragment) return null;
+  const source = fragment.sourceExternalId ? getSource(fragment.sourceExternalId) : null;
+  return {
+    id: fragment.caseId,
+    slug: fragment.slug,
+    case_id: fragment.caseId,
+    title: fragment.title,
+    summary: fragment.summary,
+    raw_excerpt: fragment.rawExcerpt,
+    occurred_at: fragment.occurredAt,
+    occurred_at_text: fragment.occurredAtText,
+    occurred_at_precision: fragment.occurredAtPrecision,
+    location_text: fragment.locationText,
+    country: fragment.country,
+    region: fragment.region,
+    branch: fragment.branch,
+    reporting_unit: fragment.reportingUnit,
+    resolution_status: fragment.resolutionStatus,
+    resolution_notes: fragment.resolutionNotes,
+    sensor_types: fragment.sensorTypes,
+    shape_description: fragment.shapeDescription,
+    size_description: fragment.sizeDescription,
+    altitude_feet: fragment.altitudeFeet,
+    duration_seconds: fragment.durationSeconds,
+    source_filename: fragment.sourceFilename,
+    source_agency: source?.agency ?? fragment.branch,
+    source_url: source?.originalUrl ?? null,
+    source_page_count: source?.pageCount ?? null,
+    image_url: null,
+    video_url: null,
+    cover_image_url: null,
+    source_cover_image_url: null,
+    lat: null,
+    lon: null,
+    local_only: true,
+  };
 }
 
 async function getSimilar(id: string) {
+  if (!UUID_RE.test(id)) return [];
   const sb = getSupabaseServer();
   const { data: inc } = await sb
     .from("incidents")
@@ -97,6 +142,7 @@ export default async function IncidentPage({ params }: { params: Promise<{ slug:
   const { slug: idOrSlug } = await params;
   const incident = await getIncident(idOrSlug);
   if (!incident) notFound();
+  const identity = incident.case_id ? identityForCase(String(incident.case_id)) : null;
 
   // If accessed by UUID and slug exists, redirect to slug URL
   if (UUID_RE.test(idOrSlug) && incident.slug) {
@@ -104,6 +150,10 @@ export default async function IncidentPage({ params }: { params: Promise<{ slug:
   }
 
   const similar = await getSimilar(incident.id);
+  const relatedCases = (identity?.memberCaseIds ?? [])
+    .filter((caseId) => caseId.toUpperCase() !== String(incident.case_id ?? "").toUpperCase())
+    .map((caseId) => getFragmentBySlug(caseId))
+    .filter((row) => row != null);
 
   return (
     <>
@@ -118,7 +168,7 @@ export default async function IncidentPage({ params }: { params: Promise<{ slug:
         isPartOf: {
           "@type": "Dataset",
           name: "UFO Dossier — Declassified UAP Archive",
-          description: "Searchable archive of every UAP incident in the U.S. government's declassified PURSUE files, with substring-validated verbatim excerpts from original source documents.",
+          description: "A searchable archive of publicly released U.S. government UAP records. Quotes are checked against the original files.",
           url: "https://www.ufodossier.com",
         },
         ...(incident.location_text ? {
@@ -131,12 +181,10 @@ export default async function IncidentPage({ params }: { params: Promise<{ slug:
           },
         } : {}),
       }} />
-      <TopBar />
+      <HeaderShell />
 
       <article className="max-w-prose mx-auto px-4 md:px-6 pt-10 md:pt-16 pb-12">
-        <Link href="/" className="text-sm text-ink-faint hover:text-ink transition-colors">
-          &larr; Archive
-        </Link>
+        <BackLink href="/" />
 
         {/* Header */}
         <header className="mt-6 mb-8">
@@ -277,7 +325,7 @@ export default async function IncidentPage({ params }: { params: Promise<{ slug:
           <h2 className="text-xs font-mono uppercase tracking-tracked text-ink-faint mb-4">Case details</h2>
           <dl className="grid grid-cols-2 gap-x-6 gap-y-3 text-sm">
             <DetailField label="Date" value={incident.occurred_at ?? incident.occurred_at_text} />
-            <DetailField label="Precision" value={incident.occurred_at_precision} />
+            <DetailField label="Date exactness" value={datePrecisionLabel(incident.occurred_at_precision)} />
             <DetailField label="Location" value={incident.location_text} />
             <DetailField label="Country" value={incident.country} />
             <DetailField label="Region" value={incident.region} />
@@ -304,7 +352,7 @@ export default async function IncidentPage({ params }: { params: Promise<{ slug:
           <h2 className="text-xs font-mono uppercase tracking-tracked text-ink-faint mb-3">Source document</h2>
           <div className="text-sm text-ink-dim space-y-1">
             <p>Agency: {incident.source_agency ?? "Unknown"}</p>
-            <p>File: {incident.source_filename ?? "Unknown"}</p>
+            <p>File: <SourceFileName filename={incident.source_filename} /></p>
             <p>Case ID: <span className="font-mono text-xs">{incident.case_id}</span></p>
             {incident.source_url && (
               <a href={incident.source_url} target="_blank" rel="noopener noreferrer" className="text-accent hover:underline inline-block mt-1">
@@ -313,9 +361,45 @@ export default async function IncidentPage({ params }: { params: Promise<{ slug:
             )}
           </div>
           <p className="text-xs text-ink-faint mt-4">
-            Extracted via LLM. Verbatim excerpt validated.
+            Quote checked against the original file.
           </p>
         </section>
+
+        {identity && (
+          <section className="mb-10 border-t border-rule pt-6">
+            <h2 className="text-xs font-mono uppercase tracking-tracked text-ink-faint mb-3">This sighting</h2>
+            <p className="font-serif text-lg">{sightingLabel(identity.eventLabel)}</p>
+            {relatedCases.length > 0 && (
+              <div className="text-sm text-ink-dim mt-3">
+                <p>Also described in</p>
+                <ul className="mt-1 space-y-1">
+                  {relatedCases.map((related) => (
+                    <li key={related.caseId}>
+                      <Link href={`/incident/${related.slug}`} className="text-accent hover:underline">
+                        {related.title}
+                      </Link>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            )}
+            {identity.sourceRoles.length > 0 && (
+              <ul className="mt-3 text-sm text-ink-dim space-y-1">
+                {identity.sourceRoles.map((role) => (
+                  <li key={`${role.filename}-${role.role}`}>
+                    <SourceFileName filename={role.filename} />
+                    <span> — {sourceRolePhrase(role.role)}</span>
+                  </li>
+                ))}
+              </ul>
+            )}
+            {identity.seriesLabel && (
+              <p className="text-sm text-ink-dim mt-3">
+                Part of {sightingLabel(identity.seriesLabel)}, a group of {identity.seriesEventCount} separate sightings.
+              </p>
+            )}
+          </section>
+        )}
 
         {/* Share */}
         <ShareRow
@@ -348,6 +432,27 @@ export default async function IncidentPage({ params }: { params: Promise<{ slug:
       <Footer />
     </>
   );
+}
+
+function SourceFileName({ filename }: { filename?: string | null }) {
+  if (!filename) return <>Unknown</>;
+  const id = filename.match(/^([A-Z0-9]+-UAP-[A-Z0-9]+)/i)?.[1]?.toUpperCase();
+  const source = id ? getSource(id) : null;
+  if (source?.originalUrl) {
+    return (
+      <a href={source.originalUrl} target="_blank" rel="noopener noreferrer" className="text-accent hover:underline">
+        {filename}
+      </a>
+    );
+  }
+  if (source) {
+    return (
+      <Link href={`/source/${source.externalId}`} className="text-accent hover:underline">
+        {filename}
+      </Link>
+    );
+  }
+  return <>{filename}</>;
 }
 
 function DetailField({ label, value }: { label: string; value?: string | null }) {

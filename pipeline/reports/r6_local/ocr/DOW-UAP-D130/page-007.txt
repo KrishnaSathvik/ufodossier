@@ -1,0 +1,35 @@
+UNCLASSIFIED/ /POR: err1e1At l:191!! er•t I 
+Direct Neural Signals 
+The human nervous system has two classes of cells, neurons and glia. Based on all 
+research to date, it is believed that signals within the network of neurons constitute the 
+whole of information processing, with glial cells playing a purely supporting role. This 
+neural doctrine has dominated research in BMI until recently and still constitutes the 
+only major research path in direct technologies. Furthermore, all technologies directly 
+measuring human neuronal action rely on detecting or influencing electrical activity of 
+these cells; no current in situ research selectively affects neurotransmitter activity 
+between local cells for the purpose of information exchange . Therefore, the focus for 
+the foreseeable future will be on the electrical activity of neurons as the primary target 
+of BMI. 
+Neurons consist of four parts: axon, dendrites, cell body or soma, and pre-synaptic 
+terminals. Electrical information is transmitted to the neuron through the dendrites, 
+proceeds through the cell body, and leaves the cell through the axon at one or more 
+pre-synaptic terminals. Neurons have one axon and from one to tens of thousands of 
+dendrites. 
+Figure 1. Simplified Rendering of a Neuron. The arrows indicate t he direction in which signals are 
+conveyed . The single axon conducts signals away from the cell body, while the multiple dendrites receive 
+signals from the axons of other neurons. The nerve terminals end on the dendrites or cell body of other 
+neurons or on other cell types, such as muscle or gland cells. (Reference 1) 
+Chemical details of how the action potentials travel through the cell or are transmitted 
+across the synapse are not important to the current treatise, other than the distinction 
+that in these biologically based electrical networks, ions of sodium, potassium, and 
+chlorine move through the cell membranes perpendicular to the propagation of the 
+action potential down the axon. This allows information to be transmitted faster than 
+ions could flow down the axon. The propagation of information is similar to a wave 
+traveling down a garden hose: quickly move one end of the hose back and forth with 
+sufficient force, and a wave will travel to the other end of the hose; however, any part 
+of the hose structure has only moved (nominally) perpendicular to the direction of wave 
+propagation. In a similar fashion, ions flow through channels across the axon's cell 
+membrane, changing the local membrane potential and thus propagating the electrical 
+signal down the axon. 
+UNCLASSIFIED/ ;'FOR OFFI&I.t.k Wliliii 8fslk¥ 
+1

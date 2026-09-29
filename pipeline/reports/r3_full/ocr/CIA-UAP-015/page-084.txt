@@ -1,0 +1,30 @@
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+TABLE XII CHI SQUARE TEST OF REVISED KNOWNS VERSUS 
+UNKNOWNS ON THE BASIS OF SPEED I 
+x2Adjusted 
+'2 I 
+Nu1nber of Number of Number of (K-n} 
+Speed KNOWNS KNOWNS (K) UNKNOWNS (n) K 
+I 
+Stationary 196 66 53 2.56 
+Less than 100 mph 128 43 26 6.72 I100 to 400 mph 156 53 58 0.47 
+Over 400 mph 291 98 145} 
+I28.54Meteor-like 24 8 16 
+Not stated 491 166 136 5.42 
+Total 1286 434 434 43.71 I 
+IDegrees of freedom 4 
+5% 9.5 I 
+1% 13. 3 
+I 
+I 
+I 
+I 
+I 
+I74 
+I

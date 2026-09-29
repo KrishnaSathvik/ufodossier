@@ -1,5 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
+import { releaseLabel } from "@/lib/labels";
 
 interface MediaCardProps {
   incident: any;
@@ -7,7 +8,7 @@ interface MediaCardProps {
 }
 
 export function MediaCard({ incident, type }: MediaCardProps) {
-  const href = incident.slug ? `/incident/${incident.slug}` : null;
+  const href = incident.href ?? (incident.slug ? `/incident/${incident.slug}` : null);
 
   const content = (
     <>
@@ -19,6 +20,7 @@ export function MediaCard({ incident, type }: MediaCardProps) {
             fill
             sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
             className="object-cover group-hover:scale-[1.02] transition-transform duration-300"
+            unoptimized={String(incident.image_url).includes("war.gov")}
           />
         ) : type === "video" ? (
           <>
@@ -68,12 +70,20 @@ export function MediaCard({ incident, type }: MediaCardProps) {
           {incident.title}
         </h3>
         <div className="mt-1 flex items-center gap-3 text-xs text-ink-faint">
-          <span>{incident.occurred_at ?? "Undated"}</span>
+          {incident.release ? <span className="font-mono">{releaseLabel(incident.release)}</span> : <span>{incident.occurred_at ?? "Undated"}</span>}
           {incident.branch && <span className="font-mono uppercase">{incident.branch}</span>}
         </div>
       </div>
     </>
   );
+
+  if (href?.startsWith("http")) {
+    return (
+      <a href={href} target="_blank" rel="noopener noreferrer" className="group block overflow-hidden">
+        {content}
+      </a>
+    );
+  }
 
   if (href) {
     return (

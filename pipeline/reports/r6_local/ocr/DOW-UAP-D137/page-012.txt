@@ -1,0 +1,46 @@
+UNCLASSIFIED/ fFOA OFFI€il.t.k YSE &P•tv 
+extremely deep magazine becomes possible. These attributes combine to make solid­
+state lasers very attract ive for both civilian and milit ary applications. 
+ROD AND SLAB LASERS 
+The earliest solid-state laser mediums took the shape of a cylindrical rod and were 
+optically pumped with flashlamps. Higher power solid-state lasers were later made 
+using larger rectangular slabs since the amount of laser power which can be extracted 
+increases with the lasing medium's volume. Additionally, rectangular geometries 
+allowed more efficient optica l pumping and cooling. Newer solid-state lasers were 
+pumped with semiconductor diodes which emitted light more efficiently than flashlamps 
+and at wavelengths which were more useable by the gain medium. Like chemical 
+lasers, they are considerably less than 100 percent efficient overall and generate heat. 
+However, solid-state lasers accumulate heat in the glass lasing medium where the 
+result ing thermal stresses can distort the lasing beam enough to render it useless or 
+even crack the glass. Since the glass-based medium is a poor thermal conductor, it is 
+difficult to remove heat. Thus, thermal management of the gain medium imposes 
+fundamental limits to increasing the average power in a single slab laser. Much of the 
+recent research in slab lasers has focused on developing innovative ways to remove this 
+heat or to combine beams from many smaller slabs. 
+In order to combine laser beams in a fashion which retains good overall beam quality, 
+the wavelength, phase, and polarization of the individual beams must be tightly 
+controlled. This process is referred to as "coherent combination" or "phasing" and 
+results in the maximum irradiance (watts/cm 2) by minimizing the focused spot area 
+over which the total laser power is spread. If an application (such as welding or 
+machining) depends more on total power than on minimizing spot size, then coherent 
+combination is not needed and the laser beams can be separately focused to the same 
+spot with no regard to differences in wavelength, phase, or polarization. This technique 
+is called "incoherent combination." 
+Major progress has been made in slab laser development during the last few years. 
+Northrop-Grumman, under a DoD-funded program, recently produced 100 kW with 
+good beam quality. This laboratory device, called the Joint High-Power Solid-State 
+Laser (JHPSSL), uses a single Nd :YAG master-oscillator that feeds parallel, well-phased 
+Nd :YAG power amplifiers. Brute-force power scaling, well beyond 100 kW, seems 
+relatively straight-forward using approaches available today. Unfortunately, as more 
+lasers are combined the overall beam quality will deteriorate while the parts-count, 
+complexity, and fragility increases. This makes either militar ization at the 100 kW level 
+or laboratory scaling to/beyond the MW level unlikely in the near-term with this 
+approach. However, given the recent rate of progress and the relative immaturity of 
+the technology, it would be reasonable to expect further major technological 
+breakthroughs in thermal management and phasing, cheaper/more powerful pump 
+diodes (the major cost today), and far more rugged engineering. These improvements 
+could be expected to yield affordable, rugged, militarily useful MW-class slab laser 
+systems with reasonable beam quality within the next 20 years. Much of the relevant 
+research is occurring outside of the United States. 
+UNCLASSIFIED/ fFOA QFFI&I.t.k YSE 8,.L\f 
+7

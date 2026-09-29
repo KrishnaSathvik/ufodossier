@@ -1,0 +1,38 @@
+UNCLASSIFIED//&Olil OiiiilCI0L Llili QPIL¥ 
+3.3.2 Search Space Improvement Accruing From HFGW FTS 
+The following points are relevant with respect to the universal use of HFGW FTS among 
+all remote terminals (including for instance cell phone handsets and their associated 
+cellular towers): 
+• During signal acquisition the receiving terminal must perform a search of the search 
+space of frequency, phase, and code to acquire the transmitting terminal signal. 
+• If there is less noise in these parameters the search space is reduced, speeding 
+acquisition. 
+• Ultra-fast acquisition allows more efficient TOMA, or Time Domain Multiple Access 
+style operations, such as transm it on demand, that use bandwidth more efficiently. 
+The smaller resultant search space is depicted graphically in Figure 20. 
+f 
+{ ~/ 
+~ ,___..L,. _______ __,,, cf,0eo-\~ 
+Search space 
+Without using 
+freq & time 
+standards 
+Search space 
+Using freq & ~ Frequency search space - c; 
+time standards 
+Figure 20. Acquisition Search Space Improvement Accruing from HFGW FTS 
+An equation for acquisition search space time is presented in Equation (12) 
+Tacq = Nphase*Nfreq*Ncode*(ta) (12) 
+where Nphase = number of phase space cases to check for acquisition, 
+Ntreq = number of frequency cases to check for acquisition, 
+Ncode = number of code sync possibilities to check and 
+ta = acquisition test time, per test case. 
+In a typical example, if 30 MHz chipping is used with a 5 µsec error, there will be 150 
+code sync possibilities to check. If a case where a frequency error of 1 Hz is used within 
+the acquisition window would cause a missed acquisition, and the worst case frequency 
+error is 150 Hz, then the number of frequencies that must be checked is also 150. 
+Finally, we must check each possible phase possibility, say 16 different options for 16-
+PSK. PSK stands for Phase Shih Keying and is the encoding of data bits using 
+incremental phase modulation. These acronyms are specified in the nomenclature 
+UNCLASSIFIED/ /FOR OiiiilCl.t.k HSI!! eflti 
+28

@@ -1,0 +1,51 @@
+UNCLASSIFIED/ (EQORWO5EICI Aba SEO
+
+axis positioning of the plasma region would create steering or pitch/yaw control
+moments. 42
+
+An attractive application that utilizes this plasma/MHD-enabled increase in L/D is
+orbit inclination changes for space assets. Even a modest (a few degrees) orbit
+inclination change requires a very large amount of delta-velocity and energy and
+thus a very large amount of fuel to be burned. If the space asset dives into the
+upper atmosphere (to altitudes of 200-300 kft), it can use aerodynamic turning
+(similar to airplanes), provided the L/D ratio is high enough. Unfortunately,
+hypersonic L/D, especially in rarefied air at high altitudes, is not much higher
+than 1. Plasma and MHD technologies hold substantial and realistic promise to
+achieve hypersonic L/D of 3-10, which would be a game-changer and enable,
+among other missions, aerodynamically assisted, on-demand orbital inclination
+changes.
+
+We now briefly consider another MHD application: a hybrid chemical/MHD
+propulsion. The nozzle exit velocity of chemical systems (air-breathing and
+rockets) is limited by the chemical energy available from the fuels/propellants
+and the temperature limits of the system materials. One method to increase the
+exit velocity of the system is to add an MHD accelerator system to the nozzle.
+The flow is first accelerated using a conventional gas dynamic converging-
+diverging nozzle and then the MHD system further accelerates the supersonic
+flow in the diverging portion of the nozzle. Many ground-based systems have
+been developed and tested to accelerate flows using MHD systems. These have
+been primarily either proof-of-concept systems or for hypersonic wind tunnels.43:
+44 Systems have been proposed for both small in-space systems** *° and for
+large engines for launch vehicles.*7 While this concept has great potential and
+the accelerator physics are well established, it has several practical limitations.
+To be efficient, the energy added to the flow from the MHD system should be on
+the order of or greater than the energy added by the chemical stage. This
+requires power levels that are not available on either type of vehicles. For
+example, for launch vehicles the jet power levels would be in the hundreds of
+MW to tens of GW range. The low ionization fractions in the flows also severely
+limit the thrust efficiency of the MHD systems to a few percent. This combined
+with the large jet powers requires enormous launch-vehicle powers. Similarly for
+space systems, a better solution would be to use the available power in a more
+efficient electric thruster. The large powers also require large masses for the
+MHD system components for reasonable specific mass (kg/kW). To be
+comparable to pure electric systems on spacecraft, the MHD augmentation
+system specific mass would need to be improved by a factor of 1,000 over state-
+of-the-art technologies.*® One potential solution around the power issue is to
+beam the power to the vehicle.*? Another serious issue is the magnets needed to
+provide the 2- to 40-Tesla fields required. In many cases, the weight of the
+magnet and magnet power supply would exceed the vehicle mass using existing
+technology. The magnet system mass will need to be reduced by several orders
+of magnitude to make flight systems practical.
+
+22
+UNCLASSIFIED /FOROPPICTAL USE OnE

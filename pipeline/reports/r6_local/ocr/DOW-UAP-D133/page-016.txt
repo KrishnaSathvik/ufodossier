@@ -1,0 +1,36 @@
+B Source Slit Detector 
+UNCLASSIFIED/ /FOR OFFICIAL tt.!I!! 8HL'f 
+when the coincidence requirement is relaxed. This may be explained by the action of 
+coherence-entanglement complementarity, as discussed in the next section. 
+V. Coherence-Entanglement Complementarity 
+As discussed above, the finite extent of the source is expected to limit the possibility of 
+observing a two-slit interference pattern, which would be the "signal" if nonlocal 
+commun ication were possible. Figure 6 shows schematically (not to scale) this "thick 
+source" effect. The source volume on the left is the region of the nonlinear crystal that 
+is illuminated by the UV pump-laser beam directed along the u axis. The source volume 
+is a cylinder a few mm thick and a mm or so in radius with a center point C. The source 
+cylinder is assumed to be tilted at an angle 0 with respect to the horizontal z axis on 
+which the slit system and detector plane are symmetrically centered. We note that 0 = 
+0° in the Ghost Interference experiment and 0 = 28.2° in the Dopfer experiment. A 
+horizontal distance Lxs away from the source is a two-slit system, a pair of apertures a 
+with center-to-center separation d. Light passing through the slit system travels a 
+horizontal distance Lsd and is detected at detector plane at position x,. 
+System PlaneVolume 
+Figure 6. Thick-Source Effect (not to scale): Waves arriv ing at the two slits from points A and B at the 
+extrema of the source volume may have significant path length and phase differences, while waves from the 
+central point C are in phase at the slits. 
+If the point of photon production is off the z axis, there will be a path length difference 
+between waves relative to C as they arrive at the two slits . In Figure 6, waves from 
+points A and B could have path length differences greater that half a wavelength and 
+phase differences greater than 180°. Roughly speaking, this shifts the interference 
+pattern relative to waves created at central point C so that maxima become minima 
+and vice versa. The net effect of averaging over all points in the source volume would 
+therefore be to wash out the two-slit interference pattern. That two-slit interference 
+pattern must be observed unambiguously, because it is the "signal" that would be used 
+in any nonlocal communication. This operability is quantified by an observable called 
+"visibility," which is related to the peak-to-valley ratio of the interference pattern. 
+The constancy of the relative phase at the two slits for photons arriving from various 
+parts of the source is called "coherence" and ensures a high visibility. It should be clear 
+that a point-like source has perfect coherence, while a source with a large solid angle as 
+UNCLASSIFIED/ ,,roA &FFISIAL 1:181! 8HL'I" 
+10

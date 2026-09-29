@@ -1,0 +1,52 @@
+UNCLASSIFIED/ /FOROFFICTAL USf-ONET
+
+The average energy cost, Wi, of ionization varies greatly depending on the
+ionization method. For example, in conventional glow-like discharges of large
+volume at moderate or high pressure, the ionization cost is ~10,000 eV (i.e.,
+three orders of magnitude higher than the minimum ionization energy [10-15
+eV]). This is due to the low average electron energy (~1 eV) and to the
+dominant losses of electron energy in inelastic collisions with air molecules. This
+is why a highly efficient ionization technique must be used in order to give cold-
+air MHD devices a chance to be viable. High-energy electron beams represent
+such a technique. Generated in vacuum electron guns and injected into air
+through either thin foil or a differentially pumped window, energetic (>1-50 keV)
+electrons produce many more low-energy plasma electrons, so that the average
+ionization cost is only Wj =34 eV. This ionization efficiency is theoretically the
+best.
+
+Of course, electron beam systems are quite difficult to work with due to fragile
+foils or massive differential pumping facilities; X-ray generation is also not
+helpful for flight applications. But even putting these important practical
+problems aside, and even with the lowest possible cost per electron, the
+requirement that a cold-air nonequilibrium MHD device uses significantly less
+power for ionization than it extracts from (in the generator case) or adds to (in
+the accelerator case) the flow imposes a severe constraint on the maximum level
+of ionization and conductivity. Calculations show that the maximum ionization
+fraction is on the order of 10° and the maximum conductivity is on the order of
+1 mho/m. With this low conductivity, substantial (S~0.1 or higher) MHD
+interaction parameters can only be reached with magnetic fields higher than
+several Tesla (i.e., 10-20 Tesla). The weight and volume of a magnet then
+makes such flight devices quite impractical, unless a breakthrough in magnet
+and materials technologies occurs resulting in ultralightweight magnets with
+B~10 Tesla.
+
+As an example of potential use of nonequilibrium cold-air MHD devices with
+ionization by e-beams, we note the studies of MHD scramjet inlet control
+performed by one of the authors of this survey and his Princeton University
+colleagues. These theoretical/computational studies showed that indeed, with
+proper optimization, MHD interaction at the compression ramp upstream of the
+scramjet inlet can restore the shock-on-lip (SOL) condition at Mach numbers
+higher than the design Mach number for a given fixed-geometry inlet (Figure 6).
+During the MHD operation, the generated electrical power would be enough for
+ionizing e-beams, with a significant percentage of the power left to be stored
+onboard and used for other purposes. The advantage of MHD inlet control is that
+it eliminates the need for a variable-geometry (movable) cowl that would be
+associated with a large weight and complexity; the disadvantage is that the
+weight and complexity associated with magnets and e-beam systems may
+negate the advantages. Systems studies are needed to fully assess the
+practicality of this MHD inlet control, and results of such studies would strongly
+depend on the state-of-the-art and future advances in lightweight magnet and e-
+beam technology. 1% 19, 20, 21, 22
+
+14
+UNCLASSIFIED /EQB.O5ELGEAUSE-ONTT—

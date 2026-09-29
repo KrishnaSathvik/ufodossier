@@ -1,0 +1,43 @@
+UNCLASSIFIED//&Olil OiiiilCI0L Llili QPIL¥ 
+:z 
+Signal (PPF) and Noise (BPF) 
+have very different physical behavior 
+PPF > BPF at this end of x-axis 
+Very Noisy 
+(BPF ) 
+/ 
+Poynting Vector or 
+Detection 
+Photons (PP ) 
+/ 
+/ 
+Poynting Vector or 
+-✓-----------► Y S 
+Detection 
+X 
+otons (P F) 
+.. 
+Signal (PPF) and Noise (BP F) 
+have very different physical behavior 
+PPF > BPF at this end of x-axis 
+GW&E 
+Synchro-Resonant 
+Figure 12. Detection Photons Sent to Locations That are Less Affected by Noise 
+The synchro-resonance solution of Einstein's field equations [Li et al. (2008), pp. 411 to 
+413] is radically different from the Gertsenshtein (1962) effect. The newer Li-Effect 
+solution utilizes a coupling between EM and gravitational waves (Li, Tang and Zhao, 
+1992) that arises according to the theory of relativity. And a strong static magnetic field 
+in the y-direction, B, is superimposed upon a GW propagat ing in the z-direction, as in 
+the inverse Gertsenshtein effect. However, with the Li-Effect, there is an additional 
+focused microwave beam ("Gaussian beam") at the expected frequency, phase and 
+bandwidth of the HFGWs in the same direction (z) as the GW (as shown in Figure 12). 
+Unlike the Gertsenshtein effect, a first-order perturbative photon flux (PPF), comprising 
+the detection photons, will be generated in the x-d irection. Since there is a 90 degree 
+shift in direction, there is little crosstalk between the PPF and the superimposed EM 
+wave (Gaussian beam), so the PPF signal can be isolated and distinguished from the 
+effects of the Gaussian beam, enabling detection of the GW. 
+Here's how it works: 
+The perturbative photon flux (PPF), which signals the detection of a passing 
+gravitational wave (GW), is generated when the two waves (EM and GW) have the 
+UNCLASSIFIED/ /FOR OiiiilCl.t.k HSI!! eflti 
+15

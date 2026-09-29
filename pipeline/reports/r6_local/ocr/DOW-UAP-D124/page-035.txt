@@ -1,0 +1,39 @@
+UNCLASSIFIED/ /FOlt OFFICIAL USE Oilti 
+Russian HOTOL. However, NPO Molnyia provided a unique approach to space access by 
+decoupling the attachment to a few fixed base operat ions and opening up space access 
+to a global clientele, and not from a remote nation, but from Russia. NPO Molnyia's 
+approach also removed the noise and smoke from a rocket launch to a mundane takeoff 
+of a turbofan-powered transport. 
+The upper payload limit of the An-225 is 300 metric tons for the structural mounts on 
+the top of the fuselage. With a conventional rocket, that limit was reached for the 
+Russian HOTOL at 5.45 metric tons, not the 7 tons desired. With the addition of an air­
+breathing rocket to the initial part of the trajectory and the FDL-7/Model 176 
+configuration, that limit now is not reached with even an 11-ton payload . 
+The An-225 has the empennage modified from the An-124 single vertical and horizontal 
+to an 'H' configurat ion. This permits the powered hypersonic glider to easily lift off the 
+top of the vehicle, as the MBB Sanger wind tunnel test demonstrated. A second 
+modified transport would be modified to carry the liquid hydrogen and liquid air to fuel 
+the hypersonic vehicle, along with maintenance and support crew. The intent was to 
+use the automatic launch checkout the author witnessed at Baikanour in 1988, wherein 
+a Soyuz that arrived on its train carrier at 0500 hours launched carry ing a Progress 
+capsule at 1715 hours the same day. That should make a local launch possible within 
+hours of arriving at the specified airport launch departure site . Again, we can thank the 
+Russian design bureaus for arriving with a concept that might be the first economically 
+viable global launch concept not tied to a fixed geographica l launch site that employs 
+robust, proven carrier aircraft . 
+As illustrated in Figure 31, a LACE system operat ing to mach 5.5 that has the same 
+operational weight empty and ?-metric ton (15,435-lb) payload as an all-rocket reduces 
+the liftoff gross weight of a HOTOL concept operating from atop a transport by 150 
+metr ic tons (330,000 lb). That enables a transport launch platform to carry an orbital 
+launcher with a functional payload greater than 11 metric tons (24,225 lb). Payloads 
+greater than 11 tons are determined by the size of the launcher atop the transport. 
+The launcher can become too large for the transport to mainta in stability and control. 
+The exhaust temperature and therefore velocity of a LACE rocket are less than those of 
+a hydrogen/oxygen rocket, resulting in a quieter launch and making launch from a 
+transport more favorable. The LACE-powered vehicle is physically smaller than the 
+rocket vehicle because the propellant weight and volume are less. The green line in 
+Figure 31 is the propellant weight for the sized LACE orbital launcher. The important 
+thing to remember is that the air-breathing rocket motor is the same as the all -rocket 
+motor; only the propellant mix is different. 
+UNCLASSIFIED/ (FOR OFFICIO! 1 !SE All! Y 
+28

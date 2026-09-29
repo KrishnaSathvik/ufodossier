@@ -1,0 +1,51 @@
+f 
+-,702nm 
+)>-, 
+(0 
+0 
+::J 
+0 
+::J 
+r 
+Q) 
+Cl) 
+(1) 
+UNCLASSIFIED/ /FOR OFFICIAL ".!l! Grit I 
+which are linearly polarized horizontally (HLP) and are transmitted by the splitter. As 
+Dopfer has shown, because of momentum entanglement, an image of slit system S1 will 
+be formed by the "e" photons linearly polarized vertically (VLP) at a path length f 
+beyond the lens on the deflected path at position S21 where a pair of "cleanup" slits are 
+located that pass only those photons whose entangled twins passed through S1. We 
+note that because of the optical geometry, this imaging occurs even for waves that 
+pass through both of the image points and ultimately interfere. 
+BBO 
+VLP 
+351 nmDouble Convex Lens -
+Focal Length = f c::::= :t:::=::::>--.---
+Camera 
+"O" u 1 11 
+Figure 7. Slit-Imaging Coincidence-Free Version of the Ghost Interference Experiment to Demonstrate 
+Nonlocal Communication 
+At the image position of each slit at S2, we place an optical fiber, as shown. The fibers 
+conduct the light to an optical switch, at which the light either is sent directly to two 
+avalanche photodiode detectors D (providing which-way information about which of the 
+S1 slits the photon entered) or alternatively is routed to an optical combiner C, with the 
+in-phase output of the combiner then detected, so that waves passing through both 
+slits can contribute constructively to the detection event. We note that this fiber 
+switching system is the fiber-optic equivalent of a Mach-Zehnder interferometer 
+(Reference 20), in which one can activate and deactivate the last half-silvered mirror by 
+switching, so that which-way information can be switched on and off. (We also note 
+that similar fiber-combiner-detector technology could be employed after the S1 slits to 
+IR Pass 
+FilterVLP 
+702nmD 
+IR Pass 
+Filter 
+HLP 
+Object Slits 
+Path to Lens =f 
+Image Slits 
+Path to Lens= f 
+s1 
+UNCLASSIFIED/ /FOA OFFICIO ls: Pili ODIi.¥ 
+12

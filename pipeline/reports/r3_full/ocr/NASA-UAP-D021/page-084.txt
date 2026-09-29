@@ -1,0 +1,24 @@
+74 
+have said, it is a very tight and fine mode. We used it 
+during most of the reentry. REENTRY RATE COMMAND we did 
+not use. DIREC~ I used for the first part of the reentry, 
+and it seemed that we were picking up rolling torques , and 
+I was also starting to pick up pitch and yaw oscillations 
+as the gs were coming on. They were slight ones but I 
+really wanted to get the spacecraft steady, end I was real ly 
+trying to lock it in on the attitude indicator, so we went 
+to RAT~ COMMAND. I didn't see any reason to bring back a 
+lot of RCS fuel anyway. REENTRY RATE COMMAND we did not use. 
+The PUISE mode wa.s used in the reentry prior to guidance 
+initiate, and it worked fine. Retrofire attitude control 
+was excellent and I'm gl ad we bad RATE COMMAND there because 
+we had no outside reference at all. Retrofire was done on 
+the ball with the rate needles, and I thought the rockets 
+were outstanding. Yes.h, outstanding , I thought they were a 
+little more powerful than I had anticipated. 
+Lovell Q;uite all right. 
+Borman Reentry attitude control deadbands and rate damping was 
+fine. The only thing, I guess, that was wrong with RATE 
+COMMAND was the fact that it uses an awful lot of fuel. 
+But, it certainly holds that spacecraft steady as a rock. 
+The heater lights - we solved that problem very easily. We

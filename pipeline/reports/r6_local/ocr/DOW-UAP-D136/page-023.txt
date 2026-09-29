@@ -1,0 +1,18 @@
+UNCLASSIFIED/ /P'OR: OP'P'l@IAL WS& 0Nk¥ 
+Figure 13. A MEMS Thermopile Glucose Sensor (Towe et al., Arizona State University) 
+Heat energy released in the gel is measured by the thermopile and is characterized in 
+terms of kiloJoules (kJ) per mole of glucose consumed. At concentrations of glucose 
+that are common in the blood stream, the temperature rise is very small, on t he order 
+of a hundredth of a degree (10 millidegrees) . 
+Measuring this temperature change in the presence of ambient body heat or room­
+temperature changes of a few degrees is a daunting task, but can be done. 
+The measurement of the small reaction temperature in the face of possible ambient 
+temperature shifts is accomplished by the use of a differential temperature 
+measurement system. 
+This sensor employs what is known as the Seebeck Effect whereby dissimilar metals 
+heated at their junction produce a voltage that is proportional to temperature. This 
+concept is shown in Figure 14. This principle is then implemented as an array of metal 
+junctions that when connected in series produce a higher output in order to detect 
+smaller temperature changes. 
+UNCLASSIFIED/ {FOR OFFICIO! !PEii QDlk¥ 
+17

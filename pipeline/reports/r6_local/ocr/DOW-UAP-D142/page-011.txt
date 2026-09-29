@@ -1,0 +1,49 @@
+UNCLASSIFIED/ /FOR OFFIEIAk WS& OPtkY 
+This ZPE term is added to the classical blackbody spectral radiation energy density 
+p(w)dro (that is, the energy per unit volume of radiation in the frequency interval (w, w 
++ dw)) (Reference 14): 
+al [ hw hw]p(w)dw =- -----+- dw 
+n2c3 exp(hw/ kT) - 1 2 
+(1) 
+hw3 
+= - - 3 coth ( --hw) dw,2 
+21t c 2kT 
+where c is the speed of light (3.0 x 108 m/s), k is Boltzmann's constant (1.3807 x 10-23 
+J/K), T is the absolute temperature, and ro = 2nv is the angular frequency. The factor 
+outs ide the square brackets in the first line of Equation (1) is the density of mode (or 
+photon) states (that is, the number of states per unit frequency interval per unit 
+volume); the first term inside the square brackets is the standard Planck blackbody 
+radiation energy per mode; and the second term inside the square brackets is the 
+quantum zero-point energy per mode. Equation ( 1) is called the Zero-Point Planck 
+(ZPP) spectral radiation energy density. Planck first added the ZPE term to the classical 
+blackbody spectral radiation energy density in 1912, although it was Einstein, Hopf, and 
+Stern who actua lly recognized the physical significance of this term in 1913 (Reference 
+14). Direct spectroscopic evidence for the reality of ZPE was provided by Mulliken's 
+boron monoxide spectral band experiments in 1924, several months before Heisenberg 
+first derived the ZPE for a harmon ic oscillato r from his new quantum matrix mechanics 
+theory (Reference 15). 
+Following this line of reasoning, quantum physics predicts that all of space must be 
+filled with electromagnetic zero-point fluctuations (aka the zero-po int field) creating a 
+universal sea of zero-point energy. The density of this energy depends critically on 
+where the frequency of the zero-point fluctuations ceases. Since space itself is current ly 
+thought to break up into a kind of "qua ntum foam" at the Planck length, Ap (~ 10-35 m), 
+it is argued that the ZPF must cease at the corresponding vp. If true, then the ZPE 
+density would be ~10113 J/m 3, 108 orders of magnitude greater than the radiant 
+energy at the center of the Sun! Formally, in Quantum Electrodynamics (QED) theory, 
+the ZPE energy density is taken as infinite; however, arguments based on quantum 
+gravity considerations yield a fin ite cutoff at vp . Therefore, the spectral energy density 
+is given by p(w)dw = (nw3/2 n2c3)dw, which integrates to an energy density, pE = 
+nvp4/8n2c3 ~ 10113 J/m 3. As large as the ZPE is, interactions with it are typically cut off at 
+lower frequencies depending on the particle coupling constants or t heir structure . 
+Nevert heless, the potent ial ZPF energy density predicted by quantum physics is 
+enormous. 
+Many experts have claimed that an enormous vacuum ZPF energy density would 
+produce a corresponding enormous gravitationa l force of attraction (via Einstein's 
+General Theory of Relativity) that would cause the immediate collapse of the entire 
+universe . Thus they argue that such enormous vacuum energy cannot be real due to 
+the fact that our universe is observed to be undergoing accelerated expansion. 
+However, such arguments are spurious because numerous stud ies in quantum field 
+theory show that it is the low-frequency ZPF modes that contribute significantly to the 
+physical vacuum energy, because 1) only the low-frequency modes are affected by the 
+UNCLASSIFIED/ /FOR OFFICIO! P!ili QIU.,¥ 
+5

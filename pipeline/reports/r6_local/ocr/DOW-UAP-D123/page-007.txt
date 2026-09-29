@@ -1,0 +1,42 @@
+UNCLASSIFIED/ /POI\ OPPICIJ!ct l:l!H! 8,.LY 
+Second, low-energy gamma rays from positron annihilation cannot make residual 
+radioactivity in surrounding air and containment vessels. In contrast, antiprotons 
+annihilate into a host of high-energy particles, including n-mesons and gamma rays that 
+can induce residual radioactivity in nearby materials. 
+Finally, low-energy gamma rays from positron annihilation can be readily converted into 
+useful forms of energy, including heat and electricity required for propulsion systems. 
+This contrasts with large, complex systems required for conversion of antiproton 
+annihilation and nuclear fission/fusion energy. 
+There are two reasons why positrons have yet to be used for aerospace applications, 
+First, it has not been possible to produce them in the numbers required. However, 
+recent developments in high-energy physics research are resulting in expanding levels 
+of positron production. Second, methods for storing positrons for basic research do not 
+hold enough positrons long enough for propulsion applications. Recent developments in 
+storage techniques may significantly improve the situation, with lifetimes up to months 
+and possibly years. 
+Positron Air-Breathing Propulsion 
+Aeronautical engines burn a mixture of aviation fuel and oxygen in air to heat a working 
+fluid. To keep engines small, the combustion rate in the engine needs to be high .5 At 
+sea level for a fuel-air mass ratio of 0.068, it is 500,000 kJ/m 3-s. To maintain speed, 
+the thrust specific fuel consumption (TSFC) for turbojets and turbo-ramjets is in the 
+range of 0.075 - 0.11 and 0.17 - 0.26 kilogram/hour-Newton (kg/hr-N), respectively. 
+All aeronautical engines are limited in range and flight duration by the fuel on board. 
+Because of the aforementioned performance bounds of combustion engines, the 
+aeronautic industry has worked diligently to increase the range and payload of aircraft 
+by maximizing the performance of combustion engines and optimizing aerodynamic 
+design. Beyond this, the only way a combustion-powered aircraft can extend its range 
+and endurance is by in-flight refueling. 
+Two projects investigated nuclear power as a way to increase performance. In 1946, 
+the U.S. Air Force established the Nuclear Energy for Propulsion of Aircraft program. 
+However, this program was disbanded in 1951 in favor of the joint Atomic Energy 
+Commission-Air Force Aircraft Nuclear Propulsion program. Implementing nuclear 
+fission to power an aircraft required two approaches . One was direct cycle, whereby air 
+was heated by passing it through a nuclear reactor; the other was indirect cycle, 
+whereby the reactor heated a liquid metal that in turn heated air in a secondary heat 
+exchanger . The program never produced a prototype and was canceled in 1961. 
+In 1957, the Pentagon started development of a nuclear ramjet missile (SLAM, 
+Supersonic Low-Altitude Missile) to fly below Soviet defenses. The Lawrence Livermore 
+National Laboratory Pluto program successfully tested two engines, Tory-IIA and Tory­
+IIC (Figure 2), at the Nevada Test Site. The program was canceled in 1964. 6• 7 
+UNCLASSIFIED/;SFOR. OFFl&IAI:: W&li &Ptl::lf 
+2

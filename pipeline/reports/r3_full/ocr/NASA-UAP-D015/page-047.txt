@@ -1,0 +1,33 @@
+LOS ALAMOS SCIENTIFIC LABORATORY
+UNIVERSITY OF CALIFORNIA
+LOS ALAMOS, NEW MEXICO
+
+TO: Dr. Jocelyn Gill -7= DATE: July 13, 1962
+
+Nitrogen peroxide has been extensively studied and two papers were found
+which gave absorption coefficients in the visible region of the spectrum. Wiley
+and Foord (Proceedings of the Royal Society Al35, 174 (1932) give a coefficient
+
+which I convert to
+-19 2
+o~1-3x 10° cm*/molecule
+
+depending on the wavelengths selected by their filters (the lower value was for
+the range 4900 < » < 5250 A).
+
+Hall and Blacet (J. Chem. Phys. 20, 1745 (1952) give a curve obtained with
+a Cary spectrophotometer having ~ 5 A resolution. Maximum absorption occurs in
+the range 3500 < 2 < 4500 A and drops to ~ 1/2 the peak value at 5000 A. They
+give no data for longer wavelengths. I convert their absorption coefficients to
+~6x 10"° cm?/molecule at 4000 A, and ~ 3 x 10°** cm®/molecule at 5000 A.
+Structure produces changes in cross section of ~2 x 10; em” /molecule at wave-
+lengths separated by a few angstroms.
+
+Taking an average value of 4 x 10°-” cm@/molecule, we find
+
+Ns (NO) Bd eer = (7-5 = 5) x 1026 molecules/cm
+; x 10
+
+and using X3 = 5.4 x 107cm
+
+Po = (1.4 + 1) x 10** molecules/cm®

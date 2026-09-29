@@ -1,0 +1,42 @@
+UNCLASSIFIED/ /P'OR: OP'P'l@IAL WS& 0Nk¥ 
+Variations of pacemaker devices are used in brain neurostimulation for treatment of 
+Parkinson's disease characterized by the involuntary tremors of the hands and body. In 
+this case the battery pack must be placed outside the brain, typically in the upper chest 
+and a long catheter wire tunneled through tissues to the specific parts of the brain to be 
+treated. 
+Research at Arizona State University has 
+been directed towards overcoming the 
+problems of bulk and need for battery 
+replacement through an approach where 
+the implanted neurostimulation devices 
+are made exceptionally small and where 
+they derive their power by a process of 
+induction from the outside of the body. 
+Figure 28 shows one of these devices. 
+The tiny size of the device reduces tissue 
+trauma upon insertion. Small electrodes 
+at either end of the device contact neural 
+tissue and apply electrical stimulating 
+pulses. 
+The patient wears a type of powering­ Figure 28. A New Generation of Implantable
+patch on his body over the micro-implant Neurostimulation Devices Can Pass Through the 
+and is supplied by a small cell-phone like Lumen of a Syringe Needle. This device was made at 
+ASU and is powered by ultrasound energy. (Towe et al.)device having batteries that provides the 
+energy for driving the patch. 
+A coin-sized transducer on the skin directs ultrasound energy at about 1 MHz frequency 
+towards an implanted microdevice. 
+A type of piezoelectric plastic material known as PVDF is configured as a ultrasound 
+receiver and works to change pulses of the sound wave energy into a rectified electrical 
+current. This current is then used to stimulate tissues. 
+Due to the fact that ultrasound is a mechanical vibration and carries significant energy 
+in a vibrating wave, the energy transfer across the skin can be more easily achieved 
+than magnetic induction to a similar depth and size and so provide the needed currents 
+for neurostimulat ion. 
+Figure 29 shows a bioelectrical stimulator configuration. The implanted device is 0.9 
+mm x 1.2 mm and conta ins a Schottky diode . The piezoelectric output current response 
+of PVDF to the ultrasound is increased by stacking thin 25 micron sheets of the material 
+connected so they are in electrical parallel . With bonding layer thicknesses in-between, 
+the overall thickness of the stack is on the order of 250-350 microns and forms a solid 
+structure. 
+UNCLASSIFIED/ {FOR OFFICIO! !PEii QDlk¥ 
+31

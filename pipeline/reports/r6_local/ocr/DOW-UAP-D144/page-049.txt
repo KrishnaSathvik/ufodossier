@@ -1,0 +1,16 @@
+UNCLASSIFIED/ ,'FOR OFFI@IAL WSE ONLY 
+explore the vehicle controls for explora ti on submarines that also have the full six 
+degrees of freedom. 
+Another critica l deta il to be resolved with commanding a breakthrough vehicle is how 
+best to accommodate the "throttle." Should each linear axis have the same speed 
+capability, or should only the primary motion axis have the full span of zero to 
+maximum speed? With that character istic specified, it will also be necessary to 
+determ ine how best to provide adjustments to cover the speed ranges of each axis. 
+OPTIMUM MIX OF CONTROL METHODS 
+A variety of methods have been considered for commanding the breakthrough-era 
+vehicle. What is not known is the degree and in what combinations they should be 
+used, and whether constra ints should be placed on some of them. The potential use of 
+confirmation feedback for both voice and thought commands is suggested, but future 
+research will need to determ ine whet her (and how) such functions should be employed . 
+UNCLASSIFIED/fFOA. OFFICIO ls. Plili ONls.¥ 
+44

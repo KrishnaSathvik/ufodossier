@@ -1,0 +1,53 @@
+UNCLASSIFIED / FP OR OFFTCEAL-USE-Os
+
+PROPULSION SYSTEMS
+
+Among propulsion systems, only reusable rocket engines are considered here because
+they hold potential for significant progress that could reduce the cost of placing
+payloads into orbit.
+
+The basic concept of the space shuttle main engine is still viable, but the durability of
+the materials used to make the hardware has been a major expense and source of
+concern for NASA. Much of the concern is related to the effects of hydrogen on the Ni-
+base alloys used in the turbo pumps. The turbo pumps are the heart of a liquid-fueled
+hydrogen-oxygen rocket engine because they deliver the fuel and oxidizer to the thrust
+chamber. The turbo pumps rotate at a very high speed—up to 35,000 rpm. Such
+speeds create enormous centrifugal stresses in the rotating components, particularly
+the disks that hold the air foils used to extract work from the hot gas stream. One side
+of the turbo pump rotor operates in the hot gas stream created by the combustion of
+the oxygen-hydrogen mixture; the other end is a cryopump that operates at cryogenic
+temperatures, either in liquid oxygen (90 K) or in liquid hydrogen (20 K). The hot side,
+a turbine, resembles the turbine rotor in a gas turbine engine and is made of many of
+the same Ni-base alloys. The cryopump is made of Ti alloys.
+
+The turbine essentially operates in a hydrogen-rich supercritical steam environment at
+a maximum temperature of about 1,050 °Celsius. The turbine disk is a forged Ni-base
+alloy, and the air foils are single-crystal investment castings. Neither material is well
+suited to operate in a hydrogen-rich environment; however, no other material class can
+withstand the operating temperatures and has better hydrogen tolerance—a situation
+that still prevails today. The mechanism of hydrogen-induced cracking is much better
+understood today as the result of extensive research over the past 25 years. Therefore,
+it would be very useful to use this improved understanding to design a Ni-base alloy
+that has improved hydrogen tolerance. If successful, a turbine that has improved
+resistance to hydrogen cracking would greatly reduce the intermission refurbishment
+time and cost.
+
+Traditionally, the cryopump rotating parts have been made from forgings of the near-a-
+phase Ti alloy Ti-5Al-2.5Sn (Ti-5-2.5). This alloy has been chosen for its superior
+notched tensile strength compared with Ti-6-4 when tested at cryogenic temperatures.
+Hindsight suggests it is unclear that notched tensile strength is the best criterion for
+selecting a cryogenic rotor material. The use of notched tensile strength originated with
+steels. Here, the hydrostatic stress state at the notch root could trigger the onset of
+brittle fracture of the type seen in smooth tensile tests below the ductile brittle
+transition temperature (DBTT). Ti alloys do not exhibit a DBTT; therefore, true fracture
+toughness measured at the relevant temperature is a more accurate indication of the
+fracture resistance of the rotor. An examination of the limited available fracture
+toughness data for the two alloys shows no clear advantage in using Ti-5-2.5. Because
+Ti-5-2.5 is more difficult to produce than Ti-6-4, using Ti-5-2.5 adds cost to the
+cryopump. Other, newer, higher strength Ti alloys—for example, several of the newer
+B-Ti alloys—may be even better suited than Ti-6-4 is for this application. The critical
+question of how much toughness is really required cannot be answered at present
+because the notched tensile ratio has been the deciding criterion. Therefore, a new
+
+21
+UNCLASSIFIED / +-@R-OFFECGEAE-USE-ONEE

@@ -1,0 +1,46 @@
+UNCLASSIFIED / /FOR-OFFE6PA-USE-ONEY
+
+48 Baker KB, Nyenhuis JA, Hrdlicka G, Rezai AR, Tkach JA, Shellock FG. Neurostimulation systems: assessment of
+magnetic field interactions associated with 1.5- and 3-Tesla MR systems. J Magn Reson Imaging 2005
+Jan;21(1):72-7.
+
+49 Wise KD. Silicon microsystems for neuroscience and neural prostheses. IEEE Eng Med Biol Mag 2005 Sep-
+Oct;24(5):22-9.
+
+5° Martinez Santiesteban FM, Swanson SD, Noll DC, Anderson DJ. Magnetic resonance compatibility of multichannel
+silicon microelectrode systems for neural recording and stimulation: design criteria, tests, and recommendations.
+IEEE Trans Biomed Eng 2006 Mar;53(3):547-58.
+
+51 Paralikar KJ, Neuberger T, Matsui JT, Barber AJ, Webb A, Clement RS. Feasibility and safety of longitudinal
+magnetic resonance imaging in a rodent model with intracortical microwire implants. J Neural Eng 2009 Apr
+15;6(3):34001.
+
+52 Blakely T, Miller KJ, Rao RP, Holmes MD, Ojemann JG. Localization and classification of phonemes using high
+spatial resolution electrocorticography (ECoG) grids. Conf Proc IEEE Eng Med Biol Soc 2008; 2008:4964-7.
+
+53 Schalk G, Miller KJ, Anderson NR, Wilson JA, Smyth MD, Ojemann JG, et al. Two-dimensional movement control
+using electrocorticographic signals in humans. J Neural Eng 2008 Mar;5(1):75-84.
+
+54 Marquez-Chin C, Popovic MR, Cameron T, Lozano AM, Chen R. Control of a neuroprosthesis for grasping using
+off-line classification of electrocorticographic signals: case study. Spinal Cord 2009 Apr 21.
+
+55 Hochberg LR, Serruya MD, Friehs GM, Mukand JA, Saleh M, Caplan AH, et al. Neuronal ensemble control of
+prosthetic devices by a human with tetraplegia. Nature 2006 Jul 13;442(7099):164-71.
+
+5® Kuiken TA, Li G, Lock BA, Lipschutz RD, Miller LA, Stubblefield KA, et al. Targeted muscle reinnervation for real-
+time myoelectric control of multifunction artificial arms. JAMA 2009 Feb 11;301(6):619-28.
+
+5? Kuiken T. Targeted reinnervation for improved prosthetic function. Phys Med Rehabil Clin N Am 2006
+Feb;17(1):1-13.
+
+58 Warwick K, Gasson M, Hutt B, Goodhew I, Kyberd P, Andrews B, et al. The application of implant technology for
+cybernetic systems. Arch Neurol 2003 Oct;60(10):1369-73.
+
+5° Nagel G, Szellas T, Huhn W, Kateriya S, Adeishvili N, Berthold P, et al. Channelrhodopsin-2, a directly light-gated
+cation-selective membrane channel. Proc Natl Acad Sci U S A 2003 Nov 25;100(24):13940-5.
+
+6° Degenaar P, Grossman N, Memon MA, Burrone J, Dawson M, Drakakis E, et al. Optobionic vision--a new
+genetically enhanced light on retinal prosthesis. J Neural Eng 2009 Jun;6(3):035007.
+
+30
+UNCLASSIFIED / /#0R-OFFt6H=-USE-OE

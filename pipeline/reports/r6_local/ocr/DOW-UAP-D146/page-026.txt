@@ -1,0 +1,40 @@
+UNCLASSIFIED/ /FOR OFFICIAL l:191!! 6HLY 
+Chapter 5: Recent Developments 
+U.S. DOE PROGRAMS 
+The current U.S. Department of Energy fusion program is administered by the Office of 
+Fusion Energy Sciences (http://www .science.doe .gov/ofes /). The FY2010 budget was 
+$421 million, with over half devoted to tokamak plasma physics and experimental 
+facilities at Princeton Plasma Physics Lab, MIT, and General Atomics. The Advanced 
+Concepts and High-Energy-Density Laboratory Plasma Physics (HEDLPP) programs, 
+which support plasma confinement theory and experiments for innovative fusion reactor 
+concepts and fusion propulsion, are funded at ~$20 million. The HEDLPP program 
+covers the following areas: 
+• Radiative hydrodynamics. 
+• Laser-plasma and beam-plasma interaction. 
+• Fusion burn. 
+• Materials under extreme conditions. 
+• Dense plasmas in ultrahigh fields. 
+• Laboratory astrophysics. 
+Technology development funding is directed toward tokamak-related reactors with $135 
+million contributed to ITER. The National Ignition Test Facility is funded by DOE's 
+National Nuclear Security Administration and is dedicated for nuclear weapons 
+simulation. The NNSA-funded research also includes Magneto Target Fusion 
+experiments at Sandia and Lawrence Berkeley National Labs. 
+INTERNATIONAL PROGRAMS 
+The International Thermonuclear Experimental Reactor (ITER) is a joint undertaking of 
+the European Union, China, India, Japan, Korea, Russia, and the United States. The 
+goal is to demonstrate deuterium-tritium (DT) fusion ignition in a minimum-sized 
+tokamak confined plasma. The initial plans were to operate ITER as early as 2002 some 
+10 years after the planned TFTR and JET experimental results shown in Figure 17. 
+However, delays in TFTR and JET test results, which augmented the size of the ITER 
+plasma to 6 meters in major radius and 6 meters in height, had pushed the ITER 
+operation out to 2020 at a cost of $20 billion. It has since been downscaled in 
+operating requirements due to the cost and problems associated with tritium fuel and 
+containment with a 2025 operating date and cost of $25B. The operating time of an 
+ignition burn will be limited to minutes. These constraints have been imposed due to 
+the excessive costs for the 200 MW power plant needed to supply the energy to ignite 
+the tokamak plasma as well as the 36 kg of trit ium needed for its initia l fueling. In 
+order to compensate for this a Demonstration Power reactor is planned to follow 5 yrs 
+later at a substantially higher cost. 
+UNCLASSIFIED/ /FOR &FFI@IAL l:191!! 014Li 
+21

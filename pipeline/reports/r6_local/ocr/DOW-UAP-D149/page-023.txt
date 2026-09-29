@@ -1,0 +1,21 @@
+UNCLASSIFIED/ /FOR 055iliCl.t.k WSE 8HL'f 
+MHD 
+heat-Into-power 
+conversion 
+Figure 8. The Reverse Energy Bypass Concept. The red arrow symbolically depicts the 
+general direction of energy bypass - upstream. 
+A promising version of the reverse energy bypass concept uses the electric 
+power extracted from the flow in the MHD generator to increase the air mass 
+flow rate through the combustor in off-design conditions. If the inlet is designed 
+for shock-on-lip condition at a certain hig h Mach number (e.g., Mach 8), then at 
+Mach numbers lower t han the design value (e.g., Mach 6) the inlet does not 
+completely capture the compressed flow, which is associated with the so-called 
+spillage drag, effectively reduc ing the thrust. This undesirable effect can be 
+prevented by the so-called virtual cowl-a heated region upstream of the cowl lip 
+(Figure 9) .33 , 34 This heated (e.g., plasma) region deflects the flow and helps with 
+scooping more air into the inlet. Moreover, with proper positioning, only cold 
+(unheated) air is scooped into the inlet, t hus avoiding reduction in total pressure 
+and thrust that would have occurred if heated air were scooped into the 
+propulsion system. 
+UNCLASSIFIED/FQA QFFHiilif.tl: WSE 8HL'I 
+19

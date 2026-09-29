@@ -1,0 +1,50 @@
+UNCLASSIFIED//&OR Oii&ICI0L Ll&li QPIL¥ 
+Signal to noise ratios (SNR's) at the transmitter and at the receiver 
+must be calculated to support a communications link design. 
+Predicted SNR Predicted SNR 
+Components at Link Components at 
+the Transmitter Loss the Receiver 
+r 
+Signal 
+Noise 
+GW 
+Sourc 
+Noise 
+------
+GW 
+Xmit 
+Signal 
+1/R2 
+Loss 
+GW Antenna 
+& Receiver 
+Noise 
+i EM to GW/'-,-------- --- GW to EM 
+conversion \ EM Receiver --.....i----------1 ~ ConversionEM Source Noise Noise NoiseNoise 
+Figure 16. Conceptual SNR Fill Factors: Signal and Noise Components 
+In the receiver all these same noise sources are duplicated in reverse, as shown on the 
+right had side of Figure 16. Referring power now to the input, there will be a received 
+power, and the created by the receiver that was not created at the transmitter, also GW 
+to EM conversion noise, and EM receiver noise of the same types as received 
+propagated transm it noise. Added to this will be GW noise admitted or outlined for 
+transmitters. When all these noise components are referred the input of the receiver, 
+the total NEP, which is the RSS of all the noise components, must be less than the 
+signal present at the input of the receiver to qualify as a useful link. 
+A few comments are in order regarding the "Q-factor" of the receiver . One way to 
+increase Q is to narrow bandwidth . However , this has lim ited value. At some point, 
+shrink ing the bandwidth will shrink the signal received as quick ly as the noise received, 
+and some receiver noise components remain constant, result ing in a net drop in SNR. 
+Another way to increase Q is to arbitrary increase sample times of the signal. This 
+technique will, relatively speaking, shrink receiver end noise components as referred to 
+the input of the receiver, but it will not have any impact of the noise generated at the 
+transmitter . Therefore in this case the SNR will approach a constant . However, both of 
+these approaches for improving sensitivity will have an adverse effect on the 
+informat ion capacity of the channel, which is important for a communication 
+application . 
+3.1.2 Link Budget Considerations 
+Now consider the signal side of the commun ication challenge. The central question is, 
+How do we close the link? That is, how much signal is necessary at the input of a 
+commun ication channel to have a useful signal at the other end? These questions may 
+be answered, qualitatively in this case, by considering the terms of the expression in 
+UNCLASSIFIED/ /FOP OiiiilCl.t.k l!ISI!!! l>flti 
+23

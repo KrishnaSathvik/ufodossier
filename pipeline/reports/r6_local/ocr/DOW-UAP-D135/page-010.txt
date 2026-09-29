@@ -1,0 +1,22 @@
+UNCLASSIFIED/ fFOA OFFIEIAk W&i 0Pilk¥ 
+According to Maxwellian electrodynamics, an electric current flowing through a wire that 
+is wrapped around a torus (or ring) causes a magnetic field to form inside the torus. If 
+the current (I) in the wire increases with time, then the magnetic field B inside the 
+torus also increases with time. This time-varying magnetic field in turn creates a dipole 
+electric field E, as shown in Figure 1. The magnitude of the electric field at the center of 
+the torus is given by: 
+(4) 
+where µo is the vacuum electromagnetic permeability constant (4n x 10-7 H/m), N is the 
+total number of turns of wire wound around the torus, i is the time rate-of-change of 
+the electric current flowing through the wire, r is the radius of one of the loops of wire, 
+and Rt is the radius of the torus. 
+Figure 1. Dipole Electric Field Generator (Reference 14) 
+In a similar fashion, Forward's antigravity device is a dipole gravitational field 
+generator. As shown in Figure 2, a mass flow T through a pipe wound around a torus 
+induces a Lense-Thirring field P to form inside the torus. If the mass flow is 
+accelerated, then the P-field increases with time, and thus a dipole gravitational field G 
+is created. The magnitude of the anti-gravitational field at the center of the torus is 
+given by: 
+(5) 
+UNCLASSIFIED/ /FOA OFFI&IAb Yi&: 8,.bY 
+5

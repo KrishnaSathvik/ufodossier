@@ -1,0 +1,27 @@
+# UFO Dossier
+
+UFO Dossier is a searchable archive of publicly released U.S. government records of unidentified anomalous phenomena (UAP), from the PURSUE releases at https://www.war.gov/UFO/. PURSUE is the Pentagon program that published these files.
+
+It is not a claim that those records prove extraterrestrial origin.
+
+## Counts
+
+The public counts are different things. Do not treat them as the same number:
+
+- official files
+- checked passages (quotes verified against the original file)
+- sightings (one sighting can be described in more than one passage)
+- PURSUE releases
+
+A series is a group of separate sightings, not one sighting.
+
+## Preferred pages
+
+- https://www.ufodossier.com/
+- https://www.ufodossier.com/releases
+- https://www.ufodossier.com/sources
+- https://www.ufodossier.com/audio
+- https://www.ufodossier.com/about
+- https://www.ufodossier.com/ask
+
+Ask the Archive answers only from records in this archive and cites case IDs inline.

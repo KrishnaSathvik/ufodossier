@@ -1,0 +1,34 @@
+UNCLASSIFIED/ /P'OR. 8FFIEil1'1.k lellii Ql'II.¥ 
+This hypothesis is the only one consistent with Nernst's theorem. It, of course, implies 
+that an assembly of positive and negative masses can perfect ly mix because otherwise 
+no equilibrium can be reached. To satisfy this hypothes is, we assume that the negative 
+masses have negative entropy. Only the assumption that an assembly of negative 
+masses has negative entropy permits an analytic continuation of the entropy from 
+positive to negat ive temperatures. If the entropy for negative temperatures would be 
+counted posit ive, the function dS/dT would be discontinuous at T = 0. 
+For the entropy of a mixture of positive and negative masses to become zero requires 
+an exact correlation in the disorder of the positive mass gas with the disorder of the 
+negative mass gas. This is certainly true if the negative mass is equal to the negative 
+mass of the gravitational field of the positive mass, because the Newtonian 
+gravitational field of each particle, all the way down to the smallest dimension, is 
+precisely correlated to the position of the particle. The entropy of the positive mass of 
+matter and the entropy of the negative mass of its gravitational field (correlated to the 
+entropy of the positive mass which is the source of this field) might therefore be called 
+complementary (like a positive and negat ive photographic image). The expansion from 
+a very small phase space volume would then be possible, because if the positive and 
+negative masses are densely packed within the same volume, not only their energy, but 
+also their entropy would cancel. 
+The time needed to bring back the universe to its original low entropy state, is the 
+Poincare recurrence time. While under normal conditions this time is huge, it may in a 
+dense mixture of positive and negative masses with a divergent acceleration become 
+quite small. This might explain why the initial entropy of the universe is very small. The 
+Planck aether hypothesis gives a plausible explanation for the observed vanishing of the 
+sum of all charges, like the electric, color and weak charges. With the phenomenon of 
+charge explained to result from the zero point fluctuations of Planck masses bound in 
+vortex filaments and with an equal number of positive and negative Planck masses, the 
+sum of all the charges must vanish. That this should be also be true for the 
+gravitational charges finds its expression in the compensation of the positive energy in 
+the universe by its negative gravitational energy. This compensation explains why the 
+flatness parameter is n =1. 
+UNCLASSIFIED//P'Olll OPPIEll<L tt!II!! or~LY 
+30

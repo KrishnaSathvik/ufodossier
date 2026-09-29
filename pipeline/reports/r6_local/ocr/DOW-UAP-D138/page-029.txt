@@ -1,0 +1,40 @@
+UNCLASSIFIED/ /POI\ OPPICIIIIL tt!II! 8HL\S 
+Table 3. Negative Energy Required for Warp Bubble 
+Warp Factor, Vwarp £warp (J) 
+10-5 (= 3 km/s) - 1.00 X 1032 
+10-4 (= 30 ktn/s) -1.00 X 1034 
+0.01 (= 3,000 ktn/s) -l.00 X 1038 
+0.5 (= 150,000 km/s) - 2.50 X 104 1 
+I (= light speed) - 1.00 X 1042 
+2 (= 600,000 km/s) - 4.00 X 1042 
+10 (= 3.0 X 106 km/s) - 1.00 X 1044 
+100 (= 3.Q X 107 km/s) - 3.03 X 1046 
+Upon comparing Tables 2 and 3, immediately one can see the drastic energy reductions 
+that are apparent when one uses the dimensional warp drive paradigm. The energy 
+requirements are reduced by a factor of 108 . This energy is based on a warp bubble 
+that encompasses 100 m3 of space. As discussed earlier, this is a "worst case" scenario, 
+and the energy requirements could be further reduced, perhaps by many orders of 
+magnitude, by utilizing the thin shell model illustrated in Figure 9. 
+These are, perhaps, the most important numerical results of this paper, as they set an 
+upper limit on the energy requirements necessary to generate a warp bubble, and also 
+on the energy requirements necessary to surpass the speed of light. Even though this 
+energy requirement is a vast improvement on the calculations of Visser and Lobo, the 
+energies are still far in excess of those available in the foreseeable future. 
+One interesting prospect to test this theory is to consider the maximum energy density 
+that is achievable by modern technology, and to calculate the expansion of space that 
+this energy would generate. One could then conceivably contemplate a table-top 
+experiment if the numbers allowed. What follows is a description of how this might 
+work. 
+7 .5 FUTURE EXPERIMENTS 
+At this point we take a diversion into pure speculation as to what techno logical 
+advancements may be necessary to build a device that might test our dark energy 
+theory. One knows from the Friedmann equations of cosmology that normal matter and 
+energy generate: 
+a 4nG -;; =- -3-(p + 3p ), (7.6) 
+where a is the so-called cosmological scale factor, p is the energy density and p is the 
+pressure. If one defines the quantity"= plp", one sees immedi ately that an accelerated 
+expansion of spacetime requires negat ive pressure. Currently, all known matter and 
+energy generate w > 1; however, dark energy has w = -1. If it were possible to 
+technologically create dark energy in the lab, then th is would assist with our 
+UNCLASSIFIED//FOR OFFIOIAL ~SI! 8Ht,• 
+22

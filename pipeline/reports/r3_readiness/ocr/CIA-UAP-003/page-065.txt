@@ -1,0 +1,27 @@
+~ Setrer teForn_
+Chapter 2
+
+52
+
+|
+A-2 camera
+
+U-2s equipped with the A-! camera system also carried a
+Perkin-Elmer tracking camera using 2.75-inch film and a 3-inch lens.
+This device made continuous horizon-to-honzon photographs of the
+terrain passing beneath the aircraft. Because the A-1 system was new,
+it also included a backup camera system, a K-!7 6-inch three-camera
+trimetrogon unit using 9-inch film.
+
+While the A-1 system was still being developed, James Baker
+was already working on the next generation of lenses for high-altitude
+reconnaissance. Baker was a pioneer in using computers to synthesize
+optical systems. His software algorithms made it possible to rnodel
+lens designs and determine in advance the effects that variations in
+lens curvatures, glass compounds, and lens spacings would have on
+rays of light passing through a lens. These “ray-tracing” programs re-
+quired extensive computations, and, for this he turned to the most
+modern computer available, an [BM CPC (card-programmed calcula-
+tor) installation at nearby Boston University.”
+
+"Ibid. chap. 1, pp. 7-8 (TS Codeword).

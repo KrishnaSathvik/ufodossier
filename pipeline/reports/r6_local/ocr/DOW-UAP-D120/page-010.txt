@@ -1,0 +1,50 @@
+UNCLASSIFIED/ /POI': OPPlelAL l:ISE 8PtLY 
+leaving voids. This limitation makes it difficult to use many thermoplastic resins that 
+are otherwise attractive because they are recyclable and have much longer shelf 
+lives than thermosets (epoxies). Another, more obvious limitation of RTM is 
+component size. This is in part because weaving of very large fiber preforms is 
+challenging and requires a very large weaving machine. It also requires a large 
+injection machine capable of multiple injection sites to ensure the complete 
+infiltration necessary to avoid formation of voids. 
+In practice, there are several significant challenges associated with manufacturing large 
+PMC structures today. Among these, perhaps the most significant are manufacturing 
+cost and the difficulty associated with making large, nonaxisymmetric components. 
+Large axisymmetric components that can be produced by winding tows of pre-preg are 
+clearly possible today, as demonstrated by the Boeing 787 fuselage whose section is 
+shown in Figure 2. For other shapes, because the load-bearing capability of PMCs 
+depends on the transfer of externally imposed loads to the strong, stiff fibers, joints 
+that intersect the principal load path become problematic. This is because the fibers 
+and, as a direct consequence, the load path are discontinuous, requiring local section 
+size adjustments to offset this local structural inefficiency. Thus, achieving the most 
+structurally efficient use of PMCs requires monolithic structures with continuous fibers. 
+In large structures, this is at best a challenge. Even in the Boeing 787's PMC fuselage, 
+mechanically fastened joints are used to connect adjacent barrel sections. In the 
+fuselage, as in any cylindrical pressure vessel, the principal stresses are hoop stresses 
+stemming from pressurization during flight. However, the compromise in structural 
+efficiency is minimized by the circumferential orientation of the joints. Although these 
+bolted joints add weight, the overall structural efficiency of the PMC structure is still 
+better, albeit considerably more expensive, than a longitudinally and circumferentially 
+stiffened Al structure. The circumferential joints also create discontinuous longitudinal 
+crack paths that improve the structure's damage tolerance. Some of the added expense 
+of the PMC fuselage stems from the use of Ti alloy fasteners because of the galvanic 
+coupling issues that would accompany Al or steel fasteners. 
+For other applications, which are limited by different material properties, the PMC 
+system can be tailored to optimize structural performance. This is possible because 
+both the matrix and the fiber can be independently selected. Moreover, the fiber 
+"architecture" (fiber orientation, weave geometry, and fiber volume fraction) can be 
+varied spatially to optimize load-bearing capability under complex stress states. For 
+example, again drawing on recent applications in commercial aircraft, the fan blades of 
+the large, high-bypass-ratio turbofan engine {GE90) produced by General Electric for 
+the Boeing 777 are made from PMCs. The limiting design consideration for these fan 
+blades is resistance to bird strikes. To optimize the PMCs' impact resistance, a medium­
+modulus, high-tensile-strength carbon fiber was selected in combination with a 
+thermoplastic toughened epoxy matrix. Furthermore, the fiber architecture was set to 
+optimize the bending strength under the impact of a bird. The GE90 fan blades are 
+produced by hand layup and are quite costly to produce. In the 10-plus years that 
+these fan blades have been in service, not a single unscheduled engine removal related 
+to the PMC fan blades has occurred. The competitive fan blade technology for B-777-
+class engines is hollow Ti, which is used by both Pratt & Whitney and Rolls Royce. By all 
+informal accounts, these blades are cost intensive. This example supports the unwritten 
+rule that the pathways leading to high-performance, high-value structures typically are 
+5 
+UNCLASSIFIED/ ,sroR. OFFl&IAL W&li 8Ptllf

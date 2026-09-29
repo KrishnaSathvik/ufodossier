@@ -1,0 +1,42 @@
+UNCLASSIFIED/ Jfdk OFFICIAL U.!I! 9HL>f 
+Ion lqectOI' fl 
+llagllelE
+... 
+Pllsllla 
+Tlmtstl 
+\ 
+Figure 9. Colliding Beam Fusion Reactor [Cheung et al. 2004] 
+Dense Plasma Focus Reactors 
+The Dense Plasma Focus (DPF) designs that operate at extremely high plasma pressure 
+because of the intense electrostatic pulse have been evaluated for (p,B 11)-fueled 
+propulsion systems. A parametric analysis by Knecht12 has shown that a system of 16 
+to 24 Mg can produce 400-900 MW of power with thrusts of 500-1000 kN at lsp of 
+1,500-2,000 seconds. More detailed analyses of this design indicate that for a 16-Mg 
+system using direct energy conversion coils at the thruster nozzle, (Figure 10) 
+producing an lsp of about 1300 seconds at 800 MW could generate about 1000 kN of 
+thrust .13 
+This system is continuously fueled with H2 and boron gas, and the electrodes are pulsed 
+at a 10-Hz rate or higher with the >100 keV plasma fusion products and unfused fuel 
+expelled to provide thrust after passing through a direct-energy converter cooled by a 
+separate H2 coolant that is also expelled in the plasma stream. 
+Magneto - Inertial Confinement 
+Reactors 
+The concept of magnetized target fusion 
+using field-reversed configuration plasmoids 
+has been tested. 14 A high-density 
+compressed plasmoid is formed by a staged 
+axial and radial compression of two 
+colliding/merging FRC plasmas where the 
+energy that is required for the implosion 
+compression and heating of the magnetized 
+target plasmoid is stored in the kinetic 
+energy of the plasmas used to compress it. 
+The confinement properties are expected to 
+achieve ignition for aneutronic fuels and may 
+lead to the smaller reactor mass for 
+propulsion of 20 Mg producing 
+300 MW (shown in Figure 11). 
+Figure 10. DPF Thruster System 
+with Direct Conversion 
+UNCLASSIFIED//FOR OfifilCIA.k Wi& 0NLY 
+12

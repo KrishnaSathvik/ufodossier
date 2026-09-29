@@ -1,0 +1,46 @@
+UNCLASSIFIED/ /fQR OFFICI0k WSE 8HLI 
+drive failure detection and algorithm takeover in the readout phase is the error correction 
+scheme. 
+In a quantum system the error correction is accomplished in a similar manner; that is, the 
+state of a qubit is defined across multiple subspaces of the logic space and then several 
+measurements are performed on the subspace that do not disturb the state itself. The 
+original state can be reconstructed by the partial measurement. As an illustrative example 
+consider the one-qubit space defined by an electron spin-up or spin-down. First, re-define 
+this 1-d state in an oblique three-dimensional system such that spin-up is in the (+x,+y,+z) 
+octant, and spin down is thus in the (-x,-y,-z) octant. If one measures x as positive the 
+original state was up; measuring x and y both positive provides additional assurance the 
+state was actually up. Measuring x and y different allows z as a tie-breaker. In this example 
+system, 33% error rates are allowed. Of course realizable systems are more complex and 
+only tolerate error rates in the 3% range. This difference is mainly due to the need to disturb 
+the system as little as possible in what is known as a quantum non-demolition measurement 
+(a QND measurement). (13, 14) In summary, fault tolerance is possible if a QND mechanism 
+to measure qubits can be demonstrated. 
+SCALABILITY 
+Once a closed box has been constructed, the next consideration in successful quantum 
+information processing (QIP) technology is whether circuit elements are scalable. That is, 
+whether elements shown to perform as quantum bits can be combined into larger circuits at 
+a reasonable cost of resources (computation time, decoherence time, physical space, or 
+required power). The exact nature of the required engineering scale-up is specific to each 
+technology. 
+The unit of QIP (quantum information processing) is the qubit. 1 Different from digital logic, 
+quantum mechanics increases the information content in N qubits through superposition. 
+That is, quantum waves can travel through several paths and contain a superposition of 
+states, increasing the amount of information in each channel. Furthermore, any system of N 
+qubits can have degrees of entanglement. This entanglement makes the simple example 
+state (1,0,0) different from (1,0,0) with (x,0,0) entangled, different from (1,0,0) with (1,0,x) 
+entangled, etc. When there are 4 qubits, entanglement can occur with 2, 3 or all 4 bits, as 
+well as 2 with 2. The logic space quickly grows to Bunyanesque proportions and is easily 
+outside of the rea lm of simulation or even representation by Nor even N2 classical bits. 
+Considering that one could start with qupits or qudits (see footnote I) it is quickly obvious 
+that quantum computers have enormous computational potential when scalable. 
+UNIVERSAL LOGIC 
+The very large numbe r of possible states of a quantum computer spans what is known in 
+mathematics as a Hilbert space, a generalized version of Euclidean space with arbitrary 
+(finite or infinite) dimension (Euclidean space having 3 dimensions). The concept of a 
+universal logic requires that this large Hilbert space be accessible with a finite set of control 
+operations. For most designs these control operations are small in number and are the 
+quantum analogues of digital gates performing operations on qubits. 
+1 For pedagogy, the discussion is limited to qbits ; however, p and d states could also be used as a basic unit (qpits or 
+qdits ) thus greatly expanding the possible Information content In a single channel. 
+UNCLASSIFIED/ /FOR &FFl&I.Tik WSE &Hk\f 
+12

@@ -1,0 +1,57 @@
+UNCLASSIFIED / / FOR-OFFLGEAL-USE-Oh—
+
+A good many reports from both the human and the animal literature inform us of the
+mechanisms by which RF can alter neurochemical processes. These RF effects are not
+always elucidated as being high-field, or near-field, but in the laboratory they are “real
+field.” Understanding the mechanisms is critical to understanding why some neuro-
+psychiatric effects, if not “injury” occur in non-specific unclear dose-response patterns:
+sleep disturbances, prolonged anxiety, acute and chronic headache including migraines,
+seizures, and sensations of peripheral numbness, tingling, and parasthesiae are
+reported often by workers near RF emitters that are “safe” and ubiquitously by persons
+who encounter anomalous aerospace objects.
+
+There are four separate problems, and four separate approaches to their mitigation in
+attempting to analyze the medical literature.
+
+e Much of the literature is with animals, of necessity: humans can not be
+experimented upon at the levels of incident energy with which we are most
+interested. But the experiments are often well-done, and inform us what is occurring
+at the cellular level, from which we can make reasonable prediction and design of
+forensic investigations for event investigations.
+
+e By definition, the RF / EMF / NIEMR bandwidths are huge, as are the wavelengths
+that may {or may not} penetrate skin and skull to actually impinge upon the cells
+/neurons to cause putative injury, or sub-clinical effects in psychological and/or
+psychiatric effects. We have reason to believe in the real-world the emitters are
+complex, and the frequencies are multiple. But while there are currently
+approximately 300,000 discreet science citations on “RF injury and brain” and the
+good peer-reviewed exemplars number approximately 73, [41] the numbers will
+admit to a meta-analysis with careful selection; it is clearly possible to determine
+mechanism of action for discrete experimental condition, and analysis of inter-
+subject and intra-neurochemical findings should be fruitful.
+
+e There are often quite different effects, as a function of epidemiological study designs.
+Most of the effects across thousands of subjects show no injury. That is to be
+expected; Research is dominated by low-level dose effects {or not}. We should look
+for acute, mid-to-high dose experiments in animals, that are peer-reviewed and
+thus have been replicated, and which can be compared with accidental exposures
+with humans in terms of frequency / bandwidth and dose to tissue.
+
+e Sometimes the best research shows contradictory results. And, examination of the
+subtle differences can possibly lead to striking and testable hypothesis - generation.
+
+e There are sufficient behavioral studies in the literature to at least indicate in man
+and {other} primates what are the lowest broadband mixed frequency levels at
+which no acute effects occur. A seminal study done jointly by Syracuse University
+and the Armstrong-Brooks USAF Laboratory defined the levels below which standard
+exposures on the order of minutes did not alter neuropsychiatric test scores, or
+decision-related scores. Ultra Wide Band (UWB) RF at a pulse repetition rate of 60Hz
+and a bandwidth of 100 MHz to 1.5 GHz (peak power levels between 250-500 MHz)
+with peak E-Field strength of 250 kV/m in repeated exposures produced no
+detectable neuro effects [42].
+
+As the purpose of this paper is to argue that data exists to “reverse engineer”
+propulsion systems of anomalous aerospace vehicles, independent of origin, based on
+17
+
+UNCLASSIFIED &-F0R-OFF2-6244.-U55-08-—=

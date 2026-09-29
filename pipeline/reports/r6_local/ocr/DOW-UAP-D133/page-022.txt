@@ -1,0 +1,32 @@
+UNCLASSIFIED/ /FOR OFFI@IAI! WSE OHi!:¥ 
+Offer Waves 
+Non&r-r 
+ei,naI 
+Confirmah.on Waves 
+ca... 
+G) 
+E ca 
+u 
+Comple12d Transaction 
+Figure 9. Transactional Interpretation Diagrams for Case 2, The left -going offer waves pass through both 
+slits of S2, where the waves are combined and detected by the center detector (circled) . The momentum-entangled 
+right -going offer waves pass through the both slits of S1, which are the optical images of S2, and interfere at th e 
+camera. Confirmat ion waves return, and the two -slit transact ion forms. 
+Therefore, from the point of view of the transactional interpretation of quantum 
+mechanics (Reference 19), the nonlocal connection between detection events at the two 
+ends of the experiment arises because the detection transactions for the two entangled 
+photons must share a "two -way handshake" at the nonlinear crystal, a condition that 
+can be realized only when the summed vector momenta of the two photons equals that 
+of the pump-laser photon that created them. This view explains Dopfer's observations 
+(Reference 19) and indicates that, in the absence of overwhelming noise or restrictions 
+imposed by coherence/entanglement complementarity, no coincidence should be 
+required between the two detectors in the experiment to observe that change in the 
+pattern observed at D1 when detector D2 is moved. This remains true in the 
+configurations discussed below, when slit S2 is lengthened with many kilometers of 
+fiber-optic light transmission cable to enable superluminal and retrocausa l signal 
+transmission. In other words, analysis of the nonlocal communication test system with 
+the transactional interpretation reveals no "show-stopper" aspects that would prevent 
+superluminal and retro-causa l signal transmission. The transactional inte rpretation is 
+neutral on whether such signals are possible. 
+UNCLASSIFIED/ /fOR OFFI@I.t.k W&liii 0PIL¥ 
+16

@@ -1,0 +1,46 @@
+UNCLASSIFIED/ /fOR. 8FFI61Ak U&i 0'911.¥ 
+inclination relative to the ecliptic, will reduce the maximum eclipse period to about one 
+hour. Inclusion of spacecraft batteries is then justified. Passive thermal control will be 
+used to keep the spacecraft electronics within 10°C of ambient temperature, and hence 
+will not require electric power for heating. Using such a scenario, a battery 
+requirement of about 2 amp-hours at 3.3 volts will allow full spacecraft functionality 
+during an eclipse. Twelve AA size Lithium- ion batteries meet the requirement and only 
+weigh 480 grams. 
+Circuits that have high current demands, such as thruster solenoids and fuses, need to 
+be augmented with components that have a lower power density than batteries, but 
+also have lower internal resistance. Ultra-capacitors are being explored for this 
+application. 
+Miniaturization of the power system electronics (PSE) to meet the weight and size 
+requirements of the nanosats is a considerable challenge. The ideal approach is to 
+eliminate the PSE completely, by having a fixed electrical load and batteries provide the 
+needed bus regulation. This yields a simplified system consisting of solar cells, 
+batteries, and minimal circuitry. A more immediate approach to miniaturization is to 
+produce hybrid modules that measure approximately 5.08 cm x 3.17 cm x 1.27 cm 
+and weigh 100 grams for each PSE component, namely the solar array regulator, 
+battery regulator, and low voltage power converter. The combination of these three 
+components into one module will reduce the size and weight another order of 
+magnitude. 
+THERMAL 
+Although an inclination change by 10° renders maximum shadows below two hours, we 
+evaluate the case of a maximum eight hour shadow for the purpose of generality. 
+Three thermal configurations are considered: (1) top and bottom of the nanosat are 
+insulated, the inside of the cylindrical solar array is not insulated, allowing internal heat 
+transfer between the internal equipment and the array; (2) the entire nanosat is 
+insulated, top and bottom as well as inside the solar arrays, except for a radiator on 
+top, sized to radiate the internal electrical dissipation; and (3) the internal equipment is 
+thermally isolated as well as possible from an "outside shell" with a controllable two­
+phase heat transport device which can be "shut off" during Earth shadows, serving as 
+the only thermal coupling between the equipment and a radiator on the outside surface. 
+The key advantage of configuration (1) is its reliability, or robustness. Since the 
+temperature of the nanosat is set by a high energy balance (heat in - heat out) 
+dominated by the absorbed solar energy, the operational temperature of the nanosat is 
+relatively insensitive to top and bottom multilayer insulation (MLI) properties, or, 
+largely, to internal heat dissipation. However, the feature that yields the operational 
+reliability, i.e., the high energy balance, also results in a rapid drop in temperature 
+when the solar load disappears during the Earth shadow. During the maximum eight 
+hour eclipse used for this evaluation, it was found that internal temperatures dropped 
+by about 60°C, which would result in internal temperatures in the range of - 30°C to 
+- 40°C. At the same time, the solar arrays dropped to a temperature of about 60°C. 
+Based on past experience, these end-of-eclipse temperatures are reasonable. 
+UNCLASSIFIED,<,<FOA QFFIEiIAL HSI!! OHLY 
+6

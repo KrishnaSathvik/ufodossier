@@ -1,0 +1,22 @@
+UNCLASSIFIED/ ,'FOR OFFI@IAI:: WSE ONl::Y 
+Flight Mode Con 
+Figure 10. Flight Deck of Contemporary Aircraft. As one example, the Airbus A380 Flight deck contains 
+displays and controls that are indicative of displays and controls that will be needed in breakthrough-era craft. 
+Image source : <http ://www .flickr.com/photos/83823904@N00/641S6219/> (September 2007) 
+Primary Flight Display 
+The primary flight display (PFD) provides information about the vehicle's orientation 
+(pitch, roll, and compass heading), motion (speed and rate of climb), and alt itude. It is 
+centrally located in front of the co-pilot's seat, and a smaller version is available to the 
+right of the pilot's navigation display. Figure 11 shows a close-up of a PFD that also 
+shows its heritage from the mechanical instruments of older aircraft that have now 
+been merged into a single computer-controlled instrument. 
+This instrument is vital to the safe operation of an airplane. It displays orientation 
+(pitch, roll, compass heading), motion (forward airspeed, rate of climb), and position 
+relative to a critical axis (altitude). This particular graphic was selected because it also 
+shows the lineage to the individual mechanical displays of prior aircraft; artificial 
+horizon, airspeed, compass heading, altimeter, and rate of climb. Per many of the 
+recommendations from human factors research, a blend of graphical and alphanumeric 
+elements are now used, and t he central orientation graphic, t he "artificial horizon," is a 
+direct physical analogy to the physical world. 
+UNCLASSIFIED/fFOA. OFFICIO ls. Plili ONls.¥ 
+29

@@ -1,0 +1,30 @@
+UNCLASSIFIED/ fFOA OFFIEIAk U&li ,u1k¥ 
+THE GAS-CORE POSITRON ROCKET 
+The gas-core positron concept follows nuclear gas-core concepts, 31, 32, 33 which are 
+different from the solid-core concept in that gamma rays directly heat a fluid under 
+pressure. The limit of the solid-core approach is melting temperatures of the solid 
+matrix gamma ray attenuator. By direct heating, temperatures can increase 
+significantly as long as the gas does not appreciably heat the walls. 
+Four versions of the gas-core concept are illustrated in Figure 12. Synchronous with 
+pulsed Ps injection are (a-c) pulses of LN2 or LNe or LH 2 with LXe gamma ray 
+attenuator and (d) pulses of LH2 where Ps is encapsulated in lead, a gamma ray 
+converter. For fluid injection, a turbo -pump (not shown) is located upstream, with 
+power obtained from a positron Brayton cycle system described later in th is paper. 
+Results from computational fluid dynamics codes reveal that high-density regions of the 
+fluid move away from the gamma ray source when the power in the system exceeds 
+300 megawatts . Under these conditions, the propellant does not efficiently absorb 
+gamma rays. Furthermore, calculations of heat required for cont inuous operation 
+suggest the vortex configuration of (b) breaks down and reverts to two-fluid flow. 
+However, both the two -fluid, flow-through model and the Ps lead-cartridge concepts 
+show promise if the mass flow rate of the hydrogen propellant exceeds that of the 
+xenon or lead by a factor of five. By operat ing in a pulsed mode , one should be able to 
+control the positron delivery into the chamber core. With complete absorption of 
+gamma rays in the 2-cm lead casing, performance of the system matches that of 
+previously examined systems. 34, 35 
+Thrusts of 130 kN (1,000 atmospheres) are predicted for a single-engine system with 
+an effic iency of 85 percent. Burn times are 30 minutes for tiV = 3. 7 km/second (sec) 
+with 25 mg of positrons consumed for a 50,000-kg burnout mass. The limit of the gas­
+core concept occurs near the th resholds for ionizat ion of hydrogen, corresponding to l sp 
+of~ 2,500 sec. 
+UNCLASSIFIED/ ,'FOR orr1e11et b!IE OHLf 
+14

@@ -1,0 +1,118 @@
+CODE 59 LIGHT COLOR 
+X Variable 
+y 
+0 White 
+1 Black 
+2 Grey 
+3 Red 
+4 Orange 
+5 Yellow 
+6 Green 
+7 Blue 
+8 Violet 
+9 Other 
+CODE 62 SPEED 
+CODE 60 COLOR GROUP CLASSIFICATION CODE 61 NUNBER 
+X Light glow 
+y 
+0 White 
+1 Metallic 
+2 Red 
+3 Orange 
+4 Yellow 
+5 Green 
+6 Blue 
+7 Violet 
+8 Black 
+9 Other 
+CODE 63 SHAPE 
+X 
+y 
+0 1 
+1 2 
+2 .3 
+3 4 
+4 5 5 6 
+6 7 -10 
+1 11-20 
+8 21-30 
+9 31 or more 
+CODE 64 SUBTENDED VISUAL ANGLE 
+(Referred to sun diameter) 
+Variable X Variable 
+y 
+X Decreased in size y 
+Hovering, stationary 
+Less than 100 mph 
+100 - 400 mph 
+More than 400 mph 
+Meteor-like 
+Not stated 
+Other 
+0 Ellipse 
+1 Rocket 
+2 Conventional aircraft 
+3 Unconventional aircraft 
+4 Meteor, comet 
+5 Lenticular 
+6 Conical 
+7 Teardrop 
+8 Flame, t ails, fire 
+9 Fire 
+0 0.1 
+1 0.2 
+2 o.5 
+3 0.15 
+4 1.0 
+5 1.5 
+6 2.0 
+7 4.o 
+8 4.0 to 10.0 
+9 Other 
+CODE 65 LIGHT BRIGHTNESS (Intensity) CODE 66 ANGULAR VELOCITY 
+X Decreased y 
+0 Sunlight on mirror 
+l Sunlight on aluminum 
+2 Sunlight on plaster 
+3 Sunlight on stone 
+4 Sunlight on soil 
+5 Brighter than moon 
+6 Like moon 
+7 Duller than moon 
+8 Barely visible 
+9 Other 
+306 
+X Variable 
+y 
+O Zero 
+1 Very slow, 1° per second 
+2 Slow, 3° per second 
+3 Moderate, 6° per second 
+4 Rapid, 12° per second 
+5 Very fast, 30° second 
+6 Extremely fast, 90° per second 
+7 More than 90° per second 
+8 
+9 Other 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I

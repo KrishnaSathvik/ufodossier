@@ -1,0 +1,40 @@
+UNCLASSIFIED / / FOO FFtGHAE-USE-ONE-
+
+pulses (STT switching). Figure 9 shows scanning transmission x-ray microscopy
+(Reference 53) images of in-plane components of magnetization M - Mx in panel (a)
+and My in panel (b)—in the free CoFe layer (indicated by blue ellipse) of a 100x150-nm?
+magnetic nanopillar. The images were obtained by scanning a focused (diameter ~ 30
+nm) circularly polarized x-ray beam across the CoFe layer, with the photon energy
+tuned to the characteristic Co L3 resonance to provide magnetic contrast through the x-
+ray magnetic circular dichroism effect (Reference 54), and by monitoring transmission
+of the x-rays as a function of the position x, y with a fast avalanche detector. The M-
+vector field of the free layer can be reconstructed from the measured Mx and My
+components as illustrated in Figure 9c, and the ultrafast x-ray microscopy technique
+provided a means to monitor this field as a function of time with ~100-picosond
+resolution. The spatial resolution of the technique is set by the spot size of the x-ray
+beam (~30 nm) and currently limits its application to spintronic devices >100 nm in
+size (Reference 52). Potentially, however, technical development of the ultrafast x-ray
+microscopy may lead to an ultimate technique for STT studies that can probe the M-
+vector field on the nanometer length scale with picosecond time resolution.
+
+Figure 9. Scanning transmission x-ray microscopy images of Mx (a) and M, (b) components of
+magnetization M combine into the vector field (c), which represents the direction of M in the plane of
+the CoFe free layer. (Reference 52)
+
+3.3 STT APPLICATIONS
+
+The STT method to manipulate magnetic moments by an electrical current offers
+unprecedented spatial and temporal control of spin distributions and attracts
+considerable attention because of its potential application in a broad range of
+technologies. The perspective of STT for GHz communication applications and in
+magnetic recording technology is discussed.
+
+The STT application in high-frequency technologies is based on the spin-transfer-
+induced precession of spins. The previous section discussed how precession of
+magnetization in GMR devices can convert a dc current input into an ac voltage output.
+The frequency of this output can be tuned from a few GHz to > 100 GHz by changing
+the applied magnetic field and/or the de current, effectively resulting in a current-
+controlled oscillator for use in practical microwave circuits. Hence, the STT effect in
+
+10
+UNCLASSIFIED / /F@R-OFF262A4-US5-Ohie

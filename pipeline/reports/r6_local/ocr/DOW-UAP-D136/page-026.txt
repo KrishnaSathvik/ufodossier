@@ -1,0 +1,32 @@
+UNCLASSIFIED/ /P'OR: OP'P'l@IAL WS& 8NI.¥ 
+thermoelectric sensors have improved reproducibility of the sensors, but there has only 
+been limited success in applications of implantation into the body. 
+Neuroengineering by BioMEMS 
+BioMEMS types of devices, as we understand them today, were used first in 
+neuroscience. There has been a long history of the study of the electrical nature of body 
+tissue dating back to the days of Galvani and Volta. Frog nerves were found to be 
+electrically stimulatable and the first recordings of bioelectrical events were 
+accomplished very early with the invention of the string galvanometer. 
+More recently, pointed wires inserted into muscle, nerve and brain have given way to 
+MEMS electrode systems that are made on silicon supporting substrates and the 
+processes of photolithography used to define electrical current pathways. Figure 17 
+shows a modern electrode system for detecting and recording electrical signals from 
+living things. Each of the square regions is an exposed film of platinum while the 
+thinner conductors that contact the pads are insulated by a thin layer of a plastic and 
+conduct the detected electrical signals to a connector system (not shown). 
+Figure 17. A MEMS Biopotential Electrode System. It is approximately 100 microns in width . Each square pad 
+is an electr ically sensitive region. (Wikipedia) 
+BIOELECTRIC EVENTS 
+The living processes of biology can in some ways be likened to that of a battery. The 
+metabolism of life produces the charging of the battery while it discharges through a 
+myriad of bioelectrical events that produce movement, thought, and cognition. 
+The transfer of electrical charge in the form of ions, mostly sodium, potassium and 
+chloride is initiated by bioelectrically excitable cells of the nerves, muscles, and neurons 
+of the brain. Collectively they constitute the wiring of the body. These ions result from 
+the salts that are part of the composition of living things that have evolved from the 
+sea. 
+The movements of these ions constitutes the flow of an electrical current in tissues and 
+are called bioelectrical currents. These currents give rise to electrical potentials that can 
+be detected from the skin or by biopotential electrodes inserted into organs or muscle. 
+UNCLASSIFIED/ {FOR OFFICIO! !Pfli ODIi.¥ 
+20

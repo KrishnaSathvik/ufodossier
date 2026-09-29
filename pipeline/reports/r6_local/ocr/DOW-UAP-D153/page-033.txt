@@ -1,0 +1,32 @@
+UNCLASSIFIED/ /P91t 9Ffl@IAL l:ISIE 8HLY 
+signal 
+detector 
+local 
+oscillator 
+(aLO) 
+Figure 10. Schematic of a Balanced Homodyne 
+Detector. (courtesy of Ulf Leonhardt) 
+Furthermore, the balanced homodyne detector is also an amplifier. The LO amplifies 
+the signal by the mutual optical mixing of the two. In other words, the homodyne 
+detector is an interferometer that can be measurably imbalanced by a single photon in 
+the signal mode because the reference field is very intense. A very important technical 
+advantage of this is that the amplified signal is well above the electronic noise floor of 
+the photodiodes. The signal amplitude is enhanced so that even the noisy linear­
+response photodiodes can detect the quantum features of the signal with single photon 
+resolution. Because the LO serves as a coherent amplifier, it also chooses the signal 
+mode. The LO singles out one spatial-temporal (bosonic) mode from the rest of the 
+cont inuous quantum field "light" (that matches the LO field). In this way the observer 
+separates the quantum object (a single optical mode) from the rest of the world. The 
+mode function is given by the spatial-temporal shape of the LO beam at the detector 
+surface and during the measurement time interval [0, T]. The overall phase and 
+intensity of the LO is comprised in the complex amplitude ULO. Shifting the phase 0 = 
+arg(a LO ) rotates the measured q0 . The observer defines via the LO the frame in space 
+and time that is subject to the field-quadrature measurement. By tailoring the shape of 
+the LO beam high spatial-temporal resolution can be achieved. 
+Photodetection is usually not completely efficient in practice so it is important to 
+describe the influence of inefficiencies on homodyne detection. This is easily done by 
+using the simple model for losses in direct photodetection that was given in Section 
+IIIB-2. We imagine fictitious beam splitters to be placed in front of the two (assumed 
+ideal) detectors in the measurement setup (see Figure 11). We use 
+UNCLASSIFIED// FOR OFFICIAL tJ.!! 9HLY 
+29

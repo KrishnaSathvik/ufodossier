@@ -1,0 +1,53 @@
+{
+  "filename": "LLE-UAP-D002.pdf",
+  "generated_at": "2026-09-28T20:55:16.743242+00:00",
+  "page_count": 2,
+  "usable_text_chars": 3158,
+  "stats": {
+    "native_good": 2,
+    "native_thin": 0,
+    "needs_ocr": 0,
+    "ocr_failed": 0,
+    "ocr_succeeded": 0,
+    "pages_ocrd": 0,
+    "ocr_unrecoverable_thumbnail": 0
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "native_quality": {
+        "page_number": 1,
+        "native_char_count": 1910,
+        "printable_ratio": 0.999,
+        "alpha_ratio": 0.729,
+        "word_count": 265,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "sufficient clean native text"
+      },
+      "final_category": "native_good",
+      "text_method": "native",
+      "char_count": 1910,
+      "text": ""
+    },
+    {
+      "page_number": 2,
+      "native_quality": {
+        "page_number": 2,
+        "native_char_count": 1216,
+        "printable_ratio": 0.984,
+        "alpha_ratio": 0.698,
+        "word_count": 187,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "sufficient clean native text"
+      },
+      "final_category": "native_good",
+      "text_method": "native",
+      "char_count": 1216,
+      "text": ""
+    }
+  ],
+  "combined_path": "/Users/krishnasathvikmantripragada/Webapps/ufo-dossier/pipeline/reports/r6_local/ocr/LLE-UAP-D002/combined.txt",
+  "production_writes": false
+}

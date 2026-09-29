@@ -1,0 +1,51 @@
+UNCLASSIFIED/ /FOA QFFI@IAL l:l!H! 9HLY 
+Chapter 3: Studies in Cognitive Workload for Air Traffic 
+Controllers 
+There are a few areas of research applicable as analogues to the piloting of several 
+aircraft. The largest of these areas analyzes the supervisory functions of air traffic 
+controllers (ATC). In a typical ATC duty environment, a single operator is responsible 
+for many fully-autonomous aircraft. ATC is either airport -based or en-route. Airport­
+based facilities include ground control, local control for active runways (Tower control), 
+and approach control, which in the US is called Terminal Radar Approach Control, or 
+TRACON. A zone of air-controlled space assigned to a specific control center is that 
+center's sector; similarly, a given controller is responsible for a sector of airspace. 
+Between airport-controlled sectors, aircraft are monitored by an en-route facility. 
+TRACON is the most cognitively demanding function in this chain. Terminal controllers, 
+as ATCs are called at TRACON facilities, are responsible for departures after take-off, 
+and approaches and flyovers within about a SO-mile radius of the airport.9 Approaching 
+aircraft need to be vectored by the controller into an appropriate flight path for landing, 
+avoiding all other aircraft in the air or soon to be in the air, and then handed off to the 
+Tower controller for landing and ground instruction. Departing flights and flyover traffic 
+mainly need to be monitored for conflicts. Approaching aircraft are by far the most 
+cognitively challenging in the ATC task. Images of air traffic controller environment and 
+displays are shown in Figure 3.h 
+Errors in flight control are called anomalies in the industry. The most common aircraft 
+anomaly is deviation from flightpath in en-route sectors. This anomaly is corrected by 
+pilots themselves or after instruction from the appropriate ATC. The most common ATC 
+error is miscommunication between controllers in an aircraft handoff between sectors. 19 
+A study in 1997 by the National Academies showed that ATC errors occurred in both 
+high and low workload conditions, as predicted by overload and disengagement. 20 
+In looking at the cognitive limits in ATC, we should seek where typical controllers enter 
+the B region of workload. Traffic load defined as simply the number of aircraft does not 
+by itself show the complete picture of ATC workload. In a study of professional 
+controllers in 2006, Boag recorded subjective measures of workload and reaction time 
+when static air traffic displays were presented. Displays included air traffic conflicts of 
+differing complexity that required resolution. Complexity in the display was objectively 
+ranked using the Method of Analysis of Relational Complexity (MARC).21 Results showed 
+that a relatively small number of aircraft can greatly increase the perceived workload. 
+Boag concludes that perceived complexity is the number one factor in determining 
+workload, and that although conflicts are the major source of complexity in the ATC 
+task, and these can be modeled somewhat using a combination of aircraft separation 
+and trans ition1 variables, individual differences still have significant impact on when a 
+controller may reach overload. 22 
+9 Each facility will vary in TRACON sector radius. For smaller airports, TRACON functions may be performed by a 
+nearby en-route facility. 
+h Of historical note in the US Air traffic Control industry was the industry -wide strike begun on August 3, 1981, by 
+the nearly 13,000 ATC specialists. Only 1300 obeyed a Presidential order to return to work under the "peril to 
+national safety" prov ision of the 1947 Taft-Hartley Act. On August 5, 1981 the remaining 11,345 controllers were 
+fired and banned for life from federal service. The FAA rebuilt the force to pre-strike levels during the rest of the 
+1980s . This event resulted in a dearth of research during the 1980s on air traffic control professionals. 
+1 An aircraft transition is an event such as landing, hand-off to another controller, or entering/leaving a sector, 
+where a sector is defined as a controller's airspace of responsibility. 
+UNCLASSIFIED/ /FAR AEEICl\k W&li 8HLY 
+8

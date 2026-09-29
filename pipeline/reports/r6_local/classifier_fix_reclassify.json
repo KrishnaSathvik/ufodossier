@@ -1,0 +1,79 @@
+{
+  "generated_at": "2026-09-28T21:04:21.358146+00:00",
+  "changed": [
+    {
+      "filename": "DOW-UAP-D104.pdf",
+      "before": [
+        "historical_case_file",
+        "extract"
+      ],
+      "after": [
+        "personnel_record",
+        "source_only"
+      ],
+      "reason": "Personnel/service-history administrative record without encounter narrative"
+    },
+    {
+      "filename": "DOW-UAP-D124.pdf",
+      "before": [
+        "historical_case_file",
+        "extract"
+      ],
+      "after": [
+        "research_paper",
+        "source_only"
+      ],
+      "reason": "Technical/research or DIRD vocabulary without an encounter framing"
+    },
+    {
+      "filename": "DOW-UAP-D126.pdf",
+      "before": [
+        "historical_case_file",
+        "extract"
+      ],
+      "after": [
+        "research_paper",
+        "source_only"
+      ],
+      "reason": "Technical/research or DIRD vocabulary without an encounter framing"
+    },
+    {
+      "filename": "DOW-UAP-D127.pdf",
+      "before": [
+        "historical_case_file",
+        "extract"
+      ],
+      "after": [
+        "research_paper",
+        "source_only"
+      ],
+      "reason": "Technical/research or DIRD vocabulary without an encounter framing"
+    },
+    {
+      "filename": "DOW-UAP-D137.pdf",
+      "before": [
+        "historical_case_file",
+        "extract"
+      ],
+      "after": [
+        "research_paper",
+        "source_only"
+      ],
+      "reason": "Technical/research or DIRD vocabulary without an encounter framing"
+    },
+    {
+      "filename": "DOW-UAP-D140.pdf",
+      "before": [
+        "historical_case_file",
+        "extract"
+      ],
+      "after": [
+        "research_paper",
+        "source_only"
+      ],
+      "reason": "Technical/research or DIRD vocabulary without an encounter framing"
+    }
+  ],
+  "extract_count": 7,
+  "source_only_count": 52
+}

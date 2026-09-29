@@ -1,0 +1,42 @@
+UNCLASSIFIED/ ,'FOR OFFI@IAI:: ~SE OPtl::Y 
+effort on the part of the operator and are more prone to mode errors and keyhole 
+effects, particularly during high-stress situations. It was also found that automatically 
+changing display formats added anxiety and mistrust of the system, because the user 
+was now burdened with the additional task of determining why the display just 
+changed. A survey of Boeing 757 and 767 pilots in 1989 revealed that over half felt 
+their work load had actually increased by the high levels of automation introduced into 
+these cockpits. In practice, users forced adaptive displays into fixed displays to improve 
+their utility. 35 
+The ultimate lesson is that the most critical displays should be fixed to take advantage 
+of the naturally efficient search method where humans use mental models that are 
+analogous to physical objects. For other functions that are less time-critical and where 
+further details are required (e.g., entering destinations and way points into a flight 
+plan), adaptive displays are more advantageous because they require less console 
+space. Other lessons include the following: 36 
+• Following the same recommendations for the individual elements of adaptive 
+displays that are given for graph ical and alphanumeric display components. 
+• Matching the performance characteristics of the displays to the operator's own 
+internal model of the system, and they should be structured to accommodate a 
+user's knowledge. 
+• Packaging information into appropriate, meaningful clusters. 
+• Representing logical and causal relationships should be implemented. 
+• Using "fewer displayed var iables with many states" is recommended over the display 
+of "many variables with few states." This necessitates arranging variables in a 
+hierarchy where the lower-level variables are combined into higher-level variables. 
+• Using color to improve the speed of human comprehension. 
+• Accessing back-up information should be easy (familiar procedure), and it should be 
+easy to browse through the system without disturbing its operation. 
+Virtual Displays and Augmented Reality 
+An extension of the adapt ive screen is a virtual display where the information is 
+projected into a field of view without the need for a physical display screen. These can 
+function as adaptive displays or be used with gesture-based input systems. 
+Although far-future cockpit technology is still being researched, this study assumes it to 
+be fully matured, such that any information can be displayed clearly in the pilot's full 
+field of view. That being said, the other recommendations about accommodating 
+human norms and the lessons of adaptive displays should be heeded. By that, it is 
+meant that the critical information should remain consistent, and the functions that can 
+tolerate slower user actions can be accommodated with pop-up screens. Also, rather 
+than relying solely on a virtual display, the critical displays should still have a physical, 
+redundant set of displays. 
+UNCLASSIFIED/,<FOA OFFICIO ls Plili ONI.¥ 
+24

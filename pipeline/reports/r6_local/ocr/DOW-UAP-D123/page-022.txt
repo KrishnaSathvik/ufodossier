@@ -1,0 +1,62 @@
+UNCLASSIFIED//FOR OFFl@IAL l!ISl!!! 9Ht5i" 
+components. Alternatively, solar collectors or closed-loop nuclear reactors could be 
+employed . 
+To improve ablati on efficiency, annih ilation gamma rays must be wavelength shifted 
+(WLS) by passing them through a high-Z WLS mater ial. The material of choice, lead, 
+also serves as the shell of the Ps pellet. The pellet vapor izes into high-energy plasma, 
+and the WLS photons propagate to the pressure plate. Silicon carbide ablation material 
+has been adopted from the antiproton catalyzed microfission/fusion concept4°, 41 
+developed at Penn State University by the author and coworkers . Photon energy 
+dist ribut ions are shifted through 2 cm of lead to 1-10 keV from 511 keV with 85 percent 
+efficiency. 
+Performance depends primarily on the energy of the WLS photons and the energy per 
+pellet . At 8 keV, l sp is in the range 1,200-3,000 sec. Thrust is 40-145 kN, the latter at a 
+pellet injection rate of 1 hertz. The total quantity of posit rons consumed for a one-way 
+trip to Mars over th is range of l sp is 15-40 mg with 50 percent of gamma rays strik ing 
+the plate and a 85 percent WLS efficiency. 
+POSITRON ROCKET SYSTEM COMPARISON 
+A side-by-side comparison of three positron rocket propulsion concepts is presented in 
+Table 5 for a one-way trans it to Mars using t:N = 3. 7 km/sec . 
+Table 5. Comparison of Three Positron Propulsion 
+Concepts for Mars Mission 
+Solid-Core Gas-Core Sanger Ablation 
+lsp 650 - 920 sec 1000 - 2500 sec 1200 - 3000 sec 
+Thrust 72 kN , small class 130 kN (1000 aim) 40 -145 kN (1 Hz) 
+Limits • Wall and nozzle 
+temperature 
+• Wall and nozzle 
+temperature 
+• H Ionization 
+• Positron density 
+per pellet 
+e+ mass • 6-9 mg (100% 
+efficiency) 
+• < 25 mg (85% 
+efficiency) 
+• 15 - 40 mg 
+(42.5% efficiency) 
+Special • Continuous burn • Pulsed burn • Pulsed burn 
+Notes • Multiple engines 
+may be possible 
+• Hot-bleed line 
+possible 
+• Multiple engines 
+may be possible 
+• Hot-bleed line 
+possible 
+• Engine can be 
+throttled 
+• Multiple engines 
+may be possible 
+• No direct onboard 
+power 
+• Engine can be 
+throttled 
+Future work • Efficiency study • Efficiency study 
+• Lower pressure 
+possible? 
+• Further WLS and 
+radiation transport 
+study 
+UNCLASSIFIED/;'rett 8FFI&IAk Uiili ODIL¥ 
+17

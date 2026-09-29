@@ -1,0 +1,50 @@
+UNCLASSIFIED/ /POI\ OPPIClltt tJ.!I! er~LY 
+One major use of HPM by the military is for electronic attack, or what is 
+referred to by the media as an "ebomb." HPM sources developed for this 
+purpose provide peak powers in excess of 10 gigawatts. The goal of such a 
+weapon is to disable communications and computer systems prior to any troop 
+movements and render the enemy unable to stage a response. The technology 
+used to drive such sources has its roots in pulsed power, and for narrowband 
+sources requires the use of tools that have been developed in the plasma 
+physics community. Reliance on microprocessors that have an increasing 
+density of circuits packaged onto each chip makes such systems ever-more 
+vulnerable to HPM effects. As an example of the possible effects of HPM 
+weapons, on 28 May 2001, a U.S. Commanche helicopter, flying in New York 
+state while performing tests involving HPM weapons, was reported to have 
+generated a low-level energy pulse that disrupted the Global Positioning 
+System devices used to land commercial aircraft in Albany. 
+The use of this type of weapon can be based on several scenarios, depending 
+on the asset it will be used against. Sometimes, it may only be necessary to 
+upset a data bus transfer to produce a success; other times, success may not 
+be so simple. Some of the kill mechanisms obtained from microwave weapons 
+include semiconductor overheating or burnout, arc generation, computer 
+upsets, voltage induction into sensitive circuits, display upset, and overvoltage 
+in discrete components. The asset to be neutralized will often determine the 
+specific type of microwave source to be used; for example, assets with slots 
+designed for communications purposes may be most vulnerable to narrowband 
+HPM of a specific frequency, while assets with several computers linked by a 
+communications bus may be more vulnerable to ultrawideband (UWB) pulses 
+of a specific pulse repetition rate (PRR). Often, the variety of EM radiation that 
+would be most effective is not obvious, and therefore several must be 
+evaluated. 
+If EM radiation is able to penetrate a target, the issue then becomes the 
+susceptibility of the many semiconductor devices, which make up the various 
+circuits of the target. Failures in semiconductors owing to thermal effects 
+occur when junction temperatures are raised above 600° Kelvin. Since thermal 
+energy diffuses through the semiconductor, failure mechanisms depend on the 
+microwave pulse duration. If the pulse duration is short compared with 
+thermal diffusion times, then the temperature increases in proportion to the 
+deposited energy. Pulse durations (t) shorter than about 100 nanoseconds fall 
+into this regime, and the threshold power for damage varies as 1/t. 
+Experimental testing has shown that for pulse durations between 100 
+nanoseconds and 10 microseconds, the power required for damage scales as 
+1/t112 • And for pulses longer than 10 microseconds, a steady state in which the 
+thermal diffusion rate equals the rate of energy deposition and temperature is 
+proportional to power, resulting in a constant power requirement for damage. 
+In this case, the power requirement scales as t. The consequence of these 
+scaling factors is that short pulses require very high power but little energy, 
+while very long pulses require large amounts of energy but little power. This 
+analysis results in a vast range of HPM sources capable of damaging 
+semiconductor devices. The above applies to single-shot pulse durations, but if 
+UNCLASSIFIED/ /F9R 8FFI&il>I. 11&5 AN! X 
+vii

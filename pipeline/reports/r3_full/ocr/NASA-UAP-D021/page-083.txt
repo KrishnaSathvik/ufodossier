@@ -1,0 +1,34 @@
+Borman
+
+Lovell
+
+Borman
+
+the flight plan. They gave us one minute and 16 or 17 sec-
+onds, and the flight plan called for 46, I think.
+
+Well, we may get that cleared up when we talk to the ground.
+But, it was greater than I thought we had planned to do.
+Updating throughout the flight was excellent. Checklist
+was fine and, of course, we did not use the computer.
+
+We might mention here that both Frank and I think making
+adjust maneuvers without a platform is very feasible. You
+can use the reticle for alignment and use the stars as a
+reference. Since you are usually using the aft thrusters,
+you do not have thruster light to worry about. You can
+turn down the lights. It takes two people though; one per
+son to burn, hold attitude on the star, and watch the star
+reference and the other person to time. It required two
+people, but it is a very feasible method of doing it. I
+think you ze some very good accuracies with it, because we
+found out from the second burn.
+
+8.3 ROS
+
+RCS operational checks were nominal. We had no problems at
+all with the RCS. System monitoring was perfect and it did
+not drop one bit during the 14 days. After we actuated it,
+it went from 3,000 to about 2,600 to 2,500 psi on the source
+
+pressure. No problems. Control modes, RATE COMMAND. As I

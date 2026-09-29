@@ -1,0 +1,47 @@
+UNCLASSIFIED/ /FOR OFFIEIAk WS&i OPtkY 
+to explain the existence of EVs. The emerging laboratory evidence led investigators to 
+consider the hypothesis that the Casimir effect may be a major contributing mechanism 
+to the formation of EVs in micro-arc discharges. This conjecture is based on models by 
+Casimir (Reference 48) and Puthoff and Piestrup (Reference 49) suggest ing that the 
+generation of a relatively cold, dense, non-neutral (charged) plasma results in charge­
+condensation effects that may be attributable to a Casimir-type pinch effect (that is, 
+ZPF-induced pressure forces) in which the inverse square-law Coulomb repulsion is 
+overcome by an attractive inverse fourth-law Casimir force to yield a stable 
+configuration of bound charges at small dimensions. This is a derivative of Casimir's 
+semi-classical model of the electron in which a dense shell-like distribution of charge 
+might suppress vacuum fields in the interior of the shell (Reference 48). However, 
+initial application of Casimir's model found that the vacuum field inside the modeled 
+electron was found to augment rather than offset the divergent Coulomb field thus 
+rendering the electron's self-energy divergent. Puthoff (Reference 50) later resolved 
+this problem by developing a self-consistent vacuum-fluctuation-based model in which 
+the net contribution to the point-like electron's self-energy by its Coulomb and vacuum 
+fields vanishes thus rendering a stable finite-mass electron. 
+Shoulders and collaborators subsequently investigated different approaches to 
+extracting useful energy from the vacuum ZPF by way of exploiting EV phenomenon. 
+Even though EVs can be easily produced in the lab, efforts to test this hypothesis have 
+not met with success due to technical problems. However, this topic is ideal to pursue 
+for future research. 
+V. Theoretical Considerations and Issues 
+QED VACUUM REVISITED 
+QED Vacuum as a Plenum 
+Continued theoretical and experimental research has revealed that the vacuum 
+constitutes an active agent that contributes to a host of phenomena ranging from 
+microscopic level shifts of atomic states to possible connections to the cause of 
+cosmological expansion (Reference 14, 51). As more of its attributes are explored, the 
+vacuum has been found to exhibit phenomena characteristic of an optical medium, such 
+as induced birefringence in the presence of an applied magnetic field (Reference 52), 
+and breakdown (decay) in the presence of external electric fields (Reference 53-55). 
+The current view is that the vacuum has structure, and can be considered much like a 
+medium of classical physics. However, the vacuum differs significantly from that of a 
+classical medium due to the existence of quantum fluctuations. A primary attribute of 
+quantum theory is the concept of matter and field fluctuations, rooted in Heisenberg's 
+Uncertainty Principle. 
+In second-quant ized QED theory, the theory that applies to the electromagnetic 
+vacuum, the canonical approach to representing fluctuations of the free vacuum 
+electromagnetic field is to express the field distribution in terms of stand ing- or 
+traveling-wave normal modes. Section I suggested that the large value of the 
+integrated ZPE density fuels the concept of potentially useful vacuum energy conversion 
+to other forms, should even some small part of the spectral energy distribution be 
+accessible for conversion by technological means. 
+UNCLASSIFIED/ /FOR OFFICI0L: 11ili QIU.,¥ 
+22

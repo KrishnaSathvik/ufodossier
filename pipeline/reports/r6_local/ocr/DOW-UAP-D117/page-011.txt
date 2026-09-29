@@ -1,0 +1,46 @@
+UNCLASSIFIED/ /POI\ OPP!elAL ~SI: 8,.LY 
+and thus reduce the window of time available for molding. In practice, therefore, 
+successful molding requires careful control of the processing conditions. 
+Joining 
+Structural applications inevitably require joining of components, for instance by 
+mechanical fasteners or adhesives or by welding, soldering, or brazing. The use of 
+fasteners and adhesives is much the same for metallic glasses as for any other metal. 
+Techniques such as welding, soldering, and brazing are potentially problematic because 
+they involve heating the glassy alloy, running the risk of crystallization (which could 
+make the joint more brittle) . In welding, for instance, the metal to be joined is actually 
+melted and then resolidifies upon cooling. In the case of a metallic glass, care must be 
+taken to ensure the cooling rate is fast enough to avoid crystallization. There is also a 
+risk that the glassy material in the heat-affected zone (near to but not in the molten 
+region) might crystallize. Laboratory tests of a variety of welding techniques have been 
+performed on several glass-forming alloys with mixed results, and it is clear that much 
+remains to be done in this area. 
+Foams 
+One particularly promising recent development is the ability to produce metallic glass 
+foams. Here, the relatively high viscosity of glass-forming alloys is an advantage in 
+producing a stable foam structure that can be solidified, leaving a high-porosity foam 
+with metallic glass ligaments. 9 These foams have high specific strength (that is, 
+strength normalized to density) and specific stiffness and could have excellent damage 
+tolerance, although this has not been demonstrated. 
+Thin Films and Coatings 
+The discussion above focuses on the processing of free-standing metallic glasses, with 
+an emphasis on structural applications. However, it is also possible to produce 
+amorphous alloys as thin films or coatings using techniques such as physical vapor 
+deposition or electrodeposition. Although the thicknesses of material that can be 
+produced in this way are limited, they are useful for making amorphous alloy coatings 
+(for wear and corrosion resistance) or for thin films for magnetic or micro­
+electromechanical system (MEMS) applications. A distinct advantage of the thin film 
+techniques is that because the effective cooling rates during vapor deposition are 
+extremely high, a much wider range of alloys can be produced in amorphous form than 
+is possible with casting. This allows the alloy composition to be tailored for optimization 
+of functional properties, with less concern about glass-forming ability. 
+Mechanical Behavior Near Room Temperature 
+When a material is subjected to a stress, it can experience both elastic and plastic 
+deformations. Elastic deformation occurs at lower stresses and is recoverable when the 
+applied stress is removed. The limit of elastic deformation is defined by the yield 
+stress- the point at which plastic (nonrecoverable) deformation begins. Much of the 
+current interest in metallic glasses arises because their yield stresses (that is, their 
+strengths) can be much higher than those of crystalline alloys of similar composition; 
+this difference is a direct result of the novel atomic -scale structure of metallic glasses. 
+The fracture and fatigue characteristics of metallic glasses are also different from those 
+5 
+UNCLASSIFIED/ /FOA OFFI&ilAb WS& 8PtLY

@@ -1,0 +1,48 @@
+123.
+
+124.
+
+125.
+
+126.
+
+1273
+
+128.
+
+129.
+
+130.
+
+53
+
+UNCLASSIFIED / /EQR.OSELGEA=USE-ONET
+
+Lund K, Manzo AJ, Dabby N, Michelotti N, Johnson-Buck A, Nangreave J, et al.
+Molecular robots guided by prescriptive landscapes. Nature. 2010 May
+13;465(7295):206-10.
+
+Li JWJ, Tan WH. A single DNA molecule nanomotor. Nano Letters. 2002
+Apr;2(4):315-8.
+
+Mao CD, Sun WQ, Shen ZY, Seeman NC. A nanomechanical device based on the B-
+Z transition of DNA. Nature. 1999 Jan;397(6715):144-6.
+
+Yurke B, Turberfield AJ, Mills AP, Jr., Simmel FC, Neumann JL. A DNA-fuelled
+molecular machine made of DNA. Nature. 2000 Aug 10;406(6796):605-8.
+
+Tian Y, He Y, Chen Y, Yin P, Mao CD. Molecular devices - A DNAzyme that walks
+processively and autonomously along a one-dimensional track. Angewandte
+Chemie-International Edition. 2005;44(28):4355-8.
+
+Kang HZ, Liu HP, Phillips JA, Cao ZH, Kim Y, Chen Y, et al. Single-DNA Molecule
+Nanomotor Regulated by Photons. Nano Letters. 2009 Jul;9(7):2690-6.
+
+Gu HZ, Chao J, Xiao SJ, Seeman NC. A proximity-based programmable DNA
+nanoscale assembly line. Nature. 2010 May;465(7295):202-U86.
+
+Pei R, Taylor SK, Stefanovic D, Rudchenko S, Mitchell TE, Stojanovic MN. Behavior
+of polycatalytic assemblies in a substrate-displaying matrix. Journal of the
+American Chemical Society. 2006 Oct;128(39):12693-9.
+
+UNCLASSIFIED/ /FUR'OPPICTALUSE-ONE-

@@ -1,0 +1,32 @@
+UNCLASSIFIED/ /FOR OFFI@Il.tk WSI: Ortklf 
+Commercial EEG sensors 
+Mindset, by NeuroSky nia, by OCZ Technology 
+Figure 3. Two Commercially Available EEG Sensors. The Mindset utilizes two sensors, one in the right 
+earphone and one for placement on the forehead (what looks like a microphone arm is to be pressed against the 
+forehead). The nia records signals from three sensors on the forehead . 
+In a documented and peer-reviewed study, Popescu and colleagues have shown a 
+system that uses 6 dry electrodes and is 90 percent accurate in operation of a 1-D 
+cursor by untrained subjects. Additionally, a measurement of error rates as a function 
+of number of electrodes show that an increase to 12 electrodes could drop the error 
+rate to around 5 percent, but that addit ional electrodes much beyond a dozen do not 
+significantly improve the accuracy of their algorithm (Reference 28). 
+MEG 
+MEG-based BMI systems have been shown to be feasible utilizing a subject imagining 
+limb movements for binary decisions (References 29, 30). Future work could improve 
+the methodology to parallel that achieved with EEG; however, there are significant 
+technological hurdles to a field deployment of MEG. The magnetic fields from neural 
+activity are detected with very sensitive devices called superconduct ing quantum 
+interference devices, or SQUIDs. These detectors are sensitive to the neural activity 
+induced 100 fT (femtoTesla) changes near the scalp. SQUIDs only operate at very low 
+temperatu res thus requiring a cryogenic system as well significant detection and 
+amplification electronics. The availability of a cold sink and high vacuum, such as in a 
+space-based application, could reduce the support system overhead, but there is still 
+the matter of the weakness of the signals. Even if future detector development like 
+atomic magnetometers would solve the equipment overhead issue for Earthbound 
+application, the fact that 100 fT is about 100 milli on times smaller than the Earth's 
+magnetic field will prove an insurmountable barrier to sifting signal from noise in 
+anything but a heavily-sh ielded, metal-free environment . Attempts have been made to 
+use High-Tc superconductors as a shielding material with some success (Reference 31), 
+but significant further development is needed. 
+UNCLASSIFIED/ /FOR OFFIEiIAk WSIE 8HL1/ 
+8

@@ -1,0 +1,27 @@
+UNCLASSIFIED / / FOR-OFFECEAL USE ONTT
+
+The Role of Superconductors in Gravity Research
+
+Introduction
+
+This paper is a historical survey of the role superconductors have played in the
+recent search for laboratory-scale manipulation of gravity. The invention of
+superconductors and, in particular, the recent development of high-
+temperature ceramic superconductors have provided the impetus for pursuing
+a connection between gravity, electromagnetism, and, in particular,
+magnetism and matter in the solid state. The discovery of yttrium-barium-
+copper oxide (YBCO) YBa2Cu307 ceramics able to superconduct at liquid
+nitrogen temperatures allowed many laboratories around the world to
+fabricate these superconductors in various experimentally useful sizes. True
+Meissner repulsion was obtained by cooling them using relatively cheap liquid
+nitrogen rather than liquid helium. For the theoretician, the possibility of
+considering the superconductor being a macroscopic quantum object as a
+reality rather than a fantasy suggested several avenues for developing
+theories connecting gravity and gravity-like forces to engineerable matter. For
+the experimentalist, extrapolations from these theories suggested there might
+actually be gravitational disturbances in the laboratory that would be
+amenable to measurement, assuming all necessary precautions were taken to
+exclude artifact.
+
+iii
+UNCLASSIFIED / /®OR-OFFE6H-USE-ONET

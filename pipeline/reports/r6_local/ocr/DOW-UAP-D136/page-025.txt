@@ -1,0 +1,27 @@
+UNCLASSIFIED/ /P'OR: OP'P'l@IAL WS& 8NI.¥ 
+Thin Mylar 
+Substrate 
+Figure 15. Thermopile Glucose Sensor (left) With Functional Illustration (right) are Made Using 
+Photolithographic Techniques. This large r device is about 8 mm i n length but has appro ximately 50 micron 
+min imum geome tries. (Towe et al. ) 
+At ASU the glucose sensor has been constructed on a thin mylar plastic substrate and 
+so can be curved into a cylinder to form a small tube. This tube is then sensit ive to 
+glucose concentrations on its outside exposure to the blood stream. Figure 16 shows a 
+photograph and an illustration of a glucose sensor implemented in the form of a 
+catheter. The electr ical output signal is routed by wires down the length of the catheter 
+for a remote readout. The device was implanted in a p ig over a short duration and the 
+decrease in blood glucose concentrations in response to admin istrat ion of insulin were 
+recorded and are shown in the right hand panel of Figure 16. 
+10 min 
+Figure 16. Photograph and Illustration of the Thermopile Glucose Sensor in a Catheter. Its configuration 
+is shown (left) and its response in detect ing changes in blood glucose in a p ig as a result of insul in administ ration 
+to t he animal. (ASU research.) Towe et al. 
+This glucose sensor approach has been found to have limitations in stability when 
+introduced into tissue or blood. Primarily the problems, as with many sensors, arise 
+from the system chemistry and not as much from the electronic port ion of the sensor . 
+The glucose oxidase enzyme slowly decays over time and thus the sensor sensitivity 
+and calibration drifts making it eventually unusable. 
+These problems have no easy solution. Investigators have been working with various 
+forms of blood chemistry sensors for forty years or more. Microfabr icated 
+UNCLASSIFIED/ {FOR OFFICIO! !Pfli ODIi.¥ 
+19

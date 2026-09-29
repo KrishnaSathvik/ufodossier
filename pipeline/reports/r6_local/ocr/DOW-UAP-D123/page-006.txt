@@ -1,0 +1,41 @@
+UNCLASSIFIED/ JFOR OFFICIAL USE 014[ I 
+Antimatter 
+Antimatter appears in the form of fundamental particles that have their sign of electric 
+charge reversed from the ir matter counterpart . For example, the positron, e+, is the 
+antiparticle to the electron, e·. According to the CPT theorem, 4 properties of matter and 
+their counterpart antimatter part icles are identical. This has been tested in the 
+laboratory to an accuracy of rough ly 1 part in 10 million. 
+Antimatter is appealing for aerospace uses because its specific energy by annih ilation is 
+180 MJ/µg, or 10 orders of magnitude larger than chemical energy, as shown in Figure 
+1. 
+1.00E+03 ~---------------
+1.00E+02 +--------------
+1.00E+01 +--------------
+1.00E+O0 -+--------------
+1.00E-01 -+------
+Energy Density _OOE-02 -----
+MJ/µg 1.00E-03 -----
+_OOE-04 +-------
+1.00E-05 +------
+1.00E-06 -+------
+1.00E-07 -+------
+1.00E-08 -1-----.,----
+Olerrical Fission Fusion Fbsitron 
+Annihilation 
+Figure 1. Specific Energy for Chemical, Nuclear, and Antimatter Materials 
+In the presence of matter, the positron binds with an electron to form a short -lived 
+atom called positronium (Ps). Depending on the relative spin orientations of the 
+positron and electron, Ps has a mean lifetime in a vacuum of 125 picoseconds (para-Ps, 
+spins antiparallel), or 142 nanoseconds (ortho-Ps, spins parallel). 
+From quantum number conservation, para-Ps decays into two gamma rays of equal 
+energy, 511 kiloelectronvolts (keV), whereas ortho-Ps decays into three gamma rays 
+whose energies add up to 1022 keV. Hence, when Ps self-annihilates, there is 100 
+percent conversion of mass into electromagnetic energy given by Einstein's famous 
+equation, E = mc2, where c is the speed of light. 
+Although the energies of positron annihilation gamma rays are on the nuclear scale, 
+they have none of the undesirable features associated with nuclear energy. First, the 
+annihilation evolves rapid ly (nanoseconds) and is controllable under predictable 
+electromagnetic forces. There is no long-term inertia as with nuclear reactors. 
+Consequently, positron-generated thrust can be throttled. 
+UNCLASSIFIED/ /570A OFFl&IAk W&E 8HLY 
+1

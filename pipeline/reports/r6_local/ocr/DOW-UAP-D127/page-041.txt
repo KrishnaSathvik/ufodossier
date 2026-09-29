@@ -1,0 +1,97 @@
+UNCLASSIFIED / / FOR-OFFEGHH-USE-OA
+
+In practice, however, here we shall confine
+ourselves to the computation of the first four
+cumulants only because they only are required to
+find the skewness and kurtosis of the distribution.
+Then, the first four cumulants in terms of the first
+four moments read:
+
+Ki =“
+K; = 4, -3K, K, - K}
+K, = 44-4 K, K, -3Ki -6K, Kj - Ky.
+These equations yield, respectively:
+e
+K,=e"e?. (68)
+K, =e# er (2 =i (69)
+Le
+K, =e e? . (70)
+
+2 2 3 2 2 2
+K, = ge be -1) (32 +3e°7 +6e° +6) (71)
+
+From these we derive the skewness
+
+and the kurtosis
+
+K 2
+ge og
+
+(kK)
+
+30°
+
++32" -6. (73)
+
+Finally, we want to find the mode of the
+lognormal probability density function, i.e. the
+abscissa of its peak. To do so, we must first
+compute the derivative of the probability density
+function fy(n) of equation (56), and then set it
+equal to zero. This derivative is actually the
+derivative of the ratio of two functions of n, as it
+plainly appears from (57). Thus, let us set for a
+moment
+
+41
+
+E(n)= (In[r] =u) (74)
+
+20°
+
+where “E” stands for “exponent,” Upon
+differentiating this, one gets
+
+E'(n)=—L-2(n[n]—)-+. (75)
+2o° n
+
+But the lognormal probability density function (56),
+by virtue of (74), now reads
+
+] e El")
+
+Sine n
+
+fyv)= (76)
+
+So that its derivative is
+
+Wea iinet) se 1
+
+(77)
+
+Setting this derivative equal to zero means setting
+E (n)-n+1=0 (78)
+
+That is, upon replacing (75),
+1
+or ‘(ialn]- #)+1=0. (79)
+
+Rearranging, this becomes
+
+In[n]- to" =0 (80)
+and finally
+
+a _ pf {a
+Mupde = "peak = 6 € (81)
+
+This is the most likely number of ExtraTerrestrial
+Civilizations in the Galaxy.
+
+How likely? To find the value of the probability
+density function f,(n) corresponding to this
+value of the mode, we must obviously replace (81)
+into (56). After a few rearrangements, one then
+gets
+
+UNCLASSIFIED / *#FOR-OFELGLAL-USE-ONLY

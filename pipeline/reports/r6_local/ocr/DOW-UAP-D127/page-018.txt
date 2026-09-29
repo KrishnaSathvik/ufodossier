@@ -1,0 +1,36 @@
+UNCLASSIFIED/ /FOR OFFIEil.t.k Wii Q~lls¥ 
+8. Finding the Probability Distribution of the Et-Distance By 
+Virtue of the Statistical Drake Equation 
+Having solved the statistical Drake equation by finding the lognormal distr ibution, we 
+are now in a position to solve the ET-DISTANCE problem by resorting to statistics again, 
+rather than just to the purely determinist ic Distance Law (5), as we did in Section 2. 
+This is "scientifically more serious" than just the purely deterministic Distance Law (5) 
+inasmuch as the new stat istical Distance Law will yield a PROBABILITY DENSITY for the 
+Distance, with the relevant mean value and standard deviation . In other words, the 
+Distance Law (5) itself becomes a random variable whose probability distr ibution, mean 
+value and standard deviation must be computed by "replacing" into (5) the fact that N 
+is now known to follow the lognormal distribution . This is mathematically described in 
+detail in Section 7 of Appendix A. 
+The important new result is the PROBABILITY DENSITY FOR THE DISTANCE, the 
+equat ion of which is 
+(9) 
+holding for r ;,: O. This is equat ion (114) of Appendix B. 
+Starting from this equation, the MEAN VALUE OF THE random variable ET_DISTANCE is 
+computed as 
+J.I cr2 
+(Er_Distance) =C e3 e""jg (10) 
+which is equation (119) of Appendix B, and finally the ET_DISTANCE STANDARD 
+DEVIATION 
+_!!. a2Kr2 
+- 3 18 9CJ ET_Distanu: - C e e e - l (11) 
+which is equation ( 123) of Appendix B. Of course, all other descript ive statistical 
+quantities, such as moments, cumulants etc. can be computed upon starting from the 
+probability density (9), and the result is Table two hereafter, that is Table 3 of Appendix 
+B. 
+Finally, to complete this section, as well as this "introduction to the statistical Drake 
+equat ion," the numerical values that equations (10) and (11) yield for the Input Table 1 
+are determ ined. They are, respectively: 
+_}!_ CTl 
+r,11ea11 _ m lue =Ce 3 e 18 ;::: 2,670 light years (12) 
+UNCLASSIFIED/ /FOR OFFIEil.t.k Wii QNls¥ 
+18

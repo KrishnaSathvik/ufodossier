@@ -1,0 +1,50 @@
+UNCLASSIFIED/ fFOA OFFIEIAk W&i 0Pilk¥ 
+nonlinear gravitational permeability, which could dramatically mitigate such large-scale 
+requirements (see item 1 below for further discussion). 
+Negative energy has been produced in the lab in very small quantities. The technologies 
+used for producing negative energy are nascent, and so it will be some time before it 
+can be ascertained whether they are capable of producing the astronomical amounts of 
+negative energy required to generate significant antigravity forces as discussed in 
+Section III-C-2 (see item 2 below for further discussion). 
+Antigravity forces produced by quantum electromagnetic vacuum ZPF or by 
+nonretarded quantum interatomic dispersion forces in a curved spacetime (that is, 
+gravitational field) are very feeble, but there are proposals based on other theoretical 
+and empirical studies which suggest that these forces can be amplified to macroscopic 
+level. However, there are a number of difficult technical challenges to overcome in 
+order to achieve success. 
+Going forward toward the demonstration of an antigravity generator will require the 
+following steps to be taken: 
+• Antigravity via Dipole Gravitational Field Generators: Presently, the technology does 
+not exist to achieve the astronomical mass densities, extreme velocities or 
+accelerations of mass motion, and the large device dimensions required to produce 
+large enough antigravity forces for useful propulsion. The issues are: 1) dense 
+materials, and 2) gravitational properties of matter. Forward (Reference 14) 
+suggests investigating neutron-neutron interactions. One could cool a gas of thermal 
+neutrons from a nuclear reactor to extremely low temperatures using magnetic 
+confinement or magneto-grav itational traps, and concentrate them into a small 
+region through the interaction of the trap's magnetic field with the magnetic 
+moment of the neutrons. The Fermi energy 12 of the bound neutrons limits the 
+neutron density to ~10-3 kg/m 3 . However, the formation of putative 
+tetraneutrons 13 or the existence of a superconductive-type phase space 
+condensation will create bosons that do not have this limitation. It turns out that 
+exotic quantum states of matter such as Bose-Einstein (BE) and Fermionic 
+condensates 14 transcend the Fermi energy limit and thus possess highly unusual 
+material properties. BE condensates were first created in 1995 and Fermionic 
+condensates were first created in 2003, but both are still undergoing laboratory 
+exploration. As for the gravitational properties of matter, one knows from 
+electromagnetism that the permeability (µ) of magnetic materials such as iron is 
+anomalously large and nonlinear, which allows for the construction of highly efficient 
+electromagnetic field generators. The gravitational equivalent to the magnetic 
+permeability is a property of matter that is still largely unexplored. A material 
+possessing an anomalously large, very nonlinear gravitational permeability (ri) 
+would be useful in the construction of highly efficient, very small scale gravitational 
+field generators. One would expect all materials to have an ri that is different from 
+rio because the atoms comprising any material have quantum spin. Forward 
+12 In condensed matter physics, this is the energy of the highest occupied quantum state in a system of fermions 
+(that is, spin-½ particles such as electrons, nucleons, or atoms) at zero absolute temperature. 
+13 A hypothetical stable cluster of four neutrons whereby recent empirical evidence suggests it exists. Readers 
+should consult the technical literature for more information by using "tetraneutrons" as a search term . 
+14 BE or Fermionic condensates are a macroscopic collection of bosons (spin-1 particles such as nucleons or atoms) 
+or fermions that collapse into the same quantum state when they form at near-zero absolute temperature. 
+25 
+UNCLASSIFIED/ /FOA OFFI&IAb Yi&: 8,.bY

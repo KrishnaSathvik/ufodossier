@@ -1,0 +1,27 @@
+than I needed. I had to be very careful. to just
+put a little teensy tweak in to damp the rates.
+Later on, as we got on down, maybe half way
+through the g pulse area, the rates begen to in-
+crease in amplitude and in frequency. 1 still
+was able to handle them very adequately. No
+problem at all on tweaking the rates out on
+pitch and yaw. However, at about this period
+
+of time, it began to take so much time to switch
+back and forth from rate to attitude and get the
+rates damp that I was getting concerned about the
+math flow guidance in here and making sure I
+stayed on it. At this point then, probably half
+way through or somewhere on down through the
+latter part of the reentry, I just switched over
+to the ACME position and allowed the RCS rate
+command to damp the rates. Then, I would reach
+over and check the rates once in a while to see
+how it was damping. But, then, I could concentrate
+on purely attitude and just fly this same single-
+ring attitude control. It left me plenty of
+attitude control. Never once when I checked the
+
+rates were the rate needles ever off zero. It
+
+CONMBENTIALS

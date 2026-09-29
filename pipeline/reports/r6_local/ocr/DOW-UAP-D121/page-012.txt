@@ -1,0 +1,48 @@
+UNCLASSIFIED/ /POI\ OPPICIAL l:191!! er~LY 
+Adhesion to itself allows casting in several stages without fear of voids or mechanically 
+weakened areas. A final desirable characteristic-one that is of obvious importance-is 
+a very high dielectric strength. With attention to detail and diligence in the casting 
+procedures, dielectric strengths of more then 4 kV/mil on 0.125- inch thickness have 
+been achieved. All these advantages have allowed operation of high-voltage pulse 
+systems at increased power levels and at half the volume of those previously insulated 
+with mineral oil. 
+Urethanes and Silicones 
+These materials are used for casting solid high-voltage equipment, as well as for 
+coating components to reduce the effects of shrinkage or shock. Typically these 
+materials are very hard to use with vacuum casting techniques and, thus, have a much 
+lower dielectric strength than do the best epoxies, especially in larger volumes. Another 
+drawback is that many urethanes and silicones require either moisture or volatile 
+ingredients in the curing process, both of which cause problems with high-voltage 
+systems. Nonetheless, a wide variety of these materials are used in the fabrication of 
+high-voltage pulse systems for applications that require their characteristics. 
+LIQUIDS 
+Liquid insulation has been the primary type of insulation for high-voltage systems since 
+the beginning of the field . Over the years, mineral oils, vegetable oils, hydrocarbons, 
+and even tars and saps have been used as insulation. Dielectric liquids have long 
+served as electrical insulation in power transformers, capacitors, cables, and switching 
+equipment . Several once commonly used fluids are no longer available because of their 
+toxicity and environmental impact. As a result, liquids for insulation that do not have 
+these problems have now been developed for certain applications, including mineral 
+oils, silicon oils, fluoropolymers, and high-molecular-weight paraffin oils. Most of the 
+dielectric fluids made are tailored to the power industry, which accounts for about 99 
+percent of the demand for these liquids. As a result, many such liquids contain additives 
+that, while necessary for the power industry, are detrimental to high-voltage 
+applications. These include low-vapor-pressure additives for controlling viscosity and 
+antioxidants for improved aging. In addition, most insulating liquids also contain 
+moisture and dissolved gases, which are only weakly bound to the liquid molecules and 
+are easily freed when high electric field stresses are present . Scientists have for years 
+worked to extend the usefulness of transformer oils, fuorinert, and castor oil. They have 
+also developed corona-processing equipment for improving the high-voltage 
+characteristics of insulating oils. This has allowed state-of-the art insulation design 
+using insulating oils and oil-impregnated systems. The corona processing involves 
+flowing the liquid insulation media through a high-field -stress region while under 
+vacuum to remove dissolved gases and low-vapor-pressure constituents from the oil. 
+The liquid is then filtered to remove particles larger than 5 microns. This process 
+improves the corona initiation voltage limit for the liquid and greatly extends the life of 
+components insulated with the media. It has also allowed a significant reduction in the 
+size and, thus, energy density of pulsed transformer systems. 
+GASEOUS 
+Insulating gases are used in many high-voltage applications where weight is a primary 
+issue. Typically the use of gases as an insulating media requires pressurization and, 
+UNCLASSIFIED/ /FOR 0FFI€1Ak Uili ,u1k¥ 
+4

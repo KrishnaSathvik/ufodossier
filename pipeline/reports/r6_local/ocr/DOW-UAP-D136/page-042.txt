@@ -1,0 +1,21 @@
+UNCLASSIFIED/ /P'OR: OP'P'l@IAL WS& 8NI.¥ 
+red fluorescent protein (RFP) in E. Coli bacterial cells genetically engineered by ASU 
+microbiologist Dr. Valerie Stout. These bacteria glow when the rec-A gene is active, 
+indicating a certain type of stress or damage to the bacteria due to the space 
+environment. 
+Figure 33. NASA Space Application of Microfluidic Cell Culture System Made by Micromachining (Towe -
+ASU research) 
+Microcantilever MEMs Sensors 
+The microcantilever is one of the simplest MEMS based biosensor devices, with wide 
+applications in detection of very small amounts of specific chemicals through a process 
+known as affinity sensing . This can detect gas composition, antigens in the air, toxic 
+gases and particulates. 
+The use of microcantilevers as transducers for chemical and biochemical sensing has 
+only become widespread in the last few years, mainly due to their use in the 
+development of microsensor arrays. The idea is quite simple: the surface of the 
+cantilever, a thin rectangular beam clamped at one end, is chemically modified to react 
+with specific compounds. The mass deposition that follows the chemical reaction causes 
+a stress, and this leads to a detectable bending of the cantilever as illustrated in Figure 
+34. 
+UNCLASSIFIED/ {FOR OFFICIO! !Pfli ODIi.¥ 
+36

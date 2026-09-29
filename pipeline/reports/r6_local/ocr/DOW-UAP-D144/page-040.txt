@@ -1,0 +1,43 @@
+UNCLASSIFIED/ ,'FOR OFFI@IAL WSE QptLY 
+Vector Motion Panel (Primary Flight Display) 
+The most critical, surv ival-dependant displays are in the "tunnel vision" zone, directly in 
+front of the pilot. The main panel at the center of the display is analogous to the 
+primary flight display (PFD) of contemporary aircraft (shown previously in Figure 11). 
+In this case, however, it must be modified to accommodate the full six degrees of 
+freedom and the additional flight regimes of orbit and deep space. Because of these 
+modifications, and to distinguish from conventional aircraft displays, this text 
+provisionally uses the term "vector motion" display. 
+The main distinction between an aircraft PFD and this vector motion display is that the 
+aircraft PFD is biased toward flight near the surface of a gravitating body and for which 
+navigation conventions are firmly established (e.g., "up" and magnetic compass 
+heading). The vector motion display, which must accommodate orbits and deep-space 
+flight will also feature conventional funct ional subsets for near-Earth navigation. 
+Since we have no established standards for deep-space navigation that are applicable 
+beyond our solar system. Devising and designing such a system and the appropriate 
+display requires further work. 
+Orientation standards will have to be developed for breakthrough-era craft that are still 
+consistent with this Earth-surface convention. The main axes adopted for this display 
+would also be super imposed onto the virtual surround display . This display will include 
+information to ensure a safe trajectory, avoid collisions, and handle other situations. 
+In addition, visual cues for assisting a pilot to safely enter a correct orbit are required. 
+Although it is expected that such maneuvers would be handled by an automated 
+system, the more demanding condition, in which the pilot will have to manually enter 
+orbit, presents an appropriate design goal for the display and is a subject for future 
+work. 
+Navigation Display Panel 
+The navigation display is responsible for showing the pilot his location relative to base 
+and all other points of interest. Following the common practice of aviation, this display 
+is located immediately to the left of the central motion display. 
+The navigation display will need a new coordinate system to address deep-space flight, 
+transition into orbits, and maneuvering near to and landing on gravitating bodies. Such 
+an orientation and guidance system does not yet exist. 
+It is expected that most gravitating bodies can be conventionally mapped using 
+systems analogous to those used for the Earth, where the rotation axis is a defining 
+characteristic. The caveat is that not all gravitating bodies are spherica l (asteroids and 
+small moons). 
+Flight-Assist Panel 
+The flight-ass ist panel is located to the right of the vector motion display. Because of 
+the variety of functions this panel must perform, it must be in the form of an adaptive 
+display. This panel provides information and accepts pilot commands to assist in 
+UNCLASSIFIED/fFOA: OFFICIO la Plili Oralla¥ 
+35

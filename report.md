@@ -1,5 +1,7 @@
 # UFO Dossier -- Pre-Production Verification Report
 
+Historical snapshot from 2026-05-09, before the V2 corpus. Counts in this file are not the current catalog. See `docs/V2_LOCAL_RELEASE_GATE.md`.
+
 **Date:** 2026-05-09
 **Domain:** ufodossier.com
 **Stack:** Next.js 15, Supabase, Tailwind CSS, Vercel

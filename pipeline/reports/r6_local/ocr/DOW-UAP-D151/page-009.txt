@@ -1,0 +1,45 @@
+UNCLASSIFIED/ /FOR OSSICIAl WSE 8HLY 
+and a quantitative scale, allowing it to be used in threshold detection and prediction, as 
+well as in computer-assisted workload balancing. 
+PERFORMANCE MEASURES 
+Laboratory, reaction time to an event stimulus is a typical real-time measure of speed. 
+Outside the laboratory, in a more natural environment, speed is an indirect measure of 
+a subject's ability to keep up with a given rate of events. a Accuracy is measured in 
+both the laboratory and naturalistic environments: for example, in an air-traffic control 
+task, properly handing off a plane to the next controller, as it leaves the first 
+controller's monitored airspaceb, is measured as a successful task completion. 
+Performance, when utilizing a secondary task, is accompl ished following two paradigms. 
+First, in the dual -task paradigm, performance on the secondary task is required and 
+primary task performance is thus an indication of workload. For the second paradigm, 
+instruction is given to maintain the primary task performance, and performance on the 
+secondary task is thus a measure of "space capacity" for additional workload. 
+Care is required in selection of secondary tasks in order to ensure they affect the 
+resources one wishes to probe. For example, in a driving scenario, a minimally 
+intrusive task is to push a button on the floor or steering wheel when a light flashes in 
+the field-of-view of the driver. This visual "detect-and-respond" task adds to what is 
+primarily a complex visual and motor coordination task that probes the capacity of 
+visual attention. 6 This is different than a secondary task util izing different resources, 
+such as having a conversation while driving. When planning the paradigm, a model 
+needs to be developed that treats (or explicitly ignores) individual tasks and 
+interactions among them. 
+Reference tasks are executed before and after primary tasks. Typically reference tasks 
+focus on trending in performance due to effects such as fatigue. One important case of 
+reference tasks is to normalize an individual's current capacity for mental workload. 
+Such a pre-performance measure can be used to adjust maximum workload to 
+compensate for day-to-day variation. 
+PHYSIOLOGICAL MEASURES 
+The human nervous system is anatomically divided into the Central Nervous System 
+(CNS) - and the Peripheral Nervous System (PNS). The CNS includes the brain and the 
+spinal cord. The PNS is made up of the somatic division, which innervates the skin, 
+voluntary muscle, and joints, and the autonomic division, which mediates visceral 
+sensation as well as executes motor control of smooth muscle, viscera, and endocr ine 
+glands. The autonomic division consists of sympathetic, parasympathetic, and enteric 
+systems. The sympathetic system mediates response to stress, while the 
+parasympathetic system works to maintain homeostasis and conserve body resources. 
+• Reaction time is not typically measured in real-time in the field as events occur at unplanned times. Post-hoc 
+analysis can resolve reaction times down to a comparable resolution to innate motor reaction variance, on the 
+order or lO's of msec. 
+b Contrary to what a layperson may think, the vast majority of errors in air traffic control do not result in collisions 
+or even near misses; rathe r they are mistakes In procedure. 
+UNCLASSIFIED/ /FOR OFFI&I:wk WS&: ONlY 
+4

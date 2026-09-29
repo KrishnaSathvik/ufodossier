@@ -1,0 +1,84 @@
+{
+  "generated_at": "2026-09-28T19:31:29.404155+00:00",
+  "verdict": "R5_LOCAL_COMPLETE",
+  "production_writes": 0,
+  "deploy": 0,
+  "gpt6": "off",
+  "linker_v1_frozen": true,
+  "linker_v1_1": false,
+  "quote_rules_changed": false,
+  "evidence_gate_changed": false,
+  "corpus": {
+    "records": 25,
+    "pdfs": 22,
+    "media": 3,
+    "pages": 332,
+    "pages_ocrd": 196,
+    "ocr_failed": 16,
+    "extract": 9,
+    "source_only": 13,
+    "fixed_chunk_docs": 9,
+    "cue_routed_docs": 0
+  },
+  "extraction": {
+    "candidates": 15,
+    "quote_valid": 10,
+    "quote_rejected": 5,
+    "evidence_insufficient": 0,
+    "accepted": 10,
+    "truncations": 0,
+    "extraction_failed": 0,
+    "json_stats": {
+      "json_first_pass": 9,
+      "json_retry_success": 0,
+      "json_retry_failed": 0,
+      "json_truncated": 0,
+      "json_invalid": 0,
+      "api_error": 0,
+      "valid": 9,
+      "extraction_failed": 0,
+      "sections_subdivided": 0,
+      "haiku_calls": 9
+    },
+    "cost_usd": 0.18,
+    "runtime_seconds": 61.7,
+    "haiku_calls": 9
+  },
+  "identity": {
+    "canonical_events": 181,
+    "event_series": 1,
+    "decisions": 55,
+    "rejected_pairs": 20,
+    "candidates": 84,
+    "decision_breakdown": {
+      "same_event": 3,
+      "same_series": 49,
+      "media_for_event": 1,
+      "analysis_of_event": 2
+    },
+    "status_breakdown": {
+      "auto_supported": 54,
+      "review_supported": 1
+    },
+    "same_release_decisions": 2,
+    "cross_release_decisions": 0,
+    "cross_release_by_relationship": {},
+    "colorado_springs_pass": true,
+    "western_us_pass": true,
+    "d082_episodes": 5,
+    "linker_regression_pass": true,
+    "linker_failures": []
+  },
+  "gate": {
+    "fabricated_accepted_observed": 0,
+    "catalog_admin_inflation": 0,
+    "thin_caption_incidents": 0,
+    "truncation_loss": 0,
+    "unexplained_extract_zero": [],
+    "generic_location_auto_merges": 0,
+    "cross_date_auto_merges": 0,
+    "source_only_event_inflation": 0
+  },
+  "needs_review_count": 37,
+  "stage_a_runtime_seconds": 936.9
+}

@@ -1,0 +1,45 @@
+UNCLASSIFIED1/FOR 8ffl@IAL tt91! e"t I 
+Chapter 3: Applications 
+ELECTRONICS AND TELECOMMUNICATIONS 
+The most straightforward application of an ultracapacitor is to stabilize de voltages, 
+which is where they have found widespread use. Areas where a dip in voltage may 
+occur and negatively impact performance is another natural fit for ultracaps. Initially, 
+they were used as backup power for clock chips and CMOS memory; now, they find 
+utility in power smoothing, flash photography, and digital cameras. Flash for mobile 
+phone cameras is an ever-increasing market. Nearly one billion phones equipped with 
+cameras were sold in 2009. Ultracaps enable flash photography integrated with mobile 
+communication. Today's market is driving toward electronics devices with multiple 
+functions to eliminate the need for multiple specialized electronics that each performs 
+one task. Integrating components into one electronic device requires the use of 
+ultracapacitors to help stabilize the short power spikes from the individual components. 
+Ultracaps also serve to reduce thermal loading from power dissipation. 
+Ultracaps have found extensive application in wireless communication, where they are 
+used in wireless data cards for GSM, GPRS, and WiMAX data transmission. The peak 
+current required during data transmission can exceed what is available under USB or 
+PC-card standards, and the excess current is delivered with an ultracapacitor. 
+Automated meter reading is another application where ultracaps have become an 
+integral component, as the power required to send and receive the meter informa tion is 
+handled by an ultracapacitor. The mobile telecomm industry is currently using these in 
+a number of ways; it is likely that additional uses for ultracaps will spring up along with 
+needs to balance power requirements for increasingly complex and multifunctional 
+devices contained within smaller areas. 
+INDUSTRIAL 
+Industrial applications are becoming much more ubiquitous as ultracaps are being used 
+as a platform to deliver a large amount of power quickly. These are becoming 
+increasingly important in cranes, forklifts, elevators, and power tools. As an example, 
+power is stored by an ultracapacitor in hybrid forklifts every time a loading fork 
+descends. The stored power is then delivered to the forklift when heavy lifting is 
+required. Figure 6 shows the power requirements for a hybrid forklift. The peak power 
+pulses are areas where using an ultracap to deliver or to receive the power greatly 
+improves the operational efficiency. The blue shaded area represents the power 
+distribution handled by a fuel cell, and the tan regio ns above and below the blue area 
+represents the output from and the input to the ultracapacitor, respectively. 22 In cranes 
+and elevators, a similar application is used. Peak power is supplied for lift operations by 
+the ultracap. During descent of the elevator or lowering of the loaded crane, generated 
+power can be used to recharge the ultracapacitor. Power tools are becoming 
+increasingly disconnected from an outlet. Many of these cordless power tools require 
+significant amounts of peak power, which many batteries cannot adequately supply. 
+The ultracapacitor used in conjunction with a high energy battery supplies the pulse 
+power required during heavy use. 
+UNCLASSIFIEO/fFOA OFFI&I:.l.b YS& ONLY 
+13

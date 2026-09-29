@@ -1,0 +1,44 @@
+UNCLASSIFIED/ ,'FOR OFFI@IAI:: WSE ONl::Y 
+Chapter 2: Human-Machine Interface Lessons 
+Over recent decades, substantial improvements have been made to human-machine 
+interfaces. 15 Most of this progress relies on better accommodating the norms and limits 
+of human perception-lessons that do not change even when vehicle characteristics 
+change. These lessons are reviewed in this chapter and then applied in the conceptual 
+design offered in the third chapter. Examples of such characteristics include reaction 
+times, tunnel vision under stress, instinctual association with position, interpretations of 
+displayed colors, and lessons learned from interactions with display and control 
+technologies. 
+Recent progress on augmented rea lity displays, 16 voice control, 17 gesture-based 
+computer inputs, 18 and brain-machine interfaces (BMis) 19 are also considered. In this 
+study of far-future possibilities, these technologies are assumed to have reached full 
+maturity. Instead of going into the details of their status, only their implications will be 
+addressed here. 
+One exception was made when considering emerging technologies-specifically the 
+notion of modifying humans for breakthrough flight. This exception includes brain 
+implants for BMis and reengineering humans (transhumanism) to adapt to new 
+requirements. 20 Rather than requiring humans to be reengineered for breakthrough 
+flight, this study focuses on adapting the cockpit to address natural human 
+characterist ics. This forces attention on the cockpit design requirements. 
+Numerous references about human factors were consulted, focusing on those details 
+most relevant to this study. Since similar assertions were echoed in many of these 
+refere nces, it is not always clear how to trace a given assertion to a specific reference. 
+Instead, an annotated bibliography is included at the end of this report that has short 
+descriptions of each reference. 
+HUMAN PERCEPTION NORMS 
+Physical Object Analogs 
+Human interpretation mechanisms are rooted in the paradigm of a physical 
+environment. Mimicking a physical environment in a display and control system 
+enhances comprehension and allows features to be recognized with less effort than 
+when translating dials, bar graphs, or alphanumeric displays. 21 This not only pertains to 
+perceptions of motion, but also to the comprehension of a vehicle's operation: 
+understand ing its lim its, supplies of consumables, malfunction modes, and other 
+parameters . 
+Accordingly, humans naturally remember where to look for a particular piece of 
+information or what direction to flip a particular switch. Humans are also adept at 
+subconsciously applying models of social behavior and causal events. Hierarchies, 
+similar to societal organizations, offer a natural model with which to categorize systems 
+and subsystems. Causal relations (cause leads effect) match well with procedures and 
+operational flow diagrams. For more abstract concepts and complex data sets, a 
+combination of hierarchical and causal relations can be used, typically taking the form 
+UNCLASSIFIED/fFOA. OFFICIO ls. Plili ONls.¥ 
+18

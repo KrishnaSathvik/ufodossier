@@ -1,0 +1,46 @@
+UNCLASSIFIED/ /POlt err1e1J1tt U.!I! er\tt I 
+based on skin movement using technology similar to the operation of GPS. This system 
+would have the same inherent problem of signal conduction through tissue from all 
+directions. The key indicator of a future advance in EEG technology would be a study 
+showing noninvasive spiking or ERP signal detection from a coherent group of less than 
+10,000 neurons. Until progress in localization on this order is demonstrated, EEG-only 
+devices will remain low bit rate application technologies. 
+EEG-only sensor control of devices has been pursued with the supposition that signal 
+transmission directly from the motor cortex will outperform conventional mechanical 
+operation because the signal transmission delay between the neocortex and muscles in 
+the extremities will be augmented via a physical circuit. While this is true, the inherent 
+assumption that complex mechanical interface operation can be replaced with a 1 
+bit/second low-delay control pathway is incorrect for naturalistic environments. The 
+mill ions of channels of two-way communication between the extremities and the brain 
+naturally present will control naturalistic mechanical devices far better, and provides 
+the ability to react to an ever-changing environment. Adding significant computer 
+control and relegating the motor cortex to a supervisory role of low data bandwidth 
+could have benefits and is a possible path to real-world improved reaction time 
+application. Also beneficial to react ion time is the combined EMG EEG devices 
+mentioned above since the pathways between the brain and facial muscles are far 
+shorter than those to the extremities. 
+NONINVASIVE BOLD - BASED DEVICES 
+The detection resolution of hemodynamic responses using fMRI and NIRS type 
+technologies is expected to improve in the near, medium, and far terms. NIRS has been 
+deployed in naturalistic experiments, specifically, automobile driving, and it is 
+reasonable to envis ion such systems becoming small enough to wear in the medium to 
+far term. The limiting issue with BOLD technologies is that the detectable response is 
+delayed several seconds from neuronal firing, greatly limiting the cognitive control 
+applications available to these technologies. Progress in localization to below 0.5 mm 3 
+in a mobile device could indicate the possibility of high bit transfer rates with the use of 
+state vector machines, albeit with the inherent delay of the physiology. Until the 
+localization and portability issues are addressed in tandem, BOLD-only devices are 
+unlikely to be used for commercial cognitive control interfaces. 
+The vast majority of experiments in fMRI utilize the General Linear Model (GLM) and 
+something akin to a canonical hemodynamic response. There exists significant 
+physiological noise in these data analyses that are traditionally filtered out. The 
+differential results from Independent Component Analysis (ICA) and GLM analysis of the 
+same data sets indicate that there may be additional circulatory response mechanisms 
+with faster onsets than typical BOLD. Future studies indicating that filtering or analysis 
+methods may be ignoring important detectable signals that have inherently faster 
+response times would provide a breakthrough path for hemodynamic response 
+technologies. The current research to monitor on this matter is the technology known 
+as Inverse MRI which can capture high temporal resolution (100 frames a second for 
+single slices) T2* variations. 
+UNCLASSIFIED/ /POil Offl@IAL YSIE 8Htlf 
+25

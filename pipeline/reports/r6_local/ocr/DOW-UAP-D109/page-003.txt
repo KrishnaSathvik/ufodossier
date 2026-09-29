@@ -1,0 +1,55 @@
+• Wing: 
+• Phone Number: 
+• Email: 
+• Service: Air Force 
+• Operations Center: 
+INGEST 
+• Rank: 
+• Full Name: 
+• Unit: 
+• Wing: 
+• Phone Number: 
+• Email: 
+• Service: 
+• Operations Center: 
+ACEQUIP 
+ACEQUIP 
+• Aircraft Callsign: 
+• Radar Name or Destination: 
+• Radar Software Load or Mission Data: 
+• Radar Warning Receiver (RWR) Name or Designator: 
+• RWR Software Load or Mission Data: 
+• MWS Name or Designator: 
+• MWS Software Load or Mission Data: 
+• IRCM Name or Designator: 
+• IRCM Software Load or Mission Data: 
+• ECM Name or Designator: 
+• ECM Software Load or Mission Data: 
+• CMD Name or Designator: 
+• Chaff Designator: 
+• Num Chaff or Cartridges: 
+• Flare Designator: 
+• Num Flares: 
+• Towed Decoy Name or Designator: 
+• Towed Decoy Software Load or Mission Data: 
+• Num Towed Decoys: 
+• Type of Radar-Guided AAM: 
+• Num Radar-Guided AAM: 
+SECRET//REL TO USA, FVEY 
+SECRET//REL TO USA, FVEY 
+DECLASSIFED
+DECLASSIFED
+UNCLASSIFIED
+UNCLASSIFIED
+Declassified by:
+MG Richard A. Harrison
+USCENTCOM Chief of Staff
+Declassified on: 20260710
+ 
+ 
+(b) (6)
+(b) (6)
+(b) (6)
+(b) (6)
+(b) (6)
+3.5C. (B)(6)

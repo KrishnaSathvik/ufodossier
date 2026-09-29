@@ -1,0 +1,52 @@
+white; no strong colors are note@. As to similar motion, a definite grouping
+
+of objects is noticeable. The first two sequences, taken with the sky as @
+light blue, show what probably are two groups of three objects each, and two
+groups of two each. The final sequence, against the dark blue sky, shows four
+pairs of objects, with the fifth pair having drifted upwards, out of the camera's
+field of view.
+
+oe] 6. If the objects are reflecting, the "fade-in" and fade-out" are caused
+by changes in attitude of decidedly non-spherical objects, as in Answer 1 above.
+On the other hand, if they are light sources, the variation could be associated
+with their maneuvering activity.
+
+7. and 8. As explained in the opening paragraph, the objects are only
+small bright spots on the film. When they dim sufficiently, they become invis-
+ible; no dark spots can be identified with these objects. The only visible
+motion in any single frame is with respect to the camera's field of view. Slow
+motion examination of successive frames suggests a general flight pattern of
+sweeping skew curves in space. This concept of object motions produces no sharp
+breaks in their apparent flight paths, and also makes it practically impossible
+to detect rapid accelerations or decelerations along these paths.
+
+9. In the sequences during which the cemera was held motionless, to record
+the angular velocity of a single object, it is possible to measure this velocity.
+Three such passes can be seen. The first was incomplete, picking up the object
+near the center of the frame. The second and third passes were complete, from
+one edge of the field of view to the other.
+
+Fieure I shows the actual tracings of the object from frame to frame for
+both Passes No. 2 and No. 3. The distance from lens to screen was 100 inches.
+The focal length of the projection lens wes 2 inches. The enlargement of
+Figure I over the actual negative size is therefore 50 times. Oamera and pro-
+jector errors, plus small hand-held camera motions, probably account for the
+deviations from a straight line path. The average calculated angular velocity
+for both paths is about 2.1 degrees per second. JDetailed computations are given
+in Appendix I.
+
+10a. A slow motion viewing, plus single frame position plots, suggest that
+the objects are maneuvering in definite formations. However, successive identical
+positions are not indicated when position plots from any two frames in a sequence
+are superimposed. Yor instance, the first seouence of movement lasts 160 frames
+or 10 seconds. During the first seven seconds, clear plots for all 10 objects
+can be madé. These plots were mde at half second intervals or & frames apart.
+
+10b. Figure II represents a possible set of flight paths for this interval,
+derived as explained in Appendix II. It should be remembered that Figure II
+very likely contains some indeterminate and non-constant camera motion, both
+horizontal and vertical, caused by tracking the formations. This means that the
+directions and curvatures as show may be appreciably different from what a
+( y Stationary camera would have recorded. However, Figure II does help visualize
+
+DECLASSIFIED Authority NND 923007

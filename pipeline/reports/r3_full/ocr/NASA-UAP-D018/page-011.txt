@@ -1,0 +1,76 @@
+Rtndczvous guidance 
+& recovery system ____ _, 
+11 Ft 
+8 Ft 
+Separation point 
+Oxidizer tank 
+•Equipment bay 
+27 Ft 
+Stage 11 engine 
+thrust chamber 
+108 Ft 
+10 Ft 
+Oxidizer 
+tank 
+Stage I engine 
+g1mbal point 
+•Equipment bay contains: 
+• Batteries· 
+• Malfunction detection system IMOSI units 
+• Range safety command control system 
+• Programmer 
+• Three-axis reference system !TARSI 
+• Radio guidance system IRGSI 
+• Autopilot 
+• Instrumentation and telemetry system 
+FIG. 
+5/24/65 
+M-913-65-04 
+GENERAL 
+Gemini Flight Number Four (GT-4) is the second 
+manned orbital flight in the Gemini Program and 
+the fourth flight in a series of twelve planned to 
+develop long-duration and rendezvous capability, 
+docking techniques, extra-vehicular activities, 
+and controlled reentry. The first three Gemini 
+flights demonstrated: orbital insertion capability; 
+spacecraft structural integrity; and spacecraft 
+systems performance and crew accommodation 
+qualities, respectively. This GT-4 mission is 
+intended to further demonstrate manned space 
+flight for a period of four days, the longest 
+ever flown by two astronauts. The space vehicle 
+is depicted in Figure 1. 
+MISSION OBJECTIVES 
+PRIMARY 
+• Demonstrate and evaluate the performance of 
+the Gemini spacecraft systems for a period 
+exceeding four days. 
+• Evaluate the effects of prolonged exposure 
+to the space environment on the two-man 
+flight crew in preparation for missions of 
+longer duration. 
+SECONDARY 
+• Demonstrate OAMS capability to perform retro fire 
+backup. 
+• Demonstrate the capability of the spacecraft and 
+flight crew to make significant in-plane and 
+out-of-plane maneuvers. 
+• Conduct further evaluation of spacecraft 
+systems as outlined below: 
+1. Structure and thermo I protection 
+2. Environmental Control Systems (ECS) 
+3. Crew stations 
+4. Guidance and Control System 
+5. Orbital Attitude and Maneuver System 
+(OAMS) 
+• Execute the fol I owing experiments: 
+• D-1, Basic Object Photography 
+• D-6, Surface Photography 
+• D-8, Radiation in Spacecraft 
+• D-9, Simple Navigation 
+• M-3, In-Flight Exercises 
+• M-4, In-Flight Phonocardiogram 
+• M-6, Bone Demineralization 
+• MSC-1, Electrostatic Charge 
+Page 1

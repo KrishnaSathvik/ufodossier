@@ -1,0 +1,48 @@
+UNCLASSIFIED/ /POI\ OPPl@IAL li!I: 8,.Llf 
+plasma. When an ion beam is hot, the waves excited by the instability are ion acoustic 
+type waves. Then one observes that a certain temperature ratio is required before the 
+wave will go unstable. 
+He also developed a two-dimensional perturbative (~f) particle-in-cell algorithm to 
+simulate the electrostatic interaction of electrons and ions in spherical inertial 
+electrostatic confinement. of scheme is applied, because the noise level in of algorithm 
+is significantly reduced, compared with conventional particle-in-cell simulation. Since a 
+particle-in-cell simulation in two or three-dimensions is very computationally and 
+memory intensive, it is necessary to seek computational methods and options which 
+lead to solutions in a reasonable amount of time. A distributed computing approach is 
+implemented by using parallel librar ies. Applying a uniform grid spacing in spherical 
+coordinates may lead to a stability problem due to singularity at the spherical center. In 
+order to avoid the singularity issue, a two -dimensional rectangular domain and an 
+immersed boundary method are applied so that a spherical domain inside the cathode 
+gird of spherical electrostatic confinement is simulated by r-z coordinates. It is evident 
+from the result that the growth rate of instability, a ,decreasing function of the 
+longitudinal energy spread of ion distribution function, becomes reduced because the 
+large energy spread induces strong Landau damping by parallel kinetic effects. Besides 
+the effects of longitudinal Landau damping by the barn ions, a more monoenergetic 
+beam is able to stabilize the instability because a growth rate of instability can be 
+reduced for a higher beam density when the beam speed is fixed and located on the left 
+hill in the diagram of growth rate versus beam speed. The growth rate does not change 
+dramatically as a mode of angular perturbation increases. 
+The results summarized in Figure 4.10 indicated that the two-stream instability is 
+stabilized if the angular momentum spread of the beam ions is small enough, due to 
+enhanced ion densification at the center of the device . This is very encouraging for 
+future IEC development . However, an experimental study should be performed to verify 
+this result. 
+RIDER - ENERGY BALANCE STUDY 
+Todd Rider in Reference 4. 7 reports a quite different type of energy balance analysis. 
+While the prior papers used various methods to concentrate on up-down scattering in 
+various potential well configurations, Rider considered a "block diagram" type energy 
+flow balance to determine the net gain from a power unit. In such an analysis t he 
+reaction and scattering rates, plus the electron-ion equilibration rates, enter as (<av>) 
+averaged over the distribution functions for ions and electrons. Thus, the distribution 
+functions were not calculated explicitly in Rider's analysis. In addition to the base 
+function, any spatial variations in the distribution, such as pointed out by Tzonev et al., 
+must be envisioned via the assumed distribution function. In traditional magnetic 
+confinement analyses a Maxwellian distribution function has generally been assumed. 
+In prior Tokamak studies, this technique has been widely used with reasonable 
+accuracy since such systems are indeed near thermal equilibrium. In sharp contrast, as 
+stressed repeatedly here, the IEC is not. 
+This uncertainly in <av> makes an analysis of the type attempted by Rider very 
+challenging, and leaves it open for possible criticism. In fact, it appears that Rider used 
+Maxwellian key averages and critics generally cite this as the cause for his pessimistic 
+UNCLASSIFIED/ /FOA OFFICI.IJ.L: Wii ONL:¥ 
+43

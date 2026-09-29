@@ -1,0 +1,79 @@
+UNCLASSIFIED / /5OR-OFELGHH-USE-ONE
+
+21.W. Pauli, Z. Physik, 31 (1925) 373.
+
+22.Kouwenhoven LP*, Schon G*, and Sohn LL’, in Mesoscopic Electron Transport’,
+NATO ASI Series E*, Vol. 345 (Kluwer Academic Publishers’, Dordrecht’, 1997).
+
+23.Wolf SA, Awschalom DD, Buhrman RA, Daughton JM, vonMolnar S, Roukes ML,
+Chtchelkanova AY, and Treger DM, Science 294, 1488 (2001).
+
+24.Recher P, Sukhorukov EV, and Loss D, Phys. Rev. Lett. 85, 1962 (2000).
+
+25.Folk JA, Potok RM, Marcus CM, and Umansky V, Science 299, 679 (2003).
+
+26.Hanson R, Vandersypen LMK, Willems van Beveren LH, Elzerman JM, Vink IT, and
+Kouwenhoven LP, Phys. Rev. B 70, 241304 (2004).
+
+27.Ono K, Austing DG, Tokura Y, and Tarucha S, Science 297, 1313 (2002).
+
+28.For a comprehensive recent review on the topic, see Cerletti V, Coish WA, Gywat O,
+and Loss D, Nanotechnology 16, R27 (2005).
+
+29.Hanson R, Kouwenhoven LP, Petta JR, Tarucha S, and Vandersypen LMK, Rev. Mod.
+Phys. 79, 1217 (2007).
+
+30.Novoselov, K.S. et al. Electric field effect in atomically thin carbon films. Science 306,
+666-669 (2004).
+
+31.Novoselov, K.S. et al. Two-dimensional gas of massless Dirac fermions in graphene.
+Nature 438, 197-200 (2005).
+
+32.Zhang, Y., Tan, Y.-W., Stormer, H.L. & Kim, P. Experimental observation of the
+quantum Hall effect and Berry's phase in graphene. Nature 438, 201-204 (2005).
+
+33.Cheianov, V.V. & Fal’ko, V.I. Selective transmission of Dirac electrons and ballistic
+magnetoresistance of n - p junctions in graphene. Phys. Rev. B 74, 041403(R)
+(2006).
+
+34.Dombay, N.& Calogeracos, A. Seventy years of the Klein paradox. Phys. Rep. 315,
+41-58 (1999).
+
+35.Katsnelson, M.I., Novoselov, K.S.& Geim, A.K. Klein paradox in graphene. Nature
+Phys. 2, 620-625 (2006).
+
+36.McClure, J.W. Diamagnetism of graphite. Phys. Rev. 104, 666-671 (1956).
+
+37.Semenoff, G.W. Condensed-matter simulation of a threedimensional anomaly. Phys.
+Rev. Lett. 53, 2449-2452 (1984).
+
+38.DiVincenzo, D.P. & Mele, E.J. Self-consistent effective-mass theory for intralayer
+screening in graphite intercalation compounds. Phys. Rev. B 29, 1685-1694 (1984),
+
+39.Silvestrov, P.G. & Efetov, K.B. Quantum dots in graphene. Phys. Rev. Lett. 98,
+016802 (2007).
+
+40.Nilsson, J., Castro Neto, A.H., Guinea, F. & Peres, N.M.R. Transmission through a
+biased graphene bilayer barrier. Preprint at www.arXiv.org/cond-mat/0607343
+(2010).
+
+41.De Martino, A., Dell‘Anna, L. & Egger, R. Magnetic confinement of massless Dirac
+fermions in graphene. Preprint at www.arXiv.org/cond-mat/0610290 (2010).
+
+42.Silvestrov, P.G. & Efetov, K.B. Quantum dots in graphene. Phys. Rev. Lett. 98,
+016802 (2007).
+
+43.Hanson R, Kouwenhoven LP, Petta JR, Tarucha S, and Vandersypen LMK, Rev. Mod.
+Phys. 79,1217 (2007).
+
+44. Nakada K, Fujita M, Dresselhaus G, and Dresselhaus MS, Phys. Rev. B 54, 17954
+(1996).
+
+45.Brey L and Fertig HA, Phys. Rev. B 73, 235411 (2006).
+
+46.Son Y-W, Cohen ML, and Louie SG, Phys. Rev. Lett. 97, 216803 (2006).
+
+47.Giovannetti G, Khomyakov PA, Brocks G, Kelly PJ, and van den Brink J, Phys. Rev. B
+76, 073103 (2007).
+
+49 UNCLASSIFIED / / 5O2-O5FL6E-USE-ONEY

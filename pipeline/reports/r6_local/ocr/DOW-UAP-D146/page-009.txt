@@ -1,0 +1,43 @@
+UNCLASSIFIED / /FOR-OFFECEAL USE ONT
+
+10
+
+1o-!
+
+107
+
+Fusion cross-section (barn)
+
+io
+
+10-4
+
+10-5
+1 10 100 1000 10,000
+
+Centre-of-mass kinetic energy (keV)
+
+Figure 1, Fusion Reaction Cross Sections vs. Temperature
+
+Table 2: Fusion Peak Interaction Temperatures and Fusion Energy to X-rays
+
+fuel I; (keV) P fasion! Brem:strahlung
+
+iDiT (50 140
+1D;D 500 29
+1D-5He 100 53
+>He-3He 1000 0.72
+pvsli 800 0.21
+p’-sB |300 [0.57
+
+If the ratio is low, it takes more confining energy to sustain the reaction. The largest
+fusion output is obtained when the temperature is chosen so that <ov>/T’ is a
+maximum (known as the Lawson Criteria), which for plasma ignition is achieved when
+the fusion reactions produce enough power to maintain the temperature without
+external heating. This is shown in Table 3 for the most relevant neutronic and
+aneutronic fusion fuels. While the ignition temperature is up to a factor of 10 higher for
+the aneutronic fusion reactions, the confinement power required for ignition will be one
+to two orders of magnitude greater. This will therefore require some unique
+confinement concepts to achieve ignition.
+
+UNCLASSIFIED / /FUROPPICTALUSE-ONE-

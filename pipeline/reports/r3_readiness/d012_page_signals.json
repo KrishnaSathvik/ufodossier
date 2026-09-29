@@ -1,0 +1,665 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "text_chars": 103,
+      "ocr_quality": "native_thin",
+      "incident_cue_score": 0.0,
+      "date_location_cues": 1,
+      "routing_index_likelihood": 0.0,
+      "narrative_likelihood": 0.0,
+      "route": "uncertain"
+    },
+    {
+      "page": 2,
+      "text_chars": 469,
+      "ocr_quality": "native_good",
+      "incident_cue_score": 0.0,
+      "date_location_cues": 0,
+      "routing_index_likelihood": 0.9,
+      "narrative_likelihood": 0.0,
+      "route": "skip_routing"
+    },
+    {
+      "page": 3,
+      "text_chars": 0,
+      "ocr_quality": "needs_ocr",
+      "incident_cue_score": 0.0,
+      "date_location_cues": 0,
+      "routing_index_likelihood": 0.0,
+      "narrative_likelihood": 0.0,
+      "route": "skip_empty"
+    },
+    {
+      "page": 4,
+      "text_chars": 186,
+      "ocr_quality": "native_thin",
+      "incident_cue_score": 0.0,
+      "date_location_cues": 0,
+      "routing_index_likelihood": 0.0,
+      "narrative_likelihood": 0.0,
+      "route": "uncertain"
+    },
+    {
+      "page": 5,
+      "text_chars": 834,
+      "ocr_quality": "native_good",
+      "incident_cue_score": 0.333,
+      "date_location_cues": 2,
+      "routing_index_likelihood": 0.0,
+      "narrative_likelihood": 0.0,
+      "route": "skip_press"
+    },
+    {
+      "page": 6,
+      "text_chars": 23,
+      "ocr_quality": "needs_ocr",
+      "incident_cue_score": 0.0,
+      "date_location_cues": 0,
+      "routing_index_likelihood": 0.0,
+      "narrative_likelihood": 0.0,
+      "route": "skip_empty"
+    },
+    {
+      "page": 7,
+      "text_chars": 420,
+      "ocr_quality": "needs_ocr",
+      "incident_cue_score": 0.0,
+      "date_location_cues": 0,
+      "routing_index_likelihood": 0.0,
+      "narrative_likelihood": 0.0,
+      "route": "uncertain"
+    },
+    {
+      "page": 8,
+      "text_chars": 0,
+      "ocr_quality": "needs_ocr",
+      "incident_cue_score": 0.0,
+      "date_location_cues": 0,
+      "routing_index_likelihood": 0.0,
+      "narrative_likelihood": 0.0,
+      "route": "skip_empty"
+    },
+    {
+      "page": 9,
+      "text_chars": 0,
+      "ocr_quality": "needs_ocr",
+      "incident_cue_score": 0.0,
+      "date_location_cues": 0,
+      "routing_index_likelihood": 0.0,
+      "narrative_likelihood": 0.0,
+      "route": "skip_empty"
+    },
+    {
+      "page": 10,
+      "text_chars": 0,
+      "ocr_quality": "needs_ocr",
+      "incident_cue_score": 0.0,
+      "date_location_cues": 0,
+      "routing_index_likelihood": 0.0,
+      "narrative_likelihood": 0.0,
+      "route": "skip_empty"
+    },
+    {
+      "page": 11,
+      "text_chars": 0,
+      "ocr_quality": "needs_ocr",
+      "incident_cue_score": 0.0,
+      "date_location_cues": 0,
+      "routing_index_likelihood": 0.0,
+      "narrative_likelihood": 0.0,
+      "route": "skip_empty"
+    },
+    {
+      "page": 12,
+      "text_chars": 0,
+      "ocr_quality": "needs_ocr",
+      "incident_cue_score": 0.0,
+      "date_location_cues": 0,
+      "routing_index_likelihood": 0.0,
+      "narrative_likelihood": 0.0,
+      "route": "skip_empty"
+    },
+    {
+      "page": 13,
+      "text_chars": 1025,
+      "ocr_quality": "native_good",
+      "incident_cue_score": 1.0,
+      "date_location_cues": 4,
+      "routing_index_likelihood": 0.0,
+      "narrative_likelihood": 0.85,
+      "route": "narrative"
+    },
+    {
+      "page": 14,
+      "text_chars": 459,
+      "ocr_quality": "native_thin",
+      "incident_cue_score": 0.0,
+      "date_location_cues": 0,
+      "routing_index_likelihood": 0.9,
+      "narrative_likelihood": 0.0,
+      "route": "skip_routing"
+    },
+    {
+      "page": 15,
+      "text_chars": 855,
+      "ocr_quality": "native_good",
+      "incident_cue_score": 1.0,
+      "date_location_cues": 3,
+      "routing_index_likelihood": 0.0,
+      "narrative_likelihood": 0.85,
+      "route": "narrative"
+    },
+    {
+      "page": 16,
+      "text_chars": 0,
+      "ocr_quality": "needs_ocr",
+      "incident_cue_score": 0.0,
+      "date_location_cues": 0,
+      "routing_index_likelihood": 0.0,
+      "narrative_likelihood": 0.0,
+      "route": "skip_empty"
+    },
+    {
+      "page": 17,
+      "text_chars": 631,
+      "ocr_quality": "native_good",
+      "incident_cue_score": 0.0,
+      "date_location_cues": 0,
+      "routing_index_likelihood": 0.9,
+      "narrative_likelihood": 0.0,
+      "route": "skip_routing"
+    },
+    {
+      "page": 18,
+      "text_chars": 45,
+      "ocr_quality": "needs_ocr",
+      "incident_cue_score": 0.0,
+      "date_location_cues": 0,
+      "routing_index_likelihood": 0.0,
+      "narrative_likelihood": 0.0,
+      "route": "skip_empty"
+    },
+    {
+      "page": 19,
+      "text_chars": 6019,
+      "ocr_quality": "needs_ocr",
+      "incident_cue_score": 0.333,
+      "date_location_cues": 0,
+      "routing_index_likelihood": 0.0,
+      "narrative_likelihood": 0.0,
+      "route": "uncertain"
+    },
+    {
+      "page": 20,
+      "text_chars": 581,
+      "ocr_quality": "native_good",
+      "incident_cue_score": 1.0,
+      "date_location_cues": 6,
+      "routing_index_likelihood": 0.0,
+      "narrative_likelihood": 0.85,
+      "route": "narrative"
+    },
+    {
+      "page": 21,
+      "text_chars": 552,
+      "ocr_quality": "native_good",
+      "incident_cue_score": 1.0,
+      "date_location_cues": 0,
+      "routing_index_likelihood": 0.0,
+      "narrative_likelihood": 0.85,
+      "route": "narrative"
+    },
+    {
+      "page": 22,
+      "text_chars": 2231,
+      "ocr_quality": "native_good",
+      "incident_cue_score": 0.667,
+      "date_location_cues": 1,
+      "routing_index_likelihood": 0.0,
+      "narrative_likelihood": 0.85,
+      "route": "narrative"
+    },
+    {
+      "page": 23,
+      "text_chars": 1375,
+      "ocr_quality": "native_good",
+      "incident_cue_score": 0.333,
+      "date_location_cues": 2,
+      "routing_index_likelihood": 0.0,
+      "narrative_likelihood": 0.7,
+      "route": "narrative"
+    },
+    {
+      "page": 24,
+      "text_chars": 630,
+      "ocr_quality": "native_good",
+      "incident_cue_score": 0.667,
+      "date_location_cues": 1,
+      "routing_index_likelihood": 0.0,
+      "narrative_likelihood": 0.85,
+      "route": "narrative"
+    },
+    {
+      "page": 25,
+      "text_chars": 216,
+      "ocr_quality": "native_good",
+      "incident_cue_score": 0.0,
+      "date_location_cues": 0,
+      "routing_index_likelihood": 0.0,
+      "narrative_likelihood": 0.0,
+      "route": "uncertain"
+    },
+    {
+      "page": 26,
+      "text_chars": 714,
+      "ocr_quality": "native_good",
+      "incident_cue_score": 0.333,
+      "date_location_cues": 0,
+      "routing_index_likelihood": 0.0,
+      "narrative_likelihood": 0.7,
+      "route": "narrative"
+    },
+    {
+      "page": 27,
+      "text_chars": 259,
+      "ocr_quality": "native_good",
+      "incident_cue_score": 0.667,
+      "date_location_cues": 0,
+      "routing_index_likelihood": 0.0,
+      "narrative_likelihood": 0.85,
+      "route": "narrative"
+    },
+    {
+      "page": 28,
+      "text_chars": 818,
+      "ocr_quality": "native_good",
+      "incident_cue_score": 1.0,
+      "date_location_cues": 1,
+      "routing_index_likelihood": 0.0,
+      "narrative_likelihood": 0.85,
+      "route": "narrative"
+    },
+    {
+      "page": 29,
+      "text_chars": 668,
+      "ocr_quality": "native_good",
+      "incident_cue_score": 0.333,
+      "date_location_cues": 2,
+      "routing_index_likelihood": 0.0,
+      "narrative_likelihood": 0.7,
+      "route": "narrative"
+    },
+    {
+      "page": 30,
+      "text_chars": 1658,
+      "ocr_quality": "needs_ocr",
+      "incident_cue_score": 1.0,
+      "date_location_cues": 2,
+      "routing_index_likelihood": 0.0,
+      "narrative_likelihood": 0.85,
+      "route": "narrative"
+    },
+    {
+      "page": 31,
+      "text_chars": 664,
+      "ocr_quality": "native_good",
+      "incident_cue_score": 1.0,
+      "date_location_cues": 0,
+      "routing_index_likelihood": 0.0,
+      "narrative_likelihood": 0.85,
+      "route": "narrative"
+    },
+    {
+      "page": 32,
+      "text_chars": 0,
+      "ocr_quality": "needs_ocr",
+      "incident_cue_score": 0.0,
+      "date_location_cues": 0,
+      "routing_index_likelihood": 0.0,
+      "narrative_likelihood": 0.0,
+      "route": "skip_empty"
+    },
+    {
+      "page": 33,
+      "text_chars": 1750,
+      "ocr_quality": "native_good",
+      "incident_cue_score": 0.667,
+      "date_location_cues": 3,
+      "routing_index_likelihood": 0.0,
+      "narrative_likelihood": 0.85,
+      "route": "narrative"
+    },
+    {
+      "page": 34,
+      "text_chars": 804,
+      "ocr_quality": "native_thin",
+      "incident_cue_score": 0.0,
+      "date_location_cues": 0,
+      "routing_index_likelihood": 0.0,
+      "narrative_likelihood": 0.0,
+      "route": "uncertain"
+    },
+    {
+      "page": 35,
+      "text_chars": 722,
+      "ocr_quality": "native_good",
+      "incident_cue_score": 0.667,
+      "date_location_cues": 1,
+      "routing_index_likelihood": 0.0,
+      "narrative_likelihood": 0.85,
+      "route": "narrative"
+    },
+    {
+      "page": 36,
+      "text_chars": 1619,
+      "ocr_quality": "native_good",
+      "incident_cue_score": 0.667,
+      "date_location_cues": 5,
+      "routing_index_likelihood": 0.0,
+      "narrative_likelihood": 0.85,
+      "route": "narrative"
+    },
+    {
+      "page": 37,
+      "text_chars": 2403,
+      "ocr_quality": "needs_ocr",
+      "incident_cue_score": 0.0,
+      "date_location_cues": 0,
+      "routing_index_likelihood": 0.0,
+      "narrative_likelihood": 0.0,
+      "route": "uncertain"
+    },
+    {
+      "page": 38,
+      "text_chars": 370,
+      "ocr_quality": "native_thin",
+      "incident_cue_score": 0.0,
+      "date_location_cues": 0,
+      "routing_index_likelihood": 0.0,
+      "narrative_likelihood": 0.0,
+      "route": "uncertain"
+    },
+    {
+      "page": 39,
+      "text_chars": 2,
+      "ocr_quality": "needs_ocr",
+      "incident_cue_score": 0.0,
+      "date_location_cues": 0,
+      "routing_index_likelihood": 0.0,
+      "narrative_likelihood": 0.0,
+      "route": "skip_empty"
+    },
+    {
+      "page": 40,
+      "text_chars": 340,
+      "ocr_quality": "native_good",
+      "incident_cue_score": 0.0,
+      "date_location_cues": 2,
+      "routing_index_likelihood": 0.0,
+      "narrative_likelihood": 0.0,
+      "route": "uncertain"
+    },
+    {
+      "page": 41,
+      "text_chars": 1543,
+      "ocr_quality": "native_good",
+      "incident_cue_score": 1.0,
+      "date_location_cues": 2,
+      "routing_index_likelihood": 0.0,
+      "narrative_likelihood": 0.85,
+      "route": "narrative"
+    },
+    {
+      "page": 42,
+      "text_chars": 624,
+      "ocr_quality": "native_good",
+      "incident_cue_score": 0.0,
+      "date_location_cues": 0,
+      "routing_index_likelihood": 0.9,
+      "narrative_likelihood": 0.0,
+      "route": "skip_routing"
+    },
+    {
+      "page": 43,
+      "text_chars": 1259,
+      "ocr_quality": "native_good",
+      "incident_cue_score": 0.333,
+      "date_location_cues": 4,
+      "routing_index_likelihood": 0.0,
+      "narrative_likelihood": 0.7,
+      "route": "narrative"
+    },
+    {
+      "page": 44,
+      "text_chars": 2427,
+      "ocr_quality": "native_good",
+      "incident_cue_score": 0.0,
+      "date_location_cues": 4,
+      "routing_index_likelihood": 0.0,
+      "narrative_likelihood": 0.0,
+      "route": "uncertain"
+    },
+    {
+      "page": 45,
+      "text_chars": 17,
+      "ocr_quality": "needs_ocr",
+      "incident_cue_score": 0.0,
+      "date_location_cues": 0,
+      "routing_index_likelihood": 0.0,
+      "narrative_likelihood": 0.0,
+      "route": "skip_empty"
+    },
+    {
+      "page": 46,
+      "text_chars": 1079,
+      "ocr_quality": "native_good",
+      "incident_cue_score": 0.667,
+      "date_location_cues": 2,
+      "routing_index_likelihood": 0.0,
+      "narrative_likelihood": 0.85,
+      "route": "narrative"
+    },
+    {
+      "page": 47,
+      "text_chars": 7,
+      "ocr_quality": "needs_ocr",
+      "incident_cue_score": 0.0,
+      "date_location_cues": 0,
+      "routing_index_likelihood": 0.0,
+      "narrative_likelihood": 0.0,
+      "route": "skip_empty"
+    },
+    {
+      "page": 48,
+      "text_chars": 7,
+      "ocr_quality": "needs_ocr",
+      "incident_cue_score": 0.0,
+      "date_location_cues": 0,
+      "routing_index_likelihood": 0.0,
+      "narrative_likelihood": 0.0,
+      "route": "skip_empty"
+    },
+    {
+      "page": 49,
+      "text_chars": 560,
+      "ocr_quality": "native_good",
+      "incident_cue_score": 0.0,
+      "date_location_cues": 0,
+      "routing_index_likelihood": 0.0,
+      "narrative_likelihood": 0.0,
+      "route": "uncertain"
+    },
+    {
+      "page": 50,
+      "text_chars": 20,
+      "ocr_quality": "needs_ocr",
+      "incident_cue_score": 0.0,
+      "date_location_cues": 0,
+      "routing_index_likelihood": 0.0,
+      "narrative_likelihood": 0.0,
+      "route": "skip_empty"
+    },
+    {
+      "page": 51,
+      "text_chars": 914,
+      "ocr_quality": "native_thin",
+      "incident_cue_score": 1.0,
+      "date_location_cues": 5,
+      "routing_index_likelihood": 0.0,
+      "narrative_likelihood": 0.85,
+      "route": "narrative"
+    },
+    {
+      "page": 52,
+      "text_chars": 448,
+      "ocr_quality": "native_thin",
+      "incident_cue_score": 0.0,
+      "date_location_cues": 0,
+      "routing_index_likelihood": 0.0,
+      "narrative_likelihood": 0.0,
+      "route": "skip_press"
+    },
+    {
+      "page": 53,
+      "text_chars": 0,
+      "ocr_quality": "needs_ocr",
+      "incident_cue_score": 0.0,
+      "date_location_cues": 0,
+      "routing_index_likelihood": 0.0,
+      "narrative_likelihood": 0.0,
+      "route": "skip_empty"
+    },
+    {
+      "page": 54,
+      "text_chars": 10,
+      "ocr_quality": "needs_ocr",
+      "incident_cue_score": 0.0,
+      "date_location_cues": 0,
+      "routing_index_likelihood": 0.0,
+      "narrative_likelihood": 0.0,
+      "route": "skip_empty"
+    },
+    {
+      "page": 55,
+      "text_chars": 179,
+      "ocr_quality": "native_good",
+      "incident_cue_score": 0.667,
+      "date_location_cues": 0,
+      "routing_index_likelihood": 0.0,
+      "narrative_likelihood": 0.0,
+      "route": "skip_press"
+    },
+    {
+      "page": 56,
+      "text_chars": 7557,
+      "ocr_quality": "native_good",
+      "incident_cue_score": 1.0,
+      "date_location_cues": 3,
+      "routing_index_likelihood": 0.0,
+      "narrative_likelihood": 0.0,
+      "route": "skip_press"
+    },
+    {
+      "page": 57,
+      "text_chars": 5483,
+      "ocr_quality": "native_thin",
+      "incident_cue_score": 0.333,
+      "date_location_cues": 0,
+      "routing_index_likelihood": 0.0,
+      "narrative_likelihood": 0.0,
+      "route": "uncertain"
+    },
+    {
+      "page": 58,
+      "text_chars": 6606,
+      "ocr_quality": "native_good",
+      "incident_cue_score": 1.0,
+      "date_location_cues": 10,
+      "routing_index_likelihood": 0.0,
+      "narrative_likelihood": 0.0,
+      "route": "skip_press"
+    },
+    {
+      "page": 59,
+      "text_chars": 12471,
+      "ocr_quality": "native_good",
+      "incident_cue_score": 1.0,
+      "date_location_cues": 9,
+      "routing_index_likelihood": 0.0,
+      "narrative_likelihood": 0.0,
+      "route": "skip_press"
+    },
+    {
+      "page": 60,
+      "text_chars": 14703,
+      "ocr_quality": "native_good",
+      "incident_cue_score": 1.0,
+      "date_location_cues": 5,
+      "routing_index_likelihood": 0.0,
+      "narrative_likelihood": 0.0,
+      "route": "skip_press"
+    },
+    {
+      "page": 61,
+      "text_chars": 24591,
+      "ocr_quality": "native_good",
+      "incident_cue_score": 1.0,
+      "date_location_cues": 13,
+      "routing_index_likelihood": 0.0,
+      "narrative_likelihood": 0.0,
+      "route": "skip_press"
+    },
+    {
+      "page": 62,
+      "text_chars": 7935,
+      "ocr_quality": "native_good",
+      "incident_cue_score": 1.0,
+      "date_location_cues": 19,
+      "routing_index_likelihood": 0.0,
+      "narrative_likelihood": 0.0,
+      "route": "skip_press"
+    },
+    {
+      "page": 63,
+      "text_chars": 2162,
+      "ocr_quality": "native_good",
+      "incident_cue_score": 0.333,
+      "date_location_cues": 2,
+      "routing_index_likelihood": 0.0,
+      "narrative_likelihood": 0.0,
+      "route": "skip_press"
+    },
+    {
+      "page": 64,
+      "text_chars": 6,
+      "ocr_quality": "needs_ocr",
+      "incident_cue_score": 0.0,
+      "date_location_cues": 0,
+      "routing_index_likelihood": 0.0,
+      "narrative_likelihood": 0.0,
+      "route": "skip_empty"
+    },
+    {
+      "page": 65,
+      "text_chars": 49,
+      "ocr_quality": "native_thin",
+      "incident_cue_score": 0.0,
+      "date_location_cues": 0,
+      "routing_index_likelihood": 0.0,
+      "narrative_likelihood": 0.0,
+      "route": "skip_empty"
+    },
+    {
+      "page": 66,
+      "text_chars": 481,
+      "ocr_quality": "native_good",
+      "incident_cue_score": 0.0,
+      "date_location_cues": 0,
+      "routing_index_likelihood": 0.0,
+      "narrative_likelihood": 0.0,
+      "route": "uncertain"
+    }
+  ],
+  "count": 66
+}

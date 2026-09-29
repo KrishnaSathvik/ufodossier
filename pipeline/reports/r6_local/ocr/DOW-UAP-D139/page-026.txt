@@ -1,0 +1,61 @@
+UNCLASSIFIED/ 420 R-OFFt6H-USE-ONEE—
+
+Table 1. Substantial Gravitational Squeezing Occurs for Vacuum ZPF When A >
+8irs
+
+2.48 x 10°°4 aa ei -3.50 x 10184
+
+For example, near the surface of the Earth (r= Ro, M = Mo), Ac = 2.42 x 101! m and
+hence, Equation (7) gives pe-gsvac » —1.82 x 107° J/m3. Compare these values with A =
+0.23 m and pe-gsvac = —2.23 x 10-22 J/m? in Table 1. The resolution of this disagreement
+remains an open question.
+
+Mass of body (kg)
+Sun = 2.00 x 10°°
+
+Jupiter = 1.90 x 1027
+Earth = 5.98 x 1074
+Typical mountain = 101!
+Planck mass = 2.18 x 10-8
+
+Proton = 1.67 x 10°27
+
+One is presently unaware of any way to artificially generate gravitational squeezing of
+the vacuum in the laboratory. This will be left for future investigation. However, it is
+predicted to occur in the vicinity of astronomical matter. Naturally occurring traversable
+wormholes in the vicinity of astronomical matter would therefore become possible.
+
+4. Vacuum Field Stress: Negative Energy from the Casimir Effect
+
+The Casimir effect is by far the easiest
+and most well known way to generate
+negative energy in the lab. The Casimir
+effect that is familiar to most people is
+the force that is associated with the
+electromagnetic quantum vacuum
+(Reference 51). This is an attractive
+force that must exist between any two
+neutral (uncharged), parallel, flat,
+conducting surfaces (e.g., metallic
+plates) in a vacuum. This force has been
+well measured and it can be attributed
+to a minute imbalance in the vacuum
+electromagnetic zero-point energy
+density inside the cavity between the
+conducting surfaces versus the vacuum
+electromagnetic zero-point energy
+density in the free-space region outside
+of the cavity (Reference 52-54). See
+Figure 12 for an illustration of this
+effect.
+
+wa \
+
+Casimir a
+lat A
+aia fluctuations
+
+Figure 12. Schematic of the Casimir Effect
+
+18
+UNCLASSIFIED LLEOR_OSEIGIALUSE-ONEY

@@ -1,0 +1,21 @@
+--
+UNCLASSIFIED/ /FOR OFFl@IAL l::l!H! 8HL'I 
+McDonnell Aircraft 
+Advanced Design Dept. 
+1958 to 1967 
+Mr. H. D.Altis, Director 
+Figure 3. HSVS Hypersonic Cruise Aircraft Showing True Skin Temperature 
+A wide variety of configurations for recoverable spacecraft are possible. But if the 
+requirements for a transportation system capable of traveling to and returning from 
+space are to be met, the configurations spectrum is significantly narrowed. Two basic 
+configuration types emerge. One configurat ion is for a hypersonic glider powered by 
+either rocket or air-breathing rocket cycle propulsion that can operate as air-breath ing 
+propulsion to mach 5.5 or less. A versatile variable-capture, inward-turning inlet 4 can 
+be integrated with the vehicle configuration derived from the FDL series of hypersonic 
+gliders developed by the U.S. Air Force Flight Dynam ics Laboratory (AFFDL)5 and the 
+work of the McDonnell Douglas Astronautics Company. Because of the mass ratio to 
+orbit, these configurations are vertical takeoff and horizontal landing vehicles, 
+exemplified by the upper-left vehicle in Figure 4. This vehicle is usually an upper stage 
+in a two-stage-to-orbit rather than a single-stage -to-orbit vehicle. 
+UNCLASSIFIED/ /EAR OFFICIO I. Uiliii 0PUi!lf 
+3

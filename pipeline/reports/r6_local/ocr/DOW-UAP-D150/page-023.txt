@@ -1,0 +1,46 @@
+UNCLASSIFIED/ /FOA OFFIEIAk W&lii 0NLY 
+loss within waveguides, and is equivalent to decoherence time in other quantum hardware. n 
+The size of quantum gates is currently on the order of cm; this hurdle becomes less as gate 
+size decreases. It is finally concluded that photons will likely be used in a hybrid technology 
+with another quantum element serving as the basis for gates and other interact ions. This 
+scheme is known as distributed quantum computing, where elements can be separated by 
+significant distance. This distance is either large by comparison with gate or gate array size, 
+or actually large (km) in a communications network. 
+Photonic technologies are a very active development area: the raw number of publications 
+found for "photon computers" or "photon comput ing" shows more entries for 2009 than for 
+2008 and 2007 combined.° Furthermore, many devices operate at or near room temperature 
+and most do not require expensive cryogenic systems (temperature below He boiling point), 
+making them inexpensive to research versus other technologies. These objective measures 
+make breakthroughs more likely, and in 10 years all-optical computing should be addressing 
+problems that cannot be accomplished via classical systems. In 40 years, manufacturing 
+engineering will decrease the cost of these devices and they will be an option for many 
+computing tasks in the space environment. 
+Ion and Atomic Trap Technologies 
+Individual atomic ions can be trapped in free space by nanoscale electrodes, while atoms can 
+be trapped in an optical lattice created by lasers. In the ion systems, manipulation of 
+electrode voltages move ions around the lattice and interact them with each other. In atomic 
+systems, modulation of the optical lattice and/or external optical interference is used to 
+manipulate the atoms. Ladd concludes that scaling is the primary hurdle in trap-based 
+technologies. 
+More detail of such hurdles in trap technologies is revealed in a year earlier (much longer) 
+review by Haffner. (81) Ion-trap-based gate operations are shown to have arbitrar ily high 
+fidelity, or higher fidelity than required for fault-tolerant computation. The current bottleneck 
+in trap technology versus classical systems is the trapping frequency of a few hundred 
+microseconds, even though massive parallel operations are possible. Haffner concludes that 
+there are no fundamental barriers to scaling trap-based computing, but the technology is 
+challeng ing and will progress as evolution rather than revolution. This is encouraging given 
+that 40 years ago 20-nm transistors seemed challenging, but without fundamental 
+operational barriers. 
+Nuclear Magnetic Resonance (NMR) Technologies 
+NMR storage and manipulation has been shown in liquid media up to a dozen qubits. Liquids 
+are preferred because of their longer T2. However, thermal motion in the liquid state made 
+scalability an issue. Moving to solid state NMR to address thermodynamic issues dramat ically 
+decreases T2. Ladd concludes that NMR technologies are a good testing ground for fault­
+tolerant algorithm development, but of little practical use for quantum computing. 
+Superconducting Technologies 
+Superconductivity is the flow of electric ity without resistive losses. Similar to the laser, this 
+macroscopic phenomenon has quantum mechanical origins. When cooled below a critical 
+n A waveguide is the equivalent "wire" that isolates the transmission of photons between interaction and storage devices. 
+0 Web of Science database, Inquired 30 June 2010 . 
+22 
+UNCLASSIFIED//FOR OFFIClftt tJ.!I!!! 8HLY

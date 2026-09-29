@@ -1,0 +1,51 @@
+114 Maurice DuBIN
+
+consideration of long-duration meteor echoes it has been suggested that the electron
+density in the trail is greater than the critical density for the radio wavelengths
+employed in probing meteors, and has led to a revision of the Herlofson ratios for
+the production of heat, light, and ionization. GREENHOW and Hawkins (1952)
+thereby found that a meteor of visual magnitude +6 would produce approxi-
+mately 10! electrons per centimetre of path. This is one hundred times greater
+than Hrrborson’s estimates, and leads to a discrepancy of roughly five stellar
+magnitudes between his theoretical estimate and the experimental determination
+of electron-line density in meteor trails. GREENHOW and Hawkxrns conclude that
+meteors produce more ionization than was originally estimated. Instead of the
+kinetic energy of the meteor being divided between heat, light, and ionization in
+the ratio 104 : 10? : 1, the ratios are probably 104 : 10? : 10 for bright meteors, and
+104: 10: 10 for faint meteors. These revised estimates imply that the visual
+magnitudes corresponding to an echo of given characteristics is about five magni-
+tudes fainter than given by Hurtorson. This means that the majority of echoes
+of short duration must arise from meteors which are below the limits of naked-eye
+visibility, and conversely, that all visible meteors must produce radio echoes of
+long duration—a well-known observational fact.
+
+A further consideration in the model of Hertorson is the fact that unmelted
+meteorites have been found on the surface of the earth. WurprLe (1950, 1951)
+has shown that the micrometeorite, if below a certain size, can dissipate the
+energy gained sufficiently rapidly to permit these particles to be stopped by the
+atmosphere without melting. Recalling that the Herlofson model required that
+ablation of the meteorite was the initial step in the production of light and
+ionization, this point warrants some discussion. GREENHOW and HawkINs
+(1952) have indicated that for radio meteors the amount of light produced is
+correspondingly reduced for small meteoric particles but the relative ionization is
+not reduced, but rather is generally larger than indicated by HmrLorson’s treatment.
+
+It seems worthwhile to review briefly the physical process involved in the
+interaction of a micrometeorite with the atmosphere. Since it is not believed that
+ablation results for these very small particles, one might question whether or not
+the ionization efficiency would become correspondingly poorer. The physical
+problem is one of considering a collision of the micrometeorite with a molecule or
+atom of air, with the relative energy of collision in the range from 10 to 800 eV.
+The mean free path of the air is much greater than the diameter of the micro-
+meteorite, and thus the problem may be treated by kinetic theory rather than
+fluid dynamics.
+
+There are several processes which might occur: (1) An elastic collision of a
+molecule of air with the micrometeorite would yield a molecule with a velocity
+capable of ionizing. (2) An inelastic collision of a molecule of air with the micro-
+meteorites such that the air molecule enters the surface of the micrometeorite, and
+thereby heats the micrometeorite and also forms a ‘monolayer’ on the surface;
+such molecules if not chemically bonded to the surface might very easily evaporate
+off the surface with the velocity high enough for ionization. (3) Secondary ioniza-
+tion from collisions with a surface. (4) Attachment to oxygen by the collision and
+the eventual addition of a free electron to the atmosphere; and (5) sputtering of

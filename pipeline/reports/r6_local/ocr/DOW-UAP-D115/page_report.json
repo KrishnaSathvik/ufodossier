@@ -1,0 +1,36 @@
+{
+  "filename": "DOW-UAP-D115.pdf",
+  "generated_at": "2026-09-28T20:43:51.660667+00:00",
+  "page_count": 1,
+  "usable_text_chars": 849,
+  "stats": {
+    "native_good": 0,
+    "native_thin": 0,
+    "needs_ocr": 1,
+    "ocr_failed": 0,
+    "ocr_succeeded": 1,
+    "pages_ocrd": 1,
+    "ocr_unrecoverable_thumbnail": 0
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "native_quality": {
+        "page_number": 1,
+        "native_char_count": 897,
+        "printable_ratio": 0.999,
+        "alpha_ratio": 0.562,
+        "word_count": 99,
+        "replacement_char_count": 0,
+        "category": "native_thin",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.14, clean=0.53))"
+      },
+      "final_category": "native_thin",
+      "text_method": "tesseract",
+      "char_count": 834,
+      "text": ""
+    }
+  ],
+  "combined_path": "/Users/krishnasathvikmantripragada/Webapps/ufo-dossier/pipeline/reports/r6_local/ocr/DOW-UAP-D115/combined.txt",
+  "production_writes": false
+}

@@ -1,0 +1,35 @@
+UNCLASSIFIED//&Olil OiiiilCI0L Llili QPIL¥ 
+section below. For a 5 µsec acquire test time, the result is Tacq = 150 x 150 x 16 x 5 
+µsec= 1.8 seconds acquisition time. 
+However, with effect ively perfect knowledge of time, frequency, and hence also phase, 
+there will only be one case to check, so result is Tacq = 1 x 1 x 1 x 5 µsec = 5 µsec 
+acquisition time. This is essentially instantaneous for applicat ions such as TCP/IP or 
+VoIP. This will favorably impact the overall TDMA efficiency in that it speeds the 
+claiming process to the point where an "always on" link can be replaced by a "link on 
+demand." This is a savings of 25 to 50 percent in channel usage for VoIP and TCP/IP 
+sessions over "always on." 
+3.3.3 The Impact of Phase Noise Improvements on Phase Shift 
+Encoding 
+The use of a universal HFGW FTS would also benefit the relative phase noise of all 
+term inals, allowing for finer phase encoding. Phase noise limits the type of modulation 
+and manner of encoding that can be performed in phase space, commonly used for 
+over the air telecommun ication systems . An HFGW FTS system could reduce phase 
+noise by providing a frequency reference with outstanding stability. For examp le, 
+moving from QPSK to 8PSK or 16-PSK improves bandwidth efficiency by a factor of 2 to 
+4. The phase space improvement is summarized in Figure 21. 
+Q Q 
+(a) QPSK (b) Low Noise QPSK (c) Low Noise BPSK (d) Low Noise 16-PSK 
+Figure 21. The Impact of Phase Noise Improvements on Phase Shift Encoding 
+In the example of Figure 21 nominal performance allows only QPSK, but improved 
+phase noise would allow higher density phase encoding. Data rate will scale linearly 
+with encoding efficiency as shown in Equation ( 13): 
+Data Rate = (BW/2) x (Coding Efficiency) x (FEC Rate)/ (PN Spreading Factor) (13) 
+Coding efficiency will be a factor of 2 better when moving from QPSK to 8PSK, or a 
+factor of 4 better when moving from QPSK to 16-PSK. This will translate directly into a 
+linear increase in the allowable data rate that a given bandwidth can support. Put 
+another way, a universal frequency time standard could quadruple over the air 
+bandwidth efficiencies just by improving phase noise alone. Phase noise improvements 
+would be limited only by the slight variations induced in the HFGW signal passing 
+through the earth as described in Baker (2007). 
+UNCLASSIFIED/ /FOR OiiiilCl.t.k HSI!! eflti 
+29

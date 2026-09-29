@@ -1,0 +1,25 @@
+UNCLASSIFIED/ /POI\ OPPICIJ!tt U.!E! Oflt ( 
+I2
+~ 
+I , 
+I I 
+I I 
+I I 
+r.,_ 
+- --
+I 
+Figure 16. Demonstration of Negative Refraction With "Bulk" Optical Metamaterials Made of 
+Nanowires 27 
+Fundamental Problem 
+The demonstrated microwave-cloaking device only works correctly for microwave 
+radiation of a specific frequency (wavelength), and the proposed optical cloaking device 
+would also work for just one frequency; that is, for only one color. Light of different 
+colors would be severely distorted. So, to see things disappear in a cloaking device, one 
+should wear tinted glasses of the required color, which of course completely defeats the 
+purpose. This design flaw is inevitable, 28 no matter how much progress is made in the 
+technology of metamaterials, for the following reason: the device is designed such that 
+light waves traveling around the object enclosed by the cloaking device are completely 
+indistinguishable from light waves propagating through empty space. This is achieved 
+by implementing the coordinate transformation shown below in Figure 17.29 
+UNCLASSIFIED/ /fOll OPPIEIJtt U.!E! Oflt I 
+15

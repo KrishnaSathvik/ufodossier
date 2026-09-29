@@ -1,0 +1,49 @@
+UNCLASSIFIED/fFOR. QFFIEl.t.L: Uii QD:I! X 
+Introduction 
+An object is s upersonic when its speed through the atmosphere is greater than the local 
+speed of sound . The Mach number is defined as the speed of the object divided by the local 
+speed of sound . For Mach numbers greater than 1 (supersonic flow), shock waves develop in 
+the flowfield and near the surface of the object due to the air's compressibility. Traditionally, 
+the lower Mach number limit for the so-called hypersonic speed regime is about Mach 5 (1. 7 
+km/sec). "Low hyperson ic" values range between Mach 5 to about Mach 10, while "high 
+hyperson ic" values range between approximately Mach 10 to Mach 30 or above. Mach 30 
+(10 km/s), for example, is close to Space Shuttle reent ry velocity . Few objects can travel at 
+hyperson ic velocities. The most common object that we see moving at these speeds are 
+meteors entering the Earth's atmosphere. As meteors fall to the Earth's surface, their 
+velocities may reach 30 miles per second (48 km/s), 1 and their corresponding Mach number 
+as they enter the upper layers of the atmosphere will exceed 150. Meteors are preceded by 
+a bow shockwave as they compress the air immediately in their path. Temperatures and 
+pressures increase dramatically across the shockwave to a point where the gases in air ionize 
+and disassociate, leading to the emission of visible light and radio waves. These conditions 
+also lead to rapid heating of the meteor surface causing them to fracture and break up as 
+they enter the atmosphere. Optical and RADAR-based surveillance systems are now used to 
+scan outer space to detect asteroids and other objects with orbits that may lead them to 
+collide with Earth. 
+A second class of hypersonic objects includes reentry vehicles moving into the Earth's 
+atmosphere from orbit. In the case of a reentry vehicle returning from low-Earth orbit at 
+100 km altitude, the velocity of the vehicle will reach 8 km/s (about 5 miles per second). 
+The Mach number of this vehicle will exceed 26.5 in the upper atmosphere. As the vehicle 
+moves through the atmosphere, flow-induced drag forces will slow down the vehicle; if the 
+vehicle has sufficient thermal protection, it can survive reentry and be recovered. 
+A third class of hypersonic vehicles includes the reentry payload used in ICBMs 
+(intercontinental ballistic missiles). The payload in these missiles is launched using a rocket 
+that boosts them above the atmosphere to a suborbital velocity. The payload velocity may 
+exceed 7 km/s as they reenter the atmosphere, equating to M > 23. The coupled high 
+velocity and high kinetic energy of these objects creates an ionized wake and shock wave 
+that can be used to detect their position and to determine their velocity. This information, 
+along with their ballistic trajectory, is used to locate their target and the time to impact. 
+A fourth class of hypersonic vehicles includes manned and unmanned rockets and aircraft. 
+The North American X-15, for example, exceeded a speed of 7,274 km/hr in 1964, equating 
+to about M = 6.5. This aircraft also exceeded 100 km in altitude on two occasions, qualifying 
+the X-15 as a spacecraft. The SR-71 Blackbird, an air-breathing strategic reconnaissance 
+aircraft, has exceeded Mach 3.2 at 80,000-ft altitude, and its actual maximum speed may 
+have reached into the hypersonic flow regime. Other real and conceptual aircraft capable of 
+reaching hypersonic speeds include the alleged Aurora SR-91 (Mach 4 to 6), the Boeing X-
+51, an unmanned Mach 6 scramjet, the HTV-2 from the DARPA Falcon project (designed for 
+M=20 flight to low-Earth orbit), the HyperSoar (M = 12), the Russian Leninetz Ayaks, and 
+the Skylon (designed for single-stage-to-orbit flights). Certain rockets are also designed to 
+travel at hypersonic speeds. The Patriot missile, for example, travels at Mach 5, a high 
+speed necessary for it to be able to intercept and destroy other missiles while they are in 
+flight. 
+UNCLASSIFIED//EQA: QlililEl.t.L: W&&: O,.L'l 
+1

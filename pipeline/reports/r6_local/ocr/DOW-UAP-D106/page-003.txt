@@ -1,0 +1,45 @@
+Declassified by MG Richard A. Hiimson 
+"C"5( EJ\;1C OM C luet ot \taff 
+Decl,1ss1fied on ~o Jtme :?016 
+FOCO Pm dcy Act applies 
+INGEST 
+• Rank: 
+• Full Name: 
+• Unit: 
+• Wing: 
+• Phone Number: 
+• Email: 
+• Service: 
+• Operations Center: 
+ACEQUIP 
+ACEQUIP 
+• Aircraft Callsign: I 1.4a 
+• Radar Name or Destination: 
+• Radar Software Load or Mission Data: 
+• Radar Warning Receiver (RWR) Name or Designator: 
+• RWR Software Load or Mission Data: 
+• MWS Name or Designator: 
+• MWS Software Load or Mission Data: 
+• IRCM Name or Designator: 
+• IRCM Software Load or Mission Data: 
+• ECM Name or Designator: 
+• ECM Software Load or Mission Data: 
+• CMD Name or Designator: 
+• Chaff Designator: 
+• Num Chaff or Cartridges: 
+• Flare Designator: 
+• Num Flares: 
+• Towed Decoy Name or Designator: 
+• Towed Decoy Software Load or Mission Data: 
+• Num Towed Decoys: 
+• Type of Radar-Guided AAM: 
+• Num Radar-Guided AAM: 
+• Type of IR-Guided AAM: 
+• Num IR-Guided AAM: 
+• Gun Name or Designator: 
+• Num Gun Rounds: 
+• Air-to-Ground Wpn to Include Num of Each: 
+• TGT Pod Name or Designator: ANDAS4 
+• Additional Avionics: AHv2 
+3.5c1 (b)(6) 
+USCENTCOM MDR 26-0084 to 26-0095 Approved for Release to AARO - FOUO I PA applies 06/30/26 033

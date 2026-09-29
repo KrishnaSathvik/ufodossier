@@ -1,0 +1,25 @@
+268 
+other hand , it didn't seem to make the space­
+craft roll either. Then I turned that ring off 
+and went over and ddd it on the other ring. 
+Identically the same thing happened . I thought 
+I might have trouble wi th the roll -gyro . I 
+turmid the roll gyro to SECONDARY. That didn 't 
+seem to make any difference . We went back to 
+PRIMARY . I remember commenting at that time 
+that the RCS was a lot looser in control than 
+the OAMS. It seemed to me that the OAMS held 
+the spacecraft attitude better. It seemed like 
+it controlled to a rate deadband that was 
+smaller than the RCS deadband . I don't know 
+why you're using the same gyros and the same 
+electronics . The only thing that could be 
+different would be the attitude drivers on the 
+RCS might be activiating slower than they are 
+in the OAMS. It seemed like the rates were 
+such a--seems like there must be a lag in the 
+whole system. It seemed like the deadband in 
+the RCS was twice what it was in the OAMS . It 
+operated properly . There's so much difference 
+between looking at that ball on firing retros 
+~N-FIE>ENl~L

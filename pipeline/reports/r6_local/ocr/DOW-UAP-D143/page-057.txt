@@ -1,0 +1,33 @@
+UNCLASSIFIED/;'POR: OPPICIAE USE 014Lf 
+30% wall plug efficiency, and pulse repetition rates ranging from a few kHz to 1000 
+kHz. This exponential growth in beam output power is the result of many factors, 
+including the parallel development of efficient, narrow-band pump diode lasers; and the 
+development of novel fiber geometries such as double-clad fibers and photonic crystal 
+fiber cores (a.k.a. photonic crystal fibers). At present, HPFLs for industrial use routinely 
+achieve 50 kW to 70 kW of beam power, and such systems have already been modified 
+for weapons applications with a goal toward achieving > 100 kW of beam output power 
+with in 18 to 24 months after the publication of this report. 
+As fiber beam output power continues to increase exponentially, individual fibers can be 
+combined coherently for increasing the total beam output power well beyond what has 
+already been achieved by BSSSLs while providing several advantages. HPFLs have 
+several advantages over BSSSLs. They are more efficient, easier to cool due to the 
+large surface area-to-volume ratio, more durable, smaller and lighter, more easily allow 
+the beam to be directed to the target, and have excellent beam quality. Fiber lasers 
+also benefit from economies of scale and are relatively inexpensive devices. 
+HPFLs possess the following unique characteristics, which make them very highly 
+compet itive with any chemical, gas dynamic, or bulk solid-state laser systems [31]: 
+• Reliability. 
+• High level of safety. 
+• User-friendly. 
+• Maintenance-free. 
+• Low-cost performance, high-volume production. 
+• Compact size and low weight. 
+• Wide range of wavelength selection and wavelength tunability. 
+• Excellent beam quality and stability. 
+• Very high wall plug and optical efficiencies. 
+• Variety of power oscillator or master oscillator-power amplifier designs (see 
+Figure 22). 
+• Scalability of beam output power, variety of fiber beam combining techniques: 
+scalable to 1 to 2 MW beam power within 1 to 2 years (see Figure 23). 
+UNCLASSIFIED'I i'FAA: 061i1Clali.k W&& 8PtLY 
+53

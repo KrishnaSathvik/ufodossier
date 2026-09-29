@@ -1,0 +1,47 @@
+UNCLASSIFIED/ /P91t 9Ffl@IAL YSIE 8HLY 
+cerebral-spinal fluid (CSF), and internal tissue structures of various other organs. Unlike 
+x-ray based technologies, MRI scans can be optimized to contrast any of the many 
+parts of the physics signal: total density of protons, water content, lipid content, and 
+even particle motion in advanced techniques involving diffusion or spin labeling. Using 
+such scans sequences that take several minutes, one can construct very high resolution 
+images of gray and white matter structure for comparison with, and also mapping onto 
+a "standard brain" template. 
+In addition to electron screening, macroscopic susceptibility will also change the local 
+response to RF stimulation. The presence of even a small amount of metal, say as small 
+as a hairpin, will greatly distort the reconstructed images. Indeed, the usual effect is a 
+shift of frequency completely outside the sensitivity of the machine RF receiver in what 
+is known as "drop-o ut." Smaller changes in local susceptibility, like produced in the 
+BOLD effect, are measureable. 
+A series of fast scan sequences, typically collecting an entire brain volume at a 
+resolution of 3 mm3 in 2 seconds, that are calibrated to optimize detection of the BOLD 
+signal will show the dynamics of brain function under the specific internal or applied 
+conditions; this is known as a functional MRI, or simply fMRI. 11 The major advantages 
+of fMRI are unmatched 3D spatial resolution, compared to othe r noninvasive imaging 
+methods, and complete skull penetration, making it the only imaging modal ity to 
+unambiguously detect limbic activations important for determining emotionally-laden 
+neuropsychologica l states. The main disadvantage for BMI is that the BOLD signal is 
+detected several seconds after the neuronal firing takes place, making fMRI 
+inappropriate for many naturalistic applications. 
+A long term prospect, likely in the 20- to 40-year timeframe, is that combined low-field 
+MRI and MEG technology could detect neuronal firing deep in the brain and with high 
+temporal accuracy. Initial experiments indicate some level of feasibi lity, but there is 
+substantial development work required in room temperature low field magnetic field 
+detection devices, such as atomic magnetometers, and signal processing algorithms to 
+sift through the substantial electromagnetic background (References 32, 33). 
+NIRS 
+Near-infrared spectroscopy is an additional technology to monitor the BOLD effect 
+noninvasively. Studies have shown it correlates well with the fMRI signal in animal 
+models, although with reduced coverage and lower resolution (Reference 34). This 
+lowered resolution greatly affects the accuracy of the technique, with recent work 
+involving single trials and a decision attaining only 80 percent accuracy (Reference 35). 
+Invasive Technologies 
+The most prolific invasive BMI for use in humans is the cochlear implant (Reference 
+36), a sensory neuroprosthesis designed to aid in hearing for deaf individuals. This 
+device, under continued development and refinement for more than 30 years, consists 
+of a microphone, sound processor, and a receiver t hat is attached to an array of 
+11 Specifically this is T2* Echo-Planar Imaging, also called BOLD EPI, Gradient Echo EPI, or BOLD fMRI. This 
+approach is used in well over 95 percent of published functional studies, though there are more advanced 
+techniques that concentrate on smaller portions of the hemodynamic signal. For example, Spin-Echo EPI will 
+provide a higher localization within the gray matter, but the cost is a loss of 90 percent of the signal amplitude. 
+UNCLASSIFIED/ /FOR OFFI&Il.tk WSE 8Hk¥ 
+10

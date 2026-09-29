@@ -1,0 +1,32 @@
+UNCLASSIFIED//rOR: orrlCIAL USE O14Lf 
+Enemy/
+Air-to-Space Ballistic Missiles 
+(Ballistic Threats) JI 
+Air Launch: /H~12 km /V~M0.8 / 
+Figure 15. Air-to-Space Concept: Appropriate rotation and translation of a high-energy laser 
+beam, emanating from a moving aircraft, guides and propels a Lightcraft toward a nearly 
+head-on collision with an incoming ballistic missile; intermittently, the laser illuminates the 
+target for guidance updates and for terminal semi-active seeker homing and end-game 
+maneuvering C26 l. 
+ASSUMED LASER AND LIGHTCRAFT LIMITATIONS 
+Beamed power levels achievable with envisioned high-energy laser technology are 
+assumed to be no more than about 10 MW for ground/sea-based lasers, and no more 
+than about 2.0 MW for the much lighter and smaller airborne lasers installable on 
+Boeing 747, B-1 Lancer, or C- 130 subsonic aircraft. Lightcraft takeoff masses no more 
+than about 20 kg can be accelerated to orbital velocities by maximum ground/sea­
+based laser power levels, and Lightcraft takeoff masses no more than about 4 kg to 8 
+kg, depending on the magnitude of velocity and acceleration needed, can be 
+accelerated to very high velocities by the lower allowable masses and power levels of 
+airborne lasers. 
+LIGHTCRAFT TRAJECTORY AND MISSION LIMITATIONS 
+Identified trajectory and mission limitations l261 are: 
+• Small allowable angle between centerlines of the laser beam and Lightcraft 
+vehicle axes before significant thrust reduction occurs. 
+• Small allowable angles-of-attack (angle between Lightcraft centerline and velocity 
+vector) before significant thrust reduction occurs. 
+• Limited capability for engaging multiple missile or aircraft threats in allowable 
+time interval because of relatively long laser beam-r iding time against each 
+threat. 
+Additional Lightcraft hardware needed for some tactical missions (261 include: 
+UNCLASSIFIED{fFOA QFFIEiIAL ~81!! 8HLY 
+28

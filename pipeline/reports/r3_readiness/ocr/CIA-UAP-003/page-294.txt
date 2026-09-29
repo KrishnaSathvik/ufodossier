@@ -1,0 +1,49 @@
+weight, Kelly Johnson did not attempt to insulate the interior of the
+aircraft. The pilot would therefore have to wear a type of space suit
+with its own cooling, pressure control. oxygen supply, and other
+necessities for survival.
+
+DESIGNING THE OXCART’S CAMERAS
+
+Providing cameras for the A-12 posed a number of unique problems.
+In late 1959, OXCART managers asked Perkin-Elmer, Eastman
+Kodak, and Hycon to develop three different photographic systems
+for the new aircraft. These cameras would provide a range of photog-
+raphy from high-ground-resolution stereo to extremely-high-resolu-
+tion spotting data.
+
+The Perkin-Elmer (P-E) entry. known as the Type-I camera, was
+
+a high-ground-resolution general stereo camera using an f/4.0 18-inch
+
+lens and 6.6-inch film. It produced pairs of photographs covering a
+
+swath 71 miles wide with an approximately 30-percent stereo overlap.
+
+The system had a 5,000-foot film supply and was able to resolve 140
+lines per millimeter and provide a ground resolution of 12 inches.
+
+To meet severe design constraints in the areas of size, weight.
+thermal environment, desired photographic resolution, and coverage,
+Perkin Elmer’s Dr. Roderick M. Scott employed concepts never be-
+fore used in camera systems. These included the use of a reflecting
+cube rather than a prism for the scanner, a concentric film supply and
+takeup system to minimize weight shift, a constant-velocity film
+transport that provided for the contiguous placement of stereo images
+on one piece of film, and airbars for the film transport and takeup
+systems.”
+
+Eastman Kodak’s entry, called the Type-If camera, was a
+high-convergent stereo device using a 21-inch lens and 8-inch film. It
+produced pairs of photographs covering a swath 60 miles wide with
+an approximately 30-percent stereo overlap. It had an 8,400-foot film
+supply and was able to resolve 105 lines per millimeter and provide a
+ground resolution of 17 inches.
+
+* OSA History, chap. 20. p. 26 (TS Codeword); Minnich, “OXCART Story.” p. 4 (S).
+
+—Secret HOFORAT—
+
+Chapter 6
+
+281

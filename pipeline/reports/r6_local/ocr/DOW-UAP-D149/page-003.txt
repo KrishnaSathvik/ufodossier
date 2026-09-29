@@ -1,0 +1,35 @@
+UNCLASSIFIED/ /FOR OFFICIAL USE ONLY 
+Contents 
+SUMMARY ................ .............. .... ........ ....................... ....... ........ ....... . , ..... iv 
+Chapter 1: CONCEPT OVERVIEW ................................ ............................ 1 
+Weakly Ionized Plasmas for Propulsion Appl ications ....................... 2 
+Electric Propulsion Systems .......... .......................................... ..,...... 5 
+Chapter 2: AERONAUTICAL APPLICATIONS ........... .................... ... ..., .... 11 
+Basic Principles of Magnetohydrodynamics and Requirements for 
+MHD Performance ........................................... .............................. 11 
+Non equilibrium MHD in Cold Air Flows ............. .... ........ .................. 13 
+The Ajax Concept: MHD Bypass ................................................ .,.... 15 
+The Reverse Energy Bypass ................... ............. ........................... 18 
+MHD Applications to Reentry and Near-Orbital Flight ................ , .... 20 
+Chapter 3: SPACE APPLICATIONS ................................ ...... ........ .......... 23 
+Chapter 4: SUMMARY AND PREDICTIONS ..... ................................... .... 25 
+Chapter 5: ENDNOTES ........................................... .............................. 26 
+Figures 
+Figure 1. Electrothe rmal Arcjet Thruster ................................. ................ 7 
+Figure 2. Electrostat ic Gridded Ion Thrusters ......... ...... .......................... 8 
+Figure 3. Field Orientation for Hall Field Systems and PS Hall 
+Thruster . ................................................................. ................... , 1, •••• • 8 
+Figure 4. Electromag netic Accelerator Field Configuration and Self-
+Field Electromagnetic Spacecraft Thru sters ....... .................. .............. 9 
+Figure 5. Air-Breathing MHD Engine ................................. ................ , .... 10 
+Figure 6 . MHD Control of Scramjet Inlet Using E-Beam Ionization . ....... 15 
+Figure 7. Schematic of Ajax Hypersonic Vehicle Concept ...................... 16 
+Figure 8. The Reverse Energy Bypass Concept .. ...... .............................. 19 
+Figure 9. Schematic of the Virtual Cowl Concept ................. ........ .......... 20 
+Figure 10. Reentry Veh icle with Surface-Integrated MHD Device and 
+Plasma-Enabled Vi rtual Streamlining and L/D Increase ............... , .... 21 
+Figure 11. Electrothermal Arcjet Thruster on Satellite .......................... 23 
+Figure 12. SP- 100 Space Nuclear Power System ..... .................... .......... 24 
+Figure 13. Nuclear Electric Propulsion (NEP) Concept Vehicles ... ...... ,.... 24 
+UNCLASSIFIED//FOR OFFICIAL USE ONLY 
+iii

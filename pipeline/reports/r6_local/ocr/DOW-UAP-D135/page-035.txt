@@ -1,0 +1,45 @@
+UNCLASSIFIED/ fFOA OFFIEIAL: U&i QPIL:¥ 
+weaker fluctuations and thus less energy density than the vacuum at locations where 
+cos2 [ro(t - z/c)] =1 and sin2[ro(t - z/c)] << 1; but with greater fluctuations and thus 
+greater energy density than the vacuum at locations where cos2[ro(t - z/c)] < < 1 and 
+sin2[ro(t - z/c)] =1. Since the vacuum is defined to have vanishing energy density, any 
+region with less energy density than the vacuum actually has a negative (renormalized) 
+expectation value for the energy density. Therefore, a squeezed vacuum state consists 
+of a traveling electromagnetic wave that oscillates back and forth between negative 
+energy density and positive energy density, but has positive time-averaged energy 
+density . 
+For the squeezed electromagnetic vacuum state, the energy density P E-sqvac is given by 
+( Reference 84): 
+P E-sqvac = ( 2~(0 } inh ~[sinh ~ + cosh ~cos (2ro(t- z I c) + o)] (J / m3) (A.1) 
+where L3 is the volume of a large box with sides of length L (that is, put the quantum 
+field in a box with periodic boundary conditions), sis the squeezed state amplitude 
+(giving a measure of the mean photon number in a squeezed state), and 8 is the phase 
+of squeezing. Equation (A.1) shows that p -sqvac falls below zero once every cycle when 
+the condition cosh s > sinh sis met. It turns out that this is always true for every 
+nonzero value of s, so P E-sqvac becomes negative at some point in the cycle for a general 
+squeezed vacuum state. On another note, when a quantum state is close to a squeezed 
+vacuum state, there will almost always be some negat ive energy densities present. 
+GRAVITATIONALLY SQUEEZED ELECTROMAGNETIC ZERO-POINT 
+FLUCTUATIONS 
+A natural source of negative energy comes from the effect that gravitational fields (of 
+astronomical bodies) in space have upon the surrounding quantum vacuum. For 
+example, the gravitat ional field of the Earth produces a zone of negative energy around 
+it by dragging some of the virtual quanta (aka vacuum ZPF) downward. This concept 
+was initially developed in the 1970s as a byproduct of studies on quantum field theory 
+in curved space (Reference 37). However, Hochberg and Kephart (Reference 33) 
+derived an important application of this concept to the problem of creating and 
+stabilizing traversable wormholes. They showed that one can utilize the negative energy 
+densities, which arise from distortion of the vacuum ZPF due to the interaction with a 
+prescribed gravitational background, for providing a violation of the energy conditions. 
+The squeezed quantum states of quantum optics provide a natural form of matter 
+having negative energy density. The corresponding local vacuum state energy density 
+is P E-gsvac =-27r2hc IA 4 , where "- is the ZPF mode wavelength under consideration in the 
+gravitational squeezing effect (Reference 70). 
+The analysis, via quantum optics, showed that gravitation itself provides the 
+mechanism for generating the squeezed vacuum states needed to support stable 
+traversable wormholes. The production of negative energy densities via a squeezed 
+vacuum is a necessary and unavoidable consequence of the interaction or coupling 
+between ordinary matter and gravity, and this defines what is meant by gravitationally 
+squeezed vacuum states. One is presently unaware of any way to artificially produce 
+UNCLASSIFIED/ /FOA OFFI&IAk Yi& 8,.k\f 
+30

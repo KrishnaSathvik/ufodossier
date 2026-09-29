@@ -1,0 +1,44 @@
+UNCLASSIFIED/ /fOR. 8FFl&IAk W&li ,>all.¥ 
+Laser Lightcraft Nanosatellites 
+Summary 
+Miniaturized satellites are spacecraft of unusually low mass and small size, usually 
+under 500 kg in total mass. The term "minisatellite" refers to a spacecraft with a wet 
+mass (including onboard propellant) of 100 kg to 500 kg. Microsatellite or "microsat" is 
+a spacecraft with a wet mass of 10 kg to 100 kg. Nanosatellit e or "nanosat" is a 
+spacecraft with a wet mass below 10 kg. Picosatellite or "picosat" is a spacecraft with a 
+wet mass of 0.1 kg to 1.0 kg. Picosats are also called sub-nanosats. 
+The primary reason for miniaturizing satellites is to reduce cost. Heavier satellites 
+require larger launch vehicles of greater cost while smaller, lighter satellites require 
+smaller and cheaper launch vehicles and can somet imes be launched in multiples or 
+"piggyback" using excess capacity on larger launch vehicles. Miniaturized satellites 
+allow for cheaper designs as well as ease of mass production. However, few satellites 
+of any size other than communications constellations, where dozens of satellites are 
+used to cover the globe, have been mass produced in practice. 
+Besides the cost issue, the main rationale for the use of miniaturized satellites is the 
+opportunity to enable missions that a larger satellite cannot accomplish, such as: 
+• Constellations for low data rate communications. 
+• Using formations to gather data from multiple points. 
+• In-orbit inspection of larger satellites. 
+Many of these missions require numerous small spacecraft in a constellation or 
+"swarm." These include orbital communications networks and swarms of small 
+satellites to conduct remote sensing, and to provide unique perspectives on 
+astronomical bodies of interest. For instance, 100 or more nanosats could be deployed 
+from a mother ship to their final destination in space for deployment. 
+Provisions for orbital maneuvers as well as attitude control, multiple sensors, and 
+instruments, and full autonomy will yield a highly capable miniaturized satellite. All 
+onboard electronics will survive a total radiation dose rate of several hundred kilorads 
+over a several year mission lifetime (at least 100 kilorads over two years) . Nanosats 
+developed for in-situ measurements will be spin-stabilized, and carry a complement of 
+particles and fields instruments. Nanosats developed for remote sensing measurements 
+(MASINT) or surveillance and eavesdropping (SIGINT) will be three-axis stabilized, and 
+carry a complement of imaging and radio wave instruments. Autonomy both onboard 
+the nanosats and at the ground stations will minimize the mission operational costs for 
+tracking and managing a constellation. 
+To reduce overall mission cost, advanced technology components and a novel laser 
+propulsion system will be used to make nanosats and their onboard instruments 
+compact, lightweight, low power, low cost, and able to survive their radiation 
+environment over a several year lifetime. Each nanosat will be manufactured and 
+tested for a recurring cost not to exceed $500k. By producing a large quantity of 
+nanosats for a given mission, the per-unit cost will be reduced to a small fraction of 
+UNCLASSIFIED//FOR 061ilCl.li.k W&& 8Ptl'l 
+1

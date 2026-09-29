@@ -1,0 +1,45 @@
+UNCLASSIFIED// FOR OFFICIAL tJ!H! 8HL?f 
+Chapter 4: Applications 
+NEAR SPACE 
+Although aneutronic fusion thrusters will not be able to achieve liftoff for single-stage 
+orbit vehicles as discussed in Chapter 3 above Mach 14, they can provide the necessary 
+thrust to insert an air vehicle into orbit. In fact, any vehicle in orbit could benefit from 
+such a propulsion device to dip down and maneuver in the atmosphere and return to 
+orbit with the aid of fusion propulsion as long as it does not slow below Mach 14. This 
+capability will allow a host of missions that include the following: 
+• Antisatellite threat avoidance. 
+• Unpredictable Earth or space target reconnaissance. 
+• Unpredictable Earth or space target neutralization. 
+The details of such applications will be the subject of separate studies. Undoubtedly 
+current propulsion technologies are significantly limited in N/kW in propulsion capability 
+to perform such missions for long durations. However, they may be sufficient due to the 
+threats and targets needed to be countered at this time. 
+EARTH ORBIT 
+Space thrusters for orbital insertion and station keeping have been using hydrazine 
+propellant and, more recently for large GEO satellites, arc jet thrusters, which 
+electrostatically enhance the hydrazine propellant. High-power Hall Current Thrusters 
+(HCT) that electrostatically accelerate Xe ions have been developed by NASA with 
+discharge power levels ranging from 6.4 kilowatts to 72.5 kilowatts. 16 Such devices 
+produce thrust ranging from 0.3 to 2.5 Newtons and specific impulses up to 4,500 
+seconds at 1 kV. More recently, AeroJet together with Lockheed Martin Space Systems 
+Company have qualified a 4.5 -kW Hall Thruster Propulsion System (HTPS) that 
+demonstrated 244 mN of thrust with a specific impulse of 1,981 seconds incorporating 
+a 400-volt acceleration potential. These thrusters were flown in 2010 on military 
+communication and surveillance satellites . Expected enhancements of these HCTs will 
+provide higher lsp near 3,000 seconds at the expense of significant lower thrust, ~10 
+mN/kW. Future broadband communication commercial and military satellites of 20- to 
+SO-kW broadcast power will require much more efficient thruster performance in terms 
+of mN/kW in order to satisfy the operational performance needs of their solar power 
+systems. This provides the motivation for the development of aneutronic fusion 
+enhanced ion thrusters. 
+Such a development has been proposed by transforming a conventional ion thruster 
+into a spherical form .17 Using the IEC configuration shown in Figure 13, ions are 
+produced in the gas discharge region through the injection and oscillation of electrons 
+about a guide grid that is held to a slightly positive potential. The grid extracts ions 
+from the discharge region and accelerates them toward the center of the device. It is 
+estimated to provide 35 mN of thrust for 750 watts of input power at 500 volts, 
+providing an lsp of 3,000 seconds or 45 mN/kW superior to the advanced HCT thrusters. 
+The addition of a 150-kWe ion beam for heating a (p, 11B) plasma close to ignition (Q~ 
+1) using a magnetic guide system to redirect the near ly isotopic velocity distribution of 
+17 
+UNCLASSIFIED/ /FOR OFifilCIAk WSE 8HL'I

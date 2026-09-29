@@ -1,0 +1,47 @@
+UNCLASSIFIED/ /P91t 9Ffl@IAL YSIE 8HLY 
+on the cortex to implant cortical arrays is determined from previous experiments in 
+fMRI (References 39, 40). In this way, a map is constructed correlating electrical neural 
+activity with muscle movement. The goal of this exercise is to develop an algorithm that 
+will predict which muscles move based on reading the neural activity alone. The reading 
+of the neural activity for eye movement can then be used to move a device such as a 
+camera lens. 
+There are two main models of fine motor control, one where the cortical motor areas 
+perform all of the control functions and receive all sensory feedback, and a second 
+where the cortical areas direct the function and receive interpreted feedback through 
+sub-cortical or even peripheral networks. For open-loop invasive BMI applications, this 
+is an academic question since peripheral interfaces would receive and send the same 
+signals in both models, and cortical interfaces would blindly adapt external decoding 
+algorithms based on the signals present regardless of model. 
+There have been numerous demonstrations of nonhuman primates controlling robots or 
+graphical cursors in real-time through signals collected from cortical areas that employ 
+open loop experimentation (References 41, 42). Kim, et al. conducted experiments 
+where monkeys are trained on tasks prior to implantation, and then the tasks are 
+repeated multiple times while muscle action and cortical activity are monitored 
+(Reference 42). In these trials, shoulder and elbow torque were measured while the 
+arm itself was constrained in an exoskeleton such that the hand would only move in a 
+plane axial to the monkey's torso. A visual cursor was introduced and projected on a 
+screen above the monkeys hand to follow the 2-D motion from the center starting point 
+to the various task targets, which are also projected on the screen. The shoulder and 
+elbow position recorded the state of flexation of 6 sets of muscle groups, collectively 
+called the musculoskeletal arm model (MAM). Relating the spiking activity from 
+implanted arrays to even this simplified 2-D MAM motion proved quite complex, and no 
+fit correlating the observed movements and neural activity could be obtained with a 
+linear model when kinematic impedance was considered. 15 
+Even considering the six inputs, the 2-D problem is essentially a computer cursor 
+control and therefore a relatively simple device, fully specified by a Cartesian coordinate 
+system. The ultimate goal of these control systems is to manipulate something much 
+more complex, like an arm, which may have many more degrees of freedom organized 
+in a completely different coordinate system. For these tests a more elaborate "tracking 
+system" may be utilized in teaching a primate to feed itself 16 using a directly observed 
+cortically controlled robotic arm. 
+Open-loop control systems have an inherent drawback in cases where cortical activity 
+controls movement directly via an adaptive algorithm. Training the algorithm is the 
+critical part of interface development. The adaptive algorithms use an iterative process 
+to create a brain-to-cursor motion decoding scheme based on how the neurons fire 
+when different targets are presented and therefore rely on previous normal feedback 
+training - the brain knows how to move an arm because it has been moving an arm for 
+most of its life. 
+15 Impedance to motion is essential for realistic operation of artificial limbs . 
+16 Food in this experiment is used as a reward. 
+UNCLASSIFIED/ /F8R 8FFI&I.t.k Y&liii 8,.kY 
+12

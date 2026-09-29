@@ -1,0 +1,45 @@
+UNCLASSIFIED/ /FOR: OPPIClltt U.!I! Oflt I 
+is a light element with atomic number 6. Hence, its atomic spin-orbit interaction is weak as 
+compared to heavier elements. However, such a statement should be taken with care 
+because, in the solid state, spin-orbit coupling is oftentimes dominated by bulk inversion or 
+structure inversion asymmetry. Therefore, crystal structures of light elements can (under 
+certain circumstances) exhibit rather strong spin-orbit coupling. 
+Prime examples are carbon nanotubes where theory predicted a substantial spin-orbit 
+coupling (a few hundred µeV) due to the curvature of the tube (73) (74 )(75) which has been 
+nicely confirmed in recent transport experiments on carbon nanotube quantum dots (76). 
+Since the surface of graphene is less curved than that of carbon nanotubes, the spin-orbit 
+coupling in graphene - due to ripples - should still be rather weak (roughly ten times less 
+than the spin-orbit coupling due to curvature in carbon nanotubes (77)). (ii) Carbon has two 
+stable isotopes: 12C and 13C. The natural abundance is 99% 12C and 1 % 13C. Since 12C 
+has nuclear-spin O and 13C has nuclear-spin 1/2, the electron spin of the qubit can only 
+interact with 1 % of the nuclei via hyperfine interaction. This ratio can even be further 
+decreased because it is possible to artificially make 12C-enriched graphene. 
+Spin Relaxation Due to Spin-orbit Interaction 
+The spin-orbit coupling arises from the band structure and is enhanced by ripples in the 
+graphene sheet. The orbital motion is influenced by scattering centers and ripple-induced 
+gauge fields. Spin relaxation due to Elliot-Yafet and Dyakonov-Perel mechanisms and gauge 
+fields in combination with spin-orbit coupling are discussed. In intrinsic graphene, the 
+Dyakonov-Perel mechanism and spin flip due to gauge fields dominate and the spin-fl ip 
+relaxation time is inversely proportional to the elastic scattering time. The spin-relaxation 
+anisotropy depends on an intricate competition between these mechanisms. 
+As Pauli noted, when an electron is in a quantum state it can simultaneously be partially in 
+the spin up state and partially in the spin down state. During this phenomenon known as 
+"superposition states" an electron can exist in a free spin cycle oscillating between the up 
+and down states. A qubit based on the spin of an electron could have nearly limitless 
+potential because it is neither strictly on or off. Recently, researchers at Princeton University 
+discovered how to manipulate a single electron without disrupting any surrounding electrons 
+(78) . By utilizing an interferometer technique where one or two electrons are trapped in 
+microscopic corrals that are created by applying voltage to miniscule electrodes, "spin qubits" 
+were formed. This effort is ground-breaking in that previous research utilized techniques 
+where the electrons were exposed to microwave radiation. 
+The previous method was ineffective to manipulate individual spin qubits because the 
+microwave was incapable of isolating to only a single electron. Whereas commonly used 
+single-spin rotation mechanisms rely on gigahertz frequency magnetic fields, the coherent 
+rotations between S and T+ demonstrated here occur on a nanosecond time scale set by the 
+Zeeman energy and are solely driven with local gate-voltage pulses. As a result, it will be 
+feasible to scale this quantum control method to a large number of spin qubits operating in 
+close proximity. In addition, it is possible that the spin-flip mechanism employed here, which 
+relies on coupling to the nuclear-spin bath, could be harnessed under the appropriate 
+conditions to create a nuclear-spin memory (79). 
+UNCLASSIFIED/ /fdk OFFICIAL U.!I! OHL¥ 
+20

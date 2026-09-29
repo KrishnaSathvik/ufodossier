@@ -1,0 +1,54 @@
+UNCLASSIFIED/ /FOA QFFI@IAL tt91!! Brit I 
+Chapter 3 : Space Applications 
+Electric propulsion systems are 
+currently being used for attitude 
+control, positioning, and primary 
+propulsion. The use of electric 
+propulsion systems on spacecraft 
+was limited by the amount of 
+power available . The thrusters 
+were developed decades before 
+the power systems. Early 
+applications were the replacement 
+of hydrazine monopropellant 
+thrusters with hydrazine resistojet 
+and arcjet thrusters (increasing lsp 
+from 200 seconds to 300 seconds 
+for resistojet thrusters and to 600 
+seconds for arcjet thrusters). An 
+example is shown in Figure 11. 
+This keeps most spacecraft the same, just changing the thrusters (lower risk and 
+cost). Newer spacecraft are being designed specifically for use with electric 
+thrusters. These are primarily gridded ion engines and Hall- effect thrusters 
+operating on xenon propellant. Xenon is a unique noble gas that can be stored 
+with densities close to liquids at pressures above 800 psia. As the available 
+electric power has increased, the transition to alt electric spacecraft has 
+increased, as well as the sizes of the electric propulsion systems. Hall thrusters 
+are used for station keeping as well as apogee insertion maneuvers. This trend 
+will continue for decades to come. 50 
+The high lsp available from electric systems enables new operation concepts for 
+what a spacecraft can do. The amount of propellant that can be stored onboard 
+limits the number and types of maneuvers the spacecraft can perform. Electric 
+systems enable enhanced ability to relocate assets, fly nontraditional or non­
+Kelplerian orbits, and keep spacecraft on station for much longer periods. 
+Although the l sp of electric systems are much higher than chemical systems, the 
+thrust levels are much lower. This results in much lower spacecraft accelerations 
+and longer repositioning times. The availability of higher power levels will allow 
+for higher power thrusters to be used and, therefore, the repositioning times to 
+be lower. For a given power, the lsp and thrust can be traded (Pe1ect = ½ go lsp Fth 
+/17). High-power Hall-effect thrusters are being designed to operate in both a 
+high-thrust (lower l sp) mode for obit insertion and repositioning and high-lsp (tow 
+thrust) for propellant -efficient maneuvers and station keeping. This adds 
+significant flexibility to how the spacecraft is operated and the missions it can 
+perform . 
+Very fine spacecraft position ing and pointing can be accomplished using the low 
+thrust levels associated with some electric systems. For example, field emission 
+electric propulsion (FEEP) and colloid thrusters are capable of thrust levels in the 
+micro-Newton range and can be used to offset small spacecraft perturbations 
+such as solar wind. 
+UNCLASSIFIED/FQA OFFl&lsld:. ~9E 8HLY 
+Figure 11. Electrothermal Arcjet Thruster on 
+Satellite. Lockheed Martin Series 7000 Comsat 
+with Aerojet 1.8-kW Arcjet thrusters (insert 
+photo) for north-south station keeping. 
+23

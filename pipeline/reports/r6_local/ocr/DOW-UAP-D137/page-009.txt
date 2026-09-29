@@ -1,0 +1,30 @@
+UNCLASSIFIED/ fFOA OFFl&I.t.k YSE &P•tv 
+Energy 
+source 
+( Lasing Medium 
+Laser 
+beam 
+Waste 
+heat 
+Figure 3. Basic Laser Concept 
+The principles behind the laser were first described by Basov and Prokhorov at the 
+Soviet Lebedev Institute of Physics in 1952. The first concept demonstration was 
+actually at microwave frequencies (24 GHz) in 1953 by Townes, Gordon, and Zeiger at 
+Columbia University. They called their device a MASER for Microwave Amplification by 
+Stimulated Emission of Radiation. The first working laser, initially called an "Optical 
+MASER," produced milliwatts of visible light using a ruby rod as the gain medium. This 
+was done in 1960 by Theodore Maiman at Hughes Research Laboratories in California. 
+Since then, many types of lasers have found uses in an extremely wide variety of 
+applications ranging from everyday life (bar code readers, CD players, flashlights), to 
+industry (cutters, welders, surveyors, levelers), to the military (range finders, precision 
+guided munitions, dazzlers). These lasers have proven to be inexpensive when 
+produced in large quantity, rugged, reliable, and safe. 
+Since the earliest days of the laser, the Department of Defense (DoD) has 
+conceptualized and led the development of high-average-power lasers for weapon 
+applications. There have been many open literature reports of similar work in Russia, 
+China, and other countries. Lasers currently exist in a wide variety of forms with many 
+solids, liquids, gases or even electrons being used for a gain medium to produce beams 
+over a wide ra nge of wavelengths and power levels. However, only a small group of 
+laser types have shown the potential to produce weapon level powers. 
+UNCLASSIFIED/ fFOA QFFI&I.t.k Y&E 8,.L\f 
+4

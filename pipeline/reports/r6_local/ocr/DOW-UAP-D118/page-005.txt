@@ -1,0 +1,45 @@
+UNCLASSIFIED//FQR 8Ffl@l!illt ~9E tHILI 
+Four Kinds of Atoms 
+All matter is made of atoms and derives its properties, in part, from the fact that atoms 
+are discrete objects yet are so small and so close together that light waves cannot "see" 
+them individually. By extension, neither can electric and magnetic fields. To a photon, 
+or to a large electrical current, matter appears to be made up of continuous substances 
+rather than discrete building blocks. This fact is critically important in understanding the 
+optical, electrical, and even thermal properties of materials. Equally important are the 
+discoveries of recent decades, showing at least four different kinds of "atoms" that 
+meet this same general description. 
+NATURAL ATOMS 
+Natural atoms are the 92 elements of the periodic table. Actually there are more, but 
+the rest have unstable nuclei that will eventually fly apart Into smaller atoms and loose 
+subatomic particles that can damage the materials around them. For engineering 
+purposes, this makes them unreliable building blocks. 
+However, 92 building blocks allow for a staggering number of combinations, and all the 
+materials with which we are familiar-natural ones like coal and diamonds, ancient ones 
+like bronze and glass, and modern ones like silicon carbide and gallium arsenide-are 
+merely "Tinkertoy" sculptures of these natural atoms. 
+QUANTUM DOTS 
+A quantum dot is a very small grouping of tightly confined electrons whose collective 
+behavior resembles that of a natural atom. For this reason, quantum dots are 
+sometimes known as "artificial atoms." 
+To describe how this trick is accomplished, it is first necessary to talk about electrons 
+and how they behave. Most materials are either conductors, which permit the free flow 
+of electrons, or insulators, which resist it. Semiconductors are insulators that are 
+capable of conducting electrons above a certain threshold energy-a useful trick that 
+makes integrated circuits and other electronics possible. The most familiar 
+semiconductor is silicon, which is used to make the vast majority of microchips found in 
+tod;;iy's consumer ;;ind industri;;il electronics. Aecl;'l~1se silicon's n;;itive Q){ide, SiO?, is the 
+main component of sand and rocks, it is readily available and relatively inexpensive. In 
+addition, when melted, purified, and hardened into sheets, silicon dioxide serves as one 
+of our familiar insulators and building materials: glass. Unlike most other 
+semiconductors, silicon is also nontoxic. 
+The electrical properties of a semiconductor like silicon are of course fixed by the laws 
+of physics. Atoms hold electrons in shells that increase in size, capacity, and potential 
+energy the farther they are from the nucleus. "Valence" electrons are found in full (or 
+nearly full) shells, where there are few empty spaces through which electrons can 
+move. These electrons tend to stay at home, so their levels exhibit a large electrical 
+resistance and do not permit electricity to flow. "Conduction" electrons are found in 
+shells that are more than half-empty and have lots of open space, enabling electrons to 
+travel freely through them and move easily from one atom to another. Between these 
+layers is a "band gap" of forbidden energies. Here, there exist no electrons at all-ever. 
+UNCLASSIFIED/ /1'8R: err1e111111: l!ll!H! 8Hlf{ 
+1

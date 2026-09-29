@@ -1,0 +1,53 @@
+{
+  "filename": "CIA-UAP-010.pdf",
+  "generated_at": "2026-09-25T21:39:59.102892+00:00",
+  "page_count": 2,
+  "usable_text_chars": 3896,
+  "stats": {
+    "native_good": 0,
+    "native_thin": 0,
+    "needs_ocr": 2,
+    "ocr_failed": 0,
+    "ocr_succeeded": 2,
+    "pages_ocrd": 2,
+    "ocr_unrecoverable_thumbnail": 0
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "native_quality": {
+        "page_number": 1,
+        "native_char_count": 0,
+        "printable_ratio": 0.0,
+        "alpha_ratio": 0.0,
+        "word_count": 0,
+        "replacement_char_count": 0,
+        "category": "native_thin",
+        "reason": "ocr_replaced_native (empty native text)"
+      },
+      "final_category": "native_thin",
+      "text_method": "tesseract",
+      "char_count": 85,
+      "text": ""
+    },
+    {
+      "page_number": 2,
+      "native_quality": {
+        "page_number": 2,
+        "native_char_count": 0,
+        "printable_ratio": 0.0,
+        "alpha_ratio": 0.0,
+        "word_count": 0,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "ocr_replaced_native (empty native text)"
+      },
+      "final_category": "native_good",
+      "text_method": "tesseract",
+      "char_count": 3779,
+      "text": ""
+    }
+  ],
+  "combined_path": "/Users/krishnasathvikmantripragada/Webapps/ufo-dossier/pipeline/reports/r3_full/ocr/CIA-UAP-010/combined.txt",
+  "production_writes": false
+}

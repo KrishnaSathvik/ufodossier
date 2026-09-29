@@ -1,0 +1,45 @@
+{
+  "status": "SUPERSEDED",
+  "superseded_by": "summary.json",
+  "scoring": "lexical_hedge_v1",
+  "withdrawn_decision": {
+    "primary": "sonnet-4.5",
+    "fallback": "sonnet-5.5",
+    "reason": "highest lexical grounded rate, then citation recall, then lower cost"
+  },
+  "why_withdrawn": "The lexical scorer required a frozen hedge word such as reported. Answers that said said or says failed grounded even with valid citations and no unsupported claims. grounding_v2 replaced that rank.",
+  "arms": [
+    {
+      "arm": "sonnet-4.5",
+      "model": "claude-sonnet-4-5-20250929",
+      "reasoning_effort": null,
+      "lexical_grounded_correct": 60,
+      "lexical_grounded_checked": 60,
+      "note": "Recomputed from saved hedge_ok, completeness, abstention, and canonical fields. Models were not called."
+    },
+    {
+      "arm": "sonnet-5.5",
+      "model": "claude-sonnet-5-5",
+      "reasoning_effort": null,
+      "lexical_grounded_correct": 60,
+      "lexical_grounded_checked": 60,
+      "note": "Recomputed from saved hedge_ok, completeness, abstention, and canonical fields. Models were not called."
+    },
+    {
+      "arm": "gpt-6-sol-low",
+      "model": "gpt-6-sol",
+      "reasoning_effort": "low",
+      "lexical_grounded_correct": 58,
+      "lexical_grounded_checked": 60,
+      "note": "Recomputed from saved hedge_ok, completeness, abstention, and canonical fields. Models were not called."
+    },
+    {
+      "arm": "gpt-6-sol-medium",
+      "model": "gpt-6-sol",
+      "reasoning_effort": "medium",
+      "lexical_grounded_correct": 59,
+      "lexical_grounded_checked": 60,
+      "note": "Recomputed from saved hedge_ok, completeness, abstention, and canonical fields. Models were not called."
+    }
+  ]
+}

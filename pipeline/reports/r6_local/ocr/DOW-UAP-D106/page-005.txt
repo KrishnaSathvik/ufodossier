@@ -1,0 +1,39 @@
+Declassified by MG Richard A. Hiimson 
+"C"5( EJ\;1COM C luet ot \taff 
+Decl,1ss1fied on ~o Jtme :?016 
+FOCO Pm dcy Act applies 
+JSR 
+• Time-on Station DTG: 051054:00ZMAY22 
+• Time-off Station DTG: 052100:00ZMAY22 
+• Aircraft Callsign: I 1.4a I 
+• Msn Type: RECON 
+• Primary Sensor: ANDAS4 
+• Sensors Available: AHv2 
+• Tasking Type: Planned 
+• Tasking or Request Number (JTAR#, AEM#, PRI#, or TIC#): ~ 
+• BE Number (if NTISR): 
+• Tasked Start Point: 38SMD38!1.4al5~ 
+• Activity Description: ISR 
+• FMV or Image File Name (if NTISR): 
+• EEis Observed: 
+• Number of EEis: 
+GENTEXT IISR 
+• Gentext: ••I) ua ICOORDINATED WITH MAG 409 MINUTES PRIOR TO 
+TAKE OFF. PRE-COORDINATION WAS SATISFACTORY DUE TO THE SUPPORTED UNIT 
+PROVIDING ADEQUATE MISSION INFORMATION. AT l054Z ,! 1.4a !ARRIVED ON OP 
+PHANTOM FLEX ISO MAG AND CONDUCTED FMV AND SI. AT 2100Z, ! 1.4a !WAS CLEARED 
+OFF STATION AND RETURNED TO BASE. 
+JSR ASSET UTILIZATION 
+• Supported Unit: MAG 
+• Supported Operation: OP! 1.4a 
+• Precoord Time: 409 MINUTES 
+• Precoord Effectiveness: SATISFACTORY 
+WEATHER 
+• Weather: (U) WEATHER WAS NOT A FACTOR. 
+EFFECTIVENESS 
+• Tasker: 
+• Intel Gap Filled?: Yes 
+• Gentext: 
+OBSERVATION 
+3.5c.(b)(6) 
+USCENTCOM MDR 26-0084 to 26-0095 Approved for Release to AARO - FOUO I PA applies 06/30/26 035

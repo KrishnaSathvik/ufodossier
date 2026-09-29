@@ -1,0 +1,24 @@
+UNCLASSIFIED/ /P'OR: OP'P'l@IAL WS& 8NI.¥ 
+The Neural Probe chip enables precise bi-directional positioning of the microelectrodes 
+in the brain with a step resolution in the order of 8.8 µm. The thermal microactuators 
+allow for a movement of the microelectrodes of up to 5 mm in either direction making it 
+suitable for positioning microelectrodes in deep structures of a rodent brain. 
+The rest of the mechanism converts an oscillatory motion to a linear motion through a 
+ratchet-type configuration. Figure 3 illustrates the basic unit where there are two comb­
+like arrays on either side. These generate the actual force. They are connected to a 
+cross piece that converts oscillatory motion in concert with a spring to a pulsatile linear 
+motion of the vertical shaft. This connects to some gears which do a mechanical 
+transformation. 
+Figure 2. Functional MEMS Micromachines Attached 
+to Sensing Bioelectrodes. The gears have features as 
+small as 50 microns, less than the size of a period on a 
+printed page. (Courtesy of Dr. J. Muthuswamy, 
+Bioengineering Department, ASU) 
+, fon• 11, 
+~--- ...~ 
+Figure 3. Schematic Diagram of a MEMS Motor 
+Complete With a Method of Converting 
+Oscillatory Motion to Linear Motion. (Courtesy of 
+Dr. J. Muthuswamy, Bioengineering Department, ASU) 
+UNCLASSIFIED/ {FOR OFFICIO! !Pfli ODIi.¥ 
+5

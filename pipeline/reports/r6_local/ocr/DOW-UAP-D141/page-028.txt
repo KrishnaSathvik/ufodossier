@@ -1,0 +1,44 @@
+UNCLASSIFIED/;'fOll Offl@lsltt HS! OHLY 
+room temperature radiates 460 W. Earth-based powerful mid-infrared sources can be 
+used for nightt ime powering of airborne platforms. 
+All these applications would benefit from the following components: (a) perfect 
+absorbers of infrared radiation that can be installed on the receiving platforms, (b) 
+efficient sources of thermal mid-infrared radiation. These two components are related 
+to each other. Therefore, developing an ultra-thin perfect absorber of infrared radiation 
+would be highly desirable. The ultra-thin aspect is important because it enhances the 
+radiation-to-electricity conversion efficiency. For example, it is well known that carrier 
+separation -collection efficiency in a solar cell improves as the cell gets thinner. The 
+challenge is to combine this carrier separation-collection efficiency with sufficient 
+absorption. Unfortunately, the absorption length of many semiconductors in the 
+infrared is fairly small. Recent experiments provide the new metamaterials-based 
+concept for increasing the absorptivity of otherwise semi-transparent materials. Below 
+some of the (still unpublished) experiments and theoret ical developments that might 
+result in new metamateria ls-based perfect absorbers are described. 
+Figure 20 (left) indicates a very instructive exper imental result: reflectivity R from an 
+ultra-thin (500 nm) SiC film backed up by a metal mirror. At w = 762 cm-1 (or 'A = 13.1 
+µm) reflectivity from the structure is less than 3 percent. That implies 97 percent 
+absorption in a film of thickness d = 'A/25 . This remarkable absorptivity can be 
+explained using the well-known microwave concept: the Salisbury screen. It turns out 
+that at 'A = 13.1 µm film thickness is d = 'A/4n, where n = n,.e + in;111 is the complex 
+refractive index of SiC. A simple formula for the reflectivity from a metal-backed thin 
+film can be derived: 
+2r, _ e2;0 
+0R -_1.....::....--2;,5- 1 (5)
+1- r0e 
+where r0 = n - l is the reflection coefficient from the air/SiC interface and 5 =nf<od is the 
+n+l 
+complex phase shift across the film which includes losses. Fixing the laser frequency 
+w =cf<o and the sample's thickness d, we can plot the reflectivity as a function of re(n) 
+and im(n). As can be clearly seen from Figure 20 (right), there is a "sweet spot" 
+correspond ing to specific values of re(n) and im(n) that results in vanishing reflectivity 
+(or perfect absorption). R vanishes when the quarter-wave length condition is 
+approximately satisfied: 
+re(n)k0d =(2m+l)/2 (6) 
+where mis an integer. Finite reflection and imperfect absorption result from lower (or 
+higher) values of im(n), Note that, coincidentally, for the case of heavily doped SiC 
+predicted reflection is only 3 percent. However, for most materials (that is, Si for visible 
+light) absorption is too low for perfect absorption. Therefore, a question is posed: Can 
+one modify the structure of the metal screen to enhance absorption? It is CM Ms that 
+enable such functionality? 
+UNCLASSIFIED//FOR QFFI€ililik HS! OHL I 
+24

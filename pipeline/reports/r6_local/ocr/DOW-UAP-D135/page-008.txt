@@ -1,0 +1,42 @@
+UNCLASSIFIED/ fFOA OFFIEIAL: U&i QPIL:¥ 
+ultradense ball could be placed near the surface of the Earth and its 1-g gravity field will 
+cancel the Earth's 1-g gravity field. All test objects placed in the broad region between 
+the small ultradense ball and the Earth will thus be in free fall. Another option Forward 
+(Reference 2-5) suggested would be to shape the compact ultradense matter into a disk 
+that is 45 cm in diameter and 10 cm thick, and having the same mass and density as 
+the small ultra dense ball. Its gravitational acceleration is a g = 4Gp,, where p is the mass 
+density of the disk and t is its thickness. In this case, the disk will have a force of 
+gravitational attraction that is the same on both sides, and it will be uniform near the 
+center of the disk where the strength of the gravitational force will be 1-g. If th is disk 
+were to be placed very close above the Earth's surface, then there will be a 
+gravitational force of 2-g above the disk (= 1-g due to the Earth's gravity field plus 1-g 
+due to the top -side gravity field of the disk) while underneath the disk near its center 
+there will be a gravity-free (or free fall) region because the Earth's gravity field 
+underneath is canceled by the gravity field of the disk's bottom -side. While these are 
+inte resti ng antigravity machines, they are unfortunately not feasible from an 
+engineering standpo int since one does not yet have the technology or means to create 
+and handle ultradense compact matter. 
+ENERGY ESTIMATE FOR NEWTONIAN LEVITATION 
+An ideal propulsion breakthrough could take the form of the antigravity-based levitation 
+of an aerospace vehicle within the Earth's atmosphere. Rockets like the Air Force DC-XA 
+can hover above the ground for a time that is limited by the amount of rocket fuel 
+avai lable (Reference 6). But an ideal antigravity propulsion device should allow for the 
+indefinite levitation of a vehicle above the Earth's surface. It is illustrative to estimate 
+the energy required to levitate a 1-kg test mass above the Earth's surface. This will 
+help quantify a potentially key engineering parameter for such a levitat ion system . A 
+generic estimate can be found by considering the amount of energy per unit mass 
+required to nullify the (magnitude) of the Earth's gravitational potential energy E1ev for a 
+test mass m hovering at height It above the Earth's surface: 
+E =GMffl m (J / ko) (3)lcv h b 
+Equation (3) can also be derived by calculat ing how much energy is required to 
+completely remove a test mass from the Earth's surface to infinity. This calculat ion is 
+more in line with the analogy to nullify the effect of gravitat ional energy . And Equation 
+(3) also represents the energy required to stop a test mass at the levitat ion distance h 
+if it were falling in from infinity with zero initial velocity. 
+Sett ing h ;::i Re and m = 1 kg in Equation (3), the result is E1ev = 62.5 MJ/kg. This is 2.05 
+times the kinetic energy required to put the test mass into low Earth orbit {LEO). 
+However, this estimate will require some adjustment t hat depends upon the type of 
+theory and its technological implementa tion. That is because the operat ional energetics 
+of a putat ive antigravity propulsio n system must be considered in conjunction with E1cv , 
+UNCLASSIFIED/ /FOA OFFI&IAk Yi& 8,.k\f 
+3

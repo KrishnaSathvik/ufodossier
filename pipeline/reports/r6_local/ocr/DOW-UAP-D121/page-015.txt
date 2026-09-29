@@ -1,0 +1,46 @@
+UNCLASSIFIED/ /FOR OFFI@IAl W&liii 9PU.Y 
+has resulted in an average dielectric strength of more than 3 kV/mil for the volumes 
+mentioned . Adapt ing this scheme to the manufacture of high-voltage capacitors could 
+result in significant improvement over the current state of the art of 1 joule per cubic 
+centimeter. 
+DIELECTRIC TAPERING 
+This insulation scheme is little known but has been used with much success in many 
+high-voltage systems, especially where compact high voltage is required. The basic 
+scheme is to first design the system while minimizing the peak electr ic field stress. This 
+involves hours of small but well-chosen changes to a design in order to shape the field 
+lines and achieve the least range from minimum to maximum field stress. We then find 
+the surfaces, which have the highest electric field stresses and therefore the highest 
+probability of breakdown. In evaluating these parameters, it must be remembered that 
+dielectric media are much less likely to initiate breakdown than are conducting surfaces 
+under the same electric field stress. The conductor surfaces under highest field stress 
+are then layered with high-voltage coatings (usually acrylics, polyurethanes, silicones, 
+or engineered coatings) with dielectric constants chosen to reduce the electric field 
+strength at the conductor surface. This technique works because the conductor is the 
+source of electrons, without which breakdown will not occur. Since the electric field is 
+excluded from regions of relatively higher dielectric constant, if the insulating volume is 
+filled with mineral oil (relative dielectric constant of 2.2), then a conducting surface 
+coated with 10 mils of polyurethane (relative dielectric constant of 3.6) will have a 
+lower electric field stress than it would without the coating, and the increase in field 
+stress in the mineral oil will be minimal. 
+Dialectic tapering can be applied using several layers of coatings with progressively 
+lower relative dielectric constant from the conducting surface and dramatically reduces 
+the conducting surface electric field stress. Using finite element electric field solving 
+codes and several hours of iteration, th is technique can often reduce peak electric field 
+stress for a system by 50 percent. The technique works best when the volume dielectric 
+fluid has a low relative dielectric constant, such as mineral oil has (E r =2.2), since 
+coatings are readily available for Er = ~3 to 5. In practice, care must be taken in 
+choosing and applying the coatings to ensure that no voids or bubbles are introduced at 
+the conductor surface. Careful inspection and repair of any flaws is relatively simple 
+with this techn ique. Another, more recent use of this concept is what is termed 
+cont inually varying dielectrics in ultrawideband (UWB) guiding structures, such as 
+transmission lines with greatly reduced dispersion at bends. 
+CATHODE MATERIALS 
+This area of research is vitally important to any HPM source requiring electron beam 
+generation. All high-power microwave tubes, including virtual cathode oscillators and 
+cavity resonators, rely on a bunched flow of free electrons to set up oscillating electric 
+fields and thereby generate a radiofrequency (RF) output. The electron flow is usually 
+initiated by applying a high-voltage pulse to a vacuum diode. For high -power operation, 
+the cathode must be capable of emitting a very high electron current density using one 
+of several emission mechanisms. 
+UNCLASSIFIED/ /FOR OFFI@IAL Y!JIE OHL¥ 
+7

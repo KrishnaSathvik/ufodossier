@@ -1,0 +1,50 @@
+UNCLASSIFIED/ /FOR 8FFI€il.t..L l:ISE 8HLV 
+produced a modified set of London equations. These papers laid the theoretical 
+foundations for the later work of Li, Torr, and Tajmar, for example . 
+In the late 1980s while at the University of Alabama, Douglas Torr was examining 
+neglected areas of physics, including aether theories and experiments, as well as 
+gravitational wave antennas, the subject of a paper awarded the Gravity Research 
+Foundation's "First Award" in 1989. In 1991, Torr and Ning Li published a paper on the 
+effects of a gravitomagnetic field on superconducting matter (Reference 16). Ordinar ily, 
+all magnetic fields are excluded from the interior of a superconductor because of 
+Meissner expulsion . However, by solving the coupled Maxwell, GR, and London 
+equations for the internal magnetic and gravitomagnetic fields of superconductors 
+exposed to external gravitomagnet ic and magnetic fields, they predicted a small 
+residual internal magnetic field. This in turn produces an internal gravitomagnetic field. 
+The fields are related to one another by the Cooper pair mass-to-charge ratio. The 
+gravitomagnetic fie ld penetration depth is larger than the normal magnetic field depth. 
+A year later the same authors presented papers at a meeting of the American Physical 
+Society (Reference 17). Buoyed by the apparent success of the ir prev ious analyses, 
+part of the title of one presentation was "A Theoretical Basis for a Principle of 
+Electrically Induced Gravitation." In this paper, they used coupled Ginzburg-Landau 
+equations to calculate the relative strengths of the electric and grav itational fields in 
+superconductors in the presence of magnet ic and gravitomagnet ic fields. They 
+concluded that under certain circumstances, a secondary gravitational field could be 
+induced inside a superconductor and "provide a basis for the electrical generation of 
+gravitational fields in the laboratory ." 
+Then came the bombshell. A Russian materials scientist on staff at the Institute of 
+Materials Science at the Tampere University of Technology in Finland published a paper 
+in 1992 on an apparent grav ity shielding experiment using a spinning superconductor 
+disk (Reference 15). In the mid-1980s, the lead author, Evgueny E. Podkletnov, had 
+published several papers on ceramics while at the Institute for High Temperatures in 
+Moscow. He later moved to Finland, where he completed his doctorate under then­
+Director of the Institute of Materials Science Pentti Kettunen. Podkletnov's thesis was 
+on preparation of pure YBCO whiskers by magnetron sputter ing, and he was producing 
+this material for powder-in-tube high-temperature superconducting wire for a local 
+business concern . According to Kettunen (Reference 21), the spinning disk experiment 
+was not actually performed at the institute but rather was conducted by Podkletnov and 
+others "after hours ." Kettunen also confided that although he was aware of the 
+existence of the gravity shielding experiment through "so many others" telling him 
+about it, he never witnessed it himself. He did confirm the story Podkletnov later told 
+about discover ing the shielding effect by watching the smoke from a coworker's pipe 
+float up exactly in the "shadow" of the spinning disk. The disk was apparently made in 
+Russia for sputter ing purposes and brought to Finland . 
+The coauthor of the gravity shielding experiment, Risto Nieminen (this Risto Nieminen 
+is emphatica lly not the more famous professor of computational physics current ly at 
+Helsinki University of Technology), was a technician working at the Institute of 
+Materials Science during Podkletnov's time there. He was not involved in Podkletnov's 
+experiments but noted (Reference 22) that they were likely conducted at either the 
+Tampere Institute of Technology's Department of Electrical Engineering or the Institute 
+of Physics. To this day, he is still not sure why he was asked to coauthor the paper, 
+UNCLASSIFIED/ /fOR: 8FFI€il.t.k Uili Ql"IL¥ 
+4

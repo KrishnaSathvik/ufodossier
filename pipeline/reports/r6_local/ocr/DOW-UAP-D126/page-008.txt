@@ -1,0 +1,42 @@
+UNCLASSIFIED/ /FOR err1e1J1tt U.!I! l>NLI 
+Society, it was proposed to "mine" He3 from the atmosphere of Jupiter. In either case, 
+the cost to recover appreciable amounts of He3 would be very high . 
+For the DD reaction, the situation is quite different because there the instantaneous 
+burn with deuterium of the T- and He3- reaction products of deuterium makes possible 
+a detonation wave in dense deuter ium. In this detonat ion wave, only 38 percent of the 
+energy released goes into neutrons, compared with 80 percent for the DT reaction . 
+Deuterium can be extracted from water with relat ive ease in three steps : 
+• Water is electrolytically split into hydrogen and oxygen. 
+• The hydrogen gas, composed of H2 and HD, is cooled down until it liquefies, 
+whereby the heavier HD is separated by the force of gravity from the lighter H2. 
+• The newly produced HD is heated and passed through a catalyst, splitting HD into 
+H2 and D2, accord ing to the equation (Reference 7) 2HD---+ H2 + D2. 
+Since the grav itational field on the surface of a comet or small planet, from which the 
+D2 shall be extracted, is small, the apparatus separating the liquid HD from H2 must be 
+set into rapid rotation. 
+The comparatively small amount of energy needed for the separation can ideally be 
+drawn from a ferroelectric capacitor (for example, a barium-titanate capacitor with a 
+dielectric constant c: ::::: 5,000), to be charged up to many kilovo lts by a small fraction of 
+the electric energy drawn from the deuterium fusion explosions through a magneto 
+hydrodynamic loop (Reference 2). One can also draw this energy from a small on-board 
+nuclear reactor requiring only a small radiator, slowly charging the capacitor. 
+Alternatively, one may store the needed energy in the magnetic field of a 
+superconductor . 
+For the launch ing of the spacecraft into Earth orbit, a very different scheme is 
+proposed. It requires special materials that are readily available on Earth but not on 
+extraterrestrial bodies serving as landing points to refuel the spacecraft. There the 
+primary resource is water from which deuterium is obtained. 
+In the Orion bomb propulsion project, a large number of fission bombs, or fission­
+triggered fusion bombs, were proposed to lift the spacecraft into space. Since this 
+would release a large amount of highly radioactive fission products into the 
+atmosphere, it was one of the causes that killed Orion. Even though large payloads can 
+be brought into Earth orbit by chemical rockets, this rema ins very expensive, and an 
+acceptable less expensive nuclear alternative is highly desirab le. 
+There appear to be two possibilities: 
+• A laser driven by a high explosive, powerful enough to ignite a DT microexplosion, 
+which in turn can initiate a thermonuclear detonation in deuterium (Reference 8) . 
+• A second, more speculative possibility is the conjectured existence of chemical 
+kiloelectronvolt (keV) superexplosives. These are chemical compounds formed under 
+high pressure, result ing in keV bridges between inner electron shells and able to 
+UNCLASSIFIED/ /POR. 0PPIE!IAL Y§E &PU.¥ 
+2

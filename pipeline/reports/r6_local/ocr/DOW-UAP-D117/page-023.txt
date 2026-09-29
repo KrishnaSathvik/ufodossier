@@ -1,0 +1,34 @@
+UNCLASSIFIED/ /FOA &FFI&IAb lltSE 8HL'l 
+• Fatigue resistance (including resistance to both fatigue crack initiation and fatigue 
+crack growth). 
+• Corrosion resistance (including stress-corrosion cracking). 
+• Cost (including raw materials, shaping, and assembly). 
+Figure 9 illustrates the mechanical properties of metallic glasses and metallic glass 
+matrix composites compared with other structural materials. Since weight is a 
+particular concern in aerospace applications, in Figure 9(a) we normalize both yield 
+strength (cry) and stiffness (E) to density (p); two materials with the same specific 
+strength (cry /p) or specific stiffness (E/p) could be used to produce a component with 
+the same overall strength or stiffness, respectively, at the same weight. Materials in the 
+upper-right corner of the plot have the best combination of strength and stiffness for a 
+given weight. Notice that the metallic glasses (and dendritic composites) can be 
+stronger than virtually all crystalline metals, although the stiffness of metallic glasses 
+tends to be somewhat smaller than that of crystalline alloys of similar composition. 
+Figure 9(b) illustrates the damage tolerance of metallic glasses compared with other 
+materials. By plott ing the fracture toughness (Klc) against modulus (E), we can also 
+compare the fracture energy (Glc ~ (Klc)2/E) of the materials; the dashed diagonal 
+lines are lines of constant fracture energy . Figure 9(b) reveals several interesting 
+aspects of the damage tolerance of metallic glasses. First, although the fracture 
+toughness of some metallic glasses is comparable to that of crystalline metals, some 
+metallic glasses- most notably those based on iron (Fe) and magnesium (Mg) - are as 
+brittle as any ceramic. Second, both the fracture toughness and the fracture energy of 
+the dendritic metall ic glass matrix composites can be superior to those of all but the 
+most fracture-resistant metals. 
+These considerations suggest the dendritic metallic glass matrix composites might 
+indeed find applications as structural materials in aircraft and/or spacecraft . The most 
+obvious applications would be to replace steel in certain components where strength is 
+critical but space is limited. These might include pylon structures and landing gear,38 
+although it has yet to be demonstrated that the composites can be fabricated in the 
+sizes necessary. Furthermore, the corrosion and stress-corrosion cracking resistance of 
+these materials has not been fully evaluated. 
+17 
+UNCLASSIFIED/ /FOR 8ffle!AL ts5E 014Lt

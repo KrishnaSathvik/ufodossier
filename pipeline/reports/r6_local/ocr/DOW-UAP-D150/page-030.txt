@@ -1,0 +1,38 @@
+UNCLASSIFIED/ /FOA 8FFI€iIAL ttSI!! Brit I 
+binding. This then seeds ordinary, but meaningless computation. Growth errors, facet errors, 
+and nucleation errors all occur because of tiles that make only weak contacts with the 
+assembly (Figure 15). These erroneous tiles must fall off in order for correct growth to 
+proceed. One approach is to design the lattice such that each tile is first stabil ized by the 
+arrival of another tile before it secures itself in place. 
+Prior analys is predicted that the error rates of tile assembly can be reduced by optim izing 
+physical parameters such as tile concentrations and temperature. In order to suppress 
+different types of errors, several methods have been proposed based on the idea of 
+increasing the amount of time required to lock in erroneously assembled tiles. In order to 
+min imize the errors, several methods have been proposed. Unfortunately, some of these 
+methods cannot effectively suppress all types of errors. For example, the tile proof reading 
+model first proposed by Winfree and Bekbolatov (96) can correct errors in growth if an 
+incorrect tile attaches in the next position. This error correction technique uses redundancy 
+to correct errors . In this method, each tile is replaced in the system with four tiles, arranged 
+in a 2 X 2 block. The compact resilient tile model as proposed by Reif (97) attempts to 
+reduce the increase in scale of the final pattern produced by self-assembly. While both of 
+these methods are effective in reducing errors, they are only lim ited to those errors produced 
+by growth. However, the error suppression models Protected Tile Mechanism (PTM) and 
+Layered Tile Mechanism (LTM) proposed by Fujibayashi and Murata can suppress all three 
+error types illustrated in Figure 15. (98)(99). The functional method of suppression in these 
+models is the control of sticky end hybridization. In these mechanisms the implementation of 
+the DNA tiles is altered by the introduction of a structural motif protection strand and 
+protection tiles (see Figure 13 and Figure 14 ). In this technique, the protect ion strand is a 
+single oligomer that covers the input side of the tile. Each sticky end remains uncovered and 
+it works as the toehold for initiating a branch migration process that removes the protection 
+strand . The combination of a tile and a protection strand is called a "protected tile," or just 
+"tile" when it is clear from context, and "foundation tile" refers to the unprotected 
+foundation tile. The output sides of all t iles are unprotected, thus the growth front always 
+displays unprotected sticky ends. As seen in Figure 13 the protected tiles associate to the 
+growth front by the exposed 3-nt sticky ends first, then branch migration results in strand 
+displacement on each of the matching input arms; if both arms are matched, the protection 
+strand is completely displaced, and it dissociates. In Figure 14, this method undergoes Monte 
+Carlo simulation to evaluate its suppressive properties. Surprisingly, it was discovered that 
+the PTM and LTM suppression methods can prevent nucleation errors as well as growth and 
+facet errors . 
+UNCLASSIFIED// FOR OFFICIAL ttSf 8Ptk¥ 
+29

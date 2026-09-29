@@ -1,0 +1,37 @@
+UNCLASSIFIED/ (FOR OFFIClt.k YSE 8Htt 
+Applications to Circuits and Waveguide Miniaturization: 
+Slowing Down and Manipulating Electromagnetic Pulses 
+(EMP) Using Advanced Metamaterials 
+Given the space constraints of an advanced aerospace platform and the amount of the 
+useful payload that has to be carried, it is very important that every optical and 
+microwave component be as small as possible. Because of the very large speed of light, 
+there is a natural limit to how small such components can be made. Any structure 
+capable of processing EMPs (be those optical, THz, or microwave) of temporal duration 
+r must be at least L =er long. For example, a 1 ns microwave pulse can be 
+manipulated inside a device that is at least 1 ft long. Pulse manipu lation can be 
+understood very broadly by pulse compression, frequency shifting, harmonics 
+generation, or other. For aerospace communications systems, it may be very desirable 
+to have the ability to manipulate the format of EMPs, (that is, to change their 
+frequency, duration, and repetition rate). Slowing down or even stopping the EMP can 
+circumvent the length requirement if the group velocity is reduced to vg << c , and thus 
+the required length is L = vgr. 
+~c 
+_L ___ C __ 
+CT 
+Figure 14. Schematic of Pulse Compression in Magnetized Plasma. A radiation pulse with initia l frequency 
+w0 and durat ion T slows down in the plasma to a group velocity v80 << C. Adiabatic spat ially uniform variation 
+of the magnetic field changes the radiation frequency to W1 and increases the group velocity to v g, >> Vgo. The 
+emerging pulse is compressed to I; =Tv80 I v8 1 . (Reference 29) 
+An example of the pulse slowing down and subsequent manipulation is first discussed in 
+Reference 29 in the somewhat esoteric context of magnetized plasma. Pulse duration, 
+frequency, and (for multiple pulses) repetition rate can be controlled by storing (or 
+slowing down) electromagnetic waves and subsequently changing the system's 
+parameters . The essence of the compact pulse manipulator is shown in Figure 14. The 
+pulse is slowed down inside the compact plasma device and manipulated by changing 
+the magnitude of the magnetic field. The advantage of slowing the pulses down is 
+three -fo ld. First, the device can be made smaller, resulting in size savings. Second, the 
+tempora l scale on which the system has to be manipulated is lengthened because the 
+pulse is moving slowly. Finally, the potentially large rati o between v81 >> vgo results in 
+the more dramatic dynamic range of possible pulse compression ratios. Plasma-based 
+UNCLASSIFIED/ {fQR OFEICl.t.ls: W81!! 8flti 
+16

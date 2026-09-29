@@ -1,0 +1,36 @@
+UNCLASSIFIED/ /FOR OSSICIAl WSE 8Ht'I" 
+constant concentration around the crystal can easily be realized by a constant flow. This 
+ground-breaking work in DNA synthesis technology has opened the door for several 
+applications in genetic engineering and lab on a chip technology (107)(108)(109). 
+This kind of controlled self-assembly will drastically improve the size and yield of errorless 
+nano structure. It is also possible to produce desired nano structures on a patterned 
+template in the react ion chamber for various applicat ions. 
+Glass plate 
+011 
+Figure 16. Micro-fluidic device for DNA tile self-assembly . 
+DNA Origami 
+The idea of holding helical domains in a parallel arrangement via the juxtaposition of 
+antiparallel crossovers has become a general principle in DNA nanotechnology, used in at 
+least a dozen constructions . For example, it has been extended to molecules with three 
+parallel helixes (110) and it has been used to attach triangles rigidly to a nanomechanical 
+device. (111) However, these techniques do not create a generalized multi-crossover 
+molecule with parallel helices due to the inability to have the ratio of the component short 
+strands exactly equal. 
+Single -stranded origam i such as William Shih's octahedron (113) cannot, by definition, suffer 
+from this problem. Scaffolded origami sidesteps the problem of equalizing strand ratios by 
+allowing an excess of helpers to be used. As long as each scaffold strand gets one of each 
+helper, all scaffolds may fold correctly (some might get trapped in misfolding). Because 
+origami are easily differentiable from the helpers, separating them is not difficult (e.g. large 
+origami stick much more strongly to mica surfaces than do tiny helpers and so excess 
+helpers can be washed away). Single-stranded origami and scaffolded origami thus seem 
+the best candidates for the creation of large complex structures. As Shih has observed, the 
+geometry used for the octahedron should generalize and allow the creation of arbitrary 
+polygonal networks. Generalization of the parallel helical geometry int roduced by double­
+crossover molecules is simple using scaffolded DNA origami; Ruthemond has recently 
+demonstrated the technique for the creation of six arbitrary shapes and six arbitrary patterns 
+(inc luding the one shown here); the design method and experiments showing its generality 
+are described in (114). To get a feeling for the method, look at Figure 18. Shapes are 
+approximated by laying down a series of parallel helical domains inside of the shape (Figure 
+18a). Helices are cut to fit the shape, in a series of sequential pairs from top to bottom, so 
+UNCLASSIFIED// FOR OPPICIJ!tt tJ!JE 8Hllf 
+32

@@ -1,0 +1,52 @@
+{
+  "filename": "ODNI-UAP-D001.pdf",
+  "generated_at": "2026-09-25T18:38:50.578330+00:00",
+  "page_count": 2,
+  "usable_text_chars": 5727,
+  "stats": {
+    "native_good": 2,
+    "native_thin": 0,
+    "needs_ocr": 0,
+    "ocr_failed": 0,
+    "ocr_succeeded": 0,
+    "pages_ocrd": 0
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "native_quality": {
+        "page_number": 1,
+        "native_char_count": 3143,
+        "printable_ratio": 0.994,
+        "alpha_ratio": 0.779,
+        "word_count": 500,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "sufficient clean native text"
+      },
+      "final_category": "native_good",
+      "text_method": "native",
+      "char_count": 3143,
+      "text": ""
+    },
+    {
+      "page_number": 2,
+      "native_quality": {
+        "page_number": 2,
+        "native_char_count": 2552,
+        "printable_ratio": 0.991,
+        "alpha_ratio": 0.777,
+        "word_count": 397,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "sufficient clean native text"
+      },
+      "final_category": "native_good",
+      "text_method": "native",
+      "char_count": 2552,
+      "text": ""
+    }
+  ],
+  "combined_path": "pipeline/reports/r2_ocr/ODNI-UAP-D001/combined.txt",
+  "production_writes": false
+}

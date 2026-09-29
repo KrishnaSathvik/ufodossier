@@ -1,0 +1,49 @@
+UNCLASSIFIED/ /FOR OFFI@IAL WSE QptLY 
+shown that th is positron must have a very well defined energy. The applied electric field 
+determi nes how large this energy will be. If the electric/magnetic field is increased 
+above critica l strength, then more electron-positron pairs will be produced from the 
+vacuum. 
+Clearly, the charged vacuum is a new ground state of space and matter. The normal, 
+undercritical, electrica lly neutral vacuum is no longer stable in supercritical fields: it 
+decays spontaneously into the new stable but charged vacuum. Thus the standard 
+defin ition of the vacuum, as a region of space devoid of real elementary particles, is no 
+longer valid in very strong external fields. The vacuum is better defined as the 
+energetically deepest and most stable state that a region of space can have while being 
+penetrated by certain fields. 
+Magnetically Induced Decay of the Dirac Vacuum 
+Xue (Reference 105, 106) developed a Dirac vacuum decay mechanism that is different 
+from the Heisenberg-Euler-Schwinger mechanism and proposed that energy could be 
+cont inuously extracted from it. He modeled his decay mechanism after the (vacuum 
+electromagnet ic) Casimir effect wherein the vacuum state is modified by boundary 
+conditions. From an energetic point of view, the Casimir effect can be physically 
+understood as the following: 1) the continuous energy spectrum of vacuum 
+electromagnetic fields is modified by boundary conditions to be discrete; 2) the vacuum 
+energy of the "final" vacuum state, computed from the discrete energy spectrum in a 
+given finite volume, is smaller than the vacuum energy of the "initial" vacuum state, 
+computed from the continuous energy spectrum in the same volume; 3) as a result, the 
+vacuum gains energy and becomes energetically unstab le and has to decay from the 
+"initial" vacuum state to the "final" vacuum state by quantum field fluctuations. This 
+difference of vacuum energies between two vacuum states must be released, and this 
+leads to the attractive and macroscopic force observed in the Casimir effect. Xue 
+suggests that instead of modifying the energy spectrum of virtual photons by boundary 
+conditions as in the Casimir effect, one should attempt to vary the vacuum energy by 
+modifying the negative energy spectrum of virtual fermions (in the Dirac vacuum) by an 
+externally applied magnetic field (of strength B). In this case, the externally applied 
+magnetic field acts as a boundary condition on the Dirac vacuum. 
+Xue defines the vacuum state with B = 0 as the "initial" vacuum state and the vacuum 
+state with 8 * 0 as the "final" vacuum state. The negative energy spectrum 20 of the 
+initial vacuum state is modified to the negative energy spectrum 21 of the final vacuum 
+state, due to the external magnetic field. If the vacuum energy of the final B * 0 
+vacuum state made by virtual fermions fully filling its negative energy spectrum is 
+20 The negative and nondegenerate energy spectrum of free virtual charged fermions in the Dirac vacuum is: 
+E F (IPI) = - ( p: + p: + p: + ni2 yt2 , where pis the magnitude of the fermion's momentum, (P x, PY, Pz) are the 
+spatial momentum components, and m is the fermion's mass. This spectral energy density is integrated over all 
+possible momentum states of the quantum field fluctuations in order to give the total (negative) Dirac vacuum 
+energy. 
+21 The energy spectrum of virtual charged fermions in the presence of an external constant magnetic field (a.k .a. 
+the Landau levels) is: EL ( p2 , n, h) = - ( p: +m' +Ie IB(2n +1) - eBh/ 2 , where e is the fermion's bare charge, h 
+= ±1 is the fermion's helicity, n = 0, 1,2,3, ..., and the magnet ic field 8 is along the z-axis. This negative energy 
+spectrum is degenerate in the phase space of (Px, Pv), This spectral energy density is integrated over all possible 
+momentum states of the quantum field fluctuations in order to give the tota l (negative) Dirac vacuum energy. 
+UNCLASSIFIED/ /FOR OFFICI0L: 11ili QIU.,¥ 
+34

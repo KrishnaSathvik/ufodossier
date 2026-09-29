@@ -1,0 +1,32 @@
+UNCLASSIFIED //POROPPICTAL USE ONE
+
+Despite the convenience of the near-field super-lens, (that is, its ability to transport the
+image) it still requires an NSOM to read out the image. Within the confines of an
+advanced aerospace platform such device (with its necessary auxiliaries) may not fit.
+Therefore, one has to consider alternative metamaterials-based ideas for sub-diffraction
+imaging. One such idea, the hyper-lens, has been proposed recently by two groups
+(References 22-24), and already experimentally tested by another group (Reference
+25). The principle of the hyper-lens is very simple: to use an indefinite permittivity
+medium (sometimes referred to as the hyperbolic medium because the relationship
+between the propagation wavenumbers and the frequency, also known as the constant
+frequency contour, has a hyperbolic nature) in a tapered format. Several conceptual
+implementations such as the spoke-like structure and the cylindrical multi-layer
+structure (see Figure 7, left panel) have been suggested. The hyper-lens works on two
+principles: (a) indefinite permittivity materials (of which the super-lens is one example)
+are capable of propagating sub-diffraction waves, and (b) the expanding nature of the
+hyper-lens can magnify images to the A/2 size, at which point they become observable
+in a conventional microscope. One recent experimental implementation of the hyper-
+lens in UV is shown in the right panel of Figure 7. The hyper-lens is made of 16 layers
+of Ag/AlzO3. This specific hyper-lens was used for imaging a line pair object with line
+width of 35 nm and spacing of 150 nm and was operated at A =400 nm. The magnified
+image (350 nm spacing) can be clearly resolved with an optical microscope [numerical
+aperture (NA) = 1.4], thus demonstrating magnification and projection of a sub-
+diffraction-limited image into the far field.
+
+Salandrino & Engheta, PRB’06 Govyadinov & Podolsky, Liuet.al, Science’07
+PRB’06
+
+Figure 7. Theoretical Concepts (left panel) and Experimental Implementation (right panel) of an Optical
+Hyper-lens Capable of Magnifying Sub-Diffraction Objects to Observable (larger than A/2) Size
+
+UNCLASSIFIED/ LEQB.OEEIGI A GSEONTY

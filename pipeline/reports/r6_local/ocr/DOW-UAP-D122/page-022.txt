@@ -1,0 +1,37 @@
+UNCLASSIFIED/ ,'FOR: OFFl@IAL l!ISl!!! 9HLY 
+A B C 
+Figure 18. Wave Packets are Made by Combining Waves With Different Frequencies. The picture shows 
+the simplest example: two waves (A and B) that add up to the wave packet (C). 
+Suppose that the phase velocity varies for different frequencies, what is called 
+dispersion. In this case, the wave group made by the construct ive interference of the 
+single-frequency waves moves at a different speed than the phase velocity: group and 
+phase velocities differ . So, in dispers ive materials, the phase velocity may approach 
+infinity without violating the principles of relativity, but only for a single frequency, 
+because otherwise the group velocity would tend to infinity as well. The cloaking of 
+electromagnetic waves of fixed frequency is possible, as the successful demonstration 
+of the microwave-cloaking device has confirmed, but the cloaking of wave packets 
+carrying information is impossible. It turns out 31 that the group velocity actually tends 
+to zero at the inner lining of such cloaking devices; wave packets would get stuck there 
+instead of trave ling around. Turn ing invisibility from a tantaliz ing idea into a practical 
+device requires a new paradigm. 32 
+Curved Space 
+Light rays are curved in materials with varying refractive index . In convent ional 
+cloaking devices, the rays are curved because the material performs a transformat ion 
+to curved coordinates. However, the curvature of a space does not depend on 
+coordinates; curved coordinates create the illusion of curvature , but the space they 
+describe is still flat. A flat space obeys the axioms of Euclidean geometry, in particular 
+the parallel axiom: through each point outside out of straight line goes exactly one 
+parallel line; parallels never meet . The light rays focused by a lens clearly violate the 
+parallel axiom, because parallel light rays meet at the focus of the lens. Optical 
+materials establish non-Euclidean geometries in general; the Euclidian geometries of 
+cloaking devices are rather the exceptions . The advantage of Euclidean spaces is that 
+one can easily visualize them; curved space is difficult to comprehend, in particular 
+three-d imensional curved space. However, two-dimensional curved spaces can be 
+visua lized as surfaces of three-d imensional curved objects. These surfaces are the 
+virtual spaces that are implemented, by the opt ical material, in physical space. 
+The simplest example is the sphere. On the surface of the sphere, the equivalent of 
+straight lines, the geodesic lines, are the great circles. The great circles originat ing from 
+one point meet again at the antipodal points, which shows that the surface of the 
+sphere establishes a non-Euclidean geometry. To implement this geometry in the two -
+UNCLASSIFIED/ /EAR OFFICIO! I 155 ONL¥ 
+17

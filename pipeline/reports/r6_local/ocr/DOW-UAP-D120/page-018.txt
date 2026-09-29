@@ -1,0 +1,22 @@
+UNCLASSIFIED/;'FOR OFFl&IAl W&IE 9fslllf 
+Figure 3. Micrograph Showing a Phase Formation at the Surface of a Ti Alloy 
+That has Been Exposed to Air at Elevated Temperature 
+The a case is harder than the matrix because oxygen is a potent a-phase solid-solution 
+strengthener. As with almost all other strengthening reactions, the increased strength is 
+accompanied by reduced ductility. Again, drawing on conventional wisdom, the 
+presence of a case in sheet structures has been forbidden by specification, design 
+practice, or whatever means a company uses to manage its hardware. Less clear is how 
+truly detrimental a case is to properties. Essentially no effort has been made to 
+determine whether it can be tolerated if the affected hardware is allowed to operate at 
+a modestly reduced stress. The industry standard for a case has essentially been one of 
+zero tolerance. Given the significant potential weight advantage associated with use of 
+Ti alloys in portions of the TPS and warm structure, this conservative approach needs to 
+be revisited. Several key questions related to this are: 
+• Is a case truly detrimental to the load-bearing capability of Ti alloy sheet structures? 
+• If so, is there a limiting amount that can be tolerated without significantly degrading 
+the structural capability? 
+• Which properties are the most severely degraded? 
+• Are a case formation and property degradation alloy dependent? 
+• If so, which alloys are the most tolerant of a case formation? 
+13 
+UNCLASSIFIED/ /FOR OFFI&IAl Wliliii QfslL¥

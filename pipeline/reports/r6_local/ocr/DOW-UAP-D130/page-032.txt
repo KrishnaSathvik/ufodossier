@@ -1,0 +1,46 @@
+UNCLASSIFIED/ fFOlil OFFI&I.t.k WIiii 8Plklf 
+NONINVASIVE MAGNETIC DEVICES 
+Detection of magnetic fields arising from neural activity using MEG or a future 
+technology have the same inherent limitations as EEG-only noninvasive sensors. 
+Resolving these signals from background in any naturalistic environment will not occur 
+without the development of a disruptive technology in shielding that is portable and 
+lightweight enough to be worn comfortably on the head, and will attenuate background 
+amplitude nearly 10 orders of magnitude across the entire range of neural signal 
+frequencies, and the entire range of frequencies where the detection electronics may be 
+sensitive. Body-temperature superconducting materials may accomplish the shielding if 
+engineering development continues, and these could be combined with atomic 
+magnetometer technology to produce a portable system, though the inherent 
+limitations of the method will still be present. 
+INVASIVE TECHNOLOGIES - GENERAL , OPTICAL , AND EX-VIVO 
+ENGINEERING 
+All invasive technologies will have to undergo substantial rigorous testing to determine 
+the long-term side-effects of implantation and operation, as well as drift in the 
+operational performance with extended use. Several pre-clinical devices deta iled above 
+and discussed below show promise, but the handful of human trials show that direct 
+interface technologies based on proximal action potent ial stimulation and detect ion are 
+still a long way off from practical application since the trials themselves in duplex 
+operation show funct ional failure after only a matter of weeks. The mammalian auditory 
+system is well studied, and the cochlear implant has been in use and continued 
+development for more than 30 years, and there is yet to be any practical applicat ion for 
+implanting a cochlear device into a normal healthy individual. Proximal electrode 
+interfaces do not appear to be the answer for high bandwidth BMI, and further 
+development in the machine-biology contact is required. If the 30-year advancement of 
+cochlear is a realistic guide of innovation, the proximal electrical technology path to 
+success is 30-40 years off save for a disruptive advance in the development of 
+penetrating electrodes. 
+Two invasive research paths that are promising are optical stimulation and gating, and 
+ex-vivo growth of neural cells on physical circuits. 
+The advantage of optical stimulation and gating is that one could theoretically design an 
+optical link to act as a connected input dendrite on a single neuron. Theoretically, one 
+should also be able to use spectroscopic sampling to determine if an action potential is 
+progressing down an axon, thus providing a single neuron output (read or monitor) 
+capability as well. This invasive but noncontact full-duplex information channel would 
+effectively hook-up the physical computer seamlessly to the network structure of the 
+brain. Proof of principle studies in this technology could emerge at any time, and given 
+the demonstrated plasticity of neura l networks in both closed-loop visual feedback and 
+lamprey experiments, could provide a disrupt ive path for advancement of BMI. 
+The ex-vivo growth of neural tissue on electrode arrays provides a controlled platform 
+for: 
+• Testing long-term effects of electrode use on proximal neural tissue. 
+UNCLASSIFIED/ /FOlil OFFI€llAL 1:181! 8Htl" 
+26

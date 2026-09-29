@@ -1,0 +1,44 @@
+UNCLASSIFIED/ /FOR OFFl@IAL l!ISl!!! 9Ht5i" 
+thus, implies heightened safety concerns. Even low-volume vessels can contain 
+hundreds of joules of energy in the compressed gas, and a housing failure can hurl 
+fragments at deadly velocities. Highly compressed gases are used only in cases where 
+some prized benefit is worth the increased cost and design trials to be exacted. One 
+example of this is extremely fast switching where the electrode spacing is proportional 
+to the added inductance during conduction-the smaller electrode spacing requires 
+higher gas pressure for insulation. Almost every common gas has been used as 
+insulation, and many have attributes making them desirable for certain applications. 
+Sulfur hexafluoride, nitrogen, air, argon, helium, oxygen, and hydrogen are commonly 
+used. Of these, only sulfur hexafluoride is an electronegative gas, meaning it has the 
+ability to remove electrons from the volume through the formation of negative ions and 
+thereby increase the dielectr ic strength. Electrical discharges in sulfur hexafluor ide 
+result in foul-smelling sulfur compounds that also deposit on the switch housing and 
+electrodes and require frequent cleaning. These discharge compounds also tend to be 
+highly corrosive, especially in the presence of water. Other gases with electronegative 
+species, typica lly other halogens such as chlorine, also make good insulators. These 
+gases are usual ly much denser than air, and breakdown voltage is roughly proportional 
+to density, thus higher voltages can be supported even at low pressures. The 
+halogenated hydrocarbon refrigerants, such as CCl4, CCl2F2, CCbF, and C2Cl2f4, are also 
+popular for insulation. The breakdown of air has been thoroughly researched, and in 
+fact the breakdown voltage of a calibrated gap can be used to determ ine the magnitude 
+of high voltages. Table 2 shows the breakdown voltages of severa l insulating gases 
+relat ive to that of air. 
+Table 2. Relative Spark Breakdown Strength of Gases 
+Gaseous insulat ion as a switch medium limits the pulse repetition rate (PRR) to 500-
+600 pulses per second because of the creation of numerous metastable states and 
+elevated energy levels by the prev ious pulses. This is true for all gases listed here 
+except hydrogen. Hydrogen can be used at a much higher PRR; however, its dielectr ic 
+strength is only 65 percent that of air and, thus, almost twice as much pressure is 
+required for the same operating voltage. When the pressure is doubled, the energy 
+content increases by a factor of four, leading to elevated safety concerns. Using 
+hydrogen for switch insulation poses no explosive danger provided the oxygen content 
+in the gas is kept below about 5 percent. Other handling problems associated with 
+hydrogen include hydrogen embrittlement-it will leak through even tiny holes, 
+including the pores in metal tanks, eventually causing the metal to become britt le and 
+fail. In addition, hydrogen is flammable when mixed with oxygen. A hydrogen flame is 
+colorless but very hot, which can be dangerous if leaks develop in pressur ized switches 
+or gas lines. One class of hydrogen switches, hydrogen thyratrons, makes use of the 
+low-pressure characteristics of gases to eliminate the safety concerns associated with 
+high pressures (these are discussed in a later section dedicated exclusively to gas 
+switches). 
+UNCLASSIFIED/ /FOR OFFICIO! 1 !SE ON! X 
+5

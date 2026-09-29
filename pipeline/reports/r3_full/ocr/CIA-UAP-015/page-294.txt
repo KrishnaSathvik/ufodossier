@@ -1,0 +1,100 @@
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+CODE 50 SHAPE PARAMETER a/b 
+X - Variable 
+y 
+0 - o.o 
+l - 0.05 
+2 - 0.1 
+3 - 0.2 
+4 - 0 • .3 
+5 - 0.5 
+6 - 0.75 
+7 - 0.9 
+8 - 1.0 
+9 - Other 
+CODE 51 SUBTENDED VISUAL ANGLE 
+{Referred to sun diameter) 
+X - Decreased in size y 
+0 - 0.1 
+l - 0.2 
+2 - 0.5 
+.3 - o.75 
+4 ... 1.0 
+5 - 1.5 
+6 - 2.0 
+7 - 4.0 
+8 - 4.0 to 10.0 
+9 - Other 
+CODE 52 LIGHT BRIGHTNESS (Intens.llzl 
+X Decreased 
+CODE 53 ANGULAR VELOCITY 
+X Variable y y 
+0 Sunlight on mirror 
+l Sunlight on aluminum 
+2 Sunlight on plaster 
+3 Sunlight on stone 
+4 Sunlight on soil 
+5 Brighter than moon 
+6 Like moon 
+7 Duller than moon 
+8 Barely visible 
+9 Other 
+CODE 54 ANGULAR ACCELERATION 
+(Change in Angular Velocity) 
+X Variable 
+y 
+O Zero, v=constant 
+l Increasing slowly 
+2 Decreasing slowly 
+3 Increasing fast 
+4 Decreasing fast 
+5 Increasing very fast 
+6 Decreasing very fast 
+7 
+8 
+9 
+293 
+0 Zero 
+1 Very slow, 1° per second 
+2 Slow, .3° per second 
+.3 Moderate, 60 per second 
+4 Rapid, 12° per second 
+5 Very fast, 30° per second 
+6 Extremely fast, 900 per second 
+7 More than 900 per second 
+8 
+9 Other 
+CODE 55 APPEARANCE BEARING 
+X 
+y 
+0 - N 
+1 - NE 
+2 - E 
+3 - SE 
+4 - s 
+5 - SW 
+6-W 
+7 - NW 
+8 
+9

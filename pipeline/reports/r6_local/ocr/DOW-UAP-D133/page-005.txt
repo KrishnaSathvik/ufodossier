@@ -1,0 +1,56 @@
+UNCLASSIFIED / / FOTO FFTCEAEUSE-ONET
+
+The Space-Communication Implications of Quantum
+Entanglement and Nonlocality
+
+Foreword and Introduction
+
+This paper reviews quantum entanglement and nonlocality and considers the
+possibility that this phenomenon could be used for sending observer-to-
+observer signals. Such a demonstration would break several quantum “no-
+signal theorems” in the physics literature. Nonlocal quantum signaling would
+have far-reaching implications as an enabling technology for superluminal and
+retrocausal signaling. Scenarios that might lead to nonlocal quantum
+communication are described, and applications to retrocausal signaling and
+real-time space communication are considered. Also considered briefly is the
+nonlocal communication implications of nonlinear quantum mechanics.
+
+Communication in space at the scale of the solar system is severely limited by
+the space-time scale set by the speed of light. Light signals, whether in the
+form of radio waves, microwaves, visible light, X-rays, or gamma rays, require
+about 3.3 microseconds to travel a distance of 1 kilometer. A light signal sent
+from Earth requires about 1.3 seconds to reach the Moon, between 4.4 and 20
+minutes to reach Mars, and between 4 and 4.3 hours to reach Neptune,
+depending on their orbital positions. This time delay makes real-time control
+of remote space-based devices impossible and leads to the need for pre-
+programmed robotic devices with enough “intelligence” to perform limited
+operations with a minimum of remote control.
+
+The burden of these limitations raises the question of whether there is some
+way to speed up the space communications link. The conventional answer is
+“No!,” because the well-established special theory of relativity is viewed as
+limiting signal transmission speed to the speed of light, with superluminal
+communications strictly forbidden. However, as will be discussed in Section
+III, relativity prohibits only certain forms of superluminal communication,
+while other forms are not in conflict with relativity. One phenomenon that
+appears, at least superficially, to exhibit superluminal aspects while
+preserving compatibility with special relativity is quantum nonlocality, the
+ability of quantum phenomena to enforce correlations between quantum
+states over large separations in space-time.
+
+When two photons emerge from a single quantum event, the state of one
+photon may be subtly connected to that of the other. The classical view is that,
+once separated, such photon states must be fixed according to mechanics and
+conservation relations that act at the point of their origin, so that modifying
+one later will not affect the other. In quantum physics, however, as borne out
+by experiment (Reference 1, 2), the outcome of a measurement of the state of
+one of the photons, even well after their point of joint creation, can affect the
+state of the other photon. This connection is referred to as quantum
+entanglement, a phrase first coined by Erwin Schrédinger (Reference 3).
+Questions raised by the phenomenon of quantum entanglement are: (1) what
+is the causal connection between entangled states, and (2) can the
+phenomenon possibly be used for sending observer-to-observer signals? This
+
+iv
+
+UNCLASSIFIED / /F@R-OFFt6H-USE-Oh--

@@ -1,0 +1,24 @@
+UNCLASSIFIED/ /P'OR. 8FFIEil1'1.k lellii Ql'II.¥ 
+8. Negative Mass Interpretation of the Aharonov-Bohm 
+Effect [11] 
+In Maxwell's equat ions the electric and magnet ic fields can be expressed through a 
+scalar potentia l <1> and a vector potential A: 
+18AE = ---- grad¢ 
+C at (77) 
+H = curlA 
+E and H remain unchanged under the gauge transformation of the potentials 
+<J.)' = <I) - ! 8/ 
+C 8t (78) 
+A'= A +gradf 
+where / is called the gauge function. Imposing on <1> and A the Lorentz gauge conditi on, 
+_!_ o<P +divA = 0 (79) 
+C Ot 
+the gauge function must satisfy the wave equation 
+(80) 
+In an electromagnetic field the force on a charge e is 
+1 8A 1 ]=e[ ----grad<P+-vxcur/A . (81) 
+C at C 
+By making a gauge transformation of the Hamilton operator in the Schrodinger wave 
+equat ion, the wave function transforms as 
+UNCLASSIFIED/fFOA OFFI&il.t.k lellii OJi,k¥ 
+23

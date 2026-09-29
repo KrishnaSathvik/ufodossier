@@ -1,0 +1,46 @@
+UNCLASSIFIED/ fFOA. OFFI€il.t.L YSE er•tv 
+• Component vulnerability - All spacecraft have essential components which are 
+exposed and potentially susceptible to laser radiation. Solar panels, from either the 
+front or back, could be damaged or shorted. Cabling among the solar panels and 
+between the spacecraft and the panels could be damaged. If the mechanism which 
+keeps the solar panels pointed at the sun were damaged, then the panels couldn't 
+be rotated and would lose efficiency. Similarly, antennas used for communications 
+or navigation are susceptible along with their RF/power cables and the mechanisms 
+which keep them pointed. Many spacecraft use optical sensors to locate stars, the 
+sun, or the earth's horizon for navigation or attitude determination. The loss of any 
+of these types of sensors could significantly affect the spacecraft and could be 
+accomplished fairly easily by a medium-to-large earth-based laser weapon if the 
+spacecraft were in earth orbit or by a smaller laser system which was onboard 
+another spacecraft. 
+• Structural penetration - A unique vulnerabi lity of manned spacecraft is the 
+requirement to maintain a suitable internal atmosphere. If the pressure-vessel 
+port ion of the spacecraft were penetrated, even in a small area, it could prove fatal. 
+The design and operation of any spacecraft should consider these vulnerabilities if 
+damage from laser radiation is a concern. In addition to thermal modeling and careful 
+design/shielding, candidate components, materials, and surface treatments could be 
+tested for laser radiation susceptibility in government laboratories or independently by 
+purchasing commercial lasers. 
+Projection of Future HEL Weapon Capability 
+Chemical Lasers - Once the physical processes were reasonably well understood and 
+determined to be scalable, MW-class chemical laser systems were quickly achieved by 
+the late-1970s and still remain the sole source of that power level. Since then, the 
+technology has matured which resulted in marginal efficiency improvements with very 
+low probability major addit ional breakthroughs in this area. There are no first­
+principles reasons why output powers could not have been brute -force scaled upward 
+by another decade using larger gain generators but a few practical reasons (in addition 
+to cost) precluded that happening: 
+• Efficient atmospheric propagation of 10+ MW chemical laser beams would have 
+required 10+ meter pointing telescopes which are unreasonable for any mobile or 
+portable (including ships) military applications. 
+• The only possible military applications which don't suffer atmospheric propagation 
+limitations are space-based however the weight, volume and consumption rate of 
+chemicals would cause this to also become unreasonable and unaffordable. 
+• There were better wavelength choices (and potential laser types) for conceivable 
+non-mil itary applications such as power beaming to the moon or spacecraft in earth 
+orbit and laser assisted propulsion of spacecraft. 
+Solid-State and Free-Electron Lasers - The current (and probably foreseeable future) 
+thrust in laser development and power scaling should be expected in the area of 
+electrically powered lasers. This will probably be true whether the laser system is 
+earth-based or space-based. These include solid-state (slab & fiber) as well as FELs. 
+UNCLASSIFIED/ fFOA QFFI€il.t.L YSE 8,.L\f 
+23

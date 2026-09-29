@@ -1,0 +1,34 @@
+UNCLASSIFIED/ fFOA OFFl&I.t..k YS& 8Ptk\f 
+results that are similar to the static case.) This relation will help to decide if a 
+traversable wormhole having one throat, or two or more throats should be built and at 
+what energy cost this will incur. 
+The following is the result of our analysis for traversable wormholes having: 
+• 1-handle/throat (i.e., flat torus or spherical wormhole topology) giving g = 1, thus 
+Xe = 0, and so U s 0 
+• 2-handles/throats giving g = 2, thus xe = -2, and so U s -1/2 
+• 3-handles/throats giving g = 3, thus xe = -4, and so U s -1; and so on. 
+It is clear from this that as the number of wormhole handles/throats increases the 
+amount of negative energy required to create the wormhole will grow larger in 
+magnitude. This is an undesirable demand on any putative negative energy generator. 
+It is clear then that item (a) defines the most desirable engineering solution one can 
+hope for: a 1-handle/throat traversable wormhole that will require zero or (arbitrarily) 
+little negative energy to create. The magnitude of energy condition violations and the 
+amount of negative energy required to build a traversable wormhole will be addressed. 
+B. THE "STARGATE" SOLUTION 
+It is a straightforward exercise to design a real "stargate" from wormhole physics. A 
+stargate is essentially a traversable wormhole with a flat-face shape for the throat as 
+opposed to the spherical-shaped throat of the Morris and Thorne wormhole as discussed 
+in the previous section. A traveler going through a stargate will simply be shunted into 
+another remote spacetime region within our universe or into another universe. 
+The flat-face traversable wormhole solution is derived from the thin shell (a.k.a. 
+junction condition or surface layer) formalism of the Einstein field equation (Reference 
+6, 7). The procedure is to take two copies of flat Minkowski space and remove from 
+each identical regions of the form n x 1.R, where n is a three-dimensional compact 
+spacelike hypersurface and 9, is a timelike line (time axis). Then identify these two 
+incomplete spacetimes along the timelike boundaries an x ~H. The resulting spacetime is 
+geodesically complete and possesses two asymptotically flat regions connected by a 
+traversable wormhole. The throat of the wormhole is just the junction an, which is a 
+two-d imensional space-l ike hypersurface, at which the two original Minkowski spaces 
+are identified (see Figures 3 and 4) . 
+UNCLASSIFIEQ { {FOR OFFICIAL WS& 8HLY 
+4

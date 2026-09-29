@@ -1,0 +1,40 @@
+76
+
+McDivitt
+
+White
+
+MeDivitt
+
+-GONFDENFHAL
+
+that they updated our time reference system and
+had it inaccurately updated by a second.
+
+Yes, I think there is a big flap about that.
+
+I'd like to find out about that, too. The real
+time-transmitter, delayed-time transmitter, stand~
+by transmitter--they seemed like they all worked
+pretty well. We had no use for the standby
+transmitter and we used the real-time and delayed-
+time transmitter throughout the flight. You don't
+have any comments on this, do you?
+
+I've got one comment. When we came over Guaymas
+after our computer went out, and we'd already
+fouled the thing up, I know, they said they wanted
+us to come right-side-up for a critical tape dump.
+So I did, and I got a message from the ground say-
+ing, "Put your Tape Playback to CONTINUOUS." So
+
+I put the Tape Playback Switch to CONTINUOUS.
+Pretty soon they called up and said, "Do you have
+your TM switch to REAL-TIME and DELAYED-TIME?"
+
+I said, "No, I don't have. You're going to have
+to put it down there." They didn't bother telling
+me that they didn't have any command capability
+whatsoever. I went ahead and put the Tape Play-
+
+back to CONTINUOUS, which means that you're dumping

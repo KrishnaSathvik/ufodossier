@@ -1,0 +1,50 @@
+UNCLASSIFIED1/FOR 8ffl@IAL tt91! e"t I 
+Chapter 1: Concept 
+Overview 
+Ultracapacitors, also known as 
+supercapacitors, hybrid capacitors, 
+electrochemical capacitors, electrochemical 
+double-layer capacitors, or ultracaps, are 
+energy-storage platforms that offer energy 
+storage capable of extremely rapid charge 
+and discharge rates. Ultracapacitors also 
+have the ability to be cycled hundreds of 
+thousands of times. The phenomenal 
+charge and discharge capabilities make 
+them ideal for supporting volatile memory 
+and comput ing applications, energy 
+efficiency/capture processes, and high­
+power applications. Ultracaps store their 
+charge in the electrical double layer 
+between the electrode and the electrolyte. 
+Charge storage is a physical mechanism 
+rather than a chemical phase change, so 
+these are theoretically capable of cycling an 
+infinite number of times. 2 One of the Figure 1. Ultracaps in Various Configurations.' 
+disadvantages of ultracaps can be a high 
+self-discharge rate. 3 The charge and discharge voltage output for an ultracap is a 
+sloping linear curve, which allows for straightforward and accurate state-of-charge 
+monitoring. 4 The real advantage of an ultracapacitor is the ability to deliver or accept 
+bursts of power in a short time. 
+Ultracaps were int roduced in 1966 and found init ial use 12 years later as backup power 
+devices for volatile memory and clocks. Over the last 30 years, numerous advances 
+have been made that have led to many uses of ultracaps, from transportation to 
+portable electronics and more. Ultracaps are becoming more affordable as activated 
+carbon electrodes and manufacturing improvements have driven costs down. Several 
+companies now make ultracapacitors to fill a broad spectrum of applications. Figure 1 
+shows a number of ultracaps with various capacities to fill a range of functions. 
+Transportation, microelectronics, and aerospace markets are some of the many areas 
+where ultracaps have become enablers. Advanced materials and improved cell designs 
+will lead to improvements in both power density and energy density. The improved 
+performance is expected to make ultracaps important components for efficient power 
+leveling and high-power receiving and delivery. The unique signature of ultracapacitors 
+must be understood for aerospace and military applications. 
+As an electrochemical capacitor, ultracapacitors store energy within the electric double 
+layer formed at the interface between the electrode and electrolyte. In a conventional 
+capacitor, the energy is stored by moving charge carriers from one plate to another, 
+and the charge separation creates a potential. Voltage differentials in a conventional 
+capacitor are dependent upon the dielectric material separating the plates. In the 
+ultracap, the electrical double layer is the separation of charge in a vanish ingly thin gap 
+between two plates. Figure 2 depicts the components and basic design of the ultracap, 
+UNCLASSIFIEO/fFOA OFFI&I:.l.b YS& ONLY 
+1

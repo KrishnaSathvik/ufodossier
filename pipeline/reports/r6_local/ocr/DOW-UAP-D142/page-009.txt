@@ -1,0 +1,43 @@
+UNCLASSIFIED/ /FOR OFFIEIAk WS& OPtkY 
+10~ 110 
+20 
+114 
+12 14 112 
+_A 116 
+¢{ 
+22 
+~ 26 122 
+,..,,.-34 126 
+;[[ IT:
+/
+130 
+I28_) 32 128_} 132 
+Figure 3. ZPE Resonant Dielectric Spheres Electrical Power Generation (Reference 12) 
+The receiving structures are composed of dielectric material in order to diffract and 
+scatter the incident ZPE radiation. The volumetric sizing requirements for the receiving 
+structures are selected to enable them to resonate at a high frequency corresponding to 
+the incident ZPE radiation, based on the parameters of frequency of the incident ZPE 
+radiation, and the propagation characteristics of the medium (vacuum or otherwise) 
+and the receiving structures. Since the ZPE radiation energy density increases with 
+increasing frequency, greater amounts of electromagnetic energy are potentially 
+available at higher frequencies. Consequently, the size of the receiving structures must 
+be miniaturized in order to produce greater amounts of energy from a system located 
+with in a space or volume of a given size. Therefore, the smaller the size of the receiving 
+structures, the greater the amount of energy that can in principle be produced by the 
+system. 
+Although a computer model study performed at the Air Force Research Laboratory 
+(Edwards AFB, CA) indicates that the invention could work, no experimental study has 
+been performed to validate this in the lab (F. B. Mead, private communication, 2002). 
+Regarding critiques, it is not clear how the beat frequency can be picked up by the 
+receiving loop antenna. There is no nonlinear method in the invention showing that an 
+electromagnetic beat frequency can be generated and coupled to the loop. Without a 
+nonlinear coupling method there will be no sidebands, one of which would be frequency 
+down-shifted and called the beat frequency. The coupling method requires the 
+generation of sidebands in the mixing of two different frequencies via a nonlinear 
+technique. However, an easy resolution to this potential deficiency is that the resonant 
+dielectric spheres could be constructed of a nonlinear dielectric material. 
+Although several novel ZPF energy extraction mechanisms have been proposed in the 
+popular and technical literature, no practicable technique has been successfully 
+demonstrated in the laboratory . To better understand how ZPE extraction methods 
+UNCLASSIFIED/ /FOR OFFICIO! P!ili QIU.,¥ 
+3

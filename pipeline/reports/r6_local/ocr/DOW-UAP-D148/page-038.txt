@@ -1,0 +1,36 @@
+UNCLASSIFIED &-F@R-OFF262AL-US5-O11LY
+
+D. Compute the Properties on the Downstream Side of the Bow Shock at the Nose
+
+1. The following functions describe the change in properties across a normal shock.
+
+2
+(y + 1)-My
+Pratio(M1) = gs
+2+ (y -1)-My
+27 2 1
+Pratio(M) = 1 + (m, 7 1) Uratio(My) = ———+
+iE ead Pratio(My)
+2+ (y -1)-M,
+2: = ee
+Tratio(M1) = ! — (my? ~ ')} —
+y+1 2
+(y + 1)-My
+a. Stagnation temperature and pressure ratios.
+To ratio(M1) = 10
+aoe
+y-l
+
+cai
+Le 3 (M-(M)))°
+Po ratio(M1) oa Pratio(M 1):
+
+2. Compute the properties across a normal shock for this problem.
+
+Ma= Ma(M)) My = 0416
+17 = Ty-Tyatio(M1) T= 1268 10K
+
+Po2 = PorPratio(M1) Pg = 3.624% 108Pa
+
+34
+UNCLASSIFIED £4502.05516241-USE-ONEE-

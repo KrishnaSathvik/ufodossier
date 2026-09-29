@@ -1,0 +1,168 @@
+THE AEROPLANE
+
+® ie
+favour of the “ well-tried” convention of “ normal” wings.
+
+For these reasons, a study of the history of the use of low
+Aspect ratios in wing design will be of interest.
+
+_ Spiritually, the fathers of such aeronautical exhibits were
+Englishmen. They were people of good reputation and by
+no means suspect of aerodynamic perversion.
+
+W. Lanchester was undoubtedly the first aerodynamicist
+to give thought to aeroplane wings of circular or square shape.
+In his book published in 1907, he referred expressively to such
+\_&ptcroid ” wing shapes (Fig. 2) und advanced the view that
+Newton's law was valid for these. The correctnest of this
+view was experimentally proved 30 years later.
+
+In a previous article on “ Stalling Characteristics of Tailless
+Aeroplanes * (THE AEROPLANE for August 15, 1947), the early
+interest taken by F. (now Sir Frederick) Handley Page in the
+stalling qualities of wings of low aspect ratio was mentioned.
+He showed, in a paper read in April, 1911, that marginal vortices
+and pressure-equalizing flow around the tips were responsible
+for the delay of flow separation which had been obseived at
+high incidences.
+
+He stated, in this connection:—*. . . With planes of high
+aspect ratio (1.¢., with slender wings of normal span/chord
+ratio), there is not the same facility for the “feeding in” of
+fresh air at the plane sides (i.e., at the wing tips) to act as a
+link between the plane and the live stream, and therefore the
+live stream leaves the plane's back at an earlier stage than in
+the case of the plane of lower aspect ratio... .” He then
+showed some experimental evidence for the delay of flow
+separation with decrease of the aspect ratio and for the greater
+maximum lift of such wings.
+
+_When Lanchester published his book, man was just begin-
+ning to spread his wings, and in order to fly with a minimum
+expenditure in power, wings of fair aspect ratio were a neces-
+sity. Nevertheless, there were a few early aeroplanes, notably
+the little “ Demoiselle ” monoplane of Santos Dumont (1909-
+1910), which had an aspect ratio of only 2 and proved to be
+quite successful.
+
+One of the earliest attempts at a genuine “ apteroid ” aero-
+plane was an experiment by a German architect, Flick-Reinig
+(1910). It had a span of 7% ft., and performed in hops only.
+
+Annular Aerodynamics
+
+A simple experiment with some paper and a pair of scissors
+shows that the sinking speed of a circular disc loaded with a
+paper clip is decreased when a hole of sufficient diameter is cut
+out in the centre (Fig. 3). This justifies the development from
+the circular disc wing to the annular aerofoil. The theory of
+the phenomenon is still somewhat obscure.
+
+(Having tried this experiment, we can confirm that the char-
+acteristics of an annular aerofoil are certainly very different
+from those of the plain disc aerofoil. Our own experiments
+were admittedly somewhat limited in scope and we were unable
+to form more than an impression of the relative sinking speeds:
+it did, however, appear to be less with the annular aerofoil. Our
+main conclusions were that cutting a 2.25-in. diameter hole in
+a 5.375-in. diameter disc, resulted in a much flatter glide; the
+stall was not so abrupt, and the stability in the glide was
+improved. We were so fascinated with the experiment that we
+hope to repeat it at a later date on a more scientific level—Eb.)
+
+The conventional aeroplane is constituted of two basic aero-
+foils: a wing (which supplies the lift) and a tail (w hich balances
+and stabilizes the wing). We know that such an arrangement
+of the two aerofoil components is by no means the only pos-
+sible one. The balancing and stabilizing aerofoil (tailplane)
+need not to be aft of the lifting wing as a tail. It can be
+arranged anywhere in relation to the wing, e.g., above it, below
+it, or in front of it.
+
+If the balancing aerofoil is in front of the main w ing, the aero-
+plane is of the tail-first type, and if it is attached to the
+
+VE ee SN
+
+~
+
+~~
+‘ =
+
+Fig. 5. Kitchen’s doughnut of 1911,
+
+FEBRUARY 13, 1948
+
+Fig. 4.—Principle of the Huth annular-biplane system.
+
+main wing, the tailless aeroplane is created. For all these
+arrangements, the condition is that, in the case of a wing com-
+prised of normal (unstable) aerofoil sections, the stabilizing
+aerofoil exerts a certain leverage in relation to the centre of
+gravity of the aircraft.
+
+Another possibility is to combine two lifting wings so that
+they will stabilize and balance each other. For this purpose, all
+that is required is that the front wing shall possess, at all inci-
+dences of-flight, a greater effective incidence than the rear wing.
+In other words, the centre of gravity must be nearer to the
+leading wing than to the trailing wing, and the whole arrange-
+ment must be balanced accordingly. In this way, we arrive at
+the conception of a stable tandem aeroplane.
+
+If we now take such a tandem arrangement and sweep the
+leading wing back and the trailing wing correspondingly forward
+so that the tips of both wings merge into each other, we obtain
+an annular or ring-shaped wing system. Aerodynamically, it is
+of minor importance if the shape is actually circular or oval,
+or if triangular or quadrangular shapes constitute the wing. For
+simplicity’s sake, in all such cases considered here, the term
+“annular” is applied.
+
+As mentioned, the aerodynamics of such shapes cannot yet
+be considered as fully established. But it is proved that longi-
+tudinally stable wing systems can be obtained with such shapes.
+Some types relying on such wings have shown quite remarkable
+flying qualities. It is also possible that, with annular wings, the
+induced drag is less than with conventional wings of equiva-
+lent aspect ratio.
+
+In common with circular wings, annular wings have the
+remarkable property that the lift force steadily increases with
+incidence up to fairly high values without a stall. For all
+known arrangements the maximum lift seems to occur at
+incidences exceeding 30 degrees. As such high angles of
+incidence are not likely to be reached in flight unintentionally,
+it is obvious why annular wings have become renowned for
+their good-natured flying characteristics.
+
+Another property of annular wings (first established by
+Tilghman Richards) is that the centre of pressure of such wing
+systems is nearly stationary in flight, or that a travel of the
+centre of pressure can be obtained which is positively stable
+until incidences of the order of 18 degrees are reached. In
+fact. no case of longitudinal instability has ever been reported
+with an annular wing, although the centre of gravity has often
+been located dangerously far back.
+
+The first annular-wing aeroplane dates back to 1908. It
+had little success. Two types were constructed in succession
+to the designs of a capable German aeronautical engineer, Fritz
+Huth, who was by profession a teacher at a technical school
+(Figs. 4 and 6). The second type, which had a less elaborate
+airscrew drive, flew in May, 1910; it was, however, so devoid
+of performance, in spite of a 50 b.h.p. engine. that it was soon
+afterwards discarded as a hopeless proposition.
+
+Britain’s First Doughnut
+
+The British conception of the idea has been far more
+successful. As it is constituted, until now, the best tried
+representative, its history may be given somewhat more
+extensively.
+
+The original idea for an annular-wing aeroplane came from
+G. A. Kitchen, in about 1910; he constructed a biplane with
+ring-shaped wings, but made no progress with it. The stable
+
+NND 927545

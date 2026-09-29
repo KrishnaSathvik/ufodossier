@@ -1,0 +1,41 @@
+{
+  "baseline_frozen_at": "2026-09-25",
+  "notes": "Classifier baseline from local R2 smoke. Do not change without intentional review.",
+  "documents": [
+    {
+      "filename": "CIA-UAP-D001.pdf",
+      "external_id": "CIA-UAP-D001",
+      "document_class": "historical_case_file",
+      "contains_incidents": true,
+      "extraction_action": "extract"
+    },
+    {
+      "filename": "DOE-UAP-D001.pdf",
+      "external_id": "DOE-UAP-D001",
+      "document_class": "incident_report",
+      "contains_incidents": true,
+      "extraction_action": "extract"
+    },
+    {
+      "filename": "DOE-UAP-D002.pdf",
+      "external_id": "DOE-UAP-D002",
+      "document_class": "correspondence",
+      "contains_incidents": false,
+      "extraction_action": "source_only"
+    },
+    {
+      "filename": "DOE-UAP-D003.pdf",
+      "external_id": "DOE-UAP-D003",
+      "document_class": "administrative",
+      "contains_incidents": false,
+      "extraction_action": "source_only"
+    },
+    {
+      "filename": "DOW-UAP-D017.pdf",
+      "external_id": "DOW-UAP-D017",
+      "document_class": "historical_case_file",
+      "contains_incidents": true,
+      "extraction_action": "extract"
+    }
+  ]
+}

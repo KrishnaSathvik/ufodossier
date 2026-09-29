@@ -1,0 +1,27 @@
+UNCLASSIFIED/ /FOR OFFl@IAL ~SI! 8HLY 
+Casting and Molding 
+Like other alloys, metallic glasses can be cast into net -shape or near-net-shape 
+geometries. Die casting into a permanent (metal) mold-because it provides the rapid 
+heat transfer needed to meet the requirement for relatively rapid cooling - ls the most 
+common casting technique. In most cases, casting is done in either a vacuum or an 
+inert atmosphere to prevent formation of oxide particles that promote crystallization. 
+Conventional casting, however, does not take advantage of the flexibility afforded by 
+the glassy nature of these alloys. If a metallic glass is heated to a temperature above 
+its glass transition temperature, it becomes a supercooled liquid. In this state, the 
+viscosity drops with increasing temperature over a wide range, making it possible to 
+control the viscosity by controlling the temperature. 1 This ability to control the viscosity 
+enables many of the processing techniques commonly used in molding thermoplastic 
+polymers to be applied to metallic glasses (Figure 3). 
+200 µm 
+Figure 3. Examples of Processing of Metallic Glasses. (a) Microsprlng produced by lithography and (b) thin­
+walled bottle produced by blow molding. Images are courtesy of Professor Jan Schroers (Yale University). 
+There are two important limitations on processing of metallic glasses in the supercooled 
+liquid region. First, supercooled liquids are metastable and have a tendency to 
+crystallize, so there is a lim ited window of time (typically on the order of minutes) in 
+which the processing must be completed if the glassy structure is to be maintained. 
+Second, the viscosity of many glass-forming alloys near the glass transition 
+temperature is too high for convenient processing. The viscosity can be reduced by 
+increasing the processing temperature, but higher temperatures promote crystallization 
+1 A crystalline metal, In contrast, melts abruptly, going from a rigid solid to a low-viscosity fluid very quickly. 
+4 
+UNCLASSIFIED/ /FOA OJifilCIOP 1155 ON! X

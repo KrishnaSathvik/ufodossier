@@ -1,0 +1,49 @@
+UNCLASSIFIED / / FOR-OFFE6?A-USE-ONEE
+
+O Chemical c
+(Isp=450 s) 2 4
+va]
+7|9o
+at O Nuclear ©
+id thermal — 0.8
+(Isp=900 s) D> .
+s 600 OFusion 15
+@ (1 kWikg) oD 0.6
+E S
+= 400 Fusion 1b
+2 (10 kWikg) Re 0.4
+é =
+= 0.2
+Oo
+2
+e °
+Earth-Mars Earth-Mars
+(29% payload) (258 days)
+
+Figure 14. Comparison of Fusion, Nuclear-Thermal, and Chemical Propulsion
+for Same Payload.
+
+Exhaust velocity (m/s)
+
+10° 10 107 107 10" 1 10
+Thrust-to-weight ratio
+
+Figure 15. Thrust-to-Weight Ratio and Exhaust Velocity Regimes for Various
+Long-Range Space Propulsion Options.
+
+INTERSTELLAR
+
+The ability of fusion propulsion to carry payloads or travelers to a habitable star tens of
+light-years away will be limited by the amount of fusion fuel it can transport or gather
+along its route. A simple calculation of the amount of energy to move a space-shuttle-
+sized vehicle (100 Mg) to the nearest star, Alpha Centauri, indicates a minimum
+amount of energy in the mass equivalent of 10° kg. However, in 1960 Robert Bussard
+proposed the use of magnetic fields to scoop interstellar hydrogen to fuel a fusion
+rocket to propel a spacecraft now know as the Bussard Ram Jet (shown in Figure 16).°
+Although interstellar hydrogen does not fuse, Bussard proposed the use of the stellar
+carbon-nitrogen-oxygen (CNO) cycle in which carbon is used as a catalyst to burn
+hydrogen through the strong nuclear reaction. However, the size of the scoops and the
+fusion power required to maintain them makes this concept unlikely to be realized.
+
+19
+UNCLASSIFIED / / FO OFFTGEAE-USE-ONEE

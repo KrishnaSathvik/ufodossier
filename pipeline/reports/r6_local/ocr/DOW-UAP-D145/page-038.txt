@@ -1,0 +1,31 @@
+UNCLASSIFIED//POlt Offl@IAL WS& &NkY 
+Appendix A: Relativistic Rockets 
+Since the applicat ion of a constant acceleratio n for a long period of time can lead to 
+very high velocit ies, these spacecraft may reach relativistic velocities where V > 0.5 c 
+(speed of light). At these velocities, time dilation and Lorentz contraction can be 
+significant. 22 Special Relativity ca n be used to compute these effects based on the 
+Lorentz factor, y, as shown below: 
+(A.2) 
+Specific impulse for relat ivistic rockets is usually expressed in dime nsionless form: 
+I;, = y ( v,x; rns,) (A.3) 
+Treating Earth as a nonaccelera ting reference frame, time intervals measured on a 
+rocket trave ling at a velocity with respect to Earth will be "dilated" according to the 
+following equation: 
+!!i_tearth = y !!i_trocket (A.4) 
+Time intervals measured by the crew on the rocket will be longer than the interval 
+measured on Earth. The ratio of time measured on the rocket to t ime measured on 
+earth follows the graph in Figure 12. When a spacecraft reaches 86% of the speed of 
+light, their "clock" will run at half the speed of a clock located on earth. 
+For a constant acceleration, equations for rocket performance can be written in terms of 
+the following variables: 
+t = time measured on the rocket 
+t' = time measured in the rest mass frame (Earth) 
+D = distance traveled 
+a = acceleration 
+C = speed of light 
+V final = final rocket velocity at rocket time t' 
+(A.5)t' =~ smh (a/)= (~r+ ~ 
+(A.6)D< [cost')-,]< [ 1+(":J - 1] 
+(A.7) 
+UNCLASSIFIED/fF&A &FFI&I:.l.k W&li &NkY 
+30

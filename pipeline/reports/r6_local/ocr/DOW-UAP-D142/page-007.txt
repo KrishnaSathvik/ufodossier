@@ -1,0 +1,47 @@
+UNCLASSIFIED / /FO@R-OFFTCGEAL-USE-ONE—
+
+II. Historical Concepts for Extracting Energy and
+Thermodynamic Considerations
+
+The Casimir force is a force associated with the electromagnetic quantum vacuum
+(Reference 5). This force is an attraction between parallel uncharged metallic plates
+that has now been well measured and can be attributed to a minute imbalance in the
+ZPF energy (ZPE) density inside the cavity between the plates versus the region outside
+the plates as shown in Figure 1 (Reference 6-8). As shown in the figure, the vacuum is
+full of virtual photons (that is, zero-point vacuum fluctuations), but photons with
+wavelengths, 4, more than twice the plate separation, d, are excluded from the space
+between them, which causes the imbalance that pushes the plates together.
+
+The primary requirement for space travel is energy. It is sometimes assumed that
+attempting to extract energy from the vacuum ZPF would somehow violate the laws of
+thermodynamics. Fortunately, it turns out that this is not the case. A thought
+experiment published by Forward (Reference 9, 10) demonstrated how the Casimir
+force could in principle be used to extract energy from the vacuum ZPF. Forward
+showed that any pair of conducting plates at close distance experiences an attractive
+Casimir force that is due to the electromagnetic ZPF of the vacuum. A “vacuum-
+fluctuation battery” can be constructed by using the Casimir force to do work on a stack
+of charged conducting plates as shown in Figure 2. By applying a charge of the same
+polarity to each conducting plate, a repulsive electrostatic force will be produced that
+opposes the Casimir force. If the applied electrostatic force is adjusted to be always
+slightly less than the Casimir force, the plates will move toward each other and the
+Casimir force will add energy to the electric field between the plates. The battery can be
+recharged by making the electrical force slightly stronger than the Casimir force to re-
+expand the foliated conductor.
+
+Electrostatic
+
+/ Repulsion
+he +t Vacuum
+P~t——"__ Fluctuation
+Tr | ~y~ Attraction
+= eS om a
+
+fluctuations
+
+Figure 1. Illustration of the Casimir Effect Figure 2. Vacuum-Fluctuation Battery (Reference 9)
+Cole and Puthoff (Reference 11) verified that (generic) energy extraction schemes are
+
+not contradictory to the laws of thermodynamics. For thermodynamically reversible
+processes, no heat will flow at temperature T = 0. However, for thermodynamically
+
+UNCLASSIFIED/ AEQROEEICIALUS EO ble voe

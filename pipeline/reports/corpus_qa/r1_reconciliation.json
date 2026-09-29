@@ -1,0 +1,87 @@
+{
+  "production_incidents": 480,
+  "unflagged": 380,
+  "flagged": 100,
+  "flag_reasons": {
+    "duplicate_excerpt": 100
+  },
+  "valid_unflagged": 380,
+  "map_cleanly_to_source_record": 376,
+  "unflagged_without_source_record": 4,
+  "unflagged_without_source_record_rows": [
+    {
+      "case_id": "2023-USAF-24C074",
+      "title": "F-16 Flight Observes Multiple Bright Maneuvering Objects",
+      "filename": "DOW-UAP-D20, Mission Report, Southern United States, 2020",
+      "flagged": false
+    },
+    {
+      "case_id": "1965-NASA-E762B7",
+      "title": "Gemini 7 Particle Field Sighting",
+      "filename": "NASA-UAP-D3, Gemini 7 Transcript, 1965",
+      "flagged": false
+    },
+    {
+      "case_id": "1965-NASA-EE52BC",
+      "title": "Gemini 7 Bogey at Ten O'Clock High",
+      "filename": "NASA-UAP-D3, Gemini 7 Transcript, 1965",
+      "flagged": false
+    },
+    {
+      "case_id": "UNDATED-FBI-6DDF67",
+      "title": "Flying Saucer Photographed at Oak Ridge, Tennessee",
+      "filename": "65_HS1-834228961_62-HQ-83894_Serial_153",
+      "flagged": false
+    }
+  ],
+  "flagged_stay_excluded": 100,
+  "historical_rows_superseded": 0,
+  "need_no_change": 376,
+  "official_r1_records": 158,
+  "production_r1_source_records": 158,
+  "source_files": 181,
+  "source_files_linked": 160,
+  "source_files_unlinked": 21,
+  "unlinked_filenames": [
+    "DOW-UAP-D20, Mission Report, Southern United States, 2020",
+    "59_64634_711.5612[7-2852",
+    "65_HS1-834228961_62-HQ-83894_Serial_153",
+    "NASA-UAP-D3, Gemini 7 Transcript, 1965",
+    "FBI-Photo-1.jpg",
+    "FBI-Photo-A5.jpg",
+    "FBI-Photo-B2.jpg",
+    "FBI-Photo-B7-.jpg",
+    "FBI-Photo-B18.jpg",
+    "NASA-UAP-VM6-Apollo-17-1972.jpg",
+    "DOW-UAP-PR26-Unresolved-UAP-Report-United-Arab-Emirates-October-2023.jpg",
+    "DOW-UAP-PR35-Unresolved-UAP-Report-Greece-October-2023.jpg",
+    "DOW-UAP-PR38-Unresolved-UAP-Report-Middle-East-2013.jpg",
+    "DOW-UAP-PR45-Unresolved-UAP-Report-Middle-East-2020.jpg",
+    "DOW-UAP-PR46-Unresolved-UAP-Report-INDOPACOM-2024.jpg",
+    "FBI-Photo-B20.jpg",
+    "DOW-UAP-PR19-Unresolved-UAP-Report-Middle-East-May-2022.jpg",
+    "DOW-UAP-PR34-Unresolved-UAP-Report-Greece-October-2023.jpg",
+    "DOW-UAP-PR43-Unresolved-UAP-Report-Africa-2025.jpg",
+    "DOW-UAP-PR49-Unresolved-UAP-Report-Department-of-the-Army-2026.jpg",
+    "2024-04-30-Composite-Sketch.jpg"
+  ],
+  "r1_unlinked_official": [
+    {
+      "external_id": null,
+      "title": "59_64634_711.5612[7-2852",
+      "reason": "r1_official_record_not_linked_url_drift"
+    },
+    {
+      "external_id": null,
+      "title": "65_HS1-834228961_62-HQ-83894_Serial_153",
+      "reason": "r1_official_record_not_linked_url_drift"
+    },
+    {
+      "external_id": "DOW-UAP-D020",
+      "title": "DOW-UAP-D020, Mission Report, Iraq, 2023",
+      "reason": "r1_official_record_not_linked_url_drift"
+    }
+  ],
+  "official_identity_keys": 158,
+  "note": "R1 was not re-extracted. Unflagged rows stay the published baseline. Flagged duplicate_excerpt rows stay excluded."
+}

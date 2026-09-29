@@ -1,0 +1,35 @@
+UNCLASSIFIED/ /FOR AEEICIAk WSE 8HLY 
+Chapter 5: Discussion 
+We have insight into the maximum number of tracked objects in a multiple space 
+vehicle piloting experiment: it depends greatly on the complexity of the piloting and 
+mission tasks. Brookings showed that in the ATC task, mild complexity affected 
+performance even for a little as six planes being tracked by professional controllers, 
+whereas these controllers regularly track up to ten. Ruff showed that when there is 
+uncertainty in the augmentation system, a maximum of four craft can be controlled and 
+tasked to complete missions . The number of four is consistent with standard estimates 
+of human working memory being able to handle three to five disparate objects at a 
+time. This implies that disparate, complex interfaces require resources from working 
+memory to prevent loss of the big picture. 
+Augmentation of the human capabilities mainly appears to be helping to maintain a 
+higher number of working memory registers. Whether it is the handwritten blocks for 
+the ATCs, the stored instructions for the Dixon study, or the dual displays of Cummings, 
+the most effective augmentations in the studies above hold information for quick visual 
+retrieval that the brain would otherwise keep in working memory. 
+Any external automation system to assist the operator in making decisions will have an 
+associated error rate. It was also shown in the ATC and piloting tasks that alerts need 
+to contain a level of noise (false alarms) of 20-25% to avoid automat ion bias. 
+Regarding where the future of th is work is headed, it is certain that the field is just 
+getting started. Apollo spacecraft required dozens of ground operators to monitor for 
+system failures, and just a few years ago it required two soldiers to operate a simple 
+reconnaissance drone (most of them sti ll do). It is fortunate that ATC and UAV control 
+appear to be extremely applicable to the init ial direction of remote space vehicle 
+operations. The 5-year timeframe should see spacecraft-specific simulator studies begin 
+to appear in major peer-reviewed journals. 
+The major advance to come in developing augmented human capability to pilot multiple 
+spacecraft will be in understanding the cognitive organization of multitasking. With 
+brain imaging it has been shown that multiple resource theory seems to follow the 
+anatomical organization of the brain. In the next 40 years we will find out why the 
+functional studies in multiple task completion don't seem to follow the predictions of 
+multiple resource theory. 
+UNCLASSIFIED/ j FOR OPPICIJ!IL U:!I! Oflt I 
+22

@@ -1,0 +1,41 @@
+I 
+UNCLASSIFIED/ f FOR OFFl@IAL ~81: 8HLY 
+I 
+I 
+f"'I \ 
+I I \ 
+I I \ 
+I I \ 
+I I \ 
+II 
+\f I 
+\ 
+' 
+I I 
+'\ 
+- - .. - ' \ 
+\ 
+' ... 
+E Emax 
+Figure 4.4. Sketch of Two Opposite Limits of the Beam-Maxwellian Equilibrium. The solid line 
+corresponds to a case In which the Maxwellian population Is dominant; the dashed line corresponds to 
+a case in which the beam contr ibution is dominant . 
+In summary, unlike the original Nevins "calculations", the subsequent Chacon, et al. 
+results are quite encouraging but leave open the issue of whether or not satisfactory 
+deep potential wells can be created. To pursue this issue further, Ivan Tzonev ,et al. 
+considered well formation with emphasis on angular momentum effects (Reference 
+4.4) . Earlier studies had assumed that very low angular momentum (zero in the ideal 
+case) is necessary to achieve a potential well structure capable of trapping energetic 
+ions. In contrast, Tzonev et al. considered high-current ion beams as having a 
+significant angular-momentum spread. The results found were positive, and this is 
+important due to the need to create wide wells to prov ide a large reaction volume, 
+hence larger power IECs. Before discussing this work, some definitions for the potential 
+well structure will be reviewed. 
+POTENTIAL WELL STRUCTURE 
+The potential structures are called double potentials because two extremisms ("outer" 
+and "inner" wells) are observed in the plots of electrostatic potential versus IEC radius, 
+excluding the real cathode grid minimum. A schematic representation of a typical 
+calculated potential from Tzonev's work is shown in Figure 4.5. These cases are 
+different from Hirsch's ideal case described in Section I, where multiple potential wells 
+UNCLASSIFIED/ }FOA: OFFICI0L: !Pili ON! X 
+38

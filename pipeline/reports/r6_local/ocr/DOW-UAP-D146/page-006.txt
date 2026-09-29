@@ -1,0 +1,46 @@
+UNCLASSIFIED/ /FOR OfifilCIAk Wlili &P•kY 
+Chapter 1: Concept Overview 
+Controlled thermonuclear fusion has been the aspiration for nuclear scientists and 
+engineers for the last 60 years. During that time, tens of billions of dollars have been 
+invested in this endeavor with the expected fruition being pushed even further into the 
+future. When Lyman Spitzer invented the Stellarator in 1951, it was expected to take 
+only 5 years of concentrated plasma physics experiments to harness the fusion of 
+hydrogen ions confined by magnetic fields. However, the numerous new instabilities 
+that arose under increasing higher magnetic confinement pressures have been a 
+roadblock to the success of controlled fusion. 
+In 1983, a rediscovery was made by Robert Bussard of a fusion device invented by 
+Robert Hirsch in his 1966 Ph.D. thesis. The Fusor, as Hirsch named it with his thesis 
+advisor and famous inventor Philo Farnsworth, simply used spherically concentr ic 
+electrodes in a vacuum chamber. When a deuterium gas was supplied to the chamber 
+and a few-microsecond pulse at 30 kV was applied to the electrodes, D-D fusion 
+occurred, releasing He and neutrons. Although it released less energy than was needed 
+to supply the initia l electric pulse, it provided the evidence for a method to obtain 
+supplementary heating to ignition of magnetically confined plasmas. 
+The Fusor led to continued development of what is now called Inertial Electrostatic 
+Confinement (IEC) devices. Amongst these was the Dense Plasma Focus (DPF), a 
+plasma production tube invented in 1961, and several other devices. Magnetic 
+confinement devices utilized the IEC method with imploding layers of lithium or 
+applying intense beams from either end of a linear magnetic pinch device. This 
+resurgence of alternate confinement concepts was immediately applied to fusion space 
+propulsion since it was recognized that there would be an advantage over nuclear 
+fission propulsion with its costly safety requirements. For mitigating shielding mass and 
+tritium fuel launch-safety concerns, non-neutron-generating "aneutronic" fusion fuels 
+were also adopted. 
+Aneutronic fusion fuels include those isotopes of light elements that when fused 
+produce no neutrons or a very few from the fusion of daughter products. Although there 
+are eight such reactions for light nuclei, the most practical for fusion reactors include 
+the following: 
+D + 3He ➔ 4 He + p 
+P + 7 Li ➔ 24 He 
+In Chapter 2, we will review the fusion plasma physics needed to apply these 
+aneutronic reactions to a confinement device to make a fusion reactor practicable for 
+propulsion, which is described in Chapter 3. In Chapter 4, the relevance of these 
+aneutronic fusion propulsion concepts will be reviewed and assessed for aerospace 
+applications includi ng near-space, orbital, and interplanetary propulsion, as well as the 
+potential for interstellar use. In Chapter 5, we will summarize the recent national, 
+international, and privately funded R&D that may expedite development, while in 
+Chapter 6, we outline an R&D path forward for the aneutronic fusion technologies and 
+systems needed for the next 50 years. Finally, we provide a summary in Chapter 7 that 
+that conveys aneutronic fusion propulsion: 
+UNCLASSIFIED/ /POlt orr1e1s1tt 1!181! 8HL1/ 
+1

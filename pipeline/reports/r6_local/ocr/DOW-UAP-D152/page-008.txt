@@ -1,0 +1,24 @@
+UNCLASSIFIED/ /fOR. 8FFI61.t..k W&i QJsll,¥ 
+Apart from Einstein 's pure ly kinematic interpretation of special relativity, being the 
+expression of a Minkowskian space-time structure, there is an older alternative dynamic 
+interp retation by Lorentz and Poincare. In it space and time are absolute, but it can 
+explain all relativistic effects as well. It assumes the existence of an aether, with all 
+objects in absolute motio n through the aether suffering a Lorentz contraction and time 
+dilation. If this aether has a grainy structure, character ized by some smallest length 
+(e.g ., the Planck length ~ 10-33 cm), then according to Heisenberg's uncertainty 
+principle special relativity would ultimately break down at a high energy . If the length is 
+very small, this energy can be so high as to be far beyond the capabilities of any 
+existing particle accelerator or even beyond the high energy of cosmic ray particles, 
+making both interpretations of special relativity experimentally indistinguishable at the 
+energies presently available. 
+2. The Theory of Bondi 
+The first attempt to introduce negative masses into general relativity to describe a 
+mass dipole was made by H. Bondi [1]. For a uniformly accelerating mass dipole Bondi 
+uses the axially symmetric metric by Weyl and Levi-Civita [2]: 
+(3) 
+where rp =rp(r, z) and a= a(r, z) satisfy 
+( a2 1 a a 2 )- +--+- rp=O (4) ar2 far az2 
+(5) 
+8<:Y = 2r arp arp (6)az ar az • 
+UNCLASSIFIED//POlt orr1e11tt tt!II!! or~LY 
+4

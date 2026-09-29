@@ -1,0 +1,105 @@
+UNCLASSIFIED/ /FOA OFFI€1Ak Wlili ()NL¥ 
+Table 5: Emerging Technologies 
+Technology Application Supports Status 
+High-temperature 
+plasma 
+containers 
+Aiding confinement, 
+supporting fusion 
+architecture, surviving 
+sustained reactions / 
+lifetime 
+ALL Need lightweight materials to 
+withstand the fusion-burning 
+environments repeatedly. 
+Plasma injection 
+schemes 
+To supply plasma for 
+startup, sustained 
+reactions, symmetry, 
+energy deposition 
+ALL There needs to be an efficient 
+and effective way to get fuel 
+stored, delivered, and ignited. 
+Stable magnet 
+configurations 
+Needed for sufficient 
+confinement times / 
+ignition densities, 
+minimize instabilities, 
+optimal propulsion 
+profiles 
+CBFR, 
+IEC, DPF 
+Some exper iments are in 
+progress, but designs will 
+evolve as limitations are 
+encountered. 
+Lightweight high-
+strength magnets 
+Needed for aerospace 
+application, cost effect-
+tive launch and deploy-
+ment, thermal tolerance, 
+superconductivity at 
+workable temperatures. 
+IEC, CBFR High-temperature ceramics 
+still need to be molded to a 
+launch and deployment 
+survivable standard. Much 
+material science and testing 
+are needed. 
+Propulsion 
+nozzles for 
+efficient energy 
+channeling 
+Optimizes efficiency of 
+propulsion, supports 
+direct convers ion, 
+support viable missions 
+ALL This is the result of current 
+studies and is specific to 
+design limitations and 
+support. 
+Lightweight 
+particle 
+accelerators for 
+aerospace 
+applications 
+For particle beam 
+injection, energy 
+deposit ion, confinement, 
+and fusion support 
+IEC, CBFR Most experiments are 
+currently ground oriented -
+need to transition to flight. 
+Direct-energy 
+conversion 
+schemes 
+Needed for high Q and 
+efficient propulsion 
+schemes 
+ALL Currently under study for 
+recover ing energy from 
+charged part icle beams, 
+magnetic fields, thermal 
+recycling. 
+High-energy -
+density batteries 
+and 
+supercapacitors 
+Needed for energy 
+storage and startup 
+operations 
+ALL Application of nano materials 
+and thin film manufacturing 
+have accelerated development 
+Fuel storage 
+systems 
+Cryogenic H2, D2 and B 
+gas storage 
+ALL Development of solid fuel 
+storage will reduce mass and 
+costs. 
+UNCLASSIFIED// FOR OFFICIAL tl!H! 8HL\C 
+26

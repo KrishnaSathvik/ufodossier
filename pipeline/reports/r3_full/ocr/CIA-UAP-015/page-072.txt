@@ -1,0 +1,32 @@
+TABLE II CHI SQUARE TEST OF KNOWNS VERSUS 
+UNKNOWNS ON THE BASIS OF COLOR 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+Adjusted x2 
+Number of Number of Number of (K-n)2 I 
+Color KNOWNS KNOWNS (K) UNKNOWNS (n) K 
+IWhite 405 100 112 1. 44 
+Metallic 313 77 76 0. 01 
+Not stated 209 51 62 2.37 IOrange 172 42 49 1. 17 
+Red 146 36 33 0.25 
+Yellow 128 31 31 0 I 
+Green 130 32 14 10. 13 
+Blue 67 17 26 4. 76 
+IOther 195 48 31 6.02 
+Total 1765 434 434 26. 15 
+I 
+Degrees of freedom 8 I 
+15.5 
+I20. 1 
+I 
+I 
+I 
+I 
+I 
+I62 
+I

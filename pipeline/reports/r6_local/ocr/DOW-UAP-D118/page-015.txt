@@ -1,0 +1,45 @@
+UNCLASSIFIED/ /1'91t err1e11111:: W&I &Hkl/ 
+Table 1. Daily Household Energy Consumption (USA, 1993-1997) 
+Space Heating 41 kWh 
+Water Heating 15 kWh 
+Refrigeration 7 kWh 
+Space Cooling (air conditioner) 3kWh 
+Lighting 3kWh 
+Clothes Drying 2kWh 
+Cooking lkWh 
+Dishwashing lkWh 
+Other Appliances (TV, stereo, computer, etc.) ?kWh 
+Over 80 percent of the energy budget is spent heating and cooling things-often at the 
+same time. It is clearly desirable to recapture the waste heat from cooling operations 
+and divert it to subsystems, such as the water heater. 
+Energy -Scavenging Spacecraft Skins 
+Programmable materials can also be used to harvest, store, and redirect other forms of 
+energy. Spacecraft are constantly bathed in a very high solar energy flux and 
+experience sharp temperature gradients, as well as periodic changes in magnetic and 
+electric field, All of these represent possible energy sources that can be scavenged from 
+the environment without disrupting other spacecraft operations. 
+The photoelectric effect occurs when photons strike a material such as a semiconductor 
+or metal. The energy of the photons is absorbed by the electron shells of atoms, and as 
+a result, some electrons may shift from the valence band to the higher, looser energies 
+of the conduction band. This is the source of the voltage in photovoltaic cells and allows 
+the direct conversion of light energy into electricity. This effect generates electron-hole 
+pairs (that is, knocks electrons off their parent atoms) in a material such as silicon, and 
+if the electrons are forced to go in one direction and the holes in the other, then an 
+electrical voltage is generated. 
+Today's commercial solar cells are around 13-percent efficient at converting sunlight 
+into electricity, which makes them economically marginal for use on Earth in any but 
+the sunniest climates, Even NASA's most sophisticated-and expensive-solar cells are 
+usually no more than :2.4-percent efficient, although experimental multilayered designs 
+have achieved upwards of 40-percent efficiency in the laboratory. (Notably, such 
+converters once blurred the lines between a designer material and a collection of 
+nanoscale devices.) 
+These efficiency numbers reflect a practical limit, not a theoretical one. The available 
+materials-primarily silicon and other semiconductors-are simply not very 
+photoelectric, and the junctions we can place in them are not very efficient electron­
+hole separators. With natural atoms, the choices are quite limited. However, with 
+artificial atoms and designer materials of various types, and particularly programmable 
+materials that can adjust to changing conditions, much higher efficiencies are possible. 
+Clearly, it is very desirable for the sunward face of a spacecraft to be as photovoltaic as 
+possible. 
+UNCLASSIFIED/ /FOR AEEJCJA! !!SE ON! X 
+11

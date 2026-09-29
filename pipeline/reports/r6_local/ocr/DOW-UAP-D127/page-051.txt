@@ -1,0 +1,62 @@
+UNCLASSIFIED / / FOR-OFFEGHH-USE-OA
+
+ET_Distance between any two neighboring ET
+Civilizations in Galaxy assuming they are UNIFORMLY
+distributed throughout the whole Galaxy volume.
+Unnamed (Paul Davies suggested “Maccone distribution’’)
+
+f $ RGataxy"Gataxy
+n “ul
+
+)
+r
+
+Probability density function 3 | =
+ae r=- “@ -
+Fer pistane ( ) r fever
+(Defining the positive numeric constant C) C= 316 ae AGataxy * 28845 light years
+_# o
+Mean value (ET_Distance) =Ce 3 e!8
+2, of &
+Variance Oe Vicia =C*e3 e%le® -1
+Standard deviati to |
+tandard deviation
+CrT_Distane — Ce Fe Ve? -1
+Ho pe
+All the moments, i.e. k-th moment (ET_Distance*) =Cke 3¢ 18
+He
+Mode (= abscissa of the probability density function Tande ™ Teak =Ce 3 °
+peak)
+Peak Value of fpr pistane (") =
+Value of the Mode Peak - = 3 3 a
+ET_Distane \" mode celina
+Median (= fifty-fifty probability value for Pe ee ae
+ET_Distance)
+o 5a? o
+
+e“le2 —-3e 18 +2e6
+
+Skewness
+
+bo | ue
+
+80° 50° 4c° o 20°
+Cle ® -4e9 -3e 9 +12¢3 -6e 9
+
+K 40° a 20°
+Kurtosis My 8 ie ate SD
+(K2)
+Expression of sin terms of the lower (a;) and upper 7 : vin > b,[In(b; )—1]—a; [In (a; )—1]
+(bj) limits of the Drake uniform input random on = (Yi)= = b; a,
+variables D; i =
+Expression of o” in terms of the lower (a;) and upper > wv. Xx a,b,{in(b; )—In(a; )F
+press s i Pp a=) o7=>1 iM i a
+
+(b;) limits of the Drake uniform input random
+variables D;
+
+Table 3. Summary of the properties of the probability distribution that applies to the random variable ET_Distance
+yielding the (average) distance between any two neighboring communicating civilizations in the Galaxy.
+
+51
+UNCLASSIFIED / /®OR-O55LG7AL-USE.O0LLY.

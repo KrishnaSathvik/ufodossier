@@ -1,0 +1,16 @@
+UNCLASSIFIED/ (fQR OFFIClt.k YSE 8HLI 
+a 
+Figure 6. Schematic of the SiC-Based Super-Lens Which is Imaging Sub-Wavelength Holes Buried Under 
+the Si02 Layer. The imaged objects are >../20 holes milled in gold using FIB. The scattered signal is picked up by 
+the tip of an NSOM and directed towards the I R detector. Depending on the imaging wavelength, either amplitude 
+(e) or the phase (f,g) of the signal are prominent. 
+As the laser beam scatters off the sub-wavelength holes, its electric field is picked up 
+by the tip of a Near-Field Scattering Optical Microscope (NSOM) and re-scattered into 
+the far-field. There it is interfered with the reference pulse and picked up by an infrared 
+detector. Note that this interferometr ic technique enables one to extract both the phase 
+and amplitude of the field, as shown in Figure 6. This significantly broadens the spectral 
+range over which the super-lens yields meaningful information . For example, the 
+amplitude contrast is highest at A = 10.85 µm shown in panel ( e) while the phase 
+contrasts are the highest at A =11.03 µm and A =10.65 µm. 
+UNCLASSIFIED/ {fQR OFEICl.t.ls: W81!! 8flti 
+8

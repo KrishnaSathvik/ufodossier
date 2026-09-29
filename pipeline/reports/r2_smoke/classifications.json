@@ -1,0 +1,100 @@
+{
+  "generated_at": "2026-09-25T14:26:23.201486+00:00",
+  "mode": "local_cache",
+  "dry_run": false,
+  "production_writes": false,
+  "cache_dir": ".cache/files/pursue/r2",
+  "count": 5,
+  "results": [
+    {
+      "filename": "CIA-UAP-D001.pdf",
+      "external_id": "CIA-UAP-D001",
+      "agency": "CIA",
+      "byte_size": 154038,
+      "page_count": 3,
+      "text_chars": 4033,
+      "text_method": "selective_ocr",
+      "text_path": "pipeline/reports/r2_smoke/texts/CIA-UAP-D001.txt",
+      "classification": {
+        "document_class": "historical_case_file",
+        "contains_incidents": true,
+        "confidence": "high",
+        "reason": "Historical case file / mid-century investigative record",
+        "method": "rules"
+      },
+      "extraction_action": "extract"
+    },
+    {
+      "filename": "DOE-UAP-D001.pdf",
+      "external_id": "DOE-UAP-D001",
+      "agency": "DOE",
+      "byte_size": 164108,
+      "page_count": 2,
+      "text_chars": 430,
+      "text_method": "selective_ocr",
+      "text_path": "pipeline/reports/r2_smoke/texts/DOE-UAP-D001.txt",
+      "classification": {
+        "document_class": "incident_report",
+        "contains_incidents": true,
+        "confidence": "high",
+        "reason": "Mission/incident report language describing an observation",
+        "method": "rules"
+      },
+      "extraction_action": "extract"
+    },
+    {
+      "filename": "DOE-UAP-D002.pdf",
+      "external_id": "DOE-UAP-D002",
+      "agency": "DOE",
+      "byte_size": 554461,
+      "page_count": 4,
+      "text_chars": 1149,
+      "text_method": "selective_ocr",
+      "text_path": "pipeline/reports/r2_smoke/texts/DOE-UAP-D002.txt",
+      "classification": {
+        "document_class": "correspondence",
+        "contains_incidents": false,
+        "confidence": "high",
+        "reason": "Letter/correspondence form; no encounter narrative",
+        "method": "rules"
+      },
+      "extraction_action": "source_only"
+    },
+    {
+      "filename": "DOE-UAP-D003.pdf",
+      "external_id": "DOE-UAP-D003",
+      "agency": "DOE",
+      "byte_size": 360462,
+      "page_count": 1,
+      "text_chars": 563,
+      "text_method": "selective_ocr",
+      "text_path": "pipeline/reports/r2_smoke/texts/DOE-UAP-D003.txt",
+      "classification": {
+        "document_class": "administrative",
+        "contains_incidents": false,
+        "confidence": "high",
+        "reason": "Invitation/agenda/membership/admin content",
+        "method": "rules"
+      },
+      "extraction_action": "source_only"
+    },
+    {
+      "filename": "DOW-UAP-D017.pdf",
+      "external_id": "DOW-UAP-D017",
+      "agency": "DOW",
+      "byte_size": 68764801,
+      "page_count": 116,
+      "text_chars": 115817,
+      "text_method": "selective_ocr",
+      "text_path": "pipeline/reports/r2_smoke/texts/DOW-UAP-D017.txt",
+      "classification": {
+        "document_class": "historical_case_file",
+        "contains_incidents": true,
+        "confidence": "high",
+        "reason": "Historical case file / mid-century investigative record",
+        "method": "rules"
+      },
+      "extraction_action": "extract"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+UNCLASSIFIED/ /FOR OFFl@IAL YSE OHL¥ 
+= 100 petawatts, certainly powerful enough to compress the deuterium to more than 
+thousandfold density. 
+With the entrapment of the neutrons comes an increase of the specific impulse. With 38 
+percent of the energy going into the kinetic energy of the neutrons and 62 percent into 
+charged fusion products, the specific impulse is increased by the factor 
+.Jl +38/ 62 =.Jl0/ 6.2 = 1.275. This increases the maximum exhaust velocity from 
+v =1.S x 109 cm/s to v =1.9 x 109 cm/s = 0.063c . 
+In the course of the thermal ization in the supercompressed plasma, the neutron 
+absorption cross section is greatly increased, both in the liner and tamp, with the liner 
+also compressed to high densities . If the liner and tamp are made from boron, which 
+has a large neutron-absorption cross section, the spacecraft is heated only by a greatly 
+reduced thermal neutron flux, and only this much smaller amount of heat must be 
+removed by a radiator. 
+Testing the Deuterium Microdetonation Concept 
+For the Orion bomb propulsion concept, testing was a serious problem. If tested on the 
+Earth, it would have resulted in the large fallout of fission products. These tests would 
+have been needed to study the surv ival of the pusher plate under the repeated 
+exposure of kiloton fission explosions (or fusion-boosted explos ions). Of course, the 
+tests could have been carried out in space, but this would have been extremely 
+expensive, because it would have required launch by chemical rockets of the huge 
+Orion spaceship into space. Fortunately, this is not necessary for the deuterium 
+microdetonation propulsion concept because there exists an alternative way to generate 
+a 107-ampere GeV proton beam: replacing the huge spaceship used as a large capacitor 
+to be charged up to gigavolt potentials with a "Super Marx generator " (Reference 16). 
+This Super Marx generator can achieve on Earth what the huge spaceship can achieve 
+in space: the generation of gigavolt 107-ampere proton beams. Since the realization of 
+pure deuterium beams would obviously be a breakthrough in fusion, the expenditure for 
+the development of a Super Marx generator would be well just ified. 
+Up until now nuclear fusion by inertial confinement has been achieved only using large 
+fission explosives as a means (driver) for ignition. From th is exper ience we know that 
+the ignition is easy with sufficiently large driver energies, diff icult to duplicate with 
+lasers or electric pulse power by an ordinary Marx generator. The problem therefore is 
+not the configuration of the thermonuclear explosive but the driver, be it for the ignition 
+of pure deuterium (D) as in the Mike Test or for the ignition of deuterium-tritium {OT) 
+as in the Centurion-Halite experiment, because for sufficiently large driver energies the 
+target configuration is of secondary importance. 
+Substantially larger driver energies can be reached with the "Super Marx generator ." It 
+can be viewed as a two-stage Marx generator, where a bank of ordinary Marx 
+generators assumes the role of a first stage. If the goal is the much more difficult 
+ignition of a pure deuterium microexplosion, the Super Marx generator must in addition 
+deliver a much larger amount of energy (compared with that of the most powerful 
+lasers) and also generate a magnetic field in the thermonuclear target that is strong 
+UNCLASSIFIED/ /FOR: OFFI&il.t.k W&liii OP•k¥ 
+20

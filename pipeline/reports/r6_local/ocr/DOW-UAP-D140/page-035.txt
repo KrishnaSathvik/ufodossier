@@ -1,0 +1,50 @@
+UNCLASSIFIED//&OR Oii&ICI0L Ll&li QPIL¥ 
+3.3.4 The Impact of Frequency Noise Improvements on FDMA and 
+FHSS 
+The very low noise frequency standard that would be supplied by an HFGW FTS system 
+would allow for much more efficient use of reserved frequency bandwidth. Frequency 
+noise limits the type of modulation and manner of encoding that can be performed in 
+frequency space, such as Frequency Division Multiple Access (FDMA) or Frequency 
+Hopping Spread Spectrum (FHSS). HFGW can reduce frequency noise by providing a 
+frequency reference with outstanding stability. For example, guard bands can be shrunk 
+in FDMA, and frequency slices can be smaller and more stable in FHSS. 
+A frequency space representation of the FDMA and FHSS noise improvements are 
+depicted in Figure 22. 
+High Freq Noise 
+Case 
+Low Freq 
+Case 
+oise High Freq Noise 
+Case 
+Low Freq Noise 
+Case 
+Larger Guard Bands Smaller Guard Bands 
+t 
+~~;.~ .- r- ~ r- -- -
+I II 
+Fewer Freq 
+Symbols ,,,-· 
+t ~~ 
+Frequency-;--+Frequency~ 
+(a) Frequency Division Multiple Access. (b) Frequency Hop Spread Spectrum . 
+Figure 22. The Impact of Frequency Noise Improvements on FDMA and FHSS 
+Efficiencies in guard-band structure can be defined as in Equation (14). 
+Guard band BW Efficiency = (Total Bandwidth - {Sum of Guard BW} )/Total Bandwidth 
+(14) 
+Guard bands often consume 30 to 50 percent of assigned frequency space. While guard 
+bands would still be required to allow for the side lobes of signals, the frequency error 
+component would be eliminated. Similar efficiencies may be gained in the FHSS 
+approach. A better knowledge of absolute frequency allows better frequency coding 
+efficiencies, as seen in Equation (13) and depicted in Figure 21. 
+3.4 POSSIBLE FUTURE UPGRADES TO THE FTS DEVICES 
+Per the 9 Feb 2009 issue of New Scientist, optical lattice clocks are under development 
+that will lead to a dramatic improvement over the current standard Cesium atomic 
+oscillation clocks that now provide frequency time standard references. Optical lattice 
+clocks vibrate at optical frequencies rather than microwave frequencies, with the 
+reference frequency mixed down via frequency combs to allow measurements back 
+down in the microwave regime. Strontium lattice clock are already operating with 
+measurement precisions of 1 part in 1016 , and theoretical performance approaches 1 
+part in 1018 . At this precision one could measure the time delay caused by changing 
+once centimeter in height in the Earth's gravitational field. 
+UNCLASSIFIED/ /FOP OiiiilCl.t.k l!ISI!!! l>flti 
+30

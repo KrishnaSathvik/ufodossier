@@ -1,0 +1,32 @@
+UNCLASSIFIED//POlt Offl@IAL WS& &NkY 
+---+- Payload 
+liquid H, Tan k 
+Turbopump 
+Nuclea r Fuel Assembfy 
+Figure 4. Nuclea r Fission Rocket Design. 
+Nuclear fission rockets had numerous problems. The fission of uranium-235 emits 
+about 200 MeV for every nucleus that undergoes fission. Approximately 11% of this 
+energy is in the form of neutrinos and is unrecoverable. Approximately 4.8 MeV shows 
+up as kinetic energy in the two or more neutrons that are created for every fission. At 
+least one neutron must be absorbed by another U-355 nucleus and cause fission in 
+order for a chain reaction to be sustained. Most of the energy goes into the kinetic 
+energy of large fission fragments that are created by the breakup of the U-235 nucleus. 
+Fission products are highly radioactive and may be ejected out with the rocket exhaust. 
+Neutrons pose a radiation hazard to any human close to the rocket when it operates. 
+In the tests of the NERVA series of rockets, on at least one occasion, pieces of 
+radioactive material were ejected over a small region of the Nevada Test Site and had 
+to be manually retrieved. 
+On the positive side, the NERVA rockets created large amounts of thrust, and the 
+energy within the reactor was more than sufficient to send its payload to the desired 
+location in the USSR. This prompted scientists to consider the use of thermal fission 
+reactors for use in space exploration, although the persistent problem of radiation 
+exposure to the crew remained unresolved. 
+Two classical designs were proposed. In one design, a reactor would be constructed as 
+shown in Figure 4, and liquid hydrogen propellant would be passed through the reactor 
+to create a supersonic exhaust and to provide thrust. The hydrogen fue l would be 
+located between the reactor and the crew to serve as a radiation shield for neutrons 
+produced during fission. The spacecraft would be elongated to move the crew as far 
+away as possible from the reactor, taking advantage of the 1/r2 attenuation of radiation 
+with distance from a source. 
+UNCLASSIFIED/fF&A &FFI&I:.l.k W&li &NkY 
+11

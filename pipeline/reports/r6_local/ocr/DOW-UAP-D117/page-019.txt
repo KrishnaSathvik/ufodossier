@@ -1,0 +1,24 @@
+UNCLASSIFIED/ /POI\ OPPl@IAL WS& 0,u.v 
+Figure 7. Cast Metallic Glass Wedge. Wedge of a zirconium -based bulk metallic glass produced by 
+casting. Note t he shiny metallic luster, typical of metallic glasses. 27 
+Metallic Glass Matrix Composites 
+As discussed above, the lack of crystalline defects gives metallic glasses high strength 
+but compromises their ductility and fracture toughness. In part icular, the tendency for 
+plastic deformation to localize into shear bands prevents the material from deforming in 
+a "graceful" manner. So it should not be surpris ing that there have been many 
+attempts to control shear band initiation and propagation by making composite 
+materials consisting of particles or fibers of some other mater ial (most commo nly a 
+ducti le crystalline metal) in a metallic glass matrix. The idea is to produce a material 
+with improved ductility, fracture toughness, and fatigue properties while (hopefully) not 
+sacrificing the qualities - especially strength and processing flexibility - that make 
+metallic glasses interesting in the first place. 
+PROCESSING AND STRUCTURE OF COMPOSITES 
+Broadly speaking, there are two kinds of metallic glass matrix composites: ex situ and 
+in situ. In ex situ composites, the metallic glass and the crystalline phase (be it in the 
+form of particles or fibers) are physically combined, for instance by adding particles to 
+the melt before casting . In situ composites are different in that the crystalline phase is 
+produced directly from the melt (by precipitation) during processing . This fundamental 
+difference in processing leads to significant differences in structure and therefore in 
+properties. 
+13 
+UNCLASSIFIED/ /POI\ OPPlelAL liS! 8HLV

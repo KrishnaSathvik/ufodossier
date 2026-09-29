@@ -1,0 +1,22 @@
+UNCLASSIFIED/ /P'OR. 8FFIEil1'1.k lellii Ql'II.¥ 
+In one further step one should have 
+divF-~(F 2 + G2) = -4,ryp (20)
+2c 
+or if G =0 and F =-'v ¢, where ¢ is the Newtonian gravitational potential, one obtains 
+for Poisson's equation: 
+(21) 
+According to (21) the positive mass as the source of the Newtonian potential is reduced 
+by the negative mass of its field. (Einste in's theory leads to almost the same, except 
+that there the negative gravitational mass density is twice as large.) One can then write 
+(22) 
+The earth is therefore embedded in a sea of negative mass. Making the substitution 
+(23) 
+transforms (22) into 
+y7 2 - 4;ryp1//- 2 1/f . (24) 
+C 
+If pis a delta function at r = 0, where 
+m = f4;rrr\5(r)pdr, (25) 
+then one obtains from (24): 
+(26) 
+UNCLASSIFIED//P'Olll OPPIEll<L tt!II!! or~LY 
+8

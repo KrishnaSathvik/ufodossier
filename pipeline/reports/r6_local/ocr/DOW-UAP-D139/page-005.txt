@@ -1,0 +1,48 @@
+UNCLASSIFIED/ fFOA OFFl&I.t.k Y&li &PtLY 
+Traversable Wormholes, Stargates, and Negative Energy 
+I. Summary 
+Implementation of faster-than-light (FTL) interstellar travel via traversable 
+wormholes generally requires the engineering of spacetime into very 
+specialized local geometries. The analysis of these via Einstein's General 
+Theory of Relativity, plus the resultant equations of state, demonstrates that 
+such geometries require the use of "exotic" matter. It has been claimed that 
+since such matter violates the energy conditions, FTL spacetimes are not 
+plausible. However, it has been shown that this is a spurious issue. The 
+identification, magnitude, and production of exotic matter are seen to be a key 
+technical challenge, however. These issues are reviewed and summarized, and 
+an assessment on the present state of their resolution is provided. 
+In 1985 CalTech physicists M. Morris and K. Thorne discovered the principle of 
+traversable wormholes based on Einstein's General Theory of Relativity 
+(published in 1915). Morris and Thorne (Reference 1) and Morris et al. 
+(Reference 2) did this as an academic exercise at the request of Carl Sagan, 
+who had completed the draft of his novel Contact. This little exercise led to the 
+development of two new cottage industries in spacetime physics research: the 
+study of traversable wormholes and the study of time machines. Wormholes 
+are hyperspace tunnels through spacetime connecting either remote regions 
+within our universe or two different universes; they even connect different 
+dimensions and different times. Space travelers would enter one side of the 
+tunnel and exit the other, passing through the throat along the way. The 
+travelers would move at~ c (c is the speed of light, 3 x 108 m/s) through the 
+wormhole and therefore not violate Special Relativity, but external observers 
+would view the travelers as traversing multi-light-year distances through 
+space at FTL speed; Figure 1 illustrates this effect. A "stargate" is a special 
+class of traversable wormhole solutions to Einstein's general relativistic field 
+equation that possesses very simple physics and flat entry and exit openings. 
+Traversable wormholes are unlike the well-known, non-traversable Einstein­
+Rosen Bridges or Schwarzschild wormholes that are formed from collapsed 
+stellar matter (that is, black holes) or spherically symmetric vacuum regions. 
+Black holes are collapsed stars that have all their mass concentrated at an 
+infinitesimal point where the induced gravitational field crushes all matter and 
+spacetime. However, even Einstein-Rosen bridges can be made traversable by 
+an infinitesimal tweaking of their spacetime metric. In the case of black holes, 
+the singularity of collapsed matter, along with its crushing gravity field, totally 
+blocks the way through the tunnel. A traversable wormhole does not have a 
+singularity blocking the tunnel or any crushing gravity field. Explorers would 
+enter one side of the tunnel, travel through the throat, and exit the other side. 
+Traversable wormholes also do not possess an event horizon, a region of high 
+gravitational field strength separating the inside space surrounding the black 
+hole's singularity from the outside universe. Once you go through a black 
+hole's event horizon, you can never come back out because you will have to 
+attain FTL speed to escape it. Not even light can escape from an event horizon. 
+UNCLASSIFIEQ{ {FOR AFEICIAk Y&li 8HLY 
+V

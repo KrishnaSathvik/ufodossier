@@ -1,0 +1,49 @@
+UNCLASSIFIED/ /FOR OFFI@IAL WSE QptLY 
+Brane or "brane world") analogs of the Casimir effect yet to be explored . But a detailed 
+consideration of these is beyond the scope of this report and will be left for future 
+investigation. 
+Squeezed Quantum Vacuum 
+It was discovered in 1965 that quantum field theory has the remarkable property of 
+allowing states of matter containing local regions of negative (vacuum state) energy 
+density or negative fluxes (Reference 94). In general, the local (vacuum state) energy 
+density in quantum field theory can be negative due to quantum coherence effects 
+(Reference 94). A primary byproduct of this discovery is the "squeezed quantum 
+vacuum," which later gave rise to new phenomenon such as the gravitationally 
+squeezed vacuum discussed previously. Substantial theoretical and experimental work 
+has shown that in many quantum systems the limits to measurement precision imposed 
+by the quantum vacuum ZPF can be breached by decreasing the noise in one 
+observable (or measurable quantity) at the expense of increasing the noise in the 
+conjugate observable; at the same time the variations in the first observable, say the 
+energy, are reduced below the ZPF such that the energy becomes "negative." 
+"Squeezing" is thus the control of quantum fluctuations and corresponding 
+uncertainties, whereby one can squeeze/reduce the variance of one (physically 
+important) observable quantity provided the variance in the (physically unimportant) 
+conjugate variable is stretched/increased. The squeezed quantity possesses an 
+unusually low variance, meaning less variance than would be expected on the basis of 
+the equipartition theorem. One can in principle exploit quantum squeezing to extract 
+energy from one place in the ordinary vacuum at the expense of accumulating excess 
+energy elsewhere. 
+The squeezed state of the electromagnetic field is a primary example of a quantum field 
+that has negative energy density and negati ve energy flux. Such a state became a 
+physical reality in the laboratory as a result of the nonlinear-optics technique of 
+"squeezing"; that is, of moving some of the quantum-fluctuations of laser light out of 
+the cos[w(t - z/c)] part of the beam and into the sin[ro(t - z/c)] part (Reference 95-
+100). 16 The observable that gets squeezed will have its fluctuations reduced below the 
+vacuum ZPF. The act of squeezing transforms the phase space circular noise profile 
+characteristic of the vacuum into an ellipse, whose semimajor and semiminor axes are 
+given by unequal quadrature uncertaint ies (of the quantized electromagnetic field 
+harmonic oscillator operators). This applies to coherent states in general, and the usual 
+vacuum is also a coherent state with eigenvalue zero. As this ellipse rotates about the 
+origin with angular frequency, ro, these unequal quadrature uncertainties manifest 
+themse lves in the electromagnetic field oscillator energy by periodic occurrences, which 
+are separated by one quarter cycle, of both smaller and larger fluctuations compared to 
+the unsqueezed vacuum. 
+Caves (Reference 101) points out that if one squeezes the vacuum-that is, if one puts 
+vacuum rather than laser light into the input port of a squeezing device-then one gets 
+at the output an electromagnetic field with weaker fluctuations and thus less energy 
+density than the vacuum at locations where cos2[ro(t - z/c)] =1 and sin 2[ro(t - z/c)] < < 
+1; but with greater fluctuations and thus greater energy density than the vacuum at 
+locations where cos2[ro(t - z/c)] << 1 and sin2[ro(t - z/c)] =1. Since the vacuum is 
+16 w is the angular frequency of light, tis time, and z denotes the z-axis direction of beam propagation. 
+UNCLASSIFIED/ /FOR OFFICI0L: 11ili QIU.,¥ 
+32

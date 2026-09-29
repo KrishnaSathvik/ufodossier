@@ -1,0 +1,43 @@
+UNCLASSIFIED/fFOR. QFFIEl.t.L: Uii QD:I! X 
+Chapter 3: Detection Technologies 
+Hypersonic objects passing through the Earth's atmosphere leave traces that can be 
+observed using a number of detection methods. The bow shock introduced by such objects 
+reflects and refracts radio waves, RADAR pulses, and visible light. The ionized air 
+surrounding the object also creates electromagnetic interference that is visible on RADAR and 
+the emitted visible light in the wake is observable in photographs. The shock and turbulent 
+wake also create low frequency sound that can be sensed by ground-based sensors. These 
+detection methods can be characterized as electromagnetic, optical , and acoustic and seismic 
+as shown in Figure 7. Each method will be discussed along with the limitations and 
+advantages for the detection of hypersonic objects passing through the atmosphere. 
+Electromagnetic 
+RADAR 
+Energy Reflection 
+Doppler RADAR 
+Radio Reflection Detection 
+Optical 
+Sky Cameras and Photographic Methods 
+Infrared Detection 
+LIDAR 
+Chronograph 
+Acoustic and Seismic 
+Infrasound 
+Seismic 
+Figure 7. Hypersonic Vehicle Detection Techniques. 
+One of the fundamental tools for detecting the velocity of high-speed objects is the 
+chronograph. These devices are used to measure the velocity of automobiles using 
+pneumatic tubes, and simple systems using laser diodes or LEDs are used to measure the 
+velocity of bullets. Figure 8 outlines a laser-based chronograph that is commercially 
+available for measuring the velocity of projectiles in two-stage gas guns capable of speeds in 
+a vacuum of 12 km/h, or approximately Mach 36 if the projectile passed through air. As a 
+high-speed object passes through the first laser beam followed rapidly by the second, 
+photodetectors sense the change in intensity of the laser beam and send these signals to a 
+storage oscilloscope or to a counter. The time delay between the two signals, Lit, is used to 
+find the velocity of the object based on the distance between the two photodetectors, L. 
+Digital clocks are capable of accurately measuring time delays to within a fraction of a 
+nanosecond (10·9 seconds), so chronographs are capable of very high accuracy in 
+determining the velocity of objects. As noted earlier, their use at gun ranges or in high­
+speed gas guns requires that the path of the hypersonic object must pass through the laser 
+beams for the chronograph to be effective, which limits their usage for the detection of 
+hypersonic aircraft except at instrumented test ranges. 
+UNCLASSIFIED//EQA: QlililEl.t.L: W&&: O,.L'l 
+11

@@ -1,0 +1,59 @@
+UNCLASSIFIED/ /FOA OFFICIO Ir !Pili 0111.¥ 
+In 1997 Miley and his group published 
+an IEEE paper that summarized their 
+internal ion injected grid experiments 
+(Reference 2.3). (As noted earlier "ion 
+injected" has been used to define the 
+species forming a potential well. It is not 
+to be confused with external "gun" 
+injection where ions form the well, but 
+are introduced from an external source). 
+It discusses the discharge physics and 
+plasma characteristics for various modes 
+of operation. It explains how the STAR 
+mode is created by the defocusing 
+properties concave inward (towards the 
+center core) in open grid structures. 
+Indeed the concept is somewhat anti­
+intuitive since one might hope for 
+focusing "optics", but this is not possible 
+in these configurations. (Indeed various 
+multi-grid approaches have been studied 
+with the objective of improving beam 
+optics for reflection of ions, hence 
+recirculation. See for example, Reference 
+2.4. When ions pass through the 
+concave potential, all but those in the 
+Figure 2.3. Photograph of a STAR mode discharge. 
+The "vane'' type grid shown Is only one of a numb er of 
+large opening grids designed and used for STAR mode 
+operation of the neutron source type IEC. This parti cular 
+design (but with variations) has been used by the UIUC, 
+Daimler-Chrysler and Kyoto University. It Is rugged, 
+shows littl e sputtering and has proven very effic ient for 
+neutron production . Materials used vary from stainless 
+steel to Mo. 
+exact center of the curved surface are deflected and lost. The centered ions pass 
+through to the opposite side and go through the grid opening, then are reflected and 
+repeat this trajectory. Subsequently ionization events along this path cause a rapid 
+increase in the recirculating current through the center of the grid openings. This then 
+produces the beautiful STAR mode discharge shown in Figure 2.3. 
+The use of a pulsed power supply represents a very important way to study the physics 
+of high current IECs without employing expensive, very large power supplies and also 
+avoiding the need for strong cooling to remove the waste heat. The key physics point is 
+that the beam-beam fusion rate scales as the ion current squared. Most steady state 
+experiments employ 100s of mA, while pulsing peak values of many amps are possible. 
+By selecting the pulse width to match or exceed the ion confinement time, typically 
+order of ms in present devices, a quasi equilibrium is established during the pulse. This 
+allows study of "equivalent" steady-state physics du ring the pulse. 
+Miley's device in Reference 2.6 used a Marx bank technology to provide peak currents 
+of l0's of amps with a ~0.1 sec width and a low repetition rate (selected to minimize 
+cooling requirements and also reduce bank recharging requirements). 
+Another important technology regarding the IEC vessel pumping was developed in the 
+mid- 1990s by staff from Miley's group working at the Idaho National Environmental and 
+Engineering Laboratory (!NEEL), Idaho with Robert A. Anderl (Reference 2.5). This work 
+substituted a metallic hybrid getter for the external pumping on the IEC chamber. With 
+this arrangement, the deuterium is absorbed in the getter material while the vapor 
+pressure, hence chamber background pressure, is controlled by regulation of the getter 
+UNCLASSIFIED/ /FOA OFFICIAi. Wili 01\lk¥ 
+16

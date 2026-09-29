@@ -1,0 +1,35 @@
+{
+  "generated_at": "2026-09-28T19:14:08.743270+00:00",
+  "out_dir": "/Users/krishnasathvikmantripragada/Webapps/ufo-dossier/.cache/files/pursue/r5",
+  "pdf_ids": [
+    "CIA-UAP-D022",
+    "CIA-UAP-D023",
+    "DOS-UAP-D001",
+    "DOS-UAP-D002",
+    "DOW-UAP-D098",
+    "DOW-UAP-D099",
+    "DOW-UAP-D100",
+    "DOW-UAP-D101",
+    "EOP-UAP-D001",
+    "FBI-UAP-D024",
+    "FBI-UAP-D026",
+    "FBI-UAP-D027",
+    "FBI-UAP-D028",
+    "FBI-UAP-D030",
+    "FBI-UAP-D032",
+    "FBI-UAP-D033",
+    "FBI-UAP-D037",
+    "FBI-UAP-D038",
+    "FBI-UAP-D039",
+    "FBI-UAP-D040",
+    "FBI-UAP-D041",
+    "FBI-UAP-D042"
+  ],
+  "skip_media_deep_processing": true,
+  "media_ids": [
+    "FBI-UAP-D025",
+    "FBI-UAP-D029",
+    "FBI-UAP-D031"
+  ],
+  "note": "Images/videos: metadata + pairing only. No full media AI analysis in R5 local."
+}

@@ -1,0 +1,46 @@
+UNCLASSIFIED/ /fOR Offl@IAL W&& 8Nk¥ 
+region is essential to decrease the center potential and consequently allow incoming 
+beam Ions to penetrate into the core region . In the DaIEC, it is possible to assist this 
+effect by an external control of the centerline potential by applying a bias voltage to the 
+dipole coil. In the UIUC experiment this was done by applying a voltage to a small 
+copper ring inserted in the core of the dipole magnet . The increase in the electron 
+density with a small center line bias applied was about 30 percent while the applied 
+voltage to the dipole structure was ~3 percent of the discharge voltage. The present 
+setup prevented the use of larger applied voltages which could further improve 
+neutralization, but these results still demonstrate the basic concept of dipole focusing 
+with coil bias control. 
+Figure 3.6 shows how the electron density changes with increasing magnetic field 
+measured at various coil biases in the current experiment. It is found that electron 
+density increases about 17 times more than that of non-magnetic field measurement. 
+So far, this increase is very close to our theoretical estimations. 
+Electron den sity vs B-field 25mTon-
+0 100 200 300 400 500 600 700 800 
+B-field strength (Gauss) I - G-ound ---+- ~ =-JOOV --- Vc=+l OOV I 
+---. 
+('f") 
+I 
+~ a ·-ell 
+d 
+(1) 
+"O 
+d 
+g 
+~ 
+~ 
+l.OOE+lO 
+l.OOE+09 
+l.OOE+08 
+Figure 3.6. Electron Density vs. Dipole Magnet Field Strength at 25mTorr, 20mA 
+The next section turns to some very interesting diagnostic studies of IEC devices, 
+including a jet thruster configuration, done by Joe Khachan's group at the University of 
+Sydney, Australia. 
+KHACHAN 'S STUDIES AT U OF SYDNEY 
+Joe Khachan's IEC research at the University of Sydney has stressed studies of optical 
+emission spectroscopy of gridded IEC devices (Reference 3.11, 3.12). Using Doppler 
+spectroscopy of the Hydrogen Ha line they have shown that the micro -channels in an 
+IEC discharge operating in the units at tens of mTorr pressure range (for voltages less 
+than 30 kV) are mostly composed of molecular ions with approximately 20 percent 
+atom ic hydrogen. They have also developed a spectr oscopic model based on collisional 
+radioactive modeling to spectroscopically measure ion densities, electron energies and 
+UNCLASSIFIED/ }FOA: OFFICI0L: !Pi'li ODIL:¥ 
+31

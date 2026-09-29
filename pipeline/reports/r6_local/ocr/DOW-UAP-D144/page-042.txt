@@ -1,0 +1,56 @@
+UNCLASSIFIED / (FO R-OFFECEALE-USE-ONEY
+
+Copying the general organization of the other major panels, this tall and narrow
+enunciator is divided into three sections:
+
+e External Alarms (Upper Left): Alarm indicators corresponding to the most life-
+threatening conditions (limit of 4 to 10) that could occur external to the vehicle,
+such as impending collisions, hazardous radiation, or other critical situations.
+
+e Vehicle Alarms (Upper Right): Alarm indicators corresponding to the most life-
+threatening conditions (limit of 4 to 10) that could occur internally from the vehicle
+itself, such as catastrophic equipment malfunctions.
+
+e Cabin Alarms (Bottom): Alarm indicators corresponding to the most life-
+threatening conditions of the cabin’s life support (limit of 4 to 10), such as loss of air
+pressure, excessive internal g's, temperature extremes, or pilot health conditions.
+
+Emergency Response Panel
+
+The narrow vertical panel between the center and right panel is the emergency
+response panel: a fixed series of buttons for preprogrammed emergency responses,
+including at least one variable button tied to the recommendations on the flight assist
+display. These are deliberately set into the tunnel vision field of view. Each of these
+responses is programmed to perform without needing additional inputs from the pilot. A
+provisional set of these preprogrammed emergency response buttons is as follows:
+
+e Evasive collision avoidance.
+
+e Escape to safe loiter position.
+e Get medical assistance.
+
+e Effect automated repair.
+
+e Return to base.
+
+e Flight-assist recommendation.
+
+One of the emergency response panel buttons is to select whatever response option is
+currently displayed on the assistant panel, while the other emergency response buttons
+are fixed functions.
+
+Flight-Mode Panel
+
+Because selecting any of these emergency responses will change the flight mode into
+"fully autonomous" mode, the flight-mode panel is between the emergency response
+panel and the survival enunciator. Because the flight mode is a critical piece of
+information, it is also located between the vector motion display and the vehicle status
+panel.
+
+In aircraft, the flight-mode controls are often on the glare shield, but in the
+breakthrough-era craft, there will not be a need for a glare shield. The light in the
+cabin is only from the display systems whose brightness can be set to prevent glare on
+the consoles.
+
+37
+UNCLASSIFIED /-602-O5FIGLAL-USE-OAL

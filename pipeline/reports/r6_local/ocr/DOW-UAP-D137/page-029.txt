@@ -1,0 +1,31 @@
+UNCLASSIFIED/ fFOA. OFFICIAL WSE er•tv 
+The reasons are that they avoid separate (and usually hazardous) fuels to carry/refuel 
+and allow propagat ion at wavelengths that are favorable for use from the earth or in 
+space. In addition to significant progress in compact, rugged, reliable and efficient 
+laser systems for spacecraft, major developments in energy generation and storage will 
+be needed. These lasers might be expected to have an overall "wa ll plug" efficiency of 
+25 percent, which requires at least four times the laser output power in prime power to 
+generate the laser beam. A MW solid-state laser would require at least 4 MW of 
+electrical power while lasing. If a low duty-cycle were allowable, much of the required 
+lasing energy could be accumulated from a smaller prime-power source and stored in 
+batteries, capacitors or flywheels . I n addition to the energy required to support lasing, 
+the residual energy (3 MW from a 25 percent effic ient MW laser) in the form of heat 
+must be stored and then removed from the spacecraft. 
+Solid-state lasers will be the optimum candidate for power in the sub-MW to MW range 
+due to their rugged ness and relative simplicity. An FEL would be the prime candidate 
+for power well above a MW. This type of laser lends itself better to heat removal from 
+the gain medium than a solid-state laser. This ability of an FEL to be scaled to higher 
+power comes with considerable additional complexity and a requirement for about a 
+MW of continuous power to maintain a large cryogen ic refrigerat ion system which cools 
+the niobium accelerator cavity wit h liquid helium at 2K. The future development of 
+appropriate higher tempe rature superconducting materia ls may lessen this 
+requirement. The storage and removal of heat from any of these electr ically powered 
+lasers may prove to be a more stressing task than generatio n of the required prime 
+power for lasing. 
+Table 1 provides an esti mate of the irrad iance that vari ous potential space-based laser 
+systems could provide. It assumes a wavelengt h of 1 µm, a transm itting telescope of 1 
+meter diameter and a system beam quality of about 1.5. I f the tra nsmitt ing telescope 
+were increased to 3 meter diamete r, the same irradiance would be delivered at 3 times 
+the range. 
+UNCLASSIFIED/ fFOA QFFl€1AL WSE 8NLY 
+24

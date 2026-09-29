@@ -1,0 +1,69 @@
+{
+  "filename": "CIA-UAP-017.pdf",
+  "generated_at": "2026-09-25T18:49:30.872865+00:00",
+  "page_count": 3,
+  "usable_text_chars": 3840,
+  "stats": {
+    "native_good": 2,
+    "native_thin": 0,
+    "needs_ocr": 1,
+    "ocr_failed": 0,
+    "ocr_succeeded": 1,
+    "pages_ocrd": 1
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "native_quality": {
+        "page_number": 1,
+        "native_char_count": 2312,
+        "printable_ratio": 0.999,
+        "alpha_ratio": 0.725,
+        "word_count": 319,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "sufficient clean native text"
+      },
+      "final_category": "native_good",
+      "text_method": "native",
+      "char_count": 2312,
+      "text": ""
+    },
+    {
+      "page_number": 2,
+      "native_quality": {
+        "page_number": 2,
+        "native_char_count": 1322,
+        "printable_ratio": 0.999,
+        "alpha_ratio": 0.722,
+        "word_count": 178,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "sufficient clean native text"
+      },
+      "final_category": "native_good",
+      "text_method": "native",
+      "char_count": 1322,
+      "text": ""
+    },
+    {
+      "page_number": 3,
+      "native_quality": {
+        "page_number": 3,
+        "native_char_count": 157,
+        "printable_ratio": 0.994,
+        "alpha_ratio": 0.656,
+        "word_count": 20,
+        "replacement_char_count": 0,
+        "category": "native_thin",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.33, clean=0.87))"
+      },
+      "final_category": "native_thin",
+      "text_method": "tesseract",
+      "char_count": 157,
+      "text": ""
+    }
+  ],
+  "combined_path": "pipeline/reports/r3_readiness/ocr/CIA-UAP-017/combined.txt",
+  "production_writes": false
+}

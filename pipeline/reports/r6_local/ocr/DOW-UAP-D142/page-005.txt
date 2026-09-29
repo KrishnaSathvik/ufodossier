@@ -1,0 +1,47 @@
+UNCLASSIFIED/ / FOR OFFI@IA L WSE QptLY 
+Concepts for Extracting Energy From the Quantum Vacuum 
+I. Summary 
+Quantum theory predicts that the vacuum of space throughout the universe is 
+filled with electromagnetic waves, random in phase and amplitude, 
+propagating in all possible directions, and with a cubic frequency distribution. 
+This differs from the cosmic microwave backg round radiat ion and is refe rred 
+to as the electromagnetic quantum vacuum, which is the lowest energy state 
+of otherwise empty space. When integrated over all frequency modes up to the 
+Planck frequency, vp ( ~1043 Hertz [Hz]), it represents an energy dens ity of as 
+much as 10113 J/m 3 , wh ich is far in excess of any othe r known energy source, 
+even if only an infinitesimal fraction of it is accessible. Even if one is 
+constrained to integrate over all frequency modes only up to the nucleon 
+Compton frequency (~1023 Hz), 1 t his energy density is still enormous (~103 5 
+J/m 3). In addition, the electromagnetic quantum vacuum is not alone; it 
+intimately couples to the charged particles in the Dirac sea of virtual fermion 
+particle-antiparticle pairs (aka the Dirac vacuum) and thereby couples to the 
+other interactions inherent in the Standard Model (weak and strong force 
+vacua). However, in the Standard Model of particle physics, the weak force 
+vacuum is essentially the electromagnetic vacuum, because photons serve as 
+the massless eigenstates of (unified) electroweak theory with an "effective" 
+coupling constant that is in fact electromagnetic in strength. 2 And we can 
+safely ignore any coupling of the quantum electromagnetic vacuum to the 
+quantum chromodynamic vacuum in this paper because the latter coexists in 
+two phases: (1) the ordinary vacuum exterior to the hadron, which is 
+impenetrable to quark color, and (2) the vacuum interior of the hadron,3 in 
+which the Yang-Mills fields that carry color (gluons) propagate freely. Both 
+vacuum phases are separated by a boundary at the surface of the hadron on 
+which the Yang-Mills and quark fields satisfy boundary conditions. 
+Even though this zero-point field (ZPF) energy seems to be an inescapable 
+consequence of quantum field theory, its energy density is so enormous as to 
+make it difficult to reconcile. Instead, many quantum calculations subtract the 
+ZPF energy by ad hoc means (for example, renormalization). However, the 
+effects of the quantum vacuum ZPF that are responsible for a variety of well­
+known physical effects are observed, such as: 
+Lamb shift. 
+Spontaneous atomic emission. 
+1 The characteristic frequency associated with the size of nucleons. 
+2 The weak force coupling constant is merely the quantum electrodynamic/electromagnetic 
+coupling constant (i.e., the fine structure constant, a) that is "suppressed" by a simple 
+inverse-quadratic ratio of the virtual weak force particle mass to the proton mass (a factor 
+of 10-4). 
+3 Hadrons are the class of strongly interacting elementary particles which are a bound state 
+of quarks. This class of particles has two subclasses: baryons (e.g., protons and neutrons 
+comprised of three quarks) and mesons ( comprised of two quarks). 
+UNCLASSIFIED/ /FOR OEFICIOP Pili QIU.,¥ 
+V

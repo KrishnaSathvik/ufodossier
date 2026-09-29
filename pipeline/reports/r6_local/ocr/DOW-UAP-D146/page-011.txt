@@ -1,0 +1,29 @@
+UNCLASSIFIED/ /FOR. OFFICIAL t:191!!! OHL¥ 
+magnetic mirror 
+pole regions serve as a 
+magnetic mirror or bottle 
+that traps and reflects charged 
+particles - the particles gain 
+energy 
+Figure 2. Illustration of Magnetic Mirror Confinement in Vicinity of Jupiter 
+A second, related magnetic method is to join the ends of the solenoid together as a 
+toroid, confining the plasma to a ring. A simple toroidal (i.e., circular) field, however, 
+provides poor confinement because the radial gradient of the magnetic field strength 
+results in plasma drift. A method to reduce drift and produce a stable plasma 
+equilibrium is to superpose a poloidal magnetic field with the toroidal field, thus driving 
+a current through the plasma itself . This provides a path for the plasma moving along 
+the outer edge of the toro id to migrate to the inner edge and vice versa. This is the 
+method used in tokamak systems (shown in Figure 3). Another solution has been to 
+structurally modify the toroid chamber into a figure-eight configuration. This allowed 
+plasma to spend half of the time on the inner port ion of the tube, and half of the time 
+on the outer portion of the tube. Such systems are called stellarators. This configuration 
+has eventually evolved back into a (non-axially symmetric) toroidal configurat ion; 
+rotating the windings in such a manner produces a stable plasma equilibrium while 
+eliminating the need for a toroidal magnetic field. The fundamental issue with these 
+confinement systems is that they require superconducting magnetic coils, pressure 
+vessels, and neutron-energy-absorb ing blankets for a 6-meter major radius by 6-meter 
+high plasma, an enormous technological undertak ing-and that is just for an ignition 
+demonstration (see Chapter 5) . 
+Figure 3. a) Tokamak and b) Stellarator Confinement 
+UNCLASSIFIED/ /FOR OFFI&iIAk YS& &PtkY 
+6

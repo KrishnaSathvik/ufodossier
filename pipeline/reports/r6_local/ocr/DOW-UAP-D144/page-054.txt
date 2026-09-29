@@ -1,0 +1,40 @@
+UNCLASSIFIED/ fFOR OFFI@IAI:: HSE OPtl::Y 
+Although not mentioned in the lecture (advertising is not allowed at TED talks), Underkoffler's Oblong 
+Industries is already working to make those systems real. 
+• Van der Vaart, A. J. M. (1995). Arm movements in operating rotary controls (Doctoral dissertation) . 
+Techniche Universiteit Delft, Netherlands, Delftse Univ. Pres. 
+Dissertation (169 pg) Intense detail into arm and hand motions when dealing with controls such as knobs 
+and joysticks - including experimental test methods. Sections both in English and Dutch. Many useful 
+diagrams for those designing the actual mechanics of controls. Suitable information if designing a new 
+six-degree of freedom joystick. 
+• Visual Understanding Environment (VUE) . (2008). Tufts University. Site developed by Academic Technology. 
+Retrieved from <http://vue.tufts.edu/> 
+Downloadable, open source software to create flexible tools for managing and integrating digital resources 
+in support of teaching, learn ing and research. "VUE provides a flexible visual environment for structuring, 
+presenting, and sharing digital information ." 
+• Wan, C, et al. (1991). 'Vise: A Visual Programm ing Environment for Data Analysis and Visualization ." 
+Presented at the 1999/Nov. Conference of Association for Computing Machinery (ACM) User Interface 
+Software and Technology (National Information Display Laboratory) . 
+Report (7 pg) Pertinent in the context of reflecting the degree of difficulty when presenting informa tion 
+about the health of an electromechanical system, where comprehending and reacting to the data is not 
+straightforward. Hierarchical organization covered. 
+• Webb, P. (Ed.). (1964). SECTION 17. VISION, Bioastronautics Data Book. NASA SP-3006. Washington DC: 
+Scientific and Technical Information Division. 
+Section from Book containing data on human vision, field of view, effects of lighting, etc. 
+• Woods, D. D. (1984). Visual momentum: a concept to improve the cognitive coupling of person and 
+computer. International Journal of Man-Machine Studies, 21, 229-244. 
+Report (16 pg), Examines the problem of getting lost when working with the multiple display windows that 
+are now common in computer displays. The taxonomy is also useful. 
+• Woods, D. D. (1988). The Significance Messages Concept for Intelligent Adaptive Data Display. Working 
+Paper Series No. 1988-015. Columbus OH: Ohio State University. 
+Report (21 pg) Discusses how intelligent monitoring systems can take on the function of combining a 
+number of variables to calculated a condensed and meaningful "Significant Message" to the user. For 
+example, instead of just displaying various states of a system, the intel ligent system takes all those values 
+to give the user a key message, such as "Pump 1 at reduced capacity ." 
+• Woods, D. D. (1993). The price of flexibility. In Hefley & Murray (Eds.), Proceeding of the International 
+Workshop on Intelligent User Interfaces. Association for Computing Machinery (ACM). 
+Report (7 pg) Illustrates how adding flexibility to information displays increased the burden on the users. 
+Users dealt with this by setting a default fixed display and by avoiding using the systems during high­
+stress moments. A list of corrective measures is provided for designing intelligent user interfaces. 
+UNCLASSIFIED/fFOA. OFFICIO ls. Plili Olhlls.¥ 
+49

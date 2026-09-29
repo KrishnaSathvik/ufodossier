@@ -1,0 +1,27 @@
+33 
+Cooper I think we had some bias, just how much I don ' t lmow. 
+The timing of the translation was fine , updating was 
+fine. Operations and checklist were okay . Computer 
+usage, okay . 
+Conrad It was easier to make a burn on the simulator that 
+had no up-down or left and righ t in it than it was 
+in the spacecraft . Gordo did a real good job of 
+tracking on every burn and I didn't see it wander 
+hardly at all . 
+Cooper And all the IVI ' s would be zero . 
+Conrad And all the IVI 
+1 
+s would be zero, but we'd have .4. of10 
+a foot in one axis and ~O in another. 
+Conrad 8Yes. The worst cross - coupling , we had 10 in one 
+axis, and when we burned in the platform mode, but 
+we were checking that . It could have been accelero ­
+meter bias again, or, the spacecraft is more sensi - • 
+tive to picking up up- down and l eft - right velocities 
+than I thought it was . 
+Conrad Gordo did a real good job of tracking . He tracked 
+as well as he did in the simulator and we never had 
+this show up in another axis in the simulator . 
+Cooper It would be zero , zero , zero in the simulator . 
+Conrad It was hardly worth my time checking address 81 and 
+82 in the simulator because I could just tell he

@@ -1,0 +1,48 @@
+UNCLASSIFIED/ /P91t 9FFl@IAL YSIE 8HLY 
+Japan in real time. Using visual feedback to the monkey via live stream ing video, the humanoid robot in Japan was 
+shown to execute locomot ion-lik e movements in a similar manner as the monkey . (Reference 43) 
+An example of a closed loop peripheral system is the creation of the humanoid robot 
+called CB-i (Computational Brain Interface) . This system is illustrated in Figure 4. In a 
+recent experiment, CB-i successfully mimicked the physical actions being performed by 
+a monkey that was positioned in a remote location (Reference 43). 
+MEMS , ECOG, AND PSOC CIRCUITRY 
+To address the issue of signal interface between the biological and physical systems, 
+development has focused on hybrid devices that are created by fusing together 
+biomolecules, cells, and other tissues, with innovative micro -size current sensors using 
+Micro Electro Mechanical Systems (MEMS). These systems often employ the use of 
+biomaterials and functional high polymer materials that enable the device to sense 
+information about the human body and the environment with greater speed and 
+sensitivity than conventional metallic sensors. These devices are built from materials 
+and mechanisms that are compatible with the human body, and they are proving to be 
+powerful tools for interfacing between the human body and machines. 
+The emergence of MEMS biotechnology has motivated various strategies to detect 
+electrical signals generated from a stimulated region within the brain into a captured 
+electrical response that is translated to a machine interface. One advantage of these 
+devices is that the fusing of biological to physical circuitry is performed external to the 
+body and the interface connection of the implants is thus biological to biological. This 
+avoids a natural reaction of the nervous system to form scar tissue around penetrating 
+chronic physical probes. 18 Scar tissue leads to degradation of proximal signal transfer 
+over time. These neural -tissue encapsulated chips offer significant advantages over 
+other technologies because of their ability to be rapidly integrated into the biological 
+environment. 
+Noninvasive EEG platforms often utilize a cap that covers the skull and reads the 
+electrical signals generated from the brain on the surface of the skin atop the head. 
+However, a technical limitation in the bandwidth of EEG-based methods often provides 
+low information rates. Currently EEG methods are limited to 20-30 bits/min ( < 0.5 
+bits/s). This drawback has prompted the use of a more accurate and speedy recording 
+method based on invasive techniques such as the electrocorticogram (ECoG), where 
+electrode arrays are placed on top of the cortex, but electrode penetration into brain 
+tissue is minimal. ECoGs have become synonymous with the pre-surgical monitoring of 
+epileptic seizure foci (Reference 45). Valuable insights can be gained by combining both 
+invasive and noninvasive schemes. For example, combining functional MRI (fMRI) and 
+intracortical recording has yielded important information about metabolic mechanisms 
+that are most highly correlated with recorded neural activity. Microelectric neurochip 
+developments seek to combine signal sensing and processing for bidirectional BMI 
+systems. 
+Studies in the feasibility of using adapt ive input-output models for reconstructing hand 
+trajectories have recently been published. These studies have focused on the 
+18 Chronic devices are inte nded for long-duration implant, in contrast with acute implanted devices, which are 
+utilized for a short duration and then removed . Formation of scar tissue is dependent on the mater ial used for the 
+electrodes . 
+UNCLASSIFIED/ /FOA OFFI&IAk YSIE 8HL'I 
+14

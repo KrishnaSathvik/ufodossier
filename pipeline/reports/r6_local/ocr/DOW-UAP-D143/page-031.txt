@@ -1,0 +1,30 @@
+Pico or Nano 
+Satellites 
+UNCLASSIFIED//1'81\ 81'1'1CHtt USE ONLf 
+Chapter 3: Laser Lightcraft Weapon Mission Selection 
+Study 
+The objective of the Froning and Davis [26] study was to examine crucial future Air 
+Force launch vehicle missions and select at least one that might be performed very 
+cost-effectively by Lightcraft vehicles powered by beamed electromagnetic energy from 
+airborne or ground/sea-based lasers. It entai led identification and analysis of promising 
+launch vehicle missions for laser-propelled Lightcraft, and assessments of the identified 
+and analyzed missions by experts in the mission areas. See Figure 14 and Figure 15 for 
+Lightcraft missions that have been identified and explored. 
+It was concluded that the most promising Air Force mission for a laser-propel led 
+Lightcraft is the placement of Earth and space observing nanosats of up to 3 kg mass 
+into LEO. Such a laser-propelled Lightcraft would also serve as a "Lightsat," because it 
+would use the Lightcraft's laser propulsion optics as a telescope for observing military 
+targets on Earth and in space. Additional estimated mass for performing the Lightsat 
+function is no more than about 1 kg, if the Lightcraft forebody structure panels can be 
+unfurled in orbit and used as solar power collectors. Such a Lightcraft system appears 
+capable of reaching LEO at 1/Sth to 1/10 th the cost required for placing a similar Lightsat 
+system into LEO using multistage chemical rocket systems. 
+Ground-to-Space ,,,~
+(Earth-to-Orbit) / 
+/// 
+Figure 14. Ground/Sea-to-Space Concept: Appropriate rotation of a high-energy laser beam, 
+emanating from a ground/sea-based laser, guides and propels an integral Lightcraft pico­
+/nano-satellite along an ETO ascent path until orbital conditions are reached, or until 
+beamed laser energy can no longer be transformed into Lightcraft thrust C261, 
+UNCLASSIFIED,<,<FOA QFFISIAL HSI!! 8HLY 
+27

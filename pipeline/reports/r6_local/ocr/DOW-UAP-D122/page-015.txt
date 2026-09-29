@@ -1,0 +1,56 @@
+UNCLASSIFIED/ =O R-OFFt6?A-USE-ONEY
+
+The split-ring resonators are
+electromagnetic circuits; they respond to
+the electromagnetic field of microwave
+radiation. Their response depends on
+their shapes. For example, in the
+cloaking device shown in Figure 11, the
+double stripes in the middle of the split-
+ring resonators vary from ring to ring. As
+these stripes form an electric capacitor,
+the capacitance of the resonators also
+varies. The colored curves show how the
+electromagnetic functions change over
+the distance from the center of the
+cloaking device as a result of the varied
+capacitance. As they are always positive,
+negative refraction is not required for
+cloaking. At the inner ring, the red curve
+reaches zero, defining the boundary of
+the cloaking device. The rings with their
+split-ring structures are designed to Figure 11. Cloaking Device for Microwaves*4
+perform an approximation of the
+
+coordinate transformation shown and explained in the previous section. How is this
+possible? The split-ring resonators act like the atoms or molecules of a normal optical
+or electromagnetic material: they absorb electromagnetic waves and re-emit them with
+a phase delay or advance that depends on their electromagnetic response. Like atoms
+or molecules, they are much smaller than the electromagnetic wavelength—3-mm cell
+size versus 3-cm wavelength in the case of the microwave cloaking device!5—such that
+the waves cannot resolve them individually but, rather, react to them as if they were a
+bulk material with electromagnetic properties that may differ from point to point. Unlike
+atoms or molecules, the electromagnetic response of each split-ring resonator is tailor-
+made because it depends on the shape of the resonator that can be easily modified.
+For example, in the case of the microwave-cloaking device,‘ the electromagnetic
+response depends on the capacitance that is varied by changing the length of the
+double stripes in the resonators. An unstructured circuit board reacts completely
+differently to the microwave radiation: it would simply reflect it like the mesh in the
+window of a microwave oven. A material with electromagnetic or optical properties that
+depends on structures much smaller than the wavelength is called a metamaterial.
+
+Metamaterials per se are nothing new; the ancient Romans invented the first optical
+metamaterial: ruby glass. The Romans probably did not know it, but their recipe for
+ruby glass contained one crucial ingredient:*” tiny gold droplets, typically 5-60
+nanometers (nm) in size. These gold particles color the glass in an extraordinary way,
+as demonstrated by the exquisite Lycurgus Cup shown in Figure 12. In daylight, the cup
+appears a greenish color, but illuminate it from the inside, and it glows ruby. The gold
+particles act like the split-ring resonators of the microwave-cloaking device,!® but here
+on light, not on microwave radiation. Light consists of electromagnetic waves as well,
+but with significantly smaller wavelengths of around 500 nm. The gold particles are
+thus much smaller than the wavelength of light, and they turn out to be resonators as
+well: in them, electric currents flow in a way that is dictated by their shapes and sizes.
+When the light wave hits the resonance of the gold particle, most of its energy is
+
+10
+UNCLASSIFIED / (5020555600 W-SE-OPHE

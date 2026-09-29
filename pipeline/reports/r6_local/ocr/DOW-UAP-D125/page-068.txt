@@ -1,0 +1,50 @@
+UNCLASSIFIED/ }FOA &FFI@IAL ~!II! er•t I 
+The proposal is to develop a revolutionary small IEC fusion power unit that could be 
+commercialized in time to impact the energy crisis we now face. This device would have 
+the aggressive goal of burning relatively inexpensive aneutronic p-11B fuel, avoiding 
+issues of tritium breeding and radioactivity that the D-T burning ITER type devices face. 
+This breakthrough technology is the resu lt of new understanding of ways to create a 
+deep potential electrostatic 'well' for improved confinement in an ion injected IEC. This 
+will be done with specially designed ion guns to inject ions into the IEC with strong 
+focus and controlled angular momentum. This concept builds on a combination of prior 
+sma ll scale experiments with gun injected IECs and simulation of their scale-up to 
+power production using particle-in-cell (PIC) codes and particle tracking analysis 
+described in earlier sections. The small size of the IEC is a key characteristic. If rapid 
+development is to be achieved, the ability to employ small size experiments is essential. 
+Fortunately, confinement scaling in the IEC is in velocity space (vs. physical space 
+which brings in reducing the surface-to-volume ratio), allowing breakeven and power 
+production in small-volume plasmas. 
+Thus in principle, energy breakeven could be demonstrated in the IEC in a very dense 
+plasma "core" occupying only a few cc volume with only a few l00's of watts in and 
+out. This extreme is not currently possible, but use of the new gun injected technology 
+to obtain breakeven in a dense plasma core in the IEC of l00 's of cc volume and with 
+20-25 kW input power seems practical. This proof-of-principle device would 
+demonstrate the physics of energy production and prnvide the basis for going rapidly 
+going to practical IEC power plants. This route could lead to power reactors for 
+distributed power applications in the range of a MW that are only a fraction of the size 
+of an ITER Tokamak type plant or even current fission nuclear plants. Small units of this 
+type could be rapid ly deployed to allow fusion power to have a real impact on t he 
+growing need for energy. Fusion power would then become a vital element in our goal 
+of energy independence. 
+VISION OF A FUTURE P-11 8 FUSION PLANT 
+In the ultimate power plant, the preferred fusion reaction would employ aneutronic p-
+11B fuel, which fuses to produce energetic alpha particles with no neutrons and minimal 
+radioactivity. This eliminates radioactive tritium breeding and corresponding tritium 
+inventory, activation and damage to reactor structural materials and the massive 
+shielding and radiation protection in traditional fission and D-T fusion reactor systems. 
+In this case, p-11B reactors in the central IEC core result in MeV energy alpha particles 
+according to the reaction: p+ 11B 3a. Due to its inherent non-Maxwellian (beam -like) 
+plasma, the IEC is especially well suited for burning a fuel such as p-11B which requires 
+high energies (~150 keV) . [See Figure 6.1]. In operation, a bulk of the IEC driving 
+energy is given to ions so an applied voltage of~ 180 kV provides ion energ ies nea r the 
+peak of the p-11B cross section. In contrast, in Maxwellian-type plasmas typical of 
+magnetic confinement devices, energy is expended t o create ions over a wide 
+distribution of energies. Thus, Tokomaks are designed to operate at much lower ion 
+energies (~20-30 keV) suitable for D-T fusion. The key physics challenge then for the 
+IEC is to achieve good ion confinement via strong ion trapping (i.e. large numbe r of 
+recirculations) in the potential well. This trapped plasma must meet the Lawson 
+criterion for energy to break -even with p-11B, n, ~ 1016 cm·3- sec (two orders of 
+magnitude above the requirement for D-T fusion). Here n is the ion density and -r is the 
+ion confinement time. Assuming the converged core density in the potential well of 
+UNCLASSIFIED/ }FOA: OFFICI0L: !!ii ODIL:¥ 
+61

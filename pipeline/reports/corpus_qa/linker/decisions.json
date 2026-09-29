@@ -1,0 +1,793 @@
+{
+  "generated_at": "2026-09-28T21:20:39.793154+00:00",
+  "decisions": [
+    {
+      "decision_id": "dec-0053",
+      "relationship": "same_event",
+      "status": "auto_supported",
+      "left": "1966-FBI-2ADA",
+      "right": "1966-FBI-C170",
+      "evidence": [
+        "intra-source continuity cues grouped phase rows into one episode",
+        "episode size=2",
+        "source=65_HS1-834228961_62-HQ-83894_Serial_449"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": "01",
+      "target_release": "01",
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0451",
+      "relationship": "same_event",
+      "status": "auto_supported",
+      "left": "UNDATED-FBI-82CCDD",
+      "right": "UNDATED-FBI-15D04A",
+      "evidence": [
+        "intra-source continuity cues grouped phase rows into one episode",
+        "episode size=4",
+        "source=DOW-UAP-D082.pdf"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": "03",
+      "target_release": "03",
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0453",
+      "relationship": "same_event",
+      "status": "auto_supported",
+      "left": "UNDATED-FBI-FEDFE7",
+      "right": "UNDATED-FBI-578E28",
+      "evidence": [
+        "intra-source continuity cues grouped phase rows into one episode",
+        "episode size=5",
+        "source=DOW-UAP-D082.pdf"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": "03",
+      "target_release": "03",
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0599",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "DOW-UAP-D077.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog pdf_pairing series label: Western US Event",
+        "series membership does not imply same_event",
+        "episodes from DOW-UAP-D077.pdf: 0"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": "03",
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0600",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "DOW-UAP-D078.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog pdf_pairing series label: Western US Event",
+        "series membership does not imply same_event",
+        "episodes from DOW-UAP-D078.pdf: 3"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": "03",
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0601",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "DOW-UAP-D079.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog pdf_pairing series label: Western US Event",
+        "series membership does not imply same_event",
+        "episodes from DOW-UAP-D079.pdf: 4"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": "03",
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0602",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "DOW-UAP-D080.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog pdf_pairing series label: Western US Event",
+        "series membership does not imply same_event",
+        "episodes from DOW-UAP-D080.pdf: 3"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": "03",
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0603",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "DOW-UAP-D081.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog pdf_pairing series label: Western US Event",
+        "series membership does not imply same_event",
+        "episodes from DOW-UAP-D081.pdf: 1"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": "03",
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0604",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "DOW-UAP-D082.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog pdf_pairing series label: Western US Event",
+        "series membership does not imply same_event",
+        "episodes from DOW-UAP-D082.pdf: 5"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": "03",
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0605",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "DOW-UAP-D083.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog pdf_pairing series label: Western US Event",
+        "series membership does not imply same_event",
+        "episodes from DOW-UAP-D083.pdf: 5"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": "03",
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0606",
+      "relationship": "media_for_event",
+      "status": "auto_supported",
+      "left": "FBI-UAP-D003.pdf",
+      "right": "evt-0424",
+      "evidence": [
+        "catalog PDF Pairing links FBI-UAP-D003 \u2192 FBI-UAP-D002",
+        "official catalog PDF pairing",
+        "primary narrative source FBI-UAP-D002.pdf"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": "03",
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0607",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "DOW-UAP-D077.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog series identifier western-us-event-2023",
+        "series membership does not imply same_event",
+        "episodes from DOW-UAP-D077.pdf: 0"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": "03",
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0608",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "DOW-UAP-D078.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog series identifier western-us-event-2023",
+        "series membership does not imply same_event",
+        "episodes from DOW-UAP-D078.pdf: 3"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": "03",
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0609",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "DOW-UAP-D079.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog series identifier western-us-event-2023",
+        "series membership does not imply same_event",
+        "episodes from DOW-UAP-D079.pdf: 4"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": "03",
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0610",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "DOW-UAP-D080.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog series identifier western-us-event-2023",
+        "series membership does not imply same_event",
+        "episodes from DOW-UAP-D080.pdf: 3"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": "03",
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0611",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "DOW-UAP-D081.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog series identifier western-us-event-2023",
+        "series membership does not imply same_event",
+        "episodes from DOW-UAP-D081.pdf: 1"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": "03",
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0612",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "DOW-UAP-D082.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog series identifier western-us-event-2023",
+        "series membership does not imply same_event",
+        "episodes from DOW-UAP-D082.pdf: 5"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": "03",
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0613",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "DOW-UAP-D083.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog series identifier western-us-event-2023",
+        "series membership does not imply same_event",
+        "episodes from DOW-UAP-D083.pdf: 5"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": "03",
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0614",
+      "relationship": "analysis_of_event",
+      "status": "auto_supported",
+      "left": "ICA-UAP-D001.pdf",
+      "right": "evt-0424",
+      "evidence": [
+        "analysis source text shares specific place token(s): ['cheyenne', 'cheyenne mountain']",
+        "target incident UNDATED-USA-599D8B from FBI-UAP-D002.pdf",
+        "place_prominence=lede_or_repeated"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": "03",
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0615",
+      "relationship": "analysis_of_event",
+      "status": "auto_supported",
+      "left": "ICA-UAP-D001.pdf",
+      "right": "evt-0582",
+      "evidence": [
+        "analysis source text shares specific place token(s): ['colorado']",
+        "target incident 2023-FBI-6A299C from FBI-UAP-D030.pdf",
+        "place_prominence=lede_or_repeated"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": "03",
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0616",
+      "relationship": "same_event",
+      "status": "review_supported",
+      "left": "evt-0263",
+      "right": "evt-0290",
+      "evidence": [
+        "shared specific place token(s): ['bakersfield']",
+        "matching year 1947",
+        "cross-source specific place overlap; review before consolidating events"
+      ],
+      "score_band": "medium",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0617",
+      "relationship": "same_event",
+      "status": "review_supported",
+      "left": "evt-0263",
+      "right": "evt-0295",
+      "evidence": [
+        "shared specific place token(s): ['bakersfield']",
+        "matching year 1947",
+        "cross-source specific place overlap; review before consolidating events"
+      ],
+      "score_band": "medium",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0618",
+      "relationship": "same_event",
+      "status": "review_supported",
+      "left": "evt-0108",
+      "right": "evt-0283",
+      "evidence": [
+        "shared specific place token(s): ['boise']",
+        "matching year 1947",
+        "cross-source specific place overlap; review before consolidating events"
+      ],
+      "score_band": "medium",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0619",
+      "relationship": "same_event",
+      "status": "review_supported",
+      "left": "evt-0108",
+      "right": "evt-0287",
+      "evidence": [
+        "shared specific place token(s): ['boise']",
+        "cross-source specific place overlap; review before consolidating events"
+      ],
+      "score_band": "medium",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0620",
+      "relationship": "same_event",
+      "status": "review_supported",
+      "left": "evt-0108",
+      "right": "evt-0483",
+      "evidence": [
+        "shared specific place token(s): ['boise']",
+        "matching year 1947",
+        "cross-source specific place overlap; review before consolidating events"
+      ],
+      "score_band": "medium",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0621",
+      "relationship": "same_event",
+      "status": "review_supported",
+      "left": "evt-0283",
+      "right": "evt-0120",
+      "evidence": [
+        "shared specific place token(s): ['boise']",
+        "matching year 1947",
+        "cross-source specific place overlap; review before consolidating events"
+      ],
+      "score_band": "medium",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0622",
+      "relationship": "same_event",
+      "status": "review_supported",
+      "left": "evt-0283",
+      "right": "evt-0147",
+      "evidence": [
+        "shared specific place token(s): ['boise']",
+        "matching year 1947",
+        "cross-source specific place overlap; review before consolidating events"
+      ],
+      "score_band": "medium",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0623",
+      "relationship": "same_event",
+      "status": "review_supported",
+      "left": "evt-0283",
+      "right": "evt-0483",
+      "evidence": [
+        "shared specific place token(s): ['boise']",
+        "matching year 1947",
+        "cross-source specific place overlap; review before consolidating events"
+      ],
+      "score_band": "medium",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0624",
+      "relationship": "same_event",
+      "status": "review_supported",
+      "left": "evt-0120",
+      "right": "evt-0287",
+      "evidence": [
+        "shared specific place token(s): ['boise']",
+        "cross-source specific place overlap; review before consolidating events"
+      ],
+      "score_band": "medium",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0625",
+      "relationship": "same_event",
+      "status": "review_supported",
+      "left": "evt-0120",
+      "right": "evt-0483",
+      "evidence": [
+        "shared specific place token(s): ['boise']",
+        "matching year 1947",
+        "cross-source specific place overlap; review before consolidating events"
+      ],
+      "score_band": "medium",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0626",
+      "relationship": "same_event",
+      "status": "review_supported",
+      "left": "evt-0378",
+      "right": "evt-0489",
+      "evidence": [
+        "shared specific place token(s): ['bakersfield']",
+        "matching year 1948",
+        "cross-source specific place overlap; review before consolidating events"
+      ],
+      "score_band": "medium",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0627",
+      "relationship": "same_event",
+      "status": "review_supported",
+      "left": "evt-0378",
+      "right": "evt-0490",
+      "evidence": [
+        "shared specific place token(s): ['bakersfield']",
+        "matching year 1948",
+        "cross-source specific place overlap; review before consolidating events"
+      ],
+      "score_band": "medium",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0628",
+      "relationship": "same_event",
+      "status": "review_supported",
+      "left": "evt-0378",
+      "right": "evt-0491",
+      "evidence": [
+        "shared specific place token(s): ['bakersfield']",
+        "matching year 1948",
+        "cross-source specific place overlap; review before consolidating events"
+      ],
+      "score_band": "medium",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0629",
+      "relationship": "same_event",
+      "status": "review_supported",
+      "left": "evt-0378",
+      "right": "evt-0492",
+      "evidence": [
+        "shared specific place token(s): ['bakersfield']",
+        "matching year 1948",
+        "cross-source specific place overlap; review before consolidating events"
+      ],
+      "score_band": "medium",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0630",
+      "relationship": "same_event",
+      "status": "review_supported",
+      "left": "evt-0379",
+      "right": "evt-0489",
+      "evidence": [
+        "shared specific place token(s): ['bakersfield']",
+        "matching year 1948",
+        "cross-source specific place overlap; review before consolidating events"
+      ],
+      "score_band": "medium",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0631",
+      "relationship": "same_event",
+      "status": "review_supported",
+      "left": "evt-0379",
+      "right": "evt-0490",
+      "evidence": [
+        "shared specific place token(s): ['bakersfield']",
+        "matching year 1948",
+        "cross-source specific place overlap; review before consolidating events"
+      ],
+      "score_band": "medium",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0632",
+      "relationship": "same_event",
+      "status": "review_supported",
+      "left": "evt-0379",
+      "right": "evt-0491",
+      "evidence": [
+        "shared specific place token(s): ['bakersfield']",
+        "matching year 1948",
+        "cross-source specific place overlap; review before consolidating events"
+      ],
+      "score_band": "medium",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0633",
+      "relationship": "same_event",
+      "status": "review_supported",
+      "left": "evt-0379",
+      "right": "evt-0492",
+      "evidence": [
+        "shared specific place token(s): ['bakersfield']",
+        "matching year 1948",
+        "cross-source specific place overlap; review before consolidating events"
+      ],
+      "score_band": "medium",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0634",
+      "relationship": "same_event",
+      "status": "review_supported",
+      "left": "evt-0287",
+      "right": "evt-0147",
+      "evidence": [
+        "shared specific place token(s): ['boise']",
+        "cross-source specific place overlap; review before consolidating events"
+      ],
+      "score_band": "medium",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0635",
+      "relationship": "same_event",
+      "status": "review_supported",
+      "left": "evt-0287",
+      "right": "evt-0483",
+      "evidence": [
+        "shared specific place token(s): ['boise']",
+        "cross-source specific place overlap; review before consolidating events"
+      ],
+      "score_band": "medium",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0636",
+      "relationship": "same_event",
+      "status": "review_supported",
+      "left": "evt-0291",
+      "right": "evt-0147",
+      "evidence": [
+        "shared specific place token(s): ['seattle']",
+        "matching year 1947",
+        "cross-source specific place overlap; review before consolidating events"
+      ],
+      "score_band": "medium",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0637",
+      "relationship": "same_event",
+      "status": "review_supported",
+      "left": "evt-0297",
+      "right": "evt-0147",
+      "evidence": [
+        "shared specific place token(s): ['seattle']",
+        "matching year 1947",
+        "cross-source specific place overlap; review before consolidating events"
+      ],
+      "score_band": "medium",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0638",
+      "relationship": "same_event",
+      "status": "review_supported",
+      "left": "evt-0147",
+      "right": "evt-0483",
+      "evidence": [
+        "shared specific place token(s): ['boise']",
+        "matching year 1947",
+        "cross-source specific place overlap; review before consolidating events"
+      ],
+      "score_band": "medium",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0639",
+      "relationship": "same_event",
+      "status": "review_supported",
+      "left": "evt-0401",
+      "right": "evt-0441",
+      "evidence": [
+        "shared specific place token(s): ['sary shagan']",
+        "matching year 1973",
+        "cross-source specific place overlap; review before consolidating events"
+      ],
+      "score_band": "medium",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    }
+  ]
+}

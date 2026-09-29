@@ -1,0 +1,47 @@
+UNCLASSIFIED/ /P'OR: OP'P'l@IAL WS& 0Nk¥ 
+Only a few BioMEMS applications are well known for implanted devices and these are 
+used for positioning and repositioning of sensors. A specific example is application to 
+brain-electrode systems. 
+BRAIN-IMPLANTED BIOMEMS MICROMACHINE NEUROELECTRODES 
+There are applications in biomedicine and research where very small electrodes are 
+implanted into the brain. These microelectrodes are used in the cortex (surface layer) 
+to detect electrical activity associated with the volitional desire to move some part of 
+the body. Electrical activity is recorded as a very small change in voltage within the 
+tissue. 
+Near the top of the human head and about 2 cm beneath the scalp lie the parts of the 
+brain where nerve cells (neurons) are found which control the muscles of the body. 
+Specific locations in the cortex are associated with specific parts of the body. When a 
+person moves a limb , there can be detected a corresponding electrical activity of these 
+neuro ns. Neuroscient ists have recorded these signals and developed a kind of map of 
+the brain t hat defines what brain cells actuate certain muscles of the body. 
+An interesting phenome non occurs in which some of these brain cells become active 
+even when there is intent to move a limb but no actua l movement occurs . In a healt hy 
+person the intent to move can be detected by measureme nt of microvolt signals from 
+the brain cells about 120 milliseconds before any muscle movement occurs. In a person 
+who has lost a limb or has become paralyzed, the intent to move can still be detected in 
+the brain even though there is no limb movement. 
+Thus in principle there is an ability to electr ically record from the brain and dete rmine a 
+person's intent to move. Monitoring of the brain is accomplished by using an array of 
+implanted microelectrodes whose signals ant icipate movement of specific limbs. These 
+signals can in turn be used to contro l machines. This is the idea behind advanced 
+devices that allow quadrip legics to interact with their environment. Signals from 
+implanted electrodes are used by computers to control robotic actuators. 
+A problem recording t he signals occurs because the body naturally tends to encapsulate 
+the electrodes with scar tissue, meaning the electrodes lose electrica l contact with the 
+neuro ns. A solutio n to this problem incorporates a very small electromechan ical 
+actuator attached to the electrode. This device allows the implanted electrodes to 
+change their position occasionally in order to continue to monito r n eural events . By 
+moving t he thin rod-like electrode up or down a small distance after several months of 
+implantat ion, the useful lifetime of the electrode array can be greatly extended. 
+The BioMEMS device described here is meant to be implanted under the skull and on 
+top of the brain cortex . It allows fine adjustme nt of less tha n a millimeter in order to 
+make sure the electrode system, once implanted, is able to contact the desired brain 
+cells even after the electrode has been encapsulated by scar tissue over t ime. 
+Figure 2 shows a photomicrograph of a gear -driven micromachine that was made 
+through collaboration between ASU and Sandia Nationa l Laboratories. The device is 
+driven by an electrostatic vibrating comb moto r . Under a m icroscope it can be seen that 
+the combs move in an oscillatory fashion at about 40 Hz when energized . Electrostat ic 
+forces between two blade- like combs a few tens of microns apart are operative with 
+about 15 volts as the electric field source. 
+UNCLASSIFIED/ {FOR OFFICIO! !PEii QDlk¥ 
+4

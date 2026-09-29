@@ -1,0 +1,33 @@
+UNCLASSIFIED/ /PO lt Of f l@IA L WS& &NkY 
+Appendix C: Antimatter Annihilation Rocket 
+•'• . positron 
+antiproton 
+stable antihydrogen atom 
+Figure 16. Antihydrogen Atom. 
+Using data from Table 3, the only propu lsion system that can generate higher l sp than 
+fusion will be due to ant imatter annih ilation. By using the Relativistic Rocket Worksheet 
+in Appendix D, it is possible to decrease the time to reach Proxima Centauri to only 
+18.5 years by accelerating at 0.05 g to reach 43% of the speed of light. By using 
+antihydrogen, two annihilation mechanisms are possible: 
+• Electron-positron annihilation releases one energetic gamma ray (1.022 MeV) or, in 
+the presence of a nucleus, two 0.511 -MeV gamma rays . There is no effective way 
+to reflect gamma rays, but they can be absorbed with suitable shield ing and the ir 
+energy converted into heat. Research into designs that convert gamma ray heat 
+into propulsion or electrica l power should proceed over the next 10 to 20 years. 
+• Proton-antiproton annihilation releases charged and neutral pions, which decay after 
+about 0.026 microseconds into charged muons and neutrinos. The charged pions 
+can be used to directly generate thrust or to make electricity if they are directed by 
+electromagnets. Unfortunate ly, 40% of the pions will be neutral and quickly decay 
+into gamma radiation, which are lost from the system or absorbed in the rocket 
+chamber wall and generate heat . Muons also decay into charged part icles (electrons 
+and positrons), along with neutrinos. Neutrinos and antineutrinos, along with their 
+energy, are lost from the system. Novel rocket designs that capture gamma 
+radiation with a tungsten insert allow the waste heat to be used to accelerate a 
+propellant, such as hydrogen, to generate additional thrust. This system was 
+proposed by Robert Frisbee and Ulrich Walter and deserves further study. 24 Efficient 
+ways to redirect the energy of gamma rays into thrust should be a major focus of 
+research. 
+Antimatter propulsion is fairly straightforward since ignition is not a problem. By 
+mix ing hydrogen with ant ihydrogen, annihilation begins immediately. Antimatter 
+UNCLASSIFIED/fF&A &FFI&I:.l.k W&li &NkY 
+36

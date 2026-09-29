@@ -1,0 +1,58 @@
+UNCLASSIFIED / 4POR-OFFL6PA4-USE-OP
+
+frequency on the order of tens of mHz for d = 5 nm and n = 1.46 (for SiOz dielectric).
+This result is more than two orders of magnitude larger than the force which the VIRGO
+gravitational wave antenna is expected to detect at several tens of Hz. If one could
+fabricate a device consisting of 10° layers, then Fecexp ~ 10-1! N. This suggests that
+cavities made from thin-film deposited surfaces or photonic band-gap materials would
+be the best approach for fabricating a multilayer Casimir device.
+
+Bimonte et al. (Reference 63-65) also derived Equation (24) for this very same problem
+by using Green-function techniques in the Schwinger-DeWitt quantum ether
+prescription for (rT) _ ina curved spacetime. They also computed the weak
+gravitational field-induced correction terms for the Casimir pressure on the plates,
+(7°), and the total energy (Ecanv) Stored in the Casimir device which is given by
+
+(Reference 63,64):
+
+al 5 2)
+—_ = +—-—
+720d 2¢
+
+FeasGrav = (27)
+
+in Joules (J). The correction terms for the different (measurable) physical quantities of
+interest are generally ~ gic’.
+
+Finally, Calloni et al. point out that the overriding concern with performing an
+experiment to test Fecexp is whether cavities can be made sufficiently rigid, if the effect
+of surface roughness and defects can be quantified to improve the force estimate, and if
+the necessary signal modulation can be achieved in the lab. However, micro- and nano-
+manufacturing is maturing to the point where rigidity, surface roughness, and close
+plate separations are becoming routinely controllable. While the numerical estimate for
+Fccexp is quite feeble, it is still significant since it is at the very low end of the
+macroscopic scale, and it might be possible to devise advanced methods to magnify the
+force to a magnitude that benefits a propulsion application. However, the upward force
+will have to be larger than the weight of the propulsion system in order to achieve
+levitation. This could be very difficult to do, but this is a concept that is ripe for further
+exploration.
+
+ANTIGRAVITY VIA NONRETARDED QUANTUM INTERATOMIC
+DISPERSION FORCE
+
+Pinto (Reference 66) evaluated the net lifting force produced by nonretarded
+electrostatic dipole-dipole interactions (that is, nonretarded van der Waals dispersion
+forces) acting on a quantum system of polarizable particles in a curved spacetime. The
+foundation of Pinto’s study was the original discovery made by Fermi (Reference 67)
+that classical electrostatic theory must be reformulated in a curved spacetime in order
+to properly evaluate the effects of gravitation upon the Coulomb electric field of a single
+charged particle. In this case, the Laplace equation of electrostatics for a single charged
+particle can be generalized in the presence of a gravitational field and then extended to
+show that a system of classical charged particles undergoes a gravity-induced self-
+lifting force. Fermi and other investigators arrived at this counterintuitive result by
+computing the gravity-induced self-force acting on an isolated electric dipole in a weak
+gravitational field and showing that the self-force (times dipole size) is exactly equal to
+the gravitational equivalent of the electrostatic internal energy of the dipole.
+
+21
+UNCLASSIFIED / /+OR-OFFIGHH-USE-ONE

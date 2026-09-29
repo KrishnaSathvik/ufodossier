@@ -1,0 +1,36 @@
+UNCLASSIFIED/ /FOA OFFl&IAk YSE 8HLV 
+Chapter 2: Fusion Plasma Physics 
+At the most basic level, nuclear fusion occurs by forcing atomic nuclei close enough so 
+that the attractive strong force (which binds nuclei together) overwhelms the very 
+powerful electromagnetic repulsion force. Under such circumstances the nuclei fuse 
+together to form a single nucleus, creating an atom of a different element (along with 
+byproducts such as radiation and neutrons). Because the strong force dominates over 
+such short-length scales ( ~10- 15 meter, the diameter of a medium -sized nucleus), the 
+fusion of heavier nuclei are inherently more unstable, with smaller binding energ ies. For 
+light nuclei, the binding energies of the individual nuclei are significantly smaller than 
+that of the fused nucleus; it is the released energy of the fusion process (in the form of 
+high-energy photons or kinetic energy of nuclear products such as neutrons) that is 
+sought as an energy source. Table 1 shows Fusion reactions including the relevant 
+aneutronic fusion reactions. 
+Table 1: Principal Fusion Reactions 
+E (M eV)Main ,,rro/1 d I i 11 ue / 
++T-a:+ n 17.5 
+T +p 
+{+ 3 H c + n 
++y 
+T + T - a:+_ n 
+d1 •a,1 ed fu i II fuel 
++ ~, C--+ + p 
+p+ L i-+ a,+ H 
+r>+7 i- 0" 
+r>+ II - 30' 
+To fuse a sufficient number of nuclei within a span of time for practical use, it is 
+generally necessary to heat an ensemble of atoms to the very high energies shown in 
+Table 1. These energies (temperatures) are high enough that electrons are stripped 
+from their associated nuclei, produc ing a plasma of free electrons and ions. The fusion 
+reaction cross sections (cr), the probability of interaction for these reactions in barns = 
+10-28 m2, is shown in Figure 1. For the maximum reaction rate temperature, the ratio of 
+the total amount of energy (kinetic plus radiation) released in the fusion reaction 
+relative to the bremsstrahlung radiation released is shown in Table 2. 
+UNCLASSIFIED/ /POR. o,,1e1AL l:ISE 8Hk\S 
+3

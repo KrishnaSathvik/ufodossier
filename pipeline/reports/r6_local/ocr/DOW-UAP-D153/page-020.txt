@@ -1,0 +1,31 @@
+UNCLASSIFIED/ /FOR QFFI€ilAL l::l!H! 61\LI 
+between the strength of the negat ive energy density/flux and the behavior of the 
+detector . 
+It is curious that Davies and Ottewill did not consider using quantum opt ical homodyne 
+tomography as a tool to test their hypothesis, because this is already a mature 
+experimental discipline. In what follows we outline the basics of quantum optical 
+homodyne tomography and its application to detecting and measur ing negative energy 
+density/flux states in squeezed light and in the Casimir effect. 
+Basic Notions of Quantum Optical Homodyne Tomography 
+Tomography, from the Greek word for slice, is a method to infer the shape of a hidden 
+object from its shadows (or projections) under various angles. Quantum tomography is 
+the application of this idea to quantum mechanics. In optical homodyne tomography, 
+the Wigner function or, more generally, the quantum state plays the role of the hidden 
+object. The observable "quantum shadows" are the quadrature distributions and are 
+measured using homodyne detection. From these distributions the Wigner function is 
+reconstructed. See Figure 3 for an illustration of quantum optical homodyne 
+tomography. The vert ical 2-dimensional plane seen in the figure is fictitious and is 
+shown for illustrative purposes only. 
+Figure 3. Illustration of Quantum Optical Homodyne Tomography (courtesy of Ulf Leonhardt) . 
+The Wigner function (3-dimensional hill on the right) is reconstructed in quantum phase space 
+(gridded plane formed by quadratures q and p) from its experimentally measured projections (curve in 
+vertical 2-dimensional plane), which represents the scanning process of tomography. The vertical axis 
+is the magnitude of the Wigner (quasiprobability) function. 
+Quantum tomography was developed for the simple reason that a fundamental feature 
+of quantum mechanics prevents us from seeing physical objects in their full quantum 
+complexity. This is due to the intrinsic fuzziness in the quantum nature of energy and 
+matter according to the Heisenberg Uncertainty Principle, which prevents us from 
+simultaneously and precisely measuring the complementary features (e.g., position and 
+momentum or energy and time) compris ing quantum states. For this reason we cannot 
+UNCLASSIFIED/ ;<fQA QFFl&l.t..k YSE 8,.L'&' 
+16

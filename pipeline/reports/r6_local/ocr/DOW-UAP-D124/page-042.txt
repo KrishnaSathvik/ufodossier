@@ -1,0 +1,34 @@
+UNCLASSIFIED/ fFOlil OFFl&IAl l:ISlii 8,.lY 
+but we believed new launch comp lexes would be required to achieve the desired launch 
+rates and to accommodate sustained -use vehicles. 
+This all seems impossible given today's launch operat ions and preparation t ime, but in 
+1964 it was considered possible both in the United States and in the former Soviet 
+Union . It appears that two known companies proposed on the MOL support system, as 
+shown in Figure 38. The Model 176 prelim inary launches were to be on a Martin Titan 
+IIIC. This was adequate for testing, but the minimum launches for one year of support 
+of MOL was 74 launches. That 74 Titan IIICs cou ld achieve a sustained manufacturing 
+rate or a susta ined launch rate was not considered. So both Lockheed Aircraft and 
+McDonnell Douglas proposed a self-sustained operational system using recoverab le 
+lateral propellant tanks. There were no engines on the latera l tanks as the re were in 
+the aircraft since they were simp ly drop tanks. 
+Lockh e ed Star Clipper 
+ci rca 1964 
+Figure 38. A 1964 MDC Astronautics, St. Louis, Briefing Defined a MOL Support System With 10 
+Launchers That Could Fly 100 Missions a Year for 15 Years. Lockheed Aircraft a nd McDonnell Douglas both 
+had candidates. 
+Atmospheric Variations 
+The published approach to determ ining glide range is to assume the globa l atmosphere 
+definition is a series of concentric, constant-density shells. The 1962 standa rd 
+atmosphere follows the 1959 standard atmosphere and previous standards. NAVAIR-5-
+lC-59, Harold Crutchner, 28 deta ils the Northern Hemisphere by month for every 10 
+degrees of longitude from 1931 to 1964. According to Crutchner, these atmosphere 
+descript ions were not intended to be engineer ing atmospheres but to be standards to 
+ensure that aircraft flying globally would have adequate altit ude clearance. The 1962 
+atmosphere represents the average of all daily reports by the worldw ide report ing 
+stations between +30 and +60 degrees latitude for the spring and fall equinox minus 
+one month to plus one month represented as a +45 degree average atmosphere . 
+UNCLASSIFIED/ /FOlil OFFI&IAl l:ISlii 8Ptllf 
+McDonnell Douglas 
+Model 176 
+circa 1964 
+35

@@ -1,0 +1,193 @@
+{
+  "generated_at": "2026-09-28T21:20:40.030229+00:00",
+  "verdict": "CORPUS_QA_COMPLETE",
+  "production_writes": 0,
+  "deploy": 0,
+  "gpt6": "off",
+  "linker_v1_1": false,
+  "official_records": 450,
+  "buckets": {
+    "pdf_processed": 142,
+    "pdf_source_only": 125,
+    "video_metadata_only": 134,
+    "audio_metadata_only": 16,
+    "unrecoverable": 3,
+    "image_metadata_only": 30
+  },
+  "releases": [
+    {
+      "release": "R1",
+      "records": 158,
+      "pdfs": 116,
+      "media": 42,
+      "extract": 75,
+      "source_only": 38,
+      "accepted": 380
+    },
+    {
+      "release": "R2",
+      "records": 64,
+      "pdfs": 6,
+      "media": 58,
+      "extract": 4,
+      "source_only": 2,
+      "accepted": 12
+    },
+    {
+      "release": "R3",
+      "records": 72,
+      "pdfs": 53,
+      "media": 19,
+      "extract": 39,
+      "source_only": 14,
+      "accepted": 150
+    },
+    {
+      "release": "R4",
+      "records": 40,
+      "pdfs": 14,
+      "media": 26,
+      "extract": 8,
+      "source_only": 6,
+      "accepted": 16
+    },
+    {
+      "release": "R5",
+      "records": 41,
+      "pdfs": 22,
+      "media": 19,
+      "extract": 9,
+      "source_only": 13,
+      "accepted": 10
+    },
+    {
+      "release": "R6",
+      "records": 75,
+      "pdfs": 59,
+      "media": 16,
+      "extract": 7,
+      "source_only": 52,
+      "accepted": 15
+    }
+  ],
+  "local_accepted_r2_r6": 203,
+  "r1_unflagged_in_linker": 380,
+  "r1_flagged_excluded": 100,
+  "canonical_events": 575,
+  "event_series": 1,
+  "series_event_counts": {
+    "western-us-event-2023": 21
+  },
+  "decisions": 44,
+  "decision_breakdown": {
+    "same_event": 27,
+    "same_series": 14,
+    "media_for_event": 1,
+    "analysis_of_event": 2
+  },
+  "status_breakdown": {
+    "auto_supported": 20,
+    "review_supported": 24
+  },
+  "same_release_decisions": 3,
+  "cross_release_decisions": 0,
+  "cross_release_by_relationship": {},
+  "colorado_springs_pass": true,
+  "western_us_pass": true,
+  "overmerge_unresolved": 0,
+  "overmerge_needs_review": 0,
+  "underlink_high_confidence_unresolved": 0,
+  "evidence_unsupported": 0,
+  "extraction_failed": 0,
+  "classifier_anomalies": 0,
+  "r1": {
+    "production_incidents": 480,
+    "unflagged": 380,
+    "flagged": 100,
+    "flag_reasons": {
+      "duplicate_excerpt": 100
+    },
+    "valid_unflagged": 380,
+    "map_cleanly_to_source_record": 376,
+    "unflagged_without_source_record": 4,
+    "unflagged_without_source_record_rows": [
+      {
+        "case_id": "2023-USAF-24C074",
+        "title": "F-16 Flight Observes Multiple Bright Maneuvering Objects",
+        "filename": "DOW-UAP-D20, Mission Report, Southern United States, 2020",
+        "flagged": false
+      },
+      {
+        "case_id": "1965-NASA-E762B7",
+        "title": "Gemini 7 Particle Field Sighting",
+        "filename": "NASA-UAP-D3, Gemini 7 Transcript, 1965",
+        "flagged": false
+      },
+      {
+        "case_id": "1965-NASA-EE52BC",
+        "title": "Gemini 7 Bogey at Ten O'Clock High",
+        "filename": "NASA-UAP-D3, Gemini 7 Transcript, 1965",
+        "flagged": false
+      },
+      {
+        "case_id": "UNDATED-FBI-6DDF67",
+        "title": "Flying Saucer Photographed at Oak Ridge, Tennessee",
+        "filename": "65_HS1-834228961_62-HQ-83894_Serial_153",
+        "flagged": false
+      }
+    ],
+    "flagged_stay_excluded": 100,
+    "historical_rows_superseded": 0,
+    "need_no_change": 376,
+    "official_r1_records": 158,
+    "production_r1_source_records": 158,
+    "source_files": 181,
+    "source_files_linked": 160,
+    "source_files_unlinked": 21,
+    "unlinked_filenames": [
+      "DOW-UAP-D20, Mission Report, Southern United States, 2020",
+      "59_64634_711.5612[7-2852",
+      "65_HS1-834228961_62-HQ-83894_Serial_153",
+      "NASA-UAP-D3, Gemini 7 Transcript, 1965",
+      "FBI-Photo-1.jpg",
+      "FBI-Photo-A5.jpg",
+      "FBI-Photo-B2.jpg",
+      "FBI-Photo-B7-.jpg",
+      "FBI-Photo-B18.jpg",
+      "NASA-UAP-VM6-Apollo-17-1972.jpg",
+      "DOW-UAP-PR26-Unresolved-UAP-Report-United-Arab-Emirates-October-2023.jpg",
+      "DOW-UAP-PR35-Unresolved-UAP-Report-Greece-October-2023.jpg",
+      "DOW-UAP-PR38-Unresolved-UAP-Report-Middle-East-2013.jpg",
+      "DOW-UAP-PR45-Unresolved-UAP-Report-Middle-East-2020.jpg",
+      "DOW-UAP-PR46-Unresolved-UAP-Report-INDOPACOM-2024.jpg",
+      "FBI-Photo-B20.jpg",
+      "DOW-UAP-PR19-Unresolved-UAP-Report-Middle-East-May-2022.jpg",
+      "DOW-UAP-PR34-Unresolved-UAP-Report-Greece-October-2023.jpg",
+      "DOW-UAP-PR43-Unresolved-UAP-Report-Africa-2025.jpg",
+      "DOW-UAP-PR49-Unresolved-UAP-Report-Department-of-the-Army-2026.jpg",
+      "2024-04-30-Composite-Sketch.jpg"
+    ],
+    "r1_unlinked_official": [
+      {
+        "external_id": null,
+        "title": "59_64634_711.5612[7-2852",
+        "reason": "r1_official_record_not_linked_url_drift"
+      },
+      {
+        "external_id": null,
+        "title": "65_HS1-834228961_62-HQ-83894_Serial_153",
+        "reason": "r1_official_record_not_linked_url_drift"
+      },
+      {
+        "external_id": "DOW-UAP-D020",
+        "title": "DOW-UAP-D020, Mission Report, Iraq, 2023",
+        "reason": "r1_official_record_not_linked_url_drift"
+      }
+    ],
+    "official_identity_keys": 158,
+    "note": "R1 was not re-extracted. Unflagged rows stay the published baseline. Flagged duplicate_excerpt rows stay excluded."
+  },
+  "watch_dispositions": {
+    "explained": 9
+  }
+}

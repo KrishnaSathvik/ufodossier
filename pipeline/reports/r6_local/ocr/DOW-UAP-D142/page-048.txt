@@ -1,0 +1,56 @@
+UNCLASSIFIED / /F@R-OFFTGEAL-USE-ONE—
+
+Appendix: The QCD Bag Model
+
+When considering the effective masses of quarks bound within hadrons, it is common to
+think of the constituent masses of the quark and antiquark pair as their zero-point
+energy (ZPE) when they are bound by the confining potential?> (acting between a quark
+and an antiquark) with an energy spectrum that corresponds to the masses of the
+observed mesons. For charm, and heavier quarks, it appears that the total ZPE is not
+much different from the masses of the lowest-lying meson states. This picture also
+holds true for baryons. The quark-gluon model for hadrons is called “the bag model.”
+
+Even in an “empty” bag—that is, one containing no quarks—there will be nonzero fields
+present because of quantum zero-point fluctuations (ZPF). This gives rise to a zero-
+point (ZP) or Casimir energy inside the empty bag. The estimated total ZP/Casimir
+energy of the confined gluon field inside a spherical bag is Ezp = +0.7/a (or +0.7Ac/a in
+MKS units), where a is the radius of the bag in GeV units. Ezp is numerically the entire
+story because the ZPE contribution of the confined fermion (quark) field is far smaller
+than Eze (the leading approximation per degree of freedom is down by two orders of
+magnitude). A typical empty bag has an estimated radius a ~ 2.6 GeV! (0.5 fm), so Ezp
+~ 10 GeV (or 10-1! J), and this result remains approximately true if one uses a = 5.07
+GeV! (1 fm) for a nucleon-sized bag. If the bag contains quarks, then this result does
+not change because the quarks don’t affect the ongoing quantum ZPF inside the bag
+due to asymptotic freedom.
+
+The inventor of the empty bag model (Ken Johnson) proposed that space is filled with
+closely packed empty bags, and that the energy of space filled with contiguous bags is
+simply the sum of the field energies contained within each bag. But this is not widely
+accepted since the phenomenologically preferred model for the exterior “ordinary”
+vacuum is given as follows.
+
+QCD color confinement in hadrons is approximated by the phenomenologically
+successful “bag model.” In this model, the “ordinary” vacuum external to hadrons is a
+perfect color magnetic (or chromomagnetic) conductor; that is, the chromomagnetic
+permeability u is infinite, while the chromomagnetic vacuum in the interior of the bag is
+characterized by nu = 1. This implies that the color electric (Eacb) and magnetic (Bacp)
+fields are confined to the interior of the bag, and that they satisfy the following
+boundary conditions on its surface S: n- Eoco|s = 0, n x Baco|s = 0, where nis a unit
+normal vector to S. In other words, this model defines QCD vacua that coexist in two
+phases: 1) an ordinary vacuum exterior to the bag, impenetrable to color; and 2) a
+vacuum interior of the bag, in which the Yang-Mills fields that carry color (gluons)
+propagate freely. Both phases are separated by the surface boundary of the bag upon
+which the Yang-Mills and fermion (quark) field satisfy the aforementioned boundary
+
+25 Quarks carry “color charge” as well as electric charge. Color charge is considered to be the “true” charge of
+strong interactions. Gluons are the “photons” of strong interactions, and color is exchanged by eight bicolored
+gluons, which are massless and have spin 1. Color interactions are assumed to be a copy of electromagnetic
+interactions. Theoretical and phenomenological studies found that the confining potential V(r) lies between a
+
+Coulomb and a harmonic oscillator potential: V(r) =—(4a, /3r)+kr, where r is the radial distance between
+confined quarks, k is a constant parameter, and . is the color factor associated with as for the case of quark-
+
+antiquark pair confinement in mesons. For the case of baryons (qqq), the color factor in V(r) is replaced by : F
+
+42
+UNCLASSIFIED/ AEQR.OEEICT ALAS Ba piles

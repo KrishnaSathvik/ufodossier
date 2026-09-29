@@ -1,0 +1,47 @@
+UNCLASSIFIED / /FOR-OFFECGHH-USE-OAL
+
+If rs is the horizontal radius up to which the rocks at a certain depth have to be
+shattered (cylindrical case), one finds by equating p(r) in (115) and (117)
+
+1/9 ed
+r
+
+The total energy required to shatter the rocks to make a tunnel from the center at the
+moon where r = 0, to its surface where r = R, is then given by summing up over the
+
+slices with radius rs and thickness dr
+
+2/9 R 2 2/9
+2 Pm r
+E=ar'e,| —™ 1-(£] dr , (117)
+: f Po | ( R |
+
+where as in eqn (110) €, = 10'°erg/cm’ is the cohesive binding energy of the rocks. For
+
+(119) one can write
+
+|
+
+E= ar *Ré, ( (Pax / Po) ” [(I- : (118)
+
+0
+
+With the help of Euler’s betafunction one has
+
+2°9 2
+
+flier)” dx = aaa 5. awe (119)
+
+Hence,
+
+E=(2°?/2)r°RE, (Prox! Po) (120)
+Inserting % =2x10°cm, R=1.74x10%cm, €, =10'°erg/em’ , ( Pyax/ Py) =5*10"* , one
+finds that E=2x10“erg = 5x10° kiloton = 50 Megaton.
+
+It must be emphasized that this energy must be quite nonuniformly released along the
+tunnel shaft. Nuclear fusion explosions below a yield of 10 kiloton become
+uneconomical with only a fraction of the energy in the fissionable material (needed to
+
+36
+
+UNCLASSIFIED S/F OR OPPICTAL USE ONT

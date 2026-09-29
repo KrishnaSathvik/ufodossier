@@ -1,4 +1,4 @@
-import { TopBar } from "@/components/TopBar";
+import { HeaderShell } from "@/components/HeaderShell";
 import { Footer } from "@/components/Footer";
 import { getSupabaseServer } from "@/lib/supabase";
 import Link from "next/link";
@@ -42,7 +42,7 @@ export default async function CollectionsPage() {
 
   return (
     <>
-      <TopBar active="collections" />
+      <HeaderShell active="collections" />
 
       <main className="max-w-content mx-auto px-4 md:px-6">
         <section className="pt-16 md:pt-24 pb-10 md:pb-14">
@@ -50,13 +50,13 @@ export default async function CollectionsPage() {
             Collections
           </h1>
           <p className="font-serif italic text-lg text-ink-dim max-w-prose">
-            Curated groupings of declassified incidents, organized by agency, era, and sensor type.
+            Curated groups of published case files, organized by agency, era, and sensor.
           </p>
         </section>
 
         {collections.length === 0 ? (
           <p className="py-12 text-center text-ink-faint">
-            No collections yet. Pipeline pending.
+            No collections are listed yet.
           </p>
         ) : (
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 pb-14">
@@ -73,7 +73,7 @@ export default async function CollectionsPage() {
                   {c.standfirst}
                 </p>
                 <span className="text-xs text-ink-faint font-sans">
-                  {c.incident_count} incidents &rarr;
+                  {c.incident_count} case files &rarr;
                 </span>
               </Link>
             ))}

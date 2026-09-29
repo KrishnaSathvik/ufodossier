@@ -1,0 +1,28 @@
+UNCLASSIFIED/ /P'OR. 8FFIEil1'1.k lellii Ql'II.¥ 
+Comparing this result with (66), one sees that he would obtain the same distance d', if 
+he uses a contracted rod as a measuring stick, or Einsteins's constant light velocity 
+postulate. The velocity of light between A and B by using a rod to measure the distance 
+and the time it takes a light signal in going from A to B and back to A, of course, will 
+turn out to be equal to c, because according to (72) 
+2d' 
+---=C (74)t 2 - ti 
+A A 
+Rather than using a reflected light signal to measure the distance d' , the observer at A 
+may try to measure the one-way velocity of light by first synchronizing the clock B with 
+A and then measure the time for a light signal to go from A to B. However, since this 
+synchronization procedure also uses reflected light signals, the result is the same. For 
+the velocity he finds 
+d' d' 2d' ---=c (75)l I 2(t1 + t2 ) - t 1 t 2 - ti 
+A A A A A 
+By subtracting the equations (70) one finds that 
+tR = fB + ( rIC2) vd cos If/ , (76) 
+which shows that from an absolute point of view the "true" reflection time tR at clock B 
+is only then equal to t8 , if v = 0. From an absolute point of view the propagation of 
+light is isotropic only in the distinguished reference system, but anisotropic in a 
+reference system in absolute motion against the distinguished reference system. This 
+anisotropy remains hidden due to the impossibility to measure the one-way velocity of 
+light. The impossibility is expressed in the Lorentz transformations themselves, 
+containing the scalar c2 rather than the vector c, through which an anisotropic light 
+propagation would have to be expressed. 
+UNCLASSIFIED//P'Olll OPPIEll<L tt!II!! or~LY 
+22

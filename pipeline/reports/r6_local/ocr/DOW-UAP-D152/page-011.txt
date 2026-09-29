@@ -1,0 +1,27 @@
+UNCLASSIFIED/ /P'OR. 8FFIEil1'1.k lellii Ql'II.¥ 
+The mass density (14) is not fictitious but represents physical reality. According to 
+Einstein's E = mc2 one obtains for an electric field Ethe mass density 
+(15) 
+Replacing Eo with-(1/y), one obtains the energy density of the gravitational field 
+g 2 
+U=--<0. (16)
+8ny 
+It possesses the (negative) mass density 
+g2µ= - --, . (17)
+8nyc 
+Besides the field g, we have on a "merry-go-round" the Coriolis force field 
+G =2cro. (18) 
+By setting G = g and inserting G into (17) with g2 = G2, one obtains the mass density 
+(14). This means the centrifugal force is the gravitationa l force associated with the 
+mass density of the Coriolis field. 
+But where is th is huge negative mass coming from? The obvious answer is by the very 
+large vacuum energy, making itself felt by going to an accelerated frame of reference. 
+In Mach's principle the motion of the distant galaxies as seen in an accelerated frame of 
+reference is responsible for the inertial forces. But this idea is wrong because if by some 
+miracle the distant galaxies were to be set into motion, it would take a long time before 
+their fields propagating with the velocity of light would reach the earth. 
+Adding the mass of the Coriolis field to the right side of the equation (12), we have by 
+putting it on the left hand side 
+1- -G2div F - ? = -41r11'"IIp . (19)2c-
+UNCLASSIFIED/fFOA OFFI&il.t.k lellii OJi,k¥ 
+7

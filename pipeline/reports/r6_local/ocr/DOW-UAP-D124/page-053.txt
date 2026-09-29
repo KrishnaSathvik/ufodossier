@@ -1,0 +1,38 @@
+UNCLASSIFIED/ fFOR OFFICIO I.. Pili ODIi..¥ 
+Appendix B: Aeropropulsion Integrated Vehicle 
+A launcher that uses air-breathing propulsion in a portion of its flight to exit the 
+atmosphere has the same entry issues as the rocket-boosted hypersonic glider. 
+However, the capture of atmospheric air to create thrust by chemical combustion is a 
+different issue, as it configures the underside (aerodynamic compression side) as a 
+propulsion system that produces more thrust than drag and also produces lift. For the 
+propulsion system to function efficiently, the dynamic pressure and air mass flow per 
+unit area must be higher than a rocket exit trajectory, as it is the airflow mass that 
+enables the propulsion system to produce thrust in excess of drag so the vehicle can 
+accelerate . So in this case we have a propulsion-configured vehicle. Neither the shape 
+of the vehicle nor the trajectory it flies is arbitrary. The air breather does not exit the 
+atmosphere as quickly as the rocket but stays in the atmosphere to the point where the 
+transition to rocket propulsion occurs-usually set when the air-breather propellant per 
+unit change in velocity is equal to or greater than the rocket propulsion, usually at 
+about mach 12 to 14. The air-breathing propulsion system mechanical, aerodynamic, 
+and thermal loads act longer and are of greater magnitude than the rocket-powered 
+vehicle. In fact, the dynamic pressure-that is, the pressure of the air impacting the 
+vehicle- is about 10 times greater than the entry dynamic pressure of the hypersonic 
+glider. In this case the principal thermal load is encountered during exit from the 
+atmosphere and the vehicle must be configured to generate sufficient thrust to provide 
+a strong acceleration. So an air-breather configuration is different from the hyperson ic 
+glider, because the hypersonic glider has not been configured to fly extensively in the 
+atmosphere and produce thrust from captured airflow. Like the hypersonic glider, this 
+vehicle needs the same glide performance at entry. However, with the thermal 
+protection designed by the high exit loads, the entry design is one of detail in 
+maintaining stability and control and of achieving a comparable glide L/D ratio. The 
+carried oxidizer is heavy and requires more engine thrust to lift it into space. A 
+hydrogen/oxygen rocket, vertical-launch vehicle with a 7,000-kg payload has a gross 
+weight in the 450,000- to 500,000-kg range and a 50,000-kg operational weight empty 
+(that is, with the payload loaded). The engine thrust for a vertical takeoff is about 
+607,000 to 820,000 kg. A modest-performance combined-cycle air breather with a 
+7,000-kg payload and a 50,000-kg operational weight empty has a gross weight in the 
+200,000- to 225,000-kg range. The engine thrust for a vertical takeoff is about 
+270,000 to 304,000 kg. Most of the gross weight reduction is from the lesser amount 
+of oxidizer carried and the lighter propu lsion system weight. 
+UNCLASSIFIED/ fFOA OFFICIO! 1155 AN! X 
+46

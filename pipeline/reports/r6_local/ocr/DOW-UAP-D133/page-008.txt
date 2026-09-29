@@ -1,0 +1,49 @@
+UNCLASSIFIED/ /P91t 9ffl@IAL WSE &P•Llf 
+implicat ions of this dichotomy are considered in the context of the "no-signal" 
+theorems . 
+It is noted that there is some misinformation in the literature concerning the chronology 
+of successful EPR polarization correlation experiments, and here we wish to set the 
+record at least somewhat straighter. The experimental measurement that first 
+demonstrated a polarization correlation related to EPR nonlocality was performed by C. 
+S. Wu and I. Shanknov in 1949 (Reference 7), well before Bell's work and the 
+subsequent interest in testing Bell's Inequality. Wu and Shanknov showed that the 
+linear polarizations of back-to-back entangled gamma rays from electron-positron 
+annihilation (an L=O negative parity state) were anticorrelated, for example, if one 
+photon was polarized vertically, then the other was polarized horizontally. They did not, 
+however, investigate the falloff of the correlation with polarimeter angle, which is the 
+basis of Bell Inequality tests, nor did they depict their results as a consequence of 
+quantum nonlocality. 
+Almost two decades passed before the publication of John Bell's pivotal work (Reference 
+8) in 1964 and 1966. In 1972, Freedman and Clauser (Reference 1) performed the first 
+definitive Bell inequality test by measuring the polarization correlation of entangled 
+photons from a positive parity L=O atomic cascade in calcium. Their results were in 
+agreement with the predictions of quantum mechanics and were inconsistent with local 
+hidden-variable theories by 6. 7 standard deviations. A decade later, in 1982, EPR 
+measurements of the Aspect group (Reference 2) eliminated several "loophole" 
+scenarios that might constitute unlikely ways of preserving classical locality and again 
+demonstrated agreement with quantum mechanics and inconsistency with local hidden­
+variable theories, this time by 46 standard deviations. In a more recent example of an 
+EPR experiment, the Gisin group (Reference 9) used the fiber-optic cables owned by the 
+Swiss Telephone System to demonstrate the nonlocal connection between EPR 
+measurements made at locations in Geneva and Bern, Swiss cities with a line -of-sight 
+separation of 156 km-a direct demonstration, if one was required, that quantum 
+nonlocality can operate over quite large distances. 
+LENS 
+~ 
+FILTER 
+POLARIZER 2 
+~LE , 
+....._ _ _ __-..i DISC. 
+f8 
+P.H.A. 
+ELAY 
+COINC . 
+COINC. 
+TA.C. 
+Ca-OVEN 
+LENS 
+RI ~ '~ POLARIZER I 
+=--------i 
+Figure 1. Schematic of the 1972 Freedman-Clauser Experiment (Reference 1) 
+UNCLASSIFIED/ /FOil OFFl@IAL W!H! 9HL1/ 
+2

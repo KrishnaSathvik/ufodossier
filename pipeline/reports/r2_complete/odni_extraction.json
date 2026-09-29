@@ -1,0 +1,181 @@
+{
+  "generated_at": "2026-09-25T18:40:09.122722+00:00",
+  "production_writes": false,
+  "filename": "ODNI-UAP-D001.pdf",
+  "classification": {
+    "document_class": "transcript",
+    "contains_incidents": true,
+    "confidence": "high",
+    "reason": "Transcript/debrief of an observed event",
+    "method": "rules"
+  },
+  "usable_text_chars": 5728,
+  "page_count": 2,
+  "json_stats": {
+    "json_first_pass": 1,
+    "json_retry_success": 0,
+    "json_retry_failed": 0
+  },
+  "validated": [
+    {
+      "title": "Mountain Range Helicopter Investigation with Multiple Orb Encounters",
+      "summary": "A senior intelligence officer and helicopter crew investigated UAP sightings and loud thuds on a test range in late 2025, encountering multiple close-range orb-shaped objects over an hour-long sequence, including formations near the helicopter and interactions with fighter jets.",
+      "raw_excerpt": "En route, ground teams reported spotting a UAP on FLIR, describing it as \"super-hot, \" low to the ground, and moving east then south at high speed. The object then split into two and changed direction. Upon arrival, we scanned the area using NVG, FLIR, and the naked eye. The ground team suddenly radioed that the object had risen from the ground, approached within ten feet of the helicopter, dropped below us, and then sped away.",
+      "occurred_at_text": "late 2025",
+      "occurred_at": null,
+      "occurred_at_precision": "unknown",
+      "location_text": "mountains on the test range",
+      "country": "United States",
+      "region": null,
+      "branch": "USAF",
+      "reporting_unit": "Joint Operations Center (JOC)",
+      "sensor_types": [
+        "eyewitness",
+        "infrared",
+        "radar"
+      ],
+      "duration_seconds": 3600,
+      "altitude_feet": 700,
+      "shape_description": "orb-shaped; oval-shaped, orange with white or yellow center",
+      "size_description": null,
+      "resolution_status": "unresolved",
+      "resolution_notes": null,
+      "source_file_id": "local:ODNI-UAP-D001.pdf",
+      "case_id": "UNDATED-USAF-668927",
+      "slug": "undated-usaf-mountain-range-helicopter-investigation-with-6689",
+      "extraction_model": "claude-haiku-4-5",
+      "extraction_version": "v1.1",
+      "extracted_at": "2026-09-25T18:40:07.775335+00:00",
+      "source_filename": "ODNI-UAP-D001.pdf",
+      "ingestion_state": "validated_local",
+      "duplicate": {
+        "duplicate_status": "new_event",
+        "best_match_case_id": "UNDATED-USAF-F17B77",
+        "best_match_score": 0.295,
+        "review_required": false
+      },
+      "document_class": "transcript"
+    },
+    {
+      "title": "Stationary Orb Formation Near Helicopter Rotor Disk",
+      "summary": "The crew observed two large oval-shaped orange orbs with white or yellow centers that were stationary just above the helicopter's rotor disk, followed by two or three additional orbs forming a T-formation below them, emitting light in all directions for 10-15 seconds.",
+      "raw_excerpt": "Through NVGx, the pilots and I (using the naked eye) observed two large orbs \ufb02are up side-by-side, close to the helicopter \u2013 stationary and just above the rotor disk to our right. They were oval-shaped, orange with a white or yellow center, and emitted light in all directions. After a few seconds, a third orb \ufb02ared up below the pair, followed by a fourth below that, forming a total of four or \ufb01ve in a \"T\" formation under the original two.",
+      "occurred_at_text": "late 2025",
+      "occurred_at": null,
+      "occurred_at_precision": "unknown",
+      "location_text": "mountains on the test range",
+      "country": "United States",
+      "region": null,
+      "branch": "USAF",
+      "reporting_unit": "Joint Operations Center (JOC)",
+      "sensor_types": [
+        "eyewitness"
+      ],
+      "duration_seconds": 15,
+      "altitude_feet": 700,
+      "shape_description": "oval-shaped, orange with white or yellow center",
+      "size_description": "large",
+      "resolution_status": "unresolved",
+      "resolution_notes": null,
+      "source_file_id": "local:ODNI-UAP-D001.pdf",
+      "case_id": "UNDATED-USAF-8AFE60",
+      "slug": "undated-usaf-stationary-orb-formation-near-helicopter-8afe",
+      "extraction_model": "claude-haiku-4-5",
+      "extraction_version": "v1.1",
+      "extracted_at": "2026-09-25T18:40:07.776337+00:00",
+      "source_filename": "ODNI-UAP-D001.pdf",
+      "ingestion_state": "validated_local",
+      "duplicate": {
+        "duplicate_status": "new_event",
+        "best_match_case_id": "UNDATED-USAF-F17B77",
+        "best_match_score": 0.289,
+        "review_required": false
+      },
+      "document_class": "transcript"
+    },
+    {
+      "title": "Orbs Matching Fighter Jet Flight Path",
+      "summary": "Orange orbs appeared directly above fighter jets at approximately 23,000 feet, flaring up one at a time in a horizontal formation that matched the jets' speed and flight path for 10-15 seconds before dimming sequentially and disappearing, repeating this pattern multiple times.",
+      "raw_excerpt": "As watched from afar, the same type of orbs appeared directly above the \ufb01ghters. They \ufb02ared up one at a time in a horizontal formation, matching the jets' speed and \ufb02ight path. After 10-15 seconds, they dimmed sequentially and disappeared. This repeated several times as the jets transited the airspace and eventually landed.",
+      "occurred_at_text": "late 2025",
+      "occurred_at": null,
+      "occurred_at_precision": "unknown",
+      "location_text": "mountains on the test range",
+      "country": "United States",
+      "region": null,
+      "branch": "USAF",
+      "reporting_unit": "Joint Operations Center (JOC)",
+      "sensor_types": [
+        "eyewitness"
+      ],
+      "duration_seconds": 15,
+      "altitude_feet": 23000,
+      "shape_description": "orange orbs",
+      "size_description": null,
+      "resolution_status": "unresolved",
+      "resolution_notes": null,
+      "source_file_id": "local:ODNI-UAP-D001.pdf",
+      "case_id": "UNDATED-USAF-B4E651",
+      "slug": "undated-usaf-orbs-matching-fighter-jet-flight-b4e6",
+      "extraction_model": "claude-haiku-4-5",
+      "extraction_version": "v1.1",
+      "extracted_at": "2026-09-25T18:40:07.777208+00:00",
+      "source_filename": "ODNI-UAP-D001.pdf",
+      "ingestion_state": "validated_local",
+      "duplicate": {
+        "duplicate_status": "new_event",
+        "best_match_case_id": "2023-USAF-5CC39C",
+        "best_match_score": 0.337,
+        "review_required": false
+      },
+      "document_class": "transcript"
+    },
+    {
+      "title": "Orange Orbs Forming Triangle Formation",
+      "summary": "The crew observed orange orbs flaring up and down around the helicopter for several minutes, forming a distinct triangle pattern before vanishing.",
+      "raw_excerpt": "We also observed orange orbs \ufb02aring up and down around us for several minutes, forming a distinct triangle before vanishing.",
+      "occurred_at_text": "late 2025",
+      "occurred_at": null,
+      "occurred_at_precision": "unknown",
+      "location_text": "mountains on the test range",
+      "country": "United States",
+      "region": null,
+      "branch": "USAF",
+      "reporting_unit": "Joint Operations Center (JOC)",
+      "sensor_types": [
+        "eyewitness"
+      ],
+      "duration_seconds": 180,
+      "altitude_feet": 700,
+      "shape_description": "orange orbs in triangle formation",
+      "size_description": null,
+      "resolution_status": "unresolved",
+      "resolution_notes": null,
+      "source_file_id": "local:ODNI-UAP-D001.pdf",
+      "case_id": "UNDATED-USAF-61107E",
+      "slug": "undated-usaf-orange-orbs-forming-triangle-formation-6110",
+      "extraction_model": "claude-haiku-4-5",
+      "extraction_version": "v1.1",
+      "extracted_at": "2026-09-25T18:40:07.777554+00:00",
+      "source_filename": "ODNI-UAP-D001.pdf",
+      "ingestion_state": "validated_local",
+      "duplicate": {
+        "duplicate_status": "new_event",
+        "best_match_case_id": "UNDATED-USAF-96B4BA",
+        "best_match_score": 0.389,
+        "review_required": false
+      },
+      "document_class": "transcript"
+    }
+  ],
+  "quote_rejected": [],
+  "evidence_insufficient": [
+    {
+      "title": "Orange Orb Swarm Display Over Mountain",
+      "raw_excerpt": "In the distance, we saw countless orange orbs swarming in all directions against the backdrop of the mountain. The display lasted several minutes before fading.",
+      "reason": "excerpt_lacks_observation_language",
+      "source_filename": "ODNI-UAP-D001.pdf",
+      "disposition": "source_media_not_incident"
+    }
+  ]
+}

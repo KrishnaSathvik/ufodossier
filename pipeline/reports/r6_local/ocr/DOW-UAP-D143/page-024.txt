@@ -1,0 +1,52 @@
+UNCLASSIFIED F/P OR OPPICTAL USE ONLY
+
+Froning and Davis [26] also determined that the ground-based laser selected (1 = 1.62
+um, 10 MW radiated power, 10 m diameter aperture) would enable a Lightcraft takeoff
+mass of 8 kg and Lightcraft propellant mass of 4 kg. Therefore, this would allow
+approximately 4 kg of mass to be placed into orbit with the selected ground-based
+laser. And vehicle synthesis work determined that the remaining masses for the
+Lightcraft airframe, propulsion, and control systems would be 0.63 kg, 0.46 kg, and
+0.45 kg, respectively, together with a 30 percent contingency (of 0.47 kg).
+
+Takeoff Mass = 4.0 kg
+Frontal Area = 0.78 m?
+
+Fs @) /
+Takeoff Mass = 8.0 kg
+
+Frontal Area = .096 m?
+/®
+
+Takeoff Mass = 8.0 kg
+Frontal Area = .096 m?
+
+1.00 -1658
+
+; /
+Fi
+Pd
+
+@ transonic speed (Mach 1.1 to 1.3)
+
+Scramjets
+
+Transonic Drag Area/Unit Mass (m7/kg)
+
+01 Range for
+Currently ‘
+Nesieleuad —- —— p10 Lighteraft
+oe
+
+001
+
+10 20 30
+Half-Apex Angle of Forebody (degrees)
+
+Figure 9. Lightcraft Vehicle Evolution (in 3 steps) [2°),
+
+Froning and Davis [26] further indicated that small COTS chemical propulsion systems,
+with sufficient thrust, would be about a factor of 7 to 12 heavier than those needed to
+meet Lightcraft orbit circularization needs. However, such mass reductions were
+
+20
+UNCLASSIFIED &+60R-OFF26FAE-USE-ONET

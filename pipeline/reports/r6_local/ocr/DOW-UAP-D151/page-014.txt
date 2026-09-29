@@ -1,0 +1,20 @@
+UNCLASSIFIED//EOR QfiFIQl.lik 1!181! er•t I 
+In a post-hoc examination of sources of human error in taped controller data, Chang 
+developed a conceptual model of ATC task within a system of human, software, 
+hardware, and environment using the SHEL23 approach of ergonomics. This study also 
+examined several aspects of personnel management, but when over load was exam ined 
+as the source of error, it was shown that all factors need to be considered along with 
+their interaction. That is, the human and the external task cannot be considered in 
+isolation of the environment of the other humans, and the augmentation capabilities of 
+software, hardware, and the performance environment significantly affect error rates. 24 
+Operator overload can result in subsequent errors if sufficient recovery time is not 
+allotted. Di Nocera examined specific error rates after short periods of overload. The 
+first part of the study successfully proved that these so-called post -completion errors 
+existed in times immediately after peaks in workload. The second part of the study 
+examined whether an augmentat ion tool to assist in medium term confl ict detection 
+could reduce these errors. The subject population included 18 military ATC of varying 
+exper ience. Workload was based on self-reported NASA-TLX. Results showed that 
+augmentation processes helped junior controllers, but senior controllers were 
+unaffected by the assistance. 25 
+UNCLASSIFIED/ j POI\ OP"flCIJltt 1:181!! 8Hk\S 
+9

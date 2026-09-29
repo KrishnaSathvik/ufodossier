@@ -1,0 +1,40 @@
+UNCLASSIFIED/ ,'FOR OFFI@IAL WSE QptLY 
+Vehicle Status Panel 
+Below the vector motion panel is the vehicle status panel that conta ins t he most critical 
+vehicle status and contro ls. This is analogous to where fuel levels and engine 
+temperatu res would be displayed. In this centra l panel, only the most critical and 
+highest hierarchica l status conditions would be displayed in a fixed format. 
+More detailed, lower -level statuses and contro ls are on the right side panel and 
+avai lable through the flight-assist system . The proximity of this panel to the survival 
+enunciator , the flight-mode panel, and the emergency response panel is deliberate . 
+Also flanking either side of this vehicle status panel are the cabin controls (on the left) 
+and the communication controls (on the right). 
+Cabin Control Panel 
+The cabin controls are not just for temperature and pressure of the pilot 's cabin, but 
+also for the inertial and grav itational environment inside the cabin . This panel is 
+deliberately located just below the section of the surviva l enunciator that displays alarm 
+states for the cabin, and just adjacent to the vehicle status panel, with the expectation 
+that related vehicle functions are displayed near the cabin controls. 
+The novel function of including controls for the internal inertial and gravitational forces 
+is in keeping with the recommendation of the double-hull configuration from Chapter 1. 
+If the pilot wishes to feel a port ion of the vehicle's acceleration, that can be dialed in. If 
+the pilot wishes to select a nominal background gravitational field of O g or 1 g (or 
+other options), that can be done, too. 
+Communication Panel 
+The communication panel is the primary selection point for communicating with base. 
+According ly, it is located just below the flight-assist system and the emergency 
+response panel. An alphanumeric key pad serves both the communication panel and the 
+flight-assist system. 
+Available settings would likely include selection of communication methods, channels, 
+and related functions. Further details are dependent upon factors that cannot yet be 
+predicted . 
+Pullout Keyboard 
+For more intensive alphanumeric data entry, and when time allows, a pullout computer 
+keyboard is available . 
+External Sensing Panel 
+One of the two side panels flanking the pilot seat is the externa l sensing panel. It 
+includes settings for external sensors, navigation cues, and related functions. It also 
+includes controls for how the information obta ined from the external sensors is 
+processed, displayed, and recorded. 
+UNCLASSIFIED/fFOA: OFFICIO la Plili Oralla¥ 
+38

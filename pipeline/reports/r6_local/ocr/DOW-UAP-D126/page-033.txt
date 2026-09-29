@@ -1,0 +1,31 @@
+UNCLASSIFIED/ /Pelt 9ffl@IAL YSE er•tlf 
+burst of keV X-rays. This powerful explosive is likely to be very unstab le, but it can be 
+produced by the sudden application of a high pressure at just the moment when it is 
+needed. Because an intense burst of X-rays is needed for the ignition of a 
+thermonuclear microexplos ion, it could be used as an alternat ive to the argon ion laser 
+for the ignition of a pure fusion bomb. The energy of an electron in the ground state of 
+a nucleus with the charge Ze is 
+Ei = - 13.6 z2 [eV] (36) 
+With the inclusion of all the Z electrons surrounding the nucleus of charge Ze, the 
+energy is 
+Ei* ~ - 13.6 22.42 [eV] (37) 
+with the outer electrons less strongly bound to the nucleus. 
+Now, assume that two nuclei are so strongly pushed together that they act like one 
+nucleus with the charge 2Ze onto the 2Z electrons surrounding the 2Ze charge. In this 
+case, the energy for the innermost electron is 
+fa = -13.6 (2Z) 2 [eV] (38) 
+Or if the outer electrons are taken into account, 
+fa*~ -13.6 (2Z) 2.42 [eV] (39) 
+For the difference, one obtains 
+oE = E1* - E 2* = 13.6Z 2.42 (2 2.42 -1) ~ 58.SZ2.42 [eV] (40) 
+Using the example Z = 10, which is a neon nucleus, one obtains oE ~ 15 keV. Of course, 
+it would require a very high pressure to push two neon atoms that close to each other, 
+but this examp le shows it is plausible that smaller pressures exerted on heavier nuclei 
+with many more electrons may result in a substantial lowering of the potential well for 
+their electrons. 
+A pressure of p ~ 100 megabars (Mb) = 1014 dyn/cm 2 can be reached with existing 
+technology in sufficiently large volumes, with at least three possibilities: 
+• Bombardment of a solid target with an intense relativistic electron or ion beam. 
+• Hypervelocity impact. 
+UNCLASSIFIED/ ;'FOR OFFI@IAL Y§E OHLl/ 
+27

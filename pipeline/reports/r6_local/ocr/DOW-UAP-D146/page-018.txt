@@ -1,0 +1,40 @@
+UNCLASSIFIED/ /FOR OFFI&il.t.k WIiii 8Plk\f 
+Magnetic BURN CHAMBER 
+Expansion 
+. . .
+Chamber I . Fuel Beam lnjecti_~n t'I - I 
+~ - ----~ 1m; - I 
+< )( )( ~ 10 m ➔Sm 
+Figure 11. Magnetized Target Fusion Reactor 
+AIR PROPULSION 
+The reactor propulsion concepts described in the previous section were limited to space 
+propulsion . The DPF reactor is the lightest concept at 16 Mg (16 metric tons) and could 
+produce 800 MW of power with thrust levels of 1000 kN for space propulsion through 
+ej ection of high-energy ions. The application of this fusion reactor for propelling aircraft 
+from ground to hypersonic speeds would be very difficult since converting the 800 MW 
+of power to propellant thrust through a thermodynamically driven gas turbine would 
+prov ide lSN/MW or 1.53 kg of force per MW, which is only 1,224 kg of thrust for lifting 
+a 16,000 kg vehicle . The thrust per kilogram of reactor weight would have to go up a 
+factor of 50 to 100 in order to lift the reactor and the aircraft it is powering. 
+The assistance of conventional rocket technology plus air-breathing 
+magnetohydrodynamic (MHD)-ass isted propulsion to augment aneutronic fusion plasma 
+propulsion has been studied as depicted in Figure 12. In this concept, rocket- and 
+turbine-based combined-cycle air-breath ing engines are used for accelerating the 
+vehicle to Mach 14.15 MHD power generation is used during Mach 7-14 air-breathing 
+flight because it may produce hundreds of megawatts of electrical power for DPF fusion 
+rocket system ignition. The DPF fusion rocket system could then prov ide additional 
+propulsion, power, and acceleration outside the atmosphere at speeds above the Mach 
+14 air-breathing MHD threshold. A thrust-vectoring chemical rocket system provides 
+additional thrust and control any time during vehicle flight. 
+• Aneutronic fusion power • 2025 time periodand rocket propulsion 
+from Mach 14 to orbit 
+• Air-breathing propulsion 
+and MHD power from 
+Mach 7to Mach 14 
+• Chemical rocket and 
+air-breathing propulsion 
+Propellants: Liquid Hydrogen; from Oto Mach 7 
+Liquid Oxygen (or Liquified Air) 
+Figure 12. MHD Air-Breathing and Fusion Rocket Aerospace Plane 
+UNCLASSIFIED/ JFOR OFFICIJlcL l:ISE 8Plk¥ 
+13

@@ -1,0 +1,25 @@
+UNCLASSIFIED//POR. Offl@IAL YS! OP~LV 
+The electric response of such (or similar) metamaterial is given by 
+(2) 
+where w R is the resonant frequency and r is the loss coefficient. 
+Negative index metamaterials are by no means the only potentially useful metamed ia. 
+Several new concepts such as Indefinite Permittivity Metamaterials (1PM) (References 
+3, 4) and Epsilon-Near-Zero (ENZ) metamaterials (Reference 5) have recently emerged 
+and found some exciting applications t hat will be reviewed below. IPMs can be used as 
+ult ra-compact spatia l filte rs (bot h high -pass and low-pass) whereas ENR metamate rials 
+can be used for maki ng sub-wavelength waveguides capable of coupling close to 100 
+percent of the incident radiation (Reference 8), as well as directing it around tight 
+bends with negligible bending losses. Yet another class of planar metamaterials, 
+complementary metamaterials (CMMs), has recently emerged (Reference 7). Instead of 
+using metallic structures deposited on a substrate (left panel of Figure 3), CMMs consist 
+of slits in the continuous metal screen (right panel of Figure 3). The shape of the slits 
+coincides with that of the materials themselves. Such complementary metamaterials 
+have been recently used for making epsilon-near zero waveguides (Reference 8). 
+CE1 CE4 
+CE2 CE5 
+CE3 CE6 
+Figure 3. Geometry of Original Planar Metamaterial Unit Cells (OE1-0E6) and Their Complements 
+(CE1-CE6}. The polari zation of normally incident electromagnetic radiation is configured as shown in OEl 
+and CEl for the original and complementary metamater ials, respectively . (Reference 9) 
+UNCLASSIFIED/ {EAR OFFICI.IJ.k WSI!!! tJflti 
+3

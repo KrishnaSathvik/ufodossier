@@ -1,0 +1,50 @@
+UNCLASSIFIED/ fFOA OFFIEIAk W&i 0Pilk¥ 
+adiabatic changes in the boundary conditions of quantum fields, or as classical 
+parametric amplification with the zero-point energy of a vacuum field mode as 
+an input state. More recent developments include models for the super-radiant 
+amplification of photons with particular emphasis on its dynamics and the 
+optimization of the involved parameters. Experimental concepts being pursued 
+will try to reveal directly the presence of a non-empty vacuum by using a 
+specifically designed device to amplify the virtual vacuum photons and produce 
+real electromagnetic radiation via the parametric amplification of the vacuum 
+fluctuations in an electromagnetic cavity. The 'amplifier' is a boundary 
+undergoing an oscillation, and hence radiates energy due to the dissipative 
+action against the vacuum photons. This line of investigation could serve as a 
+very useful probe to explore the possibility of generating large fluxes of negative 
+energy. One expects that a laboratory demonstration of the dynamical Casimir 
+effect will occur before 2012. 
+- Dirac field states: As described in Section III-C-1, this involves either the 
+superposition of two single particle electron states or the superposition of two 
+multi-electron-positron states (Reference 41,42). This is still a nascent topic of 
+study in quantum field theory. However, already a great deal of technology is 
+dedicated to the manipulation and storage of electrons and positrons via solid 
+state/condensed matter devices and particle accelerators. This research topic 
+should be supported in order to establish how it could contribute to an 
+experimental antigravity program. 
+- Quantum coherence effects: Other types of quantum coherence effects not 
+already identified or invented should be theoretically developed and explored for 
+the possibility of finding new free-field or interacting field configurations that 
+produce a significant magnitude of negative energy which could be produced by 
+technological means. [Note that Reference 70 showed that static, radially­
+dependent electric or magnetic fields and gravitationally squeezed vacuum 
+electromagnetic zero-point fluctuations (see items 1 and 3 in Section III-C-1 and 
+Appendix A) are not useful forms of negative energy.] 
+- Detecting Negative Energy in the Lab: Reference 70 identified proposals for 
+observing negative energy in outer space and in the laboratory, but further work 
+is needed to downscale astronomical techniques for use at the lab scale, and 
+there is need to firm up our understanding of how lab detectors will respond to 
+negative energy in situ if one is to exploit it for the production of antigravity 
+forces. A first step in the latter direction was recently proposed by Marecki 
+(Reference 76) who generalized the analysis of the output of balanced homodyne 
+detectors (BHDs). The most important feature of these devices is their ability to 
+quantify the quantum vacuum fluctuations of the electric field because the 
+output of BHDs provides information on the one- and two-point functions of 
+arbitrary states of quantum fields. Marecki computed the two-point function and 
+the associated spectral density for the ground state of the quantum electric field 
+in Casimir geometries, and predicts a position- and frequency-dependent pattern 
+of BHD responses if a device of this type is placed inside a Casimir cavity. The 
+proposed device allows for the direct detection of quantum vacuum fluctuations 
+and provides a spatial mapping of the negative energy contained inside the 
+cavity. This offers a potential new characterization of ground states in Casimir 
+UNCLASSIFIED/ /FOA OFFI&IAb Yi&: 8,.bY 
+27

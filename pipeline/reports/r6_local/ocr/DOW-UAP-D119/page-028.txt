@@ -1,0 +1,28 @@
+UNCLASSIFIED// FOR OFFICl,CL l:ISI!!! 8HL'f 
+the active agent in a biodegradable polymer, as shown in Figure 28. The polymer host 
+to the drug dissolves, releasing the drug in a controlled manner over time. 
+polym r 
+••• •• •• • • • ••••• • • 
+drug 
+time - 0 time - t 
+Figure 26. Schematic Representation of Biodegradable (Bioerodible} Drug Delivery Device 
+The use of biodegradable materials allows the drug to be introduced without much 
+concern for the build-up of the polymer carrier. The carrier is eventually absorbed by 
+the body and, thus, need not be removed surgically. 
+Drug diffusion through the polymer matrix can also determine the drug dosage rate 
+without actual loss of the polymer. This rate is determined by the choice of polymer, 
+the size of its pores, and the rate at which the drug diffuses from the pores. 
+The three key advantages polymeric drug delivery products can offer are: 
+• Localized Delivery of Drugs: The polymer-drug combination can be implan ted 
+directly at the site where drug action is needed and, hence, whole-body exposure of 
+the drug can be reduced. This becomes especially important for toxic drugs, such as 
+the chemotherapeutic drugs. 
+• Sustained Delivery of Drugs: Once injected, the encapsulated drug is released over 
+extended periods, thereby eliminating the need for multiple injections. This feature 
+can improve patient compliance, especially with drugs for chronic indications that 
+require frequent injections (such as for deficiency of certain proteins). 
+• Stabilization of the Drug: The polymer can protect the drug from the physiological 
+environment and hence improve its stability in vivo. This particular feature makes 
+this technology attractive for the delivery of labile drugs, such as proteins. 
+UNCLASSIFIED/ fFOA QFFICiI> .. U&'li ODIL¥ 
+21

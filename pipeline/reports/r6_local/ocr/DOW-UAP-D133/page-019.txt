@@ -1,0 +1,48 @@
+UNCLASSIFIED/ /FOR 8FFI@IsT.tk WSE 8Hk¥ 
+determine the presence or absence of coherent interference, but this will not be 
+considered further here.) 
+A quantum sensitive cooled CCD camera is substituted for detector D1 of the Ghost 
+Interference experiment (Reference 11) and is set to measure distributions like those 
+shown in Figure 3. In the arrangement in Figure 7, switching the optical fiber routing 
+can be considered an act of transmitting a binary O or 1 signal. If the switch is in the 
+position leading to the outer detectors, then which-way information is available, and the 
+pattern detected by the camera should be a single-slit diffraction pattern labeled "l" in 
+Figure 7. If the switch is in the position leading to the combiner and middle detector, 
+waves from both slits contribute to the detection, no which-way information is 
+available, and the pattern detected by the camera should be the two-slit interference 
+pattern labeled "0" in Figure 7. 
+If the pattern observed by the camera can indeed be changed by switching the optical 
+fiber routing, then this would constitute a direct demonstration on nonlocal 
+communication. Such an observation would falsify the no-signal theorems mentioned 
+above, which require that in a noncoincidence scenario, no action on one entangled 
+photon can produce a "signal-capable" observable result at the detection of the other 
+entangled photon of the pair. 
+It should be emphasized that demonstrating nonlocal communication with momentum­
+entangled photons, as described above, is not the same as actually sending a signal. It 
+should be clear that no rea l signal can be communicated with a single photon pair. Only 
+when multiple photons are detected can the underlying distribution function become 
+apparent. One can estimate that if the distribution functions to be distinguished are a 
+"pure" two-slit interference pattern modulated by a diffraction envelope and a "pure" 
+two-slit diffraction pattern, then about 10 photon detections would be required for a 3cr 
+decision between these two possibilities. 
+However, as mentioned in the previous section, it is likely that if nonlocal 
+communication is possible at all, it would have to be accomplished in a situation where 
+some compromise between entanglement and coherence has been achieved, and such 
+a compromise would inevitably cause the two patterns to be distinguished to be more 
+similar and more difficult to separate. Therefore, the 10 photon detections cited above 
+must be taken as a rather optimistic lower limit, and it is likely that a significantly larger 
+number of detections (perhaps ~100 or more) would be required. The time required to 
+send a single bit of information would then be the product of the photon detection rate 
+in the two arms of the experiment times the number of photons that must be detected 
+to receive the signal. In principle, such a transmission rate might be improved (and 
+fluorescence noise suppressed) by pulsing the pump laser, so that "clusters" of 
+entangled photons would be received with each such pulse. 
+VII. A Transactional Analysis of the Nonlocal 
+Communication Test 
+Now the transactional interpretation of quantum mechanics (Reference 19) to analyze 
+the system described above is used. The transactional interpretation describes the 
+formation of a quantum event as a three-stage process: (1) sending retarded "offer" 
+waves ('!') from emission location(s), (2) back-in-time responses from the reception 
+location(s) of advanced "confirmation" waves('!'*), and (3) the formation of a space-
+UNCLASSIFIED/ /FOR OFFI@IAk WSI!! 8HL'I" 
+13

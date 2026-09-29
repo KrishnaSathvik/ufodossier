@@ -1,0 +1,37 @@
+UNCLASSIFIED//rOR: orrlCIAE USE O14Lf 
+Table 5. Influence of Lightcraft and Target Velocity on Impact Energy and 
+Required Mass [261. 
+Impact Ballistic Missile Threat Ligbtcraft Lightcraft Energy -SRBM--IRBM--ICBM-Intercept Intercept and R-10,000 kmR-2500 kmR-1000 kmAspect Velocity Weight V=6km/s 
+Impact E for 
+V=4 km/sV=2 km/s 
+16MJ 36MJ 64MJ1.0 kg Wt. 2 km/s 
+Wt for 10 .16 kg.28kg.63 kgMJofE 
+Impact E for 49MJ 81 MJ25MJ0° from 1.0 kg Wt. Bead-on 3 km/s 
+Wt. For 10Collision .12 kg.40 kg .20kgMJofE 
+Impact E for lOOMJ36MJ 64MJ1.0 kg Wt. 
+4 km/s 
+Wt. for 10 .JOkg.28 kg .16 kgMJofE 
+RECOMMENDED LIGHTCRAFT MISSIONS FOR BALLISTIC MISSILE 
+DEFENSE 
+Laser-powered Lightcraft, flown on air-to-space trajectories, show much promise for 
+performing exo-atmospheric BMD missions, especially if the laser can also be used to 
+discriminate warhead-carrying vehicles from decoys and non-threatening debris. Such 
+Lightcraft also appear capable of eliminating enemy satellites in LEO, if the Lightcraft 
+laser can illuminate them. But a significant effort would be required to analyze the 
+engagement scenarios for such a system, and fully investigate the decoy discrimination 
+and satellite tracking capabilities of the Lightcraft's pulsed laser and the hit-to-kill 
+guidance requirements for the Lightcraft itself. 
+Locating lasers and Lightcraft on existing aircraft, such as the Boeing 747, B-1 Lancer, 
+or C-130, appears to be an attractive alternative to ground/sea-based laser Lightcraft 
+systems. In this case, airborne laser beams at 12 km altitude will not suffer the 
+significant propagation losses that occur when guiding and propelling Lightcraft through 
+the lower atmosphere, and greater Lightcraft flight range should therefore be 
+achievab le. (The increase in laser range, due to reduced propagation losses, for high 
+altitude operation will be somewhat diminished because of the smaller allowable 
+apertures on aircraft-mounted laser optics, which are on the order of 1.0 m as 
+compared to apertures on the order of 10.0 m for large ground/sea-based laser 
+installations.) Furthermore, airborne laser Lightcraft systems possess much greater 
+operational flexibility since their carrier aircraft can fly over significant distances to 
+reach desired launch locations, and can be based at almost any major Air Force facility 
+UNCLASSIFIED//FOR O61ilCl.li.k W&& 8Ptl'l 
+35

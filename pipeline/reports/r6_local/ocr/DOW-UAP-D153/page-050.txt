@@ -1,0 +1,67 @@
+UNCLASSIFIED/ /FOR OFFI&il.t.k WIiii 8Plklf 
+REFERENCES 
+[1] Davis, E. W. (2009), "Faster-Than-Light Approaches in General Relativity," in Frontiers of Propulsion Science, 
+eds. M. G. Millis and E. W. Davis, Progress in Astronaut ics & Aeronautics Series, Vol. 227, American Institute of 
+Aeronaut ics & Astronaut ics Press, Reston, VA, pp. 473-509 . 
+[2] Davis, E.W. (2009) , "Gravity Control with in Newtonian and General Relativity Physics," in Frontiers of 
+Propulsion Science, eds. M. G. Millis and E. W. Davis, Progress in Astronautics & Aeronautics Series, Vol. 227, 
+American Institute of Aeronautics & Astronaut ics Press, Reston, VA, pp. 175-227. 
+[3] Epstein, H., Glaser, V., and Jaffe, A. (1965) , " Nonposit ivity of the Energy Density in Quanti zed Field Theories," 
+Nuovo Cimento, Vol. 36, pp. 1016-1022. 
+[4] Hansen, H., et al. (2001), "Ultrasensitive pulsed, balanced homodyne detector : applicat ion to time-doma in 
+quantum measurements," Optics Letters, Vol. 26, pp. 1714 -1716 . 
+[5] Marecki, P. (2008), "Balanced homodyne detectors and Casimir energy densitie s," Journal of Physics A: 
+Mathematical and Theoretical , Vol. 41, 164037. 
+[6] Marecki, P. (2008), "Balanced homodyne detectors in quantum field theory ," Physical Review A, Vol. 77, 
+012101. 
+[7] Ford, L. H., and Roman, T. A. (2003), " Negative Energy, Wormholes and Warp Drive," Scientifi c American, Vol. 
+13, pp. 84-9 1. 
+[8] Morris, M. S., and Thorne, K. S. (1988) , "Wormho les in spacetime and their use for interstellar travel : A tool for 
+teaching general relativity," American Journal of Physics, Vol. 56, pp. 395-412. 
+[9] Visser, M. (1995), Lorent zian Wormholes: From Einstein to Hawking, AIP Press, New York. 
+[10 ] Hawking, S. W., and Ellis, G. F. R. (1973), The Large-Scale Structure of Space-Time, Cambr idge Univ. Press, 
+Cambridge , UK, 1973, pp. 88-91, 95-96 . 
+[11] Visser, M. (1990), "Wormho les, baby universes, and causality, " Physical Review D, Vol. 41, pp. 1116 -1124 . 
+(12 ] Visser, M. (1996), "Gravitationa l vacuum polari zation. I. Energy condit ions in the Hartle -Hawking vacuum," 
+Physical Review D, Vol. 54, pp. 5103 -5115 . 
+(13 ] Visser, M. (1996), "Gravitationa l vacuum polar ization. II . Energy conditions in the Boulware vacuum, " Physical 
+Review D, Vol. 54, pp. 5116 -5122 . 
+[14] Visser, M. (1996), "Gravitationa l vacuum polarization. III. Energy conditions in the (1 +1 )-dimensional 
+Schwarzschild spacetime," Physical Review D, Vol. 54, pp. 5123-5128 . 
+(15] Visser, M. (1997) , " Gravitationa l vacuum polar ization. IV. Energy conditions in the Unruh vacuum," Physical 
+Review D, Vol. 56, pp. 936 -952 . 
+[16 ] Barcelo, C., and Visser, M. (2002), "Twi light for the energy conditions?," International Journal of Modern 
+Physics D, Vol. 11, pp. 1553-1560. 
+[17] Herrma nn, F. (1989 ), "Energy Density and Stress: A New Approach to Teaching Electromagnetism," American 
+Journal of Physics, Vol. 57, pp. 707-714. 
+(18 ] Drummond, P. D., and Ficek, Z., eds. (2004), Quantum Squeezing, Springer -Verlag, Berlin . 
+(19] Hochberg, D., and Kephart, T. W. (1991), "Lorentzian wormholes from the gravitationally squeezed vacuum, " 
+Physics Letters B, Vol. 268, pp . 377-383 . 
+[20] DeWitt, B. S. (1975), "Quantum Field Theory in Curved Spacetime," Physics Reports, Vol. 19C, pp. 295-357 . 
+(21 ] DeWitt, B. S. (1979), "Quantum gravity: the new synthes is," General Relativity : An Einstein Centenary 
+Survey, edited by S. W. Hawking and W. Israel, Cambridge Univ. Press, Cambridge, UK, pp. 680-745 . 
+[22] DeWitt, B. S. (1989), "The Casimir Effect in Field Theory," Physics in the Making, Essays on Developments in 
+20'11 Century Physics, In Honour of H. B. G. Casimir, edited by A. Sarlemijn and J. Sparnaay, North-Holland 
+Elsevier Science Publ., New York, pp. 247-272. 
+(23] Birrell, N. D., and Davies, P. C. W. (1984), Quantum fields in curved space, Cambridge Univ. Press, 
+Cambridge, UK. 
+[24] Saunders, S., and Brown, H. R., eds. (1991), The Philosophy of Vacuum, Clarendon Press, Oxford. 
+[25 ] Milonni, P. W. (1994), The Quantum Vacuum : An Introduction to Quantum Electrodynamics , Academic Press, 
+New York, Chapters 1, 2, and 8. 
+(26] Milton, K. A. (2001), The Casimir Effect : Physical Manifestations of Zero-Point Energy, World Scientific, New 
+Jersey. 
+(27] Mostepanenko, V. M., and Trunov, N. N. (2007), The Casimir Effect and its Applications, Oxford University 
+Press, Oxford. 
+(28] Bordag, M., et al. (2009), Advances in the Casimir Effect, Oxford University Press, Oxford . 
+(29] Vollick, D. N. (1998), " Negative energy density states for the Dirac field in flat spacetime," Physical Review D, 
+Vol. 57, pp . 3484-3488 . 
+(30) Yu, H., and Shu, W. (2003), "Quantum states with negative energy density in the Dirac field and quantum 
+inequalities," Physics Letters B, Vol. 570, pp. 123-128. 
+(31] Alcubierre, M. (1994) , "The warp drive : hyper-fast travel within general relativity," Classical and Quantum 
+Gravity, Vol. 11, pp. L73-L77. 
+[32] Olum, K. D. (1998), "Superluminal Travel Requires Negative Energies," Physical Review Letters, Vol. 81, pp. 
+3567-3570 . 
+(33 ] Gao, S., and Wald, R. M. (2000), "Theorems on gravitational time delay and related issues," Classical and 
+Quantum Gravity, Vol. 17, pp. 4999-5008 . 
+UNCLASSIFIED/ /FOR OFFI&il.t.k WIiii OP.klf 
+46

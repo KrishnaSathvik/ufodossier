@@ -1,0 +1,47 @@
+Realizing that the 240-inch lens was both too large and too
+heavy for the camera bay, Baker scaled the lens down to a 200-inch
+{/16. 0 system. This was still too big. Further reductions followed, re-
+sulting by July 1955 in a 120-inch £/10.9 lens that met both the weight
+and space limitations. Later in the year, Baker decided to make the
+mirrors for the system out of a new, lightweight foamed silica mate-
+rial developed by Pittsburgh-Coming Glass Company. This reduced
+the weight significantly, and he was able to scale up the lens to a
+180-inch /13.85 reflective system for a 13- by 13-inch format. In the
+past, the calculations for such a complex camera lens would have
+taken years to complete, but thanks to Baker’s ray-tracing computer
+program, he was able to accomplish the task in just 16 days.
+
+When a C camera built by Hycon was flight-tested on 31 January
+1957, project engineers discovered that its [80-inch focal length,
+which was five times longer than that of the B camera, made the
+camera very sensitive to aircraft vibration and led to great difficulty
+in aiming the C camera from altitudes above 68,000 feet. The engi-
+neers, therefore, decided to shelve the camera. More than five years
+later, a redesigned C camera was employed during the Cuban Missile
+Crisis in October 1962, but the results were not very satisfactory.
+
+The failure of the C camera design was not a serious setback to
+the high-altitude reconnaissance program, because the B camera
+proved highly successful. Once initial difficulties with the film-trans-
+port system were overcome, the B camera became the workhorse of
+high-altitude photography. An improved version known as the B-2 is
+still in use. Both of the earlier A-model cameras were phased out after
+September 1958.
+
+During the period when he was designing lenses for the CIA’s
+overhead reconnaissance program, James Baker was also working on
+classified Jens designs for the Air Force and unclassified designs for
+the Smithsonian Institution. To protect the security of Baker’s work
+for the Agency, Herbert Miller of the Development Projects Staff told
+Baker to work on lenses for the U-2 in the open and not make any
+effort to classify the documents connected with the project. Miller be-
+lieved that by not calling attention to the effort through the use of spe-
+cial security measures, the project could be completed faster and still
+not be compromised. This “hiding in the open” strategy proved very
+successful.”
+
+* Ibid.
+
+—Geeret NOFORN
+Chapter 2
+55

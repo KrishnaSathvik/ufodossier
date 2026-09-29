@@ -1,0 +1,55 @@
+UNCLASSIFIED/ (POR CFFECEAL-USE-ONE-
+
+will eventually fracture at their weakest points, which, statistically, is often somewhere
+in the matrix rather that at the mouth of the crack. These fractured fibers then must be
+pulled out of the matrix during crack extension under continued loading, an action that
+dissipates additional energy. Therefore, the total energy expended during fracture of a
+CMC is much greater than it would be in the case of a monolithic specimen of the
+ceramic matrix. The crack bridging and pullout mechanisms of toughening, with the
+attendant increase in energy dissipation during fracture, are the conceptual foundation
+for CMCs. In SiC fiber-reinforced SiC matrix (called SiC-SiC) CMCs, the toughness can
+be as high as 10 times that of the unreinforced matrix. Clearly, the nature of the fiber-
+matrix interface determines the resistance to fiber pullout after fracture and controls
+the toughness. In high-temperature CMCs, the fibers are coated to achieve an
+intermediate fiber-matrix interfacial bond strength that optimizes pullout toughening. If
+the interface is too weak, the fibers pull out too easily. If it is too strong, the fibers
+break without any pullout. Neither of these situations maximizes the toughness.
+Therefore, the challenge in creating a tough CMC is not only creating this interface but
+also finding a coating that will remain stable over time during exposure to elevated
+temperatures. As service temperature increases, this latter requirement becomes more
+challenging. For extended service, SiC-SiC CMCs currently are limited to about 1,400
+°Celsius, but this is higher than the capability of metallic materials.
+
+The matrix microcrack stress is also significant because once the matrix develops
+microcracks, it allows the environment to gain access to the fiber-matrix interfaces. The
+role of environment can be to alter the nature of the interface and reduce the extent of
+pullout toughening. The obvious difficulty with this is that the properties are better
+initially than after a period of exposure in service. This leads to a nonconservative
+design that is dangerous. Absent an arbitrary knockdown, there currently exists no
+means of estimating the reduced toughness as a function of service life.
+
+Nevertheless, CMCs are the material class that holds the greatest promise of defeating
+the temperature limits of current metals. An important issue at present is the limited
+industrial base for producing CMCs and the even more restrictive range of suitable
+ceramic fibers available for use as the reinforcement in CMCs. The cost of CMCs is
+currently very high but should come down with increased demand, as happened with
+TMCs. Even so, CMCs will always be expensive, making development of efficient designs
+that make optimal use of this class of material important.
+
+Carbon-Carbon Composites
+
+Carbon-carbon composites (C-CCs) consist of carbon fibers in a typically amorphous
+carbon matrix. In principle, this class of materials is very attractive because it has very
+low density and high strength at elevated temperatures. C-CCs also have good
+oxidation resistance at very high temperatures (1,200 °Celsius) because they use an
+Si-rich coating that forms a stable, protective SiOz film on the surface. This coating
+system is “self healing” if breached because, among other things, it is glassy (viscous)
+and reforms over cracks. The principal vulnerability occurs at intermediate
+temperatures where the viscosity of the glass is high enough that it may not flow
+rapidly enough to heal a breach, exposing the reactive C substrate to the damaging
+oxidizing environment. As with CMCs, there also are some questions concerning long-
+term changes in the fiber-matrix interfaces that are at least partially responsible for the
+loss of impact toughness over time, as experienced in the Columbia accident.
+
+19
+UNCLASSIFIED 44502.05516041-USE-OPHS=

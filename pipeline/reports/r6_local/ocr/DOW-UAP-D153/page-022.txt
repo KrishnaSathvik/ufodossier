@@ -1,0 +1,29 @@
+UNCLASSIFIED/ /POI\ OPPICIJIIL YSIE 8Hllf 
+must give the position or the momentum distribution, respectively. Furthermore, if one 
+performs a phase shift 8 all complex amplitudes aare shifted in phase, §§§ meaning that 
+the components q and p rotate in the 2-dimensional phase space (q,p). A classical 
+probability distribution for position and momentum values would rotate accordingly. 
+This fact leads to the postulate that the position probability distribution pr(q,8) after an 
+arbitrary phase shift 8 should be [38] 
+pr(q,0) =(qJOce)p 0\ e)J q) 
+(10) 
+= f: w(qcos0-psin0,qsin0+pcos0)dp, 
+where p is the quantum density operator (or density matrix) which describes the 
+statistical (or most general) state of a quantum system. The first line in Eq. (10) is the 
+quantum expectation value of the phase-shifted p, which simply gives the probability 
+distribution for the q-eigenstates to occur with probabilities pq (the elements of p). 
+This single formula joins W(q,p) with quantum mechanics. It ties W(q,p) to observable 
+quantities, and it links quantum states to observations . 
+It is beyond the scope of this report to repeat the entire mathematical development of 
+the explicit functional representations, identi ties, transformations and modifications of 
+W(q,p). The reader should consult Reference [38] for more infor mat ion. However, 
+Figures 4 through 7 provide an example of what the experimentally reconstructed 
+Wigner function visually looks like from the quantum optical homodyne tomography of 
+the following cases of interest: a vacuum state, a coherent state, a squeezed vacuum 
+state, a single photon, and Schrtidinger cat states. The Schrtidinger cat states are a 
+very interesting case study of unusual nonclassical states of light that have been 
+experimentally measured via quantum optical homodyne tomography. 
+§§§ The unitary phase shifting operator is U(0) = exp(- i0ii), where ii is the photon number operator and eis the 
+phase shift angle. Its action on the amplitude ais: u \ 8)11U(8) = 11e.>.p(- i0) . 
+UNCLASSIFIED/ /FOR 0661CIAk W&IE 8HLY 
+18

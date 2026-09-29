@@ -1,0 +1,41 @@
+UNCLASSIFIED/ /POil Offl@IAL YSlii &P•tlf 
+extravagant in the sense that only a small fraction of the fission explosive is consumed. 
+This problem can be overcome through the nonfission ignition of small fusion 
+explosions. A first step in this direct ion is the nonfission ignition of deuterium-tr itium 
+(DT) thermon uclear microexplosions, expected to be realized in the near future . This 
+reaction was chosen for the first proposed thermonuclear microexplos ion propulsio n 
+concept, with the ignit ion done by an intense relativistic electron beam (Reference 1, 
+2). But because in the DT reaction 80 percent of the energy is released into neutrons 
+that cannot be reflected from the spacecraft by a magnetic mirror, it was proposed to 
+surround the microexplosion with a neutron-absorbing hydrogen propellant, increasing 
+the thrust at the expense of the specific impulse. For this reason, in the "Daedalus" 
+interstellar probe study by the Brit ish Interplanetary Society (Reference 3), the 
+neutron-less helium3-deuterium (He3-D) reaction was proposed, because for such a 
+mission the specific impulse should be as high as possible. But even in a He3-D plasma, 
+there are a some neutron -produc ing DD reactions. There is no large source of He3 on 
+Earth, though it might exist on the surface of the Moon and in the atmosphere of 
+Jupiter. In the DD reaction, much less energy goes into neutrons, but it is more difficult 
+to ignite. 
+The situation is illustrated in Figure 1. On the upper left side is the experimentally 
+verified ignition of a DT pellet with the X-rays generated in an underground test from a 
+fission bomb (Centurion Halite experiment at the Nevada Test Site). For the ignition of 
+the DT reaction with propagation thermonuclear burn (that is, detonation), one requires 
+a few megajoules, with a density x radius target product, pr~ lg/cm 2 . On the upper 
+right side is the 15-megaton "Mike" test, where with the Teller-U lam configuration a 
+large amount of liquid deuterium is ignited with a fission bomb. For the DD reaction 
+propagating thermonuclear burn (that is, detonation), one requires that pr~ 10g/cm2. At 
+the bottom is the proposed hypothetica l deuter ium target, where a detonat ion wave in 
+a th in cylindr ical deute rium rod is ignited by a pulsed 107 -ampere GeV proton beam, 
+utilizing the strong magnetic field of the beam current. 
+Solution in between two extremes 
+£~ l06J £~!0 12 J 
+pr~ I g/cm2 @pr~ 10 g/cm2/j * u 
+Centurion - Halite (DT Pellets) Mike Test (Teller/Ulam Configuration) 
+B 
+E S 109 J I ......• ..\.t► ~ n ·, 
+pz ~ 10 g/cm2 ---
+I~ 101 A 
+Hypothetical D-D Ignition with Super Marx Generator 
+Figure 1. Ignition With 107-Ampere GeV Proton Beam (Reference 16) 
+UNCLASSIFIED/ /FOR. 0PPl@IAL Y§lii 8PUzlf 
+11

@@ -1,0 +1,36 @@
+UNCLASSIFIED/ /FOR OPPICI"L U.!I! Grit I 
+gold, in the two foci of an ellipsoidal cavity. The radiation released by the exploding 
+fission bomb, by ablating the gold, launches a convergent shock wave into the liquid 
+deuterium. With the temperature in the shock wave approximately rising as 1/r , where 
+r is the distance of the shock wave from the center of the deuterium sphere, the 
+ignition tempe rature is reached at some distance from the center. But only if this 
+distance is larger than the stopping length of the DD fusion react ion products, typically 
+a few cm, is a radia lly outward-moving detonation wave ignited. This configuration is 
+essentially the same kind of "hohlraum" (cavity) configuration used in the indirect drive 
+mode of laser fusion for a small DT sphere. 
+A configuration of this kind can still be used to burn deuterium if the DT microexplosion 
+is used to trigger a larger deuterium explosion. For a starship that will depend on 
+deuterium as its only rocket fuel, this possibility is excluded. 
+But another possibility arises if the ignition is done with a 107 -ampere gigaelectronvolt 
+(GeV) proton (or deuterium) beam. If focused onto one end of a slender, cylindrical 
+deuterium rod, the beam not only can be made powerful enough to ignite the 
+deuterium, but its strong azimuthal magnetic field entraps the charged DD reaction 
+fusion products within the deuterium cylinder, launching a deuterium detonation wave 
+propagating with supersonic speed down the cylinder (Reference 13). There the fusion 
+gain and yield can in principle be made arbitrarily large, depending only on the length 
+of the deuterium rod. 
+The range of the charged fusion products is determined by their Larmor radius 
+a r, = ­ (12)B 
+where 
+C (2MAE/ 12 
+Q - ----- (13) 
+e Z 
+In equation (13), c, e are the velocity of light and the electron charge, M the hydrogen 
+mass, A the atomic weight, and Z the atomic number. Eis the kinetic energy of the 
+fusion products. 
+If the magnetic field is produced by the proton beam current I, one has at the surface 
+of the deuterium cylinder the azimuthal magnetic field 
+(14) 
+Combining equation (12) with equation (14) and requiring that r, < r, one finds that 
+UNCLASSIFIED/ /FOA OFFICiI.\k Wliliii O,.k¥ 
+7

@@ -1,0 +1,91 @@
+UNCLASSIFIED //FOR-OFFTCEAL-USE-ONES
+
+shorter trips to the stars. Figure 14 shows how much time is required for the trip (one
+way) based on the required acceleration. These equations are independent of the
+specific impulse of the rocket. The mission cannot be less than 4.22 years in duration,
+since the spacecraft cannot exceed the speed of light. If a 10-year mission were
+chosen, the fuel usage would be tremendous, but the vehicle could attain an
+acceleration of 0.20 g. At this acceleration, time on the rocket would pass at 72% of
+the rate of time on Earth.
+
+To predict the amount of fuel required for the ideal fusion drive, the Bussard Aneutronic
+Propulsion system, weighing 14 tons, is assumed to be coupled to a craft the same
+mass as the International Space Station. By assuming a very gradual acceleration of
+0.001 g, the trip will take about 127 years attaining a maximum velocity of 6.5% of the
+speed of light. Even at this modest acceleration, 85% of the initial mass of the
+spacecraft will have to be fuel/propellant. The Mathcad spreadsheet used to predict
+these values is included in Appendix D as the “Relativistic Rocket Worksheet.” Figure
+15 shows the opening page of the worksheet. Any text in red can be modified to
+predict performance with different drives, vehicle mass, or distance traveled.
+
+re Maximum Velocity as a Function of Fuel Consumption
+
+JA. Define the Mass of the Rocket andthe Engine |_|
+|_|. Payload Mass [| 370,000] (ke) | [|
+| [2 Engine and Fuel Mass | 2,700] (ke) | |
+|_|3. TotalRocketMass || 382700] (ke) | |
+
+B. Define the Specific Impulse of the Engine a
+
+|_ [2 Specificimpulse| | 3naaa.7aif is) | [|
+{|
+JC. Define the Distancetothe sta | | TT
+
+| | 4.22fiemevearss ||
+| | 3 99246e+16] (m) | |
+a ee ee ||
+
+D. Define the Maximum Acceleration |
+
+Maximum Velocity/c
+
+Am/ Minin
+
+1, Acceleration/g 0.001
+2. Acceleration 0.00981] (m/s”
+
+E. Compute the Time Required for the Mission -+—
+
+a ee ee
+F. Calculate the Velocity at the Midpoint ee eee ee
+|_|2. velocityatMidpoint |_| 19758174.9] (m/s)| |
+| | (
+
+G. Calculate the Energy Required
+1. Lorentz Factor 1.002175889)
+
+|_|. EnergyfromFuel] | a.asssses2o] iy) | [|
+H. Calculate the Mass of Fuel Required a eee ee
+| [a derrav | | g7saiza.s] (m/s) | |
+|_|2. Mass Ratio(final/initial) | | a.7aesool | |
+| a 20 25 30 35 40 45 50
+
+| |5. Fuel Mass/ir 2 Ss i Earth Time (yr)
+
+co io
+
+a)
+
+m
+
+=
+
+we
++
+
+© Ageleration/g, Hrodket)/tfearch) 2
+
+o RN
++
+
+e
+we
+om
+o
+w
+wn
+
+Figure 15. Spreadsheet for Sample Mission to Alpha Centauri.
+
+34
+UNCLASSIFIED / /fOR-OF FECHA USE OMEN,

@@ -1,0 +1,75 @@
+U. s. Air Force Technical 
+Infonnation Sheet Question 
+Punched 
+Card 
+Column 
+3 
+39 
+4q 
+41 
+42* 
+43* 
+~ 
+46 
+Code Description 
+Hour 
+Angle 
+Angle of 
+Elevation 
+of the 
+Sun 
+Group Classification 
+sun 
+Bearing 
+Angle 
+Time Units 
+Duration 
+54 of Observation 
+l.5. 56i How Observed 
+5.si Group Classification 
+16a. 57* Sound 
+16b. 58-ii- Object Color 
+16b. 17. 59"- Light Color Physical ______ ...... ________ __.6r!◊*,..--------c-01;.;..o-r_Gr ___ oup 
+Classification 
+19. 61* Number 
+lla. llb. 39. 62* Speed 
+17. lB. 24. 63-lf, Shape Description --=it"':::1,..,1:~.~21=-.----:2~2~.--:s24r-.-----~6"4-*--------=s-=-i--ze __ _ 
+10, lle. 65* Light Brightness 
+5. 11, 17. 20. 66-ii- Angular Velocity Motion 
+33. 67* Angular Acceleration 
+29. 31. 1. 68i Appearance Bearing 
+23. JO, 31. 2. 69-ii'. Disappearance Bearing 
+7◊* Initial Elevation 31• 32• 71* Final Elevation Description 
+41. 
+72* Orientation 
+73* Maneuvers 
+74* Observer Occupation 
+7$i Observer Rating Observer 
+7&t- Report Rating 
+77* Reliability Group 
+Classification 
+78-ii- Final Identification 
+* Denotes that separate code key is needed. 
+312 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I

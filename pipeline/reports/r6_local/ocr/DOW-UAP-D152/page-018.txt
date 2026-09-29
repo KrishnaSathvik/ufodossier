@@ -1,0 +1,25 @@
+UNCLASSIFIED/ /fOR. 8FFI61.t..k W&i QJsll,¥ 
+r 
+Experimentally, the electron is indistinguishable from a point. This would make r = 0. In 
+reality its size must be finite but in principle can be very small. This means that m+ 
+(andlm - I) are likely to be very much larger than m. 
+t has been conjectured by Honl and Papapetrou [SJ that the electron is a pole-dipole 
+particle where the surplus positive energy comes from the positive gravitational 
+interaction energy of a very large positive m+ mass with a likewise very large negative 
+m- =-lm+I mass. According to this hypothesis one would have for the electron rest 
+mass energy 
+(44) 
+Combining (44) with (42) one can compute m+. The result is [S]: 
+m• t~h ~6 X 10-13 g, (45)= 3 1/ 
+larger by a factor 3.6xl0 11 times the mass of the proton. 
+We therefore see that there are huge amounts of negative masses bound to positive 
+masses in Dirac spinors. It shows that it cannot be a simple matter to free the negat ive 
+masses from the positive masses. And it explains why the masses of the elementary 
+particles are so much smaller than the Planck mass, mp ~ 10-5 g. 
+6. Planck Aether Hypothesis [7,8] 
+We make here the proposition that the fundamental group is SU2, and that by Planck's 
+conjecture the fundamental equations of physics contain as free parameters only the 
+Planck length rp, the Planck mass m p and Planck time tp (y Newton's constant, h 
+Planck's constant, c the velocity of light): 
+UNCLASSIFIED//POllt: OPPIEIICL tf!H!!! or~LY 
+14

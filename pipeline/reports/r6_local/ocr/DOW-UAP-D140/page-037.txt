@@ -1,0 +1,50 @@
+UNCLASSIFIED//&OR Oii&ICI0L Ll&li QPIL¥ 
+L1 is an ideal location for solar monitoring, whereas L2 is permanently shielded from 
+the sun . 
+4.0 Future Potential 
+4.1 DEVELOPMENTAL ROADMAP 
+A development roadmap is suggested here for the application of High Frequency 
+Gravitational Waves (HFGWs) in the field of communications. The development 
+roadmap should be twofold: 
+• Theoretical work should continue on HFGW transmitters (generators) and receivers 
+(detectors). 
+• Experimental devices should be built and tested in the laboratory and then 
+transitioned over to a practical communicat ions system. 
+A suggested developmental roadmap schedule and phasing timeline is included as 
+Figure 24. Theoretical research is always an ongoing enterprise, but it is especially 
+important to encourage work in the development of experimental approaches aimed at 
+demonstrat ing laboratory generation and sensing of gravitat ional waves for the next 
+few years. This is the kind of academic work that is best done in a research university 
+setting, at least for the next ten years or so, until laboratory experiments can verify 
+laborato ry generation. Without early confirmation the technology will not gain 
+widespread acceptance and move forward. 
+GW Communications Development Timeline Estimate 
+Decade 201X 202X 203X 204X 
+Years 21109 20 0 ~030 2035 2~40 2051 
+Device 
+Program Mi/estoneiJ ~ &D ~ Prototype Design EMDB/d 
+@ P~a:~~;ion Q~ !'!:~!:!;'e "@1s1;:,7.C:,a-Ahead ~Go-Ahead @ Go- No a ~ / No-Bid 
+~zo 
+Perform ........................ .................................................. 
+Experimental Exp. Research 
+Research ........................ ......................... ........................ 
+1 ~015 
+----------- ------------------- ---- ---- --- -----------------------Perform 
+IPrototype Development Prototype ---- --------- --------------- -------- --- -------------------------
+Development 
+2035 
+Device Device Development 
+Development 
+IJ.2040 
+Appl/cations ',Applications Developmen 
+Development Interplanetary 
+Upgrade / 
+2035 
+Delivery 
+System • J].
+1st Applications Delivery Applications Production 
+Production 
+& Upgrades 
+Figure 24. HFGW Com Space Application Development Roadmap, Estimated Timeline 
+UNCLASSIFIED/ /FOP OiiiilCl.t.k l!ISI!!! l>flti 
+32

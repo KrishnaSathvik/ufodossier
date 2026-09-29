@@ -1,0 +1,22 @@
+3 
+Conrad Yes 
+Cooper I think this would be a tremendous benefit and 
+shouldn't be difficult to come up with . 
+Conrad If you place your eye so that it goes through the 
+lower left corner of the right window or the lower 
+right corner of the left window and run that eye 
+position right through the front RCS yaw thruster, 
+the lower yaw thruster in the front ring, I guess 
+that's ring A, anyway, you take a line between 
+your eye, the corner of the window and the front 
+RCS yaw thruster, right through the middle of it, 
+and put that line on the top of the airglow or the 
+horizon. Then the spacecraft, and this looks like 
+an excessively nose up attitude, but it's not, 
+you're zero degrees in pitch then the window frame 
+is just about vertical to the horizon and it forms 
+a perpendicular angle. 
+Cooper The inside edge of the frame . 
+Conrad The inside up and down edge of the window corne r 
+makes a perpendicular angle to the horizon and you 
+can use that as a roll gage. If you set it up

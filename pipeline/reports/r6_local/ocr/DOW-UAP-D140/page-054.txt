@@ -1,0 +1,48 @@
+UNCLASSIFIED//EOR OEEICI0L Llili QI\IL¥ 
+disadvantage that this device is of a unique design that is currently available only from 
+Yale University, and is likely not to be exportable. This task will include developing a 
+conceptual design using this alternative type of receiver for the PPF arising from 
+HFRGW. 
+DD1.6 Cryogenic System 
+Specification and design of the cryogenic system refrigeration unit, required for low­
+temperature operation to obtain the best possible reduction in intrinsic thermal noise: 
+Dr. R.C. Woods (LSU) + graduate student, Dr. R. M L Baker (TSC), G.V. 
+Stephenson (TSC). The required criterion is that the temperature T satisfies kBT < < 
+nw (where kB is Boltzmann's constant); that is, T << nw/kB ~ 480mK for detection at 
+10GHz. This condition is satisfied by the target temperature for the interaction volume 
+T < 48mK, which can be obtained using a common helium-dilution refrigerator. Then, 
+the signal PPF will be significantly greater than the thermal photon flux. 
+Cost/performance tradeoffs may also be important in this design, so that other possible 
+economic solut ions to receiver cooling will also be considered before finalizing the 
+design. 
+DDl.6.1 Off-the-shelf cryogenic systems: a number of companies have developed 
+ultra -low temperature systems (mK range) for a variety of applications. A common 
+application is refrigeration of receivers as needed in the Li-Baker HFRGW detector. One 
+possibility is the Oxford Instruments' KelvinoxMX range (see summary data attached) 
+that appears to suit the present requirements subject to further evaluation of each 
+model in the range. Other manufacturers to be investigated include Scientific Magnetics 
+(UK), and Cryofab Inc. (Kenilworth, New Jersey). 
+DDl.6.2 Specifications for system best suited to the detector: specifications will 
+be established for the selected cryogen ic system. This will include cryogen level 
+monitoring devices (for example, Oxford Instruments Intelligent Level Meter ILM200) 
+for warning if the cooling fails. 
+DD1.7 Electromagnet 
+Development of the electromagnet specification needed to produce the required static 
+magnetic field (up to 35T, ~3T nominal): Or. R.C. Woods (LSU) + graduate 
+student, Dr. R. M L Baker (TSC), G.V. Stephenson (TSC). It is expected that a 
+commercial design can be identified for this task. The chosen design will be capable of 
+providing the requisite magnetic field at least over the interaction cavity volume in the 
+containment vessel. Exceptional field-uniformity is not a particularly important issue in 
+this application, though the GW interaction volume or cavity (roughly cylindrical, 6cm 
+diameter and 30cm long) plus extra volume for the surrounding apparatus is somewhat 
+larger than many other experimental applications require, and the required field is 
+perpendicular to the cylindrical axis. Hence, one solution is that the final solenoid 
+design must completely surround the cylindrical axis of the interaction volume 
+perpendicular to the applied field. An alternative approach is to use two solenoids, one 
+each side of the interaction volume, similar to the popular Helmholtz coil configuration. 
+In a development of this, a number of small ( ~6cm diameter) solenoids could be 
+stacked along the length of the interaction volume, with their Helmholtz-like opposite 
+paired solenoids the other side of the interaction volume. In the latter cases, since the 
+paired solenoids are not perfect ring coils, the resultant field would be non-uniform. A 
+UNCLASSIFIED/ /FOR OEEICIJ.b HSI!! Dflti 
+49

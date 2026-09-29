@@ -1,0 +1,55 @@
+UNCLASSIFIED/ ,'FOR OFFl&IAk le.ISi: OPtklf 
+directly in the cortex or cerebellum can take the fullest advantage of neural training and 
+processing capability. Two research paths currently showing the most promise are 
+optical interfaces and ex-vivo preparation of electrode arrays encased in engineered 
+neural tissue . New electrode designs that could establish two-way communication with 
+single neurons are also prom ising. The cerebellar connection point is extremely 
+interesting to perhaps provide a connection that would effectively make the external 
+device a part of the body as far as the brain is concerned. 
+The current state of the art using metal electrode arrays for proximal stimulation and 
+sensing does not appear to be advancing toward long duration viability as a commercial 
+BMI without some unforeseen advance in two-way communication. Peripheral 
+connections have some theoretical promise, but an example of such an implant in a 
+human trial did not shown terrific success over several weeks it functioned. 
+Implantation of cortical arrays in human trials has not been conducted on a wide scale 
+for durations longer than a few weeks, and two-way electrical communication has yet to 
+be realistically demonstrated, limiting the possible commercial application portfolio for 
+this technology. 
+Many possible research directions for disruptive advances have been presented. These 
+areas and the physiological-physical interconnection field of study as a whole should be 
+monitored regularly for advances, as well as the ancillary technology areas of brain 
+plasticity, neural signal decoding, and general basic neuroscience. Advances in any and 
+all of these areas could alter the future landscape of commercial applications and 
+dramatically alter our understanding of what is possible through thought-directed 
+control. 
+1 Alberts B. Molecular biology of the cell. 4th ed. New York : Garland Science; 2002. 
+2 Polich J. Updating P300: an integrat ive theory of P3a and P3b. Clin Neurophysiol 2007 Oct;118 (10) :2128-48 . 
+3 Ravden D, Polich J. On P300 measurement stability: habituation, intra-trial block variation, and ultradian 
+rhythms . Biol Psychol 1999 Oct;51(1):59 -76. 
+4 Sutton S, Braren M, Zubin J, John ER. Evoked-potential correlates of stimulus uncertainty. Science 1965 Nov 
+26; 150(700): 1187-8. 
+5 Sawaki R, Katayama J. Top-down directed attention to stimulus features and attentional allocation to bottom -up 
+deviations . J Vis 2008;8(15):4 1-8 . 
+6 Huettel SA, Song AW, McCarthy G. Functional magnetic resonance imaging. Sunderland, Mass.: Sinauer 
+Associates, Publishers; 2004 . 
+7 Kandel ER, Schwartz JH, Jessell TM. Principles of neural science. 4th ed. New York : McGraw-Hill, Health 
+Professions Division; 2000. 
+8 Ogawa 5, Tank DW, Menon R, Ellermann JM, Kim SG , Merkle H, et al. Intrinsic signal changes accompanying 
+sensory stimulation : functional brain mapping with magnetic resonance imaging. Proc Natl Acad Sci US A 1992 Jul 
+1;89(13) :5951 -5. 
+9 Emerging Cognit ive Neuroscience and Related Technologies. Washington DC: National Research Council of the 
+National Academies; 2008. 
+10 Miller MB, Van Horn JD, Wolford GL, Handy TC, Valsangkar-Smyth M, Inati S, et al. Extensive individual 
+differences in brain activations associated with episodic retrieval are reliable over time. J Cogn Neurosci 2002 Nov 
+15; 14(8): 1200-14. 
+11 Hatsopoulos NG, Donoghue JP. The Science of Neural Inter face Systems . Annu Rev Neurosci 2009 Mar 24. 
+12 Fitts PM. The informat ion capacity of the human motor system in controlling the amplitude of movement. J Exp 
+Psychol 1954 Jun;47(6) :381 -91. 
+' 3 Drury CG, Hoffmann ER. A model for movement time on data -entry keyboards. Ergonomics 1992;35(2):129 -
+47 . 
+14 Choi C, Micera S, Carpanet o J, Kim J. Development and quantitative performance evaluation of a noninvasive 
+EMG computer interface. IEEE Trans Biomed Eng 2009 Jan;56(1):188-91. 
+15 Soukoreff RW, MacKenzie IS. Theoret ical upper and lower bounds on typing speed using a stylus and soft 
+keyboard. Behaviour & Information Technology 1995;14(6) :370-9. 
+UNCLASSIFIED/ /FOR OFFI@IAL 1:191!!! 9Htl" 
+28

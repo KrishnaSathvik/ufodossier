@@ -1,0 +1,48 @@
+UNCLASSIFIED/ / FOR OFFI&IAk W&E 8PtkY 
+In F/N/F tri layers, the relative orientation of the magnetizations of the two Fs is 
+controlled by an externally applied magnetic field B. To achieve well-defined antiparallel 
+and parallel states of the two Flayers, the moment of one Fis often "pinned," via 
+exchange coupling (exchange bias) to an adjacent AFM layer (Reference 88, 89), 
+leaving the moment of the other free to reverse in much smaller B. In a simple 
+AFM/N/AFM sample, just applying a field Bis not expected to be efficient because of the 
+weak effect of external fields on magnetic moments in AFMs. To achieve better control 
+of the AFMs, AFM/N/AFM spin valves can be sandwiched between two F layers to give 
+F/AFM/N/AFM/F, with the two AFM layers differently exchange-coupled to their 
+respective F neighbors. Applying a magnetic field to change the magnetic order of the F 
+layers should then also affect the order of the AFM layers. In addition to AFM/N/AFM 
+and F/AFM/N/AFM/F multilayers, Wei et al. (Reference 87) have studied a variety of 
+structures-F/AFM/N/AFM, AFM/F/N/AFM, F/AFM, and single F and AFM layers-to 
+isolate the MR observations of interest from potential spurious effects . 
+For small applied currents, neither standard current-in-plane (CIP) MR measurements 
+on extended multilayer films nor CPP MR measurements with point contacts showed 
+any MRs for samples of all types. For larger applied currents, small positive CPP MRs 
+(resistance is highest at saturation) were sometimes observed in samples with at least 
+one F layer, while no MR was seen in samples with no Fs. These observations suggest 
+sputtered AFM/N/AFM multilayers do not show AGMR, possibly owing to mostly diffusive 
+transport in such imperfect films. Small MRs observed at higher currents in films with F 
+layers may be associated with the suppression at high currents of spin accumulation 
+induced within and around Fs (Reference 90). Further studies on high-quality films are 
+still needed to verify any possible existence of AGMR in such structures. 
+4 .2 ANTIFERROMAGNETIC STT 
+Stimulated by the theoretical studies in (Reference 84-86), four experimental searches 
+for effects of STT on AFMs have been published so far (Reference 91-94 ), all working 
+with exchange-biased spin-valves (EBSVs) of the form AFM/Fl/N/F2. Here the AFM lies 
+outside the "active" GMR region of the two F layers and serves mainly to "pin" the 
+magnetization of the adjacent F2 layer to a higher reversing (switching) field than that 
+of the "free" Fl layer, leaving the Fl layer free to rotate at a lower field. The pinning is 
+produced either by heating the sample to above the blocking temperature of the AFM, 
+applying a magnetic field, and then cooling to room temperature with the field on or by 
+applying a magnetic field during sample growth. Wei et al. (Reference 91) used a point 
+contact to inject a high de current density j "' 1012 A/m 2 approximately CPP into an 
+EBSV film. Urazhdin and Anthony (Reference 92) sent a de CPP current density j ~5 x 
+1011 A/m 2 into electron -beam-lithography -fabricated nanopillar EBSVs. Tang et al. 
+(Reference 93) sent a de current-in-plane (CIP) current density ~1010 A/m 2 into an 
+EBSV film with a metallic AFM. Dai et al. (Reference 94) sent an ac CIP current density j 
+"' 109 A/m 2 into an EBSV film with an insulating AFM. In all of the studies (Reference 
+91-94), it was found that a sufficiently high bias current can influence the magnetic 
+reversal of the "pinned" Fl layer. As the pinning (ex,change bias) is known to be 
+associated with interfacial AFM moments (Reference 88, 89), this observation can be 
+taken as evidence of effects of the current on the AFM predicted in (Reference 84-86), 
+given that other spurious effects (for example, Joule heating) can be ruled out. 
+UNCLASSIFIED/ ,eFOlil OFFI CI 0L: 11&: i ODIL:¥ 
+14

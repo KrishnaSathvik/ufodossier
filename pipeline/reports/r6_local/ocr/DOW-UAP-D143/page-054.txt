@@ -1,0 +1,27 @@
+UNCLASSIFIED/,'rOR: orrlCIAL USE 014Lf 
+Figure 20. DARPA's High Energy Liquid Laser Area Defense System (courtesy of P. 
+Saunders, AFRL/RDS, Kirtland AFB, NM). 
+Unlike chemical and gas dynamic laser devices, bulk solid-state lasers possess the 
+following unique characteristics, which make them highly competitive with any chemical 
+or gas dynamic laser systems [30]: 
+• Reliability. 
+• High level of safety. 
+• User-friend ly. 
+• Maintenance-free. 
+• Low-cost performance, high-volume production. 
+• Compact size. 
+• Wide range of wavelength selection and wavelength tunability. 
+• Variety of power oscillator or master oscillator-power amplifier (MOPA) designs. 
+• Scalability of beam output power, variety of beam combining techniques: scalable 
+to 1 MW beam power with in 2 years . 
+Typical solid-state lasers have the following tech nical features [30): 
+• Gain medium: 
+Host crystal [e.g., Yttrium Aluminum Garnet (YAG)], glass or ceramic 
+(amorphous materials). 
+- Imp urity lasing ions deposited (or doped) in host [e.g., Neodymium (Nd 3+) or 
+Ytterbium (Yb3+)]. 
+- Range of beam wavelengths (11. ) produced: 0. 7 µm to > 2 µm. 
+• Optically pumped with flash lamps or diode lasers. 
+• Capable of high peak power pulses. 
+so 
+UNCLASSIFIED,<,<FOA QFFISIAL HSI!! 8HLY

@@ -1,0 +1,44 @@
+UNCLASSIFIED/ fFOA OFFIEIAL: U&i QPIL:¥ 
+the efficacy of using Type Ia supernovae as a standard distance candle for cosmological 
+dark energy surveys. The Higher -Z team's results also concluded, with 98 percent 
+confidence, that wde = - 1.0, and that this is a perpetual constant (over at least 10 billion 
+years time) (Reference 54). This result falsifies all quintessence models for cosmology. 
+Therefore, a cosmological constant is consistent with the dark energy data to a high 
+degree of precision and statistical confidence whereby one can now state that dark 
+energy is the vacuum energy of Einstein's cosmological constant because wdc = wA = -1 
+(Reference 55,56). 
+Equation (20) can be integrated to find the evolution of the dark energy density, Pde = 
+PA, as a function of the cosmological scale factor a: 
+(22) 
+where a' is the dummy integration variab le for the scale factor. Since wde = - 1 (= wA ) is 
+a constant in Equation (22), then Pc,•. oc aexp[-3(1 + ~1,)] or Pde = P A oc a0. This is exactly 
+what is expected on the basis of previous analysis in Section III-D-2. For a comparison 
+with this result, one should note that pc2 oc a-3 for (ordinary and dark) matter and Prn<1 oc 
+a-4 for radiation such that pc2 ➔ 0 and p,,d ➔ 0 as a ➔ oo while Pde = PA remains constant. 
+Antigravity Propulsion Application of Dark/Vacuum Energy 
+If one could somehow harness a local amount of dark/vacuum energy, then use can be 
+made of its negative pressure property to produce an antigravity propulsion effect? To 
+answer this question one can use the estimated value for Pde = PA:=:; 2.4poc2 ~ 10-9 J/m 3, 
+where po is the present-day value of the total cosmologica l mass density of (ordinary 
+and dark) matter (Reference 54,57). Using this number one can work through the math 
+and estimate that the total amount of dark/vacuum energy contained within our solar 
+system amounts to the mass equivalent of a small asteroid. This means that its 
+repuls ive gravitational influence upon planetary orbital dynamics inside the solar 
+system is completely inconsequential. Only on the extragalactic-to-cosmological scale 
+will its repulsive grav itational property achieve strong enough influence over matter and 
+spacetime. On this basis, one can conclude that it is highly unlikely, if not impossible, 
+that one will be able to invent a technology in the near future that can acquire and 
+exploit a near-cosmological amount of dark/vacuum energy to implement a useful 
+antigravity propulsion system. 
+IV. Quantum Antigravity Propulsion Concepts 
+Quantum antigravity can be found within the very large genre of quantum gravity 
+theories in which repulsive gravity terms appear as quantum corrections to the classical 
+Newtonian gravitational force law. Generally, one can derive such correction terms by 
+quantizing the Einstein general relativistic field equation or by starting with a particular 
+type of quantum field theory (for example, supersymmetric field theory, quantized 5-
+dimens ional Kaluza-Klein unified field theories, quantum superstrings/D-Brane theory, 
+quantum loops or knots, and Yang-Mills theories) and work backwards to find the 
+corresponding gravity theory. The particular mathematical form and quantitative 
+magnitude that quantum correct ion terms can have totally depends upon the 
+UNCLASSIFIED/ /FOA OFFI€il.t.k Y&li 8,.LY 
+17

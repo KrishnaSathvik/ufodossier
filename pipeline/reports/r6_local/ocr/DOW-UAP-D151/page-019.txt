@@ -1,0 +1,43 @@
+UNCLASSIFIED/ lfQR OEFICitk W&li 8HLY 
+The more recent Collet study recorded 5 ANS variables from 25 participants during real 
+ATC operat ions. The population, mean age of 44, included only fully qualified operators, 
+who were monitored for one hour during TRACON duty at Saint Exupery International 
+Airport (Lyon, France) . Correlation analyses were performed with the number of aircraft 
+the operator was currently controlling . No adjustment was made for task complexity; 
+however, data were acquired between 6 and 9 PM local time to collect medium and high 
+workload data . Each participant handled between 1 and 10 aircraft during the study. 
+The results of the correlation analysis are shown in Table 2. The authors conclude that 
+changing the number of aircraft for professional ATCs produced correlations in 
+physiological measures for SC, SBF, and IHR.31 
+Table 2. Correlations among Physiological Variables in a study of air traffic controller workload 
+modulation with variable number of aircraft. NA: number of aircraft; TLX: NASA self-report workload 
+metric; Std SC: normalized skin conductance; Std SP: normalized skin potential; Std SBF: normalized 
+capillary blood flow measured through the skin; Std ST: normalized skin temperature; Std IHR: 
+normalized instantaneous heart rate. Bold values show significant correlation. SC, SBF, and IHR show 
+significant correlation with changes in NA. Normalizations (standardizations) were performed against 
+baseline data per subject to decrease inter-subject noise. 31 
+NA TLX Std SC Std SP Std SBF Std ST 
+NA 1 
+TLX .98 1 
+p<.001 
+Std SC .93 .89 1 
+p=.002 p= .008 
+Std SP .77 .67 .91 1 
+NS NS p=.005 
+Std SBF -.97 -.94 -.87 -.7 5 1 
+p<.0001 p= .001 P=.02 NS 
+Std ST -.79 -.80 -.62 -.43 .82 1 
+NS NS NS NS NS 
+Std IHR .98 .95 .97 .85 -.93 -.88 
+p<.0001 p<.0001 p<.0001 p= .03 p=.002 p= .005 
+Adaptive automation (AA) is the rebalancing of workload between the computer and 
+human . Low workload levels can be supplemented with usually routine tasks that will 
+keep the operator attentive, while providing the subject with additional mission 
+informat ion. This "extra information" may not be crit ical, but it will keep the subject 
+from disengaging from the overall task. The goal of AA is to maintain peak performance 
+of the system, in the Al to A3 regions. Kaber studied AA in terms of a simulated ATC 
+task in 2005. Forty non-professional participants were monitored for primary and a 
+probe secondary task performances. Results showed that primary task performance 
+was greatest when AA was added to the system. 34 
+UNCLASSIFIED/ }Fdk OFFICIAL 091!! 8HLY 
+14

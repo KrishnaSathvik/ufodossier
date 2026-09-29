@@ -1,0 +1,43 @@
+UNCLASSIFIED/ /fOR OFFI&IAk Wlii QPU,¥ 
+It is very hard to be sure. There may be several impediments to the evolution of a 
+technical civilization. Planets may be rarer than we think. Perhaps the origin of life is 
+not so easy as our laboratory experiments suggest. Perhaps the evolution of advanced 
+life forms is improbable. Or it may be that complex life forms evolve more readily, but 
+intelligence and technical societies require an unlikely set of coincidences - just as the 
+evolution of the human species depended on the demise of the dinosaurs and the ice­
+age recession of the forests in whose trees our ancestors screeched and dimly 
+wondered. Or perhaps civilizations arise repeatedly, inexorably, on innumerable planets 
+in the Milky Way, but are generally unstable; so all but a tiny fraction are unable to 
+survive their technology and succumb to greed and ignorance, pollution and nuclear 
+war. 
+It is possible to explore this great issue further and make a crude estimate of N, the 
+number of advanced civilizations in the galaxy. We define an advanced civilization as 
+one capable of radio astronomy. This is, of course, a parochial if essential definition. 
+There may be countless worlds on which the inhabitants are accomplished linguists or 
+superb poets but indifferent radio astronomers. We will not hear from them. N can be 
+written as the product or multiplication of a number of factors, each a kind of filter, 
+every one of which must be sizable for there to be a large number of civilizations: 
+• Ns, the number of stars in the Milky Way galaxy. 
+• fp, the fraction of stars that have planetary systems. 
+• ne, the number of planets in a given system that are ecologically suitable for life. 
+• fl, the fract ion of otherwise suitable planets on which life actually arises. 
+• fi, the fraction of inhabited planets on which an intelligent form of life evolves. 
+• fc, the fraction of planets inhabited by intelligent beings on which a communicative 
+techn ical civilization develops . 
+• fl, the fraction of planetary lifetime graced by a technical civilization. 
+Written out, the equation reads 
+N =Ns • jjJ •ne •fl ·ft ·Jc· fL (7) 
+All of the f's are fractions, having values between Oand 1; they will pare down the 
+large value of Ns. 
+To derive N we must estimate each of these quantities. We know a fair amount about 
+the early factors in the equation, the number of stars and planetary systems. We know 
+very little about the later factors, concerni ng the evolution of intelligence or the lifetime 
+of technical societies. In these cases our estimates will be litt le better than guesses. I 
+invite you, if you disagree with my estimates below, make your own choices and see 
+what implications your alternative suggestions have for the number of advanced 
+civilizations in the galaxy. One of the great virtues of this equation, due to Frank Drake 
+of Cornell, is that it involves subjects ranging from stellar and planetary astronomy to 
+organic chemistry, evolutionary biology, history, politics and abnormal psychology. 
+Much of the Cosmos is in the span of the Drake equation. 
+UNCLASSIFIED//FQA QFFICiIPL. !Iii 011! Y 
+8

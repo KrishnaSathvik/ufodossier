@@ -1,0 +1,188 @@
+{
+  "generated_at": "2026-09-25T18:39:18.121538+00:00",
+  "production_writes": false,
+  "out_dir": ".cache/files/pursue/r3",
+  "fetched": [
+    {
+      "external_id": "CIA-UAP-017",
+      "status": "downloaded",
+      "path": ".cache/files/pursue/r3/CIA-UAP-017.pdf",
+      "byte_size": 309146,
+      "sha256": "4332ebe48c3fcb1ef53e9186d90f38142e8465f553388a5d8dff277c87a92b16",
+      "url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-017_Placement_on_High_Alert_Due_to_Perceived_Aggressive_Foreign_Posturing.pdf",
+      "title": "CIA-UAP-017,\u00a0Placement\u00a0on High Alert Due\u00a0to Perceived Aggressive Foreign Posturing\u00a0",
+      "content_type": "application/pdf"
+    },
+    {
+      "external_id": "FBI-UAP-D002",
+      "status": "downloaded",
+      "path": ".cache/files/pursue/r3/FBI-UAP-D002.pdf",
+      "byte_size": 979904,
+      "sha256": "f73ffa1579ecc8916492166021bac801e421f058779127e8bb4bf1ded02cc3a1",
+      "url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/FBI-UAP-D002_FD-1057_Unresolved-UAP-Report_ColoradoSprings_2022.pdf",
+      "title": "FBI-UAP-D002,\u00a0FD-1057, Unresolved UAP Report,\u00a0Colorado Springs, 2022\u00a0",
+      "content_type": "application/pdf"
+    },
+    {
+      "external_id": "FBI-UAP-D003",
+      "status": "downloaded",
+      "path": ".cache/files/pursue/r3/FBI-UAP-D003.pdf",
+      "byte_size": 3459421,
+      "sha256": "e067ec3753f24fbe26501a3932bce900124efea19ce5f949368f1b74d95fb53d",
+      "url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/FBI-UAP-D003_Digital-Rendering_Unresolved-UAP-Report_ColoradoSprings_2022.pdf",
+      "title": "FBI-UAP-D003,\u00a0Digital\u00a0Rendering,\u00a0Unresolved\u00a0UAP Report,\u00a0Colorado Springs, 2022\u00a0",
+      "content_type": "application/pdf"
+    },
+    {
+      "external_id": "FBI-UAP-D009",
+      "status": "downloaded",
+      "path": ".cache/files/pursue/r3/FBI-UAP-D009.pdf",
+      "byte_size": 1059058,
+      "sha256": "b5513dea063f469efff564cf92a72e088e325e03211f2fd85fbaee5d6ed7f4c4",
+      "url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/FBI-UAP-D009_FD-302-67_Northeastern-Orb-Sighting_2026.pdf",
+      "title": "FBI-UAP-D009, FD-302-67, \u201cNortheastern Orb Sighting,\u201d 2026\u00a0",
+      "content_type": "application/pdf"
+    },
+    {
+      "external_id": "FBI-UAP-D011",
+      "status": "downloaded",
+      "path": ".cache/files/pursue/r3/FBI-UAP-D011.pdf",
+      "byte_size": 581575,
+      "sha256": "aaf14409fe2a6b8577345394b399e8ccfa36a0571c6205eb6b5da82b53e6876b",
+      "url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/FBI-UAP-D011_DFBI-Correspondence-Referral_1949.pdf",
+      "title": "FBI-UAP-D011, D/FBI Correspondence Referral, 1949\u00a0",
+      "content_type": "application/pdf"
+    },
+    {
+      "external_id": "CIA-UAP-006",
+      "status": "downloaded",
+      "path": ".cache/files/pursue/r3/CIA-UAP-006.pdf",
+      "byte_size": 521075,
+      "sha256": "eaa9a2e8a96ab61bf2a4e1bac1a68b6a896f2fec16fb2b11a158072d9e9ba58e",
+      "url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-006_Sighting_of_Unconventional_Aircraft.pdf",
+      "title": "CIA-UAP-006, Sighting Of Unconventional Aircraft ",
+      "content_type": "application/pdf"
+    },
+    {
+      "external_id": "CIA-UAP-009",
+      "status": "downloaded",
+      "path": ".cache/files/pursue/r3/CIA-UAP-009.pdf",
+      "byte_size": 27826,
+      "sha256": "d2ff89273ce8bf19a5e9962b210e3954d4e0153ac493a5c9d8c2c140af6a5c17",
+      "url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-009-UNKNOWN-FLYING_OBJECTS_OBERVED_OVER_BUDAPEST.pdf",
+      "title": "CIA-UAP-009,\u00a0Unknown Flying Objects Observed Over Budapest\u00a0",
+      "content_type": "application/pdf"
+    },
+    {
+      "external_id": "CIA-UAP-016",
+      "status": "downloaded",
+      "path": ".cache/files/pursue/r3/CIA-UAP-016.pdf",
+      "byte_size": 372322,
+      "sha256": "c6c33cf9f578f24210e3d6454139f20279d025f6d25b4bc6bf3cc3d27865e7fe",
+      "url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-016-Sightings_of_Unidentified_Flying_Ojbects_in_Ladakh_Nepal_Sikkim_and_Bhutan.pdf",
+      "title": "CIA-UAP-016,\u00a0Sightings\u00a0of Unidentified Flying Objects\u00a0in Ladakh, Nepal,\u00a0Sikkim\u00a0and Bhutan\u00a0",
+      "content_type": "application/pdf"
+    },
+    {
+      "external_id": "FBI-UAP-D012",
+      "status": "downloaded",
+      "path": ".cache/files/pursue/r3/FBI-UAP-D012.pdf",
+      "byte_size": 64461475,
+      "sha256": "04195d918cf49bc4d32b050060f12dbd16bac2cb79b83e2d70b63543a1b68630",
+      "url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/FBI-UAP-D012_Newark-Field-Office_1952-1967.pdf",
+      "title": "FBI-UAP-D012, Newark Field Office, 1952-1967\u00a0",
+      "content_type": "application/pdf"
+    },
+    {
+      "external_id": "DOW-UAP-D079",
+      "status": "downloaded",
+      "path": ".cache/files/pursue/r3/DOW-UAP-D079.pdf",
+      "byte_size": 558749,
+      "sha256": "670dbdbe40e70fa5f46485273d8f2c0eef7e604a7487416343ebec8bfc5f30c1",
+      "url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/DoW-UAP-D079_Narrative-1_Western-US-Event.pdf",
+      "title": "DOW-UAP-D079, Narrative Statement 1, Western United States Event, 2023",
+      "content_type": "application/pdf"
+    },
+    {
+      "external_id": "DOW-UAP-D077",
+      "status": "downloaded",
+      "path": ".cache/files/pursue/r3/DOW-UAP-D077.pdf",
+      "byte_size": 392347,
+      "sha256": "5eb571dbfd4faa81c2b52266e0e0ea933cde481325f8548aefac5b9b09eb42d1",
+      "url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/DOW-UAP-D077_Unresolved-Case-Analysis-Update_Western-United-States-Event.pdf",
+      "title": "DOW-UAP-D077, AARO Unresolved Case Analysis Update: Western United States Event\u00a0",
+      "content_type": "application/pdf"
+    },
+    {
+      "external_id": "ICA-UAP-D001",
+      "status": "downloaded",
+      "path": ".cache/files/pursue/r3/ICA-UAP-D001.pdf",
+      "byte_size": 49557,
+      "sha256": "b98b58a326ea413b5fd332ba56e81869bf83e2606a744335882d0115f8d77158",
+      "url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/ICA-UAP-D001_Analysis_Colorado-Springs-UAP-Incident.pdf",
+      "title": "ICA-UAP-D001, Analysis:\u00a0Colorado Springs\u00a0UAP Incident, 2022\u00a0\u00a0",
+      "content_type": "application/pdf"
+    },
+    {
+      "external_id": "DOW-UAP-D085",
+      "status": "downloaded",
+      "path": ".cache/files/pursue/r3/DOW-UAP-D085.pdf",
+      "byte_size": 5224870,
+      "sha256": "43f3553b900cf8cceab5575edc33e14e6b6e980764ae78f979be664829efb089",
+      "url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/DOW-UAP-D085_Transmission-of-CIA-Scientific-Advisory-Panel-Rept_1953.pdf",
+      "title": "DOW-UAP-D085_Transmission-of-CIA-Scientific-Advisory-Panel-Rept_1953\u00a0",
+      "content_type": "application/pdf"
+    },
+    {
+      "external_id": "CIA-UAP-002",
+      "status": "downloaded",
+      "path": ".cache/files/pursue/r3/CIA-UAP-002.pdf",
+      "byte_size": 13250859,
+      "sha256": "a56e49ed5dd5fbb00b70101762b3eb9bb6148aeb380163ece648d377dfa5e5c7",
+      "url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-002_Scientific-Advisory-Panel-on-Unidentified-Flying-Objects_Report_1952-1953.pdf",
+      "title": "CIA-UAP-002, Scientific Advisory Panel on Unidentified Flying Objects, Report, 1952-1953\u00a0",
+      "content_type": "application/pdf"
+    },
+    {
+      "external_id": "CIA-UAP-003",
+      "status": "downloaded",
+      "path": ".cache/files/pursue/r3/CIA-UAP-003.pdf",
+      "byte_size": 46410093,
+      "sha256": "3a11822b45f559acc6063304bdbf16977a21dc86ca3a7a743c1a60e40f98b8d1",
+      "url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-003-THE_CENTRAL_INTELLIGENCE_AGENCY_AND_OVERHEAD_RECONNAISSANCE-THE_U-2_AND_OXCART_PROGRAMS_1954-1974.pdf",
+      "title": "CIA-UAP-003, The Central Intelligence Agency and Overhead Reconnaissance; The U-2 and OXCART Programs, 1954-1974 ",
+      "content_type": "application/pdf"
+    },
+    {
+      "external_id": "CIA-UAP-005",
+      "status": "downloaded",
+      "path": ".cache/files/pursue/r3/CIA-UAP-005.pdf",
+      "byte_size": 1107431,
+      "sha256": "85e84eb491e2331aebecb0ea021eb64d67795dc4c25197ca293ddfcffc81dee9",
+      "url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-005-GERMAN_SCIENTISTS_ ARTICLE_ON_FLYING_DISCS.pdf",
+      "title": "CIA-UAP-005, German Scientist's Article on 'Flying Discs' ",
+      "content_type": "application/pdf"
+    },
+    {
+      "external_id": "NASA-UAP-D016",
+      "status": "downloaded",
+      "path": ".cache/files/pursue/r3/NASA-UAP-D016.pdf",
+      "byte_size": 37882686,
+      "sha256": "ca596a44820b275f3e3ba41ddabd9ed8f124b68f8c3207d4c34d8afb1a48a94c",
+      "url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/NASA-UAP-D016_Preliminary-Gemini-4-Crew-Debriefing_Part1_1965.pdf",
+      "title": "NASA-UAP-D016, Preliminary Gemini 4 Crew Debriefing, Part I, 1965\u00a0",
+      "content_type": "application/pdf"
+    },
+    {
+      "external_id": "USG-UAP-D001",
+      "status": "downloaded",
+      "path": ".cache/files/pursue/r3/USG-UAP-D001.pdf",
+      "byte_size": 15771408,
+      "sha256": "3393d62c92d9a5ad76155535caddf39cf9e76f5f19716ebfc851ba2b86b0ae3a",
+      "url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/USG-UAP-D001_Congress-WhiteHouse-UFO-Correspondence_1998.pdf",
+      "title": "USG-UAP-D001,\u00a0Congressional, White House, UFO-related Constituent Correspondence, 1998\u00a0",
+      "content_type": "application/pdf"
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,79 @@
+UNCLASSIFIED F/P OR OPPICTAL USE ONLY
+
+: 0.5 om ¢ Earth-to-Orbit © End of Laser
+we and Rocket
+od as \ Propulsion
+2 3 \
+
+3 \
+
+= \ Beam Power Attenuation
+
+§ 0.3 \ due to Difraction
+
+: \
+
+Pa LY Beam Power Attenuation
+z 0.2 ad due to Difraction and
+3 Atmospheric Effects
+
+=
+
+é 0.1
+
+E 0
+
+8 1 2 3 4 5 6 7”
+Laser Wavelength/Optimum Laser Wavelength
+
+Figure 10. Attenuation Effects on Captured Laser Beam Power !2°),
+
+Propulsion
+
+« Oo wom, ® Earth-to-Orbit
+£ a =? 6 Trajectory
+2 N
+
+a I x
+
+3 i ™%
+
+EF 03 J My
+
+S
+
+3 %e End of Laser
+g \ Airbreathing
+3 N te Propulsion
+5 02 7
+
+*
+ie x
+
+\
+
+z EndofLaser \
+
+s Airbreathing Ny
+
+F} 0.1 and Rocket x
+
+S
+
+&
+
+Ss
+
+ba}
+
+£
+
+ie
+
+0 1 2 3 4 5 6 7
+Laser Wavelength/Optimum Laser Wavelength
+
+Figure 11. Influence of Trajectory and Laser Wavelength on Captured Power [2°],
+
+22
+UNCLASSIFIED &-5OR-OFFt6EAE-USE-ONET

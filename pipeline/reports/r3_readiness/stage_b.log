@@ -1,0 +1,101 @@
+INFO extract CIA-UAP-003.pdf (755597 chars)
+INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO   -> accepted=1 quote_rej=0 evidence_rej=1
+INFO extract CIA-UAP-005.pdf (12300 chars)
+INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO   -> accepted=0 quote_rej=0 evidence_rej=0
+INFO extract CIA-UAP-016.pdf (5314 chars)
+INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+WARNING dropping incident in CIA-UAP-016.pdf: raw_excerpt not found in source. excerpt='19 February 1968 etrween Walungchung-Gols North-East to South- N& ard Ghunsa areca West'
+INFO   -> accepted=5 quote_rej=1 evidence_rej=1
+INFO extract CIA-UAP-017.pdf (3841 chars)
+INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO   -> accepted=1 quote_rej=0 evidence_rej=0
+INFO extract DOW-UAP-D079.pdf (6374 chars)
+INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO   -> accepted=5 quote_rej=0 evidence_rej=0
+INFO extract FBI-UAP-D002.pdf (2176 chars)
+INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+WARNING dropping incident in FBI-UAP-D002.pdf: raw_excerpt not found in source. excerpt='a former U. S. Army inte l ligence officer, a l ong wi th four other members of his un i t, observed a UAP over the Chey'
+INFO   -> accepted=0 quote_rej=1 evidence_rej=0
+INFO extract FBI-UAP-D009.pdf (3217 chars)
+INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+WARNING dropping incident in FBI-UAP-D009.pdf: raw_excerpt not found in source. excerpt='QM noticed an intense Eright light hevering below the tree line in the middle of their backyard. (RM described the light'
+WARNING dropping incident in FBI-UAP-D009.pdf: raw_excerpt not found in source. excerpt='They then noticed there was a second, identical orb, hovering above the first one. The orbs then moved together towards '
+INFO   -> accepted=1 quote_rej=2 evidence_rej=0
+INFO extract FBI-UAP-D012.pdf (121761 chars)
+INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+ERROR haiku returned invalid JSON for FBI-UAP-D012.pdf: Unterminated string starting at: line 225 column 20 (char 13247)
+WARNING retrying JSON once for FBI-UAP-D012.pdf
+INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+ERROR haiku returned invalid JSON for FBI-UAP-D012.pdf: Unterminated string starting at: line 225 column 20 (char 13112)
+INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+ERROR haiku returned invalid JSON for FBI-UAP-D012.pdf: Unterminated string starting at: line 297 column 26 (char 13363)
+WARNING retrying JSON once for FBI-UAP-D012.pdf
+INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+ERROR haiku returned invalid JSON for FBI-UAP-D012.pdf: Unterminated string starting at: line 288 column 5 (char 13288)
+INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO   -> accepted=0 quote_rej=0 evidence_rej=0
+INFO extract NASA-UAP-D016.pdf (372076 chars)
+INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO   -> accepted=0 quote_rej=0 evidence_rej=1
+INFO extract USG-UAP-D001.pdf (153981 chars)
+INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+WARNING dropping incident in USG-UAP-D001.pdf: raw_excerpt not found in source. excerpt='On June 3, 1965, rookie astronaut Jim McDivitt and Ed White blasted off from Cape Kennedy (now again Cape Canaverai), sq'
+WARNING dropping incident in USG-UAP-D001.pdf: raw_excerpt not found in source. excerpt='Apollo-12 was launched on November 1-l, 1969, on the second moon landing m1ss1on...On the outbo und leg, Conrad had radi'
+WARNING dropping incident in USG-UAP-D001.pdf: raw_excerpt not found in source. excerpt='Apollo-11 UFO, 1969. Object tumbled past window immediately atter Apolio pulled away from Saturn booster. Metamorphosis '
+WARNING dropping incident in USG-UAP-D001.pdf: raw_excerpt not found in source. excerpt='Scott Carpenter took this photo of a iPr Sheek a) subsatellite balloon jettisoned by his Mercury-7 capsule in 1963. Ball'
+WARNING dropping incident in USG-UAP-D001.pdf: raw_excerpt not found in source. excerpt='They both showed a black background with a string of lights in the middle of the photograph. In the book (with the same '
+INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+ERROR haiku returned invalid JSON for USG-UAP-D001.pdf: Invalid \uXXXX escape: line 145 column 62 (char 8156)
+WARNING retrying JSON once for USG-UAP-D001.pdf
+INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+WARNING dropping incident in USG-UAP-D001.pdf: raw_excerpt not found in source. excerpt="at 11:47 a.m. on November 24th, the spokesman for Apollo 12 reported in a startled voice that they were all' watching a "
+INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO   -> accepted=11 quote_rej=6 evidence_rej=3
+INFO HTTP Request: GET https://whyrlabwefasmmebtzja.supabase.co/rest/v1/incidents?select=id%2Ccase_id%2Ctitle%2Craw_excerpt%2Coccurred_at%2Clocation_text%2Csource_file_id%2Cflagged&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO stage B summary: {
+  "generated_at": "2026-09-25T19:34:45.212132+00:00",
+  "label": "v1",
+  "stage": "b",
+  "production_writes": false,
+  "documents_considered": 18,
+  "documents_source_only": 8,
+  "documents_extracted": 10,
+  "candidate_incidents": 40,
+  "quote_valid_incidents": 30,
+  "quote_rejected_incidents": 10,
+  "evidence_insufficient": 6,
+  "incidents_accepted": 24,
+  "new_event": 24,
+  "same_event_new_source": 0,
+  "likely_duplicate": 0,
+  "uncertain": 0,
+  "json_stats": {
+    "json_first_pass": 29,
+    "json_retry_success": 1,
+    "json_retry_failed": 2
+  },
+  "estimated_haiku_calls": 35,
+  "estimated_haiku_cost_usd": 0.7,
+  "runtime_seconds": 358.5,
+  "production_incidents_compared": 480
+}

@@ -1,0 +1,50 @@
+UNCLASSIFIED/ fFOA OFFl&I.t.k Y&li &PtLY 
+the allowable spatial distributions of negative energy. And there were found to be 
+allowable negative energy distr ibutions in which observers would never encounte r the 
+accompanying posit ive energy distribution so long as the QI restrict ions and 
+correspond ing energy condit ions are violated . The extent to which the results of Borde 
+et al.'s analysis can be generalized to a four-d imensional curved spacetime (with or 
+without boundaries) and interacting fields remain unsolved. 
+C. OBSERVING NEGATIVE ENERGY IN THE LAB 
+Negative energy should be observable in lab experiments . The presence of naturally 
+occurring negative energy regions in space is pred icted to produce a unique signature 
+correspond ing to lensing, chromaticity and intensity effects in micro- and macro -lensing 
+events on galact ic and extragalactic/cosmological scales (Reference 66-71) . It has been 
+shown that these effects provide a specific signature that allows for discrimination 
+between ordinary (positive energy) and negative energy lenses via the spectra l analysis 
+of astronomical lensing events. Theoretical modeling of negative energy lensing effects 
+has led to intense astronomical searches for naturally occurr ing traversable wormholes 
+in the universe. Computer model simulations and compar ison of their results with 
+recent satellite observations of gamma ray bursts (GRBs) has shown that putative 
+negative energy (i.e., traversable wormhole) lensing events very closely resemble the 
+main features of some GRBs. Other research has found that current observational data 
+suggests that large amounts of naturally occurring "exotic matter" must have existed 
+sometime between the epoch of galaxy formation and the present in order to (properly) 
+quantitatively account for the "age-of-the-oldest-stars-in-the-galactic halo" problem 
+and the cosmological evolution parameters (Reference 60). 
+When background light rays strike a negative energy lensing region, they are swept out 
+of the central region thus creating an umbra region of zero intensity. At the edges of 
+the umbra the rays accumulate and create a rainbow-like caustic with enhanced light 
+intensity. The lensing of a negative energy region is not analogous to a diverging lens 
+because in certa in circumstances it can produce more light enhancement than does the 
+lensing of an equivalent positive energy region. Real background sources in lensing 
+events can have non-uniform brightness distributions on their surfaces and a 
+dependency of their emission with the observing frequency. These complications can 
+result in chromaticity effects, i.e., in spectral changes induced by differential lensing 
+during the event. The quantification of such effects is quite lengthy, somewhat model 
+dependent, and with recent application only to astronomical lensing events. Suffice it to 
+say that future work is necessary to scale down the predicted lensing parameters and 
+characterize their effects for lab experiments in which the negative energy will not be of 
+astronomical magnitude. Present ultrahigh-speed optics and optical cavities, lasers, 
+photonic crystal (and related switching) technology, sensitive nano-sensor technology, 
+and other techniques are very likely capable of detecting the very small magnitude 
+lensing effects expected in lab experiments. 
+A non-optical scheme for detecting negative energy in exper iments was recently 
+reported by Davies and Ottewill (Reference 72) who studied the response of switched 
+particle detectors to static negative energy densities and negative energy fluxes. Their 
+model is based on a free (massless) scalar field in flat four-dimensional Minkowski 
+spacetime and utilized a simple generalization of the standard monopole detector, 
+which is switched on and off to concentrate the measurements on periods of isolated 
+negative energy density (or negative energy flux). The detector model includes an 
+UNCLASSIFIEQ { {FOR OFFICIAL Y&li 8HLY 
+25

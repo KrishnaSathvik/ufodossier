@@ -1,0 +1,38 @@
+UNCLASSIFIED/,SFOR. QFFIElal L: 1!ii 011! X 
+In this equation, q represents the amount of radiant energy emitted in watts, E is the 
+emissivity (a dimensionless quantity that gauges the relative ability of an object's surface to 
+emit energy by radiation), A is the surface area, a is the Stefan-Boltzmann constant (a 
+= 5.67 x 10-s J-s-1-m-2-K-4 ), and T is the temperature of the object's surface. A simple 
+example of emission of heat as radiant energy is an infrared bathroom heater where electric 
+current is passed through a metallic element that reaches several thousand degrees and 
+emits considerable thermal radiation. 
+All objects in the environment exchange radiant heat with each other and seek equil ibrium 
+temperatures. At high temperatures, many objects behave as "black body radiators" defined 
+by their surface emissiv ity, E = 1. The surface temperature of an object causes 
+electromagnetic radiation to be emitted with a spectrum given by Planck's Distribution Law, 
+equation 18, where the energy density is emitted by the surface of the object per 
+wavelength per unit volume: 
+u(A,T) = 8 n h c __1__5 (18)A, h e 
+e AkT - 1 
+The terms in this equation are as follows: 
+• c: speed of light, (3 x 108 m/s). 
+• h: Planck's constant, (6.62 x 10-34 J-s). 
+• A: wavelength of the emitted radiation, (m). 
+• k: Boltzmann constant, (1.38 x 10-23 J/K). 
+• T : surface temperature, (K). 
+• u(A,T): spectral energy density, (Jm- 3-m-1). 
+The surface of the sun behaves as a black body radiatora with a surface temperature of 
+5,778 K. For the sun, the Planck distribution of energy versus wavelength looks like that of 
+Figure 12. The horizontal axis is the wavelength in units of meters and shows that peak 
+energy occurs at a wavelength of about 5.02 x 10-7 meters or 0.502 microns (1 micron = 10·6 
+meters). This falls within the visible band (0.38 microns to 0.65 microns) and corresponds to 
+the yellow color of our sun. The peak wavelength, equation 19, is given by Wien's 
+Displacement Law: 
+A-.rnx = 2.8977685 X 10-3 (m · K) I T (19) 
+This shows that as the temperature of an object increases, the amount of radiant energy 
+released by the surface increases and the value of the peak wavelength becomes smaller. 
+a A black body is an idealized object that absorbs all electromagnetic radiation that falls on it. 
+Since a black body is a perfect absorber of radiant energy, by the laws of thermodynamics it must 
+also be a perfect emitter of radiation. 
+UNCLASSIFIED//FOR 0661El.t.L: W&&: OttLY 
+18

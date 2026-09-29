@@ -1,0 +1,22 @@
+{
+  "provider": "pursue",
+  "label": "community-SeeingBlue",
+  "source_url": "https://raw.githubusercontent.com/SeeingBlue/uap-corpus-viewer/main/snapshots/2026-09-18/uap-data.csv",
+  "sha256": "be3a4b744f4a57b0c3a921cbc21bff416e6b1be1339c10a5f4d95e92eb6c990f",
+  "byte_size": 645961,
+  "record_count": 447,
+  "by_type": {
+    "pdf": 267,
+    "video": 134,
+    "audio": 16,
+    "image": 30
+  },
+  "by_release": {
+    "6": 72,
+    "1": 158,
+    "3": 72,
+    "2": 64,
+    "4": 40,
+    "5": 41
+  }
+}

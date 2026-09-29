@@ -1,0 +1,23 @@
+UNCLASSIFIED/ /FOR. OFFICIAL 891!! Oflt I 
+LO 
+s 
+lo 
+s 
+s 
+PDx 
+PBS1 HWP PBS2 
+Figure 18. Detailed Schematic of Experimental BHD Apparatus. (courtesy of P. 
+Marecki) Note that point V corresponds to point Pin Figure 15. 
+0, 
+2 4 6 8 10 12 
+Frequency 
+Figure 19. Predicted Casimir Spectral Density O'rr 
+(courtesy of P. Marecki) cryy is related to the expected output of 
+a BHD with the LO polarized along the y-direct ion (parallel to 
+the plates) for the ground state in the Casimir cavity . This is 
+plotted as a function of the position x e [0, a] between the 
+plates (separation a = 1 µm is assumed) and the frequency w e 
+[O , 4nc/a]. Negative values (suppression of fluct uations) are 
+shown in deep purple . 
+UNCLASSIFIED/ 1EOR OFFICIO! u&'li QNl:.?f 
+41

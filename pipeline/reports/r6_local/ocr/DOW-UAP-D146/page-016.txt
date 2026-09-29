@@ -1,0 +1,42 @@
+- - -
+UNCLASSIFIED//FOR 0551CIAk Y8l!! Of\lLI 
+Chapter 3 : Fusion Propulsion 
+FUSION REACTORS FOR PROPULSION 
+Controlled nuclear fusion reactors have been seriously studied since the late 1960s 
+after tokomaks demonstrated a very promising improvement in temperature and 
+confinement time that had potential to become power-producing reactors. After 15 
+years, such studies predicted that the size and complexity of a DT (deuterium tritium)­
+fueled Tokamak would be prohibitively too large to be considered for aerospace 
+applications. However, in the early 1990s when it became clear from large tokamak 
+experimental results that controlled fusion for terrestrial power generation would 
+require an indeterminate time to develop, a surge of interest in fusion-powered 
+propulsion grew. All such studies abandoned the use of DT fusion fuels because of the 
+need for heavy shielding for the 14-MeV neutrons and the requirement for launch safety 
+and the additional complexity of breeding tritium. Only (D, 3He) (deuterium helium-3) 
+and (p, 11B) (hydrogen boron) fuels have been considered because of the higher specific 
+powers achievable for air and space flight. 
+Field - Reversed Configuration Reactors 
+(U) The seminal study on fusion propulsion that developed specific design parameters 
+was performed in 1993. 10 It reviewed previous studies and used a generic cylindrical 
+fusion plasma model for analyzing the specific power for such a system using (D,3He) 
+fuel (shown in Figure 8). The estimated gross mass of the 968-MW reactor was 112 Mg 
+with a corresponding mass of 999 Mg for a DT-fueled system, (lMg=l metric ton). 
+Optimization of this conceptual design using the FRC plasma confinement using colliding 
+beams has led to a much more compact configuration of 33 Mg producing 100 MW 
+(shown in Figure 9). 11 This reactor's plasma confinement chamber has a length of 7 
+meters and diameter of 0.84 meters. Half of the plasma fusion products and unfused 
+fuel is circulated through the magnetic separatrix to a direct converter while the other 
+half is diverted and expelled to provide propulsive thrust. 
+12.---~---~-----~-~--, 
+D-3He Long-Termcii 10 .--- - - -.:.:. 
+~ / 
+~ 8 ... /Q) 
+~ ' D-3He Mid-Term0 6 Ic.. 
+;.-:; 
+() 
+4 '<3 IQ) 
+a. 2Cl) 
+/J D-T Mid-Term I' - - - -00 25 50 75 100 125 150 175 200 
+Plasma Temperature (keV) 
+Figure 8. Specific Power as a Function of Plasma Temperature of Fusion Rocke\ 1 
+UNCLASSIFIED/ /FOR. orr1e1J1tt tl!H!! OHL'I"

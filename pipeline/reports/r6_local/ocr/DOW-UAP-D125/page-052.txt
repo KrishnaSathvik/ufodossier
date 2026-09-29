@@ -1,0 +1,47 @@
+UNCLASSIFIED/ /fOR Offl@IAL WSE 8,.Llf 
+gridded IECs. Further, the model provides more insight into operation in the STAR 
+mode. This effect, described earlier in Section 1, is summarized in Figure 4.11. 
+For higher pressure operation, charge exchange severally limits the number of passes 
+possible through the grid despite the very high effective transparency achieved by the 
+STAR mode. This is emphasized by results for the calculations in Reference 4. 7 shown 
+in Figure 4.12. (Note that related calculations by J. Khachan discussed earlier in Section 
+II show similar results, but emphasize the role of molecular ions at lower operating 
+voltages). 
+Equ1pobtnbaI 
+Surf~ 
+•lllffl!IJl I n,i 
+Ion En•'VY Ol,tnbutton11at pH 
+2: cm grid radlua, 50 kV, 4. mTorr 
+2.0E+07 .---------,, 
+11 UiE+o7 
+: 5.0800 
+o.c,e..oo 
+0 20000 4'0000 80000 
+ton Energy (eV) 
+I 1.oe+o1 t--­
+Figure 4.11. Diagram Showing Equipotential Figure 4.12. Results for Calculations for Ion Energy 
+Surfaces of the IEC Cathode Grid and Their Distributions pt Pass 
+Focusing Effect on a Beam of Ions in the Star 
+Mode Discharge at High Voltages ( > 50 keV) 
+These computational resu Its are for the UIUC IEC "A-device" using a diameter grid with 
+condit ions of 50 kV, 10 mA, and 4-cm, and background gas pressure of 4.6 mTorr. At 
+this pressure, charge-exchange (CX) collisions occur quite frequently for D+ ions. In 
+their first pass through the IEC, about half of these ions CX within the cathode regio n 
+and are lost. After only four passes, most of the remaining ions have lost a large 
+amount of their original potential energy and the fusion rate from subsequent passes 
+becomes negligible. D2+ ions have a smaller CX cross section and it takes about 20 
+passes for most of the D2+ ions to lose their energy and be lost to the grid . (D 2+ ions 
+and also D3+ ions are natu rally produced at diminishing quantities in ionization reactions 
+along with o +. As pointed out by Khachan his work noted D2+ becomes more significant 
+in lower voltages) . 
+In summary, the design of an optimal IEC neutron source is seen to be quite different 
+from a power- producing IEC. In the source design, the grid paramet ers, grid/vessel 
+diameter ratio, chamber diameter, surface conditions, background pressure, current, 
+and voltage all become important parameters. In power -producing devices the ion 
+injection parameters -- including ion current, ion energy relative to height of the well 
+potential, the ion angular momentum, and the ion to electron temperature rat io, along 
+with the chamber diameter ---determine performance. The calculations and simulations 
+cited here provide much insight into these issues and also provide insight into 
+theoretical and computational tools for IEC study. 
+UNCLASSIFIED/ /FOR 8fflOIAL WSE 8NLY 
+45

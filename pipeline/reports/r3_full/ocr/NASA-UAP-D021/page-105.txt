@@ -1,0 +1,42 @@
+Lovell
+
+Borman
+
+Borman
+Lovell
+Borman
+
+Lovell
+
+-CONABENTHAL— 95
+
+with Spacecraft 6 in the air, I thought went very well. It
+posed no problems. Communications Controls and Switches-
+Voice Control Center, Audio modes, Keying and Antenna Selec-
+tion, were all nominal. We might mention in Sleep Configu-
+ration--we never used the Sleep switches because we had the
+situation where we pretended it was night and went to sleep
+every evening and the ground never called us. I don't think
+they ever violated that for the 14 days. They never called
+us during the sleep period.
+
+So that worked very well.
+
+Beacon Control was no problem. We didn't use the Reentry
+C-band Beacon until reentry. The TM controls, transmitter,
+and antenna again were no problem. It was operated just as
+advertised due to all instructions from the ground.
+
+8.6 Electrical
+
+Now we have some interesting things to talk about.
+
+Well, we monitored the electrical system pretty closely.
+Yeah, I guess we did.
+
+The only thing we can say here is reiterate what we have
+probably said before. On lift-off we had delta P lights
+come on for fuel cells--both Sections. 1 blinked on and
+off several times and went off. 2 blinked on and off
+
+several times and stayed on through insertion and stayed on

@@ -1,0 +1,45 @@
+UNCLASSIFIED/ /FOR OFFl@IAL Y!H! 8HL'I 
+Cognitive Limits on Simultaneous Control of Multiple 
+Unmanned Spacecraft 
+Summary 
+Space exploration 40 years into the future may include manned missions to parts of the 
+outer solar system. A possible scenario may include sending a small fleet of craft with 
+different primary missions. For example, a trailing spacecraft of nuclear powered 
+electromagnets designed to shield the manned part of the fleet from solar radiation; 
+halo spacecraft with powerful radars to scout for incoming objects; exploration and 
+mining craft, etc. The fleet could regularly travel out of unaided visual range of each 
+other, joining up when necessary for maintenance, exchange of materials such as fuel, 
+or other necessities. Piloting these multiple craft could be economically accomplished if 
+only one remote pilot on station at a time was necessary. 
+The cognitive limitation of a human astronaut and his ability to perform the multiple­
+vehicle piloting task is the focus of this paper as little work has been done in this 
+specific area. However, a large body of cognitive research on the limitations of object 
+supervision and tracking for the task of air traffic control (ATC) exists. Additionally, 
+there is an emerging body of research concerned with multiple unmanned vehicle 
+piloting for heterogeneous missions. These are the two areas reviewed in detail as they 
+relate to possible spacecraft missions. 
+Pilots develop an internal mental representation of the identity, position, mission, and 
+current direction of relevant objects. This is referred to colloquially as "the big picture." 
+The primary research question we seek to answer is whether there is a cognitive limit 
+to the number of objects that can be monitored and tracked within the big picture. 
+Secondarily, we seek to find whether this maximum number is limited by the 
+complexity of interaction; how those limiting factors are described, whether there is a 
+real-time objective measure that indicates when a pilot is approaching his maximum 
+capacity, and whether that capacity has been exceeded. The maximum number of 
+tracked objects is highly dependent on the complexity of the piloting and mission tasks 
+at hand. 
+Research is lacking in the area of cognitive limits on the number of spacecraft one pilot 
+could control given any mission scenario. Currently, two models are being used to 
+examine similar activities in air traffic control and remote piloting of multiple unmanned 
+vehicles. In both areas it has been shown the cognitive limits on the number of craft 
+capable of simultaneous control is 16 for simple destination selection, 7 for moderately 
+complex piloting and/or mission task completion, and 4 for complex heterogeneous 
+craft. While additional future research may help to increase the automation component 
+of aircraft and mission control, no current evidence exists to show that a complete 
+mental picture can be maintained for more than about 16 objects at one time, even 
+with external working memory augmentation. However, it has also been demonstrated 
+that physiological variables can be objectively employed to indicate overload. Nominal 
+success has been achieved in classifying physiological states near high workload thus 
+enabling both prediction and possibly prevention of overload. 
+UNCLASSIFIED/ ;<FOA: OFFICiI.\k W&li 8Ptl¥ 
+iv

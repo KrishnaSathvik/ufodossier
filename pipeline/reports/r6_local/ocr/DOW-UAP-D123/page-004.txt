@@ -1,0 +1,27 @@
+UNCLASSIFIED/ J FOR OFFICIAL USE ONLY 
+Figure 8. BOMARC and Talos Ramjet-Assisted Missiles ........................................... 8 
+Figure 15. Conceptual 110 Watt Positron Closed Cycle Generator Based on the 
+Figure 18. Proposed Undulator-Based Positron Source for the International 
+Figure 9. Positron SSRV Flight Profile .................................................................. 10 
+Figure 10. Artist's Rendition of a Four-Engine Positron SSRV............................... 11 
+Figure 11. Solid-Core Positron Rocket Engine With a Hot-Bleed Configuration ..... 12 
+Figure 12. Fluid Systems ......... ................ ............................................................. 15 
+Figure 13. Modified Sanger Photon Rocket Concept ............................................. 17 
+Figure 14. Closed Brayton Cycle Using Positron Annihilation ............................... 18 
+NASA Glenn Research Center Stirling Radioisotope Generator (SRG) .. 18 
+Figure 16. Mars Trajectories (X-Coordinates Defined in Direction of Aries) ......... 20 
+Figure 17. Spacecrafts Using Positron Engines ................................................... .. 21 
+Linear Collider ..................................................................................... 22 
+Figure 19. Penning Trap ....................................................................................... 24 
+Figure 20. A Positron Forms Ps ............................................................................ 25 
+Figure 21. Computer Simulation of Ps Atoms ......................... ....... ....................... 26 
+Figure 22. TEM of Silica Aerogel ........................................................................... 26 
+Tables 
+Table 1. GLOW for Chemical SSRV .......................................................................... 9 
+Table 2. GLOW for Positron SSRV ........................................................................... 9 
+Table 3. Total Positron Requirement for SSRV With a Dry Mass of 60,500 kg ..... .. 10 
+Table 4. Comparison of Space Propulsion and Power Systems - Solid Core ......... 13 
+Table 5. Comparison of Three Positron Propulsion Concepts for Mars Mission ..... 17 
+Table 6. Positron and Antiproton Expected Costs in the Next 10 Years ................ 23 
+UNCLASSIFIED/ /FAR OEEJCI0la fliE QPI .. ¥ 
+iv

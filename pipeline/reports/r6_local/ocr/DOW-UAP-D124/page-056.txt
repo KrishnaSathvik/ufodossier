@@ -1,0 +1,67 @@
+UNCLASSIFIED/;'F0R 8ffl@IAL Y!H! 8HL'I 
+1 Bruno, Claudio & Czysz, Paul, "Future Spacecraft Propulsion Systems," Second Edition, Springer in conjunction 
+with Praxis Publishing, Chichester, UK, 20089 . 
+2 Neyland, V. Ya., Scientific and Engineering Problems and Methods of Preflight Development of Orbiters, Draft 
+Original of TsAGI paper, 1990 . 
+3 Private Communication with Vladimir Plothith, AIM Aerospace Sciences Conference, 1991. 
+4 DuPont, Anthony A., "Further Studies of Optimized Inlets for Hypersonic Turbine Engines," ISABE 99-
+7039, 14th Internationa l Symposium for Air Breathing Engines (!SABE), Florence, Italy, September 1999 . 
+5 Buck, M.L., Zima, W.P., Kirkham, F.S. & Jones, R.A., "Joint USAF/NASA Hypersonic Research Aircraft Study," 
+AIM 75-1039, AIM 25th Aircraft Systems and Technology Meeting, Los Angeles, California, August 1975. 
+6 Kuchemann, D., "The Aerodynamic Design of Aircraft - A Detailed Introduction to the Current Aerodynamic 
+Knowledge and Practical Guide to the Solution of Aircraft Design Problems," First Edition, Pergamon Press, 1978. 
+7 Draper, Alfred C., Buck, Melvin L., Goesch, William H., "A Delta Shuttle Orbiter," Astronautics & Aeronautics, Vol. 
+9, No 1, 26-36, Washington DC, January 1971. 
+8 Astronautics & Aeronautics, January 1971, Vol 9, No 1. 
+9 Dana, William, X-15, X24A, X24B pilot, Private Communications, 1973, 1998 . 
+10 DuPont, Anthony A., "Further Studies of Optimized Inlets for Hypersonic Turbine Engines, " ISABE 99-
+7039, 14th International Symposium for Air Breathing Engines (!SABE), Florence, Italy , September 1999 . 
+11 "Advanced Engine Development at Pratt & Whitney, " SAE, 2001. 
+12 Dawes, A. S. & Clarke, J.F., "Nonequillbrium Gas Flows in Entropy Layers," CoA Report No. NFP8802, College of 
+Aeronautics, Cranfield Institute of Technology, Cranfield, 1988 . 
+13 Glass, D., Camarada, C. et. al., "Fabrication and Testing of a Leading-Edge-Shaped Heat Pipe, " AIAA-99-4866, 
+9th International Space Planes and Hypersonic Systems and Technologies Conference, Norfolk , Va. Nov. 1999. 
+14 Dick Mulready, "Advanced Engine Development at Pratt & Whitney" Society of Automotive Engineers. 
+15 Ahern, J.E., "Thermal Management of Air-Breathing Propulsion Systems," AI AA 92-0514, 30th Aerospace 
+Sciences Meeting, Reno, Nevada, January 1992. 
+16 Maurice, L.Q ., Leingang, J.L., & Carreiro, L.R., "The Benefits of In-Flight LOX Collection for Air Breathing Space 
+Boosters," AIAA paper, 4m International Aerospace Planes Conference, Orlando, Florida, December 1992. 
+17 Rudakov, A.S. & Balepin, V.V., "Propulsion Systems with Air Pre-cooling for Aerospaceplanes, " SAE 
+911183, SAE Aerospace Atlantic, April 1991, Dayton, Ohio. 
+18 Rudakov A.S, Gatin R.Y. , Dulepov N.P., Koralnik B.N., Harchevnikova G.D & Yugov O.K, : "Analysis of 
+Efficiency of Systems with Oxidizer Liquefaction and Accumulation for Improvement of Spaceplane 
+Performance ": IAF-91-270: 42nd Congress of the International Astronautical Federation : Montreal October 1991. 
+19 Balepin, V,V., Harchermikova, G.D., Tjurikov, E.V., & Avramenko , A.Ju., "Flight Liquid Oxygen Plants for 
+Aerospace Plane: Thermodynamic and Integration Aspects, " SAE chapter, 1993 SAE Aerospace Atlantic 
+Conference and Exposition, Dayton, Ohio, April 1993 . 
+20 Aoki, T., Ito, T., et.al., "A Concept of LACE for SSTO Space Plane ," AIM-91-5011, AIM 3rd International 
+Aerospace Planes Conference, Orlando, Florida, December 1991. 
+21 Miki, Y., Taguchi, H., & Aoki, H., "Status and Future Planning of LACE Development, " AIAA-93-5124, 5th 
+International Aerospace Planes & Hypersonic Technology Conference, November 1993, Munich, Germany . 
+22 Anon., "Hyperplane," 39th International Astronautical Federation Congress, Bangalore India, October 1988. 
+23 Anon., "An-2254/Interim HoToL Launch System Study, " Presented to the European Space Agency in Paris, 
+21 June 1991. Representing the participants, Antonov DB, Bae (Space Systems), Chemical Automatics DB, NPO 
+Molnyia, TsAGI and TsAM. 
+24 Dick Mulready, "Advanced Engine Development at Pratt & Whitney " Society of Automotive Engineers . 
+25 P. Hendrick and M Saint-Mard, "KUN Blended Lifting Body VTOHL S.S.T.O., Trajectory and Sizing 
+Calculations " Ecole Royale Militaire, Brussels Belgium, March 1998 . 
+26 DuPont, Anthony A., "Further Studies of Optimized Inlets for Hypersonic Turbine Engines," !SABE 99-
+7039, 14th International Symposium for Air Breathing Engines (!SABE), Florence, Italy, September 1999. 
+27 Czysz, Paul A., "Evaluation and Analysis of the New Rocket-Based Combined Cycle For Reusable 
+Launch Vehicles ," HTC-9901, for MSE Technology Applications, Inc . 30 Nov 1999 . 
+28 Crutchner, Harold L., "Selected Meridional Cross Sections of Heights, Temperatures and Dew Points of the 
+Northern Hemisphere ,"NAVAIR-50-lC-59, Published by Direction of the Commander, Naval Weather Service 
+Command, 1965. 
+29 Astronautics & Aeronautics, January 1971, Vol 9, No 1, Figure 3-11. 
+30 Draper , Alfred C., Buck, Melvin L. , Goesch, William H., "A Delta Shuttle Orbiter," Astronautics & Aeronautics, Vol. 
+9, No 1, 26-36, Washington DC, January 1971. 
+31 Anon., "Hypersonic Research Facilities Study, Volumes I through VI, " NASA CR 114322 through 114331, 
+Contract NAS2-5458, OART, NASA October 1970, declassified 1972 . 
+32 Gaubatz, William A., "Space Transportation Infrastructure for Opening the Space Frontier-An 
+International effort, "The International Workshop on Space Plane/ RLV Technology Demonstrators, Tokyo, 
+Japan, March 1997. 
+33 Koelle, H.H. "Space Power" IAF-93-IAF Congress, Norway. 
+34 Anon., "Hypersonic Research Facilities Study, Volumes I through VI, " NASA CR 114322 through 114331, 
+Contract NAS2-5458, OART, NASA October 1970, declassified 1972 . 
+UNCLASSIFIED/ {EAR OEEJCIA! 115E ON! X 
+49

@@ -1,0 +1,43 @@
+UNCLASSIFIED/ fFOA OFFl&I.t..k YS& 8Ptk\f 
+2} throat c 
+M wh = 
+G 
+= -(1. 35 X 1027 kg) J throat (9)1 meter 
+= - (0.71M J) ] throat 
+1 meter 
+where Mwh is the (equivalent) mass required to build the wormhole, A.throat is a suitable 
+measure of the linear dimension (width or diameter) of the throat, and M1 is the mass 
+of the planet Jupiter. One can also obtain the required energy, E..,1i, by multiplying both 
+sides of Equation (9) by c2 . Equation (9) shows that a mass of -0. 71 M1 will be required 
+to build a wormhole 1-m in size. As the wormhole size increases, the mass requirement 
+grows negative-large. Table 2 presents a tabulation of the required negat ive 
+( equivalent) mass as a function of sample wormhole throat sizes. After being alarmed 
+by the magnitude of the results, one should note that M wh is not the total mass of the 
+wormhole as seen by remote observers. The non-linearity of the general relativistic field 
+equation dictates that the total mass is zero (actually, the total net mass being positive, 
+negative or zero in the Newtonian approximation depending on the details of the 
+negative energy configuration constituting the wormhole system). Finally, Visser et al. 
+(Reference 59) demonstrated the existence of spacetime geometries containing 
+traversable wormholes that are supported by arbitrarily small quantities of negative 
+energy, and this was proved to be a general result. The next section will expand on this 
+further. 
+Table 2. Negative Equivalent Mass Required for 
+Traversable Wormhole 
+A.throat (m} Mwh 
+1000 - 709.9 MJ 
+100 - 71 MJ 
+10 -7.1 MJ 
+1 - 0. 71 MJ 
+0.1 -22.6 M© 
+0.01 - 2.3 M© 
+M1 = 1.90 x 1027 kg, Mo= 5.98 x 1024 kg 
+B. PHYSICAL CONSTRAINTS ON NEGATIVE ENERGY 
+The Quantum Inequalities (QI) conjecture is an extension of the Heisenberg Uncertainty 
+Principle to curved spacetimes. Much research has been conducted around this one 
+topic alone. The literature is too numerous to cite here but the reader should consult 
+(Reference 10) and (Reference 46) for detailed information. The QI conjecture relates 
+(via model dependent time integrals of the energy density along geodesics) the energy 
+density of a free quantum field and the time during which this energy density is 
+observed. This conjecture was devised as an attempt to quantify the amount of 
+UNCLASSIFIEQ { {FOR OFFICIAL YS& 8HLY 
+22

@@ -1,0 +1,41 @@
+UNCLASSIFIED FP OR OPPICTAL USE ONLY
+
+¢ Total mass flow rate, Qtota) = 240 kg/sec [for a total (run time) mass of
+72 metric tons].
+e Plenum Chamber
+e Volume, V = 0.5 m x 3.0m x 1.5m = 2.25 m3.
+e Static pressure, P = 2.02 x 10° Pa (or 2 atmospheres).
+e Sonic orifice plate perforation = 17.5%.
+e Flow screen loss > 0.2 to 0.3.
+e Skin friction loss ~ 0.08.
+e Gas Storage Tank
+e Run time = 300 seconds & 4 to 5 runs.
+e Pressure, P = 2.066 x 10’ Pa (or 200 atmospheres).
+e Volume, V = 68 m3 x 4.
+e Acoustics Suppression
+e Pumping induced medium homogeneity, AP/P = 0.94 @ Ep = 300 J/I.
+e Acoustic suppression
+¢ Flow direction: expansion horn provides impedance match eliminating
+reflection of pressure waves.
+¢ Normal to flow direction: using acoustics muffler to dump out
+transverse pressure waves.
+¢ Muffler requirements: attenuation factor < 0.55; number of bounces
+between pulses n = 8.
+
+M1
+End Mirrors : M1 Concave (R1 =97m) Cavity Length : 36.5m
+M2 Convex ( R2=24m) Gain Length : 3m
+Magnification : M=4 Aperture : 0.3x0.3 m
+
+Output Scraper: SP 36x36 cm (outer)
+7.5x7.5 cm (inner)
+
+Acoustic Muffler : AM
+
+Electrodes : E
+
+Figure 16. Schematic of Power Oscillator Optics [29],
+
+44
+
+UNCLASSIFIED &+60R-OFF26FAE-USE-ONET

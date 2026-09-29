@@ -7,6 +7,7 @@
 __pycache__/
 *.pyc
 .venv/
+.venv-v2/
 venv/
 
 # node
@@ -23,6 +24,8 @@ Thumbs.db
 
 # pipeline outputs
 pipeline/outputs/
+pipeline/logs/
+.cache/
 
 # embedded repos (cloned data sources)
 pursue-ufo-files/
@@ -42,6 +45,18 @@ web/out/
 # backups
 *.backup.tsx
 *.backup.ts
+*.backup.css
+*.backup.py
+*.backup.js
 
 # slideshow source images (uploaded to Supabase Storage)
 /*.jpg
+
+# pursue snapshots: keep manifest metadata in git; ignore bulky CSV/JSON blobs
+pipeline/snapshots/**/uap-data.csv
+pipeline/snapshots/**/records.json
+pipeline/snapshots/**/manifest.csv
+
+# local-only pipeline artifacts
+pipeline/reports/rag_telemetry/
+pipeline/reports/production_migration/

@@ -1,0 +1,39 @@
+UNCLASSIFIED/ fFOA 8FFl&IAl l48l: 8HL'I 
+Positron Aerospace Propulsion 
+Introduction 
+Antimatter is considered an extremely attractive fuel for aerospace propulsion 
+because of its enormous advantage in energy density over all other known 
+sources of energy. However, because antimatter does not occur naturally and 
+is unstable in the presence of matter, no vehicles have ever flown using it. 
+After a short overview of the various aerospace applications of antimatter, this 
+paper provides a detailed analysis of air-breathing turbojets and turbo-ramjet 
+missiles, as well as rockets for manned interplanetary missions. It discusses 
+new methods of producing and storing large numbers of antielectrons, or 
+positrons, and compares their costs with those of antiprotons. Finally, the 
+paper considers the prospects for the first, modest demonstration of positron 
+propulsive flight within the next 10 years. Interplanetary missions on 
+positron-propelled spaceships are described in detail, with estimates of 
+positron requirements for each mission. Standalone positron power systems 
+are described briefly. 
+Studies of positrons as a fuel for aerospace propulsion applications have been 
+sponsored by the Air Force Research Laboratory, Eglin Air Force Base, Florida, 
+and the NASA Institute for Advanced Concepts, Atlanta, Georgia. This paper is 
+an anthology of that work and not a general review of antimatter propulsion. 
+The positron was predicted by Dirac in 1929 1 and discovered by Anderson in 
+1932. 2 Along with the antiproton, which was discovered in 1954, 3 the positron 
+has the largest specific energy of any known material. Because aerospace 
+propulsion performance is ultimately limited by specific power, this advantage 
+was immediately appreciated. However, compared with chemical sources of 
+energy, positrons presented new and serious production and storage 
+challenges. 
+Antimatter has a long history of appearing in science fiction literature, dating 
+to a 1942 short story in Astounding Science Fiction and the 1949 book Seetee. 
+It later appeared in the Star Trek television and film series and continues to be 
+an appealing subject for contemporary books and films, such as Angels and 
+Demons. 
+Positron aerospace propulsion is now entering a critical period owing to new 
+technologies that bear on production and storage issues. To their advantage, 
+positrons, unlike nuclear fission and antiprotons, present no radiation or 
+environmental safety problems. 
+UNCLASSIFIED/ /FAR AEEICllk Wlili 8Nl¥ 
+V

@@ -1,0 +1,23 @@
+29 
+Cooper And stop your rate at the back . 
+Conrad As a matter of fact , that's about twice the fuel 
+usage . They may take this into account , I doubt 
+it. They're very conservative on their estimates . 
+Cooper Selector controls and switc hes were all right . 
+Attitude controller was fine . Maneuver controllers . 
+( 
+We had every intention of checking the right one and 
+we never did check it because of other problems . 
+Inflight malfunction irregularities we've already 
+covered pretty well . 
+Cooper Attitude Control Modes, Rate Command was excellent . 
+Reentry Rate Command we never checked . 
+Conrad I don't even think you need it . 
+Cooper And I think it could be removed from the spacecraft 
+as far as I 'm concerned . I never used or need it on 
+the simulator . I never liked it. 
+Conrad Pilots aren't going to tolerate these highe r r ates . 
+They will damp before these rates are reached . 
+Cooper Direct is a good mode. There ' s nothing at all 
+wrong with Direct . I thought it was much crisper, 
+much crisper in the spacecraft than in the simulato r

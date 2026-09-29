@@ -1,0 +1,41 @@
+UNCLASSIFIED/ (FOR OFEICI0k YSE 8Htt 
+Figure 23 with Figure 22, it is observed that the dips correlate with drops of the total 
+reflectivity and increases of the tota l absorption of the absorber/MetaMirror structure. 
+The MetaMirror approach to infrared energy harvesting is one of the very promising 
+applications of metamaterials. A number of aspects of MetaMirrors must be investigated 
+and several important questions must be answered before practical applications can be 
+pursued. Some of those questions are: 
+• What is the angular dependence of absorptivity, and can it be made wide-angle as 
+we have recently demonstrated in Reference 20 for negative-index metamaterials? 
+• Can absorptivity be made broad-bandwidth by combining localized resonances with 
+the LR-SPPs? That could be potentially accomplished by using U-shapes with 
+different geometries, yet spaced in a regular periodic pattern, or by using quasi­
+periodic arrangements of CM Ms shapes. 
+• What are the most promising polarization-independent unit cells of CMMs that result 
+in enhanced absorptivity? 
+• Is it possible to apply the MetaMirror concept in the visible and contribute to solar 
+energy harvesting? 
+As more researchers are investigating energy-harvest ing applications of CMMs (or 
+MetaMirrors), it is believed that these questions will be answered very soon. 
+Absorbing 
+ll 
+r2 
+Material 
+lr0 
+~
+--N...-G)
+"' (ti 
+.s::. 
+Q. 
+N 
+--- phase(r2) V 
+--- phase(r2) H 
+1 
+-=- 0.5 -
+Bso 700 760 
+Figure 23. Engineering the Complex Reflectivity Coefficient r2 Defined on the Left Panel Using the 
+Concept of a MetaMirror. Dips of I r2 I shown in the right panel correspond to reflection dips (and absorption 
+peaks) in Figure 2. The physical reason for these dips is the excitation of long-ra nge SPPs on the MetaMirror 
+surface. Inset: Fabricated MetaMirror. 
+UNCLASSIFIED/ {EAR OFFICI.IJ.k Y81!!! tJflti 
+26

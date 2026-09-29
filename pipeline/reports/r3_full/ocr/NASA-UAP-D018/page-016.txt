@@ -1,0 +1,49 @@
+4, D-9, Simple Navigation
+This experiment is designed to
+develop and test navigation pro-
+cedures which employ a simple
+stadimetric device and a sextant
+to make sightings and measurements
+in space using the horizon and
+stars as references. Data from
+sightings will be used in compu-
+tations to determine orbital
+parameters. These results will
+be compared with actual
+parameters to determine the
+accuracy of the procedures.
+The hand held sextant to be used
+is shown in Figure 6.
+
+5. M-3, In-Flight Exerciser
+
+The purpose of this experiment is
+to assess the astronauts’ capacity
+to perform physical work under
+spacecraft conditions. Monitored
+exercise will be performed by the
+astronauts prior to the flight to
+establish control data. Isotonic
+exercises employing a bungee
+cord and involving the arms and
+legs will be taken prior to and
+after exercising. Pulse rate will
+be monitored continuously. The
+inflight data obtained will be
+compared with the control data
+to determine the capacity for
+work in space. Figure 7 shows
+the manner in which this exercise
+will be performed.
+
+5/24/65
+
+M-913-65-04
+
+D-9 SIMPLE NAVIGATION
+
+HAND HELD SPACE SEXTANT
+MG5-8097
+
+M-3 IN-FLIGHT
+EXERCISER

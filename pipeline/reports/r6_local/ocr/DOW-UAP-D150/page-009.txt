@@ -1,0 +1,58 @@
+UNCLASSIFIED / / POROPPICTAL USE ONLY
+
+The first challenge to overcome in supercomputing in space is radiation causing temporary
+and permanent errors in calculation. The current approach is to make the solid state
+components radiation-hard, a time-consuming and costly process. An alternate approach is
+
+to use multiple commercial-off-the-shelf (COTS) components in parallel architecture.
+
+George’s group at the University of Florida pursued this approach with earthbound success.(2,
+3) A good question arises that if 50 years of space travel hasn’t required one onboard
+supercomputer, why start now? It seems NASA asked this question as well and, after years
+
+of preparation, cancelled the space test of the technology in late 2009.
+
+Regardless of the need for current missions, one can imagine many future applications where
+it would be more convenient to data process on long space missions without downloading
+data to Earth-based system and uploading the results. This is especially true for long-
+duration spaceflight where communication delays could be minutes to hours (Mars ~13
+minutes, Jupiter ~45 minutes, and Neptune ~4 hours). Spacecraft active in the 40-year
+horizon will require supercomputing technology on-board to process all of the data to be
+acquired during flight. This includes astronomical data as well as ship and crew data.‘
+Example missions include Mars with a goal to analyze the planet using thousands of semi-
+autonomous sensors or millions of independent, wirelessly communicating nanomachines
+(“magic dust”). In such scenarios, it is not necessarily numbers that need lots of crunching,
+but algorithms that need to be run on powerful systems that could be non-traditional in their
+design; for example, massively parallel.
+
+MAKING DIGITAL CIRCUITS FASTER
+
+In consideration of the underlying physics in the electrodynamics of transistor operation, the
+scale of the constituent elements dominates the type of analyses required. In the
+macroscopic regime, constituents are measured in microns or larger, properties are
+dominated by well-defined statistical averages in bulk matter, and non-classical effects due
+to the underlying fact that all particles involved in the interactions are really fluctuations
+within a relativistic quantum field can safely be ignored. For 40 years making a fast transistor
+was primarily accomplished by avoiding saturation between states in an arrangement known
+as emitter coupled logic (ECL, pronounced “ek-el”). The ECL family of logic circuits could
+achieve sub-nanosecond switching times and dominated the leading-edge of high-speed
+computing up until the early 1990s. The drawback of ECL was that without reaching
+saturation, no depletion zone existed within the individual transistors and thus current flowed
+through much of the device hardware instead of the usual small leakage current associated
+with gates in a defined state. ECL’s large current flow makes cooling and power requirements
+challenging, especially for space-based platforms where heat dissipation is an issue.
+
+Saturation technologies, primarily MOSFET-based, surpassed the speed of high-current
+devices when the footprint of individual elements became small enough that a change
+between depletion states could be quickly stabilized, given the comparably slow drift
+velocities of primary charge carriers. These CMOS-family technology devices are the current
+state-of-the-art in integrated circuits, and device speed increases, until recently, were
+dominated by making the circuit elements smaller (see below). Intel produces high volume
+ICs with circuit elements size at 32 nm, and has demonstrated memory elements in 22 nm
+
+© The scenario of several massive data acquisition channels was presented at the Workshop for Technology Breakthroughs
+for Human Space Exploration, June 17 2010, NASA Headquarters, Washington DC. Navigation is and will continue to be
+handled by traditional computing machines — it is only rocket science that needs to be solved for navigation purposes.
+
+8
+UNCLASSIFIED / -40.2-O56265i-USE-ONE

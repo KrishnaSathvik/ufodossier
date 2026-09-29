@@ -1,0 +1,40 @@
+Appendix I
+
+Calculation of Angular Velocity of Single Aerial Object:
+
+Pass No. 2: 48 spot positions are plotted, representing an sais Male time interval
+or U7 frames. At 16 frames per second, this gives:
+
+47
+
+To
+The measured distance on the screen is 15.1 inches. This gives approximately
+coal or 5.0 inches per second for image velocity on the screen.
+
+_ 3-0 seconds elapsed time
+
+Pass lo. 3: li spot positions are plotted, for 43 frames of elapsed time. This
+time is 4 _ 2-7 seconds.
+
+The distance travelled is 15.7 inches. This gives 15.7 5.8 inches per second
+
+on the screen. Average of these 2 values is 5.4 inches per second; with an es-
+timated precgsion of +15 per cent.
+
+Conversion to Angular Velocity:
+
+Distance from projector lens to screen = 100 inches
+Focal length of projector lens = 2 inches
+Enlargement of film on screen = 50 times
+Image velocity on film = Ye ell inches per second
+
+Focal length of camera taking lens = 4% inches
+
+It is adequately precise to divide the image velocity by the focal length
+to get the angular velocity in radians per second, then to convert to degrees.
+We have:
+
+Angular velocity = .11 x 57.3 = 2.1 degrees per second
+
+The precision of this value is also conservatively set at +15% or +0. 2 degrees
+per second.

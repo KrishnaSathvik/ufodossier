@@ -1,0 +1,40 @@
+UNCLASSIFIED1/FOR 8ffl@IAL tt91! e"t I 
+there is room for improvement on these values. Optimization of graphene synthesis to 
+produce finer control is an area receiving increased attention in research and 
+development activities in unive rsities, national labs, and industria l research facilities. 
+Lockheed Martin is actively engaged in research investigating graphene and applications 
+where graphene could be a critical differentiator. There are a number of companies that 
+supply graphene made from various methods, as well as emerging startups geared 
+toward producing graphene-based ultracapacitors or materials designed for ultracaps. 
+Figure 8. Transmission Electron Microscope Image of Graphene. This could be an excellent ultracapac itor 
+electrode materia l with its high surface area and excellent conductivity. 33 
+Manipulation of the porosity of high surface area carbons leads to the largest difference 
+in specific capacitance . Understanding the relationship between the electrolyte ion size 
+and the carbon pore size is critical to improving performance. There are a number of 
+strategies being investigated for fine control over the pore-size distribution to increase 
+the specific capacitance. The most common methods used currently are template 
+methods and carbide-derived carbons. Template methods create a controlled 
+mesoporous structure with a fairly narrow range. These structures have pores that 
+range from 2 to 10 nanometers and are maximized to pore sizes roughly twice that of 
+the solvated ions. The template process involves filling the pores of an inorganic 
+template host with a carbon precursor (such as an alumina template). The template is 
+removed after carbonization by acid treatment . The pore size is then dictated by the 
+template as the pores are the remaining void space once occupied by the template . 
+Simi lar methods have shown that smaller pores, including those less than two 
+nanometers, may provide high specific capacitance. The realizati on t hat smaller pores 
+contribute to charge storage in an electric double layer has led to the need to develop a 
+better understanding of the charge storage mechanism. 
+Carbide-derived carbons have a unique pore-size distribution that is tunable with sub­
+angstrom accuracy. These have served as models to study the charge storage behavior 
+and ion adsorption in pore sizes ranging from 0.6 nm to 1.1 nm. 34 The normalized 
+capacitance decreases with decreasing pore size unt il a critical value is reached. 
+Figure 9 shows t he relationship between average pore size and the normalized specific 
+capacitance. Pore sizes smaller than one nanometer significantly contribute to the 
+charge storage despite the fact that the solvated ion size is larger than the pore 
+diameter. The capacitance increase is explained by a distorted ion shell model. The ion 
+salvation shell is perturbed such that it is capable of a closer approach of the ion and 
+the carbon surface. The discoveries at Drexel University that utilize the fine control to 
+create tailored porous carbon structures can maximize specific capacitance for a given 
+ult racapacitor system. 
+UNCLASSIFIEO/fFOA OFFI&I:.l.b YS& ONLY 
+19

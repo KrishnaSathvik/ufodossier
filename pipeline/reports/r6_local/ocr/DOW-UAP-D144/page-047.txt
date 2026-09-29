@@ -1,0 +1,17 @@
+UNCLASSIFIED/ ,'FOR OFFI@IAL WSE ONLY 
+Voice Commands 
+Voice commands are projected to be an excellent augmentation to the set of other 
+cockpit controls, part icularly with the more complex and varied instruction sets, such as 
+navigating within gesture-based information interfaces. 
+Based on lessons from human-to-human voice communication, it is advisable to have 
+commands from the pilot repeated back by the flight-assist system as a form of 
+confirmation. 
+Thought Commands 
+Thought commands are projected to be a faster method to input commands, but face 
+the underly ing limit of the concentration ability of the human. In the case of the 
+breakthrough-era vehicle, the use of thought commands can be considered comparable 
+to the use of voice commands. Accordingly, some form of confirmation from the flight­
+assist system is needed, which the pilot must acknowledge before that command is 
+implemented. 
+UNCLASSIFIED/fFOA. OFFICIO ls. Plili ONls.¥ 
+42

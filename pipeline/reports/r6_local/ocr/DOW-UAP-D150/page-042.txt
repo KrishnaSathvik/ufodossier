@@ -1,0 +1,50 @@
+UNCLASSIFIED/; FOR OFFICIAL U.!I! er•tY 
+landscapes traversed by molecules. The capability for computation is also needed to analyze 
+these data and, in many applications, some rudimentary processing units such as the logic 
+gate networks shown in the previous section would be enough to achieve useful 
+functionalit ies. 
+To exhibit these capabilit ies, a team of scientists from Columbia University, Arizona State 
+University, the University of Michigan, and the California Institute of Technology (Caltech) 
+(123) have programmed an autonomous molecular "robot" made out of DNA to start, move, 
+turn, and stop while following a DNA track. This development could ultimately lead to 
+molecular systems that might one day be used for medical therapeutic devices and 
+molecular -scale reconfigurable robots-robots made of many simple units that can reposit ion 
+or even rebuild themselves to accomplish different tasks. The researchers constructed a trail 
+of molecular "bread crumbs" on the DNA origami track by stringing additional single-stranded 
+DNA molecules, or oligonucleot ides, off the ends of the staples. These represent the cues 
+that tell the molecular robots what to do-start, walk, turn left, turn right, or stop, for 
+example-akin to the commands given to traditional robots. We will discuss the "nano 
+walker" in greater detail in a later section in this treatise. It is this third function, the 
+controlled movement of molecules through the aid of nanometers that will be discussed next. 
+DNA Nanomotors 
+Molecular-size motors have evolved in nature, where they are used in virtually every 
+important biological process. In contrast, the development of synthetic nanometers that 
+mimic the function of these amazing natural systems and that could be used in man-made 
+nanodevices is in its infancy. Building nanoscale motors is not just an exercise in scaling 
+down the design of a macroworld engine to nanoscale dimensions . Many factors such as 
+friction, heat dissipation and many other mechanical behaviors are just very different at this 
+scale - everything is constantly moving (under kinet ic energy supplied by the heat of the 
+surroundings) and being buffeted by other atoms and molecules (Brownian motion). The 
+concept of a single DNA molecule nanometer was already introduced in early 2002. (124) 
+DNA nanometers are synthetic biochemical devices whose motion can be controlled at the 
+molecular scale. 
+DNA molecular motors will be indispensable parts for the construction of molecular robots. 
+The motion of a robot should be well-controlled by means of some molecular input, or it 
+should be driven autonomously by cues from the environment. First approaches to encode 
+molecular motion in DNA structures were based on the reversible and input-sensitive 
+conformational changes. For example, the first reported use of a DNA motor was a 
+nanomechanical device which generated twisting motion along the helix axis based on 8-Z 
+transition controlled by ionic strength of a solution. (125) Then, the first molecular tweezers 
+were driven by successive reversible branch migrations of DNA strands, and these strands 
+were called "fuel" and "anti-fuel." (126) The next level in complexity were "remotely­
+controlled" walkers introduced by Seeman and Pierce, as they were based on a series of 
+successive unidirectional conformational changes driven by strand displacement . These 
+sequential conformationa l changes were microscopic analogs of macroscopic commands such 
+as: "lift the first leg", "drop the first leg to the next available position"; "lift the second leg", 
+"drop the second leg to the next available position", with a cumulative result of a 
+translational movement of a molecule along a track. One drawback of these systems was 
+that they were not autonomous, and that each conformational change had to be triggered 
+separate ly, while one advantage was that they could have been monitored easily in bulk with 
+fluorescence measurements. The first autonomous systems were based on nucleic acid 
+UNCLASSIFIED//EOA: OFFICil.t.k YSf 8HtY 
+41

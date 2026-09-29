@@ -1,0 +1,20 @@
+UNCLASSIFIED/ fFOA OFFI&il.t..k Y&& 8Ptk\f 
+4 
+S = - - c- (K' -8'K k) (2) 
+J i J k4rrG 
+where the second fundamental form K ;i is a matrix that represents the extrinsic 
+curvature of an (telling how the wormhole throat is curved with respect to the 
+enveloping four-dimensional spacetime), Sii is the three -dimensional unit matrix, and 
+K \ is the trace (sum of diagonal matr ix elements) of KV K ;i is a diagonal matrix 
+having the two principal radii of curvature, p1 and p2, of the thi n shell as its components 
+(see Figure 5). S ;i may be interpreted in terms of the thin shell's surface energy density 
+cr and principal surface tensions, S1 and S2, which are also diagonal matr ix components. 
+thin shell of mass-energy pl 
+Figure 5. A Thin Shell of (Localized) Mass-Energy Possessing Two Principal Radii of Curvature, p1 and 
+p2. 
+Equation (2) is solved and the components of S ;i are found to be (Reference 8): 
+(3a) 
+3 The Latin indices (i, j, k = 0...2) denote three-dimensional hypersurface coordinates , ><° ...x2, such that x1, x2"' 
+space coordinates and><° = time coordinate. 
+UNCLASSIFIEQ { {FOR OFFICIAL Y&& 8HLY 
+6

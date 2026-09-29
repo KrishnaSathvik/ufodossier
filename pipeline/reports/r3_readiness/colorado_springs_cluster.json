@@ -1,0 +1,34 @@
+{
+  "cluster_id": "colorado-springs-2022",
+  "note": "Reviewed source-role fixture for one event. Not a generalized canonical linker and not an auto-merge.",
+  "production_writes": false,
+  "primary_recovered": true,
+  "linked_sources": 2,
+  "duplicate_incident_inflation": 0,
+  "members": [
+    {
+      "filename": "FBI-UAP-D002.pdf",
+      "role": "primary_narrative",
+      "document_class": "transcript",
+      "contains_incidents": true,
+      "extraction_action": "extract",
+      "accepted_incidents": 1
+    },
+    {
+      "filename": "FBI-UAP-D003.pdf",
+      "role": "media",
+      "document_class": "media_metadata",
+      "contains_incidents": false,
+      "extraction_action": "source_only",
+      "accepted_incidents": 0
+    },
+    {
+      "filename": "ICA-UAP-D001.pdf",
+      "role": "analysis",
+      "document_class": "analysis",
+      "contains_incidents": false,
+      "extraction_action": "source_only",
+      "accepted_incidents": 0
+    }
+  ]
+}

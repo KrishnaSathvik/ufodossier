@@ -1,0 +1,48 @@
+UNCLASSIFIED/ /POlt Offl@IAL l:ISlii &PU.¥ 
+Appendix D: Landing Ellipses for Hypersonic Gliders 
+Figure 14 graph ically shows the cross (lateral) range and down range for various 
+hypersonic gliders. The lateral range and down range describe a landing ellipse for a 
+vehicle entering the glide at 22,400 feet/second as shown in Figure 46 . The 0,0 point is 
+the beginning of the entry or glide trajectory . 
+</J 6(I)
+-.....,... 
+t:::
+-cd 4 
+-~ .... ::s 
+~ 
+2t::: 
+0 
+0 
+0 
+0
+-
+(I) 
+00 2 
+ij 
+-
+~ 
+~ 4 ... 
+(I) 
+~ 
+....:l 6 
+BalJistic 
+DynaSoar 
+-7 
+' \ 
+I 
+Model 176B 
+0 2 4 6 8 10 12 14 16 18 20 22 24 26 28 30
+IAtmospheric Down Rang 1000 nautical miles 
+Entry 
+Figure 46. Landing Ellipses for {from left) Apollo Capsule, NASA Ames M2/F2, USAF X-20 DynaSoar, 
+FDL Lifting-Body, 88%-Capability MDC Model 176H, and MDC 176H 
+The space shuttle landing ellipse would be inside the DynaSoar (X-20) ellipse, as its 
+cross range is one missed orbit, or 1,555 nautical miles. The down range would be 
+approximately 9,800 nautical miles. The ellipse is offset from 0,0 and has an 
+indentation into some of the landing ellipse. This is an area the glider cannot reach 
+with the aerodynamic and structural limits. The ballistic example is for the Apollo 
+capsule, which had an L/D of about 0.5; Gemini and Mercury ellipses would be smaller . 
+The Model 176B or Model 176H using 88 percent of its glide capability would have a 
+glide range equal to the Earth's equator ial circumference. 
+UNCLASSIFIED//509 AEEICI CI. Uii &PU.¥ 
+48

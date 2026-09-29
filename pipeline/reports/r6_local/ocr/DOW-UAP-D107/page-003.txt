@@ -1,0 +1,66 @@
+• Service: Air Force 
+• Operations Center: 
+APPROVER 
+• Rank: SSgt 
+• Full Name: 
+• Unit: 
+• Wing: 
+• Phone Number: 
+• Email: 
+• Service: Air Force 
+• Operations Center: 
+INGEST 
+• Rank: 
+• Full Name: 
+• Unit: 
+• Wing: 
+• Phone Number: 
+• Email: 
+• Service: 
+• Operations Center: 
+ACEQUIP 
+ACEQUIP 
+• Aircraft Callsign: 
+• Radar Name or Destination: 
+• Radar Software Load or Mission Data: 
+• Radar Warning Receiver (RWR) Name or Designator: 
+• RWR Software Load or Mission Data: 
+• MWS Name or Designator: 
+• MWS Software Load or Mission Data: 
+• IRCM Name or Designator: 
+• IRCM Software Load or Mission Data: 
+• ECM Name or Designator: 
+• ECM Software Load or Mission Data: 
+• CMD Name or Designator: 
+• Chaff Designator: 
+SECRET//NOFORN 
+SECRET//NOFORN 
+DECLASSIFIED
+DECLASSIFIED
+UNCLASSIFIED
+UNCLASSIFIED
+Declassified by:
+MG Richard A. Harrison
+USCENTCOM Chief of Staff
+Declassified on: 20260608
+(b) (6)
+(b) (6)
+(b) (6)
+(b) (6)
+(b) (6)
+(b) (6)
+(b) (6)
+(b) (1) (B)
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+3.5C. (B)(6)

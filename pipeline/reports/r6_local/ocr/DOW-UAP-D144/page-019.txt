@@ -1,0 +1,57 @@
+UNCLASSIFIED/ ,'FOR OFFI@IAI:: ~SE OPtl::Y 
+Extreme Relativistic 660 
+Million 
+1.07 
+Billion 0.99 970 Million 270 Million 180 
+Thousand 
+297 
+Thousand 
+Light Speed 670 
+Million 
+1.08 
+Billion 1 980 Million 300 Million 190 
+Thousand 
+300 
+Thousand 
+Faster Than Light? 13 
+Billion 
+22 
+Billion 20 202 Billion 6 Billion 4 Million 6 Million 
+Table 1 is designed to put a pilot's reaction time into perspective; it compares distances 
+traversed during the one second it takes the pilot to scan and comprehend his displays 
+("dwell time") and then react. 9 In addition, it will take time for those commanded 
+changes to take effect, but those durations are not known. The distances shown in the 
+table are those traversed before any corrective actions are initiated. If these distances 
+are determined to be excessive, then automated flight controls are mandatory. 
+Another aspect resulting from the effects of ultrahigh vehicle speed is the so-called 
+"relativistic twin paradox. 1110 Because of relativistic effects, there will be a mismatch 
+between the time measured aboard the craft and that measured at its base of 
+departure. The equations to track this situation are well established. 11 The challenge is 
+how to present this information so that both the crew and the mission personnel at the 
+base can easily comprehend the implications. 
+More provocative than the implications of relativistic speeds is the possibility of faster­
+than-light (FTL) travel. Beyond the perplexing issues of causal violations and closed 
+time-like curves inherent with all FTL notions to date, 12 there is the question of tracking 
+position, orientation, and motion when beyond light speed. 
+It is reasonable to assume that when a vehicle is traveling FTL, the normal flow of 
+electromagnetic waves (i.e., light) to and from the craft will be cut off. To better 
+visualize this, consider the Doppler shifts as a vehicle approaches light speed. The 
+colors of light heading into the flight path will be shifted to such a short wavelength 
+that it will cease to be detectable. Similarly, the light approaching the rear of the craft 
+will red-shift so much that it also ceases to be detectable. Again, do not count on 
+windows. 
+Navigation References 
+The main difference between navigating with existing vehicles and breakthrough 
+vehicles is that the breakthrough vehicles will have to navigate in deep space and 
+around other astronomical bodies where GPS systems and location beacons do not exist. 
+Another major difference is that the physics of the propulsion methods might distort or 
+block information that is tradit ionally used for navigation. 
+Inertial Navigation (Acceleration Measurement) 
+In inertial guidance systems, accelerometers and ring laser gyros accurately track the 
+changes in the vehicle's motion (lateral and rotational accelerations). These signals are 
+integrated to keep track of position by evaluating changes in both velocity and 
+acceleration. 
+In the case of the double hull, where the inertial effects might be different inside of the 
+craft, these tools become more diffi cult to apply. If we assume that the physics and 
+UNCLASSIFIED/,<FOA OFFICIO ls Plili ONI.¥ 
+14

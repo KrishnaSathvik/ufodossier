@@ -1,0 +1,47 @@
+UNCLASSIFIED/ /FOR OFFI@IAL WSE QptLY 
+presence of cosmological spacetime curvature, and 2) the high-frequency modes are 
+unaffected by the presence of cosmological spacetime curvature so they take the flat 
+Minkowski spacetime form; that is, these modes contr ibute nothing to the physical 
+vacuum energy (Reference 4). This then enforces a very low-frequency cutoff that 
+renorma lizes the total vacuum energy, leading to a minute residual cosmolog ical 
+vacuum energy density of 10-9 J/m3, which has been observed. Also, investigators 
+studying supersymmetric and superstr ing quantum gravity theories have proposed the 
+lim ited cancellation of some positive energy electromagnet ic ZPF modes by some 
+negat ive energy fermionic (Dirac vacuum) ZPF modes as an explanation for the 
+observed minute vacuum energy density. 
+ELEMENTS OF SED THEORY 
+An alternat ive to QED, stochastic electrodynamics (SEO) identifies the origin of the ZPF 
+as a direct consequence of a classical ZPF background. SEO begins with the ordinary 
+classical electrodynamics of Maxwell and Lorentz, but instead of assuming the 
+traditional homogeneous solution of the source-free differential wave equations for the 
+electromagnet ic potentials, one instead considers that due to multiple charged particles 
+moving throughout the universe, there is always a random electromagnetic radiation 
+background present that affects the part icle(s) in any experiment. This new boundary 
+condition (random radiat ion background) replaces the prior null background of 
+traditional classical electrodynam ics. Moreover, the princ iple of relativity dictates that 
+ident ical exper iments performed in different inertial frames must yield the same result, 
+and that this random classical electromagnetic radiation must be isotropic in all inertial 
+frames; it is invar iant under scattering by a dipole oscillator, invariant under redshift 
+(Doppler, cosmological, grav itational, no Einstein-Hopf drag force), and must therefore 
+have a Lorentz- invariant energy density spectrum. The only energy density spectrum 
+that obeys such conditions is one that is proportional to the cubic power of the 
+frequency. Interestingly, this is exactly the same frequency dependence as that of the 
+QED spectral ZPF energy density described above, when the temperature Tis set to 
+zero in Equation (1). Thus in SEO, the random radiation assumes the role of the ZPE of 
+QED, and is termed the classical electromagnetic ZPE. Planck's constant appears then in 
+SEO as an adjustab le parameter that sets the scale of the ZPE spectral density. 
+The formulation of the SED model has evolved over time, beginning with the work of 
+Nernst in 1916 and the later foundational work of Marshall and Boyer in the 1960s 
+(Reference 14). The original Standard SED model was based on random phases with 
+fixed electric-field mode amplitudes. The more recent Modified SED model employs 
+random phases with random electric-field mode amplitudes and a full probab ility 
+distribution for the ground state amplitude, in agreement with quantum theory 
+(Reference 16). A comparison of SEO with quantum theory shows that the first and 
+second moments of the spectral energy distribution are identical, but beyond that, the 
+distributions diverge widely. Nevertheless, several quantum theory results have been 
+reproduced by means of the SED approach, such as (Reference 14, 17): 
+• Quantum mechanical harmonic oscillator. 
+• Lamb shift. 
+• Blackbody radiation. 
+UNCLASSIFIED/ /FOR OFFICI0L: 11ili QIU.,¥ 
+6

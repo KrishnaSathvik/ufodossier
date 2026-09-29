@@ -1,0 +1,41 @@
+UNCLASSIFIED/ /FOR. errl@IAL YSI: e .. tv 
+Figure 2 shows an example of a Marx generator circuit. 
+Figure 2. Example of Marx Generator Circuit 
+TRANSFORMER BASED GENERATORS 
+Transformer-based pulse generators have also been used for many years as prime 
+power for HPM sources. Transformers with ferrite cores have been used successfully in 
+sources with multigigawatt output powers at kilohertz repetition rates. Ferrite 
+development is an area where substantial gains could be made in HPM sources. 
+Typically, programs are under time or budget constraints and do not give adequate 
+attention to this research. As a result, little or no progress in new ferrite materials for 
+pulsed operat ion has been made. Ferrites with increased frequency ranges and 
+increased saturation flux density are needed. Air core transformers are used at higher 
+flux densities and are often of the resonant variety because of their decreased coupling 
+levels. Resonant transformers develop peak voltages after multiple cycles owing to 
+coupling effects. Dual-resonant air core pulse transformers are prevalent and require 
+coupling coefficients of 0.8, producing peak secondary voltage and maximum energy 
+transfer after an initial reverse voltage swing. In dual-resonant designs, two 
+frequencies or resonant modes are generated, and the output is the superposition of 
+the two modes. Transformer systems generally require the primary circuit to be 
+matched or tuned to the secondary, or vice versa. 
+EXPLOSIVELY DRIVEN GENERATORS 
+Explosively driven generators, also called flux compression generators (FCGs), work by 
+setting up a strong magnetic field between two conductors, usually by discharging a 
+capacitor bank charged to high voltage through an inductive coil. A conducting hollow 
+cylinder filled with high explosives is placed in the center of the coil, filling the region 
+between the two conductors with magnetic flux. The explosives are then used to 
+compress the initial magnetic flux by driving the conducting cylinder surface, which 
+contains the flux, outward into the current carrying coil. Work done by the conductors 
+moving against the magnetic field results in a huge increase in the EM energy. The 
+additional energy comes from chemical energy stored in the explosives. Thus, FCGs 
+essentially convert a portion of the chemical explosive energy into EM energy. The 
+explosively driven conductor is called an armature, and the nondriven induct ive coil of 
+the generator is called the stator. Miniaturizing the generators and fine-tuning the 
+magnetohydrodynamic aspects takes years and is still an area of intense research. 
+Material properties under the enormous forces involved are also required for success. 
+Many hours of research and computer code writing and testing go into the selection of 
+every single material used. One problem with this form of HPM source is that of 
+coupling t he energy to the load. Attempts to energize the load by direct generation 
+often result in the development of excessive internal generator voltages and 
+UNCLASSIFIED/ /FOR: OFFICiI.t.L: 11&:li ODIL¥ 
+16

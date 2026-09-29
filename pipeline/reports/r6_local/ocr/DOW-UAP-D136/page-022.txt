@@ -1,0 +1,33 @@
+UNCLASSIFIED/ /P"OR: OP"P"l@IAL WSli 01'11.¥ 
+released chemical energy warms the surrounding environment to a degree that 
+depends on the energy released in the exothermic reaction, which is characteristic of 
+the particular chemistry and the amount of reactants. The heating is then dependent on 
+the glucose concentration. 
+Figure 12 shows these devices. They are 
+made by MEMS techniques involving the •--· 
+processes of using patterning by 
+exposure to light through a mask 
+(photolithography), metal deposition by 
+evaporation, and sputter etching. The 
+result is the fabrication of sensors in 
+large arrays with many identica l sensors 
+on a single substrate. The figure is a 
+·---photomicrograph of a part of a wafer 
+production run with nine identical 
+devices. Each one of the devices is less 
+than 1 mm in size and would be cut 
+apart and used independently. The 
+·--- ·--·darker rectangular areas at the top of ·•-
+each device are the electrica l bonding 
+pads where wires attach to the device 
+to readout its electrical response. 
+Figure 13 shows the basic process in the Figure 12_Photomicrograph 3 x 3 Array of 
+sensor operation. The sensor is planar Thermoelectric Glucose Sensors Constructed by 
+and composed of a layered structure Towe et al. at ASU 
+consisting of an enzyme gel and a 
+thermoelectric temperature sensor. Glucose from the local medium naturally diffuses to 
+the gel and the temperature sensor underlies a thin film of enzyme gel that conta ins 
+the glucose oxidase. A second enzyme called catalase is used to secondarily break 
+down hydrogen peroxide produced by the first reaction. 
+UNCLASSIFIED/ (FOR OFFICJA 1 1155 01!1.¥ 
+16

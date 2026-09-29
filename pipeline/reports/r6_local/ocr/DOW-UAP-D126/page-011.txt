@@ -1,0 +1,34 @@
+UNCLASSIFIED/ /FOR OFFI@IAL YSE OHL¥ 
+potential equal to V requires an electron number density n~v/ neR2 . For V = 109 volts 
+::::l 3x 106 esu and R = 103cm, one finds that n ~ 2x 109 cm-3, well below nmax, 
+Deuterium as the Preferred Nuclear Rocket Fuel 
+To appreciate the importance of deuterium as the preferred and abundantly available 
+nuclear rocket fuel, one must consider the secondary reactions with D of the He3 and T 
+reaction products from D-D fusion. Taking these reactions into account, one obtains 
+from 6 deuterium nuclei an energy of 26.8 megaelectronvolts (MeV) in charged fusion 
+products, made up of He3 and H, and an energy of 16.55 MeV in neutrons. This means 
+62 percent of the energy is released into charged fusion products and 38 percent into 
+neutrons -a substantial improvement over the DT reaction, in which only 20 percent of 
+the energy goes into He4 . 
+Of interest also is the average velocity, averaged over the momentum of the charged 
+fusion products, because it is a measure of the maximum specific impulse, respectively 
+the maximum exhaust velocity: 
+6 
+_ L m;v; 
+v = ~i=~I __ 
+6 (7) 
+I m; 
+i= I 
+-For the six charged fusion reaction products (given in Table 1), one obtains v = 
+l.S x 109 cm/s. 
+Table 1. The Charged Fusion Products of a Detonation in Deuterium: Their 
+Energy and Velocity 
+Fusion Product Energy [Me V] Velocity lOY [cm/s] 
+Hej 0.8 1.23 
+H 3.0 2.40 
+H 14.7 5.30 
+He4 3.6 1.31 
+He4 3.7 1.33 
+T 1.0 0.80 
+UNCLASSIFIED/ /FOR OFFI&I.t.k Wliliii Qfslk¥ 
+5

@@ -1,0 +1,28 @@
+UNCLASSIFIED/ /P'OR: OP'P'l@IAL WS& 0Nk¥ 
+The a noChip(R) 400 cartridge ... 
+oonstructs the user defined panel of 
+e c arkers on one chip 
+Figure 31. Commercial Lab-Chip Devices That Allow Analysis for Biomarkers of Various Diseases Using 
+on-Chip Electrophoresis in Microscale (collage from manufacturers listed) 
+These MEMS devices incorporate micro-scale fluidic components, sensors, actuators, 
+and customized surfaces created by chemical modification or coating with inorganic and 
+organic materials; enabling tissue engineering and cell patterning studies along with the 
+microfluidic control of the culture environment. 
+NASA SPACE APPLICATIONS FOR MICROFLUIDIC SYSTEMS 
+NASA has supported at Arizona State University, the development of new types of 
+microfluidic systems directed towards growing cell cultures on a chip. The specific 
+application is detecting the effects of space flight and microgravity on living things at 
+the cellular scale. 
+Space presents a number of stresses on the cells of the astronaut's body from 
+electromagnetic fields, microgravity, and space cabin environments, which in 
+combination have effects that are likely different than any single stress. Beyond 
+affecting the astronaut directly, space flig ht can change any organism, and actua lly 
+makes some bacter ia more dangerous. 
+Cells can be grown to represent the cells of the astronaut's body. Changes in DNA 
+expression or molecular stress markers in cultured cells can be used to infer effects of 
+space. 
+Culturing mammalian cells in the laborat ory generally requires constant attendance and 
+adjustment, but astronauts have little time for routine culture procedures. Thus NASA 
+supported the desig n of an automated microfluidic system to perform all the steps 
+UNCLASSIFIED/ {FOR OFFICIO! !PEii QDlk¥ 
+34

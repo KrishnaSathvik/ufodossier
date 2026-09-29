@@ -1,0 +1,48 @@
+UNCLASSIFIED//EOR OEEICI0L Llili QI\IL¥ 
+"labeled" as whatever is recovered from the receivers at the same frequency as (and 
+indeed phase-locked to) the modulation, so therefore the PPF can be distinguished from 
+scattered BPF very easily. Typically a lock-in amplifier (referenced to the field 
+modulation) is used to recover the signal in such an arrangement, which provides 
+significant noise rejection by effectively reducing the detection bandwidth. 
+D01.3 Microwave Transmitter {Gaussian beam> 
+Design of the microwave transmitter for the Gaussian beam, directed towards the 
+central fractal membranes: Dr. R.C. Woods (LSU) + graduate student, Dr. R. M L 
+Baker (TSC), G.V. Stephenson (TSC). This is expected to require 10 to possibly 
+10,000W (1,000W nominal) at around 10GHz, with an associated power supply and 
+appropriate safety interlocks. Possible technologies include solid-state, magnetron, 
+traveling-wave tube (TWT), or high-power klystron, and specifications will be developed 
+under this component of the work. These are all mature technologies and commerc ial 
+units will suffice. Possible suppliers include: Microwave Power Inc. (Santa Clara, 
+California; solid-state, up to S00W); ETM Electromatic Inc. (Newark, California; TWT or 
+klystron, up to 10kW); and Toshiba Electron Tube and Devices Co., Ltd. (Japan; TWT or 
+klystron, over 10kW). Generally speaking, wideband solid-state amplifiers produce less 
+output power than medium bandwidth models or narrow-band tube designs, so that the 
+compromise here will be to decide whether to accept lower power in favor of wide 
+tunability. Also required is a suitably matched transmit antenna. Again, commercial 
+designs will suffice, such as those from Rozendal Associates Inc. (Santee, California), 
+ETS-Lindgren (Cedar Park, Texas), or Orban Microwave Products (El Paso, Texas). The 
+compromise that must be worked out in the antenna design is that a high-ga in antenna 
+is needed to constrain the GB to be within the resonance cavity or interaction volume 
+(so that microwave input power is not wasted), but a high-gain antenna is less tunable 
+than a broadband low-gain antenna. As in other work areas of this proposal, the 
+complete design will need to establish the cost-performance tradeoff issues surrounding 
+the various approaches. 
+DD1.4 Fractal Membranes and Microwave Absorbers 
+Design of the fractal membranes as microwave reflectors/absorbers at select 
+frequencies (Wen et al., 2002; Zhou et al., 2003) and other high-performance 
+microwave absorbers: Dr. R. M L Baker (TSC), G.V. Stephenson (TSC). 
+DDl.4.1 Design of the fractal membrane (FM) reflectors at the waist of the 
+Gaussian beam including their paraboloidal form. An analysis will be completed to 
+determine the opt imal material of the FMs (copper, stainless steel, or aluminum are the 
+obvious leading candidates). A paraboloidal surface will be designed that can be 
+fabricated from the FM to focus the PPF at the planned locations of the microwave 
+receivers. Hong Kong University of Science and Technology can fabricate the fracta l 
+membranes out of these metals in almost any form. 
+DDl.4.2 The interior of the containment vessel (except for an opening at the 
+Gaussian-beam transmitter end) must be treated to eliminate exterior sources of noise. 
+Either a Faraday Cage (using a mosaic of HTSC tiles; for example, YBCO) or fractal 
+membranes are possibilities. Both will be examined in detail to determine the optimal 
+approach. A design compatible with the containment vessel shape (DDl.1.4) and 
+placement of interior detector elements will be developed. 
+UNCLASSIFIED/ /FOR OEEICIJ.b HSI!! Dflti 
+47

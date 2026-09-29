@@ -1,0 +1,47 @@
+—Secret nororn—
+Chapter 3
+130
+
+the aircraft, was a small-gauge wire with precisely spaced ferrite
+beads. The wire and beads were supposed to capture incoming
+70-MHz radar pulses and either trap them in the loop or weaken them
+so much that they would not register as a valid radar return. This con-
+figuration was called the trapeze and was not very successful.
+
+A second approach, tested in early 1958, involved the use of
+plastic material containing a printed circuit designed to absorb radar
+pulses in the 65- to 85-MHz range. Nicknamed “‘wallpaper,” this ma-
+terial was glued to parts of the U-2’s fuselage, nose, and tail.
+Although the “‘trapeze”’ and “‘wallpaper”’ systems provided protection
+against some Soviet radars, the systems proved ineffective against ra-
+dars operating below 65-MHz or above 85-MHz. Furthermore, both
+of these additions degraded the U-2’s performance. The weight and
+drag of “trapeze” reduced the aircraft’s operating ceiling by 1,500
+feet, and ‘‘wallpaper”’ sometimes caused engines to overheat.”
+
+SEI’s research results were tested by another firm known as
+Edgerton, Germeshausen & Grier (EG&G), which was also composed
+of MIT faculty members. Under an Air Force contract to evaluate ra-
+dars, EG&G operated a small testing facility at Indian Springs,
+Nevada, not far from Area 51. Although Kelly Johnson had been
+closely involved with the radar deception project since its early days,
+he cooperated reluctantly because he disliked adding attachments that
+made his aircraft less airworthy. (Johnson's dislike of the antiradar at-
+tachments was reflected in the unofficial nickname for aircraft that
+had been so modified—‘‘dirty birds.’’) After Lockheed mechanics
+had mounted the various RAINBOW devices on the prototype U-2, a
+Lockheed test pilot would fly the plane over EG&G’s Indian Springs
+installation. This was little more than a series of radar sets and a
+trailer containing instrumentation. EG&G technicians could thus re-
+cord and evaluate the U-2’s radar returns as it traversed a specified
+course over their facility.”
+
+This method of testing radar-deceptive modifications proved
+both time consuming and dangerous. During a test flight on 2 April
+1957, the “wallpaper” modification acted as insulation around the
+
+™ Records of the Scientific Engineering Institute (Project HTNAMABLE)., OSA records
+(TS Codeword).
+
+™ References to EG&G programs for the U-2 are contained in the later Convair contracts
+for Projects FISH and KINGFISH, OSA records, job 67-B-415, box 1 (TS Codeword).

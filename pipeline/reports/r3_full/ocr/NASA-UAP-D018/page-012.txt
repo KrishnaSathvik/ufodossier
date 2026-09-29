@@ -1,0 +1,70 @@
+M-913-65-04
+
+MSC-2, Proton Electron Spectrometer
+MSC-3, Tri-Axis Magnetometer
+MSC-10, Two-Color Earth's Limb Photos
+S-5, Synoptic Terrain Photography
+
+S-6, Synoptic Weather Photography
+
+UNUSUAL TASKS OF THIS MISSION
+
+One of the interesting tasks of this mission is the duration of the flight. It
+
+will be the longest ever to be conducted by a two-man crew. Another highly
+interesting item is that control of the mission for the first time will be from the
+Mission Control Center (MCC) Houston. Some elements of the Mission Control
+Center at Cape Kennedy and the GSFC computing facility will be standing by as
+a backup during the launch phase. The computing facilities at GSFC will also be
+used as a backup to MCC-Houston during the orbital phase. Flight controllers will
+man the MCC in three shifts to give complete round-the-clock coverage of the four-
+day mission. Crew control of reentry will be accomplished by tracking the roll
+needle rather than nulling the down-range and cross-range needles as on GT-3.
+The experiments will, of course, contribute much information for the scientific
+
+and medical communities. The G4C suit which replaces the G3C suit used on
+GT-3 has the following new features: a triple overvisor, a redundant pressure
+closure seal (zipper), and thermal and meteoroid protection integrated in the
+
+outer cover layer. Abort procedures to be utilized by the astronauts in the
+unlikely event it becomes necessary for them to terminate a mission before orbital
+insertion are different from those used in the Mercury program. In that program,
+the fireball that would have been created had a conflagration occurred on the pad,
+would have been large enough to ABORT PROCEDURES
+
+engulf an ejecting astronaut, so
+it was necessary to add an escape
+rocket to lift the entire spacecraft
+
+free of the area. The GLV, on me EROMRE
+
+the other hand, uses self-igniting
+
+fuels which, upon mixing, create a
+
+fireball small enough so that the
+
+astronauts can eject from the
+
+spacecraft in much the same man- x 5 MIN. 10SEC.
+ner as is done in today's high
+
+performance jet aircraft. This
+
+is called the Mode | abort pro- ~
+
+cedure. The three abort modes .
+
+are more fully defined by the ‘ses)
+
+altitude and elapsed time-after- 7%
+
+launch parameters depicted on
+
+Figure 2.
+
+MODE T - EJECT AFTER SHUTDOWN
+
+MODE TI - SALVO RETROS AFTER SHUTDOWN
+
+5/24/65

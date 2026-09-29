@@ -1,0 +1,49 @@
+UNCLASSIFIED/ / FOA OFFl&il Ak lalli& O,.klf 
+Bussard HEPS (or Polywell) Concept 
+In Bussard's Polywell IEC, a spherical magnetic field termed a "Polywell" is 
+approximately obtained with a multi-pole cusp magnetic field (Reference 1.6). More 
+about the theory of flows in this configuration is given In the paper by N. Krall 
+(Reference 1.7), and some stability issues are addressed in the Wang and Kral I paper of 
+Reference 1.8. One of the key physics revolves around electron losses from the poles in 
+the cusp field. Krall and Bussard argue that a plasma "waffle-ball" effect causes the loss 
+cone angle to be reduced due to the high pressure developed in the IEC plasma. The 
+issue still needs further experimenta l verification. The Polywell approach is very 
+important and it is currently pursued by R. Nebel's EMC2 company in Santa Fe with 
+significant DOD funding. More insights will be provided throughout this report, but the 
+reader is encouraged to study the reports/articles, as already explained earlier, since 
+the present report is directed more at "ion injected" type devices studies at UIUC. 
+Barnes Nebel Penning Trap 
+The Penning trap concept described in Reference 1.9 is explained by Barnes et al. as: 
+"The Penning Fusion (PF) device uses a unique plasma confinement principle. In PF, a 
+nonneutral electron plasma is confined in a modified Penning trap by a combination of 
+applied magnetostatic and electrostatic fields. The e!lectron space charge, in turn, 
+electrostatically confines a minority, unmagnetized ion species. To apply such a system 
+to fusion energy production, it is necessary to raise the applied voltages (producing the 
+confining electrostatic field) to the order of 100 kV or greater. Even with such a high 
+potential, in a practically sized system, the electron density (and to a greater degree 
+the ion density) falls short of that required to give reasonab le fusion reactivity . Thus, 
+intrinsic to PF being an interesting concept is the idea of ion focusing, either in space or 
+time, or some other means of enhancing ion reactivity. In this way the reactivity may 
+be greatly enhanced over that available with the background density. Penning Fusion is 
+strongly related to the IEC, but it attempts to address two limitations of the IEC. First, 
+following the Bussard-Krall Polywell theory (Reference 1.6, 1.7) the grid is replaced by 
+an electron cloud, which forms a virtual cathode. In this way, ion-grid collisions and 
+associated limitations (such as secondary electron emission from the grid and grid 
+heating) are avoided. Second, high rates of ion-ion collisions, which limit the 
+theoretically achievable fusion gain Q (fusion power/input power) to around unity are 
+avoided to some extent with this type of well. However, issues of electron loss and cone 
+losses, radiation damage of the magnets and cooling, and the abilit y to circumvent the 
+Elmore et al. density limit remain as questions. 
+Nebel POPS Device 
+Theoretical studies by Barnes and Nebel (Reference 1.10) show that a small interna l 
+oscillating ion cloud may undergo a self-simi lar collapse in a harmonic oscillator 
+potential formed by a uniform electron background. This then forms a dynamic IEC 
+device, but with a quite different ion distribution factor vs. the "conventiona l" beam -li ke 
+one. A key issue for this concept is how much plasma compression can be achieved by 
+the POPS (Periodically Oscillating Plasma Sphere) oscillations. Recent work has shown 
+that by properly programming the distribution function of the injected electrons it is 
+possible to significantly improve the space dynamic charge neutralization and the 
+plasma compression. Reference 1.10 extends that previous work in a systematic 
+fashion by developing a formalism that determines the required velocity distribution of 
+UNCLASSIFIED//5 09 OFFICI 0l 11ili Alll¥ 
+10

@@ -1,0 +1,24 @@
+UNCLASSIFIED//&OR Oii&ICI0L Ll&li QPIL¥ 
+4.3 INTERPLANETARY NAVIGATION AND GEOID MAPPING TO 2050 
+While there is no doubt that stellar tracking will remain the primary source of 
+navigation for space missions in the foreseeable future, as introduced in Section 3.4.2, 
+HFGW may also prove useful in conjunction with RF in providing a navigation aid for 
+interplanetary missions (with no planetary shielding) by mapping geoids in 
+interplanetary space via long baseline navigation. For instance, if there were one GW 
+source on Earth, and one GW source on the Moon, such a pair of GW sources would 
+provide relative beacons for missions to Mars that could serve multiple roles as 
+navigation beacons, communication relays, and in conjunction with RF signals, map 
+geoids via relative time difference of arrival signals . Very Long Baseline Navigation 
+could be achieved by placing a source on Earth and one GW source on Mars for a 
+baseline that would most often be very widely spread with respect to the outer planets, 
+for outer planetary missions. See Figures 25-27 for a number of different navigation 
+beacon pair options. 
+R0 = 6378 km x2 = diameter 
+R10 = 384,400 km = .00257 AU 
+Moon 
+0 x ~ 2Re / Rio rad 
+2 degrees 
+Earth 
+Figure 25. A GW Pair on Earth as Used by a Lunar Mission 
+UNCLASSIFIED/ /FOP OiiiilCl.t.k l!ISI!!! l>flti 
+34

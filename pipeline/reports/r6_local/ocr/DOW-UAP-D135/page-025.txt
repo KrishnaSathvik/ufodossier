@@ -1,0 +1,45 @@
+UNCLASSIFIED/ fFOA OFFIEIAk W&i 0Pilk¥ 
+Calloni et al. further point out that a real Casimir cavity is an isolated system in which 
+the actual (total) resulting force is the Newtonian force on the sum of the rest-Casimir 
+energy and rest-mechanical mass whereby the contribution of the vacuum ZPF leads to 
+a gravitational repulsion (FcGexp ) on the Casimir device that is given by (Reference 62): 
+1 
+FCGexp = 4FcasGrav 
+(25) 
+which is the force that should be experimentally tested. Equation (25) takes into 
+consideration that the contribution to the total force on a real cavity resulting from the 
+spatial part of the stress-energy tensor is balanced by the contribution from the 
+mechanical stress-energy tensor. Given that the typical dimensions of a Casimir device 
+are very small, it appears that FcG exp will be very difficult, if not impossible, to measure 
+using present-day lab technology. 
+However, Calloni et al. propose an experimental device that could significantly magnify 
+the repulsive force up to a measurable scale. Their proposed device is a multilayered 
+series of rigid Casimir cavities with each cavity consisting of two thin metallic disks that 
+are separated by a dielectric material which is inserted to maintain rigidity. They 
+suggest SiO2 for the dielectric material because it is an efficient dielectric with low 
+absorption over a wide range of frequencies, and it is an inexpensive material that is 
+easy to fabricate into layers. The introduction of the dielectric material is equivalent to 
+enlarging the optical path length by the refractive index n so that the cavity plate 
+separation d and. The Casimir Effect has been tested down to plate separations ~60 
+nm while separations~ 10 nm is possible with present technology. But at :::; 10 nm 
+distances dielectric absorpt ion and finite conductiv ity are expected to decrease the 
+effective Casimir pressure compared to a cavity comprised of perfect mirrors. For 
+example, a plate separation of 6.5 nm corresponds to a decreasing factor (½) of 0.07 for 
+plates made of aluminum. Finite temperature and plate surface roughness could also 
+introduce additional corrections to the Casimir pressure. Calloni et al. propose to 
+magnify the total force by using Ne = 106 layers of rigid cavities with each cavity having 
+a diameter of 35 cm and thickness of 100 nm, for a total device thickness of 10 cm. 
+All these engineering factors taken together led Calloni et al. to recast FcG exp into the 
+following new form (Reference 62): 
+1t 2AhgF r::;rN---
+cc.e,r "' 1 720 c( nd)3 
+(26) 
+r:,;(4.73x10-44 )sN, ~ 
+(nd) 
+in Newtons. Calloni et al. also suggest that a feasib le experiment will require 
+modulating F cGexp in order to obtain a measurable force. They are investigating the 
+possibil ity of modulating ½by varying the temperature in order to induce a periodic 
+transition from conducting state to superconducting state. They estimate that doing this 
+could achieve ½max z 0.5, and thus produce a force F cGexp ~ 10-14 N at a modulation 
+UNCLASSIFIED/ /FOA OFFI&IAb Yi&: 8,.bY 
+20

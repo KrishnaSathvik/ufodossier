@@ -1,0 +1,29 @@
+UNCLASSIFIED/ /FOR. OFFI@IAL l!ISI!!! er~t I 
+Figure 12 (continued). (top a-e) The XOR Cellular Automaton and Its 
+Implementation by Tile-Based Self-Assembly. (bottom a-e) AFM Images of 
+Algorithmic Self-assembly of Sierpinski Triangle Crystals. 
+In theory, this process allows scientists the ability to build a computer from nanoscale 
+material with DNA tiles (95). The experimental success of this trial demonstrated that 2D 
+algorithm ic self-assembly offers new capabilities for computation and construction, as well as 
+a new range of physical phenomena and exper imental challenges as well. 
+Error Suppression Mechanisms in DNA Self -Assembly 
+Molecular self-assembly is an emerging technology that will ultimately enable the fabricat ion 
+of great quant ities of complex nanoscale objects such as compute r circuits at very low costs. 
+Because the DNA-tile-based bottom-up assembly technique relies on the logic of 
+programming self-assembly, it requires a situation where sticky-end binding specificity is 
+infallible. Realistically, however, correctness of matching between tiles cannot be guaranteed 
+due to the thermodynamics and kinetics of DNA tile self-assembly. This process alone results 
+in occasional erroneous assembly steps. The number of assembly errors increases with the 
+number of tile types, and accruing errors render large scale complex computation practically 
+infeasible. 
+Assembly errors can be classified into three types: 1.) Growth errors. 2.) Facet errors. 3.) 
+Nucleation errors. Growth and facet errors are the errors that occur on the growth front of an 
+existing assembly, while nucleation errors deal with the spurious initiation of assembl ies. A 
+growth error occurs when a DNA tile with one or more mismatched sticky ends is embedded 
+in the assembly. A facet error occurs on the flat surface (facet) of the aggregate when two 
+DNA tiles attach on a growth front (facet) side by side, and thus stabilize each other's 
+binding . This is considered an error because the identity of these tiles may not be correct 
+with respect to the computation being performed. Nucleation errors are similar to facet errors 
+in that a number of tiles spontaneously assemble a cluster by stabilizing each other through 
+UNCLASSIFIED/ /POI'.. orr1e1At l!ISE Qptkl{ 
+28

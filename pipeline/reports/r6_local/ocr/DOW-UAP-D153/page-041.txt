@@ -1,0 +1,29 @@
+UNCLASSIFIED/ /POK OPPIClltt l:191! 8HL'f 
+~ . ~ r 
+H dip-int =ex'® E;(x,t) • g(t) where e is the electron charge and g(t) is a smooth test 
+(or smearing) function that is equal to 1 during the measurement and smoothly 
+vanishing elsewhere. Using first-order time -dependent perturbat ion theory, Marecki [S, 
+6] derived the probability of excitat ion: 
+Pexc(g,1) =J::dr ds g(r)g(s)GU (r-s)( Ei(i, r) E1(1,s)) s , (14) 
+where G U(r - s) =Jdq(O lx;(r) I~)(~ lx j (s)I0) is the electronic two-point function, rand 
+s are dummy time and integration variables, and Jdrdsg(r)g(s) is the temporal 
+sensit ivity in the measurement process. 
+The balanced homodyne detector consists of an arrangement of two photodiodes, 
+whose outputs are subtracted, and illuminated with an auxiliary coherent state of the 
+radiation field (i.e., the local oscillator, LO; see Figure 15) . Per the discussion in 
+Section IIIB-4, the LO is used as a tool to investigate the properties of a certain state S 
+of the quantum radiation field under study, and so on a BHD the state Sis optically 
+mixed with the coherent LO state (see References [5] or [6] for further details). The 
+quantum field S de-balances the detector (stochastic process of measurement) . The 
+expectation value of the observable corresponding to the electronic charge collected at 
+the point P in Figure 15 (i.e., the BHD current) is the difference of excitation 
+r r 
+probabilities of the two photodiodes [5, 6]: (1)5 = Pexc(g,x )-P.: ,Jg,y) , where posit ions 
+xand ycorrespond to the posit ions .:! and y in Figure 15. Further calculations and 
+other theoretical considerat ions lead to the following final result for (l)s [5, 6]: 
+(J)5 =a e, • f:Lo . • ( E;(i, t0 ) +E;(~,t 0 ) ls where Ue/ depends on the electronic structure 
+of the PIN semiconductor in the photod iode, E{0 is the electric field of the LO 
+(corresponding to Fin Figure 15), to is the LO phase that can easily be varied in , r 
+experiments, and all field operators E;( x, t) are restricted to the frequency ro of the LO. 
+UNCLASSIFIED/ /FOA Qffl&I.t..k Y§E 8,.L'&' 
+37

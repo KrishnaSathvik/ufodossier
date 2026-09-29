@@ -1,0 +1,34 @@
+UNCLASSIFIED/ /POI\ orr1e1At l:ISE 8Ptklf 
+with the metric tensor coefficients gµ v modifying the Minkowski flat-spacetime intervals 
+dt, dr, and so forth, accordingly. 
+As another example of spacetime alteration, in a spacetime altered by the presence of a 
+charged spherical mass distribution (Q,m)at the origin (Reissner-Nordstrom-type 
+solution), the above can be transformed into (Reference 11) 
+with the metric tensor coefficients gµv again changed accordingly. Note that the effect 
+on the metric due to charge Qdiffers in sign from that due to mass m, leading to what 
+in the literature has been referred to as electrogravitic repulsion (Reference 12). 
+Similar relatively simple solutions exist for a spinning mass (Kerr solution) and for a 
+spinning electrically charged mass (Kerr-Newman solution). In the general case, 
+appropriate solutions for t he metric tensor can be generated for arbitrar ily engineered 
+spacetimes, characterized by an appropriate set of spacetime variables d.x:11 and metric 
+tensor coefficients g µ 11 Of significance now is to identify the associated physical effects• 
+and to develop a table of such effects for quick reference . 
+We begin by simply cataloging metric effects-that is, physical effects associated with 
+alteration of spacetime variables-saving for Section IV the significance of such effects 
+within the context of advanced aerospace craft technologies. 
+II. Physical Effects as a Function of Metric Tensor 
+Coefficients 
+In undistorted spacetime, measurements with physical rods and clocks yield spatial 
+intervals dxµ and time intervals dt, defined in a flat Minkowski spacetime, the spacetime 
+of common experience. In spacetime-altered regions, dx;i and dt are still chosen as 
+natural coordinate intervals to represent a coordinate map, but now local 
+measurements with physical rods and clocks yield spatial intervals ✓-8µ v dxµ and time 
+inte rvals .j'i;dt , so-called proper coordinate intervals. From these relationships a table 
+of associated physical effects to be expected in spacetime regions altered by either 
+natural or advanced technological means can be generated. Given that, as seen from 
+an unaltered region, alteration of spatial and temporal intervals in a spacetime-altered 
+region result in an altered velocity of light, from an engineering viewpoint such 
+alterations can in essence be understood in terms of a variable refractive index of the 
+vacuum (see Section III below) that affects all measurement. 
+UNCLASSIFIED/ /FOR. 8FFl@IAL U91! f>flt I 
+2

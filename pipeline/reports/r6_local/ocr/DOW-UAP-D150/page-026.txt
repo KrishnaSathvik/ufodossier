@@ -1,0 +1,31 @@
+UNCLASSIFIED//FOR OFFICIAL 09~ l>flti 
+overhangs at the end of the double helix (Figure 10). These fragments can be exploited to 
+create a recombinant molecule of DNA by; 
+a. Inserting or removing a specific sequence of DNA. 
+b. Attaching a fluorescent molecular beacon. 
+c. Amplifying the sequence through the PCR process. 
+5,• ~----G A_A_T_T_C___--<1 3s•'3Original DNA _ CT TA A G _ 
+molecules 
+5' GAATTC 
+3' CTTAAG 5'3• l 
+ve DNAI from IWO, urc 
+s3: ~---=GI_~ 
+. C TTAAI 
+O o 
+vVtth s.arru'!' ·~trh t1on enzyme 
+~ £ ,fragmemsand~llow
+¥7ic~y-end, to Join by base patnng 
+I E) Incubate w,th DNA log.1se
++10 t,nk each wand covo! ntly 
+Recombinant DNA molecule 
+Figure 10. Recombinant DNA molecule with restriction enzyme cleavage and sticky end ligation. 
+7. By carefully using the recombinant tools and technologies available to genetic engineers, 
+one can properly program a customized Watson-Crick base-paired DNA motif that will 
+self-assemble in solution. This method of self assembly is preferred on small scale 
+applications due to the difficulties experienced when assembling nanoscale objects 
+through the traditional top down method. Assembly of DNA motifs with t he aid of various 
+branched DNA strands with sticky ends can be directed by the geometry and connectivity 
+of the varying motifs. Once the structure is assembled a range of DNA latt ices can be 
+produced (Figure 11) . 
+UNCLASSIFIED/ /FOR OFFI&I.t.k W&E 8Nk\f 
+25

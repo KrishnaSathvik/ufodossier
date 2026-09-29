@@ -1,0 +1,34 @@
+UNCLASSIFIED1/FOR 8ffl@IAL tt91! e"t I 
+tuning the inner diameter may provide further enhancements. Figure 7 shows a 
+vertically aligned CNT forest produced at Lockheed Martin's Advanced Technology 
+Center (LMATC). Lockheed Martin has worked with a number of catalysts and surfaces 
+to grow tailored CNT forests for a variety of applications . Select locations throughout 
+Lockheed Martin have been developing CNT-based technologies, utilizing vertically 
+aligned CNTs, CNTs dispersed onto surfaces, and CNTs dispersed into other media. 
+LMATC possesses expertise in CNT growth processes and characterization and has 
+capabilities for both materials development and ultracap testing. Lockheed Martin's 
+NEARLab facility produces CNT-coated glass fibers, which may provide a cost-effective 
+power storage solution that has structural elements built in. Ultracaps assembled from 
+CNT forests appear extremely promising for use in microelectron ics. 
+Figure 7. CNT Forest. CNT forests grown in Lockheed Martin's laboratories can be tailored for specific sizes, 
+lengths, and densities. 
+Graphene is a relatively new discovery amongst carbonaceous materials. There are a 
+number of types of graphene that can be characterized by the number of layers of 
+graphene, the functionalization, or the oxidation status. Most graphene for 
+ultracapacitor applications is going to be few-layer graphene and large-area flakes. The 
+fewer the layers, the higher the active surface area will be. Single layer is ideal, but 
+manufacturing considerations make single layer difficu lt, even at the laboratory scale. 
+Functionalization will be directed toward improv ing capacitance or modifications to 
+enable battery-like performance. 
+Theoretical values of graphene indicate it could become an important material for the 
+next generation of ultracapacitors. Graphene may be used as the sole electrode 
+material, or it could be used as a conductive additive that also provides capacitance. 
+The surface area is calculated to be as high as 2,600 m2/g, the thermal conductivity is 
+5,000 W/m·K, and the charge carrier mobility is 200,000 cm 2/V•s. High surface area 
+values and great conductivity are ideal properties for creating an electrode with very 
+high capacitance and extremely favorable rate capabilities. Reported capacitances 
+range from 135 to 205 F/g in aqueous electrolytes. 31• 32 Figure 8 shows a transmission 
+electron microscope image of graphene flakes used for ultracapacitor electrodes. These 
+measurements come from few-layer graphene, rat her than single layer, which suggest 
+UNCLASSIFIEO/fFOA OFFI&I:.l.b YS& ONLY 
+18

@@ -1,0 +1,32 @@
+UNCLASSIFIED/ /FOA OFFI&IAk WSE 8Ptklf 
+low fuel leakage and extreme maneuverability make it a near-term competitor with 
+other devices such as Hall thrusters for future commercial thruster applications in the 
+multi -kW range . The extension to a p-11B self-powered unit would resolve many 
+problems anticipated as larger power requirements develop . It would be extendable to 
+large power units needed for eventual fast deep space propulsion. Much more research 
+and development is required to ensure that step in a timely fashion, however. 
+The Dipole Assisted IEC (DaIEC) 
+The dipole assisted IEC DaIEC is similar to the IEC concept discussed above except a 
+dipole magnet is located in the center of two hemispherical grids (Reference 3. 9). The 
+DaIEC was first proposed by G. Miley at the UIUC and has been under investigation 
+there. This concept is closely related to the levitated dipole reactor (Reference 3.10) 
+but is much simpler, being smaller and not requiring levitation. It also differs 
+considerably in the physics of the associate plasma confinement. Two ion sources inject 
+40-keV deuterium and helium-3 ion beams toward the center of the dipole magnet. The 
+magnetic field will compress the ion beams by trapping ions along the magnetic field 
+lines; therefore, they fuse within the dipole magnet. The products of the D-3He fusion 
+reaction are 14. 7-MeV protons and 4-MeV alpha particles. These can be used for direct 
+charged particle propulsion or direct conversion to electricity (or both - propulsion and 
+station keeping). A schematic of the setup is shown in Figure 3.4. 
+G:EJ [:E] 
+[8J 
+Stabilizing coil 
+Figure 3.4. Dipole Reactor Propulsion Scheme 
+Those ions that exit toward the right in Figure 3.4 are trapped by the magnetic field 
+produced by the stabilizing coil and are exhausted to produce thrust. Since the 
+magnetic field does not close at the nozzle but is open, protons and particles are not 
+required to be neutralized. This configuration of the magnetic field in the DaIEC system 
+reduces the mechanical components. A neutralizer (electron injection into the exhaust) 
+will be required in this system so as to avoid possible charging up at nozzle. 
+UNCLASSIFIED/ /5i0A 05i5ilCIAk Wli& 0,.k?f 
+29

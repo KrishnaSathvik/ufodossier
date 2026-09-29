@@ -1,0 +1,18 @@
+UNCLASSIFIED/fFOR. QFFIEl.t.L: Uii QD:I! X 
+M1 =5.0 
+Figure 13. Hypersonic Flow Past a Sphere. 
+' 
+If the sphere in Figure 13 were traveling through the atmosphere at Mach 3, could we 
+identify the speed of the sphere by the peak wavelength of the infrared radiation that it 
+emits? From compressible aerodynamics relationships, conditions behind the bow shock, in 
+region 2, can be calculated. We find that the peak static temperature would reach 597 K and 
+the peak wavelength 4.85 microns. Figure 14 shows the expected infrared spectrum. For 
+comparison, the spectrum for Mach 3.5 is also shown. In the figure, the wavelength has units 
+of microns (i.e., 10-6 meter) .. As the Mach number increases, the peak temperature also 
+rises while the peak wavelength decreases (shifts to the left). The higher the Mach number, 
+the greater the amount of infrared energy emitted. For Mach 3.5, the peak wavelength is 
+3.92 microns. The energy difference between a Mach 3 and Mach 3.5 aircraft would be 
+significant enough to detect with an infrared camera or FUR (forward looking infrared) 
+detector. 
+UNCLASSIFIED//EQA: QlililEl.t.L: W&&: O,.L'l 
+20

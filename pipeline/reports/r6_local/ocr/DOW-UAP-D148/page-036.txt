@@ -1,0 +1,29 @@
+UNCLASSIFIED/fFOR. QFFIEl.t.L: Uii QD:I! X 
+Detection Method Properties Detected Availability Useful for Detection of: 
+I Distance Velocity Altitude Whole Sky Commercially Existing Expense Meteor Reentry Aircraft 
+I To Target Or Directed Available Network Detection Vehicles 
+Electromagnetic 
+Radar I X X X Both X X Modest X X X 
+Radio Reflection Detection Whole Sky X Low X X 
+I 
+Optical I 
+Sky Cameras, Photographic Whole Sky X X Low X X X 
+Infrared I possible Both X Modest X X X 
+Lidar I X X Directed X Medium X X X 
+Chronograph X Directted low 
+I 
+Acoustic and Seismic 
+lnfrasound X X Whole Sky X X low X X X 
+Seismic I X X Whole Sky X Modest X X X 
+I 
+Figure 19. Comparison of Detection Technology for Hypersonic Objects. 
+LIDAR systems prov ide detailed information on velocity, temperature, particle velocity, and 
+atmospheric composition along the path of the laser beam that can be used to interrogate 
+vehicle wakes and exhaust plumes. Seismic and infrasound systems continuously operate 
+and can provide information on the path followed by a high-speed aircra~ or object by 
+tracking its sonic boom and low-frequency acoustic signature. Finally, optical cameras 
+aimed toward the Earth provide valuable information on hypersonic object tracks by 
+recording their tracks. Aimed toward space, optical cameras are tracking asteroids and other 
+spaceborne objects that may enter the atmosphere as a meteor posing a risk. 
+UNCLASSIFIED//EQA: QlililEl.t.L: W&&: O,.L'l 
+32

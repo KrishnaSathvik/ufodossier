@@ -1,0 +1,32 @@
+UNCLASSIFIED/ ,'FOR OFFI@IAI:: ~SE OPtl::Y 
+experience. If the gravitational environment outside the craft is 1 g, that same 1 g is 
+expected inside as well. Similarly for accelerations, the entire mass of the vehicle, 
+including its occupants, will experience the same inertial reactions as the vehicle 
+accelerates. 
+Upon the advent of breakthrough propulsion, mastery over gravitational and inertial 
+forces will have been achieved. This implies, for example, that it is possible for a vehicle 
+to accelerate at extreme g's while its crew remains within survivab le limits or that, 
+while cruising in deep space (absent of any acceleration or gravitational field), the crew 
+can enjoy the familiar, constant 1 g upward. 
+Because such possibilities run so contrary to established experience, it is difficult to 
+comprehend how such things can be achieved and then contemplate the consequences 
+that these advances impose onto other systems of the vehicle-in this case, how they 
+affect cockpit designs. Not all known approaches to propulsion physics evoke the need 
+for a double hull. 2 Versions that simply suggest a new thrusting mechanism and 
+reaction mass would only need the double hull if also addressing how to provide a safe 
+acceleration environment for the crew. As stated earlier, however, the most significant 
+possible impacts are considered for this study. Therefore, two examples are described 
+next for how breakthrough propulsion would require this provisional double-hull 
+configuration. 
+Why Double-Hull Needed: Example 1 (Warp Drive) 
+The Alcubierre warp drive, which uses the physics from the Riemannian geometry of 
+Einstein's general relativity, creates a "warp bubble" around the cralt, and then this 
+bubble of space-time is moved through the surrounding space-time . This effect is 
+created (in theory) by expanding space-time behind the vehicle and contracting space­
+time in front. The vehicle within the bubble feels no acceleration forces. As illustrated 
+in Figure 4, 3 the high peaks represent expanding space-time, while the low peaks 
+represent contracting space-time. Note that the inner region is flat (meaning that the 
+vehicle does not experience any acceleration forces), that the region far from the 
+propulsion effect is also flat, and that these two regions are separate. 
+UNCLASSIFIED/fFOA. OFFICIO ls. Plili ONls.¥ 
+7

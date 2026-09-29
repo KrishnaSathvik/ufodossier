@@ -1,0 +1,55 @@
+UNCLASSIFIED / /F@R-OFFTGEAL-USE-ONE—
+
+interchangeability of source-field effects and vacuum-fluctuation effects...shows that
+source-field effects are the same as if vacuum fluctuations were present.” Applied to
+the case of a radiating atom, Jaynes provides a specific example of his conclusion with
+the statement “The radiating atom is indeed interacting with an electromagnetic field of
+the intensity predicted by the zero-point energy, but this is just the atom’s own
+radiation reaction field (Reference 67).” As a result, with the axiomatic second-
+quantized field formalism set aside, in the neoclassical approach any consideration of
+the conversion of vacuum ZPE for use must be displaced to consideration of the
+conversion and degradability of source or matter-fields fluctuation energy for use,
+issues yet to be addressed in the literature.
+
+SED Model Revisited
+
+SED is a classical (that is, non-quantized) theory of particle-field interactions that
+assumes the existence of classical particles and a classical random background
+electromagnetic field distribution whose Lorentz-invariant spectral energy density is
+chosen to match that originally appearing in second-quantized QED. Given SED’s
+heuristic value of classical-like modeling and ease of calculation and its seeming ability
+to address many quantum mechanical problems with success (as outlined in Section
+III), the SED approach has been employed in the literature to explore vacuum energy
+conversion. In the absence of a formalism for vacuum field quantization, there are no
+fundamental immutability constraints that would mitigate against vacuum energy
+degradability, so that issue is not testable under this formalism.
+
+Investigations to date have included the use of cavity-QED techniques to suppress
+atomic or molecular ground states (Reference 28), and evaluation of the use of a
+nonlinear oscillator to continuously downshift high-frequency components of the
+vacuum fluctuation spectrum to lower frequencies for convenient collection and use.
+With regard to the latter, the result of a nonrelativistic SED analysis is that the
+downshifting process acts to convert an initial hypothetical cubic-frequency vacuum
+fluctuation spectrum towards a Rayleigh-Jeans rather than a Planck heat spectrum (the
+former being a low energy approximation of the latter) (Reference 68, 69). Extension of
+the analysis to the relativistic regime does not alter this conclusion (Reference 70, 71).
+Though further work remains, these considerations lead one to conclude that SED in its
+present form is incomplete, and may not be useful for the assessment of the potential
+conversion of vacuum energy to other forms; its predictions concerning such must be
+treated with caution.
+
+Additional shortcomings of the SED model include convoluted attempts to derive
+interference effects or Schrédinger’s equation, and the difficulty in explaining sharply-
+defined stationary states (that is, sharp atomic spectra), though there have been many
+attempts (Reference 17). QED and SED do not in general yield the same results for
+nonlinear systems, although they are in agreement for the range of linear systems
+examined. The apparent disagreements between SED and QED are quite serious, and
+occur in areas in which QED is highly successful. Perhaps the source of these difficulties
+lies in accurately dealing with the nonlinear stochastic differential equations in SED for
+these problems. Even still, it is likely that differences will remain, which should clearly
+be testable by experimental means (Reference 72). For a very thorough, detailed and
+scholarly review of SED, see (Reference 17) and the corresponding review by Cole and
+Rueda (Reference 73).
+
+2/
+UNCLASSIFIED/ AEQROEEICIALUS EO ble

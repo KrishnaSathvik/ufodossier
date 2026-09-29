@@ -1,0 +1,50 @@
+This information consisted of:
+(1) Time and date of observation in Greenwich Civil Time
+
+(2) Latitude and longitude of the observer at the time of
+observation.
+
+Figure 39 shows a celestial sphere on which Z represents the ob-
+server's zenith, s represents the sun, and N represents the north celestial
+pole,
+
+Using the date and time of the observation, the longitude and declina-
+tion (S) of the sun were obtained from an ephemeris of the sun and corrected
+for the equation of time. The difference between the longitudes of the sun
+and the observer was taken, and called the hour angle (HA on Figure 39).
+
+Then, using the declination of the sun (S), the latitude of the observer
+(lat), and the hour angle (HA), the angle (ZS) between the observer's zenith
+and the sun can be calculated from the law of cosines of spherical trigo-
+nometry. Thus, cos ZS = cos (90 - lat) cos (90 - S) + sin (90 - lat) sin
+(90 - S) cos (HA).
+
+Since the angle ZS is measured from the observer's zenith, the angle
+of elevation of the sun above the horizon for daytime sightings was found by
+taking 90 - ZS. When the sun was below the horizon, the angle of depres-
+sion of the sun below the horizon was found by taking ZS - 90.
+
+Having found the angle ZS, the bearing of the sun (angle B) was ob-
+tained from the formula:
+
+sin (B) _ sin (HA
+sin(90-S) sin (ZS)
+
+All of the above calculations were made with IBM equipment. Sines,
+cosines, and their inverses were obtained from a deck of 9,000 IBM cards
+on which seven-place Peter's tables of the sines, cosines, and tangents of
+angles had been punched for each 0.01 of a degree from 0 to 90 degrees.
+
+Upon completion of these calculations, the cards representing OBJECT
+SIGHTINGS were sorted on the sign of the sine of the bearing angle. This
+separated the cards into two groups: (1) sightings which occurred between
+noon and midnight, for which the sine of the bearing angle was positive; and
+(2) sightings between midnight and noon, for which the sine of the bearing
+angle was negative, Then each of these groups was sorted into groups for
+intervals of 10° in angle of elevation of the sun from -90° to +90°. A count
+was made of the number of cards in each group and from this a histogram
+was constructed (Figure 40). The UNKNOWN OBJECT SIGHTINGS were
+then sorted out, counted in the same manner, anda histogram was made
+(again see Figure 40).
+
+55

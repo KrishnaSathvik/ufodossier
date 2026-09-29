@@ -1,0 +1,46 @@
+UNCLASSIFIED/ /FOR OFFIEIAk WS&i OPtkY 
+defined to have vanishing energy density, any region with less energy density than the 
+vacuum actua lly has a negative (renormalized) expectation value for the energy density 
+- hence, this is a degradable vacuum. Therefore, a squeezed vacuum state consists of a 
+traveling electromagnet ic wave that oscillates back and forth between negat ive energy 
+density and positive energy density, but has positive time-averaged energy density. 
+For the squeezed electromagnetic vacuum state, the energy density PE-sqvac is given by 
+(Reference 102): 
+P E-sqvac = ( 21 3(0 } inh ~[sinh ~+ cash ~cos( 2ro (t - zI c) + o)] (J / m3 ) (6) 
+where L3 is the volume of a large box with sides of length L (that is, put the quantum 
+field in a box with periodic boundary conditions), sis the squeezed state amplitude 
+(givi ng a measure of the mean photon numbe r in a squeezed state), and 8 is the phase 
+of squeezing. Equation ( 6) shows that PE-sqvac falls below zero once every cycle when the 
+condition cosh s> sinh sis met. It turns out that this is always true for every nonzero 
+value of s, so P E-sqvac becomes negative at some point in the cycle for a general squeezed 
+vacuum state. On another note, when a quantum state is close to a squeezed vacuum 
+state, there will almost always be some negative vacuum energy densities present. 
+Dirac Vacuum Decay: "Sparking the Vacuum" 
+Fulcher et al. (Reference 53), Rafelski and MOiier (Reference 54 ), and Rafelski 
+(Reference 55) describe a phenomenon whereby the QED vacuum 17 behaves like a 
+nonlinear dielectric medium and undergoes breakdown (or decay) in the vicinity of 
+super-heavy (supercritical) atomic nuclei 18 or in the presence of externally applied 
+electric or magnetic fields of critical (or supercritical) strength. 19 This decay results in 
+the spontaneous production of electron-positron pairs from the vacuum. This 
+phenomenon is known as the Heisenberg-Euler-Schwinger mechanism, which Rafelski 
+and collaborators euphemistically call "sparking the vacuum." Ringwald (Reference 104) 
+prefers to call it "boiling the vacuum." Supercritical atomic nuclei can be created by the 
+slow collision of two uranium (or heavier) nuclei while critical/supercritical electric or 
+magnetic fields can be produced by ultrahigh intensity chirped-pulse amplification lasers 
+(with power intensities on the order of 1019 to 1030 W/m2). 
+To be more precise, when an electric field is made sufficiently strong so that the 
+vacuum polarization (that is, virtual electron-pos itron pairs, aka ZPF) becomes real, 
+then, due to charge conservation, the balancing charge must be eliminated, and so 
+during the process of changing the vacuum from a neutra l to a charged state, some 
+charge must be emitted. And if in the vicinity of the electric field of a super-heavy 
+nucleus or of an externally applied electric or magnetic field, the vacuum carries the 
+charge of an electron, the emitted particle must always be a positron. Studies have 
+17 For histor ical reasons, the QED vacuum is also called the " Dirac sea" or " Dirac vacuum " (Reference 103). 
+18 Supercritical atomic nuclei have an electr ic charge (proton number) of Z > 173, which produces supercr itical 
+electric fields . 
+19 The critical QED vacuum breakdown electr ic field strength is Ee = 2m,,2c3/T]e"' 1018 V/m, where e is the electron 
+charge (1.602 x 10-19 C) . This quant ity is defined by the total rest-energy of an electron -positron pair created from 
+the vacuum divided by the electron's Compton wavelength . And the crit ical QED vacuum breakdown magnetic field 
+strength is Be = Ec/c "' 1010 Tesla. Supercritica l fields have strengths greater than Ee or Be-
+UNCLASSIFIED/ /FOR OFFICI0L: 11ili QIU.,¥ 
+33

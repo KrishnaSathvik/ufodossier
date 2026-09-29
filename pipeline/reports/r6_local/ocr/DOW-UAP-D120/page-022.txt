@@ -1,0 +1,55 @@
+UNCLASSIFIED/ (POR OPPICTAL USE ONTT—
+
+inception. In fact, Ni-base alloys are a prime enabler of the modern gas turbine engine.
+As a result, this class of materials has a well-established industrial base for the
+production of literally all product forms. There is a second class of Ni-base alloys that
+has excellent resistance to attack in aggressive environments, such as those
+encountered in petroleum recovery, but these alloys are not of interest for high-
+temperature applications. To avoid any confusion, the term Ni-base alloys is used in
+this document to mean high-temperature Ni-base alloys.
+
+Ni-base alloys have a high elevated temperature strength because they typically
+contain Al and Ti, which enable them to be precipitation strengthened. The alloys with
+the highest temperature capability are strengthened by precipitates of NisAl (called y'),
+which have a positive temperature coefficient of strength up to about 1,000 °Celsius.
+This unusual characteristic accounts for Ni-base alloys’ elevated temperature capability.
+In combination with the ordinary temperature dependence of the matrix strength, the
+overall temperature dependence is quite low compared with that of any other class of
+structural alloys. Ni-base alloys also contain alloying additions of refractory elements
+such as tungsten (W), tantalum (Ta), and niobium (Nb). These additions also improve
+the elevated temperature strength because they diffuse slowly and strengthen the
+matrix. Because Ni-base alloys are used at elevated temperatures, they contain Cr
+additions in significant concentrations to improve their oxidation resistance. The
+tailoring of the properties of Ni-base alloys has been studied extensively and is quite
+well understood empirically, albeit less so in a fundamental sense. Current-generation
+Ni-base alloys contain as many as 10 alloying additions, and interelement interactions
+make gaining a fundamental understanding of alloying effects a major challenge.
+
+Production of Ni-base alloys has evolved over several decades. Both ingot metallurgy
+and powder metallurgy methods are used to produce a full range of mill products. New
+alloys have periodically been introduced in response to specialized needs. Sometimes
+these alloy development efforts have been so focused on the “specialized need” that
+retention of other generally accepted Ni-base alloy properties has been overlooked. An
+example of this is the development of early “low coefficient of thermal expansion” (a)
+alloys (the so-called low-a alloys). An example of an application for which low-ca alloys
+are attractive is structures in which there are two or more concentric rings connected
+by radial struts. In the presence of a radial temperature gradient, these alloys tend to
+crack during thermal cycling situations owing to “thermal fatigue.” In principle, the
+availability of an “Invar type” alloy with structural characteristics reduces the thermal
+strains and improves the thermal fatigue life. Invar is so named because it uses the
+magnetic characteristics of Ni to offset normal thermal expansion, resulting in much
+lower a values. It was recognized that this concept could also be adapted to Ni-base
+structural alloys. The first-generation low-a alloy, Inco 903, had about half the
+coefficient of thermal expansion compared with ordinary Ni-base alloys up to the Curie
+temperature. This remarkable alteration of a physical property was achieved by
+removing the Cr from the alloy to intensify the magnetic effects of magnetostriction. An
+unfortunate, unintended consequence of this composition alteration was that the
+oxidation resistance was seriously degraded. In particular, Inco 903 had a propensity
+for intergranular cracking in air under stress, rendering it of limited utility as a
+structural alloy. In fact, the cracking was so severe it was given a name: stress-
+assisted grain boundary oxidation (SAGBO). A second-generation low-« alloy, Inco 909,
+contained Si to help improve the oxidation resistance, but this alloy has not gained
+widespread acceptance, possibly because Inco 903 problems were so severe. Low-a
+
+17
+UNCLASSIFIED / (50232-05516 USE-ONEY

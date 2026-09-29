@@ -1,0 +1,43 @@
+UNCLASSIFIED1/FOR 8ffl@IAL tt91! e"t I 
+r------- / 
+MCap nanocell / /1.6µm 
+o.55µmJ• •I / / 
+Magnetic materials "'i / / 
+Dielectric layer -- / MCap cell 
+Magnetic materials ,----,•...____ / Made up of millions 
+(all proprietary compositions) / / MCap nanocells 
+~- - - - - - - - ../ 
+Figure 12. MCap Structure. MCap nanocell and MCap cell are fabricated using traditional semiconductor 
+fabrication processes . 
+MCap cells are then packaged into larger MCap modules. The capacitance of the device 
+is given by the equation , C = so k A/d, where A is the area of the plate, d is the 
+separation between plates, so the permittivity of free space, and k is t he dielectric 
+constant (or relative permittivity) of the material. The MCap increases capacitance by 
+increasing the dielectric constant k through the GMC effect (fGMc) given by t he 
+relationship, k' = k*fGMc- GMC acts like a charge trap that brings electrons closer, thus 
+increasing electron densities at the plates. Based on quantum theory, GMC brings about 
+a capacitance which, to date, has been measured to be 109 times larger than that 
+observed in electrostatic capacitors. As shown earlier in equation (2), energy is 
+proportional to the capacitance and the voltage squared. Moreover, capacitor leakage 
+and self-discharge are essentially eliminated as electrons are "trapped" in the magnetic 
+field. 
+Due to the above effects, the available energy for a large range of storage devices, like 
+smart cards and other products, can be increased substantially by simply packaging 
+them in series-parallel connected modules to meet the energy and voltage 
+requirements. Coupled with Lockheed Martin's extensive nanomaterials and device 
+physics experience, it is likely that NLSC will be able to use its MRAM development 
+expertise to accomplish this. 
+Exper imental Results 
+Over the last year, NLSC has had MCap structures and nanocells tested by independent 
+parties with results shown in Figure 13. These unbiased tests demonstrate the validity 
+of the high-capac itance claims. Figure 14 quantifies the progress in improved 
+performance throughout the development of the device. The number of devices that 
+demonstrate the GMC behavior has increased substant ially in 2009, which is reportedly 
+due to improved materials development rather than an increased production load. The 
+performances of the nanocells as well as the variability are plotted, which shows that 
+potent ial improvement in the materials could lead to an increased GMC factor. There is 
+promising evidence that improvements may allow a higher level of performance, which 
+could match lit hium ion batter ies at ambient temperature and perhaps exceed them at 
+low and high temperatures. 
+UNCLASSIFIEO/fFOA OFFI&I:.l.b YS& ONLY 
+22

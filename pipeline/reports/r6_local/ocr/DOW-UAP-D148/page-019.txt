@@ -1,0 +1,56 @@
+UNCLASSIFIED &-F@R-O5FI624.-U55-001LY.
+
+Doppler-shifted from its original frequency due to its velocity toward or away from the
+RADAR transmitter.? The frequency shift, Af, is given by the following equation:
+
+QV ee
+Af = F reftected ia Frransmittd = ee V Frransmittd ~ a (16)
+
+In this equation, c is the speed of light, and V is the target speed in the direction toward or
+away from the RADAR transmitter. The frequency shift is typically small since V << c, but
+the shift is easily observable due to “beating” between the transmitted and reflected signals.
+The development of fast Fourier transforms (FFTs) greatly increased the rate that Doppler
+reflections could be processed to compute target velocity. By triangulating between two
+RADAR transmitters, the position of a target can be determined along with its velocity and
+direction of travel. Doppler RADAR systems are used for monitoring high-speed aircraft,
+turbulence and shear in meteorology, and even in hand-held police RADAR guns.
+
+RADAR technology has been used for the detection of missiles, reentry vehicles, and space
+objects near the Earth since the 1960s. On 9 September 1961, for example, a Naval
+Research Laboratory RADAR installation at the Chesapeake Bay Annex was used to detect a
+Mercury/Atlas flight during its launch phase.*° The RADAR system sensed the range to the
+rocket, its rate of climb, and the range of its exhaust plume. This RADAR system worked
+“over the horizon” and demonstrated that a RADAR system could be used to identify targets
+and compute their trajectory.
+
+A wide range of RADAR systems are now available to monitor the Earth and space for high-
+speed objects in the atmosphere.'! Cobra Dane and Cobra Judy, L-band phased-array
+RADAR systems located on land (Alaska) and on ships (X- and S-band), are used for the
+detection of reentry vehicles above 35 km. RADAR systems in Florida and Massachusetts are
+capable of monitoring objects in space at a distance of 5,000 km to yield data on their size
+and shape. Ballistic missile early warning systems still operate in Alaska, Great Britain, and
+in Greenland to detect and track missile launches. On Kwajalein Atoll in the Pacific Ocean,
+Altar tracks reentry vehicles at distances of up to 2,500 km with high resolution using a 100-
+kW, millimeter-wave RADAR system. TRADEX, a multitarget tracking system using L- and S-
+band RADAR was developed in 1963 to track missile signatures at a distance of up to 1,400
+km. The venerable RC-137 (converted Boeing 707) can also be deployed with onboard
+RADAR and optical systems that can track missile launches and reentry vehicles.
+
+Radio Reflection Detection
+
+This method can be used to detect meteors or any other object entering the Earth’s
+atmosphere during the day or night. The principle of this method is based on passive
+electromagnetic energy emitted from the Earth’s surface in the form of radio or television
+signals. If these signals are relatively high frequency, the signal is line of sight and cannot
+normally be received over the horizon. A radio or television located over the horizon and
+tuned into the signal frequency will only detect static or hiss. When a meteor or other object
+enters the Earth’s atmosphere, its bow shock and turbulent wake containing ionized air
+reflects radio signals causing an over-the-horizon receiver to hear pings and whistles that
+change pitch as the meteor passes by and breaks up in the atmosphere.‘? It is possible to
+receive reflections off of the surface of the hypersonic meteor in addition to the wake and the
+shock. Sound files from the Aurigid Meteor Shower caused by radio echoes are available!?
+with data obtained from a directional antenna at 61 MHz and 217 MHz. The data
+demonstrates that it is possible to differentiate reflections from the bow shock and the
+
+15
+UNCLASSIFIED £4502.-05516241-USE-ONEE-

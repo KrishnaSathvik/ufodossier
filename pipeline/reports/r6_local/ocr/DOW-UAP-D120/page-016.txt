@@ -1,0 +1,49 @@
+UNCLASSIFIED/ /FOR OFFl@IAL l!ISI!!! 9HLY 
+Table 1 shows there are essentially 10 distinct classes of candidate materials for use in 
+a reusable 550 vehicle. Their usefulness for specific applications and components 
+depends on the operating temperature regime and the design -limiting materia l 
+property . Some background and character istics of each of these materials are described 
+in this section. Applications of some of these materials have already been addressed, so 
+the discussion here is limited to applications for a reusable S5O vehicle. 
+Advanced Al Alloys 
+This class of materials is lim ited by its temperature capability because, even if used in 
+an embedded structure, the thermal soakback from the hot external structure can lead 
+to softening in real time or averaging during extended exposure (that is, after several 
+missions). Scientists have worked to develop high-temperature powder -metallurgy Al 
+alloys, mainly alloys containing Fe, cobalt (Co) and cesium (Ce) or Mn and Si. These 
+alloys are not routinely produced today owing to a lack of demand stemming in part 
+from their cost and their relative lack of maturity as judged by the high variability in 
+mechanical properties between lots of material. Consequently, the main application for 
+Al alloys is in the crew compartment itself, where temperatures must be maintained at 
+levels that are tolerable for the human occupants. Al alloys have marginal stiffness, 
+even on a density-corrected basis. However, using fabricated panels with Al face sheets 
+and a lightweight core can minimize this lim itation. Such panels have a high section 
+modulus, which increases the structural stiffness without adding much weight. Earlier 
+uses of phenolic honeycomb cores experienced only limited success because of the 
+tendency of the core to absorb water from the environment if a breach of the face sheet 
+or the face sheet core bond occurred . Today, Al pheno lic honeycomb sandwich 
+construction is unpopular among aircraft and spacecraft designers because of this 
+earlier, unfavorable experience. However, a new possibility for lightweight stiff 
+structures-Al face sheets with a foamed Al alloy core-is worthy of consideration. 
+Considerable progress in making uniform-density Al and other metallic foams has been 
+realized in the past 10 years . This new class of sandwich materials is sufficiently 
+different from the earlier versions to merit a carefu l evaluation. 
+Polymer Matrix Composites 
+As described in the Launch Vehicle section, polymer matr ix composites have excellent 
+strength, stiffness, fat igue resistance, and fracture toughness. All polymeric materials 
+are to some degree susceptible to degradation when exposed to ultraviolet (UV) 
+radiation. For an orbiting vehicle, a major limitation is the effects of UV radiation on the 
+polymer matrix. Given their limited time at altitude, this vulnerability is not an issue for 
+launch vehicles; however, it is a concern for structures that remain in orbit for an 
+extended time at alt itudes where the UV intensity is much greater . Although there are 
+coatings that protect substrates (PMCs in this case) from UV radiation, the risk of these 
+coatings being breached and the uncertainty about their effectiveness in orbit make UV 
+exposure an ongoing concern. Any consideration of using PMCs for exterior applications 
+would need to include an evaluation of their effectiveness. As discussed for Al alloys, 
+PMCs also could be considered for inte rior applications where temperatures are within 
+the material capabilities. As discussed earlier, some polyimide resins are usable up to 
+about 300 °Celsius; therefore, the low density and excellent specific stiffness of PMCs 
+make them viable candidates for some components. As also discussed, some 
+polyimides, such as PMR-15, contain methylenedianiline, and care must be taken to 
+11 
+UNCLASSIFIED/ /FOR OFFIQl.\k Uili QPlk¥

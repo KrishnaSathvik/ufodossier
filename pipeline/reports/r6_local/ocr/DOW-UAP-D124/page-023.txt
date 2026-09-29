@@ -1,0 +1,32 @@
+UNCLASSIFIED/ /P91t 9FFl@IAL YSE 8HLY 
+Minim um Acceptable Initial Speed 
+Based on Acce lerated Stall M argin 
+Psycho logical LimitDue 
+to Excessive Initial Speed 
+Limit Due to Margin 
+Fl are Capab ility 
+0 
+100 120 140 160 180 200 220 240 260 
+Fl are Initiatio n Speed (percent of minimum spee d) %Vmin 
+Figure 15. Both Delta Planform Lifting Body {Dynasoar) and Model 176 Offer Superior Landing 
+Performance 
+Thermodynamics and Materials 
+The structure of Model 176 was based on diffusion-bonding and super-plastic forming of 
+flat titanium sheets. Forty years ago, the method was called "roll bonding" and 
+executed with the titanium sealed within an evacuated steel envelope and processed in 
+a steel rolling plant. With a lot of effort and chemical leaching, the titanium part was 
+freed from its steel enclosure. All of that has been completely replaced today by the 
+current titanium diffusion-bonding and super-plastic forming industrial capabilities. The 
+photo in Figure 16 is from a Society of Automotive Engineers book titled Advanced 
+Engine Development at Pratt & Whitney: The Inside Story of Eight Special Projects 146-
+1971, by Dick Mulready. Chapter 6, "Boost Glide and the XLR-129 - mach 20 at 
+200,000 Feet," shows a surviving remnant from the 1960s program. 
+The super-plastic-forming, diffusion bonding that was so difficult in early 1960 is now 
+an accepted fabrication procedure. One of the F-1 S's major bulkheads was fabr icated 
+from titanium sheet elements using this procedure instead of machining away more 
+than 90 percent of a titanium forging. Had the procedure been adopted as a product­
+manufacturing method, it would have eliminated the almost 2-year manufacturing cycle 
+in acquiring titanium forging of the wing spars and major bulkheads. Note that only 2.5 
+percent of the thermal heating enters the primary structure . 
+16 
+UNCLASSIFIED/ 'EAR AEEJCJOP 1155 All! X•

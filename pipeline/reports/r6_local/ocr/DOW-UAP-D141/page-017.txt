@@ -1,0 +1,63 @@
+UNCLASSIFIED/ LEQB.OEFELCI ALSO NT
+
+Our implementation of the FSL utilizes an IPM whose dielectric permittivity tensor is
+anisotropic and contains positive and negative components: ¢, > 0,é, <0, where parallel
+
+refers to the IPM/object interface. We have already fabricated such IPMs using SiO2-
+SiC-SiO2 multi-layer, and are investigating other approaches involving selectively-doped
+semiconductor multi-layers similar to the ones used by Gmachl’s group at Princeton.
+SiO2-SiC-SiOz multi-layers are produced in-house (with SiC films shipped by Professor
+Ferro from University of Lyons, France). The main function of the IPM is to propagate
+sub-diffraction waves (k, > @/c) with as little decay as possible. That happens because
+
+these sub-diffraction waves are no longer evanescent: k! »—k;é,/¢, >0. It is
+
+demonstrated experimentally that there exists a frequency range for which sub-
+diffraction waves propagate through the IPM with less attenuation than the radiation-
+zone waves (k, <@/c), see Figure 11.
+
+MCT detector on optical rail
+
+aaa
+
+jenee PERE EEE ER EE SEE ESE SEELEY $
+30 2 4% mh qt Qed 30 ° | em,
+at 2M a | "See
+NN jy lS
+D, = 2.74 pm - { :
+; Coe
+Am StO>
+- = r vin
+440 nm SiC | 5 | ky" =2nm/D, crossover
+> 10}: gat
+D,=29 Poe ee ae
+Q f : ee * 4
+Bo a ggieelta od
+5 o> 0.2..<0.. i : i e
+F +> +" >
+1006 10.7 108 109 11.0 114 12 113 114
+
+Wavelength (11m)
+Figure 11. First Experimental Demonstration of Propagating Sub-Diffraction Waves in the IPM. (Left):
+Experimental setup demonstrating how sub-diffraction waves are launched into the IPM using FIB-fabricated sub-
+wavelength grating. Because the periods of the bottom (“launching”) and top (“transforming”) gratings are
+different, far-field observation of different harmonics of the bottom grating is enabled. (Right): Experimental
+results: the first sub-diffraction harmonic of the grating (green line) becomes stronger than the zeroth radiation-
+
+zone harmonic of the grating (blue line) in the region whereé, > 0, é| <0.
+
+Once sub-diffraction waves propagate through the IPM, they can diffract on the image-
+releasing grating (see Figure 10) and be radiated out into the far field. A detector array
+can be used to collect the signal and reconstruct the image. Unfortunately, different
+wave numbers k, of the object are directed into the same detector and produce an
+
+ambiguity in extracting their respective amplitudes A(k,). This ambiguity is illustrated
+
+by Figure 10: wave numbers k, = Ak+2z/D and k, = Ak +4z/ Dare directed to the
+
+same far-field detector. Simply put, a single number (intensity of light with the wave
+number Ak < @/cincident on the detector) is insufficient for determining two scattering
+
+13
+
+UNCLASSIFIED/ LEQB.OEELGI=SEONTY

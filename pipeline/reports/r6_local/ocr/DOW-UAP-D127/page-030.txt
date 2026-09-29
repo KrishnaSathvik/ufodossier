@@ -1,0 +1,51 @@
+UNCLASSIFIED/ /fOR OFFI&IAk Wlii QPU,¥ 
+ref. [5]. The advantage of this notation is that it 
+makes a neat distinction between probabilistic ( or 
+statistical : it's the same thing here) variables , 
+always denoted by capitals, from non-probabilistic 
+(or "detenninistic") variables, always denoted by 
+lower-case letters. Adopting the Papoulis notation 
+also is a tribute to him by this author, who was a 
+Fulbright Grantee in the United States with him at 
+the Polytechnic [nstitute (now Polytechnic 
+University) of New York in the years 1977-78-79. 
+We thus introduce seven new (positive) 
+random variables D; ("D" from "Drake") defined 
+as 
+D1 = Ns 
+D2 =fp 
+D3 =ne 
+D4 = fl (2) 
+Ds =fl 
+D6 =Jc 
+D 7 =fL 
+so that our STATISTICAL Drake equation may be 
+simply rewritten as 
+(3) 
+Of course, N now becomes a (positive) random 
+variable too, having its own (positive) mean value 
+and standard deviation. Just as each of the D; has its 
+own (positive) mean value and standard deviation ... 
+... the natural question then arises: how are the seven 
+mean values on the right related to the mean value on 
+the left? 
+... and how are the seven standard deviations on the 
+right related to the standard deviation on the left? 
+Just take the next step ... 
+3. STEP 2: INTRODUCING LOGS TO 
+CHANGE THE PRODUCT INTO A SUM 
+Products of random variables are not easy to 
+handle in probability theory. It is actually much 
+easier to handle sums of random variables, rather 
+than products, because: 
+1) The probability density of the sum of two or 
+more independent random variables is the 
+convolution of the relevant probabifay 
+densities (worry not about the equations, 
+right now). 
+2) The Fourier transform of the convolution 
+simply is the product of the Fourier 
+transforms (again, worry not about the 
+equations, at this point) 
+UNCLASSIFIED//EOR OFFICIO! !!SF ON! X 
+30

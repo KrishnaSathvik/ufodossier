@@ -1,0 +1,33 @@
+UNCLASSIFIED/ ,'FOR OFFI@IAL WSE QptLY 
+technology for manipulating inertial fields ( or for warping space-time) can accurately 
+track these effects, then that knowledge may compensate to keep these tools viable. 
+Design of future guidance systems must address this issue. 
+Absolute Velocity - Universal Speedometer 
+Conveniently, nature provides another reference frame for deep-space navigation. The 
+cosmic microwave background is a reference frame against which velocity can be 
+measured relative to the mean rest frame of the universe. By comparing fore/aft 
+Doppler shifts relative to th is highly isotropic and homogeneous radiation, velocity 
+measurements can be derived. For example, the net velocity of the Earth's motion 
+relat ive to this background has been measured to be 365 km/s. 13 However, the cosm ic 
+microwave background will not be detectable at FTL speeds. 
+As illustrated in Figure 8, although many of the pictures of the cosmic microwave 
+background radiation remove the prominent dipole moment shown in this graphic (the 
+major color difference), it is precisely this dipole-the difference between fore/aft 
+Doppler shifts-that provides a navigation reference for deep-space flight. The 
+projection of this image is a spherical shell that has been opened and flattened. The 
+Doppler shift corresponds to the Earth's motion of over 1.3 million km/h relative to the 
+mean rest frame of the universe. The Earth moves in the direction away from the red 
+and toward the blue. 
+Figure 8. Cosmic Microwaves as Universal Motion Reference Frame. [Credit : NASA] 
+Position-Reference Star Trackers 
+For deep-space flight, the star trackers that have been developed for existing 
+spacecraft may still prove viable, new instrumentation will probably be required. Given 
+the enormous expanse of space, the apparent locations of stars will not vary that 
+much .14 Even those that do appear to move-our closest stars-are known well enough 
+so that software can take into account how those positions will change as the vehicle's 
+position changes. Due to Doppler shifting, as noted previously, checking positions 
+relat ive to the stars will only be possible at sublight speed. 
+For speeds approaching light speed, corrections will be required for relativistic effects. 
+Such effects will probably not become apparent until traveling well beyond about 9% c, 
+UNCLASSIFIED/fFOA: OFFICIO la Plili Oralla¥ 
+15

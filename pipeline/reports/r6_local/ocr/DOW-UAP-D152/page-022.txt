@@ -1,0 +1,26 @@
+UNCLASSIFIED/ /fOR. 8FFI61.t..k W&i QJsll,¥ 
+Quantum mechanics predicts for each harmonic oscillator the zero-point energy 
+(1/2)hm, which has to be multiplied with the volume element in frequency space 
+41'Ca>2dm, to obtain the zero-point energy spectrum 
+f((J))d(J)=Const X (J)3d(J)_ (58) 
+Now (58) turns out to be just the only spectrum that is Lorentz invariant. But the 
+spectrum (58) is also the only one which does not lead to a friction force on a charged 
+particle moving through an electromagnetic spectrum with this frequency dependence. 
+This means that special relativity is a consequence of quantum mechanics, leading to 
+the zero point vacuum energy, and can be interpreted by saying that the zero-point 
+vacuum energy "generates" the Minkowski space-time. 
+7. Dynamic Interpretation of Lorentz Invariance 
+A cut-off at the Planck frequency generates a distinguished reference system in which 
+the zero-point energy spectrum is isotropic and at rest. In this distinguished reference 
+system, the scalar potent ial from which the forces are to be derived satisfies the 
+inhomogeneous wave equation: 
+1 if <l> , - - --+ v-<1> = -47Z'p(r t) (59)c2 8t2 > I 
+where p(r,t) are the sources of this field. For a body in static equilibrium at rest in the 
+distinguished reference system for which the sources are those of the body itself one 
+has 
+(60) 
+If set into absolute motion with the velocity v along x-axis, the coordinates of the 
+reference system at rest with the moving body are obtained by the Galilei 
+transformation: 
+UNCLASSIFIED//POlt orr1e11tt tt!II!! or~LY 
+18

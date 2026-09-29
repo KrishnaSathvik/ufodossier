@@ -1,0 +1,138 @@
+{
+  "filename": "DOE-UAP-D005.pdf",
+  "generated_at": "2026-09-28T17:30:07.294813+00:00",
+  "page_count": 7,
+  "usable_text_chars": 6945,
+  "stats": {
+    "native_good": 2,
+    "native_thin": 1,
+    "needs_ocr": 4,
+    "ocr_failed": 0,
+    "ocr_succeeded": 4,
+    "pages_ocrd": 4,
+    "ocr_unrecoverable_thumbnail": 0
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "native_quality": {
+        "page_number": 1,
+        "native_char_count": 1029,
+        "printable_ratio": 0.996,
+        "alpha_ratio": 0.672,
+        "word_count": 130,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.13, clean=0.68))"
+      },
+      "final_category": "native_good",
+      "text_method": "tesseract",
+      "char_count": 967,
+      "text": ""
+    },
+    {
+      "page_number": 2,
+      "native_quality": {
+        "page_number": 2,
+        "native_char_count": 439,
+        "printable_ratio": 1.0,
+        "alpha_ratio": 0.674,
+        "word_count": 53,
+        "replacement_char_count": 0,
+        "category": "native_thin",
+        "reason": "thin but printable native text (caption/short page)"
+      },
+      "final_category": "native_thin",
+      "text_method": "native",
+      "char_count": 439,
+      "text": ""
+    },
+    {
+      "page_number": 3,
+      "native_quality": {
+        "page_number": 3,
+        "native_char_count": 3305,
+        "printable_ratio": 0.998,
+        "alpha_ratio": 0.781,
+        "word_count": 528,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "sufficient clean native text"
+      },
+      "final_category": "native_good",
+      "text_method": "native",
+      "char_count": 3305,
+      "text": ""
+    },
+    {
+      "page_number": 4,
+      "native_quality": {
+        "page_number": 4,
+        "native_char_count": 1683,
+        "printable_ratio": 0.998,
+        "alpha_ratio": 0.775,
+        "word_count": 281,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "sufficient clean native text"
+      },
+      "final_category": "native_good",
+      "text_method": "native",
+      "char_count": 1683,
+      "text": ""
+    },
+    {
+      "page_number": 5,
+      "native_quality": {
+        "page_number": 5,
+        "native_char_count": 171,
+        "printable_ratio": 0.988,
+        "alpha_ratio": 0.655,
+        "word_count": 23,
+        "replacement_char_count": 0,
+        "category": "native_thin",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.17, clean=0.70))"
+      },
+      "final_category": "native_thin",
+      "text_method": "tesseract",
+      "char_count": 102,
+      "text": ""
+    },
+    {
+      "page_number": 6,
+      "native_quality": {
+        "page_number": 6,
+        "native_char_count": 163,
+        "printable_ratio": 0.994,
+        "alpha_ratio": 0.632,
+        "word_count": 18,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.17, clean=0.58))"
+      },
+      "final_category": "native_good",
+      "text_method": "tesseract",
+      "char_count": 162,
+      "text": ""
+    },
+    {
+      "page_number": 7,
+      "native_quality": {
+        "page_number": 7,
+        "native_char_count": 172,
+        "printable_ratio": 0.994,
+        "alpha_ratio": 0.727,
+        "word_count": 28,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.21, clean=0.72))"
+      },
+      "final_category": "native_good",
+      "text_method": "tesseract",
+      "char_count": 170,
+      "text": ""
+    }
+  ],
+  "combined_path": "/Users/krishnasathvikmantripragada/Webapps/ufo-dossier/pipeline/reports/r4_local/ocr/DOE-UAP-D005/combined.txt",
+  "production_writes": false
+}

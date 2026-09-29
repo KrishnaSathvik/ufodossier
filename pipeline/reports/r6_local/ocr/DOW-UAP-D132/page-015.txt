@@ -1,0 +1,36 @@
+UNCLASSIFIED/ /POil OFFIEJIAk W&lii QNL¥ 
+GRAVITY/ ANTIGRAVITY /PROPULSION EFFECTS 
+In the GR ansatz gravitational-type forces derive from the spacetime metric, whether 
+determined by natural sources (for example, planetary or stellar masses) or by 
+advanced metric engineering. Fortunately for our consideration of this topic, discussion 
+can be carried out solely based on the form of the metric, independent of the specific 
+mechanisms or dynamics that determine the metric. As one exemplar, consider 
+Alcubierre's formulation of a "warp drive," a spacetime metric solution of Einstein's GR 
+field equation (References 2, 22). Alcubierre derived a spacetime metric motivated by 
+cosmological inflation that would allow arbitrar ily short travel times between two distant 
+points in space. The behavior of the warp drive metric provides for the simultaneous 
+expansion of space behind the spacecraft and a corresponding contraction of space in 
+front of the spacecraft (see Figure 3). The warp drive spacecraft would thus appear to 
+be "surfing on a wave" of spacetime geometry. By appropriate structuring of the metric, 
+the spacecraft can be made to exhibit an arbitrarily large apparent faster-than-light 
+speed as viewed by external observers without violating the local speed-of-light 
+constraint within the spacetime -altered region. Furthermore, the Alcubierre solution 
+showed that the proper (experienced) acceleration along the spaceship's path would be 
+zero, and that the spaceship would suffer no time dilation-highly desirab le features for 
+interstellar travel. In order to implement a warp drive, one would have to construct a 
+"warp bubble" that surrounded the spacecraft by generating a thin shell or surface layer 
+of exotic matter-that is, a quantum field having negative energy and/or negative 
+pressure. Although the technical requirements for such are unlikely to be met in the 
+foreseeable future (Reference 22), the exercise nonetheless serves as a good example 
+for showcasing attributes associated with manipulation of the spacetime metric at will. 
+The entire discussion of the possibility of generating a spacetime structure like that of 
+the Alcubierre warp drive is based simply on assuming the form of a metr ic (that 
+is, g,, v) that exhibits desired characteristics. In like manner, arbitrary spacetime metrics 
+to provide gravity/antigravity/propulsion characteristics can in principle be postulated . 
+What is required for implementation is to determine appropriate sources for their 
+generation, a requirement that must be met before advanced spaceship technology 
+based on vacuum engineer ing can be realized in practice. The difficulties, challenges, 
+and options for meeting such requirements can be found in the relevant literature 
+(Reference 22). 
+UNCLASSIFIED/ ,'FOR OFFI&I.t.k W&li ONkY 
+10

@@ -1,0 +1,26 @@
+UNCLASSIFIED/ /FOR 8FFI@IAk WSE 8Hk¥ 
+Figure 12. Schematic of Earth-to-Mars Real-Time Control of a Rover 
+In order to avoid having to transmit two streams of entangled photons, the equivalent 
+of the two fiber-optic links in Figure 10, at the base station the photons from one image 
+slit would be polarized horizontally and those the other slit would be polarized vertically 
+before transmission. Then, at the Earth control station, detection of the polarization of 
+photons in the stream would constitute "particle" measurements, while separating, 
+rotating to the same polarization state, and recombining the waves so that they could 
+interfere before detection would constitute a "wave" measurement. 
+In parallel with this nonlocal link, a conventional microwave or optical link would be 
+used to communicate video images and other data to the Earth station. The video 
+images and data would experience a propagation delay equal to the transmission 
+distance divided by the speed of light, and would arrive at the Earth station seconds, 
+minutes, or hours aher they were transmitted. The entangled photons would experience 
+the same delay, but the nonlocal control signal would be sent backwards up the time 
+stream, arriving at the probe at the instant the video signals and data were being 
+transmitted, so that the nonlocal signal could steer and control the probe in real time, 
+and an Earth-based operator could "drive" the rover on Mars using virtual-reality 
+techniques. One can imagine driving the Mars Rover around the planet, actively 
+steering around obstacles, activating analysis instruments in real time as interesting 
+objects were found, and actively controlling repair equipment to deal with problems 
+that arise. 
+Such a communication loop (conventional + nonlocal) would be a light-like loop, with 
+the two-way send and receive points located on the light cone. As such, it would not 
+UNCLASSIFIED/ /F8R. 8FFIE!IJltt U:!I! eHt I 
+21

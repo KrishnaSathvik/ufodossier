@@ -1,0 +1,33 @@
+UNCLASSIFIED/ ,'FOR OFFl&IAk le.ISi: OPtklf 
+From the burning plasma behind the detonation front, energy flows into all spatial 
+directions. Part is by bremsstrahlung and part by electronic heat conduction. Roughly 
+half of the energy flows into the liner, one-quarter into the still unburned fuel ahead of 
+the wave, and one-quarter into the opposite direction. The bremsstrahlung emission 
+rate is given by 
+(28) 
+For T = 109 K, one has &, ;::: 3.2 x 10-23 n2 [erg/cm 3s]. The flux of the bremsstrahlung 
+that goes into the liner is &,r/2, where r is the radius of the deuterium rod just behind 
+the detonation front. About one-half of this radiation runs ahead of the detonation 
+front, where it precompresses the deuterium. Its intensity is: 
+E r 23 ' - '-::::10- n· r [erg/cm 2s] (29)
+4 
+with nr;::: 3x 1024 cm·2 (corresponding pr;::: 10 g/cm 2), one has 
+Er 
+- '- :a:: 30n[erg/cm 2s] (30)
+4 
+We are aiming at a density where the neutrons are absorbed in the burning plasma 
+cylinder of radius r. If the neutron-deuteron collision cross section is a, then the 
+neutron path length An must be smaller than r: 
+1 (31)l,,=-<;;,r 
+nc, 
+or 
+1 nr ~ ­
+c, (32) 
+One typically has a;::: 10·24 cm2, hence 
+nr ~ 1024 cm 2 (33) 
+If r = 0.01 cm, then n ~ 1026 cm·3 = 5 x 103 no, where no = 5 x 1022 cm·3, the particle 
+number density of liquid deuterium. With n= 1026 cm·3, one finds that 
+s,.r/4 :a:: 3x l027 erg/cm 2s. The flux on a deuterium tube of radius rand length z, where 
+for the burn zoner ;::: z, one obtains onto its surface (s,. /4)2nrz :a:: 1024 erg/s = 1017 watts 
+UNCLASSIFIED/ /FOR OFFI&I.t.k le.ISi: OPU.¥ 
+19

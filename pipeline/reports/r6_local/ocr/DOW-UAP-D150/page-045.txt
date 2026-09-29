@@ -1,0 +1,16 @@
+UNCLASSIFIED/ /FOR OFFICIJcL l:ISI: 8HL¥ 
+substrates and size of legs are adjusted well, the assembly is continuously moving to new 
+substrate-covered areas. Due to residual binding of deoxyribozymes to products, even if the 
+spiders were surrounded by the product-covered areas, they would be able to move over 
+t hem by ordinary random walk, until they would find substrates again. Importantly, 
+directional movement of spiders can be accomplished by aligning substrates in directional 
+paths, for example, by displaying them on self-assembled structures, including origami 
+(Figure 27). Further, simple computing can be introd uced by logic gates as legs. The nano 
+walker could be hybridized to repair DNA based machinery, including DNA computers, when 
+they are being assembled, or when they are damaged from cosmic rays, for example. 
+Figure 26. The Nano walker made at Columbia University is a 
+protein molecule decorated with three legs--single-stranded 
+DNAzymes, synthetic DNA molecules that act as enzymes and 
+catalyze a reaction. 
+UNCLASSIFIED//EOAt QFFICilit.L YSI!! 9HL I 
+44

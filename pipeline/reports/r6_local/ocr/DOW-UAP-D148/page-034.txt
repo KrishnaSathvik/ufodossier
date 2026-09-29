@@ -1,0 +1,47 @@
+UNCLASSIFIED/fFOR. QFFIEl.t.L: Uii QD:I! X 
+need for computational modeling of hyperson ic wakes to predict the characteristic signature 
+of new, unknown aircraft. 
+A hypersonic vehicle database of wake characteristics for existing aircraft should be 
+developed based on optical and Doppler RADAR data. Doppler RADAR provides information 
+on turbulent intensities and eddy formation within the wake. Computational fluid mechanics 
+models of hypersonic wakes have been done since the early 1960s, such as the work done by 
+Zieberg and Bleich.30 Such modeling work should continue capitalizing on the increasing 
+computer performance that will be available during the next 30 years. 
+Recommendation #2 - Exploit the Detectability of Hypersonic Aircraft 
+Based on the Features That Allow Them To Fly Efficiently at High Speeds 
+Several new propulsion systems for hypersonic aircraft will be tested over the next 30 years. 
+These include pulsed detonation engines (PDE) successfully tested in 2008 by the Air Force 
+Research Laboratory and Innovative Scientific Solutions, Inc. over the Mojave Desert. While 
+these engines are capable of Mach > 6, they have one characteristic that makes them very 
+detectable. The pulsed detonation of combustible fuel creates a wake with periodic bulges 
+refer red to as "donuts on a rope." As mentioned earlier, measurements of the turb ulent 
+wake behind hyperso nic aircraft can be used for detect ion, identification, and tracking. 
+The AYAKS hypersonic transport plane under development in Russia uses an MHD engine, 
+lasers, and RF generators to decrease aircraft drag. The lasers and RF ionize the air ahead of 
+the aircraft, creating a plasma to disrupt the bow shock and significantly reduce aerodynamic 
+drag. Drag reduction allows the aircraft to double its maximum speed. The RF and laser 
+emissions from this aircraft can possibly be used to detect the aircraft in flight from ground­
+based antenna or telescopes or from satellites. The MHD engine also generates 
+electromagnetic radiation that can possibly be detected. 
+Every new propulsion or drag reduction system under development will have some 
+characteristic that may make it more detectable from the ground or from satellite. The 
+Aerospike engine proposed for the SSTO and under development by Rocketdyne and Garvey 
+Spacecraft involves the use of a novel virtual Laval nozzle that is external to the engine. The 
+IR emissions from an Aerospike engine may increase its detectability. 
+Recommendation #3 - Explore the Detection of Vehicles Designed To Be 
+Undetectable 
+Over the next 30 years, hyperso nic cruise missiles will have the ability to travel at speeds of 
+up to Mach 8 decreasing the chances of being detected or defeated by antimissiles. The 
+unmanned NASA X-51 tested in 2010 is capable of greater than Mach 7 (over 4,000 mph), 
+for example, and is designed to be launched from a B -52. The DARPA/USAF Falcon Project 
+has resulted in the testing of the HTV-2 at Mach 6. 7 over the Pacific Ocean, designed as a 
+hyperson ic cruise vehicle. 
+Efforts to disguise aircraft through the use of novel vehicle shapes and stealth materials can 
+also increase their detectab ility in other ways. Golovitic hev and Hansson presented a paper 
+in 199931 that stated the following: 
+"The concentrated energy drag reduction concept has proven to be effective for the 
+cruise range vehicles, preventing the missile deceleration with the benefit that the 
+spike "products" could envelope the missile in a film of ionized gas which would be 
+impervious to RADAR pulses, thereby rendering it electronically "invisible". The infra-
+UNCLASSIFIED//EQA: QlililEl.t.L: W&&: O,.L'l 
+30

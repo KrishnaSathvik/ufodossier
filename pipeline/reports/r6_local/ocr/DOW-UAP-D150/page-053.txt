@@ -1,0 +1,50 @@
+UNCLASSIFIED/ /FOA OFFI€1Ak Wlili QPILY 
+103. Winfree, E., Liu, F., Wenzler, L., Seeman, N.C.: Design and self-assembly of two­
+dimensional DNA crystals, Nature, Vol. 394, pp.539-544, 1998. 
+104. Several papers related to error suppression of DNA tiles are presented in: 
+Preliminary Proceedings of Tenth International Meeting on DNA Computing (Edtors. 
+C. Ferretti, et. al), Milan, 2004. 
+105. Somei, K., Kaneda, S., Fujii, T., and S. Murata, "A microfluidic device for DNA tile 
+self-assembly," DNA Computing 11 (A. Carbone and N.A. Pierce Eds.), LNCS 3892, 
+Springer-Verlag Berlin Heidelberg, pp. 325-335, 2006. 
+106. Somei, K., Kaneda, S., Fujii, T., and S. Murata, "A microfluidic device for DNA tile 
+self-assembly," DNA Computing 11 {A. Carbone and N.A. Pierce Eds.), LNCS 3892, 
+Springer-Verlag Berlin Heidelberg, pp. 325-335, 2006. 
+107. Huang,M.C., Ye,H., Kuan,Y.K., Li,M.H. and Ying,J .Y. (2009) Integrated two-step 
+gene synthesis in a microfluidic device. Lab. Chip, 9, 276-285. 
+108. Mueller,S., Coleman,J.R. and Wimmer,E. (2009) Putting synthesis into biology: a 
+viral view of genetic engineering through de novo gene and genome synthesis. 
+Chem. Biol., 16, 337-347. 
+109. Lee CC, Snyder TM, Quake SR. A microfluidic oligonucleotide synthesizer. Nucleic 
+Acids Res. 2010 May;38(8):2514-21. Epub 2010 Feb 21. 
+110. LaBean T.H., Yan H., Kopatsch J., Liu F., Winfree E, Reif J.H., and Seeman N.C. 
+Construction, analysis, ligation, and self-assembly of DNA triple crossover 
+complexes. Journal of the American Chemical Society, 122: 1848-1860, 2000. 
+111. Yan H, Zhang X, Shen Z, Seeman NC. A robust DNA mechanical device controlled 
+by hybridization topology. Nature. 2002 Jan 3;415(6867) :62-5. 
+112. Rothemund PW. Folding DNA to create nanoscale shapes and patterns. Nature. 
+2006 Mar 16;440(7082):297-302. 
+113. Shih W.M., Quispe J.D., and . Joyce G.F. A 1.7-kil obase single-stranded DNA that 
+folds into a nanoscale octahedron . Nature, 427(6453) :618-621, 2004. 
+114. Rothemund P.W.K., Scaffolded DNA origami: From generalized multicrossovers to 
+polygonal networks Nanotechnology: Science and Computation, pp 3-21 (2006). 
+115. Seelig, G., Soloveichi, D., Zhang, D.Y. and Winfree, E., "Enzyme-Free Nucleic Acid 
+Logic Circuits," Science, 314, pp. 1585-1588, 2006. 
+116. Adleman, L.: Molecular Computation of Solutions to Combinatorial Problems, 
+Science, Vol.266, pp.1021-1024, 1994. 
+117. N. C. Seeman, C. D. Mao, T. LaBean, and J. H. Reif, "XOR operations by 
+algorithmic assembly of DNA tiles," Biophys . J., pt. 2, vol. 80, no. 1, p. 45, Jan. 
+2001. 
+118. Stojanovic MN, Stefanovic D. Deoxyribozyme-based half-adder. Journal of the 
+American Chemical Society. 2003 Jun;125(22):6673-6. 
+119. Stojanovic, M.N., Nikic, D.B. and Stefanivic, D. Impl icit OR tiling of 
+deoxyribozymes: construction of molecular scale OR, NAND and four input logic 
+gates. J. Serb. Chem Soc. 68, 321-326 (2003). 
+120. Stojanovic MN, Stefanovic D. A deoxyribozyme-based molecu lar automaton. Nat 
+Biotechnol. 2003 Sep;21(9):1069-74. 
+121. Stojanovic MN, Mitchell TE, Stefanovic D. Deoxyribozyme -based logic gates. 
+Journal of the American Chemical Society. 2002 Apr;124(14):3555-61. 
+122. Macdonald J, Li Y, Sutovic M, Lederman H, Pendri K, Lu WH, et al. Medium scale 
+integration of molecular logic gates in an automaton. Nano Letters. 2006 
+Nov;6(11) :2598-603. 
+UNCLASSIFIED/ j P"OR. eP"P"ltlAL l:ISE 8Ptllf 52

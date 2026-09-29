@@ -1,0 +1,30 @@
+UNCLASSIFIED//FOR OFFICIAL USE O14LV 
+Even some metallic glasses with reasonable toughness may be embrittled by exposure 
+to elevated temperatures. This may occur in the heat -affected zone during weld ing (as 
+discussed above), or it may be a by-product of processing in the supercooled liquid 
+region (as in injection molding, for instance). The causes of embrittlement are also not 
+well understood, and there is no known way to reverse embrittlement once it occurs. 
+Fatigue 
+Fatigue is a process by which materials can experience incremental crack growth owing 
+to cyclic loading, even at stresses well below the yield stress. If unabated, fatigue 
+cracks can grow to a critical length at which abrupt catastrophic fracture occurs. Up to 
+90 percent of failures of structural components in service are estimated to be caused by 
+fatigue, making fatigue resistance of obvious importance to designers. 
+The fatigue resistance of metallic glasses is not very good. A common measure of 
+fatigue resistance is the fatigue limit - the stress amplitude (range) below which no 
+fatigue failure will occur, regardless of the number of loading cycles the material 
+experiences. The fatigue limit for high-strength crystalline alloys is typically about 40 
+percent of the tensile strength, but for metallic glasses, it is only about S percent of the 
+tensile strength (Figure 5). The reason for this difference has to do with the structure of 
+the material. In a crystalline alloy, there are microstructural features (such as grain 
+boundaries and precipitate particles) that can inhibit the growth of fatigue cracks. In 
+metallic glasses, the microstructure is completely featureless, and there is nothing to 
+prevent fatigue cracks from grow ing once they have been initiated. 
+The poor fatigue resistance of metallic glasses is a cr itical limitation for structural 
+applicat ions in aerospace because it implies a need to overdesign components to keep 
+the stresses far below the yield stress. Thus, much of the advantage of having a high­
+strength material in the first place is lost. The desire to improve metallic glasses' 
+fatigue performance has led to the development of metallic-glass -matrix composites 
+with outstanding properties, as discussed below. 
+9 
+UNCLASSIFIED//liOlil OfililCI0~ Wili QPU11¥

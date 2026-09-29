@@ -1,0 +1,42 @@
+UNCLASSIFIED/ /FOR OFFI@IAk WSI: OPtklf 
+Effective Mass in Spacetime -Altered Regions 
+In a spacetime-altered region, E =mc2 still holds in terms of local ("proper coord inate") 
+measurements, but now energy E and the velocity of light c take on altered values as 
+observed from an exterior (undistorted) spacetime region. Reference to the defin itions 
+for E and c in Table 1 permits one to define an effective mass as seen from the exterior 
+undistorted region as therefore taking on the value m ➔ m( - g11 )/-Jg;;;, provid ing a 
+sixth entry for our table. Depending on the values of g00 and g11 , the effective mass 
+may be seen from the viewpoint of an observer in an undistorted spacetime region to 
+have either increased or decreased. 
+Gravity/ Antigravity " Forces " 
+Strictly speaking, from the GR point of view, there are no gravitational "forces" but 
+rather (in the words of GR theorist John Wheeler) "matter tells space how to curve, and 
+space tells matter how to move." (Reference 21) As a result, Newton's law of 
+gravitational attraction to a central mass is therefore interpreted in terms of the 
+spacetime structure as expressed in terms of the metric tensor coefficients, in th is case 
+as expressed in Equation ( 4) above. Therefore, in terms of the metric coefficients, 
+gravitational attraction in this case derives from the conditi on that g00 < 1, lg11I> 1. As 
+for the possibility for generating "antigrav itational forces," noted in equation (5), 
+inclusion of the effects of charge led to metric tensor contributions counter to the 
+effects of mass-that is, to electrogravitic repulsion. This reveals that conditions under 
+which, say, the signs of the coefficients g00 and g11 could be reversed would be 
+considered (loosely) as antigravitational in nature. A seventh entry in Table 1 
+represents these features of metric significance . 
+III . Significance of Physical Effects Applicable to Advanced 
+Aerospace Craft Technologies as a Function of Metric 
+Tensor Coefficients 
+As in Section III, metric tensor coefficients define the relationship between locally and 
+remotely observed (that is, spacetime-altered and unaltered) variables of interest as 
+listed in Table 1, and in the process define corollary physical effects. Table 1 thereby 
+constitutes a useful reference for interpreting the physical significance of the effects of 
+the alteration of spacetime variables. The expressions listed indicate specific spacetime 
+alteration effects, whether owing to natural causes (for example, the presence of a 
+planetary or stellar mass) or as a result of metric engineering by advanced 
+technological means as might be anticipated in the development and deployment of 
+advanced aerospace craft. 
+TIME ALTERATION 
+With regard to the first table entry (time interval), in a spacetime-altered region, time 
+intervals are seen by a remote (unaltered spacetime) observer to vary as 
+1/fg; relative to the remote observer . Near a dense mass, for example, -Jg;;;< 1, and 
+UNCLASSIFIED/ /FOR OFFI@I.wk WSI: OHk\f 
+6

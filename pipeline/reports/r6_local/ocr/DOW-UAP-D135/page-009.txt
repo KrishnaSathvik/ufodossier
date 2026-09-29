@@ -1,0 +1,46 @@
+UNCLASSIFIED/ fFOA OFFIEIA~ W&li QPI~¥ 
+III. Concepts for Antigravity Within General Relativity 
+In the Sections that follow the known types of antigravity that can be derived from 
+Einstein's General Theory of Relativity are described and summarized, which is the 
+modern relativistic theory of gravity. 
+ANTIGRAVITY VIA GRAVITOMAGNETIC FORCES 
+Historical Foundations 
+Heaviside (Reference 7) (in 1883), Einstein (prior to the 1916 publication of his General 
+Theory of Relativity), Thirring (Reference 8,9), and Thirri ng and Lense (Reference 10) 
+(see also, Reference 11) showed that general relat ivity theory provides a number of 
+ways to generate non-Newtonian gravitat ional forces via the splitting of gravitation into 
+electric and magnet ic field type components . These forces can be used to counteract 
+the Earth's gravitational field, thus acting as a form of antigravity. General relativity 
+theory predicts that a moving source of mass-energy can create forces on a test body 
+which are similar to t he usual centrifugal and Coriolis forces, although much smaller in 
+magnitude. These forces create accelerations on a test body that are independent of 
+the mass of the test body, and the forces are indistinguishable from the usual 
+Newtonian gravitational force. The Earth's gravitational field can be counteracted by 
+generating these forces in an upward direction at some spot on the Earth. 
+Forward (Reference 12) linearized Einstein's general relativistic field equation and 
+developed a set of dynamic gravitational field relations similar to Maxwell's 
+electromagnetic field relations. The resulting linear ized gravitational field relations are a 
+version of Newton's law of gravitation that obeys special relativity. The linearized 
+gravitational field relations show that there is a unique correspondence between the 
+gravitational field and the electric field. For example, the Newton ian gravitational field 
+of an isolated mass is the gravitational analog to the electric field of an isolated electric 
+charge. 
+Likewise, there is an analogy to a magnetic field conta ined within the linear ized 
+gravitational field relations. In Maxwellian electrodynamics, a magnetic field is due to 
+the flow of an electric charge or an electric current. In other words, the electric field 
+surrounding an electric charge in motion will appear as a magnetic field to stationary 
+observers. If the observers move along with the charge, they see no relative motion, 
+and so they will only observe the charge's electric field. Thus, the magnetic field is 
+simply an electric field that is looked at in a moving frame of reference. In an analogous 
+fashion, the linearized gravitational field relations show that if a (gravitational) mass is 
+set into motion and forms a mass current, then a new type of gravitational field is 
+created that has no source and no sink. This is called the Lense-Thirring effect, or 
+rotational frame dragging effect, in which rotating bodies literally drag spacetime 
+around themselves. 
+Forward's Dipole Gravitational Field Generator 
+Forward (Reference 13,14) used the linearized gravitational field relations plus aspects 
+of the Lense-Thirring effect to develop models for generating antigravity forces. One 
+example of an antigravity generator is based on a system of accelerated masses whose 
+mass flow can be approximated by the electrical current flow in a wire-wound torus. 
+UNCLASSIFIED/ /FOA OFFI&il.t.k Y&li 9,.LY 
+4

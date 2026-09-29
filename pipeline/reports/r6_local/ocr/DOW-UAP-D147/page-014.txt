@@ -1,0 +1,46 @@
+UNCLASSIFIED1fFOR 8ffl@IAL tt9! e"t I 
+ELECTRODES 
+Carbon has been the optimal electrode mater ial for ultracapacitors since their 
+commercial introduction over 30 years ago. Pseudocapacitor systems use a comb ination 
+of a carbon electrode and a battery-like electrode, such as a conductive polymer or a 
+metal oxide. The hig h surface area of carbon makes it an extremely attractive option 
+for ultracap electrodes . Carbon chemistry is quite well known, and high surface area 
+and low cost ensures carbo n's cont inued use for the near future. While carbon has been 
+used in electrochemica l systems for many years, there are many nuances that make its 
+properties and performance vary significantly amongst the many types of carbon. The 
+use of a carbon electrode makes ult racaps affordab le for use in many systems. 
+Activated carbo n is readily available, can be made from many source materia ls, and is 
+inexpens ive. Materials science activities for electrodes are focused on improving the 
+carbon electrodes and i ntroduci ng alterna tive materia ls to create an asymmetric 
+electrode. 
+Types of carbon can include activated carbon, carbon cloth, aerogels, porous carbon, 
+carbon nanotubes, and graphene. The properties of carbon can change dramatically 
+based upon processing, having a major im pact to the porosity and active surface area. 
+Activated carbon has an extremely high surface area, is inexpensive, and is produced at 
+a global scale for use in a number of applications. For these reasons, activated carbon 
+is the traditional carbon of choice for ultracapacitor applications. Recent advances in 
+carbon materials development have led to a number of options for ultracapacitor 
+electrodes. Table 4 demonstrates a number of electrode materials in use today and t he 
+corresponding performance of these ultracaps. 
+Table 4: Properties of Various Materials Used in Electrochemical Capacitor 
+Electrode Materials 16 
+Material 
+Density 
+(g/cm 3 ) Electrolyte F/g F/cm 3 
+Activated Carbon 0.7 KOH 160 112 
+Oroanic 100 70 
+Carbon Cloth 0.35 KOH 200 70 
+Organic 100 35 
+Aerogel Carbon 0.6 KOH 
+Orqanic 
+75 
+125 84 
+Porous Carbon from SiC 0.7 KOH 175 122 
+Oroanic 100 70 
+Porous Carbon from TiC 0.5 KOH 220 110 
+Organic 120 60 
+Anhydrous RuO2 2.7 Sulfuric Acid 150 405 
+Hvdrous RuO2 2.0 Sulfuric Acid 650 1 300 
+Doped Conductive Polvmer 0.7 Orqanic 450 315 
+UNCLASSIFIEO/fFOA OFFI&I:.l.b YS& ONLY 
+9

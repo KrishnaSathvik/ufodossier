@@ -1,0 +1,26 @@
+UNCLASSIFIED//POlt Offl@IAL WS& &NkY 
+r, = ( Thrust) = ]_ (1.8)
+Power Ve 
+In choosing a rocket engine, as the specific impulse (Isp ) or the exhaust velocity (Ve) 
+increase, the corresponding efficiency (TJ) decreases. The specific impulse for various 
+fuels varies widely as shown in Table 1.2, 3 
+Tsiolkovsky Rocket Equation 
+For a spaceflight to Mars or other body, the exhaust velocity affects the time of flight 
+and the amount of fuel that is needed to change the velocity of the spacecraft. The 
+change in velocity (t-.V) can be expressed in terms of the initial mass of the rocket 
+(m ;n;t1a1, rocket+ propellant) and the final total rocket mass (m t;na1 rocket only): 
+~ V = V In (minilia/) (1.9)exhaust 
+mfinal 
+The mass of propellant used to generate thrust is given by: 
+mpropellanr =min irial - mfinal (1.10) 
+(1.11) 
+m - m e~V / Vt'.r:lr ,rns r (1.12) 
+~ V = gO Jsp [In [ m i11i1ial]- ..!_ (1 _mfina l J] (1.13) 
+fina l - 'initia l 
+mfi11a/ R mi11irial 
+(1.14) 
+In these equations, R is the thrust-to-weight ratio and t is the time required for an 
+engine burn to produce a desired t-.V. These are the standard equations used for rocket 
+engine performance. 
+UNCLASSIFIED/fF&A &FFI&I:.l.k W&li &NkY 
+4

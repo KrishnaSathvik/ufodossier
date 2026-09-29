@@ -1,0 +1,27 @@
+UNCLASSIFIED! /FOR err1e11ct l1!1! 614[1 
+200µm 
+Figure 4. Shear Bands. Produced by bending of a zirconium -based metallic glass. v, 
+Fracture Toughness 
+Fracture toughness is a measure of a material's resistance to growth of cracks, a critical 
+property for structural materials subjected to tensile loading. In very tough metals, the 
+toughness usually results from plastic deformation that occurs near the tip of the 
+advancing crack; plastic deformation requires energy, and the need to provide this 
+energy translates into resistance to crack growth. 3 Despite their lack of tensile ductility, 
+at least some metallic glasses are not brittle in the same sense that ceramics are, for 
+example, because they can experience significant plastic deformation around the crack 
+tip during fracture. For instance, the fracture toughness (Krc) of zirconium-based 
+metallic glasses is about 20 MPa-m112 15 -somewhat lower than the "' 55 MPa -m112 
+typical of crystalline zirconium alloys16 but much greater than the fracture toughness of 
+ceramics (typically 1-5 MPa-m112). The fact that metallic glasses are reasonably tough 
+despite their lack of tensile ductility suggests structural applications are not out of the 
+question. 
+However, some metallic glasses appear to be intrinsica lly brittle in that they fracture 
+with only limited plastic deformation near the crack top and thus have very low values 
+of fracture toughness. For this reason, some alloys t hat would otherwise be highly 
+desirable, such as iron-based metallic glasses (for their high strength and low cost) and 
+magnesium-based glasses (for their low density), fa II into this category. The physical 
+origins of the difference between intrinsically brittle metallic glasses and those capable 
+of limited plastic deformation (and thus some toughness) are not well understood. 
+3 In other materials, notably polymer-matr ix composites, other mechanisms of toughening can be more important. 
+8 
+UNCLASSIFIED/ /FOA OFFIGI.t.k lel&E 0,.LY

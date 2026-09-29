@@ -1,0 +1,56 @@
+UNCLASSIFIED / / BOR-O.5516L4A1-055-O)H
+
+quantitative estimate would be needed to ensure that the non-uniformity is not serious
+in the present application, but this is not expected to be a problem since field non-
+uniformity just produces non-uniform PPF generation in the interaction volume. The
+fractal membrane reflectors would still focus all the PPF at the receivers. The design
+tradeoff will be whether one or two large magnets are more cost-effective than a larger
+number of smaller magnets. The design effort will be divided into two major sub-tasks:
+off-the-shelf electromagnets currently available, and emerging-technology proposed
+magnets that may become available during the construction phase of the HFGW
+detector.
+
+DD1.7.1 Off-the-shelf hardware: Excepting major installations, iron-core magnets
+are limited to around 2T over small volumes so that superconducting magnets are
+expected to be used here. Cryogen-free (more accurately, the cryogen is completely
+enclosed and re-cycled each time the magnet is cooled for use) superconducting
+magnets producing fields up to 16T are available commercially from a number of
+manufacturers including Scientific Magnetics, Oxford Instruments, and Cryogenic Ltd.
+(all UK). As examples, Oxford Instruments can supply magnets producing 9T in a 20cm
+bore, and 5T in a 1m bore. Typically, cooling is provided by an integral Gifford-
+McMahon cryo-cooler at 4.2K. Use of a cryogen-free “dry” magnet means that there are
+no cold seals to be a source of leaks.
+
+DD1.7.2 Emerging technology: Since the detection PPF signal is directly proportional
+to the static magnetic field value, the detector sensitivity will be increased by using
+larger fields than currently-available commercial designs permit. To this end we will
+investigate the feasibility of co-developing with a third-party (for example, National
+High Magnetic Field Laboratory, Tallahassee, Florida) a custom-made high-field design
+capable of up to 35T (Bird, 2004), which may be realizable during the construction
+phase of the Li-Baker detector. If successful, achieving this value of magnetic field
+would improve the sensitivity of the Li-Baker detector by an order of magnitude. In this
+case, if a separate refrigeration system is required, the specification would include
+cryogen level-monitoring to ensure safe auto-rundown of the superconducting magnet if
+the helium level falls below a pre-set value, to reduce the danger associated with
+cryogenic-system related magnet failure. .|
+
+Systems Engineering Tasks
+
+Following the completion of the Li-Baker detector development tasks, plans and
+specifications will be drawn up by LSU in collaboration with TSC. Since overlap of tasks
+is possible, approximately 18 months will be allowed for the detector design, and
+approximately 8 months for the preparation of plans and specifications. With
+approximately two months overlap of the major tasks, a total of two years will be
+scheduled for the detector’s design and development of the plans and specifications.
+Fig. 4.1a shows a Gannt chart for scheduling the project. For any large engineering
+project, coordination among investigators is important for the development of a
+coherent, unified design. This is the role of systems engineering tasks, depicted at the
+top of Fig. 4.1a. In the present case, the development of the detector will demand the
+close coordination of the detection link budget very early on, in order to carefully guide
+the component design for each of the component areas, and to ensure that the
+sensitivity goals can be met. This task culminates in a review of the predicted signal-to-
+noise ratio. A follow-on to this task is the development of key component requirements
+Interface requirements development is the next level of detail in systems engineering
+
+50
+UNCLASSIFIED/ (EQOR.O5ELGid-USE-ONTY

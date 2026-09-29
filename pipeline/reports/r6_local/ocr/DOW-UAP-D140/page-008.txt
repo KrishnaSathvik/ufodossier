@@ -1,0 +1,47 @@
+UNCLASSIFIED//EOR OEEICI0L Llili QI\IL¥ 
+rotating rods, laboratory HFGW generation, and so forth is based upon the "jerk" or 
+shake of mass (time rate of change of acceleration) and is derived by Baker (2006) as 
+P = 1.76x1Q -52 (2r.M/6t) 2 W (1) 
+where Pis the power of the GWs, W; r is the distance between two masses, m; Mis a 
+change in force, N; over the time interval 6t, s; that is, the jerk or shake of the two 
+masses, such as the change in centrifugal force vector with time; for example, as 
+masses move around each other on a circular orbit. Figure 2 describes that situation. 
+Please recognize, however, that M need NOT be a gravitational force (see Einstein, 
+1918; Infeld quoted by Weber 1964, p. 97; Grishchuk 1974). Electromagnetic forces 
+are more than 1035 larger than gravitational forces and should be employed in 
+laboratory GW generation. As Weber (1964, p. 97) points out: "The non-gravitational 
+forces play a decisive role in methods for detection and generation of gravitational 
+waves ... " Equation (1) is also termed "quadrupole formalism" and holds in weak 
+gravitational fields (well over 100 g's), for speeds of the generator "components" less 
+than the speed of light and for r less than the GW wavelength. This last restriction may 
+not really apply. Certainly there would be GW generated for r greater than the GW 
+wavelength, but the quadrupole formalism might not apply exactly. For very small 6t, 
+the GW wavelength, AGw = c6t (where c ~3x 108 ms-1, the speed of light) is very small 
+and the GW frequency VGw is high. As a numerical example, r is choosen to be 10 m 
+(convenient laboratory size, though usually greater than AGw), M = 4x 108 N; for 
+example, the force produced by a large number of piezoelectric resonators and M = 
+2x 10-10 s; equivalent to about a VGw = 5 GHz jerk or shake frequency so that AGw = 6 
+cm and P = 2.8x 10-13 W or 0.28 picowatts. Clearly a very small HFGW power is 
+generated. 
+GW 
+GW 
+A I 
+[ 
+A 
+~~----------8 ___ ! __ __._f...=Cf"---!Y 
+fct r I 
+I 8 
+I 
+l 
+' 
+I I 
+I 
+GW I 
+T 
+GW 
+Figure 2. Change in Centrifugal Force of Orbiting Masses, dfct, Replaced by Change in Tangential Force, 
+df,, to Achieve HFGW Radiation 
+One of the first suggested means for the laboratory generation of HFGWs was the so­
+called gaser analogous to the laser for light. Simply described (Halpern and Laurent, 
+UNCLASSIFIED/ /FOR OEEICIJ.b HSI!! Dflti 
+3

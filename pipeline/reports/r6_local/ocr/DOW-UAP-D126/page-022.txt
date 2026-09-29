@@ -1,0 +1,47 @@
+UNCLASSIFIED/ /FOR OFFl@IAL YSE OHL¥ 
+potentials, with the ring magnetically insulated against breakdown by the magnetic field 
+of a large toroidal current flowing through the ring. It is here proposed to give the 
+spacecraft a topologically equivalent shape, using the entire spacecraft for the 
+electrostatic energy storage (see Figure 4 ). There toroidal currents flowing azimuthally 
+around the outer shell of the spacecraft not only magnetically insulate the spacecraft 
+against the surrounding electron cloud but also generate a magnetic mirror field that 
+can reflect the plasma of the exploding fusion bomb. In addition, the expanding bomb 
+plasma can induce large currents, and if these currents are directed to flow through 
+magnetic field coils positioned on the upper side of the spacecraft, electrons from there 
+can be emitted into space surrounding the spacecraft by thermionic emitters placed on 
+the inner side of these coils, inductively charging (Reference 12) the spacecraft for 
+subsequent proton beam ignition pulses. A small high-voltage generator driven by a 
+small onboard fission reactor can make the initial charging, ejecting from the spacecraft 
+negatively charged pellets. 
+With the magnetic insulation criterion E < B ( E,B, in electrostatic units, esu), where Bis 
+the magnetic field surrounding the spacecraft measured in gauss, then for B= 104G, 
+E = 3 x l03 esu = 9 x 105 V/cm, one has E-(1/ 3)B, hence E < B. A spacecraft with the 
+dimension / - 3 x l03 cm can then be charged to a potential El- 3x l09 volts, with the 
+stored electrostatic energy on the order of & - (£2/ 8,r) [3 • 
+For E = 3x 103 esu and l = 3x 103 cm, & is on the order of 1 gigajoule. The discharge 
+time is on the order of r -1/c, where c = 3x l0'0 cm/s is the velocity of light. In our 
+example, we have r - 10-7 sec. For a proton energy pulse of 1 gigajoule, the beam 
+power is 3x l016 erg/s = 30 petawatts, large enough to ignite a pure deuterium 
+explosion. 
+Lifting of Large Payloads Into Earth Orbit 
+To lift large payloads into Earth orbit remains the most difficult task. For a launch from 
+the Earth's surface, magnetic insulation inside the Earth's atmosphere fails, and with it 
+the proposed pure deuterium bomb configuration. A different technique is suggested 
+here, one I had first proposed in a classified report dated January 1970 (Reference 9), 
+declassified in July 2007, and thereafter published (Reference 17). A similar idea was 
+proposed in a classified Los Alamos report, dated November 1970 (Reference 18) and 
+declassified in July 1979. In both cases the idea is to use an expendable laser for the 
+ignition of each nuclear explosion, with the laser material thereafter becoming part of 
+the propellant. The Los Alamos scientists had proposed to use an infrared carbon 
+dioxide (CO2) or chemical laser for this purpose, but this idea does not work, because 
+the wavelength is too long and therefore unsuitable for inertial confinement fusion. I 
+had suggested an ultraviolet argon ion laser instead. However, since argon ion lasers 
+driven by an electric discharge have a small efficiency, I had suggested a quite different 
+way of pumping it, illustrated in Figure 5. There the efficiency can be expected to be 
+quite high. It was proposed to use a cylinder of solid argon, surrounding it by a thick 
+cylindrical shell of high explosive. If simultaneously detonated from outside, a 
+convergent cylindrical shockwave is launched into the argon. For the high explosive, 
+one may choose hexogen with a detonation velocity of 8 km/s. In a convergent 
+cylindrical shockwave, the temperature rises as r ·0A , where r is the distance from axis 
+UNCLASSIFIED/fFOR OFFI&I.t.L YSE OHLl/ 
+16

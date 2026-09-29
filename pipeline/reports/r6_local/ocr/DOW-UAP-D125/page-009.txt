@@ -1,0 +1,50 @@
+UNCLASSIFIED/ /P"Olt OP"P"lelAL tt!I!! er•tY 
+of various loss channels such as hitting the grid, charge exchange, or up-scattering in 
+energy, the ions would be prematurely trapped in the potential well until they fused. 
+The conventional requirement for fusion confinement is given in terms of the 
+confinement parameter, nt, where n = the ion density and t is the confinement time. 
+Also the ion energy (or temperature T) must be in the 20 or more keV range assuming 
+D-T fuel. For breakeven, J. Lawson developed his famous "criterion" nt = 1014 cm·3-sec 
+at T > 15 keV for DT fusion. Here t = energy confinement time, sec; n = ion density, 
+cm·3 and T = ion "temperature" or average energy. 
+The Lawson criter ion is independent of the confinement method, but does depend on 
+the fuel via the selection of cross sections in the derivation. Magnetic confinement is 
+generally limited to n ~ 1014 cm·3 by pressure balance. Then a confinement time • of~ 
+1 sec is required. For Inertia Confinement Fusion (ICF) or "laser fusion", compression of 
+targets can achieve n N 1024 , so a confinement time of only 10-10 sec is need 
+(corresponding to the disassembly time of the compressed target). (For a general 
+review of energy breakeven requirement for D-T fusion and other fuels like D-3He and 
+p-118, the reader referred to: G. Miley, Fusion Energy Conversion, American Nuclear 
+Society, La Grange, IL 1973). 
+Now consider the IEC. In principle, the ions focused on the center of the IEC can 
+achieve a density of n ~1016 , giving a required confinement time of 10-2 sec for DT 
+fusion breakeven. This time can be restated in terms of the number of ion recirculations 
+in the IEC potential well by dividing the well diameter by the average velocity of the 
+recirculating ion. In later cases discussed in this report, this number is typically quite 
+large, usually N1000 recirculations. Achievement of this large number of recirculations 
+requires strong reduction of all of the loss channels noted earlier. Grid losses can be 
+reduced by STAR mode operation discussed later where the recirculating ions possess 
+beam-like trajectories passing through the center of the grid opening. The ideal, 
+however, is the elimination of the grid altogether which can be done via formation of 
+virtual potential structures, originally proposed by Farnsworth and discussed in 
+following sections. The temperature requirement also leads to a fundamental difference 
+in the IEC physics vs. other confinement approaches. (Note that "temperature" is not a 
+proper term here since it implies an equilibrium distr ibution while the IEC is far from 
+that with its beam-like ions. Thus, the reader should view "temperature" as meaning 
+average energy of the ions. In doing that, however, it is assumed that the ion energy 
+distribution is known so that averaging is possible). Most ions in the IEC are born near 
+the chamber wall so are accelerated to an energy close to the applied voltage on the 
+grid during the extraction process. A reasonable estimate is that the ions reaching the 
+fusion region in the center have an energy near 80 percent of the grid voltage on 
+average. Thus it becomes relatively easy to achieve the Lawson D-T requirement by 
+applying a voltage of~ 25 kV. In fact most IEC neutron sources discussed later operate 
+at voltages > 80 kV to get into an energy range giving a higher fusion cross section. In 
+sharp contrast, magnetic fusion devices struggle to obtain a temperature in the 10 keV 
+range since the entire plasma population must be heated (vs. direct ion acceleration in 
+the IEC) due to the equilibrium distribution maintained in these plasmas. Another very 
+important point is that Lawson assumed that the ions and electrons were in thermal 
+equilibrium, at the same temperature, T. This is a reasonable approximation for 
+magnetic confinement, but not so for the IEC. In the latter, the electrons form a 
+"distorted" Maxwellian distribution at an effective temperature well below that of the 
+UNCLASSIFIED/ /FOR &FFICI0~ 1155 AN! X 
+2

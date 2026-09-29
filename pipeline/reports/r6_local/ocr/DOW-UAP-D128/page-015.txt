@@ -1,0 +1,46 @@
+UNCLASSIFIED//FOR: OFFIEIAL WSE &••LY 
+cases...Cash-Landrum 1987). These cases and all other clinical data in this report are 
+HIPAA - protected.v ii 
+One of the outcomes from exposure to, say, ionizing radiation due to any of the above 
+phenomena is damage to cellular DNA [16). This hazard is one of the daunting 
+challenges to be met and overcome even when it comes to consideration of such 
+human-oriented activities as spaceflight for extended periods of time [17]. Fortunately, 
+the understanding of DNA structure and mechanisms has progressed to the point that 
+techniques for characterizing DNA are being routinely applied in such civilian 
+applications as crime scene investigations and paternity testing [ 18). 
+Chapter Three: How Damage Occurs 
+The term radiofrequency when applied to the electromagnetic spectrum covers the 
+frequency range 100 kHz-300 GHz; the term microwave is applied to the frequency 
+range 300 MHz-300 GHz. The range 300 MHz-3 GHz (wavelengths 1 m-10 cm) is 
+termed ultrahigh frequency and includes cellular telephones, television broadcasting, 
+and microwave ovens (2-45 GHz). The range 3 GHz-30 GHz (wavelengths 10 cm-I cm) 
+is termed super high frequency and includes radar, satellite, and other microwave 
+communication systems. 
+The effects on humans of ultrahigh frequency and superhigh frequency are primarily 
+those of heating. The rate at which the energy of radiofrequency radiation is absorbed 
+in body tissues is described as the specific absorption rate (SAR) expressed in watts per 
+kilogram (W/kg) and depends on the frequency (Hz) and the power density expressed 
+in watts per square meter (W/m 2), which can be described as the power crossing unit 
+area normal to the direction of wave propagation. 
+An area that is unique, and murky, is that of 60 Hz electric field induced by High Power 
+(HP) generators presenting whole-body irradiation of 1,000 V/m and 5,000 V/m. 
+Healing and rapidly dividing tissues were seen to have growth retarded, and anaplasia 
+and disorganization in connective tissue fibroblasts and otherwise normal cells in the 
+higher, but not the lower fields [19). The study, part of a large effort by the DOE has 
+been largely ignored: the data for the lower field effects that have created a large bone 
+and tissue - healing industry. 
+The deposition of radiofrequency energy in body tissues varies with absorption 
+characteristics, which depend to a considerable extent on water content. Tissues such 
+as blood, skin, muscle, brain, and peripheral nerves will absorb much more energy than 
+fat and bone. The result is that much of the incident radiofrequency energy tends to 
+pass through the surface fatty tissue where it is deposited in the deeper tissues such as 
+muscle and brain. 
+The figure below shows that based on the absorption characteristics of the human body 
+radiofrequency can be subdivided into four regions. The frequency involved in the 
+exposure of the antenna engineers introduced in the preface of this paper (785 MHz) is 
+vii HIPAA = Health Insurance Portability and Accountability Act, passed in 1996 provides absolute privacy protection 
+for written, electronic, and verbal medical information obtained by health professionals and systems. Additional 
+examples of HIPAA and several hundred cases now being coded for clinical medical diagnoses in a parallel study by 
+the author is underway and described in Appendix C. 
+UNCLASSIFIED/fFOA OFFIQIAL: Wili QP◄ IL:¥ 
+8

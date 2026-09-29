@@ -1,0 +1,43 @@
+UNCLASSIFIED/ /FOR: orr1e1J1tt Y!H: e .. tv 
+CHRONIC NEURAL IMPLANTS AND FMRI 
+While developing microelectric neural chips for functional studies appears revolutionary 
+on the surface, it only presents a piece to the greater puzzle of understanding the 
+feasibility between neuroprosthetic chips and BMI development. For a BMI system to 
+succeed, researchers must understand the brain, its regions of activity and how those 
+area correlate to real time stimulation and neural responses, and how the brain may 
+evolve with training on use of the BMI. This will require the employment of sensitive 
+neural mapping devices such as fMRI. 
+~ II{ 
+I 
+! Ill 
+t , 
+i: 
+0 
+..J 
+04-1.eft 
+Figure 6. Implant Location. Cartoon shows location and orientation of the different electrode sites in the various 
+layers of an animal's neocortical implant (layer thicknesses are approximately scaled). The gray band is the 200µm 
+separation region between the upper and lower layers of the neocortex. 
+To address this question, studies performed by Parikh et al., have targeted tissue­
+specific layers within the motor cortex region, essentially a modified ECoG, where 
+penetrating microelectrodes exh ibit the greatest functionality in cortical prosthetic 
+design (Reference 47). The interesting parameter of this experimental design is its 
+ability to successfully employ a behavioral task paradigm where electrodes could 
+accurately record brain activity and animal response based on audible and visual cues. 
+With this information the researchers discovered that the lower layers of the cortex are 
+more likely to encode directional information as compared to units in the upper layers. 
+This understanding has prompted the use of prosthetic neural implants as critical 
+instruments for developing accurate BMI models and the mapping all neurological 
+(brain triggered) responses. 
+For these experiments, accurate measurement of responses was placed solely into the 
+unique design of chronic implantable neural prosthetic devices . These devices enabled 
+investigation of activity in the upper or lower brain tissue layers, including whether 
+either had a preference for ipsilateral (same body side) versus contralateral (opposite 
+side of body) movement. In addition, chronic neural implants prov ided an innovative 
+method to target isolated brain regions. During this experiment a craniotomy was 
+performed over the target cortical area. In this procedure, a 2 mm diameter hole is 
+made into the skull to expose the dura mater. This dura matter is then removed to 
+reveal the cort ical surface. An electrode scaffold array is inserted by hand with the use 
+of fine PTFE-coated forceps into the target cortical area. Typically, the electrode will be 
+UNCLASSIFIED/ /F8R 8FFl@IJltL Y!H! 8,.L'I 
+16

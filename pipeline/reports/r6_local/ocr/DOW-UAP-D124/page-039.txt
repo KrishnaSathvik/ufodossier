@@ -1,0 +1,46 @@
+UNCLASSIFIED/ /POlt err1e11et U.!I! 9flt I 
+Gross weight trends are shown for five different takeoff wing loadings for horizontal 
+takeoff and landing (HTOL). Solutions for constant wing loading are shown for values 
+of tau from 0.2 to 0.063. The curves sweep upward between tau = 0.2 and tau = 
+0.063 and are variable tau solutions for a fixed takeoff wing loading . The curve for 200 
+lb/ft 2 never converged at tau = 0.063 and is almost vertical. So if 185 knots is an 
+acceptable takeoff speed, then the maximum weight ratio without significant weight 
+penalty over vertical takeoff is about 5.6 ( 40 years ago, Dwight Taylor of McDonnell 
+Aircraft determined the point to be a weight ratio of 5.5). This excludes conventional 
+rockets but does permit high-performance air-breathing rockets and the KUN cycle. 
+The point at which the VTOHL and HTOL modes have the same gross weight is then the 
+maximum weight ratio for which there is no penalty for horizontal takeoff. For 
+example, at a takeoff wing loading of 976 kg/m 2 (200 lb/ft 2), the point at which the 
+VTOHL and HTOL modes have the same gross weight is for a weight ratio of 5.5, or an 
+air-breathing speed of mach 6 ± 0.3. For a takeoff wing loading of 610 kg/m 2 (125 
+lb/ft 2), the VTOHL/HTOL boundary is now a weight ratio of 4.3, or an air-breathing 
+mach 10.5 ± 0.5. This wing loading would be consistent with that of commercial 
+transports and is also correct to air launch horizontal landing at about mach O. 72 and 
+35,000 feet. For a takeoff wing loading of 464 kg/m 2 (95 lb/ft 2), the VTOHL/HTOL 
+boundary is now a weight ratio of 3.4, or an air-breathing mach 13 ± 1.0. 
+For an air-breathing rocket, a mass ratio of 5.0 is achievable, resulting in a gross 
+weight of about 230 tons. This is less than half the 480 tons for an all-rocket case. 
+However, if a horizontal takeoff requirement is imposed a priori, the lowest wing 
+loading for which a practical solution exits is 610.2 kg/m 2 . At that point, the gross 
+weight for the horizontal takeoff solution is about 800 tons, almost twice the all-rocket 
+value. If a study team is not aware of the comparison to vertical takeoff, it may draw 
+the improper conclusion that the propulsion system caused the divergent solution. For 
+lower wing loading, the solution curve becomes vertical, and the solution will not 
+converge. The conclusion is that if the weight ratio is greater than 4.3, the best vehicle 
+configuration is vertical takeoff or an air-launched configuration (all of the vehicles have 
+a horizontal landing mode). If the goals are the lowest gross weight and the smallest 
+sized vehicle, then it is important to let the characteristics of the converged solution 
+themselves determine the takeoff and landing modes. To translate the takeoff wing 
+loading into takeoff speed and the landing wing loading (operational weight empty plus 
+10-percent margin, so the launcher can return with payload and fuel residua ls 
+onboard), use legacy correlations from McDonnell Advanced Engineering. The 
+equat ions for landing and takeoff speeds are given below: 
+{VTO ) knots = J227.114 • LTO 
+(4)
+173.675• LTO (Yw) 1uiots = J173 .675•LLD = WR 
+As pointed out previously, an a priori selection of horizontal takeoff (HTO) can have a 
+very deleterious effect on the weight and size of an SSTO launcher. For example, a 
+VTOHL air-breather propulsion concept should have a gross weight of 300 to 325 metric 
+tons at takeoff, compared with 750 tons for an all-rocket VTOHL propulsion concept . A 
+UNCLASSIFIED/ /FOR: OffISI.t.k W&liii &NL¥ 
+32

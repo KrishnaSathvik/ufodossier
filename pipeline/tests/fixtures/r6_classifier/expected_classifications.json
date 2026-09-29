@@ -1,0 +1,102 @@
+{
+  "generated_for": "V2-R6-CLASSIFIER-REGRESSION",
+  "note": "Content-signal fixtures; OCR heads only. No filename DIRD shortcuts.",
+  "documents": [
+    {
+      "filename": "DOW-UAP-D104.pdf",
+      "external_id": "DOW-UAP-D104",
+      "document_class": "personnel_record",
+      "contains_incidents": false,
+      "extraction_action": "source_only",
+      "role": "negative_fixute"
+    },
+    {
+      "filename": "DOW-UAP-D124.pdf",
+      "external_id": "DOW-UAP-D124",
+      "document_class": "research_paper",
+      "contains_incidents": false,
+      "extraction_action": "source_only",
+      "role": "negative_fixute"
+    },
+    {
+      "filename": "DOW-UAP-D126.pdf",
+      "external_id": "DOW-UAP-D126",
+      "document_class": "research_paper",
+      "contains_incidents": false,
+      "extraction_action": "source_only",
+      "role": "negative_fixute"
+    },
+    {
+      "filename": "DOW-UAP-D127.pdf",
+      "external_id": "DOW-UAP-D127",
+      "document_class": "research_paper",
+      "contains_incidents": false,
+      "extraction_action": "source_only",
+      "role": "negative_fixute"
+    },
+    {
+      "filename": "DOW-UAP-D137.pdf",
+      "external_id": "DOW-UAP-D137",
+      "document_class": "research_paper",
+      "contains_incidents": false,
+      "extraction_action": "source_only",
+      "role": "negative_fixute"
+    },
+    {
+      "filename": "DOW-UAP-D140.pdf",
+      "external_id": "DOW-UAP-D140",
+      "document_class": "research_paper",
+      "contains_incidents": false,
+      "extraction_action": "source_only",
+      "role": "negative_fixute"
+    },
+    {
+      "filename": "DOW-UAP-D142.pdf",
+      "external_id": "DOW-UAP-D142",
+      "document_class": "research_paper",
+      "contains_incidents": false,
+      "extraction_action": "source_only",
+      "role": "positive_control"
+    },
+    {
+      "filename": "DOW-UAP-D143.pdf",
+      "external_id": "DOW-UAP-D143",
+      "document_class": "research_paper",
+      "contains_incidents": false,
+      "extraction_action": "source_only",
+      "role": "positive_control"
+    },
+    {
+      "filename": "DOW-UAP-D144.pdf",
+      "external_id": "DOW-UAP-D144",
+      "document_class": "research_paper",
+      "contains_incidents": false,
+      "extraction_action": "source_only",
+      "role": "positive_control"
+    },
+    {
+      "filename": "DOW-UAP-D145.pdf",
+      "external_id": "DOW-UAP-D145",
+      "document_class": "research_paper",
+      "contains_incidents": false,
+      "extraction_action": "source_only",
+      "role": "positive_control"
+    },
+    {
+      "filename": "DOW-UAP-D150.pdf",
+      "external_id": "DOW-UAP-D150",
+      "document_class": "research_paper",
+      "contains_incidents": false,
+      "extraction_action": "source_only",
+      "role": "positive_control"
+    },
+    {
+      "filename": "DOW-UAP-D153.pdf",
+      "external_id": "DOW-UAP-D153",
+      "document_class": "research_paper",
+      "contains_incidents": false,
+      "extraction_action": "source_only",
+      "role": "positive_control"
+    }
+  ]
+}

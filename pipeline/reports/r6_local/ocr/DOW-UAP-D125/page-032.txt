@@ -1,0 +1,46 @@
+UNCLASSIFIED/ ,'FOR 8ffl@IAL t.1!11!! 8HLY 
+are observed. For example, with the device of Figure 3.2b, the input power is about 2 
+kW with over 1.5 kW being carried out by the jet flow. Consequently, this configuration 
+provides a way to efficiently convert the energy stored by accelerated ions in the 
+symmetric microchannels into a directed beam or jet. 
+Comparison to a Conventional "Plasma " Thruster 
+The IEC thruster can be viewed as transforming a conventional ion thruster into a 
+spherical form. In the IEC thruster of Figure 3.2b, ions are produced in the gas 
+discharge region through the injection and oscillation of electrons about a guide grid 
+that is held to a slightly positive potential. A second grid extracts ions from the 
+discharge region and accelerates them towards the center of the device. This type of 
+ion formation in the IEC has been studied extensively by workers at Nambe Tech, a 
+"spin-off" company by LANL workers (Reference 3.8). In the case of a planar thruster, 
+ions are also formed in a discharge region. However, instead of a guide grid, a 
+magnetic field is used to contain electrons, providing a long path to maximize ionization 
+collisions. The ion source regions are basically the same, then, for both IEC and planar 
+ion thrusters, and the extraction/acceleration provided by the grids and the magnetic 
+fields play equivalent roles in the respective devices. However, the IEC jet thrnster 
+concept must extract a net thrust from the spherical! configuration. That is where the 
+two concepts (planar vs. IEC) diverge, and the star-jet operational mode becomes 
+essential. The micro-channel formation in the STAR mode acts to maintain and store 
+the accelerated ions until they are diverted directionally and escape out through the 
+plasma jet opening . The opening is biased, enabling the control of the potential gradient 
+between the grid and the opening, hence allowing for increased control of the intensity 
+of the plasma jet. 
+The maintenance of STAR mode is then fundamenta I to the success of !EC jet 
+operation. Both experimental data and particle-in-cell (PIC) code simulations show that 
+the energetic ions can be maintained in microchannels for hundreds of passes. The jet 
+opening allows escape into it in less than ten passes. Consequently, a majority of the 
+ions, >95 percent, escape at full energy. Thus, the star -jet provides an amazingly good 
+method to both store and direct the energetic ions. 
+Overall, the IEC configuration offers distinct advantages. First, the grid structures used 
+in the IEC thruster are much more open than those used in the conventional planar 
+thruster designs. When combined with microchanne l ion focusing, this prevents ion-grid 
+collisions, greatly reducing grid erosion and significantly increasing the thruste r lifetime. 
+Second, transforming the device into a sphere makes the overall unit more compact per 
+unit -ion-source volume, implying a weight reduction advantage. Third, unwanted 
+neutral propellant gas leakage would be reduced, due to the smaller net opening 
+required by the high-density jet, vs. a conventional planar thruster having multiple grid 
+openings. This advantage becomes especially important for thruster applications. 
+Assuming that the IEC thruster efficiency would be comparable to that of the planar Ion 
+thruster design, based on these operational improvements, the !EC thruster then offers 
+significant advantages. [Note that an alternate !EC thruster concept is described later in 
+the section on J. Khachan's work. It too looks very promising.] 
+UNCLASSIFIED/ /5i0A 05i5ilCIAk Wii Ql\lk¥ 
+25

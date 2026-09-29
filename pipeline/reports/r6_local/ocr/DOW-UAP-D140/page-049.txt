@@ -1,0 +1,51 @@
+UNCLASSIFIED//iiOlil OiiiilCI0L Llili QPIL¥ 
+Appendix A: Nomenclature 
+A amplitude of gravitational wave, metric strain in spacetime, m/m 
+B bandw idth, s-1 
+B magnetic field strength, Tesla 
+C speed of light in vacuum (2.998 x 108 ms-1) 
+C maximum rate of information transfer, bits per second (bps), s-1 
+dt time of future measurement, s 
+E effective energy contained within the detector cavity summed over the detection 
+averaging time, J 
+FGw gravitational-wave flux, Wm-2 
+h strain, m/m 
+hdet (strain) detect ion limit, m/m 
+i] Planck's reduced constant 1.055 x 10-34 Js 
+N noise, wm-2 
+N number of linearly arranged GW radiation elements, integer 
+Nphase number of phase space cases to check for acquisition, integer 
+Ntreq number of frequency cases to check for acquisition, integer 
+Ncode number of code sync possibilities to check, integer 
+n number of pairs of oppositely jerking at one-time mass elements, integer 
+p power of the generated gravitational waves, W 
+Q temporal quality factor or selectivity of the signal-to-noise ratio, dimensionless 
+R range, m 
+Rcvrl receiver 1 
+Rcvr2 receiver 2 
+Rr receiver antenna power efficiency, dimensionless 
+Rx. radiated power efficiency, dimensionless 
+s signal strength, wm-2 
+Si input signal strength, wm-2 
+So output signal power, W 
+r distance between two jerking-mass, gravitational-wave radiation elements, m 
+T propagation or transmission-factor losses, dimensionless 
+ta acquisition test time per test case, s 
+tint integration or signal averaging time, s 
+Xmit1 transmitter 1 
+Xmit2 transmitter 2 
+b,.f change in force of a jerking-mass, gravitational-wave radiation element, N 
+b.p momentum uncertainty, kg-ms -1 
+b.t time interval, s 
+D..x initial position uncertainty, m 
+conversion efficiency (ratio of power of the EM input signal to power of the GW 
+signal generated), dimensionless 
+conversion efficiency (ratio of power of the GW input signal to power of the EM 
+signal generated), dimensionless 
+wavelength, m 
+VGW gravitational-wave frequency, s-1 
+(j) frequency of sensed gravitational waves, s-1 
+W1 transmitting frequency, s-1 
+W2 receiver-sensitivity frequency, s-1 
+44 
+UNCLASSIFIED/ /FOR OiiiilCl.t.k HSI!! eflti

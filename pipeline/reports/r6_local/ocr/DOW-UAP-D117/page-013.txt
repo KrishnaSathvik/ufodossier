@@ -1,0 +1,53 @@
+UNCLASSIFIED / / EOR.ObbLGiAiSE-ONEY
+
+Table 2. Comparison of Strengths of Amorphous and Crystalline
+Aluminum Alloys. Compared with the theoretical maximum strength
+(taken to be 1/30, where yu is the shear modulus of pure aluminum).
+
+% of Theoretical
+
+Yield Stress (MPa) Strength
+
+Theoretical
+Strength (Defect- 1,600 -
+Free Crystal)
+Typical High-
+Strength
+Aluminum Alloy
+(7xxx Series)}*
+Best Crystalline
+Aluminum Alloy!2
+Aluminum-Based
+Metallic Glass*3
+
+400-500 25-31%
+
+770 48%
+
+1,280 80%
+
+Unfortunately, the lack of dislocations in amorphous alloys is also their Achilles’ heel. In
+crystalline alloys, dislocations move and multiply in response to applied stresses,
+resulting in dislocation tangles that increase the resistance to further dislocation
+motion. This process, called strain hardening, is of crucial importance because it makes
+plastic deformation stable. If one region of a crystalline material yields and begins to
+plastically deform, the deforming region strain hardens, and so another region will
+deform instead. The result is that the plastic deformation is not concentrated but rather
+spreads through a large volume of material. Metallic glasses, lacking dislocations, do
+not strain harden and in fact strain soften in response to plastic deformation. This
+means that as soon as any one region yields, any further deformation will occur in the
+same region. This process, Known as shear localization, leads to the formation of shear
+bands (Figure 4). In any loading geometry where the metallic glass experiences
+significant tensile loading, fracture occurs on a single dominant shear band with
+essentially zero tensile ductility.2 Metallic glasses therefore fracture in an abrupt,
+apparently brittle manner on the macroscopic scale (even though there can be
+significant plasticity on a microscopic scale). This lack of ductility is of obvious concern
+to designers interested in structural applications. Furthermore, it limits the ability to
+fabricate metallic glasses into different shapes by deformation processing (by rolling or
+forging, for instance) after casting.
+
+2 This assumes there is no geometrical constraint preventing fracture. Some geometries (such as simple bending)
+can involve tensile loading, but there can still be significant plastic deformation because the geometrical constraints
+inhibit propagating of shear bands across the specimen.
+
+UNCLASSIFIED / / F@-R-OFFL6PA+L-USE-ORY

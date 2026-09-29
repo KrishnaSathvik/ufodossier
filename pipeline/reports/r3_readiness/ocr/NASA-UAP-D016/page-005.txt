@@ -1,0 +1,39 @@
+TABLE OF CONTENTS 
+Paragraph Page Number 
+1. 0 COUNTDOWN 
+1 . 1 Crew Insert ion . ... ................... . . . .. . 1 
+1. 2 Cornmlll1ications . . . . . ............... .. ... . .. .. 2 
+1. 3 Crew Participation and Countdown.... ..............-..6 
+1.4 Comfor t . ....................... . .7 
+1. 5 Environmental Control System .................... ' ..... . ,9 
+1. 6 Sounds ...... . .... 11 
+1. 7 Vibrations .. . . ... 13 
+1. 8 Visual .. . ....... .. . . ... 13 
+1.9 Crew Station Controls and Displays .1 5 
+2. 0 POWERED FLIGHT 
+2 . 1 Lift - Off Cues ....................... 17 
+2. 2 Roll Program 
+2.3 Pitch Program ... . ..... 19 
+2. 4 Aerodynamics .... . 20• • M • • 
+2. 5 Environmental Control System . .... "" ............... 20 
+2. 6 Maximum g ....... . ....... 21 
+2. 7 Windshear ...... . . . ...... 21 
+2. 8 DCS Update ........................ 22• • • • • • • M. • 
+2. 9 Engine 1 Operation ..... . 22 
+2. 10 Engine 2 Status .. . .23 
+2.11 Accel eration g's .. . . ........ 23 
+2. 12 BECO ........ . ...... . . ........ 24 
+2. 13 Staging . . . ...... . .. .................... 25 
+2. 14 Engine 2 Ignition . .. 25 
+2. 15 RGS Initiate .... . ... 26 
+2. 16 GO/NO GO . ............. . ................. . .. 28 
+2.17 Systems Status ........ . ' .... . ..... 28 
+2 . 18 Acceleration ................... . . .. .. 31 
+2.19 SECO. ....... . ...................... . .... 31 
+2. 20 Steering ....................................... . . .. .... 32 
+3.0 INSERTION 
+3.1 Post -S.EDO •... 34 3.2 SECO + 20 Seconds ................ .. 35 
+3.3 Insertion Activities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38 
+ORBITAL FLIGHT 
+4. 1 Sta tion- Keeping ....... .... .. ......... . .......... ... 50 
+4.2 Extravehicular Activities ............ . . ......... - .. 87

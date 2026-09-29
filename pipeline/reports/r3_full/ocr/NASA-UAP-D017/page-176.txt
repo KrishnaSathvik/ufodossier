@@ -1,0 +1,45 @@
+168
+
+9.2 Apollo Yaw Orientation
+
+White
+
+MecDivitt
+
+White
+
+MeDivitt
+
+Okay, I'l] probably go into this a little bit, and
+then we can go over the data on it. This was a
+fairly simple test. All we did was start at a zero-
+zero reference and establish rates of 3 degrees/
+second simultaneously in all axes. We had a sec-
+ondary objective, to see when we established these
+rates and put them in three axes simultaneously if
+we got a scanner ignor light. And I'll clear that
+one up realy quick. We put them in at two different
+times and neither time did we get a scanner ignore
+light. We did this at night the first time, didn't
+
+at
+
+we? That was really the only time we did it.
+
+Just the night one. That's right.
+
+That's right. We did it once at night. I estab-
+lished the rates in three axes and allowed them to
+build up for about 30 seconds. Then, I told Jim
+
+to go ahead and take control of the spacecraft, and
+using visual references to move to a retrofire at-
+titude.
+
+I did this in Pulse Mode, I believe, because we were
+trying to save fuel. I think I did it in Direct,
+
+put I did not do it in Rate Command. I did it in
+
+Direct. The first thing I did was try to find the
+horizon so I would have some reference point to

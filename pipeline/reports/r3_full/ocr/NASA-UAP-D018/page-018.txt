@@ -1,0 +1,74 @@
+M-913-65-04
+
+8. MSC-1, Electrostatic Charge
+
+Before rendezvous missions are
+
+attempted, an investigation MSC-1
+must be made of the possibility ELECTROSTATIC
+of inadvertent ignition of
+
+pyrotechnics and other detri- CHARGE
+mental effects due to discharge >
+of electrostatic charge potentials
+
+during rendezvous. In this
+
+experiment, an electrostatic-
+
+potential meter, which protrudes
+
+through the wall of the space-
+
+craft adapter assembly, will be
+
+used to detect and measure any
+
+accumulated electrostatic charge
+
+that may be created on the
+
+surface of the spacecraft by
+
+ionization from engine exhaust.
+
+This data will be analyzed to
+
+determine if the charge is adequate
+
+to create a rendezvous hazard. Fig-
+
+ure 10 shows the detector installation.
+
+9. MSC-2, Proton Electron
+Spectrometer
+
+This experiment is designed to
+
+measure the quantity and energy
+
+of protons and electrons present
+
+immediately exterior to the
+
+orbiting spacecraft. This will be
+
+accomplished by means of a PROTON
+
+scintillating-crystal, charged-
+
+particle analyzer mounted on ELECTRON
+the adapter assembly of the nt
+i Data from this SPECTROMETERG
+
+spacecraft.
+
+experiment will be used to
+correlate radiation measure-
+ments made inside the space-
+craft and to predict radiation
+levels on future space missions.
+The proton electron spectrometer
+installation is shown in Figure 11.
+
+5/24/65

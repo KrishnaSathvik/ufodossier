@@ -1,0 +1,23 @@
+the inertial velocity readout on the ga.ge and that 
+was ·beautiful 25,808 and nominal was S-.lpposed to be 
+25,80 7. You can't ask for a better calculation 
+from a computer than that, and a lot of people 
+don ' t have much faith in that thing but, I think 
+that I'll bet that the computed MCC figure isn't 
+more than a foot or two off. I t couldn ' t be 
+because everything was nominal for hours and hours 
+in the past, Day's it went that way where we 
+stayed on the flight plan to the minute, to the 
+second so I know that it was a good computation , 
+and I have the five address readouts that we read , 
+We read out address 72 as 25,808; address 94 which 
+was R dot for gamma was plus 20 feet which is 
+pretty darn small so we must have almos t a zero 
+gamma address 97 which is the forward IVI was plus 
+2 feet; address 52 was perfect , it was zero. So 
+there was no adjustment needed and if there had 
+been an adjustment needed that would ha:ve come 
+at 3 ,042 seconds on the computer if tbere had been 
+an address . 52 correction and nomina l 3,008 
+seconds so the computer computed the nomi nal thing 
+off only by less than a minute, about a half a

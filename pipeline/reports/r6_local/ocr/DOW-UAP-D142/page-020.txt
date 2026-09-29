@@ -1,0 +1,22 @@
+UNCLASSIFIED/ /FOR OFFI@IAk WSE 9Ptk\f 
+Figure 8. Experimental Apparatus for Ground State Energy Reduction Tests 
+TUNABLE CASIMIR EFFECT 
+As previously discussed, the Casimir Effect is a unique ZPF-driven quantum force that 
+occurs between closely-spaced conductive cavity walls (or plates). If left unfettered, the 
+plates will collapse together and energy is converted from the ZPF into heat (or other 
+forms of energy) in accordance with the expression El A =-rc2hc/720d3 , where EJA is 
+the energy per unit area of the plates and dis the plate separation. Investigation of this 
+mechanism by Cole and Puthoff (Reference 11) showed that this process fully obeys 
+energy conservation and thermodynamic laws. 
+Although the Casimir force is conservative, and thus the Casimir device might appear to 
+be a one-shot device, the fact that the attractive Casimir force is weaker for dielectric 
+plates compared to conductive plates raises the possibility of the use of thin-film 
+switchable mirrors to obtain a recycling engine (Reference 29-31). Figure 9 shows a 
+comparison of the strength of the Casimir force in a conductive cavity with that in a 
+dielectric cavity. In such an application the plates are drawn together by the stronger 
+force associated with the conducting state and withdrawn after switching to the 
+dielectric state. The engine cycle for this concept is shown in Figure 10. Assuming 
+optimistic conditions for practical devices (negligible energy required for switching; 
+plate separation oscillations between 30 nm and 15 nm for 1 cm 2 plates; driving circuit 
+UNCLASSIFIED/ /FOR OFFICI0L: 11ili QIU.,¥ 
+14

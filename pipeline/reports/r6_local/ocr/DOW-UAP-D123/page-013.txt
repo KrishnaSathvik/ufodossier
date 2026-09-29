@@ -1,0 +1,25 @@
+UNCLASSIFIED//POR. OFFICIAL U.!E! l>flt ( 
+Figure 8. BOMARC (left) and Talos (right) Ramjet-Assisted Missiles (courtesy Boeing and the U.S. Navy) 
+The BOMARC range cou ld be increased to 2,000 km with 1 milligram (mg) of positrons. 
+In addition, positrons could act as ordnance to destroy electronics on missiles or aircraft 
+by electromagnetic pulse (EMP) by detonation of micrograms of positrons up to 
+hundreds of meters from the target. 18 
+SINGLE-STAGE REUSABLE VEHICLE (SSRV) 
+The Department of Defense, NASA, and the aerospace industry are working to eliminate 
+multistage rockets for access to low Earth orbit (LEO) to lower launch costs. An SSRV 
+would integrate components and allow more rapid turnaround on missions. 
+The combustion SSRV has a lower payload ratio than conventional rockets. Current 
+designs use combined-cycle or combination engines for the endoatmospheric phases of 
+the mission. Use of air-breathing engines significantly reduces propellant mass and 
+gross liftoff weight (GLOW). Improv ing payload mass requires reducing propellant and 
+structural mass, both of which can be accomplished using positrons as fuel. 
+A PTRE eliminates propellant mass during the endoatmospher ic phase of operat ion . Any 
+reduction of propellant mass has serious positive effects for three reasons. First, it 
+allows an increased payload/number of passengers per aircraft. Second, adding 
+positrons on the milligram level does not change the lift requirements for the aircraft, 
+resulting in longer range flights, perhaps exceeding 100 kilonautical miles (kNM). Third, 
+the structural mass may be increased. 
+Tables 1 and 2 provide a mass budget compar ison between a chemically fueled SSRV19 
+and a positron-powered SSRV.20 
+UNCLASSIFIED/fFOA 8FFI&IAL Y!H! OHLY 
+8

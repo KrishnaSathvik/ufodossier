@@ -1,0 +1,43 @@
+UNCLASSIFIED/ i'F8R 8FFIOlsllL WSli (U•LY 
+2. General Relativistic Warp Drives 
+Alcubierre (Reference 1) derived a spacetime metric motivated by cosmological inflation 
+that would allow arbitrarily short travel times between two distant points in space. The 
+"warp drive" metric uses coordinates (t, x, y, z) and curve (or worldline) x = Xsh (t), y = 
+0, z = 0, lying in the t-x plane passing through the origin. Note that Xsh is the x-axis 
+coordinate position of the moving spaceship (or warp bubble) frame. The metric 1 
+specifying this particular spacetime geometry is (Reference 1): 
+(2.1) 
+where c is the speed of light, Vsh(t) is the speed associated with the curve (or warp 
+bubble speed), and Tsh(t) is the Euclidean distance from the curve. The warp bubble 
+shape function f (rsh) is any smooth positive function that satisfies f (0) = 1 and 
+decreases away from the origin to vanish when Tsh > R for some distance R. The 
+geometry of each spatial slice is flat, and spacetime is flat where f (rsh) vanishes but is 
+curved where it does not vanish. 
+The driving mechanism of Equation (2.1) is the York extrinsic time, 9. This quantity is 
+defined as ( Reference 1) : 
+S= v," x ," df . (2.2) 
+C ~h d,;" 
+The 9 behavior of the warp drive bubble 
+provides for the simultaneous expansion 
+of space behind the spacecraft and a 
+corresponding contraction of space in 
+front of the spacecraft. Figure 1 illustrates 
+the 9 behavior of the warp drive bubble 
+geometry. Thus the spacecraft is 
+enveloped within a warp bubble and can 
+be made to exhibit an arbitrarily large 
+faster-than-light {FTL) speed (Vsh >> c) 
+as viewed by external coordinate 
+observers. Even though the worldlines 
+inside the warp bubble reg ion are 
+spacelike for all external observers, the 
+moving spaceship (warp bubble) frame 
+itself never travels outside of its local 
+comoving lig ht cone and thus does not 
+violate special relativity. Figure 1. York Extrinsic Time (S.} Plot 
+1 A spacetime metr ic (ds2), or line element, is a Lorentz -invar iant distance function between any two points in 
+spacetime that is defined by ds2 = 9a,-d><" dx'', where g,"' is the metric tensor which is a 4 x4 matrix that encodes the 
+geometry of spacetime and dX" is the infinitesimal coordinate separation between two points. The Greek indices (µ, 
+v = 0... 3) denote spacetime coordinates, x0...x3, such that x1...x3= space coordinates and xD = time coordinate . 
+UNCLASSIFIED//FOR OFFIGl,1L W&i &~•LY 
+1

@@ -1,0 +1,47 @@
+UNCLASSIFIED/ /FOR OFFl&IAk le.ISi: OPtklf 
+noninvasive techniques currently cannot resolve firing sequences of individual neurons 
+within such groups. 
+Living neurons in an active tissue fire in the rest state. Changes in the frequency of 
+these firings imply that a given neuron is currently involved in the processing of 
+information. Bulk changes in local field potential oscillations imply that several neurons 
+are active. This is the signal seen in the noninvasive direct-measurement techniques of 
+electroencephalography (EEG) and magnetoencephalography (MEG). 
+Movement as simple as an eye blink involves signal communication through a million 
+neurons. Several locales in the nervous system thus offer the possibility of placement of 
+an invasive monitoring device for detecting electrical activity associated with an eye 
+blink or other signal of interest. Many other factors will influence the placement 
+decision, but considering only catching the signal as an action potential, using any 
+neuron along the complete pathway is equally as good, assuming detection of individual 
+neuronal firing can be accomplished. 
+Considering cortical placement of detection devices, the most common area of activity 
+under study is the outer covering of gray matter of the cerebral cortex, the neocortex. 
+The neocortex is about 2. 5 mm thick in humans and follows the ridges and fissures of 
+the brain (gyri and sucli, respectively, or gyrus and sulcus, if singular). The neocortex is 
+roughly divided into six layers and different cortical probes can concentrate on activity 
+in different layers, or just measure the combined activity on the surface of the cortex, 
+or the combined activity that is detectable noninvasively through the layers of tissue 
+and bone of the cranium. 
+Detecting single firings of individual neurons is a difficult process because the signals 
+are weak to start with, and not isolated from the rest of the electrical activity within the 
+brain. Large groups of coherent neurons, perhaps a few thousand to tens of thousands 
+all firing at once in relation to an external event, are the most studied of single firing 
+signals. 2 One of the most studied signals is the so-called P300 which occurs in many 
+cognitive tasks (References 2-4). 
+P300 is a term used to indicate a pulse signal from a large group of neurons that 
+appears about 300 milliseconds after a stimulus event. Peaks that occur between 200 
+and 400 milliseconds are commonly grouped into the P300 category. The "P" stands for 
+a positive measured voltage, while "N" signals are negative. 3 The P300 signal has been 
+shown to be influenced by top-down executive function and is therefore a prime 
+candidate for a trainable interface (Reference 5). Earlier signals, like PS0 and Nl00, are 
+of a greater interest for differential diagnosis of pathology in current research. 
+The preceding discussion is greatly simplified version of the electrical dynamics of 
+neuronal firing and does not include differences between axon and dendrite signals, or 
+the transmission of signals across the synapse. Complete discussion of underlying 
+electrical signals in the nervous system can be found in (References 6, 7). 
+Indirect Neuronal Signals - The BOLD Effect 
+2 Single firing signals here mean a single peak of combined electrical activity relative to an event. This is not 
+necessarily the same as single firings of each neuron . 
+3 The literature is not consistent with plotting P signals up, and N signals down ; however, P peaks are always in the 
+opposite direction of N peaks. 
+UNCLASSIFIED/ /POil OPPl@IAL liSI!! 8HLY 
+3

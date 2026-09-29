@@ -1,0 +1,38 @@
+UNCLASSIFIED S/F OR OPPICTALT USE ONLY
+
+Master Oscillator, Power
+Amplifier (MOPA)
+
+Fiber coupled (6+1) to 1 Doped double-clad gain
+pump modules Combiner fiber,
+e>
+
+Master Oscillator (fiber High power endcap
+
+oscillator, or diode laser)
+
+Figure 22. Typical HPFL MOPA Design (courtesy of the Directed Energy Professional
+Society).
+
+Passive phasing:
+far field-filtering & coupling
+
+Microlens
+Array
+
+Fiber Laser Array Hexagonal Beam Director
+
+, MOPA: master feeds amps & active
+Spectral Beam Combining: fibers at phase control phases outputs
+Amps
+
+different wavelengths an a direction
+
+Grating, a control
+Detectors
+
+Figure 23. Fiber Laser Beam Combining Techniques (courtesy of the Directed Energy
+Professional Society).
+
+54
+UNCLASSIFIED -4602-OF26EAEUSE-ONEYT

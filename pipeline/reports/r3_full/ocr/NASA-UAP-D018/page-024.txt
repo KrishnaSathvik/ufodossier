@@ -1,0 +1,33 @@
+MANEUVER HP/HA TRANSLA-
+~v AFTER POINT OF DIRECTION TIONAL 
+MANEUVERS APPLICATION OF THRUST THRUSTER PURPOSE 
+Sepa ra tion l0FPS 87/161 N.M. SECO +2- FWD AFT S/ C-Booster Separation 
+1 ?FPS 91/161 N.M. 2d Apogee FWD FWD Adjust lifetime {for insertion dispersions. 
+Evalua te thruster operation. 
+2A 12FPS Apogee of FWD Left Ad just Iifetime. Evaluate thruster operation . 
+30th Rev. 
++TSC #1 Approx. 15 min Left Right5FPS Evaluate thruster operation. Determine visual 
+afte r 2A characteristics of thruster plume . 
+TSC #2 5FPS 5 min. a fter Down Evaluate thruster operation. Determine visualUp 
+TSC #1 c haracterist ics of thruster plume. 
+TSC #3 5 min after5FPS Down Evaluate thruster operation. Determine visualUp 
+TSC #2 characteristics of thrus ter plume. 
+27FPS 94/ 134 N.M. Perigee AFT Adjus t lifetime. Evalua te 3-axis 
+fol lowing 2A 
+28 AFT 
+application. 
+4FPS3A Apogee of FWD FWD Adjust Iifetime. Evaluate thruster operation. 
+45th Rev . 
+6FPS 93/ 124 N.M. Perigee AFT FWD Adjust lifetime. Evaluate thruster operation. 
+following 
+3B 
+1 l0FPS 62d Rev.4 45/99 AFT AFT Achieve OAMS retrofire. Evaluate thruster 
+(45/97)* {or 66th Rev. )* operation. 
+s:: 
+-b 
+(,J 
+I 
+0, 
+I °' 
+*FOR PACIFIC LANDING ~ 
++TRANSLATIONAL SYSTEM CHECK

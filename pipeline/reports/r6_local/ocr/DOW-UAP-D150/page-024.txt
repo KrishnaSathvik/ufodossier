@@ -1,0 +1,35 @@
+UNCLASSIFIED/ /EOA QFFl&Il.l l::181: 8HtY 
+temperature, some materials such as copper form a lattice that allows electrons to pair and 
+flow as a bosonic charged (2e) particle. The components of superconducting circuits can be 
+fabricated with current technology; however, decoherence times are limited to several 
+microseconds maximum due to the large size (100 micrometers) of the circuit elements and 
+thus large number of charge carriers in a qubit device (~10 10 ). Additionally, the current qubit 
+device designs only operate at the scale of l0's of mK. Superconducting elements, 
+specifically Josephson junctions, may play a role in hybrid designs such as the distributed ion 
+traps of Haffner (81), but are currently not seen as a stand-alone technology for quantum 
+computation. 
+DNA-BASED DESIGNS FOR MOLECULAR COMPUTERS 
+While traditional silicon-based circuits reach their fundamental atomic limitation, researchers 
+search for alternative mediums for computation. The most logical solution to overcome this 
+restriction in silicon-based integrated circuit architectures resides within our own bodies, 
+deoxyribonucleic acid (DNA). Living organisms also carry out complex physical processes 
+under the direction of digital information. Biochemical reactions and ultimately an entire 
+organism's operation are ruled by instruc tions stored in its genome, encoded in sequences of 
+nucleic acids. When the workings of bimolecular machines inside cells that process DNA and 
+RNA are compared to Turing's machine, striking similarities emerge: both systems process 
+information stored in a string of symbols taken from a fixed alphabet, and both operate by 
+moving step by step along those strings, modifying or adding symbols according to a given 
+set of rules. 
+Set strand 
+'Open' 
+'Closed' 
+r 
+Unset strand 
+Figure 9. A DNA nanomachine driven by repeated sequential addition of DNA control strands (82). 
+DNA Background 
+Watson and Crick may have never realized the full potential of the double helical structure 
+they identified nearly 60 years ago, (83) for little was known about this amazing molecule 
+that harnesses life. Biochemists in the late nineteenth century had found that these nucleic 
+acids, long-chain polymers of nucleotides, were made up of sugar, phosphoric acid, and 
+UNCLASSIFIED/ /FQA QFFIEIAk Wlii QNk¥ 
+23

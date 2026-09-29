@@ -1,0 +1,32 @@
+UNCLASSIFIED//POlt Offl@IAL WS& &NkY 
+Chapter 4: Antimatter Propulsion 
+Although the focus of this report is aneutronic fusion propuls ion, another possible 
+propulsion technology involves the use of antimatter. Antimatter is created in certa in 
+nuclear reactions and minute quantities have even been collected from particle 
+accelerators and stored for a short time in magnetic bottl es. Ant imatter has the highest 
+energy density of any mater ial known. When particles of antimatter and matter collide, 
+they completely annihilate and convert their mass into energy according to Einstein's 
+famous equation, E = mc2. 10 
+There are various terrestrial sources of antimatter. Positrons are created 
+spontaneously from high-energy gamma rays as they decay . Any gamma ray with an 
+energy of more than 1.022 MeV can decay by pair production where an electron and a 
+positron are generated. A positron is the antimatter counterpart to an electron and 
+carries a positive charge. Due to the difference in charge between electrons (13-) and 
+positrons (13+ ), they can be separated by magnetic fields and the positrons stored. 
+Certain radionuclides decay through the emission of an antiproton, a negatively charged 
+antimatter counterpart to a proton. If antiprotons are collected and combined with 
+positrons, stable atoms of antihydrogen are produced. Antihydrogen has been created 
+and stored in magnetic bottles. Up to 1012 antiprotons have been successfully stored 
+for days at a time. Antihydrogen can also be potentially chilled to form liquid 
+antihydrogen or "ice" to use as a rocket fuel. The specific impulse for antimatter 
+rockets (Isp/c) are 1 for electron-positron annihilation and 0.60 for proton-antiproton 
+annihilation. For nuclear fusion, lsp/c is only 0.119, followed by 0.04 for nuclear fission. 
+Antimatter could be used to heat up a propellant gas and expel it through a Laval 
+nozzle to generate thrust. If liquid hydrogen is carried onboard the spacecraft, the 
+electrons and protons in the hydrogen can be annihilated by the antimatter to generate 
+power. Annihilation products can also be reflected or directed by magnetic fields to be 
+ejected as exhaust from the rocket to generate thrust. Antimatter is seen as the only 
+fuel that can potentially accelerate rockets to near the speed of light, providing the 
+potential for human flight to neighboring star systems. 
+UNCLASSIFIED/fF&A &FFI&I:.l.k W&li &NkY 
+20

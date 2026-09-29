@@ -1,0 +1,63 @@
+• Last Land Location (ICAO Code): 
+• Last Land Time: 051924:00ZMAY22 
+• Last Engine Shutdown Time: 051934:00ZMAY22 
+• Total Mission Time: 
+• Gentext/Additional Details: 
+ISR 
+• Time-on Station DTG: 050057:00ZMAY22 
+• Time-off Station DTG: 051552:00ZMAY22 
+• Aircraft Callsign: 
+• Msn Type: 
+• Primary Sensor: 
+• Sensors Available: 
+• Tasking Type: PLANNED 
+• Tasking or Request Number (JTAR#, AEM#, PRI#, or TIC#): 
+• BE Number (if NTISR): 
+• Tasked Start Point: 
+• Activity Description: TARGET DEVELOPMENT 
+• FMV or Image File Name (if NTISR): 
+• EEIs Observed: 
+• Number of EEIs: 
+GENTEXT/ISR 
+•  Gentext: (SECRET//REL TO USA, FVEY) CONDUCTED TARGET 
+DEVELOPMENT ON  MISSION INTENT FOR THE TASKING W AS TO 
+CONDUCT POL, IDENTIFY PID OF WEAPONS AND WEAPONS/AMMO STORAGE AREAS, AS 
+WELL AS IDENTIFY PERSONNEL WITHIN THE COMPOUND. LOOKING FOR PID OF
+ CONDUCTED EEI RELATED ACTIVITY AND OBSERVED NO 
+SIGNIFICANT/NEFARIOUS ACTIVITY UNTIL RTB. 
+ISR ASSET UTILIZATION 
+• Supported Unit: 
+• Supported Operation: 
+• Precoord Time: 
+• Precoord Effectiveness: SATISFACTORY 
+WEATHER 
+• Weather: (SECRET\\REL TO USA, FVEY) DUE TO DUST STORMS SOME COLLECTION ON 
+UAPS W AS AFFECTED BETWEEN 0524Z AND 0704Z. 
+SECRET//REL TO USA, FVEY 
+SECRET//REL TO USA, FVEY 
+DECLASSIFED
+DECLASSIFED
+UNCLASSIFIED
+UNCLASSIFIED
+Declassified by:
+MG Richard A. Harrison
+USCENTCOM Chief of Staff
+Declassified on: 20260710
+(b) (1) (B)
+(b) (1) (B)
+-
+(b) (1) (B)
+(b) (1) (B)
+(b) (1) (B)
+(b) (1) (B)
+-
+-
+(b) (1) (B)
+-
+(b) (1) (B)
+(b) (1) (B)
+(b) (1) (B)
+(b) (1) (B)
+(b) (1) (B)
+(b) (1) (B)
+3.5C. (B)(6)

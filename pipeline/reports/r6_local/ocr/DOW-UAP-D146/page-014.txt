@@ -1,0 +1,38 @@
+UNCLASSIFIED/ /POR. err1e1At l:191!! er•t t 
+MAGNETO -INERTIAL CONFINEMENT 
+This method of confinement is an adaptation of the inertial confinement system (ICF) 
+described above, but also uses some of the methods developed for magnetic 
+confinement in an attempt to lower the fusion ignition requirements for implosion 
+velocity and power density. 9 This concept uses a strong magnetic field within a 
+conducting shell (a magnetic flux conserver). The inertial fusion target plasma lies 
+within the conducting shell. As the shell is imploded, the magnet ic intensity increases 
+dramatically, constraining and heating the plasma and facilitating fusion. This concept is 
+being pursued in the United States by the Office of Fusion Energy Sciences of the 
+Department of Energy. Currently there are two classes: High-gain magneto-inertial 
+fusion (MIF) and low-to-intermediate -gain magneto-inertial fusion. 
+High-Gain MIF 
+The heating power directed into a hot spot for fusion ignition must be greater than the 
+rate of heat energy loss, and this implies that a high implosion velocity is needed for 
+high-yield fusion. However, a higher implosion velocity actually lowers the efficiency of 
+fusion, since less of the cold fuel is assembled (the higher velocity increases the 
+breakdown of density barriers or growth rate of the Rayleigh-Taylor instability). As 
+described above, lasers are typically used for direct implosion of the fuel pellet but, to 
+date, this is not very efficient and the cost per unit energy is high. With a magnetized 
+target, however, the implosion velocity need not be so high to initi ate fusion ignition, 
+thus lowering the input energy cost without sacrificing efficiency. 
+Low-to-Intermediate MIF 
+For low-y ield fusion, electromagnetic pulsed power can be substituted for lasers or 
+particle beams to compress the target. A lower implosion velocity impl ies that a larger 
+shell can be used, leading to longer burn duration and a much lower density target. It is 
+thought that by using an imposed magnetic field, a solid or liquid shell (liner) and a 
+gaseous target can be used, rather than the usual cryogen ic solid fuel pellets. Such is 
+the case for the Magnetized Target Fusion experiment being performed at LANL (shown 
+in Figure 6). 
+A similar pulsed compression of a fusion fuel gas can be achieved without a target by 
+instead using Dense Plasma Focus (DPF) having annular electrodes (shown in Figure 7). 
+In this case a capacitor bank is discharged into the electrodes driving a nanosecond to 
+microsecond pulse that will heat the plasma created to ignition temperatures. This by 
+far is the simplest and least elaborate magnetic confinement concept to achieve 
+aneutronic fusion ignition. 
+UNCLASSIFIED/ /POR. orr1e1At 1:18E 8HL?f 
+9

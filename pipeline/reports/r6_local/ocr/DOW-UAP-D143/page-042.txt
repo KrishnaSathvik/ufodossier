@@ -1,0 +1,52 @@
+UNCLASSIFIED FP OR OPPICTAL USE ONLY
+
+incrementally emplaced, upgraded, and even funded with capability growing as budget
+is available, as opposed to the usual all-or-nothing functioning of today’s spacecraft.
+
+The antenna size is 20 km x 40 km and contains 150,000 picosats, each of which
+weighs 23 grams. The feed array is held in position by a 50 km long, lightweight tether
+against a counterweight. There is no truss or other structure. Each picosat is gravity-
+gradient stable, has a dipole array facing Earth, and a broader beam antenna array
+facing the receivers.
+
+The effective collecting aperture of the array is equal to that of an equivalent 80 m
+diameter filled aperture antenna. The coverage spot diameter can be varied by
+choosing the diameter of the array that is active, with spot sizes on Earth as small as
+30 m at 10 GHz, 300 m at 1 GHz, or 3 km at 100 MHz. It can receive sub-watt signals
+from individual cell phones. The entire constellation weighs 3,500 kg, but that could be
+reduced in the future to 35 kg if Buckytubes are used to construct the system.
+
+HIGH RESOLUTION SURFACE SAMPLING RADIOMETRY
+
+Highly sensitive radiometry at low microwave frequencies with a small ground foot-print
+would result in high resolution microwave radiometry sampling maps of soil moisture
+and other surface characteristics, as well as passively detected larger targets. The
+constellation/array implementation follows that of the preceding concept (Future Nano-
+/Pico-Satellite Mission Concepts section), except that it is designed to map the surface
+radiation rather than detect discrete emitters. The antenna size is 8 km x 12 km and
+contains 12,000 picosats, each of which weighs 23 grams. The feed array is held in
+position by a 40 km long, lightweight tether against a counterweight. The constellation
+scans its coverage spot electronically in a 1,200 km zig-zag swath from its 4,000 km
+orbit by modulating the time or frequency shift of the ensemble of picosats. These
+picosats are similar to those in the Rotating Picosat Swarm Array Radio Frequency
+Collector section.
+
+The effective collecting aperture of the array is the sum of those of the picosats, and in
+this example, equal to that of an equivalent 11 m diameter antenna. However, the
+coverage spot diameter is set by the total aperture diameter of 8 km x 12 km, and
+thus is 100 m at 1 GHz. Five constellation/arrays would result in a 5 hour global revisit
+with zig-zag coverage of the scanned swaths. The entire constellation weighs 3,000 kg,
+but that could be reduced in the future to 30 kg if Buckytubes are used to construct the
+system.
+
+HIGH RESOLUTION SURFACE MAPPING RADIOMETRY
+
+Highly sensitive radiometry at low microwave frequencies with a very small foot-print
+on the ground would result in high resolution microwave radiometry maps of soil
+moisture and other surface characteristics and passively detected larger targets, with
+100% of Earth’s surface mapped with a 5 hour revisit time. The principle of operation
+is the same as that of the previous concept (High Resolution Surface Sampling
+Radiometry section), except that a multiple element detector array is used in a
+
+38
+UNCLASSIFIED 4-60 R-OFFt6FA-USE-ONET

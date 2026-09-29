@@ -1,0 +1,44 @@
+UNCLASSIFIED//P'OR. OP'fl@IAL W&lii QPIL¥ 
+PMMA, however, is not an ideal 
+contact lens material since no oxygen 
+is transmitted through the lens to the 
+conjunctiva and cornea. This can 
+cause a number of adverse clinical 
+effects. To solve this problem, a range 
+of oxygen-permeable but rigid 
+materials were developed. These 
+materials, referred to as "rigid gas­
+permeable" or "RGP" materials or 
+lenses, were made by synthetically 
+adding dimethylsiloxane (a form of 
+silicone) to acrylate plastics. Silicones 
+have a very high level of oxygen 
+transport, and amalgamating them 
+with plastics adds this quality, while Figure 25. contact Lens. Modern contact lenses are made 
+the acrylics provide strength and of a mixture of acrylics and silicones that readily pass 
+hardness. The easy diffusion of oxygen to the cornea. 
+oxygen across silicones is thought to be a result of an intermediate solubility of oxygen 
+in the gas phase with the gel phase of silicone. 
+Occasionally, the term "gas permeable" is used to describe RGP lenses, but this is 
+potentially misleading, as soft lenses are also gas permeable in that they allow oxygen 
+to move through the lens to the ocular surface. 
+In 1999, first silicone hydrogels were launched on the contact lens market. These new 
+materials had the advantage of high oxygen permeability, with the comfort and clinical 
+performance of the conventional hydrogels that had been used for the previous 30 
+years. These lenses were initially advocated primarily for extended (overnight) wear, 
+although more recently, daily (no overnight) wear silicone hydrogel contact lenses have 
+been launched. 
+DRUG DELIVERY POLYMERS 
+One area of biomaterials research is the use of biodegradable materials in the design of 
+systems for controlled drug delivery. Much of this work is driven by the need for the 
+slow release of insulin for the control of brittle diabetes. Mechanical insulin delivery 
+pumps are moderately successful but usually are worn on the outside of the body and 
+are cumbersome. 
+The ability to introduce insulin and other drugs in a controlled-release manner using 
+biopolymers has clear advantages in terms of user convenience. Similarly, the slow 
+release of other drugs, such as chemotherapeutic agents, is necessary to maintain the 
+drug in the desired therapeutic range with just a single dose. 
+The basic strategy with some of these systems is to encapsulate drugs in membranes, 
+capsules, microcapsules, liposomes, and hollow fibers. Another approach is to disperse 
+UNCLASSIFIED/ /FOR OFFICIO! 1 !SE ON! X 
+20

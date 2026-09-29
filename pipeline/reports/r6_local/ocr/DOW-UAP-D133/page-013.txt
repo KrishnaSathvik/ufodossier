@@ -1,0 +1,83 @@
+UNCLASSIFIED/ /FOR 8FFI@IAL l!IS! 8HLY 
+The experimenters demonstrated that 300 
+passing the vertically polar ized photon 
+(e) through a double- or single-s lit "' 
+250 
+system before detection at D1 produced 
+a "comb" inter ference distribut ion or a 
+C: ::, 
+0 
+0 
+Ql 
+200 
+"bump" diffraction distribution, 
+respectively, in the position X2 of the 
+(.) 
+C: 
+Ql 
+'C 
+·.:; 
+150 
+100 
+horizontally polarized photon (o) 
+detected at D2 when the pair of photons 
+C: 
+·5 
+0 so 
+is examined in coincidence. I n other 
+words, the posit ion distr ibution of the 
+straight-through photon shows patterns 
+·8 ·6 ·4 ·2 0 2 4 
+Detector 2 position (mm) 
+characterist ic of the single- or doub le­
+slit system through which its tw in 
+entangled photon passed. Figure 3 
+shows the observed position 
+distributions for the two cases. 
+From the viewpoint of nonlocal 
+commun ication, we note that modifying 
+the slit system before D1 through which 
+the reflected photon passes, which can 
+be though t of as the action of a ·8 ·4 ·2 0 2 4 
+"sending" observer, nonlocally causes Detector 2 position (mm) 
+an observable change in the Xrpos ition 
+distribution of the undeflected photon, Figure 3. Ghost Interference Position Distributions 
+as detected by a " receiv ing" observer at at x, 
+D2. This is a nonclassical effect t hat demonstrates the nonlocal connection between the 
+entangled pair and that might form the basis for transmiss ion of a nonlocal signal 
+between the two observers. However, the Ghost Interference exper iment does not, in 
+the form reported, demo nstrate nonlocal commun ication, because of its use of a 
+classical communication link in impos ing the coincidence requirement between the 
+detected photo ns. 
+In their paper, the authors comment that with the two-slit system in place, in t he 
+absence of coincidences there is no observable two-slit interference pattern 
+dist ribut ions at either D1 or D2. They attribute this lack of an interference "signal" to the 
+horizontal variation in the creation posit ion of the down-converted photons . The 
+variation is enough to cause the "e" photons to arrive at the two slits with relative path 
+lengths that may differ by more than a wavelength, t hereby randomly shift ing and 
+washing out any interfere nce pattern. Furthermore, their source of entangled photons 
+was very ineff icient and noisy. Only about 1 in 1010 pump photons produced an 
+entangled pair, while many unentang led "noise" photons of the same wavelength were 
+created by fluorescence in the crystal. Therefore, even if the coincidence requirement 
+had been in princ iple removable (see below), it is not surpris ing that coincidences were 
+required to observe the reported effects . 
+0 L__,=..J.----'--~__J_~-----'---~-'--~...,__~ ~ '---' 
+(a) Two slits 
+"' C: ::, 
+0 
+0 
+a, 
+0 
+C: 
+Ql 
+~ 
+C: 
+·o 
+0 
+500 (b) One slit 
+400 
+300 
+200 
+100 
+UNCLASSIFIED/ ,'FOR. 8fflE!IJltL U:!E fJHL I 
+7

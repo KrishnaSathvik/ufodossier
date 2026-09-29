@@ -1,0 +1,34 @@
+UNCLASSIFIED/ ,'FOR OFFI@IAL YSE OHL¥ 
+I. Spacetime Modification - Metric Tensor Approach 
+Despite the daunting energy requirements to restructure the spacetime metric to a 
+significant degree, one can investigate the forms that such restructuring would take to 
+be useful for spaceflight applications and determine their corollary attributes and 
+consequences. Thus we embark on a "Blue Sky," general-relativity-for-engineers 
+approach, as it were. 
+As a mathematical evaluation tool, the metric tensor that describes the measurement of 
+spacetime intervals is used . Such an approach, well known from studies in general 
+relativity (GR), has the advantage of being model independent-that is, it does not 
+depend on knowledge of the specific mechanisms or dynamics that result in spacetime 
+alterations but rather only assumes that a technology exists that can control and 
+manipulate (that is, engineer) the spacetime metric to advantage. Before discussing the 
+predicted character istics of such engineered spacetimes, beginning in Section III, a 
+brief mathematical digression for those interested in the mathematical structure behind 
+the discussion to follow is introduced. 
+As a brief introduction, the expression for the four-dimensional line element ds2 in 
+terms of the metric tensor gµ., is given by 
+ds2 =g dx"dx" {l)µv 
+where summation over repeated indices is assumed unless otherwise indicated. In 
+ordinary Minkowski flat spacetime, a (four-dimensional) infinitesimal interval ds is given 
+by the express ion (in Cartesian coordinates) 
+c/s2 =c2dt2 - (dx2 +dy2 +dx2 ) (2) 
+where the identification dx0 = cdt , dx' = dx, dx2 =dy , dx3 =dz is made, with metric 
+tensor coefficients g00 =1, gI I = g22 = g33 = - 1, gµ v =0 for µ --t= v. 
+For spherical coordinates in ordinary Minkowski flat spacetime 
+ds2 =c2dt 2 -dr2 - r2d02 - r 2 sin 2 0dql (3) 
+where dx0 = cc/t , dx' = dr, dx 2 = d0, dx3 =d(f), with metric tensor coeffic ients g00 =1, 
+g11 = -1, g22 = -r2 , g33 = -r2 sin 2 0, gµv = O for µ -t; v. 
+As an example of spacetime alteration, in a spacetime altered by the presence of a 
+spherical mass distribution mat the origin (Schwarzschild-type solution), the above can 
+be transformed into (Reference 10) 
+UNCLASSIFIED/ /FOR OFFI&I.t.k Wliliii 8Nk¥ 
+1

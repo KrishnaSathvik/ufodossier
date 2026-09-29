@@ -1,0 +1,29 @@
+UNCLASSIFIED/ /FOR OFFl&IAk W&li 8NL¥ 
+a) 
+Pump 
+Figure 4. "Unfolding" the Ghost Interference Experiment 
+The authors point out that there is a simple way of thinking about momentum­
+entanglement measurements involving entangled photons. It can be shown from Snell's 
+Law and conservation of momentum in the crystal that if one photon has a small 
+momentum that causes it to be slightly deflected to the right of the pump beam by an 
+angle 0, then the twin entangled photon will be deflected to the left by the same angle 
+0, a situation reminiscent of reflection from a mirror. This allows the experiment to be 
+"unfolded" by replacing the effective reflection by a straight-through path, as shown in 
+Figure 4. The point of the unfolding is that the entangled photons behave exactly as 
+would be the case if the direction of the deflected photon was reversed, so that it 
+originated at the detection point D1, passed through one or two slits at C and D, and 
+produced a one or two slit interference pattern at X2 detected by D2. 
+Why is the coincidence needed? First, it should be clear from Figure 2 that detector D2 
+detects not only the entangled twins of the photons that pass through the slit openings, 
+but also the entangled twins of the much larger number of photons that are stopped by 
+the opaque parts of the slits . Therefore, without coincidences, no interference pattern 
+could possibly be observed at X2, Moreover, one can see from Figure 4b that detector D1 
+behind the slits receives light in a very localized region, and if it were moved vertically 
+in the diagram, the interference pattern at D2 would be shifted, with maxima becoming 
+minima and vice versa. Without coincidences requiring a particular location for the 
+detection at D1, the D2 distribution would have to average over all possible D1 positions, 
+washing out the two-slit interference pattern. Therefore, because of the geometry used, 
+the Ghost Interference experiment required a coincidence to observe a two-slit 
+interference pattern like the one shown in Figure 3a. 
+UNCLASSIFIED/ /POil orr1e1Jct U91! er~t I 
+8

@@ -1,0 +1,50 @@
+UNCLASSIFIED/ ;'FOR OFFl&I.t.k Wliliii &NL¥ 
+The signal transmission down the axon of a neuron is an all-or-nothing process. When 
+the cell body is stimulated above threshold, the axon transmits the same action 
+potential at the same speed and in the same direction, regardless of the extent above 
+threshold or duration of the input . Action potentials have durations of 1-10 
+milliseconds. Input signals can result in transmission of multiple action potentials, and 
+thus the frequency and number of neuronal firings do vary with the input. Neurons 
+require some t ime to reset between firings, nominally the duration of the pulse for that 
+axon, yielding a typical maximum firing rate of between 100 hertz (Hz) and 1 kilohertz 
+(kHz). 
+It is instructional at this point to contrast this mechanism with propagation of signals 
+through a physical electrical circuit, the planned external portion of our BMI. In a 
+copper wire, electrons carry the signal. Electrons drift along the signal path, but the 
+signal itself moves as a compression wave rather than a transverse wave as in the 
+biologica l system. Going back to our garden hose example, consider the hose now filled 
+with small marbles: inserting a marble at one end will move each marble in the hose 
+just a little, but very rapidly the last marble in line will pop out of the far end of the 
+hose. As with the biological system, the signal is propagated to the far end of the hose 
+by local actors rather than physical motion of a single ion or electron moving the whole 
+distance. The underlying physics governing the signal transmission makes metallic and 
+semimetallic circuits about a million times faster than the biological system. 
+This difference in the carriers and underlying mechanisms of signal transmission 
+between biological and physical circuits has so far prevented the invention of a direct 
+connection between the two disparate systems. Instead, both noninvasive and invasive 
+direct-detection technologies rely on placing physical sensors or transmitters in close 
+proximity to the neurons of interest and utilizing classical electrodynamics to govern 
+signal jump between the systems. Additionally, given the maximum typical firing rate 
+for neurons of 1 kHz, sampling of action potentials at a few kHz will be fast enough to 
+detect firing of any individual neuron, though super-sampling above 10 kHz can be used 
+to reduce noise. Higher sampl ing frequencies also may be required if mult iple neurons 
+are monitored and quantitative information about their relative firing sequence is 
+desired . Frequencies of a 1 kHz or below are suffic ient to stimulate action potentials, 
+and again, higher system frequency may be required for multiple neuron sequent ial 
+stimulation. Finally, higher frequencies may be required if monitoring or stimulation of 
+some aspect of signal transmission other than action potentials is sought, such as 
+monitoring single ion channels. 1 There is currently no evidence that transduction 
+frequencies above 100 kHz have any advantage in BMis, thus the main challenge is the 
+connection dynamics, since even this ultra-maximum frequency is easily attainable with 
+current electronic manufacturing technology. 
+The human brain doesn't process information as a traditional computer does. 
+Information is moved around through pathways and at certain neurons it is allowed or 
+not allowed to pass based on excitory or inhibitory dendritic signals arriving before 
+triggering of action potentials . Local groups of neurons can act nearly coherently, for 
+example in volition of motor action like a hand movement. Detecting such coherent 
+firing at nodes around the brain is robust both noninvasively and invasively, though 
+1 Technologies that monitor single ion channels on a neuronal membrane are important for researc h on neural 
+function and neurotransm itter action . However, these devices are ultra -sensitive to physical motion, and have so 
+far not proven useful in large scale information transfer required in BMis . 
+UNCLASSIFIED/ /fOll OFFl@IAl W&lii OPU..¥ 
+2

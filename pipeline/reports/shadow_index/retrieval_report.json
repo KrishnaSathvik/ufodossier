@@ -1,0 +1,889 @@
+{
+  "index": {
+    "fragments": 583,
+    "r1_production_read": 380,
+    "r2_r6_local_embedded": 203,
+    "provider": "voyage",
+    "model": "voyage-3",
+    "dimensions": 1536,
+    "voyage_signature": {
+      "rows": 380,
+      "dimensions": 1536,
+      "padded_zero_tail": 380,
+      "nonzero_voyage_prefix": 380,
+      "invalid_rows": 0,
+      "pass": true
+    },
+    "match_threshold": 0.3,
+    "match_count": 10,
+    "production_writes": 0
+  },
+  "recall": {
+    "questions_with_expected_case": 48,
+    "recall_at_5": 0.8542,
+    "recall_at_10": 0.8958,
+    "recall_at_20": 0.9583,
+    "mrr": 0.821
+  },
+  "fixtures": [
+    {
+      "name": "sary_shagan",
+      "question_id": "q01",
+      "retrieved": true,
+      "context_present": true,
+      "pass": true,
+      "top_case_ids": [
+        "UNDATED-CIA-158652",
+        "UNDATED-CIA-6E72CA",
+        "1950-USAF-3455",
+        "1989-SOVIETARMY-ADFA2F",
+        "1956-FBI-D0933C"
+      ]
+    },
+    {
+      "name": "tremonton",
+      "question_id": "q02",
+      "retrieved": true,
+      "context_present": true,
+      "pass": true,
+      "top_case_ids": [
+        "1952-DOW-141453",
+        "1952-USN-80203D"
+      ]
+    },
+    {
+      "name": "green_fireballs",
+      "question_id": "q03",
+      "retrieved": true,
+      "context_present": true,
+      "pass": true,
+      "top_case_ids": [
+        "1948-USAF-DDD5CA",
+        "1948-USAF-BFA2CC",
+        "1949-USAF-5C0132",
+        "UNDATED-DOE-80EBE8",
+        "1949-USAF-9D1046"
+      ]
+    },
+    {
+      "name": "colorado_springs",
+      "question_id": "q05",
+      "retrieved": true,
+      "context_present": true,
+      "pass": true,
+      "top_case_ids": [
+        "UNDATED-USA-599D8B",
+        "2024-OTHER-745586",
+        "2023-FBI-6A299C",
+        "UNDATED-FBI-C4AD20",
+        "UNDATED-FBI-42C272"
+      ]
+    },
+    {
+      "name": "western_us_series",
+      "question_id": "q26",
+      "retrieved": true,
+      "context_present": true,
+      "pass": true,
+      "top_case_ids": [
+        "UNDATED-FBI-C98A18",
+        "UNDATED-FBI-42C272",
+        "UNDATED-FBI-C390B7"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "question_id": "q01",
+      "expected": [
+        "UNDATED-CIA-6E72CA",
+        "UNDATED-CIA-158652"
+      ],
+      "best_rank": 1,
+      "recall_at_5": 1,
+      "recall_at_10": 1,
+      "recall_at_20": 1,
+      "reciprocal_rank": 1.0,
+      "top1": "UNDATED-CIA-158652",
+      "top1_similarity": 0.476007
+    },
+    {
+      "question_id": "q02",
+      "expected": [
+        "1952-USN-80203D",
+        "1952-DOW-141453",
+        "1952-USAF-0585D4"
+      ],
+      "best_rank": 1,
+      "recall_at_5": 1,
+      "recall_at_10": 1,
+      "recall_at_20": 1,
+      "reciprocal_rank": 1.0,
+      "top1": "1952-DOW-141453",
+      "top1_similarity": 0.413783
+    },
+    {
+      "question_id": "q03",
+      "expected": [
+        "1948-USAF-DDD5CA",
+        "1948-USAF-BFA2CC",
+        "UNDATED-DOE-80EBE8"
+      ],
+      "best_rank": 1,
+      "recall_at_5": 1,
+      "recall_at_10": 1,
+      "recall_at_20": 1,
+      "reciprocal_rank": 1.0,
+      "top1": "1948-USAF-DDD5CA",
+      "top1_similarity": 0.724264
+    },
+    {
+      "question_id": "q04",
+      "expected": [
+        "1968-USN-6F2707"
+      ],
+      "best_rank": 1,
+      "recall_at_5": 1,
+      "recall_at_10": 1,
+      "recall_at_20": 1,
+      "reciprocal_rank": 1.0,
+      "top1": "1968-USN-6F2707",
+      "top1_similarity": 0.584485
+    },
+    {
+      "question_id": "q05",
+      "expected": [
+        "UNDATED-USA-599D8B"
+      ],
+      "best_rank": 1,
+      "recall_at_5": 1,
+      "recall_at_10": 1,
+      "recall_at_20": 1,
+      "reciprocal_rank": 1.0,
+      "top1": "UNDATED-USA-599D8B",
+      "top1_similarity": 0.549727
+    },
+    {
+      "question_id": "q06",
+      "expected": [
+        "UNDATED-FBI-380101"
+      ],
+      "best_rank": 1,
+      "recall_at_5": 1,
+      "recall_at_10": 1,
+      "recall_at_20": 1,
+      "reciprocal_rank": 1.0,
+      "top1": "UNDATED-FBI-380101",
+      "top1_similarity": 0.641338
+    },
+    {
+      "question_id": "q07",
+      "expected": [
+        "UNDATED-DOW-EA3896"
+      ],
+      "best_rank": 1,
+      "recall_at_5": 1,
+      "recall_at_10": 1,
+      "recall_at_20": 1,
+      "reciprocal_rank": 1.0,
+      "top1": "UNDATED-DOW-EA3896",
+      "top1_similarity": 0.696163
+    },
+    {
+      "question_id": "q08",
+      "expected": [
+        "1968-USN-85858D"
+      ],
+      "best_rank": 1,
+      "recall_at_5": 1,
+      "recall_at_10": 1,
+      "recall_at_20": 1,
+      "reciprocal_rank": 1.0,
+      "top1": "1968-USN-85858D",
+      "top1_similarity": 0.470329
+    },
+    {
+      "question_id": "q09",
+      "expected": [
+        "1955-CIA-E34C6D"
+      ],
+      "best_rank": 1,
+      "recall_at_5": 1,
+      "recall_at_10": 1,
+      "recall_at_20": 1,
+      "reciprocal_rank": 1.0,
+      "top1": "1955-CIA-E34C6D",
+      "top1_similarity": 0.689285
+    },
+    {
+      "question_id": "q10",
+      "expected": [
+        "2008-CIA-052DE8"
+      ],
+      "best_rank": 1,
+      "recall_at_5": 1,
+      "recall_at_10": 1,
+      "recall_at_20": 1,
+      "reciprocal_rank": 1.0,
+      "top1": "2008-CIA-052DE8",
+      "top1_similarity": 0.621795
+    },
+    {
+      "question_id": "q11",
+      "expected": [
+        "1949-USAF-5C0132",
+        "UNDATED-DOE-5FC004"
+      ],
+      "best_rank": 1,
+      "recall_at_5": 1,
+      "recall_at_10": 1,
+      "recall_at_20": 1,
+      "reciprocal_rank": 1.0,
+      "top1": "1949-USAF-5C0132",
+      "top1_similarity": 0.798436
+    },
+    {
+      "question_id": "q12",
+      "expected": [
+        "2023-FBI-6A299C"
+      ],
+      "best_rank": 1,
+      "recall_at_5": 1,
+      "recall_at_10": 1,
+      "recall_at_20": 1,
+      "reciprocal_rank": 1.0,
+      "top1": "2023-FBI-6A299C",
+      "top1_similarity": 0.646192
+    },
+    {
+      "question_id": "q13",
+      "expected": [
+        "1952-USAF-0585D4"
+      ],
+      "best_rank": 1,
+      "recall_at_5": 1,
+      "recall_at_10": 1,
+      "recall_at_20": 1,
+      "reciprocal_rank": 1.0,
+      "top1": "1952-USAF-0585D4",
+      "top1_similarity": 0.685301
+    },
+    {
+      "question_id": "q14",
+      "expected": [
+        "1968-USN-9E57C2"
+      ],
+      "best_rank": 1,
+      "recall_at_5": 1,
+      "recall_at_10": 1,
+      "recall_at_20": 1,
+      "reciprocal_rank": 1.0,
+      "top1": "1968-USN-9E57C2",
+      "top1_similarity": 0.740275
+    },
+    {
+      "question_id": "q15",
+      "expected": [
+        "UNDATED-USAF-58C451"
+      ],
+      "best_rank": 1,
+      "recall_at_5": 1,
+      "recall_at_10": 1,
+      "recall_at_20": 1,
+      "reciprocal_rank": 1.0,
+      "top1": "UNDATED-USAF-58C451",
+      "top1_similarity": 0.580418
+    },
+    {
+      "question_id": "q16",
+      "expected": [
+        "UNDATED-CIA-6E72CA",
+        "UNDATED-CIA-158652"
+      ],
+      "best_rank": 1,
+      "recall_at_5": 1,
+      "recall_at_10": 1,
+      "recall_at_20": 1,
+      "reciprocal_rank": 1.0,
+      "top1": "UNDATED-CIA-158652",
+      "top1_similarity": 0.375513
+    },
+    {
+      "question_id": "q17",
+      "expected": [
+        "1968-USN-6F2707"
+      ],
+      "best_rank": 1,
+      "recall_at_5": 1,
+      "recall_at_10": 1,
+      "recall_at_20": 1,
+      "reciprocal_rank": 1.0,
+      "top1": "1968-USN-6F2707",
+      "top1_similarity": 0.562993
+    },
+    {
+      "question_id": "q18",
+      "expected": [
+        "1952-USN-80203D"
+      ],
+      "best_rank": 1,
+      "recall_at_5": 1,
+      "recall_at_10": 1,
+      "recall_at_20": 1,
+      "reciprocal_rank": 1.0,
+      "top1": "1952-USN-80203D",
+      "top1_similarity": 0.472879
+    },
+    {
+      "question_id": "q19",
+      "expected": [
+        "1952-USAF-0585D4"
+      ],
+      "best_rank": 1,
+      "recall_at_5": 1,
+      "recall_at_10": 1,
+      "recall_at_20": 1,
+      "reciprocal_rank": 1.0,
+      "top1": "1952-USAF-0585D4",
+      "top1_similarity": 0.457943
+    },
+    {
+      "question_id": "q20",
+      "expected": [
+        "1955-CIA-E34C6D"
+      ],
+      "best_rank": 1,
+      "recall_at_5": 1,
+      "recall_at_10": 1,
+      "recall_at_20": 1,
+      "reciprocal_rank": 1.0,
+      "top1": "1955-CIA-E34C6D",
+      "top1_similarity": 0.559937
+    },
+    {
+      "question_id": "q21",
+      "expected": [
+        "UNDATED-USA-599D8B"
+      ],
+      "best_rank": 1,
+      "recall_at_5": 1,
+      "recall_at_10": 1,
+      "recall_at_20": 1,
+      "reciprocal_rank": 1.0,
+      "top1": "UNDATED-USA-599D8B",
+      "top1_similarity": 0.490963
+    },
+    {
+      "question_id": "q22",
+      "expected": [
+        "1948-USAF-BFA2CC"
+      ],
+      "best_rank": 1,
+      "recall_at_5": 1,
+      "recall_at_10": 1,
+      "recall_at_20": 1,
+      "reciprocal_rank": 1.0,
+      "top1": "1948-USAF-BFA2CC",
+      "top1_similarity": 0.653115
+    },
+    {
+      "question_id": "q23",
+      "expected": [
+        "1968-USN-9E57C2"
+      ],
+      "best_rank": 1,
+      "recall_at_5": 1,
+      "recall_at_10": 1,
+      "recall_at_20": 1,
+      "reciprocal_rank": 1.0,
+      "top1": "1968-USN-9E57C2",
+      "top1_similarity": 0.642558
+    },
+    {
+      "question_id": "q24",
+      "expected": [
+        "UNDATED-DOW-EA3896"
+      ],
+      "best_rank": 2,
+      "recall_at_5": 1,
+      "recall_at_10": 1,
+      "recall_at_20": 1,
+      "reciprocal_rank": 0.5,
+      "top1": "1947-FBI-DCF381-81A1",
+      "top1_similarity": 0.425959
+    },
+    {
+      "question_id": "q25",
+      "expected": [
+        "2023-FBI-6A299C"
+      ],
+      "best_rank": 1,
+      "recall_at_5": 1,
+      "recall_at_10": 1,
+      "recall_at_20": 1,
+      "reciprocal_rank": 1.0,
+      "top1": "2023-FBI-6A299C",
+      "top1_similarity": 0.504546
+    },
+    {
+      "question_id": "q26",
+      "expected": [],
+      "best_rank": null,
+      "recall_at_5": null,
+      "recall_at_10": null,
+      "recall_at_20": null,
+      "reciprocal_rank": 0.0,
+      "top1": "UNDATED-FBI-C98A18",
+      "top1_similarity": 0.336894
+    },
+    {
+      "question_id": "q27",
+      "expected": [
+        "UNDATED-USA-599D8B"
+      ],
+      "best_rank": 11,
+      "recall_at_5": 0,
+      "recall_at_10": 0,
+      "recall_at_20": 1,
+      "reciprocal_rank": 0.09090909090909091,
+      "top1": "2023-FBI-6A299C",
+      "top1_similarity": 0.337253
+    },
+    {
+      "question_id": "q28",
+      "expected": [
+        "UNDATED-USA-599D8B"
+      ],
+      "best_rank": 16,
+      "recall_at_5": 0,
+      "recall_at_10": 0,
+      "recall_at_20": 1,
+      "reciprocal_rank": 0.0625,
+      "top1": "2023-FBI-6A299C",
+      "top1_similarity": 0.34619
+    },
+    {
+      "question_id": "q29",
+      "expected": [
+        "UNDATED-USA-599D8B"
+      ],
+      "best_rank": 7,
+      "recall_at_5": 0,
+      "recall_at_10": 1,
+      "recall_at_20": 1,
+      "reciprocal_rank": 0.14285714285714285,
+      "top1": "2023-FBI-6A299C",
+      "top1_similarity": 0.323937
+    },
+    {
+      "question_id": "q30",
+      "expected": [
+        "UNDATED-CIA-6E72CA",
+        "UNDATED-CIA-158652"
+      ],
+      "best_rank": 1,
+      "recall_at_5": 1,
+      "recall_at_10": 1,
+      "recall_at_20": 1,
+      "reciprocal_rank": 1.0,
+      "top1": "UNDATED-CIA-158652",
+      "top1_similarity": 0.374797
+    },
+    {
+      "question_id": "q31",
+      "expected": [
+        "1952-USN-80203D",
+        "1952-DOW-141453"
+      ],
+      "best_rank": 1,
+      "recall_at_5": 1,
+      "recall_at_10": 1,
+      "recall_at_20": 1,
+      "reciprocal_rank": 1.0,
+      "top1": "1952-USN-80203D",
+      "top1_similarity": 0.440972
+    },
+    {
+      "question_id": "q32",
+      "expected": [
+        "1968-USN-6F2707",
+        "1968-USN-85858D",
+        "1968-USN-9E57C2"
+      ],
+      "best_rank": 53,
+      "recall_at_5": 0,
+      "recall_at_10": 0,
+      "recall_at_20": 0,
+      "reciprocal_rank": 0.018867924528301886,
+      "top1": "1953-USA-F78A64",
+      "top1_similarity": 0.341215
+    },
+    {
+      "question_id": "q33",
+      "expected": [
+        "1948-USAF-DDD5CA",
+        "1948-USAF-BFA2CC",
+        "UNDATED-USAF-B32231"
+      ],
+      "best_rank": 1,
+      "recall_at_5": 1,
+      "recall_at_10": 1,
+      "recall_at_20": 1,
+      "reciprocal_rank": 1.0,
+      "top1": "UNDATED-USAF-B32231",
+      "top1_similarity": 0.630588
+    },
+    {
+      "question_id": "q34",
+      "expected": [],
+      "best_rank": null,
+      "recall_at_5": null,
+      "recall_at_10": null,
+      "recall_at_20": null,
+      "reciprocal_rank": 0.0,
+      "top1": "UNDATED-FBI-C98A18",
+      "top1_similarity": 0.559529
+    },
+    {
+      "question_id": "q35",
+      "expected": [
+        "UNDATED-USA-599D8B",
+        "2023-FBI-6A299C"
+      ],
+      "best_rank": 1,
+      "recall_at_5": 1,
+      "recall_at_10": 1,
+      "recall_at_20": 1,
+      "reciprocal_rank": 1.0,
+      "top1": "2023-FBI-6A299C",
+      "top1_similarity": 0.482427
+    },
+    {
+      "question_id": "q36",
+      "expected": [
+        "1952-USN-80203D",
+        "1952-DOW-141453"
+      ],
+      "best_rank": 1,
+      "recall_at_5": 1,
+      "recall_at_10": 1,
+      "recall_at_20": 1,
+      "reciprocal_rank": 1.0,
+      "top1": "1952-DOW-141453",
+      "top1_similarity": 0.337042
+    },
+    {
+      "question_id": "q37",
+      "expected": [
+        "1968-USN-85858D",
+        "1968-USN-6F2707"
+      ],
+      "best_rank": 1,
+      "recall_at_5": 1,
+      "recall_at_10": 1,
+      "recall_at_20": 1,
+      "reciprocal_rank": 1.0,
+      "top1": "1968-USN-6F2707",
+      "top1_similarity": 0.526863
+    },
+    {
+      "question_id": "q38",
+      "expected": [
+        "UNDATED-USA-599D8B"
+      ],
+      "best_rank": 14,
+      "recall_at_5": 0,
+      "recall_at_10": 0,
+      "recall_at_20": 1,
+      "reciprocal_rank": 0.07142857142857142,
+      "top1": "2023-FBI-6A299C",
+      "top1_similarity": 0.261753
+    },
+    {
+      "question_id": "q39",
+      "expected": [
+        "1948-USAF-DDD5CA",
+        "1948-USAF-BFA2CC"
+      ],
+      "best_rank": 1,
+      "recall_at_5": 1,
+      "recall_at_10": 1,
+      "recall_at_20": 1,
+      "reciprocal_rank": 1.0,
+      "top1": "1948-USAF-DDD5CA",
+      "top1_similarity": 0.607196
+    },
+    {
+      "question_id": "q40",
+      "expected": [
+        "UNDATED-USA-599D8B",
+        "UNDATED-LLE-A4576B",
+        "UNDATED-LLE-2234ED"
+      ],
+      "best_rank": 1,
+      "recall_at_5": 1,
+      "recall_at_10": 1,
+      "recall_at_20": 1,
+      "reciprocal_rank": 1.0,
+      "top1": "UNDATED-LLE-A4576B",
+      "top1_similarity": 0.569557
+    },
+    {
+      "question_id": "q41",
+      "expected": [
+        "1948-USAF-DDD5CA",
+        "1949-USAF-9D1046",
+        "1949-USAF-5C0132",
+        "UNDATED-USAF-B32231"
+      ],
+      "best_rank": 3,
+      "recall_at_5": 1,
+      "recall_at_10": 1,
+      "recall_at_20": 1,
+      "reciprocal_rank": 0.3333333333333333,
+      "top1": "UNDATED-DOE-A60A48",
+      "top1_similarity": 0.653907
+    },
+    {
+      "question_id": "q42",
+      "expected": [
+        "1952-USN-80203D",
+        "1952-DOW-141453",
+        "1952-USAF-0585D4"
+      ],
+      "best_rank": 1,
+      "recall_at_5": 1,
+      "recall_at_10": 1,
+      "recall_at_20": 1,
+      "reciprocal_rank": 1.0,
+      "top1": "1952-DOW-141453",
+      "top1_similarity": 0.433049
+    },
+    {
+      "question_id": "q43",
+      "expected": [
+        "1968-USN-6F2707",
+        "1968-USN-9E57C2",
+        "1968-USN-85858D"
+      ],
+      "best_rank": 1,
+      "recall_at_5": 1,
+      "recall_at_10": 1,
+      "recall_at_20": 1,
+      "reciprocal_rank": 1.0,
+      "top1": "1968-USN-9E57C2",
+      "top1_similarity": 0.355792
+    },
+    {
+      "question_id": "q44",
+      "expected": [
+        "1957-FBI-DB9934",
+        "1958-FBI-B518F9",
+        "1958-FBI-420E8E"
+      ],
+      "best_rank": 45,
+      "recall_at_5": 0,
+      "recall_at_10": 0,
+      "recall_at_20": 0,
+      "reciprocal_rank": 0.022222222222222223,
+      "top1": "UNDATED-USAF-58C451",
+      "top1_similarity": 0.394938
+    },
+    {
+      "question_id": "q45",
+      "expected": [
+        "1952-USN-80203D",
+        "1952-DOW-141453"
+      ],
+      "best_rank": 1,
+      "recall_at_5": 1,
+      "recall_at_10": 1,
+      "recall_at_20": 1,
+      "reciprocal_rank": 1.0,
+      "top1": "1952-USN-80203D",
+      "top1_similarity": 0.448369
+    },
+    {
+      "question_id": "q46",
+      "expected": [
+        "1968-USN-6F2707",
+        "UNDATED-USAF-58C451",
+        "UNDATED-USAF-5C92A2",
+        "2008-CIA-052DE8"
+      ],
+      "best_rank": 6,
+      "recall_at_5": 0,
+      "recall_at_10": 1,
+      "recall_at_20": 1,
+      "reciprocal_rank": 0.16666666666666666,
+      "top1": "1956-RAF-3BC0B2",
+      "top1_similarity": 0.455404
+    },
+    {
+      "question_id": "q47",
+      "expected": [
+        "UNDATED-DOE-80EBE8",
+        "1948-USAF-BFA2CC",
+        "1948-USAF-DDD5CA"
+      ],
+      "best_rank": 2,
+      "recall_at_5": 1,
+      "recall_at_10": 1,
+      "recall_at_20": 1,
+      "reciprocal_rank": 0.5,
+      "top1": "UNDATED-USAF-B32231",
+      "top1_similarity": 0.546152
+    },
+    {
+      "question_id": "q48",
+      "expected": [
+        "UNDATED-LLE-A4576B",
+        "UNDATED-LLE-2234ED"
+      ],
+      "best_rank": 1,
+      "recall_at_5": 1,
+      "recall_at_10": 1,
+      "recall_at_20": 1,
+      "reciprocal_rank": 1.0,
+      "top1": "UNDATED-LLE-A4576B",
+      "top1_similarity": 0.599834
+    },
+    {
+      "question_id": "q49",
+      "expected": [
+        "UNDATED-CIA-6E72CA",
+        "UNDATED-CIA-158652"
+      ],
+      "best_rank": 2,
+      "recall_at_5": 1,
+      "recall_at_10": 1,
+      "recall_at_20": 1,
+      "reciprocal_rank": 0.5,
+      "top1": "UNDATED-USAF-668927",
+      "top1_similarity": 0.384583
+    },
+    {
+      "question_id": "q50",
+      "expected": [
+        "UNDATED-DOW-EA3896"
+      ],
+      "best_rank": 1,
+      "recall_at_5": 1,
+      "recall_at_10": 1,
+      "recall_at_20": 1,
+      "reciprocal_rank": 1.0,
+      "top1": "UNDATED-DOW-EA3896",
+      "top1_similarity": 0.569544
+    },
+    {
+      "question_id": "q51",
+      "expected": [],
+      "best_rank": null,
+      "recall_at_5": null,
+      "recall_at_10": null,
+      "recall_at_20": null,
+      "reciprocal_rank": 0.0,
+      "top1": "1947-FBI-6C5863-63BB",
+      "top1_similarity": 0.437187
+    },
+    {
+      "question_id": "q52",
+      "expected": [],
+      "best_rank": null,
+      "recall_at_5": null,
+      "recall_at_10": null,
+      "recall_at_20": null,
+      "reciprocal_rank": 0.0,
+      "top1": "UNDATED-USAF-A8C2",
+      "top1_similarity": 0.350746
+    },
+    {
+      "question_id": "q53",
+      "expected": [],
+      "best_rank": null,
+      "recall_at_5": null,
+      "recall_at_10": null,
+      "recall_at_20": null,
+      "reciprocal_rank": 0.0,
+      "top1": "2025-USAF-9D8742",
+      "top1_similarity": 0.400302
+    },
+    {
+      "question_id": "q54",
+      "expected": [],
+      "best_rank": null,
+      "recall_at_5": null,
+      "recall_at_10": null,
+      "recall_at_20": null,
+      "reciprocal_rank": 0.0,
+      "top1": "1947-USAF-A120D8",
+      "top1_similarity": 0.479307
+    },
+    {
+      "question_id": "q55",
+      "expected": [],
+      "best_rank": null,
+      "recall_at_5": null,
+      "recall_at_10": null,
+      "recall_at_20": null,
+      "reciprocal_rank": 0.0,
+      "top1": "UNDATED-USAF-A8C2",
+      "top1_similarity": 0.336208
+    },
+    {
+      "question_id": "q56",
+      "expected": [],
+      "best_rank": null,
+      "recall_at_5": null,
+      "recall_at_10": null,
+      "recall_at_20": null,
+      "reciprocal_rank": 0.0,
+      "top1": "1947-USAF-A120D8",
+      "top1_similarity": 0.373098
+    },
+    {
+      "question_id": "q57",
+      "expected": [],
+      "best_rank": null,
+      "recall_at_5": null,
+      "recall_at_10": null,
+      "recall_at_20": null,
+      "reciprocal_rank": 0.0,
+      "top1": "UNDATED-OTHER-FC97CA",
+      "top1_similarity": 0.318762
+    },
+    {
+      "question_id": "q58",
+      "expected": [],
+      "best_rank": null,
+      "recall_at_5": null,
+      "recall_at_10": null,
+      "recall_at_20": null,
+      "reciprocal_rank": 0.0,
+      "top1": "UNDATED-NASA-801C9E",
+      "top1_similarity": 0.511697
+    },
+    {
+      "question_id": "q59",
+      "expected": [],
+      "best_rank": null,
+      "recall_at_5": null,
+      "recall_at_10": null,
+      "recall_at_20": null,
+      "reciprocal_rank": 0.0,
+      "top1": "UNDATED-USAF-A8C2",
+      "top1_similarity": 0.382743
+    },
+    {
+      "question_id": "q60",
+      "expected": [],
+      "best_rank": null,
+      "recall_at_5": null,
+      "recall_at_10": null,
+      "recall_at_20": null,
+      "reciprocal_rank": 0.0,
+      "top1": "1947-FBI-6C5863-63BB",
+      "top1_similarity": 0.55532
+    }
+  ]
+}

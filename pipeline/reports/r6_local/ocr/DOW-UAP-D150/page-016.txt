@@ -1,0 +1,22 @@
+UNCLASSIFIED/ /FOA 8FFl&I.t.k WSli 8,.k\f 
+Quantum Dots in Graphene Nanoribbons 
+Graphene ribbons are one dimensional stripes of graphene. They can be considered as 
+unfolded carbon nanotubes. Graphene ribbons were proposed by Nakada et al in 1996 (52). 
+Nakada used the same single orbital tight-binding model that successfully portrays two­
+dimensional graphene as a semimetal; graphene ribbons are either metallic or 
+semiconducting depending on their crystallographic orientation and width. More realistic 
+calculations using the Hubbard model in a mean field approximation and density functional 
+calculations show that zigzag ribbons are insulating due to the magnetization of their edges 
+with opposite spin orientation in each edge. It has been found that this anti-ferromagnetic 
+insulator phase has a hidden underlying ferroelectric order that can be described as excitonic 
+insulator whose order parameter is the spin-resolved dipole operator, the analog of the spin 
+current operator (53). Long (gl µm) graphene nanoconstrictions display gapped behavior: 
+conduction is suppressed by several orders of magnitude for a wide range of gate voltages 
+around the Dirac point, and for tens of millivolts of source-drain bias (54) (55). 
+Figure 2. Quantum dot in graphene nanoribbon. A ribbon of graphene with semi-conducting 
+armchair boundaries is schematically shown. Two barrier gates (blue) define the rectangular 
+size of the quantum dot (with width W and length L). A back gate (red) allows one to shift the 
+energy levels in the dot. Two or more quantum dots of this type can be easily put in series in a 
+single nanoribbon. 
+UNCLASSIFIED// FOR OPPICIJ!tt U:!I!! 8HL\S 
+15

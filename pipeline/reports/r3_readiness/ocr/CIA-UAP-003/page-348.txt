@@ -1,0 +1,51 @@
+APPENDIX C
+
+Electronic Devices Carried by the U-2
+
+From the beginning the U-2 was envisioned as more than a camera
+platform. In fact, the U-2 would ultimately carry only five types of
+photographic equipment but more than 20 different types of electronic
+devices, some for collecting electronic intelligence (ELINT), others
+(“‘ferret’’ equipment) for gathering intelligence on foreign radars, and
+a few for self-protection—electronic countermeasures to defeat en-
+emy missile-control radars.
+
+The various electronic, countermeasures and intelligence-gather-
+ing systems designed for the U-2 received designations using Roman
+numerals—Systems I through XXII. The first seven devices were
+built by the Ramo-Wooldridge firm, now part of the TRW
+Corporation. System-[ used S- and X-band ELINT receivers to collect
+ground-controlled intercept and air defense signals. Weighing only
+7.7 kilograms, this system was aboard all U-2s from 1955 through
+1959. System-II, a communications and navigation system, never
+
+“worked properly and was canceled. System-III, a 16-kilogram VHF
+recorder for communications intelligence (COMINT), was never used
+and was transferred to the Navy in 1958. System-IV, a ferret device
+that recorded electromagnetic energy in the 150- to 4,000-MHz range
+was used on 16 missions between 1957 and 1959, when it was given
+to the Air Force. System-V was similar to System-I but covered nine
+wave bands. The device was so heavy that U-2s using it could not
+carry a camera system. System-V was used on only three missions
+and was replaced by the lighter weight System-VI that covered the P-,
+L-, S-, and X-band frequencies and could be used with either the A or
+B camera. System-VI was used from 1959 through 1966.
+
+The growing need for data on Soviet missile development led to
+a contract with the firm of Haller-Raymond-Brown (HRB) to build a
+missile-telemetry intercept system as quickly as possible. The result-
+ing device (System-VIT) could record up to 12 minutes of data from
+six simultaneous frequencies. This unit first saw service on 9 June
+1959 and was used on another 22 missions during the next year.
+Following modifications to make System-VII suitable for use by the
+Navy, the designation was changed to System-VIIL.
+
+System-IX was an electronic-countermeasures (ECM) device for
+generating false-angle information in response to X-band radar pulses
+from surface-to-air missile radars. Also known as the Mark-30, the
+
+—~—Secretnororit—
+
+Appendix C
+
+335

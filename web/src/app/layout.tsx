@@ -42,7 +42,7 @@ export const metadata: Metadata = {
     template: "%s — UFO Dossier",
   },
   description:
-    "A searchable record of every UAP incident in the U.S. government's declassified files. Every claim sourced. Every document linked.",
+    "A searchable, source-grounded archive of publicly released U.S. government UAP records.",
   icons: {
     icon: [
       { url: "/favicon.ico", sizes: "any" },
@@ -56,14 +56,14 @@ export const metadata: Metadata = {
   openGraph: {
     title: "UFO Dossier — Declassified UAP Archive",
     description:
-      "A searchable record of every UAP incident in the U.S. government's declassified files.",
+      "A searchable, source-grounded archive of publicly released U.S. government UAP records.",
     type: "website",
     siteName: "UFO Dossier",
   },
   twitter: {
     card: "summary_large_image",
     title: "UFO Dossier",
-    description: "Declassified UAP archive. Every claim sourced.",
+    description: "Declassified UAP archive. Claims stay tied to the released record.",
   },
 };
 

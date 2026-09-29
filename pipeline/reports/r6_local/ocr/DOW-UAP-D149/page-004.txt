@@ -1,0 +1,35 @@
+UNCLASSIFIED/ /FOR OFFICIAL tt.!l!! 8HLY 
+MHD Air-Breathing Propulsion and Power for 
+Aerospace Applications 
+Summary 
+The paper reviews novel propulsion concepts utilizing plasmas (ionized 
+gases) and magnetohydrodynamics (MHD). These concepts are shown to 
+be attractive due to their potential to achieve propulsion and 
+aerodynamic performance far beyond current conventional technologies. 
+However, significant difficulties impede the development and application 
+of these technologies; these include weight, complexity, higher power, 
+and the need for complex and energy-consuming artificial ionization in 
+"cold" air (at Mach <12). 
+A well-publicized Ajax concept of MHD energy bypass has been shown to 
+be meaningless below at least Mach 12. In contrast, a new "reverse 
+energy bypass" with Virtual Cowl is potentially practical for air­
+breathing hypersonic vehicles. 
+Applications of the Virtual Cowl and other plasma/MHD devices to 
+reentry, global-strike hypersonic gliders, and aeroassisted orbital 
+maneuvering are identified as promising in the near future. The ability of 
+a plasma/MHD system to generate high power onboard and to provide 
+L/D (lift-to-drag ratio) far beyond that possible conventionally makes 
+these applications both feasible and desirable for national defense. 
+However, these applications are also likely to be implemented by 
+nations such as China, Japan, and Russia. 
+The outlook for uses and applications of MHD propulsion could increase 
+dramatically if high-speed (hypersonic) vehicles begin to carry powerful 
+onboard electricity sources, such as nuclear (fission or fusion) reactors. 
+For spacecraft, the current trend of replacing chemical rockets with 
+electric propulsion systems will continue and is likely to become the 
+standard. Electric systems can provide a much wider range of operation 
+(e.g., low-thrust fine positioning/pointing, more frequent or 
+nontraditional maneuvers, and longer times on station) than chemical 
+systems can. 
+UNCLASSIFIED/ {FOR AEEIClil.la WSE 8HL I 
+iv

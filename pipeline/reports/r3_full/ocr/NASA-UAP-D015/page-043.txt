@@ -1,0 +1,40 @@
+LOS ALAMOS SCIENTIFIC LABORATORY
+UNIVERSITY OF CALIFORNIA
+LOS ALAMOS, NEW MEXICO
+
+TO: Dr. Jocelyn Gill = ie DATE: July 13, 1962
+
+For a horizontal path (sin @ = 0) tangent to the base of a layer (path No. 3)
+
+we note that y << 1 in the contributing region, hence, can get an approximate form
+
+R
+
+N= Roo fe? ay (7)
+°
+
+which has the value
+nRY
+N= \  b0
+
+Here Po is the density at the base of the layer, as in equation (6).
+An astronaut's view thru a layer from above would see twice the path computed
+
+by equation (7), giving
+
+Ng = po\ 2nRY molecules/cm® (9)
+
+A line of sight tangent to the earth and passing thru a layer at base altitude
+
+H (path No. 2) will have
+
+ne [oe | (10)
+
+ry!
+
+and we note that E e x | is the density at H,, the base of the layer, which we
+
+set equal to po as in equations (6) and (9),
+
+RY R
+N2 ™ Po = ™ Po 2H,

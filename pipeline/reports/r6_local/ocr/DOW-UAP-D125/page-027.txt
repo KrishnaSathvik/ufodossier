@@ -1,0 +1,42 @@
+UNCLASSIFIED/ /fOR. Offl@IAL WSE 8,.kY 
+This capability can provide valuable data regarding 3 He fusion cross sections at "low" 
+energies with better counting statistics than accelerator measurements. It appears that 
+good progress has been made in this direction. 
+CLOSING COMMENTS 
+The experiments selected for this section are far from exhaustive. The main 
+concentration here is on ion-injected IECs such as studied at the UIUC, although 
+various electron injected devices such as the "Polywell" are mentioned. The 
+experiments were selected then to explain some issues and status relative to gridded 
+devices for near-ter m applications such as neutron sources and also to address some 
+issues such as ion injection related to future fusion power units. The latter issues 
+revolve around how to create deep potential wells in the IEC and trap the reacting ions 
+in the well while excluding neutral gas atoms. The use of external ion sources with 
+differential pumping then becomes a key approach for production of ions while keeping 
+ultra low background pressure in the reacting chamber. This is the approach used at 
+the UIUC. However, introduction of the source into the configuration such that the ions 
+are born at potentials below the well depth is another possibility as shown by the hybrid 
+magnetron source work in Japan. Another point noted is the advantage of using pulsed 
+operation to obtain high peak ion currents to take advantage of the ion density squared 
+scaling for beam-beam reactions. 
+REFERENCES 
+2.1 R. L. Hirsch, "Inertial -Electrostatic Confinement of Ionized Fusion Gases," J. Appl. 
+Physics 38, no.11, (1967) pp. 4522-4534. 
+2.2 A. L. Gardner, "Studies of Charged-Particle Distributions in an Electrostatic 
+Confinement System, "U. S. Atomic Energy Commission Final Report N. C00-2180-7, 
+Washington, D. C. (1974 ). 
+2.3 G. H. Miley, Y. Gu, J. M. DeMorea, R. A. Stubbers, T. A. Hochberg, J. H. Nadler, 
+and R. A. Anderl, "Discharge Characteristics of the Spherical Inertial Electrostatic 
+Confinement (IEC) Device," IEEE Transactions Plasma Science, Vol. 24, No. 4, (1997) 
+pp, 733-739. 
+2.4 T.J. McGuire and R.J. Sedwick, "Improving IEC Particle Confinement Times Using 
+Multiple Grids" 7th US-Japan IEC Workshop, Los Alamos National Laboratory, NM, 
+March 14-16 (2005). 
+2.5 R.A. Anderl, J.K. Hartwell, J.H. Nadler, J.M. DeMora, R.A. Stubbers, and G.H . 
+Miley, "Development of an IEC Neutron Source for NDE," 16th Symposium on Fusion 
+Engineering, eds. G.H. Miley and C.M. Elliott, IEEE Conf. Proc. 95CH35852, IEEE, 
+Piscataway, NJ, (1996) pp. 1482-1485. 
+2.6 Y. Gu, M. Williams, R. Stubbers, and G. Miley, "Pulsed Operation of Spherical 
+Inertial-Electrostatic Confinement Device", Fusion Technology, Vol. 30, no. 3, (1996) 
+pp, 1342-1346. 
+20 
+UNCLASSIFIED/ /POK Offl@IAL WSE 8Nk\f

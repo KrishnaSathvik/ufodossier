@@ -1,0 +1,27 @@
+UNCLASSIFIED/ /FOR OSSICIAl WSE 8HLY 
+audio processing, and this is where multiple resource theory enters: different resources 
+can be considered independent if demands on one resource do not tax the availability of 
+capacity of the other. Performance of a task can be high or low: in general if spare 
+capacity is available, performance is high, and if capacity is limited or exceeded, 
+performance is low. Moreover, task demand enforces a fixed theoretical relationship 
+between mental workload and task performance: this is shown in Figure l. 
+Relationship between Workload and Task Performance 
+High 
+Performance 
+Workload 
+Low 
+D Al A2 A3 B C 
+Task Demand 
+Figure 1. One-dimensional Representation of Changes in Performance 
+as Workload Varies. Task demand increases to the right. In the three A 
+regions, performance remains unchanged : A2 is optimal, where a trained 
+operator exerts minimal effort to maintain a set level of performance. At times 
+of low demand the operator exerts effort to maintain vigilance (Al) until 
+demand is so low, the subject disengages from the task (D). The workload curve 
+is not well defined at very low levels of demand (dotted lines). At the other end, 
+as demand increases, the subject can exert effort to keep up with demand (A3) . 
+Additional effort mainta ins performance unt il degradation begins (B), and in the 
+overload condition, region C, performance is degraded beyond acceptable levels. 
+While effort is maintained in overload, some low level of performance exists . 
+UNCLASSIFIED/ /FOR OFFI@IAI: WSE OHl:l/ 
+2

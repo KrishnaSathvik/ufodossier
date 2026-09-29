@@ -1,0 +1,42 @@
+UNCLASSIFIED/ /fOR. 8FFl&IAk W&li ,HIia¥ 
+Chapter 1: Nanosatellite Technologies 
+OVERVIEW 
+Nanosats require technologies that radically reduce the mass and power of components 
+without compromising performance. In addition to miniaturizing components, methods 
+to integrate similar functions across subsystems are being evaluated. For example, all 
+subsystem electronics, including instruments, could be integrated within the Command 
+and Data Handling (C&DH) subsystem. Multifunctional solutions also offer significant 
+savings over traditiona l approaches. Technology investments are required to develop 
+or adapt components to accommodate the expected radiation environment. Simple, 
+effective methods of thermal control are essential to keep the nanosat operational 
+during extreme temperature variations. Autonomy is a critical technology that impacts 
+every subsystem. Constellations with tens to thousands of nanosats must be highly 
+autonomous to be practical. The nanosat ground system must be kept inexpensive, 
+simple, and made inter-operable with other missions. 
+PROPULSION 
+In the baseline mission, nanosat propulsion is needed for two distinct functions: 1) each 
+nanosat must raise its orbit apogee to the appropriate radius, 2) and it must reorient 
+the axis of the spinning nanosat from the velocity direct ion (within the orbit plane) to 
+its science mission attitude (perpendicular to the ecliptic plane). These maneuvers 
+present challenging velocity change (1W) and attitude-control (ACS) requirements. 
+Requirements for the Av Thruster : 
+• Total impulse: 3,000 to 7,000 N-sec. 
+• Thrust: 445 N maximum. 
+• Input power (during burn): < 1 watt. 
+• Specific impulse: 280 seconds. 
+Requirements for the ACS Thruster: 
+• Total impulse: $ 2.4 N-sec. 
+• Minimum impulse bit: 0.044 N-sec. 
+• Response time: < 0.005 sec. 
+• Pulse rate: 1 Hz. 
+It turns out that the tiv and ACS thrusters can have independent systems. We propose 
+a new innovation whereby the nanosat launch vehicle propulsion system also serves 
+double duty as the tiv thruster system, and this can be done without having to carry the 
+propulsion energy source into orbit. This can only be achieved via laser propulsion in 
+which the laser beam energy that is used to launch a nanosat into orbit is also used to 
+prov ide tiv thrust in orbit. This novel innovat ion dramatically reduces the mass, size, 
+cost, and complexity of nanosats because they will only need to carry minimal onboard 
+ACS thrusters and propellant to carry out routine, minor attitude adjustments. The 
+innovative nanosat laser propulsion concept is presented in Chapter 2. 
+UNCLASSIFIED//FOR O61ilCl.li.k W&& 8Ptl'l 
+3

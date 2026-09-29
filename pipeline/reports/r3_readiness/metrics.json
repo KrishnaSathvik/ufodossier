@@ -1,0 +1,144 @@
+{
+  "generated_at": "2026-09-25T21:03:59.304350+00:00",
+  "label": "v2",
+  "stage": "b",
+  "production_writes": false,
+  "documents_considered": 18,
+  "documents_source_only": 7,
+  "documents_extracted": 11,
+  "candidate_incidents": 40,
+  "quote_valid_incidents": 34,
+  "quote_rejected_incidents": 6,
+  "evidence_insufficient": 7,
+  "incidents_accepted": 27,
+  "new_event": 27,
+  "same_event_new_source": 0,
+  "likely_duplicate": 0,
+  "uncertain": 0,
+  "json_stats": {
+    "json_first_pass": 38,
+    "json_retry_success": 0,
+    "json_retry_failed": 0
+  },
+  "estimated_haiku_calls": 38,
+  "estimated_haiku_cost_usd": 0.76,
+  "runtime_seconds": 149.8,
+  "production_incidents_compared": 480,
+  "chunk_plan": [
+    {
+      "filename": "CIA-UAP-003.pdf",
+      "strategy": "fixed",
+      "sections": 13,
+      "section_chars": [
+        59834,
+        59744,
+        59752,
+        59952,
+        59950,
+        59989,
+        59585,
+        59834,
+        59936,
+        59623,
+        59335,
+        59599,
+        38440
+      ]
+    },
+    {
+      "filename": "CIA-UAP-005.pdf",
+      "strategy": "fixed",
+      "sections": 1,
+      "section_chars": [
+        12300
+      ]
+    },
+    {
+      "filename": "CIA-UAP-006.pdf",
+      "strategy": "fixed",
+      "sections": 1,
+      "section_chars": [
+        4823
+      ]
+    },
+    {
+      "filename": "CIA-UAP-016.pdf",
+      "strategy": "fixed",
+      "sections": 1,
+      "section_chars": [
+        5314
+      ]
+    },
+    {
+      "filename": "CIA-UAP-017.pdf",
+      "strategy": "fixed",
+      "sections": 1,
+      "section_chars": [
+        3841
+      ]
+    },
+    {
+      "filename": "DOW-UAP-D079.pdf",
+      "strategy": "fixed",
+      "sections": 1,
+      "section_chars": [
+        6374
+      ]
+    },
+    {
+      "filename": "FBI-UAP-D002.pdf",
+      "strategy": "fixed",
+      "sections": 1,
+      "section_chars": [
+        2176
+      ]
+    },
+    {
+      "filename": "FBI-UAP-D009.pdf",
+      "strategy": "fixed",
+      "sections": 1,
+      "section_chars": [
+        3217
+      ]
+    },
+    {
+      "filename": "FBI-UAP-D011.pdf",
+      "strategy": "fixed",
+      "sections": 1,
+      "section_chars": [
+        2915
+      ]
+    },
+    {
+      "filename": "FBI-UAP-D012.pdf",
+      "strategy": "cue_routed",
+      "sections": 10,
+      "section_chars": [
+        1041,
+        871,
+        5457,
+        4887,
+        1766,
+        2375,
+        1559,
+        1275,
+        1095,
+        930
+      ]
+    },
+    {
+      "filename": "NASA-UAP-D016.pdf",
+      "strategy": "fixed",
+      "sections": 7,
+      "section_chars": [
+        59625,
+        58914,
+        59664,
+        59928,
+        59275,
+        59219,
+        15439
+      ]
+    }
+  ]
+}

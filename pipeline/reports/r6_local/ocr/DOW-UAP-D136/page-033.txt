@@ -1,0 +1,17 @@
+UNCLASSIFIED/ /P'OR: OP'P'l@IAL WS& 0Nk¥ 
+Figure 23. A MEMS Microelectrode Array Implanted Into the Cortex of a Rat Brain. The lead wires from the 
+device can be seen . (NeuroNexus Inc.) 
+RETINAL DEVICES USING BIOMEMS 
+An example of MEMS being used in conjunction with wireless implantable systems is the 
+retinal implant . 
+These devices attempt to augment vision where it has failed due to problems such as 
+macular degeneration and retinitis pigmentosa. The basic idea is to use a miniature 
+video camera and connect it to an electrode array in the eye such that the scene in 
+view is converted to electrical impulses used to stimulate the sensation of sight by 
+direct stimulation of the receptors in the eye. Figure 24 shows this idea. 
+Figure 25 shows a microe lectrode array that has been manufactured on a polymer 
+substrate such that it is exceedingly thin and flexible. The flexibility is needed so that it 
+conforms to the curved shape of the back of the eye. The electrode pads seen are 
+attached by a flexible cable. 
+UNCLASSIFIED/ {FOR OFFICIO! !PEii QDlk¥ 
+27

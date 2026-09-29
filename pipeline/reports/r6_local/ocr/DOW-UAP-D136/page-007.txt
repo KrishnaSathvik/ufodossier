@@ -1,0 +1,37 @@
+UNCLASSIFIED/ /P'OR: OP'P'l@IAL WS& 0Nk¥ 
+What is BioM EMS? 
+BioMEMS stands for biomedical micro-_glectro-mechanical ~ystems. It is a name applied 
+to biological and medical devices that are created using advanced fabrication processes 
+that allow the devices to be very small relative to comparable devices produced by 
+traditional techniques. BioMEMS devices can also exploit the microscale to provide new 
+functions that are not practical or possible in large-scale devices. 
+The name applies to an exceptionally wide variety of engineered devices that derive 
+from electrical, mechanical, chemical, and molecu lar engineering. The name 
+distinguishes these from nanoMEMS which are submicron in scale such as carbon 
+nanotube structures. 
+Recently BioMEMS has become something of a misnomer as many of the latest 
+technologies are being designed and developed based on nanoscale technologies which 
+are many times smaller than microscale techno logies. While current devices are 
+manufactured mostly on the microscale, many of the functioning parts and the 
+materials they operate on are at the nanoscale level. 
+NanoMEMS for biomedical applications are mostly carbon-based materials that have 
+emerged as prime materials because of their favorable mechanical and electrical 
+properties. Carbon-based nanostr uctures such as graphene exhibit a high Young's 
+modulus (stiffness), high strength, low density, low friction and large surface area. The 
+low friction of a carbon nanotube allows product ion of practically frictionless bearings 
+and has thus been a huge motivation towards applications such as nanomotors. Carbon 
+nanostructure s are much stronger than steel, which allows carbon-based materials to 
+meet high-stress demands in biomedical applications such as weight-bearing 
+prosthetics (like hip-joint or bone replacements), where other materials would fail. 
+The field of BioMEMS encompasses micro devices that are often but not exclusively 
+made by the same photo lithographic techniques used to make computer chips. Their 
+applications include neuroprosthetics, sensors and actuators, and microchemistry 
+systems. A microchemistry system, often called a lab on a chip, can analyze chemical 
+properties of a very small quantity of material such as a tiny blood sample. Advanced 
+systems can perform several tests on the sample at one time. 
+There are also drug-delivery systems, miniature hearing aids, artificial retinas, DNA 
+analysis systems, cancer diagnostics, and an amazing variety of devices which support 
+the function of the human body. Figure 1 shows some devices that were developed by 
+the faculty of Biomedical Engineering at Arizona State Universit y. 
+UNCLASSIFIED/ {FOR OFFICIO! !PEii QDlk¥ 
+1

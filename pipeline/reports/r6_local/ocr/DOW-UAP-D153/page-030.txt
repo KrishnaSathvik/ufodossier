@@ -1,0 +1,35 @@
+UNCLASSIFIED/ /POI': OPPIClltt U.!I! Oflt I 
+detection losses. The input signal ais attenuated and, simultaneously, contaminated 
+by the vacuum fluctuations entering the second (unused) input port of the fictitious 
+beam splitter. The absorber acts like a fictitious beam splitter, and when light is 
+attenuated it can be imagined as being split into a transmitted part and an absorbed 
+part. On the other hand, we know from the fluctuation-dissipation theorem that losses 
+are always accompanied by fluctuat ions [57]. At least the vacuum fluctuations of the 
+absorbing medium must be taken into account. In the simple absorber model, these 
+fluctuations come into play via the second (unused) input port of the fictitious beam 
+splitter as shown in Figure 9. The annihilation operator aof the partially absorbed 
+(input signal) mode is transformed by the fictitious beam splitter according to 
+a,' =ri '12a+( l - riY'2 a,, where the factor 17 (0 < 17 s; 1) reduces the intensity of any initial 
+coherent state [a) to lril/2a) after undergoing partial absorption, a' is the output signal 
+mode that goes to the detector (which counts the number of photons it absorbs, 
+fi' =£,,'tcl), and d2 is the mode operator of the vacuum fluctuations entering the second 
+(unused) input port of the fictitious beam splitter. The second term (l - ri/ 2 a2 in a' is 
+essential to guarantee that the attenuated light field remains a proper bosonic mode, 
+otherwise energy conservation and the aforementioned bosonic commutation relations 
+would be violated. 
+Finally, we note without further elaboration that the mode operators, quadrature wave 
+functions, and Wigner functions are all rotated through some angle under the action of 
+a beam splitter. And the Wigner function of a signal is smoothed during absorption 
+under the action of a fictitious beam splitter. This provides additional models to 
+develop the properties of other types of optical instruments and understand their 
+behavior on incoming light modes (or input signals). 
+signal 
+a 
+---)---- absorption 
+vacuum 
+a2 
+detector 
+Figure 9. Illustration of a Fictitious Beam Splitter. 
+( courtesy of Ulf Leonhardt) 
+UNCLASSIFIED/ /POK OPPICIAL OSI! 014[1 
+26

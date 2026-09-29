@@ -1,0 +1,23 @@
+UNCLASSIFIED/ fFOA OFFI&il.t..k Y&& 8Ptk\f 
+Figure 10. Sodium Chamber Negative Energy Separator (Reference 41) 
+Another way to generate negative energy via squeezed light would be to manufacture 
+extremely reliable light pulses containing precisely one, two, three, etc., photons apiece 
+and combine them together to create squeezed states to order (Reference 47). 
+Superimposing many such states could theoretically produce bursts of intense negative 
+energy. See Figure 11 for a conceptual diagram of this concept. Photonic crystal 
+research has already demonstrated the feasibility of using photonic crystal waveguides 
+(mixing together the classical and quantum properties of optical materials) to engineer 
+light sources that produce beams containing precisely one, two, three, etc., photons. 
+For example, researchers at Melbourne University used a microwave oven to fuse a tiny 
+diamond, just 1/l000 th of a millimeter long, onto an optical fiber, which could be used 
+to create a single photon beam of light (Reference 48, 49). The combining of different 
+beams containing different (finite integer) numbers of photons is already state-of-the­
+art practice via numerous optical beam combining methods that can readily be 
+extended to our application . 
+• • • • 
+•• •• •• •• 
+••• ••• ••• ••• 
+••• ••••• 
+Figure 11 Alternative Conceptual Squeezed Light Negative Energy Generator 
+UNCLASSIFIEQ { {FOR OFFICIAL W&& 8HLY 
+15

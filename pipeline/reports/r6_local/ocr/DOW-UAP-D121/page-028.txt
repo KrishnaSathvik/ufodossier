@@ -1,0 +1,46 @@
+UNCLASSIFIED/ /POlt OFFl@IAL lel§li 9PUslf 
+Gyrotrons are important in narrowband 
+HPM production because the only 
+directed-energy weapon system known 
+to be fielded today is based on them. 
+The Active Denial System (ADS) uses a 
+gyrotron operating at 95 GHz that is 
+capable of continuous operation. Power 
+output is 100 kW, and the range is more 
+than 750 meters. The system uses an 
+innovative flat parabolic surface {FLAPS) 
+antenna to radiate a focused beam in a 
+manner similar to a parabolic dish. The 
+ADS is effective as a less-than-lethal 
+weapon for crowd dispersal. The 
+radiation passes through the 
+atmosphere with very low loss and is 
+absorbed in the outer layer of skin, 
+causing a burning sensation sufficiently Figure 4. Active Denial System With FLAPS Antenna 
+intense to trigger an involunta ry reflex 
+response in the target. Energy is deposited to a depth of about 0.4 mm. Figure 4 shows 
+a deployment of the ADS with the FLAPS antenna. 
+IMPULSE HPM SOURCES 
+Impulse HPM sources are typically ultrawideband. Microwave generation is 
+accomplished by charging the antenna, a transmission line, or a tuned circuit directly 
+with an extremely fast rise-time electrical pulse. This is usually done using a well­
+designed switch operating in an extremely overvolted condition. 
+SNIPER 
+SNIPER (Sub-Nanosecond ImPulsE Radiator) is an SNL HPM source operating at 290 kV 
+that is capable of greater-than-1-kHz PRR. The peak power in the 3.5-ns-wide pulse is 
+1.25 GW, and the rise time is approximately 150 ps, resulting in spectral content from 
+100 MHz to 1.5 GHz. The radiated field strength, normalized to a distance of 1 meter, is 
+120 kV/m using a transverse electromagnetic (TEM) horn. 
+EMBL 
+EMBL (EnantioMorphic Blumlein) is an SNL HPM source operating at 750 kV that is 
+capable of 700-Hz PRR. The peak power in the 3.5-ns-wide pulse is 11 GW, and the rise 
+time is about 200 ps. EMBL radiates a 285-ps impulse with a TEM horn antenna. Its 
+spectral content extends from 0.2 to 1.2 GHz, with the peak at 800 MHz. The radiated 
+field strength normalized to a distance of 1 meter is 350 kV/m. 
+H-SERIES HPM SOURCES 
+The H-series HPM sources-H2, H3, and HS-were built at the AFRL and used for 
+various tests of assets. They are all currently inactive, except for a modified version of 
+H3, which is being used for researc h at the University of New Mexico. The H-series HPM 
+sources are all coaxial line pulsers, meaning they contain a pulsed power section that 
+UNCLASSIFIED/fFOA OFFI&IAk lel§li 8rtt'f 
+20

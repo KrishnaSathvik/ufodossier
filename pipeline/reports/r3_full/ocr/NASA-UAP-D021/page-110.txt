@@ -1,0 +1,28 @@
+1JO 
+pitch down at guidance initiate . Attitude indications were 
+nominal all the way through. At insertion , the nomi nal 
+velocity on address 72 was 25,804 and when we read it up, i t 
+read 25,80 4. The orbit maneuvers using the computer and 
+the platform were right on the money. The accelerome ter 
+bias did not vary, and we burned them off on the IVI 
+1
+a by 
+insert i ng them through the MDIU, and it came out very well . 
+I did not burn on time , we burned on t he IVI 's. 
+Borman The updates were all made in the PRELAUNCH mode as agreed on 
+before fl i ght . There was no prob lem, no mi sunderstanding, 
+I think F0D did very well i n this regard. I know t hat in 
+Gemini 5 t here was a little mix-up, but we had none of that. 
+Borman Retrof ire occurred automa tica lly at the exact second. All 
+four Ret ros f ire d and the IRS was right on the money. Reentry 
+guidanc e was nominal. I t was very si mi lar to the si mulat ions 
+that we had f l o.m. There was one littl e anomaly in the guid­
+ance, i n t hat we were gi ven back-up reentry angl es of 
+50 degr ees. We computed wi th our onboard char t s a reen try 
+angle of 50 degrees, back-up angle of 50 degrees. But t hen 
+after tracking, the ground called up a 35 degrees which proved 
+to be closer to what we actua lly f l ew. I am s till not aware 
+of the reason for change; why it changed from 50 degrees t o 
+35 degrees. The important t hing i s t hat it did change and the 
+ground was able to update us in rea l time, and it agreed very 
+well with the a

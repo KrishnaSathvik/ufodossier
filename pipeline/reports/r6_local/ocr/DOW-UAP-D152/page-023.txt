@@ -1,0 +1,29 @@
+I 
+UNCLASSIFIED/ /P'OR. 8FFIEil1'1.k lellii Ql'II.¥ 
+x' =x-vt, 
+y =y, 
+(61)z' =z, 
+t' =t 
+transforming (59) into 
+(62) 
+After the body has settled into a new equilibrium in which 8/8t' = 0, one has instead of 
+(60) 
+(63) 
+Comparison of (63) with (60) shows that the left-hand side of (63) is the same if one 
+sets <D' =<D and dx' =dx.jI-v 2/ c2 . This implies a uniform contraction of the body by 
+the factor .jl - v2/c2 because the sources are contracted by the factor .J1- v2/c2 as 
+well, whereby the right-hand side of (63) becomes equal to the right-hand side of (60). 
+Since the zero-point energy is invariant under a Lorentz transformation, the quantum 
+potent ial changes in the same way as <I> . The body therefore sustains its static 
+equilibrium under a contraction by the factor .J1- v2/ c2 if set into absolute mot ion, 
+explaining the Lorentz contraction dynamically. 
+The clock retardation effect can be derived from the contraction effect, and from there 
+the Lorentz transformation. Following Builder [9] this original interpretation of Lorentz 
+invariance by Lorentz and Poincare has been worked out in every detail by Prokhovnik 
+[10]. To derive the clock retardation effect from the contraction effect one considers a 
+light clock, which is a rod with mirrors attached to its two ends in between which a light 
+signal is sent forth and back. If the length of the rod is l, and if the rod rests in the 
+distinguished reference system, the time needed for the light signal to be sent forth and 
+back is 
+UNCLASSIFIED/fFOA OFFI&il.t.k lellii OJi,k¥ 
+19

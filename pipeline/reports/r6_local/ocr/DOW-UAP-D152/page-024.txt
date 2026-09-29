@@ -1,0 +1,27 @@
+UNCLASSIFIED/ /P'OR. 8FFIEil1'1.k lellii Ql'II.¥ 
+t0 = 2llc. (64) 
+If prior to being set into motion the rod is inclined against the x-axis by the angle <p, it 
+appears to be inclined against the x-axis by the different angle 'l' after set into motion, 
+with 'l' expressed through cp by 
+tan If/ =r tan tp (65) 
+( v2 I c2 )-1/2 
+y = 1- . 
+The absolute motion then contracts the rod from Lto /': 
+(66) 
+Relative to the moving rod the velocity of light is anisotropic, and for the to and fro 
+directions given by 
+c+ = .Jc2 - v2 sin2 If/ - v cos If/ 
+(67) 
+C_ =,Jc2 -v2 sin 2 lj/ + VCOSlj/ 
+with the time t' for a to and fro signal given by 
+t' = l'I c+ +l'I c_ = yt0 . (68) 
+Therefore, as seen from an observer at rest in the distinguished reference system the 
+clock goes slower by the factory = 1/✓1 - v2I c2 , independent of the inclination of the 
+rod making up the clock. With solid bodies held together by electromagnetic forces, 
+clocks made from solid matter should behave like light clocks. As it was claimed by 
+Poincare, it should for this reason be possible to obtain the Lorentz transformations 
+solely from the contraction effect with a proper convention about the synchronization of 
+clocks. 
+According to Einstein, two clocks, A and B, are synchronized if 
+20 
+UNCLASSIFIED//P'Olll OPPIEll<L tt!II!! or~LY

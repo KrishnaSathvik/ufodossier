@@ -1,0 +1,42 @@
+UNCLASSIFIED/ /FOA QFFI@IAL l:191! t>flt I 
+(8) 
+Equation (8) really describes the mean photon number of a single mode in a squeezed 
+state, but one simply multiplies the right-hand side by /iro to get the mean energy 
+(Asqvac ) = hw(la.12 + ½+sinh 2~ )- We see in Eq. (8) that there are three terms 
+contributing to the energy: the first term accounts for the coherent energy given by 
+lal2, the second term is the vacuum zero-point energy 1/2, and the third term 
+quantifies the fluctuation energy of squeezed states. The contribution to this squeezing 
+energy originally comes from the pump used to generate the squeezed light. It is 
+stored in the enhanced fluctuations of the anti-squeezed component. Because both the 
+squeezed and the anti-squeezed quadratures contribute to the second line in Eq. (1), 
+even a squeezed vacuum carries energy. 
+However, Eq. (8) is not the final result because it only gives the mean energy of a 
+single mode in a squeezed state, while lasers and nonlinear crystal resonators produce 
+a very large number of modes. Equation (8) needs to be summed (integrated) over the 
+infinite number of possible modes; it must then be "renormalized" by sophist icated 
+mathematical techniques in order to get rid of the divergent (infinite) contribut ion from 
+the vacuum zero-point energy (a byproduct of taking an infinite sum of modes); and 
+then the result must be converted into units of energy density by dividing it by an 
+appropr iate volume element, because Einstein's general theory of relativity requires an 
+energy density (or pressure, both are in the same units) to induce spacetime bending. 
+The final result we seek is the energy density, PE-sqvac, given by Pfenning [ 46]: 
+Pe.sq= = ( 21,co) sinh c; [sinh c; +cos hi:; cos ( 2ro(t - z/c) +8)] (J / m3) , (9) 
+where L 3 is the volume of a large box with sides of length L (i.e., we put the quantum 
+field in a box with periodic boundary conditions) and 8 is the phase of squeezing. 
+Equation (9) shows that PE-sqvac falls below zero once every cycle when the condition 
+cosh~ > sinh~ is met. It turns out that this is always true for every nonzero value of ; , 
+so PE-sqvac becomes negative at some point in the cycle for a general squeezed vacuum 
+state. See Figure 1 for an illustration. Note in the figure that the blue troughs or 
+valleys are the negative energy pulses. On another note, when a quantum state is 
+close to a squeezed vacuum state, there will almost always be some negative energy 
+densities present. 
+Another way to generate negative energy via squeezed light would be to manufacture 
+extremely reliable light pulses containing precisely one, two, three, etc., photons apiece 
+and combine them together to create squeezed states to order. Superimposing many 
+such states could theoretically produce bursts of intense negative energy. Photonic 
+crystal research has already demonstrated the feasibility of using photonic crystal 
+waveguides (mixing together the classical and quantum properties of optical materials) 
+to engineer light sources that produce beams containing precisely one, two, three, etc., 
+photons. See Reference [1] for more details and for the references cited therein. 
+UNCLASSIFIED/ /fOtt 8Ffl@IAL Y§E 8,.LY 
+12

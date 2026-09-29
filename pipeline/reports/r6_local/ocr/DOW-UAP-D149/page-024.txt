@@ -1,0 +1,36 @@
+UNCLASSIFIED/ ,'FOR OFFI@IAI! WSE OHl!lf 
+forebody vehic le 
+Flow 
+inlet 
+Heated ~ owl lip 
+Deflecte d region tream line 
+Figure 9. Schematic of the Virtual Cowl Concept. Plasma-generated heated region 
+upstream of the cowl lip deflects the flow and scoops more air into the inlet. 
+Analysis of the reverse energy bypass involving MHD generator downstream of 
+the scramjet combustor and an optim ized virtual cowl revealed that, although 
+enthalpy extraction and entropy production in the MHD generator substantially 
+reduce the thrust, the combined system with virtual cowl can actually increase 
+thrust by as much as 20-30% .35, 36 
+From the system standpoint, this concept, with all its associated weight and 
+complexity, should be compared with that involving a movable (variable 
+geometry) cowl that is associated with a heavy and complex electrohydraulic 
+system and also requires power. An attractive feature of the reverse bypass 
+concept that might make it a winner is its multifunctional nature. Indeed, MHD 
+power generation downstream of the combustor can be an attractive power­
+production option for hypersonic vehicles. Alternatives (batteries, fuel cells, and 
+the like) are not very competitive for generation of large amounts (hundreds of 
+kW to 1-10 MW) of power onboard. Thus, if an MHD generator in the propulsion 
+flowpath is accepted as the power source, its operation in conjunction with a 
+virtual cowl that significantly increases thrust in off-design conditions, and also 
+enables aerodynamic control and maneuvering, would become quite practical. 
+Note also that if another source of high (MW-scale) power, such as a nuclear 
+reactor, is onboard, its use for virtual cowl, drag reduction, and aerodynamic 
+control would be straightforward and would greatly increase performance of the 
+hypersonic vehicle . 
+MHD APPLICATIONS TO REENTRY AND NEAR -ORBITAL FLIGHT 
+We now turn to MHD application to reentry and near-orbital flight. Due to the 
+high velocities and enthalpies involved, the gas temperature in shock and 
+boundary layers is very high, from several thousand to 10,000-20,000K. At 
+these temperatures, thermal ionization is very substantial, and at the low end of 
+UNCLASSIFIED/f8R OFFISIJ!ik W&E SHlb¥ 
+20

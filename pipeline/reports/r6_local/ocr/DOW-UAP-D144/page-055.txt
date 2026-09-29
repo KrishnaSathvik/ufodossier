@@ -1,0 +1,59 @@
+UNCLASSIFIED/ ,'FOR OFFI@IAL WSE ONLY 
+Appendix B: Endnotes 
+L Millis, Marc & Davis, Eric. (eds). (2009). Frontiers of Propulsion Science, Volume 227 of Progress in Astronautics 
+and Aeronautics, Reston, VA : American Institute of Aeronautics and Astronautics (AIAA) . 
+2 Millis & Davis (2009) p. 150, Specifically refer to Table-6. Methods in the first 6 rows of that table would not 
+require the double hull config uratio n. Also refer to the "gravitational control" methods discussed in the 
+subsequent chapter, 4, for more approaches. 
+3 Millis & Davis (2009) p. 487-489. 
+4 Millis & Davis (2009) Chapter 15. 
+5 Millis & Davis (2009) p. 127. 
+6 Millis & Davis (2009) Chapter 3. 
+7 Millis & Davis (2009) p. 166. 
+8 Millis & Davis (2009) Chapters 3-13, & 18. 
+9 Stokes, A., Wickens, C. & Kite, K. (1990). Display Technology - Human Factors Concepts, Warrendale, PA: 
+Society of Automotive Engineers, Inc. 
+to Millis & Davis (2009) p. 460. 
+11 Millis & Davis (2009) p. 456-459. 
+12 Millis & Davis (2009) p. 496-499. 
+13 Millis & Davis (2009) p. 132. 
+14 Moskowitz, S. & Devereux, W. (1970). Navigational Aspect of Transstellar Space Flight. In F. Ordway III (Ed.), 
+Advances in Space Science and Technology, Academic Press, Vol. 10, 75-126 
+15 Numerous references pertain to the overall study of human factors . The more sweeping of these include: 
+• Dismukes, R. (1991) . Aerospace human factors research division - Code FL. Internal document, NASA Ames 
+Research Center, Moffett Field, CA. 
+• Russo, D., Tillman, 8., & Pickett, L. (2009) . Human Factors Engineering Standards at NASA, Presented at 
+the Human Factors and Ergonomics Society Conference (22-26 Sep. 2008, Manhattan, NY). NASA Johnson 
+Space Center, Houston TX. 
+• Reason, J. (1990). Human Error. Cambridge, UK : Cambridge University Press. 
+• Stanton, N., et al. (2005). Human Factors Methods; A Practical Guide For Engineering and Design. Aldershot, 
+Hampshire : Ashgate Publishing Limited . 
+• Shneiderman, B. (1997) . Designing the User Interface: Strategies for Effective Human-Computer Interaction, 
+3rd edition. Boston, MA: Addison-Wesley Longman Publishing. 
+• Stokes, Wickens, & Kite, K. (1990) . 
+• Tilley, A. R., & Dreyfuss, H. (2001). The Measure of Man and Woman: Human Factors in Design. Wiley. 
+• Webb, P. (Ed.). (1964). Bioastronautics Data Book. NASA SP-3006. Washington DC: Scientific and Technical 
+Information Division . 
+16 Grifantini, K. (2010). GM Develops Augmented Reality Windshield. Technology Review, MIT, March 17. Retrieved 
+from < http://www. technologyreview. com/blog/editors/24936/?nlid =2828&a =f> 
+17 Morgan, B. ( 1985). DOD enlists voice control and expert systems. Electronic Products, Oct. 1, 65- 67. 
+18 Only a few gesture-based computer articles were consulted considering the assumption in this study that these 
+would be mature technologies by the time that propulsion breakthroughs become possible. 
+• Hall, Kenji. (2007) . The Big Ideas Behind Nintendo's Wii. Business Week . Retrieved from 
+< http://www . businessweek. com/technology /content/nov2006/tc20061116 _750580 .htm> 
+• Sutter, J. D. (2010/ June/ 18). New tech moves beyond the mouse, keyboard and screen. CNN. Retrieved 
+<http://www .cnn .com/2010/TECH/in novation/06/18/natural .user.i nterface . mouse/index. html?hpt=C2 >. 
+• Underkoffler, J. (2010). John Underkoffler Points to the Future of User Interfaces . TED Talks, June 2, 2010, 
+Retrieved from <http://www.huffingtonpost.com/tedtalks/john-underkoffler-points _b_597501.html > > 
+' 9 Only two Brain-Machine interface articles were consulted since the assumption of this study that these would be 
+mature technologies by the time that propulsion breakthroughs become possible. 
+• Genik II, R. J. (2009/ March/ 23). Technological Approaches to Controlling External Devices in the Absence 
+of Limb-operated Interfaces, Defense Intelligence Reference Document, DIA-08-1003-012 (unclassified). 
+• Sutter (2010). 
+20 Moravec H. (2000) Robot: Mere Machine to Transcendent Mind: Oxford University Press 
+21 Two references apply to this endnote: 
+• Stokes, Wickens, & Kite, K. (1990). 
+• Hoover, G. (1992). Stop Saturating Pilots with Alphanumeric Hieroglyphics. Aviation Week and Space 
+Technology, June. 15, 98-99. 
+50 
+UNCLASSIFIED/fFOA. OFFICIO ls. Plili ONls.¥

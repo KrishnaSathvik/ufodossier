@@ -1,0 +1,57 @@
+UNCLASSIFIED/ / FOR OFFIElIAk WSE OPtklf 
+Section II . Select Experiments 
+In this section some select experiments are briefly reviewed with the main focus on ion­
+injected IECs. Beginning with the early Hirsch gun injected IEC experiments that are 
+important both historically and from a physics perspective. Other experiments aimed at 
+"spin -off" applications are then covered, followed by a discussion of several recent gun 
+injection type studies. Readers interested in more detail should consult references. 
+In Reference 2.1, Robert Hirsh disclosed experimen t al results with very high D-T 
+neutron rates from an ion-injected IEC shown if Figure 2.1. 
+Note that six ion "guns" were used to create a low energy ion beam that entered the 
+chamber and was trapped via electrostatic structures to form the potential well 
+structure desired for IEC operation. However, differential pumping was not used so 
+beam-background and charge -exchange collision must have still played a significant 
+role in this experiment. Still Hirsch obtained "record" neutron rates for DT fusion shown 
+in Figure 2.2. 
+ROBERT L , HIRSCH 
+,010 
+0 u 109 w 
+ll) 
+.... 
+~ 0Q:: 
+t-
+~ 
+co.I 108 
+. 
+I-
+:, 
+0. 
+6 
+107 
+I-
+:J 
+.z 
+106 
+.. 
+e- ·--,r, / 
+' : 
+~ 
+HIGH VOL.TAG[ 
+DOME 
+CONU,INING 
+[g 
+AUXIL A,tY 
+POWER 
+SUPPI.IES 
+tHGH VOLTAGE 
+INSUL. ATOA 
+AP PUEO POT Tl~L - V 
+Figure 2.1. The "Historic" Early IEC Ion Injection Figure 2.2. Neutron Rates Measured With the IEC of 
+Experiment of R. Hirsch Working With Philo Figure 2,1 Exceeded 109 OT n/s at 150 kV. For 
+Farnsworth perspective, note that, as discussed later, UIUC IEC gridded 
+devices routin ely produce 108 DD n/s at "' 80 kV. This is 
+sl ightly above Hirsch's result but uses higher ion currents. 
+The key point about this remarkable result is that the neutron production rates are well 
+about that predicted by simple beam-background fusion reactions, implying that benefit 
+UNCLASSIFIED/ / &OA: O&&ICI AL !!ii ODt11 X 
+14

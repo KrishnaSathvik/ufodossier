@@ -1,0 +1,32 @@
+UNCLASSIFIED//FOR OFFl@IAL Y!H! 8HL'I 
+Contents 
+Summary ................................................................................................................ iv 
+Chapter 1: Introduction ......................................................................................... 1 
+Chapter 2: Measurement of Mental Workload ........................................................ 3 
+Subjective Measurements .................................................................................. 3 
+Performance Measures ....................................................................................... 4 
+Physiological Measures ...................................................................................... 4 
+Cardiac Function ............................................................................................ 5 
+CNS Measurements ........................................................................................ 6 
+Ocular Measurements ..................................................................................... 6 
+Skin Measurements ........................................................................................ 7 
+Serum Levels of Hormones ............................................................................. 7 
+Chapter 3: Studies in Cognitive Workload for Air Traffic Controllers ..................... 8 
+Modeling the Air Traffic Control Task ............................................................... 15 
+Chapter 4: Studies in Command of Multiple Semi-Automated Vehicles ................ 18 
+Chapter 5: Discussion .......................................................................................... 22 
+Chapter 6: Conclusions ........................................................................................ 23 
+References ........................................................................................................... 24 
+Figures 
+Figure 1. One-dimensional Representation of Changes in Performance as Workload 
+Varies ........................................................................... .......................................... 2 
+Figure 2. Typical EKG Signal for a Normal Heartbeat .............................................. 5 
+Figure 3. Air Traffic Control .................................................................................. 10 
+Figure 4. Representation of Performance Results from Brookings Study .............. 13 
+Figure 5. Information Processing Model for a Human Operator ............................ 16 
+Figure 6. Examples of Unmanned Military Vehicles .............................................. 19 
+Tables 
+Table 1. Variables used in Determining Complexity of the Traffic .................. 11 
+Table 2. Correlations among Physiological Variables ..................................... 14 
+UNCLASSIFIED/ j FOR OPPICI.AL YSlii &PU,¥ 
+iii

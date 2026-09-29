@@ -1,0 +1,37 @@
+UNCLASSIFIED/ fFOA. OFFICIAL WSE er•tv 
+Advanced airframe structures, pressure vessels and radar domes are frequently 
+fabricated using cut glass fibers or whole fiberglass cloth layers which are impregnated 
+with epoxy resin. These materials typically fail through a combination of thermal 
+ablation of the epoxy and delamination. Like metals, if the piece is under aerodynam ic 
+load or is part of a pressure vessel, failure will typically occur before complete burn­
+through although crack initiation and propagation is less likely due to the residual 
+strength of the fiberglass cloth after the epoxy is removed. Also, like metals the energy 
+required for penetration is thickness dependent. 
+Ceramic materials, similar in composition to common Corning Ware, are routinely used 
+in high temperature applications such as radomes for multi-mach air-to-air missiles or 
+engine components. Although designed to handle heat when absorbed slowly, it will 
+fracture and shatter if thermally shocked at moderate irradiance levels. Due to the 
+poor thermal conductivity of ceramic materials, a thick piece of ceramic will shatter at 
+almost the same irradiance and fluence levels as a much thinner piece. 
+A discussion of laser-material interact ion requires background information on the 
+hazards of eye damage from laser radiation. There is a popular misconception that 
+there are "eye safe" laser wavelengths in the infrared. The reality is that any 
+wavelength in the UV, visible or infrared can damage the eye or skin. The damage 
+mechanisms and damage thresholds, however, are a function of the laser's wavelength, 
+pulse length and pulse energy (if pulsed) or average irradiance (if continuous). Laser 
+wavelengths in the UV, visible and near infrared out to about 1.2 µm are the most 
+dangerous. These wavelengths pass easily through the cornea and ocular fluid and are 
+then focused on the retina where individual rods and cones can easily be permanently 
+destroyed. This damage leaves the person with localized blind spots in the eye's field 
+of view. Infrared wavelengths from about 1 µm to about 1.5 µm pass through the 
+cornea but are absorbed by the eye's ocular fluid which results in localized heating. 
+The damage threshold in this wavelength range is considerably higher than for retinal 
+damage but in extreme cases the eye can be destroyed. Infrared radiation at 
+wavelengths longer than about 1.5 µm is absorbed by the cornea and results in scarring 
+similar to cataracts. Although it requires considerably more energy to damage the 
+cornea than the retina, eye and skin safety at these wavelengths cannot be ignored. 
+There are detailed ANSI standards which establish the Maximum Permissible Exposure 
+(MPE) as a function of wavelength and pulse/continuous beam format. Figure 18 
+provides an example of single pulse MPE values for a variety of wavelengths. 
+UNCLASSIFIED/ fFOA QFFl€1AL WSE 8NLY 
+21

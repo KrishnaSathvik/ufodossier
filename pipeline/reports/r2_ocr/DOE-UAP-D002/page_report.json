@@ -1,0 +1,86 @@
+{
+  "filename": "DOE-UAP-D002.pdf",
+  "generated_at": "2026-09-25T14:27:56.537086+00:00",
+  "page_count": 4,
+  "usable_text_chars": 1148,
+  "stats": {
+    "native_good": 0,
+    "native_thin": 0,
+    "needs_ocr": 4,
+    "ocr_failed": 1,
+    "ocr_succeeded": 3,
+    "pages_ocrd": 4
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "native_quality": {
+        "page_number": 1,
+        "native_char_count": 16,
+        "printable_ratio": 0.938,
+        "alpha_ratio": 0.125,
+        "word_count": 0,
+        "replacement_char_count": 2,
+        "category": "native_thin",
+        "reason": "ocr_replaced_native (below native usability thresholds)"
+      },
+      "final_category": "native_thin",
+      "text_method": "tesseract",
+      "char_count": 72,
+      "text": ""
+    },
+    {
+      "page_number": 2,
+      "native_quality": {
+        "page_number": 2,
+        "native_char_count": 0,
+        "printable_ratio": 0.0,
+        "alpha_ratio": 0.0,
+        "word_count": 0,
+        "replacement_char_count": 0,
+        "category": "ocr_failed",
+        "reason": "ocr returned empty; keeping native"
+      },
+      "final_category": "ocr_failed",
+      "text_method": "empty",
+      "char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 3,
+      "native_quality": {
+        "page_number": 3,
+        "native_char_count": 533,
+        "printable_ratio": 0.994,
+        "alpha_ratio": 0.696,
+        "word_count": 70,
+        "replacement_char_count": 4,
+        "category": "native_good",
+        "reason": "ocr_replaced_native (high replacement/mojibake density)"
+      },
+      "final_category": "native_good",
+      "text_method": "tesseract",
+      "char_count": 479,
+      "text": ""
+    },
+    {
+      "page_number": 4,
+      "native_quality": {
+        "page_number": 4,
+        "native_char_count": 633,
+        "printable_ratio": 0.981,
+        "alpha_ratio": 0.624,
+        "word_count": 94,
+        "replacement_char_count": 6,
+        "category": "native_good",
+        "reason": "ocr_replaced_native (high replacement/mojibake density)"
+      },
+      "final_category": "native_good",
+      "text_method": "tesseract",
+      "char_count": 531,
+      "text": ""
+    }
+  ],
+  "combined_path": "pipeline/reports/r2_ocr/DOE-UAP-D002/combined.txt",
+  "production_writes": false
+}

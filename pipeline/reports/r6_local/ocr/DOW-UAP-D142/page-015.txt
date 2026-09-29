@@ -1,0 +1,32 @@
+UNCLASSIFIED/ /FOR OFFI@IAk WSE 9Ptk\f 
+10•18 Material: W 
+N coil: 2000 
+10·19 
+a coil: 1 cm 
+1o-20 b coil: 0.01 cm 
+VJ T: 3 Kelvin 
+1o-21 
+108 
+{{Hz 
+Figure 4. Theoretical Voltage Spectral Density of a Tungsten Coil 
+To successfully measure the ZPF-induced voltage fluctuations, the requirements of low 
+temperature, large coil, and high frequency must be met. The low-temperature 
+requirement is met by performing the experiment in a cooled dewar. Existing high­
+quality cryogen ic dewars (pumped down to 3 K) and sensitive laboratory instruments 
+are suitable for the measureme nts . The cold spot in one particular dewar under 
+consideration is cylindrical, 2.5 cm in both diameter and height. The largest coil that 
+can be installed will thus have a coil radius of approximately a = 1 cm. To keep the 
+linear dimension of the coil small will require a small wire thicknesses, perhaps b = 
+0.01 cm (gauge 38 AWG). By winding the coil in a number of layers (10 or 12 layers), a 
+large number of turns can be accommodated, perhaps N = 2,000 turns. To minimize 
+ohmic resistance, wire made of tungsten (W) is preferred; however, copper (Cu) is a 
+suitable alternative. 
+Voltage fluctuatio ns in the 100 MHz range are easily detected using commercially 
+available laboratory equipment; hence this experiment could be performed using 
+tungsten without resorting to the more sophisticated Josephson junction techniques 
+required by Koch et al. for their higher frequency measurements. For a copper wire coil, 
+the magnitude of the enhancement effect is reduced somewhat compared to the 
+tungsten results shown in Figure 4. But for frequencies approaching the GHz regime, 
+the radiation resistance enhancement effect in copper wire is still predicted to be over 
+UNCLASSIFIED/ /FOR OFFICI0L: 11ili QIU.,¥ 
+9

@@ -1,0 +1,30 @@
+UNCLASSIFIED//POlt Offl@IAL WS& &NkY 
+Chapter 3: Aneutronic Nuclear Fusion Schemes 
+Up to now, the fusion schemes described have the lowest fusion initiation temperatures 
+ranging from 10 million kelvin to about 300 million kelvin. Most of the energy released 
+from the fusion schemes in Figure 7 also release more than 80% of their energy in 
+neutrons. Neutrons are difficult to shield and present a safety concern for the crew of a 
+fusion-powered spacecraft. Unlike charged particles, their energy cannot easily be 
+converted into electricity using magnetohydrodynamic generators and they cannot be 
+focused into a propulsion beam to generate thrust. As a result, aneutronic fusion 
+schemes have been explored for possible use in space propulsion . The schemes with 
+the lowest temperat ure threshold are highlighted in Figure 9. 
+Figure 9. Aneutronic Fusion Schemes 
+Deuterium is readily available by centrifuging water, and protons are ionized hydrogen 
+atoms. Helium-3, however, is very rare on earth, although quantities of it exist in lunar 
+regolith due to ion impact on the Moon from the Sun. Over one million tons of helium-3 
+is estimated to exist on the lunar surface. Removing the helium-3 schemes does 
+shorten the table, and one of the most attractive schemes uses boron-11. Boron is 
+readily available on earth and 80.1 % of naturally-occurring boron is boron-11. 
+A consistent method of comparing each fusion scheme is based on how difficult it is to 
+initiate fusion. In 1955, John D. Lawson established a standardized measurement of the 
+performance of each fusion scheme based on the conditions required to initia te or ignite 
+fusion. Three terms occur in his performance number, referred to as the "Lawson 
+criteria." The triple product includes the plasma density (ne), the energy confinement 
+time (TE), and the plasma temperature. Lower values of the Lawson criteria indicate 
+better fusion ignition performance. 
+The Lawson criteria for D-T fusion is 34; this figure of merit is only 0.43 for the first 
+aneutronic fusion scheme, D-He3. Two of the best performing schemes are p-Li6 at 
+0.005 and p-B11 at 0.014. The ion temperatures required for both of these schemes 
+UNCLASSIFIED/fF&A &FFI&I:.l.k W&li &NkY 
+18

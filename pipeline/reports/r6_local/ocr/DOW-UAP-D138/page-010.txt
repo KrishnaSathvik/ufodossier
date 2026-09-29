@@ -1,0 +1,39 @@
+UNCLASSIFIED//F8R 8FFIOl:AL WSE 8HL\f 
+Table 2. Negative Energy Required for Warp Bubble 
+(Larger Negative Energy) 
+Warp Factor, Vwarp Ewarp (J) 
+10-5 (= 3 km/s) - 3.03 X 1040 
+10-4 (= 30 km/s) - 3.03 X 1042 
+0.01 (= 3,000 km/s) - 3.03 X 1046 
+0.5 (= 150,000 km/s) -7 .59 X 1049 
+1 ( = light speed) - 3.03 X 1050 
+2 (= 600,000 km/s) - 1.21 X 1051 
+10 (= 3.0 X 106 km/s) - 3.03 X 1052 
+100 (= 3.0 x 107 km/s) - 3.03 X 1054 
+Assume: R = 50 m cr = 103 m-1 
+Lobo and Visser (Reference 12) constructed an improved model of the warp drive 
+spacetime by applying linear ized gravity to the weak-field warp drive case and testing 
+the energy conditions to first and second orders of Vwarp , The fundamental basis of the ir 
+model is that it specifically includes a finite mass spaceship that interacts with the warp 
+bubble. Their results verified that all warp drive spacetimes violate the energy 
+conditions and will continue to do so for arbitrarily low warp bubble speed. They also 
+found that the energy condition violations in this class of spaceti mes is generic to the 
+form of the geometry under consideration and is not a side effect of the superlum inal 
+properties. Based on these facts plus Equation (2.3) and Table 2, it appears that for all 
+conceivable laboratory experiments in which negative energy can be created in m inute 
+amounts, the warp bubble speed will be absurdly low. 
+Coupling of the finite spaceship mass with the warp bubble leads to the (quite 
+reasonable) condition that the net total energy stored in the warp bubble be less than 
+the total rest-energy of the spaceship itself, which places a strong constra int upon the 
+(dimension less) speed of the warp bubble (Reference 3) : 
+< [2__ ( M .hip R , hip ti J]iv,.,.rp- 2 2 
+C R.h ip R (2.4) 
+where M ship and R ship are the mass and size of the spaceship, respectively, and R is the 
+radius of the warp bubble. Equation (2.4) indicates that for any reasonable values of 
+the enginee ring parameters inside the brackets, Vwarp will be absurdly low. This result is 
+due to the int rinsic nonlinear ity of the general relat ivist ic field equat ion. To illust rate 
+this point, the example starship paramete rs from Table 2 (R = 50 m, ~ 1/cr = 10-3 m) 
+are inserted into Equation (2.4) and assume M ship = 106 kg to find that Vwarp ~ 1.72 x 
+10-14 (or 5. 16 x 10-6 m/s). Garden snails can crawl faster than th is. And if Rand M ship 
+UNCLASSIFIED/ /F8R 8FFl6lal.tL W&i O~ILY 
+3

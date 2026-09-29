@@ -1,0 +1,46 @@
+UNCLASSIFIED/ /P'OR: OP'P'l@IAL WS& 0Nk¥ 
+Bionics and Neurointerfaces 
+Neuroprosthetics (also called neural 
+prosthetics) is a discipline related to 
+neuroscience and biomedical 
+engineering concerned with developing 
+neural prostheses. Neural prostheses 
+are devices that attempt to substitute 
+for a motor, sensory or cognitive 
+modality that might have been 
+damaged as a result of an injury or a 
+disease. 
+Bionics and neurointerfacing are 
+relatively new concepts. A 
+neurointerface is a combination of 
+software and hardware that trans lates 
+electrode signals to someth ing which is 
+understood by an electronic system. 
+The term bionics is used when we 
+connect organic matter with something 
+artificia l (human-made). 
+The design and development of neural 
+interface electrodes to the brain or 
+peripheral nerve has been going on for 
+more than twenty years. Figure 19 
+shows a mockup of a neuroprosthetic Figure 19. A Neuroprosthetic Interface. Adapted to 
+the needs of a quadriplegic for control of his environmentselectrode system for the human brain (Duke University) that is meant to tap into brain signals 
+and then through the use of a computer allow a quadr iplegic to control his environment. 
+BIOELECTRODES AND BIOMEMS 
+Electrodes that interface to the brain or nervous system are the most important 
+components of neuroprosthet ic systems. There are basically of two classes of 
+electrodes. One class does record ing of bioelectr ic events and the other provides 
+current to stimulate bioelectrical responses. 
+Both classes of electrodes need to be designed to be very robust for long term survival 
+in the hostile environment of the human body. For this reason only the noble metals of 
+platinum, iridium, gold, and to some extent the resistant metal tungsten are used for 
+electrodes. Nearly all other metals would corrode in the warm saline environment of 
+living tissues. Electronic exchange reactions occur at the electrode surfaces in both 
+recording and stimulation modes. 
+Many bioelectrodes are nothing more than fine wires insulated down their length and 
+then exposed at a needle tip where an electrical contact exists to tissue. These are 
+usually used in research for trying to understand brain function . Sometimes a single 
+electrode performs both recording as well as stimulation but more frequently the 
+electrode size and material is optimized to do one function or the other. 
+UNCLASSIFIED/ {FOR OFFICIO! !PEii QDlk¥ 
+22

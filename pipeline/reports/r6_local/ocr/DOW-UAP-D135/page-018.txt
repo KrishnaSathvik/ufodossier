@@ -1,0 +1,38 @@
+UNCLASSIFIED/ fFOA OFFIEIA~ W&li QPI~¥ 
+COSMOLOGICAL ANTIGRAVITY 
+It turns out that there is already a naturally occurring antigravity force that acts 
+throughout the universe. Actually, this force acts upon the entire spacetime structure of 
+the universe, and it is called cosmological inflation. Cosmological inflation causes the 
+universe to expand at an ever accelerating rate. In what follows, the nature of this 
+cosmological antigravity force and its potential aerospace propulsion application is 
+examined. 
+Pressure as a Source of Gravity 
+Newtonian gravitation is modified in the case of a relativistic perfect-fluid (where p << 
+PE cannot be assumed). The stress-energy tensor p v for this case is (Reference 16) : 
+(12) 
+where p is the fluid mass density, PE= pc2 is the fluid rest-energy density (or just 
+energy density), p is t he fluid pressure, u µ is the 4-velocity vector of the fluid, and gµ v is 
+the metric tensor. The Einstein general relativ istic field equation using the identity gµµ = 
+4 to obtain R =(8nG!c4)T, which is the Ricci curvature scalar can be contracted. And so 
+Equation (12) becomes T = PE - 3p, which is just the trace of p•v. Since T = PE - 3p, a 
+modified Newtonian gravitational Poisson equation is produced: 
+(13) 
+where ~ is the gravitational potential. It should be noted that the energy density and 
+pressure are kept as separate terms as opposed to Equations (7) and (8) in the 
+previous section. Equation (13) means that a gas of particles all moving at the same 
+speed u has an effective gravitational mass density of p(l + ii2/c2 ). Thus, for example, a 
+radiation-dominated fluid generates a gravitational attraction tw ice as strong as one 
+predicted by Newtonian gravity t heory according to Equation (13). 
+Vacuum Energy of Einstein's Cosmological Constant 
+A major consequence of the Einstein field equation is t hat pressure p becomes a source 
+of gravitationa l effects on an equal foot ing with the energy density PE• One consequence 
+of the gravitat ional effects of pressure is that a negative -pressure equat ion of state that 
+achieves PE + 3p < O in Equation (13) will produce gravitational repuls ion (that is, 
+antigravity). The Einstein field equation that includes a cosmological constant A is: 
+(14) 
+where Gµv is the Einstein curvature tensor. The A term, as it appears in Equation (14), 
+represents the curvature of empty space. Now if one moves this term over to the right­
+hand-side of Equation (14), which has become widespread practice in modern t imes, 
+then 
+UNCLASSIFIED/ /FOA OFFI&IAk Yi& 8,.k\f 
+13

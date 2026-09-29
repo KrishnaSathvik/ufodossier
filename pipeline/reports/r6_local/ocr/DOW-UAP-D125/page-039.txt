@@ -1,0 +1,41 @@
+UNCLASSIFIED/ /POlt 8ffl@IAk W&& Ql\1111¥ 
+predict fusion rates. This latter achievement makes spectroscopic measurements 
+simpler to carry out since hydrogen can be used to predict these fusion rates, which 
+excludes the radiation hazard in a laboratory situation where shielding is not possible. 
+In follow-on work, they simplified the modeling of charge exchange with an analytical 
+approach to charge exchange modeling based on Markov chain theory. 
+Table 4.1. Comparison of Analytical and Numerical Estimates of Q-values in 
+a beam-Dominated Solution -- for a SO-kV Square Well. 
+Analytical BAFP 
+(Chacon} 
+With co-moving ions Q~0.21 - Ref. 4.1, Nevins -
+Without co-moving ions Q~1.3 - Ref. 4.2 , Chacon Q~l 
+The movement of neutrals moving away from the cathode seen from the spectroscopic 
+measurements was also confirmed by carrying out a dusty plasma measurement to 
+show charged micron sized insulating spheres (dust) experience a force away from the 
+cathode centre (Reference 3.13). The explanation of this was attributed to a local 
+potential maximum established at the center of the cathode, which accelerates ions at 
+that point away from the center. Due to charge exchange, ions become neutrals and 
+are able to leave along the microchannels out to the anode. The ion drag force on the 
+dust moved the dust particles away from the center. Based on this observation, 
+Khachan has engineered the collimated beam of exiting neutrals from the cathode to 
+make a simple electric propulsion thruster where a unidirectional micro -channel 
+emerges from a conical cathode (Reference 3.14 ). He claims that the specific impulse of 
+the thruster and its efficiency greatly exceed existing electric propulsion thrusters. Note 
+that this concept, while having some similarities, differs in some details from Miley's jet 
+thrusts describe earlier. 
+CONCLUDING REMARKS 
+The primary focus of this section has been on two key alternate geometries: The 
+cylindrical and jet IECs. Both provide unique capabilities for applications using IEC 
+sources and IEC space thruster, respective ly. These uses, however, require competition 
+in commercial markets with other options. This IEC technology is just now emerging, so 
+its success in commercialization has yet to be established. More about such applications 
+is discussed in Section V. 
+In conclusion, the DaIEC is a very interest ing alternate IEC configuration. However, it 
+has received little experimental study to date, so much more needs to be done to fully 
+evaluate its potential. 
+REFERENCES 
+3.1 B. Bromley, L. Chacon, and G. Miley, "Approximate Modeling of Cylindrical Inertial 
+Electrostatic Confinement, (IEC) Fusion Neutron Generator," Proc. 16th International 
+32 
+UNCLASSIFIED/ /FOA OFFICI.IJ.L: Wi'li ONL:¥

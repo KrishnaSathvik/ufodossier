@@ -1,0 +1,40 @@
+UNCLASSIFIED/ /fOR. 8FFl&IAk W&li ,>all.¥ 
+associated with a part icular nanosat. Constellat ions th at fly in close format ion can 
+benefit by the use of inter-nanosat commun ications to reduce ground stat ion 
+contention. The data would flow from a single nanosat to the ground instead of coming 
+from every nanosat. Communications protocols for inter-nanosat communicat ions must 
+be developed. 
+AUTONOMY 
+Support costs are high if single-sate llit e mission operations and data analysis pract ices 
+are scaled to a constellation mission. Autonomy onboard the spacecraft and on the 
+ground is therefore required to ensure that mission objectives are efficiently and 
+inexpensively met. 
+Nanosat autonomy will make use of onboard and ground-based remote agents with the 
+overarching goal of maximizing the scientific or inte lligence return from each nanosat 
+during the mission lifetime. The remote agents achieve this goal by monitoring and 
+appropriately controlling nanosat subsystems. Additionally, the onboard agent 
+monitors the full complement of spacecraft sensors and instruments to heuristically 
+separate scientific or intelligence events of interest from background events, thereby 
+intelligently fitting the science/intelligence data within allocated spacecraft storage 
+resources. 
+Nanosats with distant orbits are out of communications range of a ground station for 
+nearly a week. Nanosat subsystems could be compromised if faults occurring during 
+this blackout period were not readily addressed. An unacceptable loss of scientific or 
+intelligence data could also occur. Therefore, the onboard agent will incorporate the 
+capability to detect, diagnose, and recover from faults. 
+Certain failure scenarios may not be correctable by the onboard agent. These faults will 
+be deferred to the ground agent for handling. Each nanosat will include data in its 
+telemetry on the health and status of each subsystem and a history of commands 
+autonomously issued since the last ground contact. The ground system will then 
+attempt to diagnose problems based on this data. Additionally, collective knowledge of 
+actions taken by all nanosats in the constellation will reside within the ground system 
+by virtue of the data dumps made during each contact. From this data the agent can 
+detect trends and systematic conditions not otherwise observable onboard the nanosat. 
+These highly autonomous systems will present a unique set of challenges not only to 
+the system designers, but also to those involved in spacecraft testing. Careful 
+consideration must be given to the design of the test program to ensure that the state­
+space of the remote agents is validated and verified. It is equally important to 
+implement this program in a cost-effective manner. However, we could likely justify 
+deploying considerable resources to address this issue since the methods developed to 
+solve these challenges can be applied to numerous missions. 
+UNCLASSIFIED,<,<FOA QFFI&IAL HSI!! OHLY

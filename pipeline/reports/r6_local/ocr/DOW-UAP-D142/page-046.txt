@@ -1,0 +1,48 @@
+UNCLASSIFIED/ /FOR OFFIEIAk WS& OPtkY 
+of ideal or real metals at a temperature of absolute zero. Non-zero temperature 
+corrections for flat, real metals are uncertain. There are fundamental disagreements 
+about the computation of vacuum forces for spheres or rectangular cavities, and 
+about how to handle real material properties and curvature in these and other 
+geometries. Indeed, it is very difficult to calculate Casimir forces for these simple 
+geometries and to relate the calculations to an experiment. Calculations have yet to 
+be done for more complex geometries. The usual problems in QED (for example, 
+divergences due to unrealistic boundary conditions, to curvature, to interfaces with 
+different dielectric coefficients) abound. These problems require theoretical and 
+experimental resolution. 
+• As stated in Section V, there is need to find new boundary conditions for the 
+vacuum that can alter the vacuum energy density by orders of magnitude more than 
+with the current boundary conditions, which are primarily metallic or dielectric 
+surfaces. Perhaps the use of new materials (for examp le, those with a negative 
+index of refraction, or an ultra-high electrical carrier density, either steady state or 
+transient), or novel condensed matter (superconducting) materials may open the 
+door to new Casimir phenomena. Recently the use of (negative index) 
+metamaterials was proposed to make a repulsive Casimir force (Reference 113). 
+With significantly increased funding for research, some breakthroughs in this area 
+might be possible. 
+• There are several important exper iments that can aid our understanding of vacuum 
+energy and Casimir forces that may lead to significant improvements in our 
+engineering capability: 
+- Experiments measuring the Casimir forces for semiconductor surfaces would be 
+helpful in the development of new applications of vacuum forces and to 
+demonstrate that it is possible to alter the Casimir force by altering the carrier 
+density. 
+- The measurement of Casimir forces and energies for different geometry and 
+composition objects, such as rectangular cavities or spheres, would provide data 
+for theoretical modeling. Measurements of Casimir forces between separate, 
+nonplanar surfaces are also needed. There may be surfaces that have larger 
+forces than the classic parallel plates. 
+- New boundary conditions or new methods of modifying the known quantum 
+vacuum boundary conditions may be needed to generate the large changes in 
+free-field vacuum energy required if "vacuum engineering" as proposed in this 
+report is ever to become practical. For example, the vacuum energy density 
+difference between parallel plates and the region outside them in free space is 
+simply not large enough in magnitude for large-scale engineering purposes. 
+Energy densities, positive or negative, that are orders of magnitude greater are 
+required. Such energy density regions may be possible, at least in some cases. 
+For example, a region appeared in the one-dimensional dynamic system in which 
+the energy density was below that of the Casimir parallel plate region (Reference 
+114). 
+- Experiments to verify the adiabatic Casimir effect have been suggested in the 
+literature. This is an important theoretical issue that has ramifications in different 
+UNCLASSIFIED/ /FOR OFFICIO! P!ili QIU.,¥ 
+40

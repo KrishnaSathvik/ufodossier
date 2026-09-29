@@ -1,0 +1,33 @@
+UNCLASSIFIED/ /f8Ft 8ffHHIIII:. .-se 8Hl:.V 
+Power & 
+Control Signals 
+Figure 4. Wellstone Fiber. A notional "Wellstone" fiber uses careful arrangements of conductors, semiconductors, 
+and insulators to produce a long, flexible cylinder whose surface is studded with arti ticial atoms . When woven 
+together, these fibers create a bulk material whose properties are programma ble via externa l signals. 
+In the future, advanced supercomputers may be able to monitor the objects around 
+us-our desks, our countertops, our walls and windows and chairs-and modify their 
+properties to suit the needs of the moment. Transparent or opaque? Reflective or 
+absorptive? Conductive or insulating? Magnetic? Flexible? Luminous? 
+In theory, a block of true Programmable Matter should be able to select any point on 
+any of these axes at any time. Other effects may be desired as well, including 
+magnetoresistivity, photo-/thermo-/piezoelectric effects, superconductivity, and the 
+ability to perform computations (a truly "smart" smart material). 
+Unfortunately, many of these traits are strongly correlated, so that, for example, a 
+material that managed to be both electrically conductive and thermally insulative 
+probably could not be made transparent as well. A computer is unlikely to double as an 
+air conditioner. Still, the possible combinations-the number of things we could actually 
+do-would be much larger than the (already vast) range of natural material 
+com bi nations. 
+Although the smart matter of 2050 will probably be operated electrically, electrical 
+operation presents a number of challenges today. First, the required nanostructures are 
+very small and intricate, with manufacturing tolerances that push or exceed the limits 
+of current technology. Second, the control wires, electrodes, and other conductors in 
+such devices mean they will likely be vulnerable to electromagnetic interference. Like a 
+pocket calculator in a microwave oven, programmable materials face a harsh 
+electromagnetic environment and will need to be shielded and safeguarded against 
+spurious behavior. In addition, there is the threat of hackers. As our society turns over 
+the control of more and more infrastructure to computers, we add not only new 
+strengths but also new vulnerabilities. We must be extremely cautious about handing 
+malicious hackers the keys to matter itself! 
+UNCLASSIFIED/ ,'FOR OEEIG'I0l 11&:E $Ull¥ 
+6

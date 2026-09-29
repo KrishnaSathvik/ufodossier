@@ -1,0 +1,61 @@
+UNCLASSIFIED / /+@R-OFFI6PAL-US6E-ON =
+
+3. Spin-Transfer-Torque
+
+This section focuses on the spin-transfer-torque (STT) phenomenon, which refers to a
+novel method to control and manipulate magnetic moments in nanostructures by spin
+currents—one of the forefront and most exciting areas in magnetism research today.
+
+3.1 STT BASICS
+
+The previous section showed that the magnetic state of a ferromagnet can affect its
+electrical transport properties; for instance, the relative orientation of the magnetic
+moments in magnetic multilayers underlies the phenomenon of GMR (Reference 1, 2).
+The inverse effect, in which a large electrical current density can perturb the magnetic
+state of a multilayer, has also been predicted (Reference 3, 4). Here the current
+transfers vector spin between the magnetic layers and induces precession and/or
+reversal of the layer magnetizations. Altering the magnetic state with spin currents is
+based on quantum mechanical exchange interaction and represents a novel method of
+magnetization control on the nanometer length scale and the picosecond time scale.
+
+The first observation of such a spin-
+transfer phenomenon in magnetic
+multilayers was recorded by Tsoi et al.
+(Reference 5) (see Figure 3). In this
+experiment, the spin-transfer-induced
+excitations were produced by injecting
+high-density electrical currents into a
+Co/Cu magnetic multilayer through a
+mechanical point contact. Point contacts
+smaller than 10 nanometers (nm) are
+formed when a sharpened Cu metal
+wire (tip) is carefully brought into
+contact with the multilayer. The
+extremely small cross-sectional area of
+such a contact makes it possible to
+achieve current densities in excess of
+10!2 A/m2. Because of its extremely
+
+small acm (<10 nm), point contact ma & Figure 3. Differential Resistance dV/dI of a
+very efficient probe of electrical Mechanical Point Contact as a Function of Current
+transport properties in extremely small for a Series of Magnetic Fields. The peak in dV/dl
+
+; : h indicates the onset of SST excitations. The inset shows
+sample volumes inaccessible with other that the threshold current at the peak in dV/dI increases
+
+techniques (for example, electron- linearly with the applied field. (Reference 5)
+beam-lithography patterning). The
+latter qualifies point contact as the smallest probe of STT today.
+
+dV/dI(Q)
+
+The STT phenomenon currently attracts considerable attention because it combines
+poorly understood fundamental science questions with the promise of applications in a
+broad range of technologies. In high-speed, high-density magnetic recording
+technology, for instance, SST could replace the Oersted field currently used for writing
+magnetic bits in storage media (for example, in magnetic random access memory
+[MRAM]). This may lead to a smaller and faster magnetic memory. Another possible
+application is based on the spin-transfer-induced precession of magnetization, which
+
+4
+UNCLASSIFIED / /f6teOFFTGEAE-USE-ONEY

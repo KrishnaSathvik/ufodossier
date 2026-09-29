@@ -1,0 +1,28 @@
+UNCLASSIFIED//POlt Offl@IAL WS& &NkY 
+Specific Impulse 
+To compare various propulsion systems and their fuel, rocket efficiency can be 
+represented by the amount of momentum that can be obtained per unit weight of the 
+propellant that is used. This is defined as the "specific impulse" (lsp) and is measured 
+in units of seconds: 
+I = Li(m v • . ,1w 11s,) = v ,x/11111S/ 
+(1.5),.,, ( )• Li ni geart h gea1·1/t 
+Here, earth's gravitationa l acceleration, gearth, is 9.81 m/s 2. As described earlier, the 
+best propulsion system is typically one that has the highest possible exhaust or 
+propellant velocity. High specific impulse, or correspondingly high exhaust velocity, 
+also produces low energy efficiency. 
+Table 1: Specific Impulse for Various Rocket Engine Types 
+En<1ine Tvpe Ve (m/s) Isa (s) 
+Saturn V Rocket 2nd and 3rd Staqes 4 130 421 
+LH2/LOX Liquid Fuel 
+Solid Rocket 2,500 255 
+Best Chemical Rocket Tested 5 320 542 
+F2/Li/H2 Chemical Rocket 
+Nuclear Therm al Rocket 8 340 850 
+Ion Thruster 29 000 3 000 
+VASIMR 290,000 30,000 
+The efficiency of a rocket can be defined as the ratio of rocket thrust to the power 
+required to generate the thrust. The resulting equations follow: 
+Power = dE 2 (1.6)= ½(dm) V dt 2 dt e 
+Thrust = (1.7)(dm)V dt ' 
+UNCLASSIFIED/fF&A &FFI&I:.l.k W&li &NkY 
+3

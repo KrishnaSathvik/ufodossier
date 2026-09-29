@@ -1,0 +1,15 @@
+UNCLASSIFIED/ ,'FOR OFFI@IAL WSE QptLY 
+·-----
+Figure 13. Provisional Breakthrough-Era Cockpit. The spherical zone around the cockpit center represents the 
+virtual surround display onto which images of the environment outside the vehicle are displayed. Keeping with 
+lessons of prior human interfaces, a minimal set of physical displays are also provided, with the most important 
+ones located deliberately in the "tunnel vision" zone in front of the pilot. [Graphic: A. Szames with background 
+image through M. Cherfi] 
+Manual With Safe Assist 
+To prevent the pilot from inadvertently flying into a hazardous situation, this mode 
+augments the manual flight controls by taking over to prevent collisions or to prevent 
+entry into hazardous zones (e.g., dangerous radiation or gravitational fields too strong 
+to escape). When the system must take over, it would be accompanied by force­
+feedback into the joysticks and obvious indications on the display. 
+UNCLASSIFIED/fFOA: OFFICIO la Plili Oralla¥ 
+33

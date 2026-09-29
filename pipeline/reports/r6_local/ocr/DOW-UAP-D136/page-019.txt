@@ -1,0 +1,45 @@
+UNCLASSIFIED/ /P'OR: OP'P'l@IAL WS& 8NI.¥ 
+So far, despite decades of work, no continuous monitoring sensor that is self contained 
+and implantable has been successful for long term usage. The human body is an 
+exceptionally hostile environment for foreign materials. Even our most advanced 
+biosensors fail over a period of days or weeks if continuously exposed to the body 
+environment. This failure is mostly due to the sensor chemistry wearing out in one way 
+or another or attack of the sensor interface by the body's immune system. Failure is not 
+generally attr ibuted to the materials of which the sensor is made. 
+MEMS Blood Glucose Sensors 
+Diabetes is an enormous world problem. A significant fraction of the annual world 
+health care expenditures can be traced back to diabetes, and its cousin, obesity. 
+Measurement of blood glucose on a regular basis, usually 3-4 times a day, allows a 
+diabetic to regulate his diet and insulin dose to achieve normal glucose levels. 
+Perhaps one of the most needed biosensors is that for an in-vivo blood glucose sensor. 
+These could be used to automatically control of the output of an insulin-delivery pump. 
+This would constitute a major improvement in the treatment of diabetes by 
+automatically using blood glucose concentration feedback to stabilize the blood glucose 
+levels with the exact level of needed insulin. This kind of system is sometimes called an 
+artific ial endocrine pancreas since it mimics the normal function of the pancreas in 
+regulating insulin release. 
+There are several attempts at using MEMS devices to produce indwelling glucose 
+sensors. These are presently on the market, but currently the sensors have relatively 
+short lifetimes, are disposable, and require replacement every few days. 
+Figure 9 shows this basic idea. An 
+implantable sensor produces an 
+electrical output that reports the blood 
+glucose concentration. Its signal is 
+transmitted to a receiver and then 
+processed by a computer to drive a 
+belt-worn pump. 
+The creation of such a sensor has been 
+a daunting problem from more than 30 
+years. The most recent attempts have 
+been in the use of micromachining to 
+produce optical devices of very small 
+size and to produce wireless 
+transmitting electrochemical sensor 
+devices small enough to be injected into 
+the body• Figure 9. Control of an Insulin-Delivery System by 
+an Implantable Glucose Sensor (Medtronic Inc.) 
+Coincident with the development of 
+sensors has been the need to develop very small wireless telemetry systems that 
+transmit the sensor data to outside the body. 
+UNCLASSIFIED/ {FOR OFFICIO! !Pfli ODIi.¥ 
+13

@@ -1,0 +1,36 @@
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I TABLE XIII CHI SQUARE TEST OF REVISED KNOWNS VERSUS 
+UNKNOWNS ON THE BASIS OF LIGHT BRIGHTNESS 
+I 
+Adjusted x2, 
+Number of Number of Number of (K-n) 2 
+Light Brightness KNOWNS KNOWNS (K) UNKNOWNS ( n) K 
+I Sunlight on mirror 24 8 14} 2.67 
+I 
+Sunlight on aluminum 136 46 28 
+Sunlight on plaster, 63 21 16 1. 19 
+I 
+stone, or soil 
+Brighter than moon 143 48 61 3.52 
+Like moon or duller 42 15 22 3. 27 
+I 
+than moon 
+Not stated 878 296 293 0.03 
+Total 1286 434 434 10.68 
+I 
+Degrees of freedom 4 
+I 5% 9.5 
+1% 13. 3
+I 
+I 
+I 
+I 
+I 
+I 75 
+I

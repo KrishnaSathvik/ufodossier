@@ -1,0 +1,29 @@
+UNCLASSIFIED/ /FOR. OFFICIAL t:191!!! OHL'f 
+For E b = 5 x 1019 erg, M 0 = 109 g, and setting for v = 10 km/s = 106 cm/s the escape 
+velocity from Earth, one finds that N ~ 10. Assuming an efficiency of 10 percent, about 
+100 1-kiloton explosions would therefore be needed. 
+Neutron Entrapment in an Autocatalytic Thermonuclear 
+Detonation Wave - a Means to Increase the Specific 
+Impulse and to Solve the Large Radiator Problem 
+The principal reason why neutrons released by thermonuclear reactions pose such a 
+serious problem is that they cannot be repelled from the spacecraft by a magnetic field. 
+However, choosing a neutron-absorbing target as shown in Figure 3, one can reduce 
+the flux of neutrons hitting the spacecraft. Besides inflicting material damage on the 
+spacecraft, the neutrons release heat that must be removed by a very large radiator. 
+The idea of the autocatalytic thermonuclear detonation wave (Reference 13) presents a 
+solution, which if feasible would very much reduce the magnitude of this problem. For 
+its implementation, it requires very large bremsstrahlung flux densities in the burn zone 
+behind the thermonuclear detonation front. Such large bremsstrahlung flux densities 
+will occur in deuterium detonation burn, at the highest temperature for all the 
+thermonuclear reactions. 
+In an autocatalytic thermonuclear detonation, explained in Figure 6, soft X-rays 
+generated through the burn of the thermonuclear plasma behind the detonation front 
+compress the still unburned thermonuclear fuel ahead of the front. The increase in the 
+fuel density, both in the Teller-Ulam configuration and in the autocatalytic 
+thermonuclear detonation wave, is of crucial importance, with the reaction rate 
+proportional to the square of the density. 
+Figure 6. Autocatalytic Thermonuclear Detonation Using a Soft X-ray Precursor From 
+the Burn Zone BZ to Precompress the Thermonuclear Fuel TF Ahead of the Detonation 
+Front DF. The soft x-rays travel through the gap G between the tamp T and the liner L. 
+UNCLASSIFIED/ /POil orr1e1s1tt t:191! OHL'f 
+18

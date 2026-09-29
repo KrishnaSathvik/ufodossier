@@ -1,0 +1,54 @@
+UNCLASSIFIED/ fFOR OFFI@IAI:: HSE OPtl::Y 
+Book (several hundred pages) Early scholarly textbook about space technology in general, including 
+interesting projections on displays and controls (Figure 29- 16). Despite the age of this text, much of its 
+foundational coverage is still valid. 
+• Stanton , N., et al. (2005). Human Factors Methods; A Practical Guide For Engineering and Design . Aldershot, 
+Hampshire: Ashgate Publishing Limited . 
+Book (571 pg) Title says it all. 
+• Shneiderman, B. (1997). Designing the User Interface : Strategies for Effective Human -Computer Interaction, 
+3rd edition. Boston, MA: Addison-Wesley Longman Publishing. 
+Book (639 pg) Covers a variety investigations, in particular the "Visual Information Seeking" (VIS) 
+princ iples by which people look for information . Like so many other references, it discusses how people 
+use visual models either directly or indirectly analogous to physical objects to arrange informat ion. Also 
+goes into detail about 
+o Time to learn 
+o Retention time 
+o Rate of errors 
+o Error recovery 
+o Cultural and individual differences 
+• Stokes, A., Wickens, C. & Kite, K. (1990). Display Technology - Human Factors Concepts. Warrendale, PA: 
+Society of Automotive Engineers, Inc . 
+Book (167 pgs) This was a major source of information for this study. Funded by General Motors, this is a 
+compilations of a variety of display research results, focusing on systems for pilots and drivers . 
+• Sutter, J. D. (2010/ June/ 18) . New tech moves beyond the mouse, keyboard and screen. CNN. Retrieved 
+from 
+<http://www.cnn.com/2010/TECH/in novation/06/18/natural .user.interface. mouse/index. html?hpt=C2 >. 
+News article describing a number of emerging technolog ies for the computer interface, including voice, 
+gesture commands, brain-controlled computing, eye-tracking software, and even having the images 
+appear virtually around you via special contact lenses. Cites the new Microsoft Kinect gesture-based 
+gaming system, and John Underkoffler - the science advisor to the 2002 movie, Minority Report, where 
+provocative interactions between the user and data are shown. Also reminds us that voice commands and 
+touch screens are now common with cell phones. Regardless of such advances, the keyboard is still likely 
+to be around for those lingering tasks that still cannot be comfortably done with the new "Natural 
+Interface" technology. Also discusses the difficulty with such systems, citing the tiring aspect of gesture­
+based systems, the likelihood of misinterpretation of motions, and the lack of tactile feedback. 
+• Tufte, E. (1991) . Envisioning Information . Cheshire, CT: Graphics Press. 
+Book (126 pg) Comprehensive examples about graphically presenting information, including bad examples 
+to avoid. Useful for general rules on use of color, shading, lines, etc. Although focused on stat ic display of 
+information (print material instead of dynamic displays), many of the lessons of human perception equally 
+apply. It does not address dynamic displays or system integration. 
+• Tilley, A. R., & Dreyfuss, H. (2001). The Measure of Man and Woman: Human Factors in Design. Wiley. 
+Book (104 pg) Comprehensive information regarding anthropometric charts - dimensions and positions of 
+humans, male and female, to be used as references when designing chairs, consoles, or other human 
+factors equipment. This builds on decades of work from designer Henry Dreyfuss who first started 
+publishing in this field in 1955. 
+• Underkoffler, J. (2010). John Underkoff ler Points to the Future of User Interfaces. TED Talks, June 2, 2010, 
+Retrieved from <http://www.huffingtonpost.com/tedtalks/john-underkoffler -points_b_597 SO 1.html>> 
+Lecture (YouTube) About the status and projections of gesture-based user interfaces. Underkoffler was 
+the science advisor to the 2002 movie, Minority Report, where provocative interactions between a user 
+and data are shown. He is also a 15-year veteran of MIT's Media Laboratory. The key take-away points 
+from this lecture include projections that gesture-based interfaces will be available in products before 
+2015, and will no longer require gloves or other devices to be worn by the user. Errors, however, such as 
+the computer misinterpreting an unintended motion as a command input, are likely to remain issues. 
+UNCLASSIFIED/fFOA. OFFICIO ls. Plili Olhlls.¥ 
+48

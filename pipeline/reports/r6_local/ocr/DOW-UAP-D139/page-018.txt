@@ -1,0 +1,46 @@
+UNCLASSIFIED/ fFOA OFFl&I.t..k YS& 8Ptk\f 
+one can call this material property "exotic." The condition for ordinary, classical (non­
+exotic) forms of matter that all are familiar with in nature is that PE > P i and/or PE ~ 0. 
+These conditions represent two examples of what are variously called the "standard" 
+energy conditions: Weak Energy Condition (WEC: PE~ 0, PE+ Pi ~ 0), Null Energy 
+Condition (NEC: PE + Pi~ 0), Dominant Energy Condition (DEC), and Strong Energy 
+Condition (SEC). These energy conditions forbid negative energy density between 
+material objects to occur in nature, but they are mere hypotheses. Hawking and Ellis 
+(Reference 11) formulated the energy conditions in order to establish a series of 
+mathematical hypotheses governing the behavior of collapsed-matter singularities in 
+their study of cosmology and black hole physics. More specifically, classical general 
+relativity allows one to prove lots of general theorems about the behavior of matter in 
+gravitational fields. The impact or implications of the DEC or SEC will not be considered 
+because they add no new information beyond the WEC and NEC. 
+The bad news is that real physical matter is not "reasonable" because the energy 
+conditions are in general violated by semiclassical quantum effects (occurring at order 
+ri) (Reference 3). 5 More specifically, quantum effects generically violate the average 
+NEC (ANEC). Furthermore, it was discovered in 1965 that quantum field theory has the 
+remarkable property of allowing states of matter contain ing local regions of negat ive 
+energy density or negative fluxes (Reference 12). This violates the WEC, which 
+postulates that the local energy density is non-negative for all observers. And there are 
+also general theorems of differential geometry that guarantee that there must be a 
+violation of one, some, or all of the energy conditions (meaning exotic matter is 
+present) for all traversable wormhole spacetimes. With respect to creating traversable 
+wormhole spacetimes, "negative energy" has the unfortunate reputatio n of alarming 
+physicists. This is unfounded since all the energy condition hypotheses have been 
+experimentally tested in the laboratory and experimentally shown to be false - 25 years 
+before their formulation (Reference 13). 
+Further investigation into this technical issue showed that violations of the energy 
+conditions are widespread for all forms of both "reasonable" classical and quantum 
+matter (Reference 14-18). Furthermore, Visser (Reference 3) showed that all (generic) 
+spacetime geometries violate all the energy conditions. So the condition that PE > Pi 
+and/or PE ~ 0 must be obeyed by all forms of matter in nature is spurious. Violating the 
+energy conditions commits no offense against nature. Negative energy has been 
+produced in the laboratory and this will be discussed in the following sections. 
+A. EXAMPLES OF EXOTIC OR "NEGATIVE" ENERGY FOUND IN 
+NATURE 
+The exotic (energy condition-violat ing) fields that are known to occur in nature are: 
+• Static, radially-dependent electric or magnetic fields. These are borderline exotic, if 
+their tension were infinitesimally larger, for a given energy density (Reference 11, 
+19). 
+• Squeezed quantum vacuum states: electromagnetic and other (non-Maxwellian) 
+quantum fields (Reference 1, 20). 
+5 Planck's reduced constant, lJ = 1.055 x 10- 34 J-s. 
+UNCLASSIFIEQ { (FOR OFFICIAL WS& 8HLY 
+10

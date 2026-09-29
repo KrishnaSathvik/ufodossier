@@ -1,0 +1,56 @@
+UNCLASSIFIED / SFO OFFECEAL-USE-ONEY
+
+permanent magnets), and a larger disk was spun at lower temperatures, the shielding
+effect would be extremely small.
+
+The experiment has remained controversial since its publication. Very few scientists put
+any stock into it at all. Most damning to Podkletnov’s case was the complete lack of any
+supporting evidence that the experiment had ever actually taken place.
+
+As the Podkletnov article began to slowly circulate, Li and Torr published another article
+(Reference 18) expanding on their earlier investigations in an attempt to outline the
+physical mechanism underlying the production of a gravitomagnetic field inside a
+superconductor. Basic to their consideration was an assumption of near-zero magnetic
+permeability in the superconductor and the requirement of coherent alignment of lattice
+ion spins in conjunction with a time-varying applied magnetic vector potential field.
+With this understanding, they determined values for laboratory-scale induced internal
+gravitomagnetic fields and external gravitoelectric fields and how these fields could be
+maximized. However, in 1994 Kowitt (Reference 26) claimed that their 1992 and 1993
+results were not credible owing to their assumption of near-zero permeability inside a
+superconductor. However, Li and Torr rather effectively countered shortly thereafter,
+and Woods (Reference 3) also called that criticism into question. Later, however, Harris
+(Reference 27) argued in a more effective critique that Li and Torr’s previous results
+were erroneous because they assumed arbitrary (and extremely small) distances from
+the lattice ion to the observer, thus producing unreasonably large effects. In fact, Harris
+pointed out that the correct estimation of the induced gravitoelectric field outside a
+superconductor is some 20 orders of magnitude smaller! No evident rebuttal has been
+forthcoming from Li or Torr.
+
+At about this time, Torr and Li parted company, although both continued to work in the
+area. In 1995, Li was sufficiently convinced that she now had the answer to producing
+an artificial gravity field that could be measured outside a superconductor that she
+approached R. Koczor at NASA to fund further development of her version of the
+theory. By this time the Podkletnov paper had been “discovered,” and a few forward-
+thinking NASA scientists determined that perhaps it was time to initiate some research
+in the area. After all, now there was a peer-reviewed theoretical basis for a peer-
+reviewed experiment. Also at this time, this author and colleagues began preliminary
+experiments in Toronto after contacting Podkletnov. Our approach was to attempt to
+reproduce the 1992 Physica C spinning disk experiment with additional data from
+Podkletnov but using a better cryogenic design with the possibility of mechanically
+spinning the disk. This author and colleagues started manufacturing our own large
+YBCO disks in house.
+
+The following year, while still at the Tampere University of Technology’s Institute for
+Materials Science, Podkletnov and Vuorinen attempted to publish updated spinning disk
+experiments in the British Journal of Physics D Applied Phys Vol. 29 (1996), but the
+paper was withdrawn in a cloud of controversy. It was later published on the Internet
+(Reference 28) under the authorship of Podkletnov and Levit and then Podkletnov
+alone. Vuorinen and Levit had coauthored papers on ceramic processing with
+Podkletnov previously. This new experiment involved a large AC levitated 27-cm-
+diameter bi-layer sintered YBCO disk spun to 5,000 rpm using two-phase high-
+frequency radiofrequency (RF) “rotation” fields and allegedly showed gravitational
+shielding in the few percent range. The cryostat design was somewhat better in that
+there was considerably more shielding of the test mass from buoyancy and thermal
+
+6
+UNCLASSIFIED / /+0-R-OFFLGEAi-USE-OE*

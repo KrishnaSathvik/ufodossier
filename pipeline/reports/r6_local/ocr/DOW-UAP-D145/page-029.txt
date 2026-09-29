@@ -1,0 +1,46 @@
+UNCLASSIFIED//POlt Offl@IAL WS& &NkY 
+Chapter 5: Aneutronic Fusion Propulsion Projects 
+As discussed above, several techniques are currently being explored by research groups 
+and private companies to employ nuclear fusion for space propulsion. Their efforts over 
+the past 60 years have resulted in three classes of fusion drives, which are 
+representative of magnetic, inertial, and antimatter schemes. These include magnetic 
+confinement fusion (MCF), inertial confinement fusion (ICF), magnetized target fusion 
+(MTF), inertial electrostatic confinement (IEC), and antimatter-catalyzed fusion 
+applications. 
+Magnetic confinement fusion employs an electromagnet system that forces ions in a 
+plasma to follow a toroidal-shaped magnetic field. Tokomaks and spheromaks employ 
+this method and, between 1987 and 2004, the NASA Glenn Research Center developed 
+the concept for Discovery II vehicle designed to deliver payloads to Jupiter and Saturn 
+in a 4- to 6-month journey. 
+The simplest methods for fusion propulsion tend to use pulses from the detonation of 
+nuclear devices. Other methods are based on the ejection of a propellant gas or ions to 
+generate thrust. 
+NUCLEAR PULSE PROPULSION 
+In this method, nuclear explosions are used to provide rocket thrust. The explosions 
+act upon a steel pusher plate attached to the rear of the rocket and shock absorbers 
+cushion the impact to the crew and payload. General Atomics first proposed this 
+technique in the late 1950s under Project Orion. 11 • 12 With a maximum specific impulse 
+of 100,000 seconds, this is one of the few fusion technologies that can be built with 
+existing technology. Radiation exposure to the crew and the high period of acceleration 
+induced by this propulsion system poses significant problems, yet a mission to Mars 
+could only take 4 weeks using this technology instead of the 12 months required for 
+conventional chemical rockets. 
+Project Orion led to Project Daedalus in the 1970s, pioneered by the British 
+Interplanetary Society for missions to nearby stars. 1 In this design, a D-Li6 or D-He3 
+pellet would be imploded and the exhaust materials directed by an electromagnetic field 
+to provide thrust for the rocket. The pellet would be ignited by multiple lasers that 
+would strike the pellet and ablate the outer surface to generate a large implosive force. 
+A concept known as "Medusa" was developed in the 1990s that employed a large "sail" 
+ahead of the payload. Fusion explosions between the payload and the sail would carry 
+the payload forward. Specific impulses of as high as 100, 000 seconds were possible. 
+Project Longshot, a conceptual spacecraft explored by the U.S. Navy and NASA in the 
+1990s, would have employed an electromagnetic funnel and ICF to power a rocket 
+1 Project Deadalus, led by Alan Bond, was a 5-year design study undertaken by the British 
+Interplanetary Association between 1973 and 1978. The study focused on designing an 
+unmanned, interstellar probe. Specifications were that the probe must use current (or 
+near-term ) technology and be able to reach its destination within a human lifetime. The 
+probe's chosen destination was Barnard's Star (5.9 light years away), estimated to take 50 
+years at speeds up to 12% of the speed of light. The major stimulus for the project was 
+Friedwardt Winterberg's ICF concept. 
+UNCLASSIFIED/fF&A &FFI&I:.l.k W&li &NkY 
+21

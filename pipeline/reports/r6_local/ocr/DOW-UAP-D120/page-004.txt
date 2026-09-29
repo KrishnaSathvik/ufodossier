@@ -1,0 +1,49 @@
+UNCLASSIFIED/ /FOA OFFI€1Ak Ulilii ONkY 
+Materials for Advanced Aerospace Platforms 
+Introduction 
+"Advanced aerospace platforms" is a broad topic that can be divided into 
+several narrower subtopics to enable a more concise discussion of materials 
+advances, challenges, and opportunities. Consequently, this document 
+discusses the areas of launch vehicles, space vehicles, and space propulsion 
+systems separately because their key requirements are often application 
+specific, which affects materials selection decisions. In addition, single-use 
+and reusable boosters have different durability requirements that directly 
+impinge on design and materials selection. Furthermore, current engineering 
+practice has evolved to the point that design synthesis must integrate the 
+structure and construction materials to achieve optimum product performance. 
+For example, the space shuttle was designed to meet customer-imposed 
+mission requirements (range, payload, empty weight, landing capability, and 
+so forth) without significant real-time consideration of materials capability. 
+This approach led to significant compromises at later stages in the shuttle's 
+development and maturation. (Arguably, the shuttle could be designed as a 
+more efficient vehicle today.) In the extreme, a spectacular engineering 
+failure was the National Aerospace Plane (also dubbed the Orient Express), 
+which was launched as a military project and was intended to be a mach 12 
+reusable strike vehicle. This project rapidly became materials limited and was 
+canceled in 1993, after about $750 million in federal R&D expenditures and a 
+substantial private sector investment. The point is that any "clean sheet of 
+paper design" must start with an assessment of the requirements for 
+construction materials and be accompanied by a realistic assessment of the 
+capability of currently available materials to meet these needs. If these two 
+assessments indicate a gap between requirements and existing materials 
+capability, a risk assessment and a risk-mitigation plan must be developed 
+before expending engineering hours and funds. 
+Since the inception of manned space flight, the approach to design has 
+changed to include the concept of damage tolerance. This shift in design 
+philosophy was prompted by the (eventual) recognition that complex 
+structures cannot be designed and produced with zero defects. With the 
+maturation of fracture mechanics and means of reducing these concepts to 
+practice, the transition from zero defects to defect tolerance became the norm. 
+This new approach in turn led to recognition that high-performance materials 
+required not only high specific strength and stiffness but pacing increases in 
+strength with simultaneous improvements in fracture toughness and fatigue 
+crack growth resistance. The introduction of damage tolerance was 
+accompanied by a renewed emphasis on nondestructive inspection capabilities. 
+This latter thrust was driven by the need to demonstrate the capability to 
+reproducibly locate small flaws that could become failure initiation sites, 
+either because of static or because of cyclic loading conditions. In the case of 
+atmospheric flight, the U.S. Air Force has introduced standards for airframes 
+(the Aircraft Structural Integrity Program) and propulsion systems (the 
+Engine Structural Integrity Program) that tie structural life and reliability to 
+iv 
+UNCLASSIFIED/ /FOA OFFl&IAI:: U&li &Ptl::lf

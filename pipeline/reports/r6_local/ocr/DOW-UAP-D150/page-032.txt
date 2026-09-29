@@ -1,0 +1,36 @@
+UNCLASSIFIED/ /P91t 9PPl@IAL l:ISIE 8HLY 
+(a) 
+Mismatched 
+~ 
+Facet 
+c ) 
+~OOm 
+~'::eRW 1y 
+Figure 15. Three Types of Error in DNA Tile Self-assembly (a) 
+Growth error (b) Facet error (c) Nucleation error. Red lines 
+indicate the mismatched sides. 
+Self-assembly with DNA-based Microfluidic Devices 
+Thus far we have explored DNA computing through methods based on linear DNA molecule 
+hybrid izations (100) and "DNA tiles" with four "sticky ends"(101) . While it has been proven 
+experimentally that DNA tiles have much stronger computational power compared to linear 
+DNA strands (102)(103), the suppression of assembly errors is the central problem of the 
+DNA-tile-based nanotechnology. Even though several error reduction methods have been 
+proposed thus far, many of them only consider the design of DNA tile sets. (104) 
+Traditionally, the result is a complicated tile set and these approaches are rarely 
+implemented. To overcome these restraints, researchers in Tokyo devised a microfluidic 
+device specially designed for DNA tile assembly ( 105). 
+Traditional DNA Tile assembly methods require that all the DNA tiles are mixed in a single 
+test tube, annealed for self-assembly, and then the mixture is dropped on a mica surface for 
+AFM observation. Since all kinds of tiles are assembled in one pot, DNA tile sets must be very 
+carefully designed such that each sticky end has an appropriate bonding specificity and 
+strength to obta in desired structure. In practice, it is very diff icult to keep concentrations of 
+each monomer tile in one-pot self-assembly. Additionally, the assembly process is strong ly 
+affected by the concentration of the DNA tile and the temperature of the water solution. 
+With the microfluid ic DNA tile self-assembler, a series of stepwise assembly processes are 
+incorporated into construct ion of the tile lattice . In the microfluid ic device, pre-assembled 
+DNA lattices are anchored on the microfluidic channel to initiate tile growth through the 
+following steps: 1) Single-strand DNAs are immobilized on the surface of a reaction chamber. 
+This provides scaffolds to initiate the self-assembly process, while anchoring the assembled 
+structure against the flow. 2) Monomer DNA tiles are supplied by flow in the microchannel. A 
+UNCLASSIFIED/ lfQR OEEICIAk WSIE 9Htt 
+31

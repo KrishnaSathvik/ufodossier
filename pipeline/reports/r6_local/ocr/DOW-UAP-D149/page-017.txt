@@ -1,0 +1,47 @@
+UNCLASSIFIED/ /FOR OFFI@IAL 1!19! 8HLV 
+the shock or boundary layer with a modest amount of alkali metal vapor helps in 
+getting the conductivity close to the maximum achievable level of ~3,000 
+mho/m. At this level of conductivity, a modest magnetic field, B~0.1-0.3 Tesla, 
+is sufficient for substantial MHD effects (power generation, flow acceleration, or 
+aerodynamic control). However, at gas temperatures of "only" 1,500-2,000K or 
+so typical for scramjet combustors, even seeding the flow with alkali vapor 
+results in conductivities no higher than 10-30 mho/m, in which case the strength 
+of magnetic field required for substantial MHD performance at L= 1 meter or less 
+is quite high: 8=3-10 Tesla. The weight, volume, and complexity associated with 
+such a strong magnetic field that must be created in such a large volume make 
+this application very problematic. 
+NONEQUILIBRIUM MHD IN COLD AIR FLOWS 
+The situation becomes worse in relatively cold air. Indeed, static gas 
+temperatures at Mach number less than about 12 are quite low (<1,S00K) even 
+in shock and boundary layers. At these temperatures, the electrical conductivity 
+of air, even if seeded with alkali metals, is negligible. For MHD devices to operate 
+in such conditions, conductivity (ionization) has to be created in a nonthermal 
+(nonequilibrium) way. Nonequilibrium (i.e., with cold gas and hot electrons) 
+plasmas are routinely sustained in glow and RF discharges such as those in 
+fluorescent light tubes and devices used in microchip fabrication. The principal 
+differences between those devices and the MHD systems for aeronautics follow : 
+• Pressures of interest in aeronautics (>10-100 Torr) are much higher than 
+those in typical glow discharges (1 Torr or less) resulting in much higher 
+power required to sustain plasmas and to severe problems with arcing 
+instabilities. 
+• The ionization fraction needed for a good electrical conductivity and 
+acceptable MHD performance is much higher than that required for a 
+fluorescent light, again resulting in high power budget and overheating. 
+For cold nonequi librium plasmas, the power budget is determined by the average 
+energy cost (usually expressed in eV), W;, of ionization (i.e., of producing an 
+electron-ion pair), and the rate at which the electron-ion pairs must be 
+generated in order to compensate for electron losses in recombination, 
+attachment, and other processes. The recombination is the dominant loss 
+mechanism at reasonably high electron densities, and its rate is proportional to 
+the product of electron and ion number densities. Since in quasineutral plasmas 
+the number densities of electrons and ions are close to each other, the 
+recombination rate (per unit volume) is equal to kdrn e2 , where kdr is the 
+dissociative recombination rate coefficient and ne is the electron number density. 
+Note that the characteristic plasma decay time due to recombination is almost 
+always very short, typically ~1-10 microseconds, so that the flow moves only a 
+very short ( ~1 cm) distance during the decay time. This is why schemes with 
+pre-ionization upstream of the MHD region with no ionization in t he MHD reg ion 
+itself are not viable; the ionization must be done continuously throughout the 
+MHD region. 
+UNCLASSIFIED/,liQA QFFl&IAL l!t9E 81tt I 
+13

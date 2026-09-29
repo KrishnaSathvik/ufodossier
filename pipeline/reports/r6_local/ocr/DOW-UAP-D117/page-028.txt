@@ -1,0 +1,43 @@
+UNCLASSIFIED/ /POK orr1e11ct tt!I! er•t f 
+and error. The potential benefits are significant, however, because there exists the 
+possibility of making materials with exceptionally high strength, fracture toughness, 
+and fatigue resistance. 
+Summary and Recommendations 
+Metallic glasses combine some of the advantageous mechanical properties of metals ­
+strength, stiffness, and in some cases toughness - with the processing flexibility usually 
+associated with thermoplastic polyme rs. The absence of crystalline defects allows 
+metallic glasses to be much stronger than conventional alloys but also means they have 
+near-zero tensile ductility and poor fatigue resistance. In structural applications, 
+therefore, metallic glasses are most likely to be useful in the form of composites 
+consisting of ductile crystalline dendrites in a metallic glass matrix. These dendritic 
+composites sacrifice some strength but can have exceptionally high fracture toughness, 
+as well as good fatigue resistance, and could replace high-strength steels in certain 
+load-limited structural components in aerospace vehicles where space is limited. 
+Because they are true glasses, thermoplastic forming near the glass transition 
+temperature affords metallic glasses tremendous flexibility in processing. For instance, 
+metallic glass components can be formed in a single step (for example, by injection 
+molding) in complex geometries that would be difficult or impossible to produce with 
+conventional alloys. In addition, metallic glass foams can be made with relative ease, 
+raising the possibility of making structural foams with high strength and stiffness. 
+Finally, because they lack a crystalline grain structure, metallic glasses can be used to 
+form nanoscale features with high fidelity. This may make metallic glasses useful in a 
+variety of micro -electromechanical systems (MEMS) applications. 
+Metallic glasses also have significant limitations for aerospace applications, however. 
+Foremost among these is a lack of good glass-forming alloys; in particular, there are no 
+good aluminum -rich glass-forming alloys, the known titanium-based alloys are either 
+relatively dense ( owing to high concentrations of alloying elements) or contain 
+beryllium, and the known magnesium- and iron-based alloys are all quite brittle, with 
+low fracture toughness. Although metallic glass matrix composites can have 
+outstanding properties (particularly strength and fracture toughness), the number of 
+good composite systems known at present is also quite limited. 
+For metallic glasses (and their composites) to be of broad utility in aerospace structural 
+applications, progress in the following areas is required: 
+• Development of new lightweight alloys and composite systems, preferably lby 
+computational and/or combinatorial approaches rather than by trial and error . 
+• Understanding of mechanical behavior, especially: 
+- The effect of alloy compos ition and structure on plastic deformation . 
+- Microstructural design of composites for optimal toughness . 
+• Development of processing techniques, including thermophysical processing of 
+complex and/or nanoscale features as well as production of metallic glass foams. 
+22 
+UNCLASSIFIED/ /EAR OFFICIO! !!&i ONL¥

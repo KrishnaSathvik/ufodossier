@@ -1,0 +1,38 @@
+UNCLASSIFIED//F8R 8FFl61:wL WSli &••LY 
+mechanism is it that allows for t his higher space to remain compact and stable? Of the 
+handful of theories that attempt to answer th is problem, one is part icular ly appealing 
+due to its naturalness. 
+A recurring theme throughout this paper is Casimir energy. This energy is compel ling 
+due to the fact that it is a natura l featu re intrinsic to the fabric of space itself. Casimir 
+energy in higher dimens ions not only offers the promise of expla ining the nature of dark 
+energy, as discussed in previous sections, but can also be utilized as a mechanism to 
+stabilize the compact extra dimension . 
+We have discovered in our research that with a natural comb inat ion of fields, and a 
+single exotic component, we are able to generate a stable ext ra dimension (Reference 
+51, 53) . The way to understand this is as follows : as ment ioned earlier , each field in 
+nature contributes a component to the ground state of the vacuum (that is, the state of 
+min imum energy of space) due to the virtual particle contr ibutions. When this energy is 
+calculated for the case of three large and one compact spatia l dimension, one discovers 
+that this energy is a strong funct ion of the size of the 5th dimens ion. 
+I n our research, we summed the contr ibutions from all the known fields in nature using 
+extensions of Equation (6.5) . We discovered that with the addition of one additional 
+exotic field confined to exist in only the 5th dimension, a stable higher dimensional 
+configuration was found. Our motivations for the addition of extra exotic fields have a 
+strong phenomenolog ica l foundation, and these exotic fields been stud ied successfully 
+in the context of explaining solar neutrino oscillations (Reference 54-56). A full 
+discussion, however, is beyond the scope of this paper . 
+To understand what is meant by a stable higher dimens ional configuration we refer to 
+Figure 7, which is a plot illustrating the vacuum energy density as a func tion of higher 
+dimens ional radius. 
+The x-axis represents the radius of the higher dimension and the y-ax is t he energy 
+density of spacetime.18 We have shown the contributions to the energy density coming 
+from the different fields of the Standard Model, and also the addit ional exot ic field. The 
+overall energy density is illustrated as a thick black line. The most important feature of 
+th is graph is the mathematical minimum . A good physical analogy here is to imagine 
+releasing a ball from the far left of the black line: the ball would roll down the line and 
+become stuck in the min imum. The ball becoming stuck in this minimum is an excellent 
+analogy to the dynam ics of the higher dimension, which begins at some unstable state, 
+but evolves into a stable configuration. 
+18 We work in "normalized" units. 
+UNCLASSIFIED//FOR OFFIGl,1L W&i &•ILY 
+18

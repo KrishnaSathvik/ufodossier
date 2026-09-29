@@ -1,0 +1,36 @@
+UNCLASSIFIED11FOR. 8FFl@IAL tt.!! e"t I 
+showing the electrochemical double layer responsible for the characteristic 
+performance. 5 The basic principles of operation have not changed with improved 
+technologies, only the materials and cell design. 
+The two electrode plates are traditionally the same material, which is usually a 
+carbonaceous material, such as activated carbon. Each layer is capable of storing a low 
+voltage, and multiple layers serve to increase the potential. Individua l cells are placed 
+in series to create a higher voltage, in much the same manner as a battery. Recent 
+advances in ultracapacitors have moved toward employing dissimilar electrodes, which 
+create a higher potential; since the electrodes are now different, these are sometimes 
+referred to as "pseudo" or hybrid capacitors . The pseudocapacitor uses a battery-like 
+electrode to replace one of the carbon electrodes, yielding a high-energy-storage 
+electrode and a highly capacitive electrode within the same system. 
+The capacitance of an ultracapacitor can be determined by the Helmholtz equation 
+(equation 1), which describes the relationship between the electrolyte and the electrode: 
+C = EA/d (1) 
+Here, £ is the dielectric constant of the electrolyte, A is the availab le surface area, and d 
+represents the distance between the center of the double layer and the electrode 
+surface. Increasing the double-layer capacitance in an ultracap is generally 
+accomplished by either manipulating the electrode (carbon) surface area or the 
+electrolyte. Energy density (equation 2) is the product of the capacitance and the 
+square of the voltage: 
+E = ½ cv2 (2) 
+Strateg ies for increasing the stored energy target improvements to both the electrodes 
+and the electrolyte. Changing from an aqueous electrolyte to an organic electrolyte with 
+a higher dielectric constant will increase the voltage from approximately 1 volt to more 
+than 2.5 volts. Increasing the surface area of the electrode is another approach to 
+increasing storage capability. There is a tradeoff between porosity and surface area that 
+must be considered when constructing an electrode with an extremely high surface area. 
+An activated carbon approaching a measured surface area of 3,000 m2/g may have less 
+than half that as accessible or useable area.6 Increasing the pore size sacrifices surface 
+area but provides more accessible material. By providing more interfac ial area between 
+the electrode and the electrolyte, a better electrochemical double layer can be produced, 
+yielding a better ultracapacitor. 
+UNCLASSIFIEO/;LFOA OFFI&il:.l.b YS& OrtLY 
+2

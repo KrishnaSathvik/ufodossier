@@ -1,0 +1,54 @@
+UNCLASSIFIED//iiOlil OiiiilCI0L Llili QPIL¥ 
+2.0 HFGW Communications 
+Consider the case of a single point-to-point two station full duplex communication 
+system, as is represented in Figure 1. Such a system is often characterized as a single 
+data link, and requires two transmitters, one at each end, and two receivers, one at 
+each end. To avoid self- interference the link in one direction often uses a frequency of 
+radiation different than the link in the opposite direction. 
+Full Duplex Communication Link 
+Using Gravitational Wave Generators and Sensors 
+Station 1 Station 2 
+r------------------~ r------------------~ 
+IGW Generator 
+I 
+I GW Sensor ' ' I 
+I' Sianal 1 + Source Noise ,~ 
+I 
+' I ~
+<01 (01Xmit 1 Rcvr 2Additional Link Noise ---~ 
+I 
+►-----. -----. 
+I 
+I 
+I 
+I 
+I 
+I 
+I
+GW Sensor 
+I 
+GW GeneratorI 
+_, Sianal 2 + Source Noise 
+I 
+~, ' 'I
+' {02Xmit2Rcvr 1 r-e+-------Additional_Link Noise '<02 ' +--''+-- ' ' '' '' , ' ___________________ ' •-------------------· ' 
+Figure 1. Communication Link Block Diagram 
+If one were to apply the emerging technology of gravitat ional wave control to such a 
+link, one would use GW generators for the transmitters on each end, and GW sensors 
+for the receivers at each end (Stephenson, 2009a). In the example shown in Figure 1, 
+station 1 would have a GW generator transmitting at a frequency of ro1 and a GW 
+sensor sensitive to a frequency of CO2, without being sensitive to a frequency of co1. 
+Likewise, station 2 would have a GW generator transmitting at a frequency of ffi2 and a 
+GW sensor sensitive to a frequency of ro1 , without being sensit ive to a frequency of co2. 
+This is the minimum functionality required to constitute a communication link. Signal 
+strengths of the respective GW generators would need to be sufficient to overcome link 
+loss, coupling losses, and noises sources. Signal to noise considerations and link 
+budgets are covered in further detai l in Section 3.1. 
+2.1 HFGW GENERATORS (TRANSMITTERS) 
+2.1.1 HFGW Generator Concepts 
+Several sources for HFGWs or means for the ir generation exist. The first generation 
+means is the same for gravitational waves (GWs) of all frequencies and is based upon 
+the quadrupole equation first derived by Einstein in 1918. A formulation of the 
+quadrupole that is easily related to the orbital motion of binary stars or black holes, 
+UNCLASSIFIED/ /FOR OiiiilCl.t.k 1!181!! Bfltf 
+2

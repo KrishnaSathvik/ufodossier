@@ -1,0 +1,38 @@
+UNCLASSIFIED/ /P'OR: OP'Pl@IAL WS& 0NI.¥ 
+chemical processes such as separations, reactions, and analysis to be conducted with 
+very small amounts of sample. 
+According to a forecast by the Nexus Task Force, the market for BioMEMS is expected 
+to reach $18 Billion in 2005. The commercial success of these devices and the technical 
+potential of other BioMEMS has driven research in a number of areas. As a result, over 
+the past few years, fluidic BioMEMS devices have become the largest and most diverse 
+applications of MEMS devices. 
+Fluidic BioMEMS now include: 
+• Drug-delivering neuroprobes. 
+• Biosensors (general). 
+• Bioreactors. 
+• Cell-handl ing devices. 
+• Drug-delivery devices. 
+• Micro-chromatography systems. 
+• Microfluidics. 
+• Molecular detection/handling. 
+• Neural interface devices. 
+• Optical/retinal sensing. 
+• Surgical devices. 
+• Tissue-handling devices. 
+There are obviously application overlaps within these devices and some are integrated 
+with others to create system-level or multi-sensing devices. Applications run the gamut 
+of the imagination includ ing identification of bacterial or viral agents, drug testing, 
+home testing, environmental safety and security, and drug-delivery technologies. 
+DRUG-DELIVERY PUMPS 
+Drug delivery to the human body for medical therapeutic purposes has long been by 
+swallowing substances or by injection. However this approach creates rapid rises and 
+falls in drug concentration in the blood stream because the dose is typically introduced 
+all at one time. The blood titer of a drug may thus peak at undesirably high levels in an 
+effort to sustain the drug action over a longer period of time. 
+Treatment of many medical conditions, such as cancer by chemotherapeutic drugs 
+would best be accomplished by a steady and long sustained infusion of the drug into 
+the blood. This would keep the tumor-fighting drug at some optimal concentration and 
+so make it maximally effective. High levels of chemotherapeutic drug levels in the blood 
+are toxic and levels that are below some threshold are ineffective. 
+UNCLASSIFIED/ (FOR OFFICIO! P!Sli QDII.¥ 
+7

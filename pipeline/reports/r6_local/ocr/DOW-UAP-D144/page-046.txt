@@ -1,0 +1,45 @@
+UNCLASSIFIED/ ,'FOR OFFI@IAL WSE ONLY 
+CONTROLS 
+Similar to the blend of physical and virtual displays, the control methods will also be 
+primarily physical controls (joystick), with augmentations possible through gesture, 
+voice, and thought commands. 
+Vector Motion: Six-Degree Joysticks 
+Adapting to human norms of physical analogies and taking advantage of force-feedback 
+features, the primary control for the vehicle's mot ion will be a pair of six-degree-of­
+freedom joysticks, one for both the left and right hands, located at the edge of the arm 
+rests. By moving either hand to mimic the orientation or direction of the desired 
+motion, the craft will respond accordingly. 
+Studies suggest that force-proportional, instead of displacement -proportional, operation 
+of joysticks is optimum. Accordingly, the joystick does not require much space to 
+encompass its motions. The intensity of the force input corresponds with the intensity 
+of the resulting motion of the craft. 
+There is, however, a limit to the span of forces that can be input from the hand 
+compared to the span of intensity of the vehicle's propulsion. For example, consider 
+that the hand can resolve speed settings of ±2 mph, but only over a span of zero to 45 
+mph, while the vehicle is capable of speeds from zero to relativistic. Obviously, some 
+additional input, analogous to a throttle, is necessary. The challenge for the 
+breakthrough craft is that such a throttle is an option for all three linear axes, not just 
+the primary axis of motion. With such uncertainty, and not having any simulations run 
+on test subjects, it is uncertain how best to provide the directional intensity control. 
+Provisionally, it is recommended to have a trigger and/or a combination of buttons that 
+the user selects to convey the maximum intensity of the propulsion system that 
+corresponds to the maximum force input to the joystick. For example, with a light 
+trigger input, the full joystick force might only correspond to a speed comparable to 
+driving a car. With a heaver trigger input or buttons selected to provide deep-space 
+flight speeds, the maximum force on the joystick might correspond to 0. 9 c. 
+Accommodating such uncertainties would be a subject of future study. 
+Owing to lessons of natural relaxed positions of wrist rotation, 52 the neutral palm (with 
+the thumb-side facing inward and forward) is at 35° upward relative to the horizontal 
+and 25° forward. This deviates from the normally upward-pointed joystick, but recall 
+that contemporary flight joysticks are just for rotational axes' command inputs. 
+Gesture Commands 
+Gesture-augmented commands are used in conjunction with the virtual surround 
+display to identify and act on objects in that display. For example, the pilot can point to 
+an object of interest, which is then highlighted, and issue the voice command, "go 
+there." This would be an option in the interactive assist flight mode. 
+Other opt ions for the gesture -based commands are diff icult to define at this time, due 
+to the uncertainty of actually operating such a vehicle. Regardless, however, provisions 
+to account for buffeting and other possible input errors would need to be included in 
+future plans. 
+UNCLASSIFIED/ fFOA. OFFICIO Is. flili Ol'lls.¥ 
+41

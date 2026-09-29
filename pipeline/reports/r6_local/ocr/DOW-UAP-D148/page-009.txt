@@ -1,0 +1,23 @@
+UNCLASSIFIED /fF OR. QFFI El .t.L: Uii QD:I! X 
+Boundary Layers 
+Strouhal Eddies or Streamlines 
+Vortic es 
+Direction of Flow Projectile 
+Figure 2. Subsonic Flow Past a Projectile. 
+Visible examples of a "wake" are the contrails observed in the upper atmosphere when water 
+vapor in the exhaust of jet aircraft freezes into ice crystals, highlighting the wake generated 
+by the aircraft and its engines. In still air, the wake can be visible for many miles behind the 
+aircraft. 
+The wake rapidly becomes turbulent as it extends downstream. The Strauhal eddies are 
+detectable and have a shedding frequency that is expressed in terms of the Strauhal 
+number, St = f D/V, where f is the Strauhal shedding frequency (hz), D is the diameter (m) 
+of the projectile, and V is its velocity (m/s) through the air. The Strauhal number is a 
+function of Reynolds number, as shown in Figure 3. By measuring the Strauhal frequency, 
+the velocity of the projectile can be determined with moderate accuracy. 
+At low speeds, and corresponding low Reynolds numbers, the flow is "laminar" where 
+streamlines move in smooth "laminae" or layers over projectiles. At high Reynolds numbers, 
+the fluid flow becomes unstable and forms a widely distr ibuted set of small eddies defined as 
+"turbulence." In turbulent flow, rapid mixing of the flow in the wake, even in the boundary 
+layers, will occur. 
+UNCLASSIFIED//EQA: QlililEl.t.L: W&&: O,. L'l 
+5

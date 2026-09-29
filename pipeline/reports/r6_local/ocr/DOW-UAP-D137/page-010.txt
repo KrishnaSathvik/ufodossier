@@ -1,0 +1,54 @@
+UNCLASSIFIED / 4502-05 FLGHH-USE-ONEY
+
+CHEMICAL LASERS
+
+Chemical lasers use a chemical reaction in gas or liquid to release the energy which
+produces their lasing. A reaction can be initiated with an electric current, by light from
+another source, or by simply mixing hypergolic chemicals. These lasers include familiar
+low power, sealed gas types such as helium-neon, argon, or krypton-ion and typically
+produce light in the visible or near infrared. Excimer lasers are another low average
+power sub-category of gas lasers. These use dimer molecules as the lasing medium,
+are generally electrically excited, and lase in the ultraviolet.
+
+To-date, every laser which has been
+scaled to MW-class average power falls
+in the chemical category. They use
+large quantities of rapidly flowing
+chemicals to produce reactions which
+then release the required energy. The
+carbon dioxide laser (CO2 at 10.6 um)
+was the first to be scaled to high power
+around 1970 followed by the deuterium-
+fluoride laser (DF at 3.8 um) and its first
+cousin the hydrogen-fluoride laser (HF
+at 2.8 um) in the mid-1970s. These
+devices lase in the far- to mid-infrared
+and depend on exciting vibrational and
+rotational states of the lasing molecules.
+CO2, DF, and HF lasers resemble rocket
+engines because they combust a fuel
+with an oxidizer. The DF laser ignites a
+mixture of nitrogen-trifluoride (NF3)
+with ethylene (C2H4) and then injects
+deuterium (an isotope of hydrogen) into
+the exhaust stream to produce the
+lasing molecule of deuterium-fluoride. Figure 4, Cylindrical Gain Generator for HF Chemical
+This laser was the choice of the Navy Space Based Laser
+
+and Army in the 1970’s and 80’s for tactical laser development while the HF laser was
+the choice of the Strategic Defense Initiative (SDI) for their Space Based Laser
+development in the 1980’s (Figure 4).
+
+The newest chemical laser to be scaled to high power is the Chemical Oxygen Iodine
+Laser (COIL at 1.315 um) which excites vibronic states (simultaneous change of
+vibrational and electronic quantum numbers) in monatomic iodine to achieve the near-
+infrared wavelength. COIL generates light in a more complex process which does not
+involve combustion but still releases considerable heat. Gaseous chlorine (Clz) is mixed
+with a destabilized hydrogen-peroxide (H202) mixture to produce an excited oxygen
+molecule and water. The oxygen molecule is then combined with iodine (Iz) in a
+reaction which separates the iodine molecule into monatomic iodine and transfers the
+oxygen molecule’s energy to it. Iodine then becomes the lasing atom. This near-
+infrared laser was the device of choice for the Missile Defense Agency’s Airborne Laser
+program.
+
+UNCLASSIFIED / -2OR-OFFL6H-USE-ONEY—

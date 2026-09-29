@@ -1,0 +1,49 @@
+UNCLASSIFIED/ /FOR 8FFI@IAL t:191!! l>flt I 
+Materials for Advanced Aerospace Platforms 
+LAUNCH VEHICLES 
+For the purposes of this document, launch vehicles are defined as the structure that 
+supports and/or encloses the propulsion system, the fuel supply, and the crew or 
+payload module. Launch vehicles today are either single use or multiple use after 
+recovery and extensive refurbishment. This approach adds considerably to the cost of 
+transporting a pound of payload into earth orbit, regardless of whether an unmanned 
+satellite or a manned orbiting crew module that must withstand the temperatures and 
+loads associated with safe reentry to earth. Furthermore, the larger the payloads are, 
+the greater are the reaction forces the launch vehicle must with stand during launch. 
+With the total weight of the payload, the empty weight of the launch vehicle, and fuel 
+all needing to be lifted initially, fuel-efficient propulsion and lightweight launch vehicles 
+are essential to maximizing the payload. Except in the area around the propulsion 
+system exhaust, the temperatures experienced by launch vehicles during launch are not 
+demanding. Therefore, advanced, high-strength aluminum (Al} alloys and polymer 
+matrix carbon fiber composites (PMCs) are prime candidates for the parts of the 
+structure that experience aerodynamic loads and where aerodynamic heating does not 
+exceed about 125 °Celsius. One class of advanced Al alloys is the lithium (Li)-bearing 
+alloys, such as Al alloy 2090. This alloy contains enough Li to reduce its density by 8 
+percent while increasing the elastic modulus (E) by 10 percent. Other, newer advanced 
+Al alloys, such as 7050 and 2050, have been developed to have improved damage 
+tolerance. These alloys have excellent specific strength at or near room temperature 
+and experience no major loss of ductility at cryogenic temperatures. The newer variants 
+of the 2000 and 7000 Al alloys also have substantially improved resistance to most 
+types of corrosion, including exfoliat ion and stress corrosion cracking. This can be 
+important in a reusable vehicle. 
+Perhaps the most important aspect of the improved Al alloys is their higher fracture 
+toughness, accomplished through a combination of alloy composition control and 
+improved processing. In alloy composition control, the concentrations of the residual 
+elements iron (Fe), chromium (Cr), manganese (Mn), and silicon (Si) are reduced at 
+the ingot stage. These elements combine with Al to form hard, brittle intermetallic 
+compounds known as constituent phases. The advanced alloys contain fewer, smaller 
+constituent phases, leading to improved fracture resista nce and higher fracture 
+toughness values. In applications such as body skins for commercial aircraft, this 
+improved toughness has enabled an increase in t he spacing of the circumferential 
+fuselage frames, or "hat sections," that serve both as stiffeners and as crack stoppers 
+to prevent a catastrophic failure during pressurization. For any given operat ing stress­
+in this case the pressurization stress-the spacing of the frames is directly related to 
+the critical crack size of the body skin . Higher toughness alloys have larger critical crack 
+sizes, and the frames can be spaced further apart without increasing t he risk of 
+catastrophic failur e. The increased spacing ultimately allows a fuselage design that 
+requires fewer frames. Consequently, the airplane benefits from a commensurate 
+reduction both in weight and in manufacturing cost. Similar possibilities exist for the 
+design of a fail-safe launch vehicle that has a lower empty weight. Clearly, the 
+advanced Al alloys offer intrinsic improvements over the alloys used in the Saturn 
+launch vehicle and introduce the prospect of new, more effic ient launch vehicle designs. 
+1 
+UNCLASSIFIED/ ,'FOR 8FFI&i1Ak Uili ODIL\'

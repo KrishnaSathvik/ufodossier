@@ -1,0 +1,51 @@
+Defense Research and Engineering, John Foster, liked the concept and
+provided DOD funding for ORD to develop two versions of
+AXILLARY, one with a radar-homer and one with a television recon-
+naissance package. The radar homing system proved successful as
+AXILLARY sought out and destroyed a radar during testing at China
+Lake Naval Air Station. However, the end of US involvement in
+Vietnam in early 1973 led to the cancellation of further DOD funding,
+and AXILLARY was placed on the shelf. Melpar, Inc., continued to
+work on the radar-homing version and eventually sold some
+AXILLARY-type aircraft to Israel, which used them to destroy Synan
+radars in Lebanon in 1982.
+
+PINE RIDGE
+
+While work was still in progress on low-altitude, short-range recon-
+naissance systems like AQUILINE and AXILLARY, CIA scientists
+and engineers were also working on a high-altitude recoverable un-
+manned reconnaissance vehicle with an extremely-low-radar cross
+section that would enable it to fly undetected over hostile territory.
+During the 1960s there had been a study conducted by the Teledyne
+Ryan Aeronautical Company of San Diego on the construction of an
+undetectable drone known as SANDY HOOK. This 44-foot long
+drone would operate at 120,000 feet at Mach 0.9, with a range of
+5,000 nautical miles. Its radar cross section 07zwould be 0.01 square
+meters. Project SANDY HOOK never advanced very far in develop-
+ment; projected high costs and substantial technical risks led to its
+cancellation in December 1969.
+
+Some of the concepts in SANDY HOOK were carried over into a
+new project known as PINE RIDGE, which was a proposal for an un-
+manned reconnaissance vehicle with an even lower radar cross sec-
+tion (0.001 square meter). Research on SANDY HOOK had indicated
+that a radar cross section this low was attainable and would prevent
+detection and tracking by existing radar defense systems. The PINE
+RIDGE proposal called for a delta-shaped vehicle, approximately
+17 feet long with a 21-foot wingspan. Two vertical stabilizers would
+give the vehicle an overall height of three to four feet. An existing
+Teledyne J-100-CA-100 Turbojet engine could have been used to
+power the vehicle at Mach 0.9 at the operating altitude of 65,000 to
+75,000 feet. Range was estimated at 3,300 nautical miles.
+
+Despite interest within the CIA and the Air Force for an unde-
+tectable reconnaissance vehicle, PINE RIDGE was never funded. In
+January 1971 high-level representatives from DOD and CIA rejected
+a proposal for a feasibility study to be conducted by Ryan Aircraft.
+
+—Seeret NOFORTT
+
+Appendix E
+
+343

@@ -1,0 +1,33 @@
+88
+
+SS
+
+0 We have already talked about the co. partial pressure.
+
+2°
+It was below zero the entire flight except during tape dumps
+when it jumped up due to a glitch that the tape dump puts in
+the TM system. Radiator operation and configuration...We
+ran radiator on all the time except for two checks that were
+made. Actually when we opened circuited the fuel cells be-
+fore we brought them back on the line, we went to RADIATOR
+BYPASS twice. Then we went to RADIATOR BYPASS once when we
+wanted to get the water out of the ECS System. One time
+during the flight we were picking up water. This might be
+
+a good place to cover that. We were picking up water coming
+out of our suit inlet hose, im quite large quantities. We
+called the ground, and they suggested that perhaps the water
+boiler was not venting. They called up the procedure that
+included putting on evaporator heat, turning off the radia-
+tor and going to bypass on the radiators and rotating the
+spacecraft at 10 degrees per second. This threw out large
+amount of water and things got back to normal. Later on in
+the flight we noticed the same thing, but we were busy align
+ing the platform and other things and we did not want to
+setup roll-rates. All we did was put the suit coolant to
+warm and put both suit fans on and blew the water out of
+
+the system, and that worked also. We did notice that during
+
+OU

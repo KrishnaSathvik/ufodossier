@@ -1,0 +1,51 @@
+UNCLASSIFIED / / BOR-O5EILGLAL-USE-Oh—
+
+High-Frequency Gravitational Wave Communications
+
+Summary
+
+Fourteen laboratory high-frequency gravitational wave (HFGW) generators
+(or transmitters) have been proposed in the past 45 years in peer-reviewed
+journal articles.
+
+The most promising laboratory HFGW generators are those that utilize very
+large numbers of sub-microscopic radiation elements.
+
+The Piezoelectric Approach to HFGW generation is best for the proof-of-
+concept test and the proposed IR-excited Molecules Approach is best for an
+operational communications HFGW transmitter.
+
+Ten different HFGW detectors (or receivers) have been proposed since
+1978 and reported in peer-reviewed journal articles.
+
+Several different HFGW receivers can be utilized for communication, but the
+proposed Li-Baker detector (plans & specification development in Appendix
+B) shows the most promise (underlying concept in Appendix C). The Li-
+effect, upon which the Li-Baker detector is based, is not so new that it is
+untested in the literature. At least nine peer-reviewed research publications
+concerning the theory have appeared following the initial peer-reviewed
+article by Li, Tang and Zhao (1992),
+
+Because HFGW communications are carried on an extremely narrow beam
+directly through the Earth, there is a very low probability of interception.
+
+Theoretical results confirm that the Li-Baker detector is photon-signal
+limited, not quantum-noise limited—that is, the Standard Quantum Limit is
+so low that a properly designed Li-Baker detector can have sufficient
+sensitivity to observe HFGWs of amplitude A ~ 10-32 m/m.
+
+Utilizing the IR-excited Molecules HFGW generator approach and the Li-
+Baker detector, the theoretical information-transfer rate over 7,000 km of
+distance, beamed directly through the Earth, is about 1.9 x 10° bits per
+second.
+
+A means of propagating a Frequency Time Standard may be one viable
+early low-bandwidth application for HEFGW communications.
+
+HFGW sources on the Earth, the Moon, and Mars may act as reference
+standards for interplanetary navigation, with the advantage that they
+cannot be shielded or shadowed by planetary masses. Plasma interference
+seen at planetary entry would be eliminated, and precise charting of
+Lagrangian points would be possible.
+
+UNCLASSIFIED/ /EQR.O5ELGidGSE-ONTY—

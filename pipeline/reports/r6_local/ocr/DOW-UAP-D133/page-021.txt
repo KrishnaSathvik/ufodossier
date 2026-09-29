@@ -1,0 +1,25 @@
+UNCLASSIFIED/ /FOtt 8ffl@IA:L tt.!l! Dflt I 
+Offer Waves 
+RI 
+G) -E 
+RI 
+u 
+RI
+-G) 
+E 
+RI 
+u 
+G;impleted Transaction 
+Figure 8. Transactional Interpretation Diagrams for Case 1. The left-go ing offer waves pass through the 
+upper slit of 52 and reach the upper detector (circled) . The momentum-entangled right -going offer waves pass only 
+through the lower slit of 51, which is the optical image of upper 52, and are diffracted to the camera. Confirmation 
+waves ret urn, and the one-slit transaction forms . 
+Figure 9 shows t he transaction that forms for the nonlocal communication test system 
+in the Case 2 configuration. The left -going photon passes through bot h the upper and 
+lower slits of S2. The two paths connect to a combiner and are detected by the central 
+detector (circled). The momentum-entangled right-go ing photon must then also pass 
+through both slits of S1, which are the optical images of S2, to form a two-slit 
+interference pattern detected by the camera . The three stages of transaction formation 
+are shown. 
+UNCLASSIFIED/ /FOA OFFl&l.t.k WSE 8,.L'/ 
+15

@@ -1,0 +1,45 @@
+UNCLASSIFIED//rOR: orrlCIAL USE 014Lf 
+0.001 duty cycle, has a helical film antenna that increases its gain and doubles as a 
+solar sail for infrequent stationkeeping maneuvers, and has a tether for coarse gravity 
+gradient stabilization. A 50 km tether supports the feed, transmitter, and DGPS 
+reference assembly against a counterweight. The antenna lens is 2 km x 4 km. 
+The effective area of the array is the same as that of a 50 m diameter filled aperture. 
+The total effective RF radiated power of the system is 3 GW peak and 3 MW average. 
+Although specific performance calculations have not been done for this concept, these 
+powers are so large that the radar should have the sensitivity from its location in GEO 
+for detecting and tracking many targets simultaneously and most "low observable" 
+targets as well because they are all designed and oriented so as to have their low 
+observables in near-horizontal directions. Three constellations would provide 
+essentially complete global coverage. The entire constellation weighs about 11,000 kg 
+in GEO (this could be reduced in the future to 110 kg if Buckytubes are used to 
+construct the system) and can be emplaced and replaced incrementally using laser­
+powered Lightcraft launch vehicles or even small conventional launch vehicles. It could 
+even be funded incrementally. 
+Simple, Distributed, Hyperspectral Sensor 
+This concept presents an unconventional method of implementing a hyperspectral 
+sensor of great spectral and spatial resolution. Its implementation would allow the 
+detection of very many spectral intervals simultaneously, and it has a small field of view 
+from GEO so that the instrument can dwell on and resolve particular targets of interest. 
+It also has a large field of regard so that one spacecraft covers a significant fraction of a 
+hemisphere . 
+The concept uses a Fresnel zone plate, which is oriented roughly parallel to the local 
+horizontal just below GEO. It is supported by a tether that extends well above the GEO 
+altitude, and may or may not have a counterweight at the top end . The gravity 
+gradient causes the ensemble to remain Earth pointing along the local vertical, with its 
+center of mass in GEO. 
+The Fresnel zone plate has a long focal length, and thus the surface and ring locations 
+can be imprecise compared with conventional optics. In addition, the lens is a thin film 
+membrane and will be light and inexpensive. It is highly frequency dispersive, and thus 
+its focal length is a sensitive function of wavelength. Small, self-contained optical 
+sensor nanosats are placed on the tether at many locations with each nanosat's optics 
+filtered for response at only that narrow spectral region focused at its distance from the 
+lens. The nanosats can transmit directly to the ground or their signals can be combined 
+in one transceiver, also on the tether. 
+This system has a 100 km long tether, which weighs only a few kilograms in GEO. The 
+Fresnel zone plate is 100 m in diameter, has a collecting aperture equivalent to a 30 m 
+filled aperture, and requires only a surface accuracy of centimeters in the visible light 
+region. It is constructed of thin film with deposited aluminum rings and is an adaptive 
+piezoelectric membrane kept flat by an electron beam in response to an optical figure 
+sensor. MEMS FEEP thrusters are at the sensor's periphery for attitude control, with 
+UNCLASSIFIED,<,<FOA QFFISIAL HSI!! 8HLY 
+40

@@ -1,0 +1,60 @@
+2. D-6, Surface Photography
+This experiment will investigate
+the technical problems associated
+with an astronaut's ability to
+acquire, track, and photograph
+terrestrial objects from a space-
+craft with more elaborate photo-
+optical equipment than that used
+previously. The astronaut will
+photograph selected series of
+objects during day-side and
+night-side intervals of the flight
+using specified lens-film combi-
+nations. The resulting data will
+be used to evaluate the astronaut's
+ability to maintain object-camera
+orientation by maneuvering the
+spacecraft. Figure 4 shows the
+camera mount installed on the
+spacecraft window.
+
+3. D-8, Radiation in Spacecraft
+Data from this experiment will be
+used to supplement external radi-
+ation measurements in studying
+the dose levels within the space-
+craft resulting from passes through
+regions of varying radiation
+intensity. Two tissue-equivalent,
+current-mode ionization chambers
+will be used to measure the
+variation of absorbed dose-rate
+inside the spacecraft. Five
+small packets containing radia-
+tion detection and measurement
+devices will be placed at
+various locations in the cabin
+
+to ascertain their suitability as
+convenient dosimeters of space
+radiation and measure total
+accumulated dose. Figure 5 shows
+some of the equipment to be used
+for this experiment.
+
+5/24/65
+
+M-913-65-04
+
+D-6 SURFACE PHOTOGRAPHY
+
+é :
+
+D-8 RADIATION IN SPACECRAFT
+
+(PORTABLE
+
+UNIT)
+
+MG5-8095

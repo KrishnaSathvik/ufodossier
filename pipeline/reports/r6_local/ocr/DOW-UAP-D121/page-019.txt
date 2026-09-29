@@ -1,0 +1,56 @@
+UNCLASSIFIED/} P'Olt OP'P'l@IAL l:ISE &P•LY 
+Table 3 shows findings of cathode material studies at SNL and at the AFRL. 
+Table 3. Cathode Study Findings 
+Material Emission Threshold 
+(kV) 
+Lifetime 
+(# of Shots) 
+Outgassing 
+(Neutrals/E lectron) 
+Csl-Carbon 
+Micro.fibers 
+< 3 kV/cm > 72,000 4 - 6.5 (substrate) 
+"Sandia Red" Velvet 8 kV/cm - 8,000 10 
+"MILO Green" Velvet 10 kV/cm - 4,000 10-14 
+Velveteen Low Low <600 > 12 
+F-Velvet Low < 100 > 12 
+Ceramic Cloth > 120 kV/cm --- ---
+Ceramic Felt > 100 kV/cm --- ---
+Carbon Pyramids > 80 kV/cm --- ---
+Carbon Nanotubes 20-50 kV/cm Arc rate of -
+2% 
+-4 
+Bare Carbon 
+Microfiber 
+(packing density) 
+15-40 kV/cm > 36,000 4.3 - 6.5 
+(substrate) 
+Csl-Carbon Fiber 
+Tufts 
+< 3 kV/cm > 200,000 -4 
+Metal I Ceramic 95 kV/cm (diode 
+collapse 
+unless> 150 kV/cm) 
+--- 8 
+HIGH-VOLTAGE SWITCHING 
+High-voltage switching is among the most challenging of technologies for HPM sources. 
+Although high-voltage switches have been used for several decades, and thousands of 
+experiments have been performed on the mechanisms involved in liquid and gaseous 
+breakdown, there are still many aspects of the phenomenon that defy explanation. This 
+is especially t rue as the time required to reach the fully conducting state becomes 
+extremely short. The usual explanation for this process involves Townsend avalanching, 
+whereby electron streamers begin at the cathode in an average electric field of only 20-
+25 kV/cm and, by virtue of an enhanced electric field at their tip, progress in an orderly 
+fashion to the anode. At this time, a heating phase begins, and an increasing amount of 
+current is passed through the streamer unt il the switch finally reaches the fully 
+conducting state. The problem with this explanation is that it is most likely incorrect 
+and relies on exaggerated ion densities to explain how switches can reach full 
+conduction in less than a billionth of a second. Alternative explanations involving 
+runaway electron generation provide a better match to observations. Very fast 
+switching is critically important to the concept of UWB HPM. The basic concept is to 
+generate a square pulse with the fastest rise time possible. A Fourier transform of this 
+waveform results in a frequency spectrum containing frequencies determ ined by the 
+width and rise time of the square pulse. The period of the lowest frequency is tw ice the 
+pulse width, and the rise time is about one-quarter the period of the highest frequency. 
+UNCLASSIFIED/ ,<FQA OFFICIO I. Uili OPII.V 
+11

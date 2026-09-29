@@ -1,0 +1,48 @@
+UNCLASSIFIED/ fFOA OFFI&il.t..k Y&& 8Ptk\f 
+matter, and many other fascinating properties (Reference 22-24, 26, 73-76). 
+Therefore, if the emergent spacetime/gravity approach turns out to be correct, then 
+there will likely be a direct consequence to the physics of traversable wormholes that 
+could dramatically alter the mechanism by which they are created and/or mitigate the 
+requirement for negative energy. 
+Until such new approaches are established and testable predictions published by their 
+proponents, one cannot speculate on how the physics of traversable wormholes will be 
+affected. Therefore, it is beneficial to stick to the outcome of the present study in terms 
+of quantum field theory and general relativity theory, and outline what needs to be 
+accomplished going forward in order to demonstrate a traversable wormhole in the lab. 
+Going forward toward the demonstration of a t raversable wormhole will require the 
+following: 
+• Generating Negative Energy in the Lab: Our assessment concludes that we already 
+make small amounts of negat ive energy in the lab, but we do not yet know if we can 
+access larger amounts for extended periods of time over extended spatial 
+distributions for the purpose of engineer ing a traversable wormhole . In this regard 
+we propose the following options for further exploration. 
+• Squeezed quantum vacuum generators: A dedicated research program to develop 
+the two negative energy generator concepts described in Section 111-B-2 will need to 
+be established in order to evolve state-of-the-art quantum optics technology 
+towards producing higher magnitudes of negative energy as well as special 
+techn iques required to separate out any positive energy fluxes that accompany the 
+negative energy fluxes. Specifically, the Rabeau et al. (Reference 48, 49) and Ries 
+et al. (Reference 50) experimental programs should be followed as a template 
+toward this goal. Quantum optics technology via high power fiber lasers, resonators, 
+amplifier stages, beam conditioning stages, etc., are rapidly advanc ing. So research 
+should be conducted in parallel to invent additional ways to produce negative energy 
+via innovative quantum optics. 
+• Casimir effect: Even though the standard electromagnetic Casimir effect is feeble, 
+and thus not likely to contribute to a traversable wormhole engineering program, 
+there are still a number of other electromagnetic and non-electromagnetic Casimir 
+effects described in Section 11I-B-4 that require further study. These other Casimir 
+effects have not been explored with an eye toward testing them in the lab, and so 
+there could be important new information yet to be uncovered. 
+• Moving Mirrors (a.k.a. the dynamical Casimir effect): Even though this concept was 
+identified (Section I11-B-5) as being too feeble to produce any useful flux of negative 
+energy, the observable effects due to the change in the boundary conditions (e.g ., 
+moving mirrors/cavity walls) of quantum fields provide crucial information on the 
+quantum vacuum at the macroscopic level. Theoretical and laboratory efforts are 
+underway to understand the dissipative effects of vacuum fluctuations (Reference 
+77-78). This dissipation mechanism should induce irradiation of photons, a 
+phenomenon also known as the dynamical Casimir effect. This can be understood 
+both as the creation of particles under non-adiabatic changes in the boundary 
+conditions of quantum fields, or as classical parametric amplification with the zero­
+point energy of a vacuum field mode as an input state. More recent developments 
+UNCLASSIFIEQ { {FOR OFFICIAL Y&& 8HLY 
+27

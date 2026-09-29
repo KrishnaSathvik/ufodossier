@@ -1,0 +1,85 @@
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+CODE 67 RANK EQUIVALENT CODE 76 EVALUATION OF OBSERVER RELIABILITY 
+X Officer X 
+y y 
+0 Lt. 2nd 0 Private 
+1 Lt. 1st 1 Private, 1st Cls. 
+2 Capt. 2 Corp. 
+J Maj. J Serg. 
+4 Lt. Col. 4 S. 'I. Serg. 
+5 Col. 5 M. Serg. 
+6 Brig. Gen. 6 Warrant Off. 
+7 Maj. Gen. 7 Chief Warrant 
+8 Lt. Gen. 8 
+9 General 9 
+CODE 77 EVALUATION OF REPORT RELIABILITY 
+X 
+y 
+0 Complete 
+1 Quite 
+2 Fair 
+3 Doubtful 
+4 Poor 
+5 Not 
+6 
+7 
+8 
+9 Can't be judged 
+CODE 79-80 FINAL IDENTIFICATION 
+X Probably y 
+0 Balloon 
+l Astronomical 
+2 Aircraft 
+J Light Phenomenon 
+4 Birds 
+5 Clouds, dust, etc. 
+X 
+y 
+0 Complete 
+1 Quite 
+2 Fair 
+J Doubtful 
+4 Poor 
+5 Not 
+6 
+7 
+8 
+9 Can't be judged 
+CODE 78 PREL,RgNARY IDEN'IIFICATION 
+X Possibly 
+y 
+0 Balloon 
+1 Astronomical 
+2 Aircraft 
+J Light phenomenon 
+4 Birds 
+5 Clouds, dust, etc. 
+6 Rocket or missile 
+7 Psychological manifestations 
+8 Electromagnetic phenomenon 
+9 Other 
+6 Reeke~-eP-mieeile Insufficientinformation 
+7 Psychological manifestations 
+8 i~ee~Femagaetie-paeaemeeeR Unknown 
+9 Other 
+295 and 296

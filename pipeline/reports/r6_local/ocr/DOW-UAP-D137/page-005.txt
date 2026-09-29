@@ -1,0 +1,45 @@
+UNCLASSIFIED/ -502-OFFLGEHH-USE-ONEY
+
+State of the Art and Evolution of High-Energy Laser
+Weapons
+
+Summary
+
+The laser was invented in 1960, only 49 years ago, and (along with the light-
+emitting diode) has evolved into an essential part of our modern every-day life
+in ways that could not have been foreseen. On the military side, there have
+also been incredible advances in laser and beam control technologies but no
+deployment of any high-energy weapons. Many concepts have been developed
+and pursued, only to be discarded or deferred owing to technical immaturity,
+expected production cost, lack of apparent utility, or logistics concerns.
+
+The most significant technical impediment to deployment may have been the
+large quantities of expensive and hazardous chemicals that were required by
+the only available high-average-power lasers. This is now changing with
+recent advances in electrically powered lasers (both solid-state and free-
+electron lasers). As these devices mature over the next few decades, they will
+enable practical military weapons at power levels ranging from kilowatts to
+megawatts. This evolution may be somewhat slowed or limited in the United
+States if there are policy concerns about the use of new types of weapons or
+about weaponization of space. As an example, the Department of Defense
+developed a microwave device for crowd control, called Active Denial, which
+has been shown to produce temporary pain without any injury. However, DoD
+was precluded from deploying it owing to policy (not legal) concerns. Other
+countries may not exhibit similar restraint, as evidenced by the open
+marketing of laser-blinding weapons despite a 1980 Geneva Convention
+prohibiting their development or use.
+
+Space offers the ideal environment for laser beam propagation; there is no
+atmosphere to either attenuate or spread the beam. As a result, large
+distances could be bridged quickly, with range limited by the size of the
+transmitting telescope and the potential damage mechanisms limited primarily
+by the laser’s output power. Initial spacecraft laser weapons are conceivable
+within the next 20 years, with the potential for follow-on growth in laser
+power and transmitting telescope size. Transmitting telescope size would be
+limited by the spacecraft size and competing demands for weight and volume.
+Laser power could grow to the megawatt range as solid-state and free-
+electron laser technology matures, but the major limitation to a spacecraft’s
+weapon capability may prove to be its ability to generate and store the energy
+required by the laser and to store and dissipate the resultant waste heat.
+
+UNCLASSIFIED / -2OR-OFFL6H-USE-ONEY—

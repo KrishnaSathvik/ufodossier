@@ -1,0 +1,39 @@
+Appendix II
+
+Plotting a Set of Flight Paths from Single Frame Position Plots, with no Reference
+Points
+
+1. Ina case like this, it would be highly desirable if the movement of
+these objects could be recordéd with a stationary motion picture camera. Position
+plots could be superimposed by observing proper registery of frame edges
+dicate the speed and direction of object flight paths.
+
+2. However, it apparently was necessary in this case to follow the
+
+ation of objects, to keep them ail : view. Therefore no position guide
+registering the position plots is available, since no fixed points appear in the
+
+sky. Other princi ples must be used instead.
+
+3. It is stated that the general drift of the entire formation was to the
+west. A later sequence shows a single object, which had reversed course, moving
+from left to right in the camera'swiew. It can therefore be supposed that plotted
+paths should show a drift from right to left.
+
+4. This is one guide to be used. Another is that position plots should be
+superimposed without any rote Adon, since the frames were plotted without rotation.
+This assumes that the camera was not rotated; but merely moved in combined
+horizontal and vertical motions.
+
+5. Another general guide is that most of the objects should appear to move
+smooth, continuous paths. Several plots, at least 4, should be superimposed
+on a viewing table, and should be shifted until all or nearly all paths are smooth
+and show reasonably uniform motion. This compound plot can be transferred to a
+single sheet, and further plots can be added in the same manner.
+
+6. Figure II was prepared in just this way, using the same 50 diameter en-
+largement as in Figure I. It will be noted that the final positions of two
+objects in the central trio are missing. They became so faint that they were los
+no further plotting of this sequence was tried.
+
+DECLASSIFIED Authority NND 923007

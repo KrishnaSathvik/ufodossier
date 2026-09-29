@@ -1,0 +1,35 @@
+UNCLASSIFIED/,'rOR: orrlCIJ!tL USE 014Lf 
+l ctron b am 
+undula .tor 
+r on tor mirror 
+y 1 
+0 z A 0 z 0 z 
+l ctron am pha - spac volut on 
+Figure 30. Free-Electron Laser Electron Beam Phase-Space Evolution (courtesy of the Naval 
+Post-Graduate School FEL Lab). 
+In the quantum picture of how FELs operate, the "wiggling" electrons radiate light and 
+that light then gets stored between the resonator mirrors. And additional light radiation 
+(that enters the resonator) in the presence of "stored light" results in stimulated 
+emission, which is the lasing process. The classical interpretation of this process is that 
+the electrons travel with the light radiation and exchange energy with it. Some 
+electrons gain energy while some lose energy to the light radiation. The electrons in 
+the beam will "bunch" with in each opt ical wavelength, thus these bunched electrons will 
+radiate coherently to produce laser light. This mechanism is represented graphically in 
+Figure 29 and Figure 30. 
+The main appeal of free-electron lasers (FELs) is that they can be built for emission 
+frequencies ranging from the terahertz region, through t he infrared and visible 
+spectrum, up to X-rays. Also, a single device often allows wavelength tuning over a 
+large range and the output power can be scaled up very high. As in many spectral 
+regions, it is not easy to make resonator mirrors; many FELs work without such mirrors 
+and rely on amp lified spontaneous emission. This can still be relat ively efficient if t he 
+gain is high enough. One then actually has a superluminescent source. The big 
+disadvantage of FELs is t heir very large and expensive setup; they can only be used at 
+large facilities. The benefits of FELs are : 
+• Continuously wavelength tunable, i.e., they can produce different wavelengths 
+during operation. 
+• Designable to produce a range of wavelengths, from microwaves to X-rays. 
+• Scalable to very high beam power because they use a vacuum for their gain 
+medium - laser medium cannot be damaged. 
+• Not affected by heat problems t hat are common in other laser technologies . 
+UNCLASSIFIED//FOR 061ilCl.li.k W&& 8Ptl'l 
+59

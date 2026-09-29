@@ -1,0 +1,8 @@
+UNCLASSIFIED//fQq OFFI&il.t.k WSE 8Ht'I" 
+combined in parallel into similar constructs, with the expectation of similar behavior. That 
+means, in principle, we can construct enzymat ic networks that perform Boolean calculat ions 
+of any complexity. At this moment, serial connections are prohibitively slow to be used in 
+practical devices, thus reported circuits are lim ited to implic it OR connectivity between 
+individual elements. 
+UNCLASSIFIED// FOR OFFICIAL U:!E eutv 
+36

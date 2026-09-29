@@ -1,0 +1,87 @@
+UNCLASSIFIED / / FOR-OFFECGEAE-USE-ONET
+
+48.Zhou SY, Gweon GH, Fedorov AV, First PN, de Heer WA, Lee DH, Guinea F, Castro
+Neto AH, Lanzara A, Nature Mater. 6, 770 (2007).
+
+49.Enderlein C, Kim YS, Bostwick A, Rotenberg E, and Horn K, New Journal of Phys. 12,
+033014 (2010).
+
+50.Trauzettel B, Bulaev DV, Loss D, and Burkard G, Nature Phys. 3 192 (2007).
+
+51.Recher P, Nilsson J, Burkard G, and Trauzettel B, Phys. Rev. B 79, 085407 (2009).
+
+52.F. Mufioz-Rojas, D. Jacob, J. Fernandez-Rossier, and J. J. Palacios, Coherent
+transport in graphene nanoconstrictions. PRB 74, 195417 (2006).
+
+53.Reddy, C.D., Ramasubramaniam, A., Shenoy, V.B. & Zhang, Y.-W. Edge elastic
+properties of defect-free single-layer graphene sheets. Applied Physics Letters 94,
+101904 (2009).
+
+54.Han, M. Y.;O” zyilmaz, B.; Zhang, Y.; Kim, P. Phys. ReV. Lett. 2007, 98, 206805.
+
+55.Chen, Z. H.; Lin, Y. M.; Rooks, M. J.; Avouris, P. Physica E 2007, 40, 228-232.
+
+56.Geim AK, Novoselov KS. The rise of graphene. Nat Mater. 2007 Mar;6(3):183-91.
+
+57.Geim AK, Novoselov KS. The rise of graphene. Nat Mater. 2007 Mar;6(3):183-91.
+
+58.Trauzettel B, Bulaev D V, Loss D and Burkard G 2007 Nat. Phys. 3 192.
+
+59.Schnez A, Ensslin K, Sigrist M and Ihn T 2008 arXiv:0810.3216v1.
+
+60.Peres N M R, Rodriquez J N B, Stauber T and Lopes dos Santos J M B 2008
+arXiv:0810.4768v
+
+61.Chen H-Y, Apalkov V and Chakraborty T 2007 Phys. Rev. Lett. 98 186803.
+
+62.De Martino A, Dell'Anna L and Egger R 2007 Phys. Rev. Lett. 98.
+
+63.Engel H-A and Loss D, Phys. Rev. Lett. 86, 4648 (2001).
+
+64.Borhani M, Golovach VN, and Loss D, Phys. Rev. B 73, 155311 (2006).
+
+65.Koppens FHL, Buizert C, Tielrooij KJ, Vink IT, Nowack KC, Meunier T, Kouwenhoven
+LP, and Vandersypen LMK, Nature 442, 766 (2006).
+
+66.Hanson R, Witkamp B, Vandersypen LMK, Willems van Beveren LH, Elzerman JM,
+and
+Kouwenhoven LP, Phys. Rev. Lett. 91, 192802 (2003).
+
+67.Engel HA, Loss D. Detection of single spin decoherence in a quantum dot via charge
+currents. Physical Review Letters. 2001 May;86(20):4648-51.
+
+68.Nielsen MA and Chuang IL, Quantum Computation and Quantum Information,
+Cambridge University Press (2000).
+
+69.Burkard G, Loss D, and DiVincenzo DP, Phys. Rev. B 59, 2070 (1999).
+
+70.Burkard G, Loss D, and DiVincenzo DP, Phys. Rev. B 59, 2070 (1999).
+
+71.Recher P, Nilsson J, Burkard G, Trauzettel B. Bound states and magnetic field
+induced valley splitting in gate-tunable graphene quantum dots. Physical Review B.
+2009 Feb;79(8).
+
+72.Svore KM, Terhal BM, and DiVincenzo DP, Phys. Rev. A 72, 022317 (2005).
+
+73.Ando T, J. Phys. Soc. Jpn. 69, 1757 (2000).
+
+74.Huertas-Hernando D, Guinea F, and Brataas A, Phys. Rev. B 74, 155426 (2006).
+
+75.Bulaev DV, Trauzettel B, and Loss D, Phys. Rev. B 77, 235301 (2008).
+
+76.Kuemmeth F, Ilani S, Ralph D, and McEuen PL, Nature 452, 448 (2008).
+
+77.Huertas-Hernando D, Guinea F, and Brataas A, Phys. Rev. B 74, 155426 (2006).
+
+78.Petta J. R., et al. A Coherent Beam Splitter for Electronic Spin States, Science 327,
+669 (2010)
+
+79.Taylor, J. M. et al., Phys. Rev. Lett. 94, 236803 (2005).
+
+80.Knill E, Laflamme R, Milburn GJ. A scheme for efficient quantum computation with
+linear optics. Nature. 2001 Jan;409(6816):46-52.
+
+81.Haffner H, Roos CF, Blatt R. Quantum computing with trapped ions. Physics Reports-
+Review Section of Physics Letters. 2008 Dec;469(4):155-203.
+
+50 UNCLASSIFIED / / FOR OPPECEAL-USE-OLLY

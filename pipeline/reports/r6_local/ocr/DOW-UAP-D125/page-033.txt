@@ -1,0 +1,48 @@
+UNCLASSIFIED//&OA. O&&ICI0I. !li'li 01"11.¥ 
+let Extraction 
+To obtain thrust from an IEC device, a valley or trough must be created in the 
+electrostatic potential, and a hole must be physically cut into the ground sphere. This 
+allows high-speed ions to escape in the form of a plasma jet as described in the 
+preceding section. Ions are generated near the ground potential with the aid of electron 
+emitters and additional grids. A central spherical electrical grid accelerates ions to the 
+core region. A cylindrical "channel" grid with the same electrostatic potential as the 
+central spherical grid creates a passage through which ions can escape to the outside. 
+Thus this trough in the electros tat ic potential profile across the centerline (thrust axis) 
+of the IEC thruster is a unique feature compared to the linear profile for a planar 
+device. 
+The ion beams finally exit through an opening in the ground sphere of the IEC device. 
+The channel grid must be well insulated from the ground potential to prevent short­
+circuiting or arc-over; thus a separate insulated feed-through cable maintains the 
+negative potential on the inner spherical and channel grids. Makeup propellant gas is 
+fed into the ionization regiion throug h needle-valve-controlled tubing located around the 
+chamber wall. Ionization of the propellant uses the electron emitter -guide grid design 
+described earlier. The inner grid serves to both extract and accelerate ions, forming the 
+microchannels. To control neutralization of the plasma jet, additional electron emitters 
+are attached close to the jet discharge hole. A combination of electron emission rates 
+and jet grid bias can be used to control the beam space charge, hence the growth of 
+focusing of the beam during propagation. In present experiments, however, the 
+electron rate is fixed at a suitable value while the jet grid bias is varied. 
+Control of the jet diameter and focus is obtained in two ways: first, the channel grid will 
+be separately hinged with a small servo motor such that its axis can be moved over a 
+volume defined by a 10 percent cone angle; second, the grid bias can be varied over a 
+range up to the chamber potential to provide focus control over the jet flow. A large 
+negative grid bias will cause a narrow focus while small potential values will allow the 
+plasma to expand giving a broad cross section beam. 
+Experimental let Design and Performance 
+Figure 3.3 shows the thruster experiment components. It is also of interest to •consider 
+the typical dimensions involved to illustrate the compactness of the unit. The 
+experimental studies use an existing spherical IEC chamber of ~30-cm with a 1-cm 
+diameter port on one side of it for beam extraction. (This is somewhat larger than 
+envisioned for application to micro-satellites). An 8-cm diameter spherical electrical 
+tungsten or tantalum wire grid, having a geometric transparency of ~90 percent, will 
+mount inside the chamber. A ~1-cm diameter hole will be cut into the side of the wire 
+grid, and this hole will be aligned with the hole in the chamber wall and connected to it 
+by a 2-cm diameter cylindrical guide grid. The insulator covering the grounded wall 
+must be of sufficient size to prevent arc-over from the ground to the cylindrical grid. 
+The inner electrical grids are connected to a 500-kV de power supply through the 
+insulated feed-through cable. A positively-charged outer grid with a variable voltage of 
+~10-100 Vis mounted on a swivel connector at the outside of the beam extraction 
+port of the chamber, in combination with four electron emitters, generates ions. The 
+choice for the voltages on the outer grids is flexible, so long as a sufficient ion 
+UNCLASSIFIED/ /FOR OFFIQIAk Wi'li 01"11.¥ 
+26

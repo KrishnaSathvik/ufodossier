@@ -1,0 +1,31 @@
+UNCLASSIFIED/ /FOR OFFI&I.\k Wfili Ql"lk¥ 
+Confined 
+¥' Plasma 
+Sol nod 
+Cotl 
+-·•· emholtz 
+Field Cotl.s 
+Floatm 
+Figure 5.7. Illustration of a Three-Unit MCSA Device 
+Next we consider in more detail the new physics concepts, recirculation and retrapping, 
+that provide the basis for magnet channel coupling. 
+Recirculation of Radial Belt Cone Losses 
+The field configuration and a hypothetical particle trajectory through a belt cusp are 
+shown in Figure 5.8. Because the magnetic field lines that exit the cusp-like field 
+reconnect to the confinement region within the coils, plasma particles that exit through 
+the belt cusp loss cone will recirculate back into the confinement region. This 
+recirculation significantly increases the confinement time verses that of a simple cusp 
+devise, leading to a favorable concept. The linear scaling of an MCSA fusion device with 
+plasma radius, as well as successful operations of multip le units in the array, is in large 
+part controlled by this recirculation effect. 
+..._ l 
+I II 
+\, /: : I~- .._Ir . 
+I ~ 
+\ /..r'" . • ,· 
+_,,,.-"" 
+Recirculation 
+.icle 
+Figure 5.8. Diagram of Belt-Cu ,sp Fields and Particle Recirculation 
+UNCLASSIFIED/ /FOR OFFiiiIAk W&lii OPtkY 
+57

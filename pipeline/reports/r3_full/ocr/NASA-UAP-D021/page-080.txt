@@ -1,0 +1,43 @@
+70
+
+Lovell
+
+Borman
+
+Lovell
+
+Borman
+
+Lovell
+
+Borman
+
+ate and after I started flying the needles.
+
+Because you were overshooting with DIRECT?
+
+Right. I was not able to get the fine control I wanted.
+
+It would not stay in there. I+t seemed like the spacecraft
+was Picking up a torque in roll also, and I was having to
+watch it too close.
+
+And this was different than what we had in the simlation.
+Yes. REENTRY RATE COMMAND we never used. DIRECT we used
+once for tracking the Reentry Minuteman in order to catch
+it. It was moving so swiftly. We also used it in the ini-
+tial phases of reentry, and it worked fine. The FULSH mode,
+of course, was the one we lived with most throughout the 14
+days. I thought it was an excellent mode.
+
+It is a gas saver and even when you do have a platform the
+PULSE mode is adequate for most of the work you can do-- for
+any attitude control, ground terrain observations—except
+for rapid rotations where you need a faster authority.
+Right. All ground tracking, PULSE was adequate. We did
+not have any problem at all. We were able to track the
+Polaris using PULSE, Everything except the reentry cone we
+could use PULSE mode. The HORIZON SCAN mode was fine. The
+only thing I noticed there was at sunrise and sunset some—
+
+times, we were driven to a 30 or 40° nosedown pitch attitude

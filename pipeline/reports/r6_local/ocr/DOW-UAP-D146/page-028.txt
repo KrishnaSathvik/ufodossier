@@ -1,0 +1,23 @@
+UNCLASSIFIED/ /FOR OFFICIAL USE ONLY 
+ESB\ R Ve el 
+Figure 18. ITER Design Concept With BWR Size and Blanket Segment 
+NASA PROGRAMS 
+From 1995 until 2002, NASA had funded advanced space propulsion studies through 
+Marshall Space Flight Center. These studies included the application of fusion and 
+matter-antimatter propulsion for space exploration missions. Recently, NASA has 
+initiated a 5-year high-power electric propulsion demonstration program to develop the 
+technologies for manned missions to Mars in a 20-plus-year timeframe. The program 
+funding may allow initiatives for (p, 11 B) fusion-assisted propulsion, which may provide 
+significant gains in thrust and Isp without reductions in thrust per watt expended. 
+PRIVATELY FUNDED PROGRAMS 
+There are a number of capital investment startups that have been developing fusion 
+reactor technology with funding of several million dollars to greater than $50 million 
+each. All these companies are basing their development on unique concepts or those 
+described in Chapter 3. Table 4 summarizes these companies. Both Lawrenceville 
+Plasma Physics (which uses DPF, dense plasma focus, confinement) and TriApha 
+(which uses beam-heated FRC, field reversed configuration) have been shown 
+conceptually to have low-mass aneutronic fusion propulsion systems that could use 
+direct conversion for power and plasma ion for propulsion. Their success in the next few 
+years may accelerate the implementation of aneutronic fusion propulsion. 
+UNCLASSIFIED/ /POI\ OPPIC!Jlct 1!181!! 8HLY 
+23

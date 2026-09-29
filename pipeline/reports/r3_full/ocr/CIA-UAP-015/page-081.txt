@@ -1,0 +1,34 @@
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+TABLE IX CHI SQUARE TEST OF REVISED KNOWNS VERSUS 
+UNKNOWNS ON THE BASIS OF NUMBER 
+Number of Adjusted x2I ' 
+I 
+Objects Per Number of Number of Number of (K-n) 2 
+Sighting KNOWNS KNOWNS (K) UNKNOWNS (n) K 
+1 913 308 297 0.39 
+I 
+2 142 48 37 2.52 
+I 
+3-10 168 57 70 2.96 
+llormore 34 11 25 15.36 
+Not stated 29 10 5 2.50 
+I 
+Total 1286 434 434 23.73 
+I Degrees of freedom 4 
+I 
+5% 9.5 
+1% 13.3 
+I 
+I 
+I 
+I 
+I 
+I 71 
+I

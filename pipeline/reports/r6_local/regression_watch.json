@@ -1,0 +1,49 @@
+{
+  "generated_at": "2026-09-28T20:10:13.355444+00:00",
+  "cases": [
+    {
+      "id": "cia_d020_d021_paired_one_accepted",
+      "principle": "catalog paired sources; never manufacture event member for unpaired accepted side",
+      "refs": [
+        "CIA-UAP-D020",
+        "CIA-UAP-D021"
+      ]
+    },
+    {
+      "id": "doe_d005_d001_cross_release",
+      "principle": "R4 correspondence \u2194 earlier release source; no synthetic incident",
+      "refs": [
+        "DOE-UAP-D005",
+        "DOE-UAP-D001"
+      ]
+    },
+    {
+      "id": "nasa_d030_d031_d032_media_pairing",
+      "principle": "media pairing only; 0 synthetic incidents",
+      "refs": [
+        "NASA-UAP-D030",
+        "NASA-UAP-D031",
+        "NASA-UAP-D032"
+      ]
+    },
+    {
+      "id": "dow_d090_classifier_sibling_watch",
+      "principle": "D089/D091 transcript extract vs D090 other source_only \u2014 observe, do not retune without evidence",
+      "refs": [
+        "DOW-UAP-D089",
+        "DOW-UAP-D090",
+        "DOW-UAP-D091"
+      ]
+    },
+    {
+      "id": "r5_fd302_sibling_inconsistency",
+      "principle": "R5 FD-302 cluster: some extract, some source_only \u2014 observe, do not retune without evidence",
+      "refs": [
+        "FBI-UAP-D024",
+        "FBI-UAP-D032",
+        "FBI-UAP-D037",
+        "FBI-UAP-D040"
+      ]
+    }
+  ]
+}

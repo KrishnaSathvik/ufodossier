@@ -1,0 +1,46 @@
+UNCLASSIFIED/ /FOR. OFFICIAL tt.!I!! OHL¥ 
+Quantum Tomography of Negative Energy States in the 
+Vacuum 
+Introduction 
+Future aerospace vehicles could have an advanced propulsion system that uses 
+negative quantum vacuum energy to modify the spacetime geometry in the immediate 
+vicin ity surrounding the vehicle in order to induce faster -than-l ight motion via 
+traversable wormholes or warp drives, or even levitation via antigravity [1, 2]. These 
+exotic propulsion concepts are well-known in mainstream general relativity and 
+quantum field theory research. The notion of a physical state with negative energy is 
+not familiar in the realm of classical physics. However, it is not rare in quantum field 
+theory to have quantum states with negative energy density or a negative energy flux. 
+Even for a quantum scalar field in the flat Minkowski spacetime, it can be proved that 
+the existence of quantum states with negative energy density is inevitable [3]. 
+Although all known forms of classical matter have non-negative energy density, it is not 
+so in quantum field theory. A general quantum state can be a superposition of particle 
+number eigenstates and may have a negative expectation value of energy density in 
+certain spacetime regions due to quantum coherence effects [3]. These considerations 
+remain true even for quantum fields in a curved spacetime where the effects of 
+gravitational fields, or equivalently, accelerations, can be observed due to the mass of 
+astronomical bodies or the motions of astronomical bodies. 
+There are two key examples of specially prepared quantum vacuum states that are 
+known to produce small amounts of negat ive energy density in the laboratory. These 
+are the well-known Casimir effect and the squeezed vacuum states of the 
+electromagnetic field. The former is a static quantum vacuum effect wh ile the latter is 
+a time-domain quantum vacuum effect. There are several other examples of special 
+quantum vacuum or particle states that produce negative energy density, but they are 
+beyond the scope of this report because they remain mathematical curiosities or are not 
+practicable to im plement in the laboratory in the foreseeable future. 
+We already make small amounts of negative energy in the laboratory via the Casimir 
+effect and squeezed electromagnetic vacuum states, but we do not yet know if we can 
+access larger amounts for extended periods of time over extended spatial distributions 
+for the purpose of modifying spacetime for aerospace propulsion applications. It will be 
+necessary to first explore the quantum natu re of the Casimir effect and squeezed 
+electromagnetic vacuum states to determine whether we can measure and spatially 
+map their negative energy density. This is a necessary first step to take before 
+beginning any study on producing large quantities of negative energy because we will 
+first need to know how to measure and spatially map negative energy in order to 
+properly control it after producing it. This is the motivation for this report. 
+We need to firm up our understanding of how lab detectors will respond to negative 
+energy in situ. A first step in this direction was already taken by Hansen et al. [4] in 
+2001 for the time-domain negative energy pulses in squeezed electromagnetic vacuum 
+states, and more recently Marecki [5, 6] generalized the analysis of the output of 
+balanced homodyne detectors (BHDs) for t he case of static negative energy states 
+UNCLASSIFIED// FOR OFFICIAL U.!I!! or~L' 
+1

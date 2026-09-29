@@ -1,0 +1,56 @@
+UNCLASSIFIED / /F@R-OFFTGEAL-USE-ONE—
+
+Unfortunately with regard to energy generation, though the Casimir forces involved can
+be of significance for MEMS applications (Reference 63), the associated Casimir
+energies involved are too small to be considered of significance for energy applications,
+so if the possibility for vacuum energy conversion exists, one must look elsewhere to
+other types of matter-vacuum interactions.
+
+TYPE I (TRANSIENT) AND TYPE II (CONTINUOUS) MACHINES
+
+A key feature of the Casimir process just described, regardless of viewpoint (plenum or
+matter-fields), is that it is a “one-shot,” transient, energy-producing machine. That is,
+after delivering its energy, E, the matter that comprises the machine is in a “used”
+state (this used matter is commonly referred to as “ash”) and cannot be restored to the
+original state without an input of energy that is greater than or equal to E. This “one-
+shot” feature can be generalized to define a category of machine called a Type I
+transient machine, with the Casimir machine constituting the prototypical
+representative. Should gravitation eventually be traced to a vacuum ZPF origin as
+proposed by Sakharov (Reference 64), then the fall of an object of mass m through a
+height A in a gravitational field (g = acceleration of gravity at Earth’s surface),
+delivering its gravitational energy mgh upon impact with the ground, would constitute
+another example.
+
+In contrast, one can envision a Type II (continuous) machine in which vacuum ZPF
+energy is converted to a useful form on a recycling basis without net alteration to its
+own matter state. A hypothetical example is the tunable Casimir device that was
+reviewed in Section IV. The cycle of energy generation would consist of the collapse of
+conducting plates with delivery of energy, followed by separation of plates switched to
+insulating mode for which the attractive force is considerably weaker, only to be
+switched back to conducting mode for the next cycle, and so forth. Provided the input
+switching energy required per cycle is less than the output energy delivered per cycle, a
+continuous generation of energy without a net change in matter configuration would
+result. A second example would be a nonlinear oscillator that continuously, on a steady-
+state basis, down-shifted high-frequency components of the vacuum ZPF spectrum to
+lower frequencies for convenient collection and application, without a net change in its
+own operation.
+
+Clearly a Type II machine would be far more useful than a Type I machine for energy
+extraction. Type II machines would constitute a fuel-less energy source, with the
+ambient vacuum ZPF providing essentially unlimited energy. For this to be the case,
+however, another requirement needs to be satisfied, which the next section will
+address.
+
+DEGRADABILITY OF THE VACUUM
+
+The possibility of continuous conversion of vacuum ZPE to other forms (that is, by a
+Type II machine) requires that, in principle, vacuum energy must be degradable (that
+is, continuously consumable), not just that there be a surfeit of energy in place to
+harvest. This perspective leads to a remarkable question for deeper explorations of
+QED. It turns out that the mathematical structure of QED is based on a formalism in
+which the vacuum mode structure and vacuum fluctuation energy per mode are
+quantized in what could be called a “hard-wired” fashion; that is, they possess fixed
+immutable values. Therefore, at the end of a cycle of a hypothetical Type II machine, in
+
+25
+UNCLASSIFIED/ AEQR_OEEICIALUS EO ble ven

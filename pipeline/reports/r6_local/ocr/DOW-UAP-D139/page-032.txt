@@ -1,0 +1,49 @@
+UNCLASSIFIED/ fFOA OFFI&il.t..k Y&& 8Ptk\f 
+where p,- is the outward radial pressure required to hold a wormhole throat open. The 
+Gauss-Bonnet Theorem (discussed in Section II-A) predicted this result beforehand. 
+Equation (11) is a result that is also due to the intrinsic nonlinearity of the general 
+relativistic field equation. This nonlinearity also impacts the coupling of a finite 
+spaceship mass with each side of a wormhole's throat (or the mouth on each side of the 
+throat) leading to a specialized mass conservation law for the combined system of 
+spacecraft and wormhole: when finite mass spaceships traverse a wormhole they alter 
+the (equivalent) mass of the wormhole mouths they pass through (Reference 3). The 
+entrance mouth absorbing the spacecraft gains ( equivalent) mass while the exit mouth 
+emitting it loses (equivalent) mass.11 (This mass coupling and conservation law takes 
+into account the possibility that spaceships traversing the wormhole may lose or gain 
+some momentum and kinetic energy in the process, and it is assumed that the two 
+mouths are sufficiently far apart that their mutual gravitational interaction is 
+negligible.) This unusual result suggests, but does not prove, the possibility of a 
+fundamental limit on the total mass that can traverse a wormhole. The coupled mass 
+conservation law shows that for a sufficiently large net transfer of mass the final 
+(equivalent) mass of the exit mouth becomes negative. This is actually a beneficial 
+result because ANEC violations are required just to hold the wormhole throat open in 
+the first place. If it appears that a runaway reaction might occur, then it would be 
+prudent for wormhole engineers to simply "turn off" the wormhole for a brief moment 
+and then "turn it back on" (i.e., "reset" the wormhole) to restart space transportation 
+operations. 
+It is on the basis of the foregoing discussion that traversable wormholes appear to be 
+the most viable form of FTL transport. However, one still does not know how to 
+construct a traversable wormhole because general relativity theory only provides a 
+recipe for the essential geometric and material ingredients required to open and 
+maintain one, but not the required assembly instructions. Will one need to pull a 
+traversable wormhole out of the quantum spacetime foam and enlarge it to 
+macroscopic scale or will there be need to use extremely large spacetime curvatures to 
+"punch a hole" through space? Or are there construction techniques yet to be 
+identified? The author is convinced that the answer can only be found through empirical 
+studies designed to decide whether the present general relativistic recipe is enough to 
+work with or an additiona l construction mechanism will be required. 
+On physical grounds Equation (10) appears to be the correct negative energy/energy 
+condition violation quantifier. However, further work is needed to establish whether 
+Equation (10) is the correct quantifier to use overall and whether all (averaged) energy 
+condition theorems can be extended to include it. 
+On another note, Borde et al. (Reference 65) have recast the QI conjecture into a new 
+program which seeks to study the allowed spatial distributions of negative energy 
+density in quantum field theory. Their study models free massless scalar fields in flat 
+two-dimensional Minkowski spacetime. Several explicit examples of spacetime averaged 
+QI were studied to allow or rule out some particular model (spatial) distributions of 
+negative energy. Their analysis showed that some geometric configurations of negative 
+energy can either be ruled out or else constrained by the QI restrictions placed upon 
+11 Similar coupling and conservation results hold for the case of electrically charged matter that traverse a (charged 
+or uncharged) wormhole. 
+24 
+UNCLASSIFIEQ { {FOR OFFICIAL W&& 8HLY

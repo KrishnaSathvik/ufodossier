@@ -1,0 +1,17 @@
+Initial “IN” column to denote review prior to action. Initial oe column to denote review of completed action, (X for |
+
+action; y for coordination. 2
+
+“
+a
+
+SR ARMY OFF
+SR NAVAL OFF .
+
+i |
+
+| Foe.
+
+| COMMENTS ( Use reverse, if necessary)
+
+A FHQ oe 0-86 PREVIOUS EDITIONS OF THIS FORM MAY BE USED. : Po

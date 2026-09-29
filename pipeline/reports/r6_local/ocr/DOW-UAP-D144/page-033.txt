@@ -1,0 +1,38 @@
+UNCLASSIFIED/ ,'FOR OFFI@IAI:: WSE ONl::Y 
+extended arm is likely to waver. This would induce significant errors in the gesture 
+system. 
+Voice Commands 
+Voice commands are promising for hands-free and parallel task initiation. 45 By the time 
+that propulsion breakthroughs become viable, it is likely that voice-command 
+technology will have solved the problem of voice recognition (including when stressed) 
+and the problem of accommodating the myriad of ways to ask for the same thing. That 
+having been considered, voice commands are projected to be an excellent 
+augmentation to the set of other cockpit controls, particularly with the more complex 
+and varied instruct ion sets, such as navigating within gesture-based systems. 
+Based on lessons from human-to-human communication, however, it is advised to have 
+the pilot's commands repeated back to them as a form of confirmation. 
+Brain-Machine Interface 
+Although research is currently in the initial stages, 46 th is study of far-future cockpits 
+assumes that this technology is fully matured, such that the pilots can issue commands 
+with their thoughts. A limiting constraint here is that only non- invasive techniques are 
+used (avoiding the need to modify the pilots). 
+Regardless of the sophistication of the technology, a weak link in these systems is the 
+human mind itself; that is, thoughts can wander. Much more study is required to 
+determine the implications of distractions, loss of concentration, fright, levels of mental 
+discipline, and many others. 
+CONTEMPORARY AIRCRAFT COCKPITS 
+For comparative reference, some features of contemporary aircraft cockpits are 
+examined next. Key displays and controls are becoming standardized, although the 
+placement still varies across manufacturers and models. 47 Regardless of differences, 
+the functions are representative of similar functions to consider for breakthrough-era 
+cockpits. 
+The layout of the Airbus A380 Flight Deck, shown in Figure 10, has major flight 
+functions located in specific areas. There is a combination of fixed and adaptable 
+displays. The following items of interest are identified: 
+• Primary flight display . 
+• Navigation display. 
+• Flight mode control. 
+• Vehicle status indicators. 
+• Joystick, throttles, and keypads. 
+UNCLASSIFIED/fFOA. OFFICIO ls. Plili ONls.¥ 
+28

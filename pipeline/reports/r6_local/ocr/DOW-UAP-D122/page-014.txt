@@ -1,0 +1,49 @@
+UNCLASSIFIED / /FOR-OFFECEAL USE CONEY
+
+(a)
+)))
+—2 -t x' | 2 3 —2 a | x ] 2
+
+Figure 10. Light Waves at Cloaking Device. Wave propagation in (a) virtual space and (b) real space.
+
+(b)
+
+ht
+
+~~
+
+4
+
+N
+
+tw
+
+This idea of cloaking by coordinate transformations was put forward by two
+independent groups. Their theories appeared in Science Express on 25 May 2006 and
+were published back to back in Science magazine later on. The first paper? only
+considered isotropic materials, optical materials where the speed of light at each point
+is the same in each direction but may vary from point to point. Most natural optical
+materials, except for some crystals and all liquid crystals, are isotropic. In isotropic
+materials, invisibility is perfect only for light rays, but the cloaking device may cause
+dislocations of light waves. In addition to the optical implementation of coordinate
+transformations, some other tricks are required. The second paper?® considered
+anisotropic materials for cloaking or other manipulations of electromagnetic waves.
+Here, perfect invisibility is possible in principle (but not in practice, as is discussed
+later). In October 2006, the first cloaking device was demonstrated,'! for microwaves.
+Science magazine regarded cloaking as one of the top 10 science breakthroughs of the
+year (it was top in physics and engineering). Scientific American listed the inventors of
+cloaking devices—Sir John Pendry, David Smith, David Schurig, and Ulf Leonhardt—
+among the top 50 policy, business, and research leaders of the year. The first paper
+on cloaking had initially been rejected by most major science and physics journals
+before it finally appeared in Science, but since 2006, cloaking has become a
+mainstream subject on which about a thousand papers have been published so far.
+
+Metamaterials
+
+The first prototype!’ of a cloaking device was designed to operate in the microwave
+region of the electromagnetic spectrum, for a wavelength of about 3 cm. The device
+consists of 10 rings of flexible circuit board. The copper of the circuit board has been
+etched away, apart from characteristic structures of about 3-mm size, so-called split-
+ring resonators.
+
+UNCLASSIFIED / ,50RO055LCLALJISEWODLY

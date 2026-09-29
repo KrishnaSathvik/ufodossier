@@ -1,0 +1,46 @@
+—Setret nGrenh—
+
+Chapter 6
+
+282
+
+The Hycon entry, designed by James Baker and known as the
+Type-IV camera, was a spotting camera with extremely-high-ground
+resolution. In fact, it was an advanced version of the highly reliable
+B camera developed for the original U-2 program. It used a 48-inch
+Baker-designed f/5.6 lens to focus images onto 9.5-inch film. Like the
+B camera it could provide seven frames of photography covering a
+swath 41 miles wide with stereo overlap on 19 miles of the swath.
+The Hycon camera carried the largest film supply of the three
+cameras, 12.000 feet. [t was able to resolve 100 lines per millimeter
+and provide a ground resolution of 8 inches. A version of this 48-inch
+Hycon camera, known as the H camera, later saw service in U-2R air-
+craft.
+
+Each of the three camera systems had unique capabilities and
+advantages, so all three were purchased for the OXCART. Before
+they could be effectively employed in the aircraft, however, new
+types of camera windows were needed. The OXCART’s camera win-
+dows had to be completely free from optical distortion. Achieving
+this goal was difficult in a window whose exterior would be sub-
+jected to temperatures of 550°F while the interior surface would be
+only 150°F. After three years and the expenditure of $2 million in re-
+search and development, the Corning Glass Works, which had joined
+this effort as a Perkin-Elmer subcontractor, solved the problem of
+producing a camera window that could withstand tremendous heat
+differentials. [ts quartz glass window was fused to the metal frame
+by an unprecedented process involving high-frequency sound
+waves.”
+
+Later in the program, the OXCART received yet another camera
+system. In 1964 the Texas Instruments Corporation developed an in-
+frared camera for Project TACKLE U-2s that were being used to de-
+termine whether the People’s Republic of China was producing
+weapons-grade nuclear material. This stereo device, known as the
+FFD-4. was adapted for use in OXCART. The camera had an effective
+focal length of 50 inches and a 150-foot supply of 3.5-inch film. The
+camera’s resolution was 3°C thermally, | milliradian spatially, and 60
+feet on the ground. It could be used for both day and night imagery
+collection.
+
+* Baker interview (S): Minnich, “OXCART Story,” pp. 5-6 (S).

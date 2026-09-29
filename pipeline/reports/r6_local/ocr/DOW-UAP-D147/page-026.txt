@@ -1,0 +1,67 @@
+UNCLASSIFIED1/FOR 8ffl@IAL tt.!! 8flt I 
+Sintered TIC plate TIC plate - CDC film 
+D Teflon plates \ 
+- Electrolyte + eparato r 
+C-CDC film 
+2. C II a embly 
+Figure 10. CDC Synthesis and Electrochemical Test Cell Preparation Schematic. 42 
+Electrochemical measurements of CDC films were carried out in a three-electrode 
+configuration with a large, overcapacitive activated carbon counter-electrode in both lM 
+TEABF4 and lM H2SO4, as well as two-electrode cells with symmetric bulk CDC film 
+electrodes. Volumetric capacitance was calculated for each of the different film 
+thick nesses (shown in Figure 11). For both TEABF4 and H2SO4, the volumetric 
+capacitance decreases with increasing coating t hickness. This is especia lly pronounced 
+in the organic electro lyte, where there is a huge increase in volumetr ic capacitance as 
+the film thickness decreases from 200 to ~2 mm. 
+A 
+180 
+6j' 
+E 160 
+.!:? 
+~ 140 
+Q) 
+0 
+C: 120l!! 
+-~ 100 
+a. ca 
+0 80 
+0 ·c: 
+'1ii 60 
+E :::, 
+g 40 • 
+20 
+B 
+180 
+r;, 
+E 160 
+~ 140 
+¢1 
+0 
+C: 120 
+19 
+'ij 
+100 
+~ <11 
+0 80 
+0 
+~ 60 •E :::, 
+g 40 
+20 
+0 50 100 150 200 250 0 20 40 60 80 100 120 140 
+Coating thickness (µm) Coaling thickness (µm) 
+Figure 11. Volumetric Capacitance of the Films in (A) TEABF4 and ( B) H2S0 4.43 
+MAGNETIC CAPACITORS 
+Giant magneto capacitance (GMC) is a quantum mechanical effect observed in t hin-fi lm 
+structures composed of alternating ferromagnetic and nonmagnet ic layers. 44• 45 Such 
+materials have been reported to have increased permittivity by 109 .46 This material 
+behavio r n orma lly occurs at tempe ratures well below 273K and has only recently been 
+reported in the literature above this temperature.47 However, since 2007, Northern 
+Lights Semiconductor Corp. {NLSC) has been developing a magnetic capacitor {MCap) 
+that utilizes a material which exhibits the GMC above 300K. 
+Structured like the basic flat-plate capacitor, an MCap nanocell featu res a proprietary 
+dielectric layer sandwiched between two magnetized layers. Each magnetic material 
+layer is made of multip le nanomete r-thick thi n-film layers. Millions of MCap nanocells 
+are created and linked using a semiconductor thin-fi lm process, producing the MCap cell 
+on a wafer {Figure 12). 
+UNCLASSIFIEO/fFOA OFFl€il.t.k YSE O,.Llf 
+21

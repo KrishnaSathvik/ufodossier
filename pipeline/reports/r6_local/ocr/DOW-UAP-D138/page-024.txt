@@ -1,0 +1,48 @@
+UNCLASSIFIED/ /POiit OPPICIIIIL ~SE e•n:Y 
+7 .2 THE GEOMETRY OF EXTRA DIMENSIONS 
+To answer the first question, our most developed higher dimensional theory (M-theory) 
+works in seven additional spatial dimensions. The shape is believed to be what 
+mathematic ians call a Calabi-Yau manifold - a complex object that is notoriously 
+challenging to work with. Physicists often like to work with simpler models (a single 
+extra dimension, for example) with an uncomplicated shape like the circle. Although 
+this may at first appear to be a gross simplification, often these simplistic higher 
+dimensional models both reflect the flavor of the physics involved, and give accurate 
+predictions that are believed to deviate from nature only at extremely high energies. 17 
+For th is reason, many of the research 
+papers investigating higher dimensions 
+choose to work in the simpler circular 
+higher dimensional space. A smaller 
+fraction of papers explore two additional 
+higher dimensions, which are commonly 
+toroidal (see Figure 6), and an even 
+smaller fraction of papers work in the full 
+M-theoretic Calabi-Yau manifold. At these 
+early stages of investig ation, the 
+addit ional circular dimension represents 
+an adequate approximation. Should the 
+research progress to a more highly 
+developed phase, then it may become 
+necessary to work within the Calabi-Yau 
+manifold. 
+Figure 6. A Toroidal Higher Dimension. This is one 
+With regards to the question of whether of the many possible topologies explored in higher 
+space can be made to contract, it seems dimensional theories . 
+possible if one can make the energy 
+density of a given region of space negative instead of positive. This type of space has 
+been well explored by physicists, and is known as anti-deSitter space. One of the 
+unique features of Casimir energy is that under many conditions it is known to be 
+negative, and thus with a careful manipulation of the higher dimensional fields it is, in 
+principle, possible to generate the required contraction of space. 
+7 .3 HIGHER DIMENSIONS AND STABILIZATION 
+Our goal in this section is to explore the possibiliti es of manipulating a higher 
+dimension, which will influence the local dark energy density and thus the expansion 
+and contraction of spacetime in the vicinity of a spacecraft. 
+Before the issue of how to manipulate a higher dimens ion can be addressed, first one 
+must understand why an additi onal spatial dimension holds some fixed radius. This is a 
+well know problem in higher dimensional physics and is commonly called the problem of 
+"modulus stabilization." Broadly stated, the question is as follows: if there are 
+additional spatial dimensions, why do they not perpetually expand, like our familiar 
+dimensions of space, or alternatively, why do they not perpetually contract? What 
+17 For example, in the vicinity of a black hole, or in the first moments of the big bang. 
+UNCLASSIFIED//f8R: 8fFl611'1L W&i O~lkY 
+17

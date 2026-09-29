@@ -1,0 +1,20 @@
+UNCLASSIFIED/ ( FOR OFFIClt. k YSE 8Htt 
+➔ 
+Figu re 24. Example of a Gener ic Chiral Metamater ial : An Optical Fiber with a Rectangular Cross Section Core 
+Twisted During the Drawing Process Forms a Double Helix. If the core index is nonlinear, then one can engineer a 
+variab le helix pitch in such a way that the core (localized) modes can be selectively coupled to cladding modes 
+depending on the direction of propagatio n. 
+Under a high ly simp lified assumption of just two interacting mode (core and cladding), 
+we have developed a coupled-mode theory describing the evolution of the mode 
+amplitudes a,0 and ac1 along the fiber axis z. The set of the generic equations for a,0 and 
+act is given by: 
+0a;; - i(/Jo +rI aw 12 -8 I 2)a,·o = iWad, 
+(8) 
+aac1 - i(/30 +<5 I 2)ac1 = iW* ac0 
+ar 
+where/3 0 =c(f3co +f3c1)1 2wis the average normalized propagation constant, 
+o(r) = c(/3co - f3c1 + 2/3,,)I ()) is the distance-dependent mode detuning, r is the 
+nonlinearity coefficient, Wis the coupling strength between the modes, and r =wz/ c is 
+the normalized propagation distance. 
+UNCLASSIFIED/ {fQR OFEICl.t.ls: W81!! 8flti 
+28

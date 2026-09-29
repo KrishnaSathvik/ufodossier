@@ -1,0 +1,47 @@
+UNCLASSIFIED/,'rOR: orrlCIAL USE 014Lf 
+Chapter 5: Conclusion 
+To reduce mission costs, advanced technology components and a novel laser propulsion 
+system can make nanosats (and picosats) compact, lightweight, low power, and low 
+cost. By producing a large quantity of nanosats for a given mission, the per-unit cost 
+will be reduced to a small fraction of satellite procurements for traditional missions. 
+Mission operation costs will be minimized by the incorporation of both onboard and 
+ground autonomy, use of heuristic systems, and use of a novel laser propulsion system 
+to launch the nanosats into LEO. Laser propulsion is an enabling technology in which a 
+laser-propelled vehicle, called "Lightcraft," harnesses the energy of a high-energy laser 
+beam and converts it into propulsive thrust. 
+The laser-propelled Lightcraft is an ETO transportation system that develops quasi­
+steady (airbreathing) thrust by pulsing at a variable rate along the flight trajectory to 
+orbit, and then when it climbs above the atmosphere it begins to operate in the thermal 
+rocket mode using onboard propellant to convert and expand the laser energy for 
+propulsion. The Lightcraft is spin-stabilized and can be launched vertically upward or 
+on a slant upward trajectory, hover in mid-a ir, and undergo powered descent and 
+landing. The system is single-stage-to-orbit and completely reusable with no onboard 
+propellant required (the reaction mass is free air), except for the small internal amount 
+of propellant needed for final ascent to orbit and orbital maneuvering. MEMS FEEP 
+thrusters could provide onboard attitude and stationkeeping propuls ion. The Lightcraft 
+specific impulse is essentially infinite (several thousand seconds in rocket mode), while 
+payload mass fractions are 50% to 95%. 
+Laser-propelled Lightcraft systems are simple, reliable, safe, environmenta lly clean, and 
+could have a very high all azimuth on-demand launch rate. This novel propulsion 
+system reduces space launch costs by two to three orders of magnitude below today's 
+levels, with estimated launch costs of $20 per kg to $600 per kg of payload, not 
+including life-cycle and recurring launch operations costs. The entire Lightcraft launch 
+system is comprised of a ground, sea, or airborne laser beam generator consisting of a 
+power supply, a high-power (megawatt-class) laser beam generator/transmitter using 
+novel beam optics, and automated tracking, hand-off and safety systems. 
+The most promising military mission for laser-propelled Lightcraft is the placement of 
+Earth and space observing nano-/pico-satellites of up to 3 kg mass into LEO. Such 
+Lightcraft could also serve as a "Lightsat," because it would use the Lightcraft's laser 
+propulsion optics as a telescope for observing military targets on Earth and in space. 
+Such a Lightcraft system appears capable of reaching LEO at 1/S th to 1/l0 th the cost 
+required for placing a similar Lightsat system into LEO using multistage chemical rocket 
+systems. Other potentia l missions inclu de using laser-propelled Lightcraft as 
+ground/sea- or airborne-launched kinetic kill weapons to shoot down enemy ballistic 
+missiles. Very innovative near-term missions could also include deploying Lightcraft 
+nano-/pico-satellites to form swarms of small spacecraft which cooperate coherently to 
+form a real distributed system in which the whole is more than the sum of the parts . 
+This would be a constellation of small spacecraft each performing its separate function, 
+but these functions combine to create at a central location a much larger virtual 
+spacecraft, or sensor aperture, that exists solely because of the cooperation of the 
+UNCLASSIFIED,<,<FOA QFFISIAL HSI!! 8HLY 
+68

@@ -1,0 +1,40 @@
+UNCLASSIFIED/ /FOR OFFI@IAI! WSE OHi!:¥ 
+Another momentum-entangled EPR experiment was the 1998 Ph.D. thesis of Birgit 
+Dopfer (Reference 17) performed at the University of Innsbruck and shown 
+schematically in Figure 5. In the Dopfer experiment, moving a detector in one arm 
+non locally changes the observed interference pattern in the other arm. Dopfer used 
+351-nm UV pump radiation from an argon -ion laser with Type I down-conversion in a 
+nonlinear Lil03 crystal cut with the optic axis at 90° to the pump beam to produce a 
+pair of 702-nm momentum-entangled photons that emerged from the crystal at angles 
+of 28.2° to the right and left of the pump axis, as shown in Figure 5. 
+Figure 5. Schematic of the 1998 Dopfer Experiment (Reference 17) 
+The lower entangled photon passed through a pair of slits and into a detector, while the 
+upper photon passed through a lens that could image the two slits to perform a "which­
+way" measurement if detector D2 was placed two focal lengths behind the lens (2f). 
+However, if detector D2 was placed in a position one focal length behind the lens (f), the 
+slits were not imaged, and light on the reflected line passing through either slit could 
+reach the detector at the same points, producing a result similar to that of the Ghost 
+Interference experiment. A structured two-sl it interference pattern could be switched on 
+and off by moving a detector in the other arm of the experiment between the f and 2f 
+positions. 
+Again, from the viewpoint of nonlocal communication, it is noted that moving detector 
+D2, which can be thought of as the action of a "sending" observer, nonlocally causes an 
+observable change in the position distribution of the second photon, as detected at 
+"receiver" position D1. However, the Dopfer experiment does not demonstrate nonlocal 
+communication because, like the Ghost Interference experiment, it requires a classical 
+communication link to impose the coincidence requirement between the detected 
+photons because of the geometry of the experiment. 
+Examination of these two exper iments raises a very interesting quest ion: Can the 
+coincidence requirement be removed? The answer is not clear. In principle, the two 
+entangled photons are connected by nonlocality whether they are detected in 
+coincidence or not. The coincidence should therefore be removable. However, in both 
+experiments the authors report that no two -slit interference distr ibution is observed 
+2f . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . 
+702.2 nm 
+2f 
+~ ~.... .. . . .. .. ... . . . . . .... .. ........ . . 
+♦ - .. . ... . ........ . 
+f 
+Coincidence 
+UNCLASSIFIED/ /FOA OFFI&il.t.l:: W&lii OHi!:¥ 
+9

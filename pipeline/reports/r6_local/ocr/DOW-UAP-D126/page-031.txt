@@ -1,0 +1,41 @@
+UNCLASSIFIED/ J'FOR OFFI@IAk WSI: OPtklf 
+The Super Marx generator therefore can accomplish on Earth what the spacecraft acting 
+as a large capacitor can do in space. 
+The testing of an Argon ion laser driven by high explosives can, of course, be done on 
+Earth, and the same applies to the conjectured superexplosives. 
+Conclusion 
+If large-scale manned spaceflight has any future, a high-specific-impulse, high-thrust 
+propulsion system is needed. The only known propulsion concept with this property is 
+nuclear bomb propulsion. However, since large-yield nuclear explosions are for obvious 
+reasons undesirable, the nuclear explosions should be comparatively small. But because 
+of what Freeman Dyson described as the "tyranny of the critical mass," small fission 
+bombs or fission-triggered fusion bombs become extravagant, with only a fraction of 
+the nuclear material consumed. 1 
+In the original Orion bomb propulsion concept, the propulsive power was through the 
+ablation of a pusher plate. There the energy is delivered to the pusher plate by the 
+black-body radiation of the exploding bomb. The propulsion by non-fission-triggered 
+fusion bombs not only has the advantage that it is not subject to the "tyranny of the 
+critical mass," but the propulsive power is there delivered by the kinetic energy of the 
+expanding hot plasma fireball repelled from the spacecraft by a magnetic mirror. This is 
+particularly true for a pure deuterium bomb, where, compared with DT, more energy is 
+released into charged fusion products (in a DT bomb, 80 percent of the energy goes 
+into neutrons). 
+Whereas in a fission explosion most of the energy is lost into space by the undirected 
+black-body radiation, much more propulsive energy can be drawn from the plasma of a 
+pure deuterium fusion bomb explosion, in conjunction with a magnetic mirror. 
+Manned space flight requires lifting large masses into Earth orbit, where they are 
+assembled into a large spacecraft. While this can be done with chemical rockets, it 
+would be much more economical if it could be done with a chain of small nuclear 
+explosions. Without radioactive fallout, this can be done with a chain of laser-ignited 
+fusion bombs, with one laser for each bomb, where the lasers become part of the 
+exhaust. Ignition can be done not by infrared chemical or CO2 lasers, as was suggested 
+by the Los Alamos team (Reference 18), but rather by an ultraviolet laser driven by 
+high explosives, as suggested by the author (Reference 9). 
+Looking to the future, using deuterium-widely available on most planets of the solar 
+system and in the Oort cloud outside the solar system-as the nuclear rocket fuel would 
+make manned space flight to the Oort cloud possible, at a distance at about one-tenth 
+of one light year. 
+1 The same is true for nuclear fission gas core rocket reactors, where much of the unburned fission fuel is lost in 
+the exhaust. 
+UNCLASSIFIED/ ,,roA OFFI&il.t.k WSI: ONkl/ 
+25

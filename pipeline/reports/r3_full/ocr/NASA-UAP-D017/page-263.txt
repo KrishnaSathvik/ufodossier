@@ -1,0 +1,37 @@
+255
+
+14.0 TRAINING
+
+14.1 Gemini Mission Simulator
+
+MeDivitt
+
+Okay. Over on Training now. The first topic
+
+is Gemini Mission Simulator and I think we
+touched lightly on this subject already. TI
+
+think that it's an excellent trainer for pro-
+cedures, system knowledge, launch, orbit,
+retrofire, reentry, and crew stations. I think
+the big problem with it is that it takes too
+
+long to turn it around. I think that we're fool-
+ing around with it too much, committing it to
+supporting other aaeions besides flight crew
+training. The simulator at the Cape was sup-
+posed to have been turned around at roughly
+
+two weeks after GT-3's launch, and about six weeks
+after the launch it still ween't doing its ‘gi,
+When we went down there to start flying this
+completely checked-out simulator, we found that
+the launch phase worked, the orbit phase did
+
+not work, and the reentry phase did not work.
+After we got the orbit phase squared away, we
+found out that we kept losing reentry eommand
+
+system. We couldn't use Direct Control Mode
+
+in ything. We never did fly reentries

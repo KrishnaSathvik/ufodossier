@@ -1,0 +1,37 @@
+UNCLASSIFIED/ /FOR OFFICIAL USE ONLY 
+of conceptual maps. Numerous templates for these tools are readily available and 
+many are adaptable to gesture-based interaction .22 
+Color 
+Color is convenient for labeling different categories of information, providing status 
+indications, and for adding redundant (corroborating) information to minimize errors. 
+Humans mentally process color information first and do so more accurately and with 
+less effort than when distinguishing shapes or alphanumeric indicators. The upper limit 
+on the recommended number of colors to simultaneously display is only about 4 to 12 
+colors. To augment this number, it is acceptable to adjust the saturation or brightness 
+of a given color to represent gradations, such as terrain height or the criticality of a 
+variable. 23 
+Although research has not progressed to the point where absolute recommendations 
+can be made for the use of colors, the tripartite system is a widely recognized and 
+easily discernable status indicator: 
+• Red = danger. 
+• Yellow = caution. 
+• Green = safe to proceed. 
+Conveniently, fewer pilots have colorblindness than the general public, and thus color­
+coded displays can be used more effectively than with the general public (data: 8% of 
+males and 0.4% of females are colorblind to red-green or blue-yellow distinctions). 24 
+Other lessons regarding the use of color include the following :25 
+• Use strong colors sparingly: strong colors draw attention, and too many of them can 
+overstimu late the user. 
+• Yellow is a rare color since it is simultaneously soft and intense. 
+• The color of objects is more discernable than the color of text or lines. 
+• Use soft colors (grays, pastels) for backgrounds and large areas. 
+• A good color choice is one where that color is not conspicuous. 
+• Use soft contrasts or graduated contrasts between areas, since hard contrasts can 
+appear to vibrate. 
+• Avoid having the color white next to strong colors since it is too much of a contrast. 
+• Avoid framing a box of text since that creates clutter. Instead, place the text in a 
+box with a different fill color. 
+• If needed to strengthen boarders between softly colored areas, frame the area with 
+a darker shade of its fill color. 
+UNCLASSIFIED/fFOA. OFFICIO ls. Plili ONls.¥ 
+19

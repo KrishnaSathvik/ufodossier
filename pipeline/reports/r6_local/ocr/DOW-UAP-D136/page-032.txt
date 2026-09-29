@@ -1,0 +1,19 @@
+UNCLASSIFIED/ /P'OR: OP'P'l@IAL WS& 0Nk¥ 
+POLYMER BIOMEMS ELECTRODES 
+Polymer materials like polyimide are widely used for neuroprostheses because they are 
+inert, flexible and metal films adhere well to them. 
+Manufacturing of neural electrodes can be achieved by metal vacuum deposition 
+through photolithographic masks and by a process of RF ablation or etching. Figure 22 
+shows some products of NeuroNexus Inc that result from this process. These electrodes 
+are batch fabricated and have a high reproducibility of geometrical shape, electrical 
+properties, and mechanical properties. 
+Figure 22. Polymer-Based Cortical Penetrating Neuroelectrodes Made by Processes of Thin Film 
+Deposition and RF Etching (Neuronexus Inc) 
+They also have the advantage of small size, resulting in minimal displacement of the 
+neural tissue and their long leg lengths give a high spatial resolution at various depths 
+up to 1 cm. The multiple parallel shanks, provide horizontal spatial sampling and 
+independent recording/stimu lation among sites. 
+Figure 23 shows one of these devices introduced into the cortex of an exposed rat 
+brain. 
+UNCLASSIFIED/ {FOR OFFICIO! !PEii QDlk¥ 
+26

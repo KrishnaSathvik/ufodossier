@@ -1,0 +1,50 @@
+UNCLASSIFIED/ fFOA OFFIEIAL: U&i OPIL:¥ 
+be used to observe this effect in the lab. Pinto also points out that other polarizable 
+systems such as nanoparticles, microspheres, and quantum dots can be used in place 
+of atoms. The trapping of latex spheres into a form of optical matter by means of 
+intense laser radiation has already been demonstrated in the lab. In addition, an 
+analogy to the item 1 - 3 manipulations that produce dramatically enlarged 
+polarizabilities in trapped interacting nanoparticles and microspheres have also been 
+demonstrated in the lab. 
+Pinto proposes a levitation propulsion thruster in which the combined system of trapped 
+interacting polarizable particles and external confining fields forms a single thruster 
+element comprising a fraction of the mass of the entire vehicle. The reaction of the self­
+lift ing force exerted by this element against the external confining fields results in the 
+transfer of force (thrust) to the entire vehicle. In order to achieve levitation, this 
+requires that the upward thrust per polarizable particle be larger than its own weight if 
+the fraction of the thrusting mass is smaller than the mass of the rest of the vehicle. 
+The propulsive levitation condition is expressed as (Reference 66): F1hrus1 =(Mveh + mAN)g or 
+F1hrus1lmANg ~ 1, where F1hrus1 is the total gravity-induced thrust, M vch is the vehicle mass, 
+mA is the mass of individual polarizable particles, and N is the total numbe r of trapped 
+polarizable particles. 
+Pinto identified numerous technical challenges that will have to be overcome before this 
+concept can be put to practice. One challenge is that polarizability resonant 
+enhancement also leads to atomic transitions and decay which result in the recoil and 
+evaporation of atoms from inside the trap. Another is the difficulty of maintaining 
+cont inued confinement of a trapped cluster of polarizable particles in a specific 3-
+dimensional array while the cluster is simultaneously opposing the amplified interatomic 
+forces and producing thrust. The confinement lifetime of trapped polarizable particles is 
+finite and there is the possibility that these particles might be evaporated away or 
+destroyed in a time that is too short to deliver the required thrust to the vehicle. 
+Therefore, a scheme for active repopulation of the trapped cluster will have to be 
+developed. The design of particle cluster traps and associated external confinement 
+fields are of primary importance to determine the effect ive thrusting time of every 
+polarizable particle. In addition, Rydberg atoms suffer from finite radiative lifetimes and 
+are sensitive to external perturbations, so dispersion force manipulation might lead to 
+the ionization of atoms. Tradeoffs will have to be made between all of the relevant 
+system parameters in order to discover the "sweet spot" that achieves levitation and 
+upward acceleration. These and other yet to be identified technical challenges need to 
+be addressed via further empirical and theoretical studies. 
+V. Conclusion: The Way Forward 
+This report has reviewed and analyzed a number of antigravity concepts that are found 
+within Newtonian gravity theory, General Relativity Theory, semi-classical quantum 
+gravity theory, quantum field theory, and nonretarded quantum interatomic dispersion 
+force theory. One found that plausible mechanisms exist within Newtonian and general 
+relativistic theories whereby one could embody a realistic device that produces a 
+significant antigravity force. However, one discovered that there are daunting technical 
+challenges that arise in each of the proposed embodiments. Mechanical embodiments 
+that produce antigravity forces require kilometer-sized apparatus, astronomical-sized 
+masses and densities, or extreme mass velocities and accelerations. There are other 
+subtleties involved, such as the possibility of different forms of matter having a highly 
+UNCLASSIFIED/ /FOA OFFI€1.t.k Y&li 9,.LY 
+24

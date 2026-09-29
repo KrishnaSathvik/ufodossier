@@ -1,0 +1,183 @@
+--- PAGE 1 ---
+UNCLASSIFIED/ /FOR OFFI@IAk WSI: OPtklf 
+Defense 
+Intelligence 
+Reference 
+Document 
+Acquisition Threat Support 
+11 March 2010 
+!COD: 1 December 2009 
+DIA-08 -1003 -007 
+Advanced Nuclear Propulsion 
+for Manned Deep Space 
+Missions 
+UNCLASSIFIED/ ,'FOR OFFI@IAk WSE OHkl/
+
+--- PAGE 2 ---
+UNCLASSIFIED/ /F&R 8FFIOIAL l!ISE 8HLY 
+Advanced Nuclear Propulsion for Manned Deep Space 
+Missions 
+Prepared by: 
+Acquisition Support Division (DW0-3) 
+Defense Warning Office 
+Directorate for Analysis 
+Defense Intelligence Agency 
+Author: 
+AAP Person 72 
+Administrative Note 
+COPYRIGHT WARNING: Further dissemination of the photographs in this publication is not authorized. 
+This product is one in a series of advanced technology reports produced in FY 2009 
+under the Defense Intelligence Agency, Defense Warning Office's Advanced Aerospace 
+Weapon System Applications (AAWSA). Program. Comments or questions pertaining to 
+this document should be address ed to lAAP Person 1 lAAWSA Program 
+Manager, Defense Inte lligence Agency, ATTN: CLAR/DWO-3, Bldg 6000 , Washington, 
+DC 20340-5100 . 
+UNCLASSIFIED//509 OFFICIAL 11&ili Qtll.¥ 
+ii
+
+--- PAGE 3 ---
+UNCLASSIFIED/ fFOA OFFIEIAk W&liii 8Ptl¥ 
+Contents 
+Preface .................................................................................................................... v 
+Magnetic Entrapment of the Charged Fusion Products and the Stopping of the 
+Neutron Entrapment in an Autocatalytic Thermonuclear Detonation Wave - a 
+Means to Increase the Specific Impulse and to Solve the Large Radiator Problem 18 
+Appendix: Conjectured Metastable Superexplosives Formed Under High Pressure 
+Bombardment of a Solid Target With an Intense Relativistic Electron or Ion 
+Bombardment of a Solid Target With Beams or By Hypervelocity Impact, 
+Introduction ........................................................................................................... 1 
+Deuterium, Argon Ion Lasers, and Kev Superexplosives ........................................ 1 
+Magnetic Insulation and Inductive Charging .......................................................... 3 
+Magnetic Insulation ........................................................................................... 3 
+Inductive Charging .................................................................................................................................... 4 
+Deuterium as the Preferred Nuclear Rocket Fuel .................................................... 5 
+Proton Beam in Dense Deuterium .......................................................................... 6 
+Solution in Between Two Extremes ...................................................................... 10 
+The Nonfission Ignition of Small Deuterium Nuclear Explosives .......................... 13 
+Delivery of a Gev Proton Beam Onto the Deuterium Fusion Explosive .................. 15 
+Lifting of Large Payloads Into Earth Orbit ............................................................ 16 
+Testing the Deuterium Microdetonation Concept .................................................. 20 
+Conclusion ............................................................................................................ 25 
+for Thermonuclear Ignition .................................................................................. 26 
+Beam ................................................................................................................ 28 
+Hypervelocity Impact ....................................................................................... 28 
+Followed By a Convergent Shock Wave ............................................................ 28 
+References ........................................................................................................... 30 
+UNCLASSIFIED/ /POil Offl@IAL YSIE 8Ptll/ 
+iii
+
+--- PAGE 4 ---
+UNCLASSIFIED/ /Pelt eFFl@IAL l:ISIE 8HLY 
+Figures 
+Figure 1. Ignition With 107 -Ampere GeV Proton Beam ......................................... 11 
+Figure 13. The Superconducting Toroidal Capacitor and Its Discharge Onto the 
+Figure 15. With Increasing Pressure, Electron-Bridges are Formed Between 
+Figure 2. Pure Deuterium Fusion Explosion Ignited With an Intense Ion Beam ... 14 
+Figure 3. Screening of the Spacecraft ................................................................... 14 
+Figure 4. Superconducting "Atomic" Spaceship .................................................... 15 
+Figure 5. Argon Ion Laser Igniter ......................................................................... 17 
+Figure 6. Autocatalytic Thermonuclear Detonation Using a Soft X-ray ................. 18 
+Figure 7. Ordinary Marx Generator ....................................................................... 21 
+Figure 8. Super Marx Generator ........................................................................... 21 
+Figure 9. Artist's Conception of a 1.5-km-Long Super Marx Generator ................. 21 
+Figure 10. Detail View of a Section of the Super Marx Generator ......................... 22 
+Figure 11. Injection of GeV - 10 MA Proton Beam ................................................ 22 
+Figure 12. Showing a Few Elements of the Super Marx Generator ....................... 22 
+Target .................................................................................................. 24 
+Figure 14. Explosives ....................................................................... .................... 26 
+Shells Inside Shells Melting Into Common Shells ................................ 26 
+Figure 16. p-d, Pressure ....................................................................................... 29 
+Figure 17. Inertial Confinement Fast-Ignition Configuration ................................ 30 
+Tables 
+Table 1. The Charged Fusion Products of a Detonation in Deuterium: Their 
+Energy and Velocity .................................................................................. 5 
+Table 2. Critical Ignition Currents for Thermonuclear Reactions ............................ 8 
+UNCLASSIFIED/ /Felt 8Ffl@IAI: l:l&lii &PU.¥ 
+iv
+
+--- PAGE 5 ---
+UNCLASSIFIED/ /FOR OFFl@IAL l::l!H! 8HL'I 
+Advanced Nuclear Propulsion for Manned Deep Space 
+Missions 
+Preface 
+My interest in space flight dates to when I was about 10 years old and 
+received as a birthday gift a popular book about the feasibility of space flight. 
+From it I learned for the first time about Oberth and Goddard and of the 
+possibility of reaching the Moon with a multistage rocket. This occurred at the 
+same time that Hahn and Strassmann announced the discovery of nuclear 
+fission, with the possibility of an atomic bomb by a fission chain reaction. 
+Having been born in Germany in 1929, I received my Ph.D. in physics under 
+Heisenberg in 1955. Inspired by the 15-megaton hydrogen bomb test 
+conducted by the United States in 1952, I have been deeply interested in the 
+nonfission ignition of thermonuclear reactions by inertial confinement since 
+1954. At the time all fusion research in the United States was still classified, 
+but I had quite independently discovered the basic principles of inertial 
+confinement, the Guderley convergent shock wave, and the Rayleigh 
+imploding shell solutions. In 1956 I presented my findings at a meeting 
+organized by Von Weizsacker at the Max Planck Institute in Goettingen. The 
+abstracts of this meeting reside today in the University of Stuttgart library. 
+In 1958 I had delivered a paper at the 2nd United Nations Conference on the 
+Peaceful Use of Atomic Energy on Nerva-type nuclear rocket reactors. The 
+paper turned out to be of some importance as I was invited by the U.S. 
+government to come to the United States under "Operation Paperclip." In San 
+Diego I met Ted Taylor and Freeman Dyson, who were working on the famous 
+"Orion" nuclear bomb propulsion concept. This concept is generally credited to 
+Stanislaw Ulam, but I know from conversations I had with Heisenberg that a 
+similar idea had been presented to Heisenberg by Wernher von Braun in Berlin 
+in or around 1942. Because of my idea to use the Guderley convergent shock 
+wave solution for thermonuclear ignition, Ted Taylor and Freeman Dyson were 
+interested in my joining their group. But because at that time this work was 
+classified and I was not yet a U.S. citizen, this was not possible. 
+In 1967 I saw a new possibility for the nonfission ignition of thermonuclear 
+microexplosions by intense relativistic electron and ion beams, driven by a 
+high-voltage Marx generator. This ignition concept could be used not only to 
+control the release of energy by nuclear fusion, but also to propel a spacecraft, 
+replacing the pusher plate of the Orion concept with a magnetic mirror, 
+reflecting the plasma-fireball of the thermonuclear microexplosion (Reference 
+1, 2). This idea was adopted by the British Interplanetary Society in its 1978 
+Project Daedalus starship study, replacing a neutron-rich deuterium-tritium 
+(OT) thermonuclear explosive with a neutron-poor deuterium-helium3 (DHe3) 
+explosive (Reference 3). Unlike the OT reaction, in which 80 percent of the 
+released energy goes into neutrons, most of the energy in the D-He3 reaction 
+goes into alpha particles, which can be deflected by a magnetic mirror. But 
+UNCLASSIFIED/ ,'FOR OFFI&I.t.k Wliliii QfslL¥ 
+V
+
+--- PAGE 6 ---
+UNCLASSIFIED/ /PO" OPPICIJ!tt l:191! OHL'f 
+because He3 is not abundantly available everywhere, it was proposed to 
+"mine" it from Jupiter's atmosphere. 
+Studies have been conducted on spacecraft propulsion with the matter­
+antimatter annihilation reaction, however, it is an enormous technical 
+challenge to produce antimatter in appreciable quantities. The idea of using 
+nano-gram amounts of antimatter for the ignition of fission-fusion 
+microexplosions appears to have credible potential, but even there the 
+production and storage of nano-gram quantities of antimatter pose serious 
+technical problems (Reference 4). 
+We have little reason to expect that new fundamental laws of physics that 
+could lead to a breakthrough in propulsion still await discovery. Very much as 
+America was discovered only once, it is quite possible that all the fundamental 
+laws of physics relevant to propulsion have been discovered, challenging our 
+imagination to find out if they are sufficient to invent propulsion systems that 
+ultimately might bring us to Earthlike planets of nearby solar systems. 
+I conclude this preface with an imaginary talk by Ted Taylor to Freeman Dyson 
+as recorded by the latter's son, George Dyson, in his book Project Orion - The 
+True Story of the Atomic Spaceship (Reference 5), followed by a dream of Ted 
+Taylor's. "Freeman's hope for the Orion had rested on the fact that there 
+seems to be no law of nature forbidding the construction of fission-free 
+bombs," and on the belief that "improvements in the design of the nuclear 
+devices (by reducing the fraction of total yield due to fission) might achieve 
+reduction factors of 102 to 103 • This belief in small, fission-free bombs has 
+largely evaporated." "One exception is Ted (Taylor). He remains convinced 
+that small, clean bombs could propel Orion - but he still fears more than ever 
+that such devices would be irresistible as weapons, until we outgrow the habit 
+of war. There are lots of different routes to that final result of a very clean 
+bomb." "Could you make a one-kiloton explosion in which the fission yield was 
+zero, which is bad news on the proliferation front, but could turn Orion into 
+something quite clean?" "Freeman thinks Ted is wrong - and Ted hopes 
+Freeman is right." I for my part think Freeman is wrong. 
+Many years later, shortly before his death, Ted Taylor reported: "I had a dream 
+last night, about a new form of nuclear weapon, and I am really scared of it." 
+He reported that when he woke up, he wrote down his dream, and it appeared 
+scientifically sound and feasible. What was it? We never will know with 
+certainty, but I 

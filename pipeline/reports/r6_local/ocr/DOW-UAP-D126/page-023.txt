@@ -1,0 +1,35 @@
+UNCLASSIFIED/ 1'F01il 0FFI€1Ak Ulili Q'11k¥ 
+of the cylindrical argon rod. If the shock is launched from a distance of ~1 m onto an 
+argon rod with a radius equal to 10 cm, the temperature reaches 90,000 K, just right to 
+excite the upper laser level of argon. Following its heating to 90,000 K, the argon 
+cylinder radially expands and cools, with the upper laser level frozen into the argon. 
+This is similar to a gas dynamic laser, where the upper laser level is frozen in the gas 
+during its isentropic expansion in a Laval nozzle. To reduce depopulation of the upper 
+laser level during the expansion by superradiance, one may dope to the argon with a 
+saturable absorber, acting as an "antiknock" additive. In this way, megajoule laser 
+pulses can be released within 10 nanoseconds. A laser pulse from a small Q-switched 
+argon ion laser placed in the spacecraft can then launch a photon avalanche in the 
+argon rod, igniting a DT microexplosion. 
+E 
+[:l\ ~ 1tl _~l}l ~ l :l:ltl : . l : l}}l~ 1 : CTL ► 
+DT 
+"-
+D 
+~1 ~ ltl : :: 1}1~~________....... 
+Figure 5. Argon Ion Laser Igniter, to Ignite a Staged DT -+DD Fusion Explosion in a Mini-Teller-Ulam 
+Configuration. A solid argon rod. HE cylindrical shell of high explosive, d detonators . Q Q-switched argon ion laser 
+oscillator . 
+Employing the Teller-Ulam configuration, by replacing the fission explosive with a DT 
+microexplosion, one can then ignite a much larger DD explosion. 
+As an alternative, one may generate a high current linear pinch discharge with a high­
+explosive-driven magnetic flux compression generator. If the current I is on the order 
+of I= 107A, the laser can ignite a DT thermonuclear detonation wave propagating down 
+the high current discharge channel, which in turn can ignite a much larger pure DD 
+explosion. 
+If the craft is launched from the Earth's surface, one has to take into account the mass 
+of the air entrained in the fireball. The situation resembles a hot-gas-driven gun, albeit 
+one of rather poor efficiency. There the velocity gained by the craft with N explosions, 
+each setting off the energy E,, , is given by 
+(27) 
+UNCLASSIFIED/ /POil Offl@IAL YSIE 8Htl/ 
+17

@@ -1,0 +1,42 @@
+UNCLASSIFIED/ (EOR OFFICit.k W&E 8Htt 
+a C e 
+Ohmic Schottky 
+d Split gap 
+Transmitted 
+L 
+SI-GaAs 
+L --, 
+I 
+'>,f 
+, ,~ Rd 
+I 
+I 
+Figure 26. THz Properties of an Electric Split Ring Resonator. (a) Are controlled by applying voltage between 
+Schottky and Ohmic contacts (c,d) . (b) Schematic of circuit with induct ance. Applied voltage contro ls charge 
+density inside the split gap (d). The structure is investig ated using a single-cycle THz pulse (e) . (Reference 36) 
+Summary and Conclusions 
+While it is difficult to pinpoint the exact applications that metamaterials will find in 
+advanced aerospace industry, metamaterials possess several features that uniquely suit 
+them for aerospace applications. First, the enable miniaturization of a variety of o tical 
+components . Making space-born devices small and light-weight is essential. These 
+opportunities have been covered in detail. Second, metamaterials enable new 
+modalities for sub-diffraction imag ing: super-lenses, hyperlenses, and far-field 
+superlenses. Those modalities dispense with the near-field scanning microscopes, which 
+are complex, slow-scanning, large devices that are not appropriate for advanced 
+aerospace platforms. Harvesting infrared photons, whether from coherent laser sources 
+on Earth (for guidance, energy recharging, and so forth), from thermal Earth glow, or 
+from the stars, is likely to be important for aerospace platforms. Metamaterials offer 
+unique opportunities for making efficient wavelength-tunable, wide-angle absorbers. As 
+discussed in the numerous examples in this report, metamaterials are going to 
+revolutionize the way light is captured, manipulated, and used for imaging. Although 
+metamaterials are still an academic area of research, these examples illustrate that 
+there is great potential for practical applications. 
+References 
+[1] Smith D R, Padilla W J, Vier DC, Nemat-Nasser SC, Schultz S 2000 PRL 84 4184. 
+[2] J. B. Pendry, "A Chiral Route to Negative Refraction", Science 306, 1353 (2004). 
+[3] D. Schurig and D. R. Smith, "Spatial filtering using media with indefinite permittivity 
+and permeabil ity tensors", Appl. Phys. Lett., 82, 2215 (2003). 
+[4) D. R. Smith and D. Schurig, "Electromagnetic wave propagation in media with 
+indefinite permittivity and permeability tensors", Phys. Rev. Lett., 90, 77405 (2003) 
+UNCLASSIFIED/ {EAR OFFICIAk W81!!! Bflti 
+31

@@ -1,0 +1,43 @@
+UNCLASSIFIED/ /FOR OFFI@IAk WSE 9Ptk\f 
+• Van der Waals forces. 
+• Casimir forces. 
+• Diamagnetism. 
+• Davies-Unruh Effect. 
+The strength of the SEO model is that it is heuristically appealing, with transparent 
+derivations, and it is applicable to linear systems. SEO calculations have also been 
+shown to be in one-to-one correspondence with the expectation va lues of the 
+Heisenberg quantum equations of motion for linear systems . Both SED and QED will 
+play a role in the discussions to follow. 
+IV. Review of Selected Experiments 
+In what follows, is an outline each of the proposed experimental concepts that were 
+selected for theoretica l and laboratory invest igation. A subset of our proposed concepts 
+has undergone preliminary evaluation by Lockheed-Martin review panels involving both 
+internal R&D personnel and outside experts on theory and experimentation (V. Teofila, 
+private commun ication, 2005). 
+VOLTAGE FLUCTUATIONS IN COILS INDUCED BY ZPF AT HIGH 
+FREQUENCY 
+In a series of experiments, Koch et al. (Reference 18-20) measured voltage fluctuations 
+in resistive wire circuits that are induced by the ZPF. The Koch et al. result is striking 
+corroboration of the reality of the ZPF and proves that the ZPF can do real work (cause 
+measurable currents). Although the Koch et al. experiment detected minuscule 
+amounts of ZPF energy, it shows the principle of ZPF energy circuitry to detect vacuum 
+fluctuat ions and opens the door to consideration of means to extract useful amounts of 
+energy. The secondary consequences on other phenomena, if energy can be 
+successfully extracted, have not yet been investigated. 
+Blanco et al. (Reference 21) have proposed a method for enhancing the ZPF-in duced 
+voltage fluctuations in circuits. Theoretically treating a coil of wire as an antenna, they 
+argue that the antenna-like radiation resistance of the coil should be included in the 
+total resistance of the circuit, and suggest that this total resistance should be used in 
+the theoretical computation of ZPF-induced voltage fluctuations. Because of the strong 
+dependence of the radiation resistance on the number of coil turns (quadratic scaling), 
+coil radius (quartic scaling), and frequency (quartic scaling), any enhanced ZPF-induced 
+voltage fluctuations should be measurable in the laboratory at readily accessible 
+frequencies (100 MHz compared to the 100 GHz range necessary in the Koch et al. 
+experiments). 
+In the theory of Blanco et al., random voltage fluctuat ions are conveniently described 
+by their frequency spectrum. That is, given a sufficient time interval of measured 
+voltages, the measurements are Fourier transformed to the frequency domain to 
+determine how the voltage fluctuations are distributed (for example, quantity of low­
+frequency, long duration fluctuations relative to high-frequency, short-duration 
+UNCLASSIFIED/ /FOR OFFICI0L: 11ili QIU.,¥ 
+7

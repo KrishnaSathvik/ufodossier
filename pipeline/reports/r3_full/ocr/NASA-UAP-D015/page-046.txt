@@ -1,0 +1,38 @@
+LOS ALAMOS SCIENTIFIC LABORATORY
+UNIVERSITY OF CALIFORNIA
+LOS ALAMOS, NEW MEXICO
+
+TO: Dr. Jocelyn Gill DATE: July 13, 1962
+
+Xe = 5.4 x 10%cm (204)
+
+X4 = 7-8 x 10° om (20e)
+
+Absorbers Present in the Upper Atmosphere
+Three constituents of the atmosphere near 100 km altitude absorb light through
+
+most or all of the visible range, as would be required to get a noticeable dimming
+of starlight.
+They are: 1) NOs (nitrogen peroxide)
+2) 9". (negative atomic oxygen ion)
+3) Oo (negative molecular oxygen ion)
+Of these, I found no cross section data for Os. For om Massey (Negative Ions;
+Cambridge U. Press) gives curves showing absorption cross sections starting at
+5620 A and approaching ~ 4 x io: cm/ion in the region } < 5000 A. There is
+
+very little structure (only the onset at 5620 A).
+
+From equation (17) we find that
+
+Ng(0") SE = (7.5 + 5) x 10%”
+x
+
+could explain the observed attenuation.
+
+For an effective path length of 5.4 x 107 cm, we have po = (1.4 + 1) x 102°
+negative ions/cm®.
+
+Since the daytime free electron concentration in the E layer is 1.5 x 10° and
+the night value is ~ 10* it seems hard to believe such a high nighttime concentration
+
+of negative atomic ions.

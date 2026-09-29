@@ -1,0 +1,57 @@
+& @
+
+Photogrammetric Serial 02
+Analysis of "Utah" Film
+
+This "Utah" film clip together with a "Montana" UFO film clip (Analysis
+of Photographic Material, Serial 01) came into the possession of Green-Rouse
+Productions at Samuel Goldwyn Studios, 1041 North Formosa Street, Hollywood,
+who incorporated both film clips as significant evidence in a Documentary
+Film, "Unidentified Flying Objects’ for release by United Artists to public
+theaters by May 9, 1956.
+
+A 35mm reprint of the Newhouse “Utah” film was submitted by the Studio
+to Douglas Aircraft Company for examination. Visual study of the reprints
+on the Recordak and astronomical plate measuring engine revealed the follow-
+ing: the film comprises about 1,200 frames; on most of the frames there
+appear many round white dots, some elliptical. The dots often seem clustered
+in constellations, or formations which are recognizable for as long as seven-
+teen seconds. A relative motion plot (obtained from an overlay vellum trace
+on the Recordak) of two typical formations are presented in figures 2a and 2b.
+The objects seem to cluster in groups of two's and three's, see actual blowups,
+ha, 5b, and 6c. On some frames they flare up and then disappear from view
+in 0.25 seconds or less and sometimes they appear as a randomly scattered
+"twinkling" of dots. The dot images themselves show no structure; they are
+white and have no color fringes. Examination under a microscope shows the
+camera to be well focused as the edges of the images are sharp and clear on
+many of the properly exposed frames. Angular diameters range from about
+0.0016 to 0.0004 radians. Their pattern of motion is essentially a curvi-
+linear milling about as shown in figure 2a and 2b. Sometimes the objects ap-
+pear to circle about each other. There are no other objects in the field of
+view which might give a clue as to the absolute motion of the cluster.
+
+In the overlay trace, figure 2, the frame of reference is determined by
+& certain object whose relative motion during a sequence of frames remains
+rather constant (indicated in the figures). This object is used as a refer-
+ence point and the lower edge of the frame as abscissa. Assuming the camera
+to have been kept reasonably uncanted, the abscissa would be horizontal and
+the ordinate vertical. In the overlay trace, figures 3a and 3b, the particular
+frame itself is used as the reference. Assuming the camera was held steady
+(there is an unconscious tendency to pan with a moving object) the coordinate
+system is quasi-fixed. It is realized that both of these coordinate systems
+are in actuality moving, possibly possessing both velocity and acceleration.
+
+No altitude or azimuth determination can be made because of lack of
+background. The only measurable quantities of interest are therefore the
+relative angular distances between the objects and their time derivatives.
+Graphs of two typical time variations of relative angular separation and
+velocity are included as figures 7 and 8. The relative angular velocity is
+seen to vary from zero to 0.0065 radians per second. The relative angular
+acceleration had a maximum value of 0.0036 radians per second squared.
+Supposing the camera was kept stationary the average angular velocities for
+the object moving across the field are 0.039 and 0.031 radians per second
+for figures 3a and 3b. The angular velocities in these sequences sometimes
+vary erratically from 0.07 to 0.01 radians per second. This variation may
+be attributed in part to camera "jiggling" and in part to the object's
+
+DECLASSIFIED Authority NND 923007

@@ -1,0 +1,42 @@
+---
+1,200°F 
+1,500 ° F 
+800 °F " 3,800°F 
+RLE=1.6 in. 
+2,200° F 
+UNCLASSIFIED/ /FOR OFFI@IAL l:ISE OHL¥ 
+Figure 18, radiation equilib rium skin temperature is the skin temperature that results 
+when the radiated thermal energy stemmi ng from the skin temperature equals the 
+input aerodynamic heating minus any conduct ion into the airframe. 
+900 °F Upper 
+Surface 
+! 
+l•4,Joo°F Lower 
+ALE= 0.5 in. Surface 
+• 4,200°F 
+1,ooo·F 
+Figure 18. FDL-7C/D, Model 176 Entry Temperature Distribution. Upper- surface heating is minimized by 
+cross-section geomet ry. 
+Figure 19 is a thermographic phosphor 
+image of the model in Figure 17 at a 12-
+degree angle of attack (max imum L/D 
+rat io) at mach 12. Even at mach 12, 
+there are vortices embedded in the 
+boundary layer. The three black dots are 
+heat transfer gauges that were used to 
+establish the value for qrefin Figure 19. 
+The stagnation heat transfer was 25 
+times the reference value. This 
+technique, when calibrated with the ,, - no 
+reference heat transfer gauges, provided 
+a rapid and accurate means to dete rmine 
+heat transfe r distributions with a 
+min imum of installed gauges. The 
+technique was adopted by other wind 
+tunnel facil ities, including the Arnold 
+Engineering Development Center at 
+Tullahoma, Tennessee. 
+Figure 19. Even at Mach 12, Embedded Vortices in 
+the Boundary Layer Alter the Local Heat Transfer 
+UNCLASSIFIED/ /FOR. OFFICI CIs. flili Qllls.¥ 
+19

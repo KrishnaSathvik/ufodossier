@@ -1,0 +1,39 @@
+UNCLASSIFIED (/ FO? -OFFECEALUSE-ONE~
+
+t= sinh (2) =£ cosn[ 2? +1) (A.8)
+
+Cc
+
+Time Ratio
+
+ied
+
+0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1
+
+Vic
+Figure 12. Time Dilation at Relativistic Velocities.
+
+The Tsiolkovsky rocket equation is important as it relates the change in the mass of a
+rocket due to fuel consumption in order to generate a desired AV, or velocity change:
+
+AV=1,, n[ ae (A.9)
+A final
+
+For a relativistic rocket, velocity is affected by time dilation resulting in the relativistic
+rocket equation:
+Ly
+AV=c on n(n } (A.10)
+c TN finat
+
+Through any propulsion method, kinetic energy must be added to the rocket through
+reaction mass (propellant) in order to accelerate the rocket to its final velocity. Since
+mass changes with velocity, we will need to use Einstein’s equation to determine the
+kinetic energy required to accelerate the rocket to a final velocity based on its rest
+mass, Mo.
+
+E=mc =KE+m,c (A.11)
+KEM HS =m PO (A.12)
+KE=m, c’ (y-)) (A.13)
+
+31
+UNCLASSIFIED / +O R-OFFt6EA-USE-ONE

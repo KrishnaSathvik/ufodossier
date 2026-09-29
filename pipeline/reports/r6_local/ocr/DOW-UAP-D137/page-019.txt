@@ -1,0 +1,38 @@
+UNCLASSIFIED/ fFOA: OFFI€1.t.k YSE &P•tv 
+- • - ·0 sensor
+-· -· -· sensor _ . - • \ 0 error 
+.-............................................. 
+Tracker 
+Stabilization 
+Electronics 
+• 0 
+0target 
+Gimbal 
+Figu re 10. HEL Weapon Basic Tracking and Pointing Controls 
+The concept described above and 
+illustra ted in Figure 10 was used for 
+beam control systems unt il the 1980s. 
+At that point, t here was a desire for 
+higher performance systems using 
+larger pointing telescopes but with 
+lower jitter. This conflicting set of 
+requireme nts (mo re massive telescopes 
+and higher structura l resonant 
+frequencies) was firs t resolved in the 
+Sealite Beam Directo r (SLBD) shown in 
+Figure 11. I nstead of attac hing the IRU 
+to the point ing and track ing telescopes 
+the n attemp ting to mechanically 
+stabilize them, the I RU was loosely 
+mounted inside the pointing te lescope. 
+Using an optica l refere nce attached to 
+the IRU, its measurement of base 
+motio n dist urbance was relayed to the 
+SLBD's optical alignment sensors which 
+commanded small fast steering mirrors 
+to stabilize the HEL beam. The large 
+telescope was then allowed to Figure 11. Sealite Beam Director 
+exper ience the base moti on disturbance 
+even though the HEL beam passing th rough it was stabil ized. 
+UNCLASSIFIED/ fFOA OFFI€l.t.k YSE 8,.L\f 
+14

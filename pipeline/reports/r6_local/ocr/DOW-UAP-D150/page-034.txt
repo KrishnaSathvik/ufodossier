@@ -1,0 +1,30 @@
+UNCLASSIFIED/ /FOR OFFICIAL U.!I! 8Ht¥ 
+that the resulting geometry approximates the shape within one DNA turn ( ~ 3.6 nm) in the 
+x-direction and two helical widths(~ 6 nm, including an inter-helix gap) in they-d irection. 
+To make a molecular design, a scaffold is run exactly once through each helix; performed in 
+a raster-fill manner, this creates a 'fold ing path' (Figure 18b). To hold the scaffold in this 
+shape, helper strands are added to create a regular pattern of antiparallel crossovers (Figure 
+18c). 
+Figure 19 illustrates the versatility of shapes-programmed DNA origami with a high yield in 
+excess of 70%. Each shape seen in Figure 19 uses 7000-base long scaffolds requiring more 
+than 200 DNA strands for a final molecular weight of 15,000 nucleotides. Thus, the DNA 
+origami structure has a molecular weight that is l00X that of the original DX model and 
+nearly 6X larger in geometric construction where 50 billion copies of the pattern are created 
+at once. With this technique, a device has been created that has a molecular weight of the 
+component of cells that can synthes ize proteins and amino acids- the ribosome. For the first 
+time, we are now capable of self-assembling structures whose size and complexity rival that 
+of Nature's most complex self assembled machines. 
+A B 
+1 1 
+11 
+1 1 
+~ 
+- ~'t'fl\tt - JfflV,Jw 
+Reagen! Controller Herringbone Binary Tree Column Array "'d!Yld..ily 
+□ lnldvAM•""'"'"""' - -­
+Figure 17. (A) Schematic diagram of a 16-column microfluidic DNA synthesizer. 
+The control lines are shown in red, the fluidic lines in blue, the herringbone 
+mixers in yellow, and the square profiled binary tree and reactor columns in 
+green. (8) Close up schematic of the column array (106). 
+UNCLASSIFIED/ /FOA OFFICil.t.k W&E 8HL1/ 
+33

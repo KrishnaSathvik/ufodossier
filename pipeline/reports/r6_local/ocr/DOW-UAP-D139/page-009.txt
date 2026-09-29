@@ -1,0 +1,46 @@
+,
+UNCLASSIFIED/ fFOA OFFl&I.t.k Y&& 8PtL\f 
+II. A Brief Review of Transversable Wormholes and the 
+Stargate Solution 
+How does one study the physics of FTL spacetimes with in the framework of general 
+relativity t heory? When studying spacetime physics, the normal philosophy is to take 
+the general relativistic field equation, add some form of matter, make simplifying 
+assumptions, and then solve to deduce what the geometry of spacetime will be. 1 This is 
+very difficult to do because there are ten nonlinear second-order partial differential 
+equat ions with four redundancies (arbitrary choice of spacetime coordinates) and four 
+constraints (stress-energy conservation). There is a tremendous body of research that 
+takes exactly this approach, either analyt ically or numerically. However, this is not the 
+best strategy for understanding wormhole spacetimes. The appropriate strategy is to 
+decide beforehand on a definition of the traversable wormhole that you desire and 
+decide what the spacetime geometry should look like. Given the desired geometry, use 
+the general relativistic field equation to calculate the distribution of matter required to 
+set up this geometry. Then one needs to assess whether the required distribution of 
+matter is physically reasonable and whether it violates any basic rules of physics, etc. 
+The following sections briefly outline the key results for traversable wormholes. 
+A. TRAVERSABLE WORMHOLES 
+Traversable wormholes represent a class of exact metric solutions of the general 
+relativistic field equation. The solutions are "exact" in the sense that no approximations 
+requir ing a plethora of physical assumptions have to be made to derive the appropriate 
+spacetime geometry. To define a stable traversable wormhole one needs to define t he 
+desirable physical requirements it is to have in order to achieve the desired FTL travel 
+benefit. The desired requirements are the following (Reference 1, 3): 
+• Travel time through the wormhole tunnel or throat should be ::; 1 year as seen by 
+both the travelers and outside static observers. 
+• Proper time as measured by travelers should not be dilated by relativistic effects. 
+• The gravitational acceleration and tidal-gravity accelerations between different parts 
+of the travelers' body should be ::; 1 go (go is the acceleration of gravity near t he 
+Earth's surface, 9.81 m/s 2) when going through the wormhole. 
+• Travel speed through the tunnel/throat should be < c. 
+• Travelers (made of ordinary matter) must not couple strong ly to the material that 
+generates the wormhole curvature; the wormhole must be threaded by a vacuum 
+tube through which the travelers can move. 
+• There is no event horizon at the wormhole throat. 
+1 The Einstein field equation is: Gµv"' R,,.,- [(1/2) g,,.,R] = -(S rcG/c4)Tµ, , where G,,, is the Einstein curvature tensor, 
+R,,., is the Ricci curvature tensor, R "' Rµµ (the trace of Rµ,,) is the Ricci scalar curvature, Tµv is the stress-energy ­
+momentum tensor (a matrix quantity that encodes the density and flux of a matter source's energy and 
+momentum), G is Newton's universal gravitation constant (6.673 x 10-11 Nm2/kg 2), and c is the speed of light. In 
+simplest terms, this relation states that gravity is a manifestation of the spacetime curvature (Gµv) induced by a 
+source of matter (T,..). The Greek indices (µ, v = 0...3) denote spacetime coordinates, xo...x, , such that x1 ...x, = 
+space coordinates and xo"' time coordinate. 
+UNCLASSIFIEQ { {FOR OFFICIAL Y&& 8HLY 
+1

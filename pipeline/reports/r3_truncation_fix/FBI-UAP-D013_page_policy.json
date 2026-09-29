@@ -1,0 +1,398 @@
+{
+  "page_count": 55,
+  "policy_counts": {
+    "other": 19,
+    "press_clipping": 16,
+    "empty": 10,
+    "government_memo_or_investigative": 10
+  },
+  "eligible_for_extract": true,
+  "disposition": "extract_narrative_pages",
+  "pages": [
+    {
+      "page": 1,
+      "router_route": "uncertain",
+      "policy": "other",
+      "text_chars": 242,
+      "incident_cue_score": 0.0
+    },
+    {
+      "page": 2,
+      "router_route": "skip_press",
+      "policy": "press_clipping",
+      "text_chars": 233,
+      "incident_cue_score": 0.0
+    },
+    {
+      "page": 3,
+      "router_route": "skip_press",
+      "policy": "press_clipping",
+      "text_chars": 225,
+      "incident_cue_score": 0.0
+    },
+    {
+      "page": 4,
+      "router_route": "skip_press",
+      "policy": "press_clipping",
+      "text_chars": 138,
+      "incident_cue_score": 0.0
+    },
+    {
+      "page": 5,
+      "router_route": "skip_empty",
+      "policy": "empty",
+      "text_chars": 21,
+      "incident_cue_score": 0.0
+    },
+    {
+      "page": 6,
+      "router_route": "skip_empty",
+      "policy": "empty",
+      "text_chars": 41,
+      "incident_cue_score": 0.0
+    },
+    {
+      "page": 7,
+      "router_route": "skip_press",
+      "policy": "press_clipping",
+      "text_chars": 162,
+      "incident_cue_score": 0.0
+    },
+    {
+      "page": 8,
+      "router_route": "skip_empty",
+      "policy": "empty",
+      "text_chars": 76,
+      "incident_cue_score": 0.0
+    },
+    {
+      "page": 9,
+      "router_route": "uncertain",
+      "policy": "other",
+      "text_chars": 1196,
+      "incident_cue_score": 1.0
+    },
+    {
+      "page": 10,
+      "router_route": "narrative",
+      "policy": "government_memo_or_investigative",
+      "text_chars": 1807,
+      "incident_cue_score": 1.0
+    },
+    {
+      "page": 11,
+      "router_route": "narrative",
+      "policy": "government_memo_or_investigative",
+      "text_chars": 2223,
+      "incident_cue_score": 0.667
+    },
+    {
+      "page": 12,
+      "router_route": "skip_press",
+      "policy": "press_clipping",
+      "text_chars": 1426,
+      "incident_cue_score": 0.667
+    },
+    {
+      "page": 13,
+      "router_route": "skip_empty",
+      "policy": "empty",
+      "text_chars": 23,
+      "incident_cue_score": 0.0
+    },
+    {
+      "page": 14,
+      "router_route": "skip_empty",
+      "policy": "empty",
+      "text_chars": 24,
+      "incident_cue_score": 0.0
+    },
+    {
+      "page": 15,
+      "router_route": "skip_press",
+      "policy": "press_clipping",
+      "text_chars": 1205,
+      "incident_cue_score": 0.333
+    },
+    {
+      "page": 16,
+      "router_route": "uncertain",
+      "policy": "other",
+      "text_chars": 2098,
+      "incident_cue_score": 0.0
+    },
+    {
+      "page": 17,
+      "router_route": "uncertain",
+      "policy": "other",
+      "text_chars": 278,
+      "incident_cue_score": 0.0
+    },
+    {
+      "page": 18,
+      "router_route": "skip_press",
+      "policy": "press_clipping",
+      "text_chars": 905,
+      "incident_cue_score": 0.0
+    },
+    {
+      "page": 19,
+      "router_route": "skip_press",
+      "policy": "press_clipping",
+      "text_chars": 648,
+      "incident_cue_score": 0.0
+    },
+    {
+      "page": 20,
+      "router_route": "skip_press",
+      "policy": "press_clipping",
+      "text_chars": 1128,
+      "incident_cue_score": 0.333
+    },
+    {
+      "page": 21,
+      "router_route": "skip_press",
+      "policy": "press_clipping",
+      "text_chars": 872,
+      "incident_cue_score": 0.0
+    },
+    {
+      "page": 22,
+      "router_route": "narrative",
+      "policy": "government_memo_or_investigative",
+      "text_chars": 1284,
+      "incident_cue_score": 1.0
+    },
+    {
+      "page": 23,
+      "router_route": "skip_empty",
+      "policy": "empty",
+      "text_chars": 31,
+      "incident_cue_score": 0.0
+    },
+    {
+      "page": 24,
+      "router_route": "uncertain",
+      "policy": "other",
+      "text_chars": 1450,
+      "incident_cue_score": 0.667
+    },
+    {
+      "page": 25,
+      "router_route": "uncertain",
+      "policy": "other",
+      "text_chars": 2317,
+      "incident_cue_score": 1.0
+    },
+    {
+      "page": 26,
+      "router_route": "skip_empty",
+      "policy": "empty",
+      "text_chars": 68,
+      "incident_cue_score": 0.0
+    },
+    {
+      "page": 27,
+      "router_route": "skip_press",
+      "policy": "press_clipping",
+      "text_chars": 1631,
+      "incident_cue_score": 0.333
+    },
+    {
+      "page": 28,
+      "router_route": "skip_empty",
+      "policy": "empty",
+      "text_chars": 56,
+      "incident_cue_score": 0.0
+    },
+    {
+      "page": 29,
+      "router_route": "skip_press",
+      "policy": "press_clipping",
+      "text_chars": 610,
+      "incident_cue_score": 0.0
+    },
+    {
+      "page": 30,
+      "router_route": "uncertain",
+      "policy": "other",
+      "text_chars": 1518,
+      "incident_cue_score": 1.0
+    },
+    {
+      "page": 31,
+      "router_route": "narrative",
+      "policy": "government_memo_or_investigative",
+      "text_chars": 2089,
+      "incident_cue_score": 1.0
+    },
+    {
+      "page": 32,
+      "router_route": "narrative",
+      "policy": "government_memo_or_investigative",
+      "text_chars": 2338,
+      "incident_cue_score": 0.667
+    },
+    {
+      "page": 33,
+      "router_route": "skip_press",
+      "policy": "press_clipping",
+      "text_chars": 657,
+      "incident_cue_score": 0.667
+    },
+    {
+      "page": 34,
+      "router_route": "skip_press",
+      "policy": "press_clipping",
+      "text_chars": 607,
+      "incident_cue_score": 0.0
+    },
+    {
+      "page": 35,
+      "router_route": "uncertain",
+      "policy": "other",
+      "text_chars": 398,
+      "incident_cue_score": 0.0
+    },
+    {
+      "page": 36,
+      "router_route": "uncertain",
+      "policy": "other",
+      "text_chars": 368,
+      "incident_cue_score": 0.0
+    },
+    {
+      "page": 37,
+      "router_route": "uncertain",
+      "policy": "other",
+      "text_chars": 1246,
+      "incident_cue_score": 0.0
+    },
+    {
+      "page": 38,
+      "router_route": "skip_empty",
+      "policy": "empty",
+      "text_chars": 34,
+      "incident_cue_score": 0.0
+    },
+    {
+      "page": 39,
+      "router_route": "narrative",
+      "policy": "government_memo_or_investigative",
+      "text_chars": 3388,
+      "incident_cue_score": 1.0
+    },
+    {
+      "page": 40,
+      "router_route": "narrative",
+      "policy": "government_memo_or_investigative",
+      "text_chars": 2081,
+      "incident_cue_score": 0.667
+    },
+    {
+      "page": 41,
+      "router_route": "skip_press",
+      "policy": "press_clipping",
+      "text_chars": 1812,
+      "incident_cue_score": 0.333
+    },
+    {
+      "page": 42,
+      "router_route": "uncertain",
+      "policy": "other",
+      "text_chars": 747,
+      "incident_cue_score": 0.667
+    },
+    {
+      "page": 43,
+      "router_route": "narrative",
+      "policy": "government_memo_or_investigative",
+      "text_chars": 1164,
+      "incident_cue_score": 1.0
+    },
+    {
+      "page": 44,
+      "router_route": "uncertain",
+      "policy": "other",
+      "text_chars": 1330,
+      "incident_cue_score": 0.333
+    },
+    {
+      "page": 45,
+      "router_route": "skip_press",
+      "policy": "press_clipping",
+      "text_chars": 1129,
+      "incident_cue_score": 0.333
+    },
+    {
+      "page": 46,
+      "router_route": "uncertain",
+      "policy": "other",
+      "text_chars": 112,
+      "incident_cue_score": 0.0
+    },
+    {
+      "page": 47,
+      "router_route": "skip_empty",
+      "policy": "empty",
+      "text_chars": 38,
+      "incident_cue_score": 0.0
+    },
+    {
+      "page": 48,
+      "router_route": "uncertain",
+      "policy": "other",
+      "text_chars": 231,
+      "incident_cue_score": 0.0
+    },
+    {
+      "page": 49,
+      "router_route": "uncertain",
+      "policy": "other",
+      "text_chars": 248,
+      "incident_cue_score": 0.0
+    },
+    {
+      "page": 50,
+      "router_route": "uncertain",
+      "policy": "other",
+      "text_chars": 1186,
+      "incident_cue_score": 1.0
+    },
+    {
+      "page": 51,
+      "router_route": "narrative",
+      "policy": "government_memo_or_investigative",
+      "text_chars": 1132,
+      "incident_cue_score": 1.0
+    },
+    {
+      "page": 52,
+      "router_route": "narrative",
+      "policy": "government_memo_or_investigative",
+      "text_chars": 1328,
+      "incident_cue_score": 1.0
+    },
+    {
+      "page": 53,
+      "router_route": "uncertain",
+      "policy": "other",
+      "text_chars": 965,
+      "incident_cue_score": 0.0
+    },
+    {
+      "page": 54,
+      "router_route": "uncertain",
+      "policy": "other",
+      "text_chars": 102,
+      "incident_cue_score": 0.0
+    },
+    {
+      "page": 55,
+      "router_route": "uncertain",
+      "policy": "other",
+      "text_chars": 2021,
+      "incident_cue_score": 1.0
+    }
+  ]
+}

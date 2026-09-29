@@ -1,0 +1,217 @@
+--- PAGE 1 ---
+UNCLASSIFIED/ /POil OFFl@IAI:: WSli 0Nk¥ 
+Defense 
+Intelligence 
+Reference 
+Document 
+Acquisition Threat Support 
+11 March 2010 
+!COD : 1 December 2009 
+An Introduction to the 
+Statistical Drake Equation 
+UNCLASSIFIED/ /FOA OFFICIO L: 1PiF ON! Y
+
+--- PAGE 2 ---
+UNCLASSIFIED/ /P81t 8FFIEIAL Y&E &ttbl/ 
+An Introduction to the Statistical Drake Equation 
+Prepared by: 
+Acquisition Support Division (DW0-3) 
+Defense Warning Office 
+Directorate for Analysis 
+Defense Intelligence Agency 
+Author: 
+AAP Person 80 
+Administrative Note 
+COPYRIGHT WARNING: Further dissemination of the photographs in this publication is not authorized . 
+This product is one in a series of advanced technology reports produced in FY 2009 
+under the Defense Intelligence Agency, Defense Warning Office's Advanced Aerospace 
+Weapon System App lications (AAWSA) Program. Comments or questions pertaining to 
+this document should be addressed t o !AAP Person 1 ~ AAWSA Program 
+Manager , Defense Intelligence Agency, ATTN: CLAR/DWO-3, Bldg 6000 , Washington, 
+DC 20340-5100. 
+UNCLASSIFIED//F8R 8FFl61tlib Wlilli Qtlb¥ 
+ii
+
+--- PAGE 3 ---
+UNCLASSIFIED/ /POil OFFl@IAL WSli 0Nk¥ 
+Contents 
+1. Introduction ....................................................................................................... iv 
+2. The Key Question: How Far are They ? .............................................................. 4 
+3. Computing N By Virtue of the Drake Equation (1961) ........................................ 7 
+4. The Drake Equation is Over-Simplified ............................................................. 10 
+5. The Statistical Drake Equation ......................................................................... 11 
+6. Solving the Statistical Drake Equation By Virtue of the Central Limit Theorem 
+(CLT) of Statistics .......................................................... , .................................... 13 
+7. An Example Explaining the Statistical Drake Equation ..................................... 15 
+8. Finding the Probability Distribution of the Et-Distance By Virtue of the Statistical 
+Drake Equation ................................................................................................. 18 
+9. The "Data Enrichment Principle" as the Best CLT Consequence Upon the 
+Statistical Drake Equation (Any Number of Factors Allowed) ........................... 23 
+10. Conclusions .................................................................................................... 23 
+Appendix A: Proof of Shannon's 1948 Theorem Stating That the Uniform 
+Distribution is the "Most Uncertain" One Over a Finite Range of 
+Appendix B: Original Text of the Author's Paper #IAC-08-A4.1.4 Entitled the 
+Values ............................................................................................. 25 
+Statistical Drake Equation ............................................................... 28 
+References ........................................................................................................... 55 
+UNCLASSIFIED/ fEOR OFFICIO! 11SF ON! X 
+iii
+
+--- PAGE 4 ---
+UNCLASSIFIED / / FORO FFECEAL-USE-ONE~
+
+An Introduction to the Statistical Drake Equation
+
+1. Introduction
+
+SETI (an acronym for “Search for Extraterrestrial Intelligence”) is a relatively
+new branch of scientific research, having begun only in 1959. Its goal is to
+ascertain whether alien civilizations exist in the universe, how far from us
+they exist, and possibly how much more advanced than us they may be.
+
+As of 2009, the only physical tools we know that could help us get in touch
+with aliens are the electromagnetic waves an alien civilization could emit and
+we could detect. This forces us to use the largest radiotelescopes on Earth for
+SETI research, because the higher our collecting area of electromagnetic
+radiation is, the higher our sensitivity is (that is, the farther in space we can
+probe). Yet, even by using the largest radiotelescopes on Earth (the 310-meter
+dish at Arecibo, for instance), we cannot search for aliens beyond, say, a few
+hundred light years away. This is a very, very small amount of space around us
+within our galaxy, the Milky Way, that is about 100,000 light years in diameter.
+Thus, current SETI can cover only a very tiny fraction of the galaxy, and it is
+not surprising that in the past 50 years of SETI searches, NO extraterrestrial
+civilization was discovered. Quite simply, we did not get far enough!
+
+This demands the construction of much more powerful and radically new
+radiotelescopes. Rather than big and heavy metal dishes, whose mechanical
+problems hamper SETI research too much, we are now turning to “software
+radiotelescopes,” where a large number of small dishes (ATA = Allen
+Telescope Array, and ALMA = Atacama Large Millimeter/submillimeter Array)
+or even just of simple dipoles (LOFAR = Low Frequency Array) using state-of-
+the-art electronics and very-high-speed computing can outperform the
+classical radiotelescopes in many regards. The final dream in this field is the
+SKA (= Square Kilometer Array), currently being designed and expected to be
+completed around 2020.
+
+2. The Key Question: How Far are They ?
+But still, the key question remains: how far are they?
+
+Or, more correctly, how far do we expect the NEAREST extraterrestrial civilization to be
+from the Solar System in the galaxy?
+
+This question was first faced in a scientific manner back in 1961 by the same scientist
+who also was the first experimental SETI radio astronomer ever: the American, Frank
+Donald Drake (born 1930). He first considered the shape and size of the galaxy where
+we are living: the Milky Way. This is a spiral galaxy measuring some 100,000 light
+years in diameter and some 16,000 light years in thickness of the Galactic Disk at half-
+way from its center. That is:
+
+The diameter of the galaxy is (about) 100,000 light years, (abbreviated ly) i.e., its
+radius, Reéaiay, is about 50,000 ly.
+
+UNCLASSIFIED / FO R-OFFEGH-USE-OSLY
+
+--- PAGE 5 ---
+UNCLASSIFIED/ /fOR OFFI&IAk Wlii QPU,¥ 
+The thickness of the Galactic Disk at half-way from its center, h a " 1t'-'Y ' is about 16,000 ly. 
+The volume of the galaxy may then be approximated as the volume of the 
+corresponding cylinder, i.e. 
+(1) 
+Now consider the sphere around us having a radius r. The volume of such a sphere is 
+4 ( Ef Distance ) 3 
+V o ur _ Sphere = 3n - (2)2 
+In the last equation, we had to divide the distance "ET _Distance" between ourselves 
+and the nearest ET civilizat ion by 2 because we are now going to make the 
+unwarranted assumption that all ET civilizations are equally spaced from each 
+other in the galaxy! This is a crazy assumption, clearly, and should be replaced by 
+more scientifically-grounded assumptions as soon as we know more about our Galactic 
+Neighborhood. At the moment, however, this is the best guess that we can make, and 
+so we shall take it for granted, although we are aware that this is a weak point in the 
+reasoning. 
+Furthermore, let us denote by N the total number of civilizat ions now living in the 
+galaxy, including ourselves. Of course, this number N is unknown. We only know that 
+N ~ 1 since one civilization does at least exist! 
+Having thus assumed that ET civilizations are UNIFORMLY SPACED IN THE GALAXY, we 
+can then write down the proport ion: 
+V a a/a.,y V o ,,r_Sphere --= -~- (3)
+N 
+That is, upon replacing both (1) and (2) into (3): 
+34 ( Ef- Dis lance ) 2 - i'l" _ ___ 
+i'l" RGa/axy h = 3 2 (4)N 1 
+The last equation contains two unknowns: N and ET_Distance, and so we don't know 
+which one it is better to solve for. 
+However, we may suppose that, by resorting to the (rather uncertain) knowledge that 
+we have about the Evolut ion of the galaxy through the last 10 billion years or so, we 
+might somehow compute an approximate value for N. 
+Then, we may solve (4) for ET_Distance thus obtaining the (AVERAGE) DISTANCE 
+BETWEEN ANY PAIR OF NEIGHBORING CIVILIZATIONS IN THE GALAXY (DISTANCE 
+LAW) 
+UNCLASSIFIED/ ;'FQA QFFICiIPL. !Iii 011! Y 
+5
+
+--- PAGE 6 ---
+UNCLASSIFIED/ /fOR OFFI&IAk Wlii QPU,¥ 
+3 6 R2 hEf ff (N) Ca!a, y _ ,stance = VN C (5)
+VN 
+where the positive constant C is defined by 
+C =V6 R ~ala.,y h ca /axy ,., 28845 light years . (6) 
+Equations (5) and (6) are the starting point to understand the orig in of the Drake 
+equat ion that we discuss in detail in Section 3 of th is paper . 
+Let us just complete this section by pointing out three different numerical cases of the 
+distance law (5): 
+• We know that we exist, so N may not be smaller than 1, i.e., N ~ 1. Suppose then 
+that we are alone in the galaxy, i.e., that N=l. Then the distance law (5) yields as 
+dista nce to the nearest civilization from us just the constant C, i.e., 28,845 light 
+years. This is about the distance in between ourselves and the center of the galaxy 
+(i. e. the Galactic Bulge) . Thus, this result seems to suggest that, if we do not find 
+any extraterrestrial civilizat ion around us in these outskirts of the galaxy where we 
+live, we should look around the Galactic Center first. And this is indeed what is 
+happening, i.e., many SETI searches are actually pointing the antennas towards the 
+Galactic Center, looking for beacons (see, for instance ref. [1]). 
+• Suppose next that N=l000, i.e. there are about a thousand extraterrest rial 
+communicating civilizat ions in the whole galaxy right now. Then the distance law (5) 
+yields an average distance of 2,885 light years. This is a distance that most 
+radiotelescopes in Earth may not reach for SETI searches right now: hence the need 
+to build larger radiotelescopes, like ALMA, LOFAR and the SKA. 
+• Suppose finally that N=l00000O, i.e., there are a million communicating civilizat ions 
+now in the galaxy. Then the distance law (5) yields an average distance of 288 light 
+years. This is with in the (upper) range of distances that our current radiotelescopes 
+may reach for SETI searches, and that justifies all SETI searches that have been 
+done so far in t he first fifty years of SETI (1960-2010). 
+In conclusion, interpolating the above three special cases of N, we may say that the 
+distance law (5) yields t he following key diagram of the average ET distance vs. the 
+assumed number of communicating civilizations, N, in the galaxy right now (Figure 1): 
+UNCLASSIFIED/ J'FOA. OFlilCI0 I. P !SE ON! X 
+6
+
+--- PAGE 7 ---
+UNCLASSIFIED/ /
+
+Average DISTANCE of the nearest ET civilization vs. the ASSUMED NUMBER of ET civilizations in the Gal:
+
+Average DISTANCE of the civilization nearest to us in LIGHT YEARS
+
+0
+0 100000 = 200000 = 300000) 400000 = 500000) = 600000 = 700000 = 800000) = 900000 =~: 1000000
+ASSUM ED NUMBER of civilizations in the Galaxy (that is, N in the Drake equation)
+
+Figure 1. DISTANCE LAW; i.e., the Average Distance (plot along the vertical axis in light years) Versus
+the NUMBER of Communicating Civilizations ASSUMED to Exist in the Galaxy Right Now
+
+3. Computing N By Virtue of the Drake Equation (1961)
+
+In the previous section, the problem of finding how close the nearest ET civilization may
+be was “solved” by reducing it to the computation of N, the total number of
+extraterrestrial civilizations now existing in this galaxy. In this section the famous
+Drake equation is described, that was proposed back in 1961 by Frank Donald Drake
+(born 1930) to estimate the numerical value of NV. We believe that no better
+introductory description of the Drake equations exists other than the one given by Carl
+Sagan in his 1983 book “Cosmos” (ref. [2]), in its turn based on the famous TV series
+“Cosmos.” So, in this paragraph we report Carl Sagan’s description of the Drake
+equation unabridged.
+
+“But is there anyone out there to talk to? With a third or a half a trillion stars in our
+Milky Way galaxy alone, could ours be the only one accompanied by an inhabited
+planet? How much more likely it is that technical civilizations are a cosmic
+commonplace, that the galaxy is pulsing and humming with advanced societies, and,
+t

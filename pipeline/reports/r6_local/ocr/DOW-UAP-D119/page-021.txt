@@ -1,0 +1,33 @@
+UNCLASSIFIED//FOR OFFICIAL 031! BHLY 
+medical therapeutics and differs from standard drug therapy or permanent implants in 
+that the culture becomes integrated within the patient, affording a potentially 
+permanent and specific cure of the disease state. 
+There are many approaches to tissue engineer ing, but all involve one or more of the 
+following key ingredients: harvested cells, introduction of specialized signaling 
+molecules, and three-dimens ional matrices. 
+The approach involves seeding highly porous biodegradable matrices (or scaffolds) in 
+the shape of the desired bone or tissue, with cells and signaling molecules (for 
+example, protein growth factors), then culturing and implanting the scaffolds into the 
+defect to induce and direct the growth of new bone or tissue. The goal is for the cells to 
+attach to the scaffold, multip ly, differentiate (that is, transform from a nonspecific or 
+prim itive state into cells exhibiting the specific functions), and organize into normal, 
+healthy tissue as the scaffold degrades. The signaling molecules can be adhered to the 
+scaffold or incorporated directly into the scaffold material. Figure 19 illustrates the 
+sequence of steps in this process. 
+----+ 
+30 matrix Cutture Implant Healty 
+bone 
+Figure 19. Scaffold-Guided Tissue Regeneration 
+Perhaps the biggest challenge for tissue engineer ing is how to ensure angiogenesis in a 
+timely fashion within the scaffold construct; without a blood supply, cells will die, and 
+mass infection will occur. 
+In biology, "autologous" refers to cells, tissues, or even proteins that are reimplanted 
+into the same individual they were taken from. Bone marrow, skin biopsy, cartilage, 
+and bone can be used as autografts. In contrast, cells or tissues transplanted from a 
+differe nt indiv idual are referred to as allogeneic, homologous, or an allograft. 
+TISSUE SCAFFOLD BIOMATERIALS 
+An intriguing idea in tissue engineeri ng is the use of biodegradable polymers as a 
+scaffold for growing tissues of a certain defined shape- for example, the cartilage of an 
+ear pinna lost in an accident . 
+UNCLASSIFIED/ /FOR OFFICIA! I !SE ON! X 
+14

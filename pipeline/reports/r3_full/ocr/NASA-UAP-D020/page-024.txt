@@ -1,0 +1,31 @@
+Conrad
+
+of doing experiments on the fifth day, and we had
+had a little trouble alining the platform. What
+was happening, apparently was the number 7 thruster
+was getting cranky, but we also knew we were vent-
+ing hydrogen and we knew this because we were
+getting some torqueing out of that. At the time
+Gordo was having trouble alining the Platform, we
+thought it was because the hydrogen was venting.
+Finally Gardo said, "There's something wrong with t
+the control systems." Once we decided there was
+something wrong with the control system, that's
+when it went just like back in the simlator. We
+shut everything down, went to Direct, thought about
+it for a second and turned off all the circuit
+breakers, turned them all back on one at a time,
+tested all of the thrusters and, sure enough, when
+
+we got to number 7, it was out, completely out.
+
+So then I tried secondary ACME bias power. We
+tried the seconday yaw and the secondary attitude
+drivers with no effect so we were relatively as-
+sured that something had happened in either the
+hand controller or the fuel was not feeding. We
+decided to power down right there, which we did,
+
+and we advised flight of what the problem was. I
+
+ASONFIBENTAL »

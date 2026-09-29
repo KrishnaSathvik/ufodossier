@@ -1,0 +1,32 @@
+UNCLASSIFIED// FOR OFFICll<L l:l!H!! 8PtLY 
+material is not suitable for the reasons stated earlier. Clearly, the time required for 
+layup places practical limitations on component size. 
+• In automated tow placement, thin ribbons of a pre-preg are fed off a drum or rolled 
+into a computer numerically controlled machine that places them in the desired 
+position. In principle, this process trades recurring labor cost for up-front capital 
+investment (the tow placement machine) and programming time . If the anticipated 
+volume of identical parts is high enough to amortize the capital investment and, 
+particularly, the programming cost, this can be an attractive means of reducing 
+manufacturing costs. For axisymmetric shapes, such as cylinders, this essentially 
+becomes a winding process and is quite efficient. An example of a finished 
+composite fuselage barrel section for the Boeing 787 is shown in Figure 2. For more 
+irregular three -dimens ional shapes, such as a spar or a strut, placing the tows 
+becomes much more difficult and presents a fundamental limitat ion. Consequently, 
+PMC structures with complex shapes are still for the most part made using the hand 
+layup process. A variant of automated tow placement is compression, whereby a 
+preform, made by automated tow placement, is forced by a press into a preshaped 
+die. This process allows fabrication of more complex shapes, but the rigidity of the 
+fiber and the extreme anisotropy of the tows can lead to wrinkles, which are not 
+acceptable because of the reductions in properties these cause. 
+Figure 2. Specially Modified 747 Transporter Unloading a Boeing 787 Composite Fuselage Barrel 
+Section 
+• The third main composite fabrication method, resin transfer molding (RTM), begins 
+with a woven fiber mat or preform. The polymeric matrix is injected into this mat to 
+create a fully dense composite. The major benefit of RTM is that it permits use of a 
+three-dimensional weave that minimizes the risk of delamination between plies. 
+Note that, with the other two methods, the material is reinforced in only two 
+dimensions (the plane of the pre-preg or tows). RTM's limitations include the 
+viscosity of the resins used. If the resin is too viscous, injecting it will either distort 
+the fiber architecture of the woven preform or not fully penetrate the preform, 
+4 
+UNCLASSIFIED/ /FOR 8FFI@IAL YSE erttl/

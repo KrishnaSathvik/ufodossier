@@ -1,0 +1,43 @@
+UNCLASSIFIED/ /FOR OFFIEiIAk Wlii QPU,¥ 
+After having found the above two distances (1933 and 2670 light years, respect ively), 
+the next natura l question that arises is: "what is the range, back and forth around the 
+mean value of the distance, within which we can expect to find extraterrestria ls with 
+"the highest hopes?" The answer to this question is given by the notion of standard 
+deviation that we already found to be given by (11) and (13), 
+I' 0'2 ~ 
+CTET_Distance = Ce 3 e •8 Ve 9 -1 ""1309 light years . 
+More precisely, this is the so-called 1-sigma (distance) level. Probability theory then 
+shows that the nearest extraterrestrial civilization is expected to be located within this 
+range, i.e. within the two distances of (2670-1309) = 1361 light years and 
+(2670+1309) = 3979 light years, with probability given by the integral of fET_oistance(r) 
+taken in between these two lower and upper limits, that is: 
+i
+3979 1igh1 years 
+fET Disiance (r) dr:::: 0.75 = 75 % (15) 
+l36 1 ligbtycars -
+In plain words: with 75 percent probability, the nearest extraterrestrial civilization is 
+located in between the distances of 1361 and 3979 light years from us, having assumed 
+the input values to the Drake Equation given by table 1. If we change those input 
+values, then all the numbers change again, of course. 
+9. The "Data Enrichment Principle" as the Best CLT 
+Consequence Upon the Statistical Drake Equation (Any 
+Number of Factors Allowed) 
+As a fitting climax to all the statistical equations developed so far, let us now state our 
+"DATA ENRICHMENT PRINCIPLE." It simply states that "The Higher the Number of 
+Factors in the Statistical Drake equation, The Better." 
+Put in this simple way, it simply looks like a new way of saying that the CLT lets the 
+random variable Y approach the normal distribution when the number of terms in the 
+sum (4) approaches infinity. And this is the case, indeed. 
+10. Conclusions 
+We have sought to extend the classical Drake equation to let it encompass Statistics 
+and Probability. 
+This approach appears to pave the way to future, more profound investigations 
+intended not only to associate "error bars" to each factor in the Drake equation, but 
+especially to increase the number of factors themselves. In fact, this seems to be the 
+only way to incorporate into the Drake equation more and more new scientific 
+information as soon as it becomes available. In the long run, the Statistical Drake 
+equation might just become a huge computer code, growing in size and especially in 
+the depth of the scientific information it contains. It would thus be Humanity's first 
+"Encyclopaedia Galactica." 
+UNCLASSIFIED/ /FOR OFFIEiIAk Wlii QPlls¥ 
+23

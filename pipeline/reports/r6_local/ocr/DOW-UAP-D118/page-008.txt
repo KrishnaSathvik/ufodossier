@@ -1,0 +1,43 @@
+UNCLASSIFIED/ /P9R err1e11111:: W&I &His¥ 
+(permittivity, permeability, index of refraction, and coefficients of reflection, 
+transmission, and absorption) do not necessarily match those of any natural material. 
+Photonic crystals exploit this principle by varying the density or refractive index of a 
+material in a regular, periodic way. Just as light is affected by the spacing of atoms in a 
+natural crystal, it can be affected by the (much larger) spacing of sub-wavelength 
+features in a photonic crystal. Thus, photonic crystals can efficiently reflect some 
+wavelengths of light while absorbing, transmitting, bending, or scattering others. This 
+can be useful, for example, in telecommunications, where a single optical fiber may 
+carry thousands of different signals. Because similar effects occur naturally in many 
+gemstones (opal, for example), photonic crystals can also serve as artificial gems. 
+Whereas photonic crystals are generally insulators, another class of materials-called 
+superlattices-is made from semiconductors, metals, and other substances stacked in 
+very thin layers. Such materials "look" like crystals to the electrons and photons moving 
+through them but can have properties that do not occur-or occur only weakly-in 
+nature. Two examples are "magnetoresistive" materials made from alternating layers of 
+iron and a nonmagnetic material such as chromium, Even in very tiny quantities, such 
+materials can be used to sense magnetic fields with much greater sensitivity than can 
+any natural material and are widely used in hard disk drives and digital compasses. 
+In a "metamaterial," the sub-wavelength features are conductive metals surrounded by 
+a transparent dielectric material such as glass, air, or empty space. In much the same 
+way a metal rod interacts with radio waves and can thus serve as an antenna, the 
+"atoms" of a meta material create strong resonances at particular wavelengths that can 
+have more profound effects on light than can any of the material systems described 
+above. The best known of these is negative index of refraction, a property that allows 
+materials to bend light "the wrong way" and thus defy the laws of classical optics. 
+LIQUID CRYSTALS 
+Although they were discovered in the late 19th century and have been used in video 
+displays since the 1960s, liquid crystals can be thought of as an advanced 21st century 
+technology that somehow fell backward in time. They are essentially a fourth state of 
+matter, possessing some properties of a liquid and some of a crystalline solid. In 
+addition, they are "birefringent," meaning they have a different index of refraction, 
+depending on the angle or direction of light passing through them. They are capable of 
+serving as photonic crystals, and under the influence of light, heat, electric and 
+magnetic fields, and mechanical or chemical alignment layers, they can be rearranged 
+at a moment's notice so that their optical properties are transformed. 
+Today, people are accustomed to thinking of liquid crystals as pixels in a video display, 
+However, their capabilities extend far beyond this. With proper substrate design and 
+the application of electric fields and other alignment or disalignment mechanisms 1 liquid 
+crystals can be used to reversibly block, bend, focus, scatter, reflect, transmit, twist, 
+polarize, diffuse, and absorb light in limitless combinations. 
+UNCLASSIFIED/ /FOR 0551&:ilirllk W&lii &HI::¥ 
+4

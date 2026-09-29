@@ -1,0 +1,24 @@
+UNCLASSIFIED/ /fOR. 8FFl&IAk W&li ,HIia¥ 
+Figure 6. Lightcraft Undergoing Horizontal Guide-Wire Flight Test (courtesy of F. Mead, 
+AFRL/PRSP, Edwards AFB, CA). 
+SUMMARY OF TECHNICAL PERFORMANCE AND BENEFITS 
+We outline below the propulsion performance features of the laser Lightcraft launch 
+system: 
+• The system is single-stage-to-orbit and completely reusable. 
+• Almost no onboard propellant is required (the reaction mass is free air), except 
+for the small internal amount of propellant needed for final ascent to orbit and 
+orbital maneuvering. 
+• Vehicle specific impulse (lsp) is essentially infin ite (::: several x 103 seconds in 
+rocket mode). 
+• Payload mass fractions are"" 50 - 95%. 
+• These systems are simple, reliable, safe, environmentally clean, and could have 
+a very high all azimuth on-demand launch rate. 
+• Reduces space launch costs by two to three orders of magnitude below today's 
+levels: estimated launch costs are $20/kg to $600/kg of payload (not including 
+life cycle and launch operations costs). 
+• The feasibility and physics principles have been proven by the AFRL's Lightcraft 
+Concept Demonstrat ion Program [11, 16-25]. 
+Lightcraft systems have sufficient power density to operate as ETO launch systems. It 
+requires a beam power of 0.1 to 1 MW per kg of vehicle mass, while orbit-to-orbit 
+UNCLASSIFIED//FOR O61ilCl.li.k W&& 8Ptl'l 
+17

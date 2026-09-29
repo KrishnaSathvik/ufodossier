@@ -1,0 +1,36 @@
+e c
+
+CHECK=LIST =- UNIDENTIFIED FLYING OBJECTS
+
+le. Dato 20 Feb 4g Incident # 119
+
+2. Time 0700 hours
+3. Location Asuncion, Paraguay
+Mrs. Agustina Vargas de Paula
+n/s
+resident of Asuncion (southernfert of city)
+
+js Name of observer
+5e Occupation of obsorvor
+G, Address of observer
+7e Placo of obsorvation Asuncion
+8. Numbor of objocts 1
+9. Distance of object from observer n/S
+10. Timo in sicht W8/S
+ll, Altitudes 4/S
+12, Speoad B/S
+13. Direction of flight west to east
+lh. Tactics n/s
+15. Sound n/s
+16. Size n/S
+17.¢ Color W/S
+18, Shapo oval
+19. Odor dotectod n/S
+20. Apparent construction n/S
+21.  Exhnust trails highly colored wake
+22. Woathor conditions W{S
+246 Effoct on clouds n/s
+2h.  Skotehes or photographs None
+25. Manner of disappoarance n/s
+
+~

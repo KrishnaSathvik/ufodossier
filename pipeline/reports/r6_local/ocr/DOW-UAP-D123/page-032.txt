@@ -1,0 +1,55 @@
+UNCLASSIFIED /FOR-OFFECEE-USE-ONEY
+
+where k’ is characteristic of the electron density for silica strands = 0.0164 nm-ns"™, R
+is the void radius (nm), r’ is the silica strand thickness (0.68 nm), Art is the self-
+annihilation rate, and Aq is the quenching rate for air (0.00427 ns“ at 0.1 torr vacuum,
+typical of a standard rotary pump). To illustrate, without magnetic and electric fields (At
+= 1/142 ns = 0.007 ns") and for R = 20 nm, A= 0.0121 ns*, or t = A?! = 82.5 ns. This
+is consistent with our measurements.7°
+
+Assuming self-annihilation is suppressed (At ~ 0) by crossed magnetic and electric
+fields, a high vacuum (10°5 torr) is maintained (Aq ~ 0) and R = 20 nm, then A = 8.5 x
+10% ns!, ort = 1.2 us. Proprietary experiments at Positronics Research LLC show that
+Ps atoms in crossed magnetic and electric fields in silica aerogel with 20-nm voids live
+up to 10 us. This is somewhat longer than the predicted lifetime owing to severe
+radiation damage induced in the silica aerogel by positrons that alters k’ from the
+values quoted above.
+
+Measured lifetimes in the present experiments at Positronics Research LLC are within
+limits set by diffusion to the trap walls. This is consistent with the expectation that Ps
+atoms “stabilized” in crossed magnetic and electric fields will be “delocalized” and drift
+freely across magnetic field lines.
+
+Future experiments at Positronics Research LLC will use super-dilute media (R = 1,000
+nm), large container volumes (10 cm), weak magnetic fields (< 0.1 Tesla), and electric
+fields. Substitution of R = 1,000 nm into Equation 2, assuming again a high vacuum
+and crossed magnetic and electric field suppression of self-annihilation, predicts a
+lifetime of 61 milliseconds. Assuming the following results are consistent with this
+prediction, it will be demonstrated beyond any reasonable doubt that Ps can be
+stabilized against “self-annihilation” in crossed fields.
+
+To ultimately reach lifetimes of months and years required by aerospace propulsion,
+oscillating electric-gradient-field-confinement forces will be required to keep Ps atoms
+off the walls of a high-vacuum trap. Ps atoms will be produced by a beam of low-energy
+positrons intercepting silica aerogel and be stabilized in the trap using crossed magnetic
+and electric fields. Ps in crossed magnetic and electric fields has an enormous electric
+dipole moment, and confinement using the classical peVE force looks very encouraging
+at this time.
+
+Conclusions
+
+Conceptual designs and missions for turbojets, turbo-ramjet missiles, and
+interplanetary rockets powered by positron annihilation have been presented. Positron
+requirements range from 150 micrograms for a globe-encircling UAV turbojet flight to
+100 milligrams for a mission to Mars. A positron-powered SSRV could take off from
+Earth horizontally, go to LEO, launch to Mars for a 1-year exploration of the Red Planet,
+and return to LEO and then Earth with a horizontal landing without refueling.
+
+Within 10 years, the 150 ug of positrons required for a globe-encircling, nonstop
+turbojet flight could be made in 6 months at a cost of $69 million. This first-ever
+antimatter voyage, approximately 90 years after Lindbergh’s 1927 Spirit of St. Louis
+transatlantic flight, would stir the public’s imagination and eventually lead to positron-
+powered exploration of the solar system in the 21st century.
+
+27
+UNCLASSIFIED /=4-6O-R-OF5LGiiUSE-ONEY

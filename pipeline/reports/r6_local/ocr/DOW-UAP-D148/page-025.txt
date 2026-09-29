@@ -1,0 +1,40 @@
+UNCLASSIFIED &-F@R-OFF2I6L4AL-US5-O1LLY.
+
+———————————
+
+95 1 ae 4 4. 1 4
+
+w( A-micron,597-K}
+
+20)
+W A-micron, 739-K}
+
+Figure 14, Infrared Energy Spectra for Mach 3 (red line) and Mach 3.5 (blue dashed line).
+
+The peak wavelength changes for hypersonic aircraft with speeds that range from Mach 1 to
+Mach 100 are included in Figure 15. Satellite systems currently monitor 2.5- to 5-micron IR
+emissions and could detect aircraft with speeds as low as Mach 3. While Figure 15 plots the
+peak wavelength, aircraft at Mach 5 or higher have lower temperatures in the turbulent wake
+that would still be detectable. The peak temperatures are shown in Figure 16. Above 550 K,
+the perfect gas law cannot be used to accurately predict the peak temperature due to
+ionization and disassociation of molecules in the air. Figure 15 and Figure 16 use the “rule of
+thumb” described earlier in the theory of hypersonic vehicle flight to determine peak
+temperature and the corresponding wavelength.
+
+Military satellite systems monitor infrared energy emitted by objects on the surface of the
+Earth. Kidd and Caldwell?° reported on the use of IR systems for defense support in 1992
+and highlighted the problems in resolving missile launches and wakes from background
+“clutter” caused by the infrared emissions from other objects on the surface of the Earth.
+Typical satellite IR systems detect energy between 2 and 5 microns. To verify that an object
+is an actual missile, the object must be detected in the 2.6- to 3.2-micron band, which
+corresponds to the emission from water vapor in the hot exhaust of a rocket. It must
+simultaneously be identified in the 4.1- to 4.8-micron range to differentiate the missile from
+background clutter. One problem encountered in missile detection involves the “glint” that
+occurs as aircraft at high altitude passing over land at night reflects sunlight to an overhead
+satellite. Computer software to discriminate signals from background heat combined with
+detection in the two different infrared bands helps to identify actual missile launches. FLIR
+(forward looking infrared) is also now used for atmospheric surveillance to detect objects in
+the 3- to 5-micron band and in the 5- to 14-micron band.
+
+21
+UNCLASSIFIED £4502-05516241-USE-ONEE-

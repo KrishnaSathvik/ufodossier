@@ -1,0 +1,27 @@
+UNCLASSIFIED/ /fOR OFFI&IAk Wlii QPU,¥ 
+It is clarifying to draw the graph of the ET_Distance probability density (9): 
+DISTANCE OF NEAREST Ef_CIVILIZA TION 
+5.63 ·10-20 
+500 1000 1500 2000 2500 3000 3500 4000 4500 5000 
+ET _Distance from Earth (light years) 
+Figure 3. The Probability of Finding the Nearest Extraterrestrial Civilization at the distance r From Earth 
+(in light years) if the Values Assumed in the Drake Equation are Those Shown in Input Table 1. The 
+relevant probability density function fET_Disian.,( r) is given by equation (9). Its mode (peak abscissa) equals 1933 
+light years, but its mean value is higher since the curve has a long tail on the right : the mean value equals in fact 
+2670 light years . Finally, the standard deviation equals 1309 light years: THIS IS GOOD NEWS FOR SETI, 
+inasmuch as the nearest ET galaxy civilization might lie at just 1 sigma = 2670-1309 = 1361 light years from us. 
+From Figure 3 we see that the probab ilit y of finding extraterrestrials is practically zero 
+up to a distance of about 500 light years from Earth. Then it starts increasing with the 
+increasing distance from Earth, and reaches its maximum at 
+_l!_ ~ 
+r=de =r peak = Ce 3 e 9 :::: 1,933 light years. (14) 
+This is the MOST LIKELY VALUE of the distance at which we can expect to find the 
+nearest extraterrestrial civilization. 
+It is not the mean value of the probabil ity distribution (9) for fET_Distan.,( r). In fact, the 
+probability density (9) has an infinite tail on the right, as clearly shown in Figure 3, and 
+hence its mean value must be higher than its peak value. As given by (10) and (12), its 
+....!:!.. 0'2 
+mean value is r,,,en,,_m lue = Ce 3 e 18 c::,2670 light years. This is the MEAN (va lue of the) 
+DISTANCE at which we can expect to find extraterrestria ls. 
+UNCLASSIFIED/ ;'FQA QFFICiIPL. !Iii 011! Y 
+22

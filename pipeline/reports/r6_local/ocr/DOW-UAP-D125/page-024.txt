@@ -1,0 +1,37 @@
+UNCLASSIFIED/ /POI\ orrlEIAL t,!I! o .. t I 
+temperature. With proper selection of the size and type of getter material, plus a good 
+temperature feedback control, this arrangement was found to work exceedingly well. 
+This allows a "sealed" IEC unit and removes the bulky pumps. Such an arrangement is 
+essential for small mobile neutron sources. Daimler-Chrysler licensed use of this IEC 
+neutron technology through the UIUC and used this approach for their NAA quality 
+control units. 
+The general strategy employed by Daimler-Chrysler and others is to send sealed units 
+into the field for NAA application. The impurity buildup in the chamber gas eventually 
+causes the performance to deteriorate. At that point, the unit is returned to the 
+originating "factory" or originating laboratory for refueling by pump ing down and, if 
+necessary, replacing the getter. As it occurred, Daimler-Chrysler uses such units in 
+Germany on some of their ore delivery belts for NAA inspection of ore composition. In 
+this role they directly replaced Cf-252 neutron sources, allowing on-off operation, 
+simpler licensing, and lower costs. Their plan to distribute commercial units externally 
+for sale did not materialize, however, due to company financial problem. 
+Another important example of the use of a compact IEC neutron source is the work at 
+Kyoto University, Japan (Reference 2. 7). These investigators used a crane-type device 
+which was design for mounting on a crane as shown in Figure 2.4 for land mine 
+detection. 
+Project of Landmine Detection 
+R of LM OetectJOn 
+• Diagnostics~ 
+Kyo o-U . TT, 'f\J uu-U. 
+• Tomography; 
+I -bay E rgy 
+• 
+R O of compact IEC 
+• C /pulse IEC; 
+Kyo'o-U, K 
+• CW/Pu se power 
+supp!y ; Tl.,. 
+The prQJect is suppooed by Japan 
+Science and echnology gency 
+Figure 2.4. IEC Landmine Detection Project at Kyoto University 
+UNCLASSIFIED/ I FOR OFFI&Isl.k Wlili Ql'II.¥ 
+17

@@ -1,0 +1,61 @@
+[
+  {
+    "filename": "DOE-UAP-D004.pdf",
+    "alarm": "high_yield",
+    "accepted": 10,
+    "candidates": 15,
+    "needs_review": true
+  },
+  {
+    "filename": "DOE-UAP-D004.pdf",
+    "alarm": "high_ocr_failure",
+    "ocr_failure_rate": 0.44,
+    "needs_review": true
+  },
+  {
+    "filename": "DOW-UAP-D096.pdf",
+    "alarm": "high_ocr_failure",
+    "ocr_failure_rate": 0.341,
+    "needs_review": true
+  },
+  {
+    "filename": "CIA-UAP-D020.pdf",
+    "alarm": "extract_zero_accepted",
+    "candidates": 1,
+    "quote_rejected": 1,
+    "evidence_insufficient": 0,
+    "needs_review": true
+  },
+  {
+    "filename": "DOE-UAP-D004.pdf",
+    "alarm": "ocr_failure_gt20pct",
+    "ocr_failure_rate": 0.44,
+    "needs_review": true
+  },
+  {
+    "filename": "DOE-UAP-D005.pdf",
+    "alarm": "extract_zero_accepted",
+    "candidates": 1,
+    "quote_rejected": 1,
+    "evidence_insufficient": 0,
+    "needs_review": true
+  },
+  {
+    "filename": "DOW-UAP-D093.pdf",
+    "alarm": "ocr_failure_gt20pct",
+    "ocr_failure_rate": 0.239,
+    "needs_review": true
+  },
+  {
+    "filename": "DOW-UAP-D094.pdf",
+    "alarm": "ocr_failure_gt20pct",
+    "ocr_failure_rate": 0.235,
+    "needs_review": true
+  },
+  {
+    "filename": "DOW-UAP-D096.pdf",
+    "alarm": "ocr_failure_gt20pct",
+    "ocr_failure_rate": 0.341,
+    "needs_review": true
+  }
+]

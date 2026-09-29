@@ -1,0 +1,39 @@
+UNCLASSIFIED/ /FOA OFFl&IAk YSIE 8HL'I 
+MSS, and the astronauts descend to the Mars surface on the MSL using a high­
+thrust variant of the positron rocket engine. 
+Positron Production 
+Positrons are currently produced at particle accelerators worldwide for basic and 
+applications research. For example, the positron-emitting radioisotope Na22 (2. 7 year 
+mean lifetime) is made by bombarding targets with neutrons from a high -energy proton 
+accelerator in the reaction Al27(n,x)Na 22 . Capture of these positrons is used to form 
+beams with keV (slow) to MeV (fast) energies. Handling of large radioactive sources 
+results in limits of 106 slow positrons/sec. 
+For intensities up to 1010/sec, bombardment of metal targets with electron beams in the 
+10- to 100-MeV range is used, followed by collection and acceleration (deceleration) of 
+positrons to form fast or slow beams. In addition, it has recently been shown that slow 
+positron beams of up to 1011/sec can be realized by converting neutrons in reactors to 
+electron-positron pairs in thin metal foils. 
+Much higher positron currents are being sought in a variety of proposed solutions. 
+Illustrated below are a few of the more promising concepts. 
+First, in 1996, the U.S. Naval Research Laboratory 56 proposed developing an intense 
+source of fast positrons ( 1016/sec) utilizing compact electron betatron accelerators. 
+Second, tabletop femtosecond laser-driven positron sources currently under 
+development at the National Ignition Facility (Lawrence Livermore National Laboratory), 
+the Rutherford-Appleton Laboratory (United Kingdom), and the Max Planck Institute 
+(Munich) look promising, although more must be done to demonstrate efficient 
+collection of positrons into beams. 
+Finally, a most important step forward is multi-gigaelectronvolt (GeV) energy electron 
+storage rings being developed for the high-energy physics International Linear Collider 
+(ILC) project that uses undulators in electron beams to create intense photon beams 
+that produce intense (10 14•16/sec) positron beams by pair production. 57 A schematic 
+draw ing from one proposal for the ILC is shown in Figure 18.58 
+Layout of /LC Positron Source 
+Hollcal 
+Undulot0r 
+In By.P s 
+Una 
+M. Ku KEK 
+Figure 18. Proposed Undulator-Based Positron Source for the International Linear Collider (courtesy 
+KEK, Japan) 59 
+UNCLASSIFIED/ /iiOlil OFFICIO~ U&li QN .. ¥ 
+22

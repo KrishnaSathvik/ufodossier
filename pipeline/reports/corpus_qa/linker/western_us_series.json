@@ -1,0 +1,142 @@
+{
+  "series_present": true,
+  "series": [
+    {
+      "series_id": "western-us-event-2023",
+      "label": "Western US Event",
+      "event_ids": [
+        "evt-0443",
+        "evt-0444",
+        "evt-0445",
+        "evt-0420",
+        "evt-0421",
+        "evt-0422",
+        "evt-0423",
+        "evt-0446",
+        "evt-0447",
+        "evt-0448",
+        "evt-0449",
+        "evt-0450",
+        "evt-0452",
+        "evt-0454",
+        "evt-0455",
+        "evt-0456",
+        "evt-0457",
+        "evt-0458",
+        "evt-0459",
+        "evt-0460",
+        "evt-0461"
+      ],
+      "evidence": [
+        "catalog pdf_pairing series label: Western US Event"
+      ]
+    }
+  ],
+  "event_count": 21,
+  "generic_location_same_event_auto": 0,
+  "d082_input_rows": 12,
+  "d082_episode_count": 5,
+  "d082_boundaries": [
+    {
+      "source_filename": "DOW-UAP-D082.pdf",
+      "left_case_id": "UNDATED-FBI-82CCDD",
+      "right_case_id": "UNDATED-FBI-F4CE38",
+      "boundary": "same_episode",
+      "evidence": [
+        "continuity_cue=same_episode"
+      ]
+    },
+    {
+      "source_filename": "DOW-UAP-D082.pdf",
+      "left_case_id": "UNDATED-FBI-F4CE38",
+      "right_case_id": "UNDATED-FBI-AF6C31",
+      "boundary": "same_episode",
+      "evidence": [
+        "continuity_cue=same_episode"
+      ]
+    },
+    {
+      "source_filename": "DOW-UAP-D082.pdf",
+      "left_case_id": "UNDATED-FBI-AF6C31",
+      "right_case_id": "UNDATED-FBI-15D04A",
+      "boundary": "same_episode",
+      "evidence": [
+        "continuity_cue=same_episode"
+      ]
+    },
+    {
+      "source_filename": "DOW-UAP-D082.pdf",
+      "left_case_id": "UNDATED-FBI-15D04A",
+      "right_case_id": "UNDATED-FBI-FEDFE7",
+      "boundary": "new_episode",
+      "evidence": [
+        "continuity_cue=new_episode"
+      ]
+    },
+    {
+      "source_filename": "DOW-UAP-D082.pdf",
+      "left_case_id": "UNDATED-FBI-FEDFE7",
+      "right_case_id": "UNDATED-FBI-4557DC",
+      "boundary": "same_episode",
+      "evidence": [
+        "continuity_cue=same_episode"
+      ]
+    },
+    {
+      "source_filename": "DOW-UAP-D082.pdf",
+      "left_case_id": "UNDATED-FBI-4557DC",
+      "right_case_id": "UNDATED-FBI-2EAE94",
+      "boundary": "same_episode",
+      "evidence": [
+        "continuity_cue=same_episode"
+      ]
+    },
+    {
+      "source_filename": "DOW-UAP-D082.pdf",
+      "left_case_id": "UNDATED-FBI-2EAE94",
+      "right_case_id": "UNDATED-FBI-42FC0E",
+      "boundary": "same_episode",
+      "evidence": [
+        "continuity_cue=same_episode"
+      ]
+    },
+    {
+      "source_filename": "DOW-UAP-D082.pdf",
+      "left_case_id": "UNDATED-FBI-42FC0E",
+      "right_case_id": "UNDATED-FBI-578E28",
+      "boundary": "same_episode",
+      "evidence": [
+        "continuity_cue=same_episode"
+      ]
+    },
+    {
+      "source_filename": "DOW-UAP-D082.pdf",
+      "left_case_id": "UNDATED-FBI-578E28",
+      "right_case_id": "UNDATED-FBI-4FF3BA",
+      "boundary": "new_episode",
+      "evidence": [
+        "continuity_cue=new_episode"
+      ]
+    },
+    {
+      "source_filename": "DOW-UAP-D082.pdf",
+      "left_case_id": "UNDATED-FBI-4FF3BA",
+      "right_case_id": "UNDATED-FBI-09122D",
+      "boundary": "new_episode",
+      "evidence": [
+        "continuity_cue=new_episode"
+      ]
+    },
+    {
+      "source_filename": "DOW-UAP-D082.pdf",
+      "left_case_id": "UNDATED-FBI-09122D",
+      "right_case_id": "UNDATED-FBI-C4AD20",
+      "boundary": "new_episode",
+      "evidence": [
+        "continuity_cue=new_episode"
+      ]
+    }
+  ],
+  "pass": true,
+  "note": "same_series is allowed; forcing one same_event across D078\u2013D083 is not."
+}
