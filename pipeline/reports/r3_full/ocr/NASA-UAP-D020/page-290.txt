@@ -1,0 +1,25 @@
+279 
+It is a great deal of difference. 
+Conrad Yes , it was a pretty tight system . This is probab ly 
+a function of each individual sys t em because I 
+remember Jim mentioning the fact that it was so much 
+sloppier in Rate Command RCS and there is a differ ­
+ence in the tolerance. But it sure wasn't apparent 
+to us . Both the OAMS and RCS Rate Command systems 
+were just as tight as they could be. 
+Cooper Well, the OAMS Rate Command system definitely was 
+tighter because you could come zapping around with it 
+and the second you let go of the handle it stopped 
+right there . Barn, it never even quivered , just 
+held right there . 
+Conrad Yes, we must have had an outstanding set of rate 
+gyros. The RCS Rate Command there had a wider 
+band . There was so much power and authority 
+in the RCS Rate Command that it actually gave me 
+a little bit of problem just hitting the point, 
+getting lined up on it for retr ofire . There was just 
+so much authority you had trouble getting just 
+small amounts of control forc e until you got 
+used to it. There was so much power there , 
+almost more power than you needed for fine 
+cont r ol . It would be interesting to simulate

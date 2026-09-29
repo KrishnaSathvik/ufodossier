@@ -1,0 +1,52 @@
+UNCLASSIFIED / /FOteOFFECEAEUSE-ONEE
+
+Finally, metallic spintronics and its applications discussed in this report are all based on
+already well-established physical phenomena such as GMR and STT. As the spintronics
+field is still in a relative state of infancy, new and more exciting phenomena are likely to
+be uncovered in the future.
+
+6. References
+
+(1) Baibich, M. N., et al., Phys. Rev. Lett. 61, 2472 (1988).
+
+(2) Binasch, G., et al., Phys. Rev. B 39, 4828 (1989).
+
+(3) Slonezewski, J. C., J. Magn. Magn. Mater. 159, L1 (1996).
+
+(4) Berger, L., J. Appl. Phys. 81, 4880 (1997).
+
+(5) Tsoi, M., et al., Phys. Rev. Lett. 80, 4281 (1998).
+
+(6) Myers, E. B., et al., Science 285, 867 (1999).
+
+(7) Sun, J. Z., J. Magn. Magn. Mater. 202, 157 (1999).
+
+(8) Wegrowe, J.-E., et al., Europhys. Lett. 45, 626 (1999),
+
+(9) Tsoi, M., et al., Nature 406, 46 (2000).
+
+(10) Beach, G. S. D., et al., Phys. Rev. Lett. 97, 057203 (2006).
+
+(11) Beach, G. S. D., et al., Phys. Rev. Lett. 102, 067201 (2009).
+
+(12) Fert, A., Bruno, P., in Ultrathin Magnetic structures II: An Introduction to the
+Electronic, Magnetic and Structural Properties, ed. by J.A.C. Bland and B. Heinrich
+(Berlin: Springer, 1994), p.82.
+
+(13) Levy, P. M., in Solid State Physics, ed. by H. Ehrenreich and D. Turnbull, vol. 47
+(Boston, London: Acad. Press, 1994), p.367.
+
+(14) Dieny, B., J. Magn. Mag. Mat. 136, 335 (1994).
+
+(15) Gijs, M. A.M., Bauer, G. E. W., Adv. Phys. 46, 285 (1997).
+
+(16) Ansermet, J.-Ph., J. Phys.: Cond. Mat. 10, 6027 (1998),
+
+(17) Bass, J., Pratt, W. P., Jr., J. Magn. Magn. Mat. 200, 274 (1999).
+(18) Fert, A., Piraux, L., J. Magn. Magn. Mat. 200, 338 (1999).
+
+(19) Gijs, M. A.M., in Magnetic Multilayers and Giant Magnetoresistance: Fundamentals
+and Industrial Applications, ed. by U. Hartmann (Berlin: Springer, 2000), p.130.
+
+18
+UNCLASSIFIED/ -6OR-OFFLGLAL-US5-OAL

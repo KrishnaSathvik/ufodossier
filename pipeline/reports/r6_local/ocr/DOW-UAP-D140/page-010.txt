@@ -1,0 +1,56 @@
+UNCLASSIFIED / / BOR-O.5516L4A1-055-O)H
+
+The figure of merit for a HFGW generator is given explicitly by Baker, Woods and Li
+(2006). This Figure of merit can be extended by considering other effects since in the
+laboratory the force change could not even approach those of the celestial sources. It
+would seem that the magnitude of any laboratory generated GWs could be best
+increased (1) by utilizing electromagnetic forces rather than gravitational, (2) by
+increasing the distance between the gravitational radiators, (3) by increasing the GW
+frequency (that is, reducing At) and especially (4) by developing a large number of in-
+phase system elements. This last effect enters as the square of the number of
+elements, NV , as proved using General Relativity analyses by Dehnen and Romero-
+Borja’s analyses (Romero and Dehnen, 1981; Dehnen and Romero, 2003). Such N?
+dependence also may be the key to successful laboratory generation of GWs, especially
+HFGWs. In that regard, recent proposal by Woods (Woods and Baker, 2009; Black and
+Baker, 2009)) propose the use of infrared-energized atomic nuclei, electrons and or
+molecules, which have a very large N, contained in a stack of N waveguide rings
+(Patents Pending). The distance between GW radiators may be proportional to the GW
+wavelength in that it may have a limit that is less than or equal to a GW wavelength.
+The wavelength is inversely proportional to the GW frequency. Thus given some value
+for the proportional constant, say unity or the distance between radiators equal to one
+GW wavelength, the GW frequency cancels out. As already noted it is important to take
+advantage of square of the number of in phase elements for useful laboratory HFGW
+generation. If the elements are sliced in one dimension (the dimension along the axis of
+HFGW generation) in order to increase the number of elements, then the change in
+force per element will be inversely proportional to the number of elements. For
+example, if the elements are sliced into one hundred separate pieces, then each piece
+will have one hundredth of the force of the unsliced element. Essentially, f = ma and it
+is assumed that the acceleration of the element was the same after the split as before.
+This result also follows Equation (8), page 17 in Baker, Stephenson and Li (2008b) and
+if there were 100 splits of an FBAR, then the power to an individual slice, P and its
+mass, m would be both one hundredth of their un-split value and the square root of
+their product would again be one hundredth. The frequency of the split elements may
+be a higher value -- but the attendant increase in GW power proportional to the square
+of the higher frequency and the decrease in power due to a smaller distance between
+tracks (assuming that the distance between tracks is one GW wavelength, which would
+be smaller) would cancel and there would be no net effect on HFGW amplitude. It is
+concluded, therefore, that in this particular special situation the amplitude of the
+generated HFGWs is proportional to the number of in-phase elements, NV (not the
+square). In any event a large number of elements for a given HFGW-generator length
+can be best realized by reducing the size of the individual elements to submicroscopic
+size (as discussed in U. S. Patent Number 6,784,591).
+
+In the case of HFGW generation for communications applications, it is important to
+relate the amplitude of a GW, A, with the power, P, or more exactly with the GW flux,
+Few, in Wm“. For a viable communications link, the HFGW amplitude, A, must be large
+enough to be detected at the HFGW receiver. From Appendix B of Baker, Woods and Li
+(2006),
+
+A = 1.28x10°18 ( Few/vew)” m/m (2)
+
+where A has the dimensionless value of spacetime strain or m/m and vew is the GW
+frequency s™!. Following the proceeding numerical example we will concentrate the
+HFGW on a diffraction-limited area of 4x 10-3 m2 or 0.004 m2 for a HFGW flux of
+
+3
+UNCLASSIFIED/ (EQOR.O5ELGid-USE-ONTY

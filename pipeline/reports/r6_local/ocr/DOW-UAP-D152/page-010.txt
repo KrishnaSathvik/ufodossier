@@ -1,0 +1,25 @@
+UNCLASSIFIED/ /fOR. 8FFl&I.t.k W&li ,HIia¥ 
+3. Hund's Nonlinear Newtonian Theory of Gravity 
+As explained by Hund [3], already Newton's theory of gravity, in conjunction with the 
+postulates of special relativity, leads to a nonlinear theory of gravity. With this model 
+theory of gravity the nonlinearity of the gravitational field can be much better explained 
+than with Einstein's theory. 
+Hund begins with the force F acting on a mass m in a "merry-go-round": 
+mvF=mg +-x G . (11) 
+C 
+If g is the gravitational acceleration by real masses with the density p, one has in 
+Newton's theory 
+divg =--4.nyp . (12) 
+In the merry-go-round g has a vertical component from the earth's gravitational field, 
+but also a radial component by the radial centrifugal acceleration which is not source­
+free. With lgl = alr, where m= 2TC/T, with T the time of revolution, and r t he radial 
+distance from the center of the merry-go-round, one has 
+divg =2m2 . (13) 
+Comparing (13) with (12) one sees that the centrifugal force corresponds to a 
+gravitational repulsion of a homogeneous mass density 
+(14) 
+For a typical "merry-go-round" one has T = 10 sec, and hence, w =0.6s -1 • For this 
+example one obtains from (14), µ = -106 glcm3 , taken as an absolute value about 
+equal to the mass density of a white dwarf. 
+UNCLASSIFIED//POlt orr1e11tt tt!II!! or~LY 
+6

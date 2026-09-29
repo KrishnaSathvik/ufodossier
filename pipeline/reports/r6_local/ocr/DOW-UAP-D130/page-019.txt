@@ -1,0 +1,34 @@
+UNCLASSIFIED/ /FOR OFFI@Il.tk WSI: Ortklf 
+An issue develops when an entirely new device is considered. The form of the 
+movement control algorithm is similar to a population vector in that movement at each 
+time step is determined by a vector sum of the neurons' normal ized firing rates 
+multiplied by a set of linear coefficients. Modern neuroscience has proven that tens of 
+thousands, even up to millions of neurons fire in concert to perform even the most 
+mundane of movements. These extended neural pathways developed through full­
+duplex closed loop training. It will thus be quite an issue in an open-loop design to 
+develop an algorithm that can decode control signals for a system the brain has never 
+controlled before, say a 12-direction rocket stabilization system. 17 This places another 
+limitation on the open-loop model, even using complex nonlinear fitting, and has driven 
+development of the closed-loop model. 
+CLOSED-LOOP PERIPHERAL ARRAYS UTILIZING VISUAL FEEDBACK 
+In a closed- loop system that provides feedback to a control system, the differences 
+between the two models of movement become apparent. Sensory feedback within the 
+system is used for error correction of fine motor control, such as balance - without fine 
+motor control and error correction for balance, the human body could not stand up. In 
+the model with abstract cortical control, feedback corrections are processed externally 
+to the BMI and sensory feedback to the brain is usually limited to observation. This is a 
+subtle distinction between open-loop with visual feedback and closed-loop abstract 
+control that includes visual feedback. In the former, the visual feedback is intended to 
+show success of a control command being sent by the brain, whereas in the latter, 
+visual feedback is showing success of supervisory function of a semiautonomous 
+mechanical device. 
+eural Recording 
+JAPAN 
+Figure 4. Experimental Overview of Brain-Controlled Robot in a Closed-Loop With Visual Feedback 
+Experiment. After decoding walking-related Information from a monkey's brain activ ity while walking on a 
+treadmill, these data were relayed from Duke University in USA to the Advanced Telecommunication Research in 
+17 Twelve directions are the minimum number of positive controls commands to +/- x, y, and z thrust, as well as 
+increasi ng or decreasing roll, pitch , and yaw. These are six degrees of freedom but as far as a BMI control system 
+is concerned, increasing x and decreasing x are separate commands to decode. 
+UNCLASSIFIED/ /iiiOlil OiiiiiilCI0ls !lili OPII.¥ 
+13

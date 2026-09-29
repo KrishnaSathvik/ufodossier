@@ -1,0 +1,45 @@
+UNCLASSIFIED/ /POI': OPFIClltt U.!I! Oflt I 
+• Developing complex neural networks on top of chips prior to implant. 
+• Development of chronic electrode materials such as biopolymers that may be 
+suitable for implant without an ex-vivo grown sheath. 
+• Creating a biological to biological interface upon implant. 
+This technol ogy does still rely on proximal sensing and stimulation of action potentials, 
+but the neural tissue at the biological to physical interface is engineered rather than 
+native, thus providing the opportunity to develop an effective bridging network to 
+seamlessly integra te between the two systems. Development of such chronic implant 
+capability could make feasible the nondestructive addition of cerebellar pathways for 
+control activity that incorporates the huge potential of brain plasticity without adding 
+significant cognitive burden on the prefrontal cortex. This would effectively turn the 
+controlled device into part of the body as far as the brain is concerned. 
+IMPLANTABLE CHIPS , LADDERS AND ARRAYS 
+Research utilizing ECoG or neocortica l ladder array technology is the state of the art in 
+neura l communication. However, stimulating nerves or peripheral pathways in this 
+matter without damage to the receiving cells has proven difficult. Even in cochlear 
+arrays, normal functioning of the surrounding tissue is lost and only a fraction of the 
+quality of natural stimulation is available. Locating single neurons has also been 
+challenging, though new electrode designs are being developed. These devices will 
+continue to be useful for research applications such as better understanding of network 
+structure and network function in conjunction with fMRI. BMI application will continue in 
+the foreseeable future to be lim ited to instances where closed-loop with visual or other 
+traditional sensory feedback is sufficient. Until new electrode designs develop a robust 
+method of two-way communication with single neurons, they will not be the dominant 
+BMI technology for use in normal, healthy individua ls. 
+Conclusions 
+The gamut of modern technologies that connect neural systems to physical systems has 
+been surveyed, with attention to the underlying physiological signals. Many examples 
+have been presented of studies illustrating the different research paths under way. Two 
+of these technologies show the most promise of near term and long term successful 
+high-ba ndwidth integration of brain and external systems. 
+In the near term, noninvasive electrical sensors that primarily rely on EMG signals, but 
+also include those weaker signals directly from neuro nal firing, are expected to 
+dominate real-world applications. The decoding of these signals from just a handful of 
+dry sensors can produce a large combination of on-off and variable strength control 
+commands that should surpass the information capability of traditional electro­
+mechanical interfaces in the next 5 years. This technology is limited, however, by the 
+number of available EMG sites and the required coherent firing of very large numbers of 
+neurons. To surpass these limitations, technologies capable of connections to individual 
+neurons on a large scale will be necessary. 
+In the far term, an invasive approach to establish high-bandwidth duplex 
+communication networks, 5-20 bits/second, using interfaces with single neurons 
+UNCLASSIFIED/ /P91l err1e1Jct U.!I! or•t I 
+27

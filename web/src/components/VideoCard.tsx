@@ -1,6 +1,8 @@
 "use client";
 
 import { useState } from "react";
+import Link from "next/link";
+import { releaseLabel } from "@/lib/labels";
 
 interface VideoCardProps {
   video: {
@@ -11,6 +13,8 @@ interface VideoCardProps {
     thumbnail_url: string | null;
     agency: string | null;
     blurb: string | null;
+    release?: number | null;
+    href?: string;
   };
 }
 
@@ -35,7 +39,9 @@ export function VideoCard({ video }: VideoCardProps) {
           />
         ) : (
           <button
-            onClick={() => setPlaying(true)}
+            onClick={() => {
+              if (video.embed_url) setPlaying(true);
+            }}
             className="w-full h-full relative cursor-pointer bg-[#111]"
           >
             {video.thumbnail_url && (
@@ -59,18 +65,22 @@ export function VideoCard({ video }: VideoCardProps) {
                 </svg>
               </div>
             </div>
-            {video.agency && (
-              <span className="absolute top-2 left-2 bg-bg/80 px-2 py-0.5 text-[10px] font-mono uppercase tracking-tracked text-ink-faint border border-rule">
-                {video.agency}
-              </span>
-            )}
+            <span className="absolute top-2 left-2 bg-bg/80 px-2 py-0.5 text-[10px] font-mono uppercase tracking-tracked text-ink-faint border border-rule">
+              {video.release ? releaseLabel(video.release) : video.agency}
+            </span>
           </button>
         )}
       </div>
       <div className="mt-2.5">
-        <h3 className="font-serif text-sm font-medium leading-snug group-hover:text-accent transition-colors line-clamp-2">
-          {formatTitle(video.filename)}
-        </h3>
+        {video.href ? (
+          <Link href={video.href} className="font-serif text-sm font-medium leading-snug group-hover:text-accent transition-colors line-clamp-2 block">
+            {formatTitle(video.filename)}
+          </Link>
+        ) : (
+          <h3 className="font-serif text-sm font-medium leading-snug group-hover:text-accent transition-colors line-clamp-2">
+            {formatTitle(video.filename)}
+          </h3>
+        )}
         {video.blurb && (
           <p className="mt-1 text-xs text-ink-faint line-clamp-2 leading-relaxed">
             {video.blurb}

@@ -1,0 +1,30 @@
+UNCLASSIFIED//FOR OFFICIAL USE ONLY 
+Figure 6. Bilayer graphene tunneling device structure. Two sheets of graphene 
+are separated by a one-nanometer thick insulating of graphene. 
+Manipulation of Spin Qubits in Graphene Quantum Dots Relative to GaAs 
+For universal quantum computing, single-qubit and two-qubit manipulations are necessary. 
+Single-qubit rotations of spin qubits are naturally done by electron spin resonance (ESR) (63) 
+and by electric- dipole- induced spin resonance (EDSR) (64). The Rabi frequency faabl at which 
+the qubit rotates, for instance, in the ESR experiment (65) is proportional to the electron spin 
+g-factor, faabi = gµsBac/2h where µs is the Bohr magneton and Bae the external oscillating 
+magnetic field used to rotate the spin. Notably, the electron spin g-factor differs for different 
+materials . In GaAs quantum dots, it has been measured to be lg I < 0.43 (66) whereas, in 
+graphene quantum dots, it has been determined to be close to lg I = 2. (67) Thus, it is 
+possible to rotate the electron spin in graphene quantum dots using ESR about five times 
+faster than in GaAs quantum dots using the same field strength of the external oscillating 
+magnetic field. This is an important gain because all qubit manipulations need to be done 
+fast to avoid decoherence and implement fault-tolerant quantum computing (68). 
+Another important advantage of graphene spin qubits is related to the small band gap in 
+graphene nanor ibbons . (For a ribbon width of about 30nm, the band gap can be estimated to 
+be of the order of 60 meV.) This fact yields additional flexibility for two-qubit operations. 
+Two-qubit operations are usually done via the Heisenberg exchange interaction (69). The 
+tunneling matrix element can, however, be easily tuned by increasing or decreasing the 
+overlap of the wave functions of the electrons in the two quantum dots. In graphene or any 
+small band gap semiconductor, this manipulation can be done in two distinct ways: either 
+through tunneling via conduction band states (i.e., normal tunneling) or through tu nneling 
+via valence band states (i.e., Klein tunne ling) . This has been predicted for graphene 
+nanoribbons and experimentally realized in carbon nanotube quantum dots in (70)(71). 
+The most important physical consequence of this additional flexibility is the appearance of a 
+new type of long-d istance coupling between graphene spin qubits as illustrated in Figure 8. 
+UNCLASSIFIED/ ,'FOA OFFI&il.t.L W&li 8,.LY 
+18

@@ -1,0 +1,47 @@
+UNCLASSIFIED/ /POK: OPPIClltL U.!r:: Oflt I 
+APPLICATIONS OF QUANTUM COMPUTERS 
+Although smaller circuitry and supercomputing is a motivator, the driving application behind 
+quantum computing is cryptography. First, there is cracking cipher codes. The vast majority 
+of secured communications utilize a method known as public-key cryptography . In this 
+method, the code is based on the prime number factors of a very large integer which is 
+publically available. The private key is one of the integer factors and this allows the receiver 
+of information to decipher the code easily. The strength of this technique is that traditional 
+computer algorithms will take a long time to guess the correct factors of the public key, on 
+the order of months. 9 Traditional brute force methods require a number of steps that 
+increase as an exponential function of the size of the public key. However, in 1994 Shor 
+presented a quantum algor ithm that would only require a polynomial number of steps, thus 
+dramatically decreasing the required time to factor, assuming a quantum computer would 
+ever be physically realized. (6) This speedup is primarily due to the nature of quantum 
+waves; specifically, they can follow several parallel paths instead of the usual stepwise 
+procedural execution of instructions. This accelerat ion by superposition concept is more 
+easily understood in a random search of data. Consider an algorithm that has a 50% 
+probability to locate a specific phone number in a database of N phone numbers by a random 
+search. The procedural algorithm on average will require O.SN inquiries to locate the correct 
+number. A quantum algorithm on the other hand can be devised that accumulates 
+information by examining multiple numbers with each step. Such a scheme has been shown 
+to reduce the number of examinations required to .JN. (7, 8) The superposition of states 
+allows examination and processing of several tape cells simultaneously in a Turing-inspired 
+machine. 
+Second, there is quantum communication. Once public key encryption is easily broken by the 
+quantum computer, a new cipher needs to replace it. The canonical quantum commun ication 
+experiment defines a sender, Bob, and a receiver, Alice. In most scenarios, Alice and Bob 
+communicate over a distance using entangled particles and a trad iti onal open line. The open 
+line relays information about measurement sett ings, but is useless to an observer without 
+access to the entangled wave function (entanglement is discussed below, and the open line 
+information is an analogue to the public key of current ciphers). The other advantage of this 
+setup is that almost any disturbance in the commun ication line between Alice and Bob would 
+destroy entanglement and thus the information would be lost instead of intercepted. 
+Additional archetypical participants in a communications experiment/scenario follow the 
+English alphabet: Charlie (or Chuck if his intent is malicious), Dave, Eve, etc. Quantum 
+communication is thus an application replacing one performed by a general purpose 
+computing machine ; the classical and quantum systems do not operate in similar fashion 
+other than the function of securely transmitting information. Additionally, quantum 
+communication has been suggested as a method to connect isolated quantum systems 
+without disturbing closed box requirements like classical interventions would. (9, 10) 
+Beyond cryptography is a third application, quantum metrology, where time and/or distance 
+are measured to an extremely high accuracy . A fourth obvious application is simulation of 
+quantum systems. (11, 12) 
+9 Or hours if one has farms of supercomputers. The point is that the value of most communication is much smaller than 
+the cost to decipher by brute force. The 128-bit web standard is a compromise between security and speed. 
+UNCLASSIFIED/ /POK: 9ffl@IAl W&li 8P◄ IL¥ 
+10

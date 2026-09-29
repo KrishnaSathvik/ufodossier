@@ -1,0 +1,36 @@
+UNCLASSIFIED / /502-O5-26EH-USE-ONE YT
+
+Electrostatic Quantum Dots in Graphene
+
+The graphene form of carbon, a hexagonal sheet array single atom thick, is a candidate
+substrate for quantum dots. However, two fundamental challenges need to be overcome
+before graphene can be used to form and operate spin qubits. First, it is difficult to create a
+tunable quantum dot in graphene because of the absence of an energy gap in the band
+spectrum. Electrons in such low energy gap materials exhibit Klein tunneling, and
+complicating efforts to confine particles (33) (34) (35). Second, due to the valley degeneracy
+that exists in graphene, (36)(37)(38) it is non-trivial to form two-qubit gates using
+Heisenberg exchange coupling for spins in tunnel-coupled dots. Attempts have been made to
+solve the first problem, such as to use suitable transverse states in graphene ribbons to
+confine electrons (39), to combine single and bilayer regions of graphene (40), or to achieve
+confinement by using inhomogeneous magnetic fields. (41) The second problem has only
+been realized recently, and scientists have created a method to confine the electrons in a
+unique valley through suitable transverse states in a ribbon of graphene which appears to
+overcome these limitations. (42) The approach as used in GaAs quantum dots (43) is not
+possible due to Klein tunneling.
+
+Figure 1. Hexagonal structure of graphene.
+
+Several ways are possible to induce a gap in bulk graphene. In general, quantum
+confinement can lead to the opening of a gap in ribbons (44) (45) (46). Within the tight-
+binding approximation of graphene, armchair boundary conditions can lead to an insulator
+and gate-tunable quantum dots (Figure 2).
+
+Another promising direction is to start with bulk grapheme and induce a gap via the
+interaction with a substrate. (47)(48)(49) Three quantum dot architectures that allow for
+bound states tunable by electrostatic fields are: (i) graphene nanoribbons with armchair-
+terminated boundaries, (ii) discs in single-layer graphene, and (iii) discs in bilayer graphene.
+Special emphasis is given on the ability to controllably break the valley degeneracy, a
+prerequisite for two-qubit spintronic gates (50) (51) in graphene.
+
+14
+UNCLASSIFIED / /,5O2.05416241-055-08-

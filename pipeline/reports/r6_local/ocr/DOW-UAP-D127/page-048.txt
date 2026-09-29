@@ -1,0 +1,120 @@
+UNCLASSIFIED / / FOR-OFFEGHH-USE-OA
+
+We now want to study this probability
+distribution in detail. Our next questions are:
+
+1) What is its mean value?
+
+2) What are its variance and standard
+deviation?
+
+3) What are its moments to any higher order?
+
+4) What are its cumulants?
+
+5) What are its skewness and kurtosis?
+
+6) What are the coordinates of its peak, i.e.
+the mode (peak abscissa) and its ordinate?
+
+7) What is its median?
+
+The first three points in the list are all covered
+by the following theorem: all the moments of (113)
+are given by (here k is the generic and non-
+negative integer exponent, i.e. k =0,1,2,3,...20)
+
+(ET_Distance* ) = (he ” j fer pistne (7) dr
+
+2
+
+im, 3 2
+= [ git, * ey 2a dr
+0
+
+sin te We, (115)
+
+To prove this result, one first transforms the above
+integral by virtue of the substitution
+
+3
+Wf See (116)
+
+Then the new integral in z is then seen to reduce to
+the known Gaussian integral (53) and, after several
+reductions that we skip for the sake of brevity,
+(115) follows from (53). In other words, we have
+proven that
+
+Upon setting k=0 into (117), _ the
+normalization condition for fey pistane(*) follows
+
+[fer Distne (r) dr=1. al 18)
+
+48
+
+Upon setting k=1 into (117), the important
+mean value of the random variable ET_Distance
+is found
+
+(119)
+
+Upon setting k =2 into (117), the mean value of
+the square of the random variable ET_Distance is
+found
+
+2 >
+
+2 2 a 5°
+(ET_Distance*) = C?e +e , (120)
+
+The variance of ET_Distance now follows from
+the last two formulae with a few reductions:
+
+Orr Disimes = (ET_Dis tance) —(ET_Distance)”
+
+4 4
+2 o a
+
+=C’¢ 3" ¢9 e? -1}. (121)
+
+So, the variance of ET_Distance is
+
+a
+
+fon
+
+“e%le% -1| (122)
+
+Z o
+A
+
+2 ap 3
+CET Distane =C’ €
+
+The square root of this is the important
+standard deviation of the ET_Distance random
+variable
+
+Hoo | of
+- 3 pI8Vo9 _
+Sgr pistane =Ce ” € e
+
+1]. (123)
+
+The third moment is obtained upon setting
+k=3 into (117)
+
+2
+cas
+2
+
+(ET_Distance*) =Ciee (124)
+
+Finally, upon setting k =4 into (117), the fourth
+moment of ET_Distance is found
+
+8 2
+(ET_Distance*) = C*e 3M 99° (125)
+
+UNCLASSIFIED / POR “OFFECEALUSE-ONEY

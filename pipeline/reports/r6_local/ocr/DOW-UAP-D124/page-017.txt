@@ -1,0 +1,33 @@
+UNCLASSIFIED/ /FOR OFFI@IAL l:ISE OHL¥ 
+goal was to be able to recover the spacecraft at any airport in CONUS, to eliminate the 
+need for an overseas recovery site, and to eliminate the waiting required until a lower 
+L/D ratio could land in CONUS (up to 14 orbits for the Apollo capsule, or 21 hours). In 
+an emergency, that may be too long. The AFFDL's goal for the spacecraft to support 
+the Manned Orbiting Laboratory was no waiting but to be able to reach CONUS from 
+any arbitrary MOL position in its orbit. This was considered possible in the 1964 -65 
+briefs to the government with respect to MOL, specifically the Model 176 configuration 
+the MDC proposed for the MOL support in 1964. 
+The hypersonic glider based on the FDL-7C and the hypersonic air-breathing aircraft in 
+Figure 8 both have hypersonic L/D ratios in excess of 2.7. In very practical terms, that 
+means unpowered cross ranges in excess of 4,500 nautical miles and down ranges on 
+the order of the Earth's circumference. So these two craft can depart from any location 
+of a low-altitude orbit and land in CONUS or in continental Europe. Both are 
+dynamically stable over the entire glide regime. 
+FDL-7 CID 
+Hypersonic 
+Glider 
+Blended Body 
+Hypersonic 
+Cruiser 
+Figure 8. High-Performance Hypersonic Glide Aircraft. Rocket boost-gl ide and air-breather cruiser. 
+The wing-body, cylindrical fuselage advocates have strongly criticized the lifting bodies, 
+contending that they are poorer configurations and much more complicated than the 
+conventional-wisdom wing-body configurations (see Figure 9). However, that is far 
+from the truth . The structural specialist sees this configuration as a lightweight 
+propellant tank and assumes it is t his consideration that drives the design. Rather, that 
+observation introduces problems for all other technical disciplines that are far more 
+difficult to rectify than a noncylindrical tank or a cylindrical tank in a nonsymmetrical 
+cross section. The lone lifting surface with t railing edge controls introd uces control 
+issues just as it did for the space shuttle. 
+UNCLASSIFIED/ ;'POlt err1e1J1tt U.!I!! er~t I 
+10

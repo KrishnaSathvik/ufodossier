@@ -1,0 +1,46 @@
+Although President Eisenhower supported the purchase of this
+type of aircraft, he questioned the plan to procure any before they had
+been tested. Promising that more thought would be given to the mat-
+ter before such an order was placed, Secretary Quarles noted that
+CIA, the Defense Department, and the Bureau of the Budget were
+working on a funding plan for the project. The President suggested
+that the Air Force “‘could support the project by transferring some re-
+connaissance money.”’ At the close of the meeting, Eisenhower asked
+the group to return after completing the next work phase to discuss
+further stages of the project with him.’
+
+COMPETITION BETWEEN LOCKHEED AND CONVAIR
+
+With funding for the proposed new type of aircraft now available,
+Richard Bissell asked Lockheed and Convair to submit detailed pro-
+posals. During the first half of 1959, both Lockheed and Convair
+worked to reduce the radar cross section of their designs, with assis-
+tance from Franklin Rodgers of the Scientific Engineering Institute.
+~ In pursuing his antiradar studies, Rodgers had discovered a phenome-
+non that he believed could be used to advantage by the new recon-
+naissance aircraft. Known as the Blip/Scan Ratio but also referred to
+as the Rodgers’ Effect, this phenomenon involved three elements: the
+strength of a radar return, the altitude of the object being illuminated
+by the radar, and the persistence of the radar return on the radar
+screen (Pulse-Position Indicator display).
+
+Most tracking radars in the late 1950s swept a band of sky 30° to
+45° wide and 360° in circumference. Any object encountered in this
+area reflected the radar pulse in a manner directly proportional to its
+size—the larger the object, the stronger the returning radar signal.
+This return appeared on the cathode-ray tube of the radar screen as a
+spot or blip, and the persistence of this blip on the radar screen also
+depended on the strength of the radar return, with blips from larger
+objects remaining on the screen longer. During the late 1950s and
+early 1960s, a human radar operator watched the radar screen and
+kept track of the blips that indicated aircraft within the radar’s field of
+view.
+
+” Andrew J. Goodpaster, “Memorandum of Conference with the President, 17 December
+1958, 10:26 a.m.,” 22 December 1958, WHOSS, Alpha, DDEL (TS).
+
+Secret NOFORN —
+
+Chapter 6
+
+267

@@ -1,0 +1,59 @@
+M-913-65-04
+
+BACKGROUND
+
+Project Gemini is the stepping stone between the comparatively simple one-man
+
+orbital flights of Project Mercury and the complexities involved in the multi-man
+lunar flights of Project Apollo. As such, Gemini's prime reason for being is to
+
+increase knowledge of man's capabilities in space and in developing operational
+
+techniques to support the Apollo Program. Thus, Gemini's objectives become:
+
+Long-duration flights - up to fourteen days
+Rendezvous and maneuver in space
+
+Docking with a target vehicle
+
+Extra-vehicular activities by the astronauts
+Controlled reentry
+
+Operational training for all flight personnel concerned
+
+To accomplish these objectives, a series of flights have been planned of which
+this GT-4 is the fourth. The first three demonstrated respectively: orbital
+insertion capability, spacecraft structural integrity, and crew accommodation
+qualities. The four-day manned flight will further demonstrate manned space
+flight capabilities for the support of future missions of even longer duration.
+The remaining eight Gemini flights, all of which will be manned by two
+astronauts, are tabulated in Table VI with type of missson and approximate date
+of flight:
+
+TABLE VI
+
+Mission No. Mission Objectives Date
+
+GT-5 Seven-day flight with experiments* Latter 1965
+GTA-6 Radar rendezvous and docking Early 1966
+GT-7 14-day Extra-vehicular activities Early 1966
+GTA-8 Optical rendezvous and docking Early 1966
+GTA-9 Simultaneous countdown and Mid 1966
+rendezvous
+GTA-10 Direct rendezvous Mid 1966
+GTA~11 Apollo-LEM rendezvous simulation Late 1966
+GTA-12 Apollo-LEM abort simulation Early 1967
+
+*Includes rendezvous evaluation pod
+
+The planned end-of-the-mission touchdown point is in the Atlantic Ocean approxi-
+mately 400 miles southwest of Bermuda as is shown in Figure 23. This is the primary
+landing area. The GT-4 mission employs a zone concept for recovery which estab-
+lishes four recovery zones: East Atlantic, West Atlantic, West Pacific and Mid-
+
+Pacific. Each zone consists of a circular area with a radius of 240 nautical miles
+
+in which various ships and planes will be stationed. An aircraft carrier will be sta-
+tioned only in the primary landing area as illustrated in the recovery forces diagram
+
+5/24/65 Page 20

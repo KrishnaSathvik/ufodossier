@@ -1,0 +1,5763 @@
+{
+  "canonical_events": [
+    {
+      "event_id": "evt-0021",
+      "label": "unspecified / 1950 / CIA-UAP-003.pdf#ep1",
+      "occurred_at": null,
+      "location_text": null,
+      "member_case_ids": [
+        "UNDATED-USAF-9CCC64"
+      ],
+      "source_roles": [
+        {
+          "filename": "CIA-UAP-003.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 1 of 1 from CIA-UAP-003.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0022",
+      "label": "Between train and Caspian Sea coast, Azerbaijan SSR, approximately 50-65 miles south of Baku / 1955 / CIA-UAP-006.pdf#ep1",
+      "occurred_at": "1955-10-04",
+      "location_text": "Between train and Caspian Sea coast, Azerbaijan SSR, approximately 50-65 miles south of Baku",
+      "member_case_ids": [
+        "1955-CIA-E34C6D"
+      ],
+      "source_roles": [
+        {
+          "filename": "CIA-UAP-006.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 1 of 1 from CIA-UAP-006.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0023",
+      "label": "ladakh / 1968 / CIA-UAP-016.pdf#ep1",
+      "occurred_at": null,
+      "location_text": "Chang La, Fukche and Koyul, Ladakh",
+      "member_case_ids": [
+        "UNDATED-CIA-96D28F"
+      ],
+      "source_roles": [
+        {
+          "filename": "CIA-UAP-016.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 1 of 4 from CIA-UAP-016.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0024",
+      "label": "bhutan / 1968 / CIA-UAP-016.pdf#ep2",
+      "occurred_at": "1968-02-21",
+      "location_text": "Thimpu, Bhutan",
+      "member_case_ids": [
+        "1968-CIA-FA829A"
+      ],
+      "source_roles": [
+        {
+          "filename": "CIA-UAP-016.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 2 of 4 from CIA-UAP-016.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0025",
+      "label": "ladakh / 1968 / CIA-UAP-016.pdf#ep3",
+      "occurred_at": "1968-03-25",
+      "location_text": "Fukche, Koyul, Demchok, Ladakh",
+      "member_case_ids": [
+        "1968-CIA-218E91"
+      ],
+      "source_roles": [
+        {
+          "filename": "CIA-UAP-016.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 3 of 4 from CIA-UAP-016.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0026",
+      "label": "Kaski region, Nepal; Baltichaur crater, five miles NE of Pokhara / 1966 / CIA-UAP-016.pdf#ep4",
+      "occurred_at": "1966-03-25",
+      "location_text": "Kaski region, Nepal; Baltichaur crater, five miles NE of Pokhara",
+      "member_case_ids": [
+        "1966-CIA-B2A386"
+      ],
+      "source_roles": [
+        {
+          "filename": "CIA-UAP-016.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 4 of 4 from CIA-UAP-016.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0027",
+      "label": "harare / 2008 / CIA-UAP-017.pdf#ep1",
+      "occurred_at": "2008-07-02",
+      "location_text": "Harare International Airport, Zimbabwe",
+      "member_case_ids": [
+        "2008-CIA-052DE8"
+      ],
+      "source_roles": [
+        {
+          "filename": "CIA-UAP-017.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 1 of 1 from CIA-UAP-017.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0028",
+      "label": "western United States, valley area / undated / DOW-UAP-D079.pdf#ep1",
+      "occurred_at": null,
+      "location_text": "western United States, valley area",
+      "member_case_ids": [
+        "UNDATED-FBI-C390B7"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D079.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 1 of 4 from DOW-UAP-D079.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0029",
+      "label": "western United States, over hillside / undated / DOW-UAP-D079.pdf#ep2",
+      "occurred_at": null,
+      "location_text": "western United States, over hillside",
+      "member_case_ids": [
+        "UNDATED-FBI-031A45"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D079.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 2 of 4 from DOW-UAP-D079.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0030",
+      "label": "western United States / undated / DOW-UAP-D079.pdf#ep3",
+      "occurred_at": null,
+      "location_text": "western United States",
+      "member_case_ids": [
+        "UNDATED-FBI-CD3613"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D079.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 3 of 4 from DOW-UAP-D079.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0031",
+      "label": "western United States, on road / undated / DOW-UAP-D079.pdf#ep4",
+      "occurred_at": null,
+      "location_text": "western United States, on road",
+      "member_case_ids": [
+        "UNDATED-FBI-63F44E"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D079.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 4 of 4 from DOW-UAP-D079.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0032",
+      "label": "Colorado Springs 2022",
+      "occurred_at": null,
+      "location_text": "Cheyenne Mountains",
+      "member_case_ids": [
+        "UNDATED-USA-599D8B"
+      ],
+      "source_roles": [
+        {
+          "filename": "FBI-UAP-D002.pdf",
+          "role": "primary_narrative"
+        },
+        {
+          "filename": "FBI-UAP-D003.pdf",
+          "role": "media_for_event"
+        },
+        {
+          "filename": "ICA-UAP-D001.pdf",
+          "role": "analysis_of_event"
+        }
+      ],
+      "notes": [
+        "intra-source episode 1 of 1 from FBI-UAP-D002.pdf",
+        "Labeled from Colorado Springs fixture evidence"
+      ]
+    },
+    {
+      "event_id": "evt-0033",
+      "label": "over their house / undated / FBI-UAP-D009.pdf#ep1",
+      "occurred_at": null,
+      "location_text": "over their house",
+      "member_case_ids": [
+        "UNDATED-FBI-DA1DE3"
+      ],
+      "source_roles": [
+        {
+          "filename": "FBI-UAP-D009.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 1 of 1 from FBI-UAP-D009.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0034",
+      "label": "glen ridge / 1957 / FBI-UAP-D012.pdf#ep1",
+      "occurred_at": "1957-11-05",
+      "location_text": "Glen Ridge, N.J.",
+      "member_case_ids": [
+        "1957-FBI-DB9934"
+      ],
+      "source_roles": [
+        {
+          "filename": "FBI-UAP-D012.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 1 of 14 from FBI-UAP-D012.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0035",
+      "label": "due west of Clifton, N. J. / 1957 / FBI-UAP-D012.pdf#ep2",
+      "occurred_at": "1957-08-27",
+      "location_text": "due west of Clifton, N. J.",
+      "member_case_ids": [
+        "1957-USAF-861A2D"
+      ],
+      "source_roles": [
+        {
+          "filename": "FBI-UAP-D012.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 2 of 14 from FBI-UAP-D012.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0036",
+      "label": "2630 Vauxhall Road, Union, N. J. / 1958 / FBI-UAP-D012.pdf#ep3",
+      "occurred_at": "1958-02-11",
+      "location_text": "2630 Vauxhall Road, Union, N. J.",
+      "member_case_ids": [
+        "1958-FBI-B518F9"
+      ],
+      "source_roles": [
+        {
+          "filename": "FBI-UAP-D012.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 3 of 14 from FBI-UAP-D012.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0037",
+      "label": "Route 35 near Perth Amboy, N.J. / 1958 / FBI-UAP-D012.pdf#ep4",
+      "occurred_at": "1958-02-11",
+      "location_text": "Route 35 near Perth Amboy, N.J.",
+      "member_case_ids": [
+        "1958-FBI-8A9CE1"
+      ],
+      "source_roles": [
+        {
+          "filename": "FBI-UAP-D012.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 4 of 14 from FBI-UAP-D012.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0038",
+      "label": "Communipaw and Pacific Ave.'s in Jersey City, N.J. / 1958 / FBI-UAP-D012.pdf#ep5",
+      "occurred_at": "1958-12-14",
+      "location_text": "Communipaw and Pacific Ave.'s in Jersey City, N.J.",
+      "member_case_ids": [
+        "1958-FBI-E2D2FF"
+      ],
+      "source_roles": [
+        {
+          "filename": "FBI-UAP-D012.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 5 of 14 from FBI-UAP-D012.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0039",
+      "label": "Helm Ave., Woodbridge, N.J., above Curtiss-Wright Plant / 1958 / FBI-UAP-D012.pdf#ep6",
+      "occurred_at": "1958-12-14",
+      "location_text": "Helm Ave., Woodbridge, N.J., above Curtiss-Wright Plant",
+      "member_case_ids": [
+        "1958-FBI-420E8E"
+      ],
+      "source_roles": [
+        {
+          "filename": "FBI-UAP-D012.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 6 of 14 from FBI-UAP-D012.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0040",
+      "label": "8 arYard Terrace, Weat Orange, N.J. / 1958 / FBI-UAP-D012.pdf#ep7",
+      "occurred_at": "1958-12-14",
+      "location_text": "8 arYard Terrace, Weat Orange, N.J.",
+      "member_case_ids": [
+        "1958-FBI-D3842E"
+      ],
+      "source_roles": [
+        {
+          "filename": "FBI-UAP-D012.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 7 of 14 from FBI-UAP-D012.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0041",
+      "label": "unspecified / 1958 / FBI-UAP-D012.pdf#ep8",
+      "occurred_at": "1958-12-14",
+      "location_text": null,
+      "member_case_ids": [
+        "1958-FBI-6DD6C7"
+      ],
+      "source_roles": [
+        {
+          "filename": "FBI-UAP-D012.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 8 of 14 from FBI-UAP-D012.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0042",
+      "label": "Hamilton area, N.J. (near Trenton) / 1959 / FBI-UAP-D012.pdf#ep9",
+      "occurred_at": "1959-10-28",
+      "location_text": "Hamilton area, N.J. (near Trenton)",
+      "member_case_ids": [
+        "1959-FBI-BA1A63"
+      ],
+      "source_roles": [
+        {
+          "filename": "FBI-UAP-D012.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 9 of 14 from FBI-UAP-D012.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0043",
+      "label": "First Presbyterian Church, Bronx, N.Y.C. / 1960 / FBI-UAP-D012.pdf#ep10",
+      "occurred_at": "1960-01-16",
+      "location_text": "First Presbyterian Church, Bronx, N.Y.C.",
+      "member_case_ids": [
+        "1960-FBI-A1F54A"
+      ],
+      "source_roles": [
+        {
+          "filename": "FBI-UAP-D012.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 10 of 14 from FBI-UAP-D012.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0044",
+      "label": "West Paterson, N.J. / 1960 / FBI-UAP-D012.pdf#ep11",
+      "occurred_at": "1960-01-16",
+      "location_text": "West Paterson, N.J.",
+      "member_case_ids": [
+        "1960-FBI-147E91"
+      ],
+      "source_roles": [
+        {
+          "filename": "FBI-UAP-D012.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 11 of 14 from FBI-UAP-D012.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0045",
+      "label": "Springfield, N.J. / 1960 / FBI-UAP-D012.pdf#ep12",
+      "occurred_at": "1960-01-16",
+      "location_text": "Springfield, N.J.",
+      "member_case_ids": [
+        "1960-FBI-8DA237"
+      ],
+      "source_roles": [
+        {
+          "filename": "FBI-UAP-D012.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 12 of 14 from FBI-UAP-D012.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0046",
+      "label": "Bloomfield, N.J. / 1960 / FBI-UAP-D012.pdf#ep13",
+      "occurred_at": "1960-02-27",
+      "location_text": "Bloomfield, N.J.",
+      "member_case_ids": [
+        "1960-FBI-DE8CB5"
+      ],
+      "source_roles": [
+        {
+          "filename": "FBI-UAP-D012.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 13 of 14 from FBI-UAP-D012.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0047",
+      "label": "West Orange, N.J. / 1966 / FBI-UAP-D012.pdf#ep14",
+      "occurred_at": "1966-07-11",
+      "location_text": "West Orange, N.J.",
+      "member_case_ids": [
+        "1966-OTHER-0D00E1"
+      ],
+      "source_roles": [
+        {
+          "filename": "FBI-UAP-D012.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 14 of 14 from FBI-UAP-D012.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0048",
+      "label": "crimea / undated / CIA-UAP-010.pdf#ep1",
+      "occurred_at": null,
+      "location_text": "Crimean Astrophysical Observatory, Crimea",
+      "member_case_ids": [
+        "UNDATED-CIA-02F984"
+      ],
+      "source_roles": [
+        {
+          "filename": "CIA-UAP-010.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 1 of 1 from CIA-UAP-010.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0049",
+      "label": "sary shagan / 1973 / CIA-UAP-011.pdf#ep1",
+      "occurred_at": null,
+      "location_text": "Site 7, Sary Shagan weapons testing range",
+      "member_case_ids": [
+        "UNDATED-CIA-158652"
+      ],
+      "source_roles": [
+        {
+          "filename": "CIA-UAP-011.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 1 of 1 from CIA-UAP-011.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0050",
+      "label": "Yorkshire, Britain / undated / CIA-UAP-014.pdf#ep1",
+      "occurred_at": null,
+      "location_text": "Yorkshire, Britain",
+      "member_case_ids": [
+        "UNDATED-RAF-9CE431"
+      ],
+      "source_roles": [
+        {
+          "filename": "CIA-UAP-014.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 1 of 1 from CIA-UAP-014.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0051",
+      "label": "western United States / undated / DOW-UAP-D078.pdf#ep1",
+      "occurred_at": null,
+      "location_text": "western United States",
+      "member_case_ids": [
+        "UNDATED-FBI-42C272"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D078.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 1 of 3 from DOW-UAP-D078.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0052",
+      "label": "western United States / undated / DOW-UAP-D078.pdf#ep2",
+      "occurred_at": null,
+      "location_text": "western United States",
+      "member_case_ids": [
+        "UNDATED-FBI-B8A3AB"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D078.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 2 of 3 from DOW-UAP-D078.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0053",
+      "label": "western United States / undated / DOW-UAP-D078.pdf#ep3",
+      "occurred_at": null,
+      "location_text": "western United States",
+      "member_case_ids": [
+        "UNDATED-FBI-C98A18"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D078.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 3 of 3 from DOW-UAP-D078.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0054",
+      "label": "valley, with mountain ranges to the west and east and more distant ranges to the north / 1900 / DOW-UAP-D080.pdf#ep1",
+      "occurred_at": null,
+      "location_text": "valley, with mountain ranges to the west and east and more distant ranges to the north",
+      "member_case_ids": [
+        "UNDATED-OTHER-7258F0"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D080.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 1 of 3 from DOW-UAP-D080.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0055",
+      "label": "valley, northwest on rural highway then dirt road heading north/northeast / 1900 / DOW-UAP-D080.pdf#ep2",
+      "occurred_at": null,
+      "location_text": "valley, northwest on rural highway then dirt road heading north/northeast",
+      "member_case_ids": [
+        "UNDATED-OTHER-F8E57A"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D080.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 2 of 3 from DOW-UAP-D080.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0056",
+      "label": "rural highway approximately one to two miles northwest of observation point / undated / DOW-UAP-D080.pdf#ep3",
+      "occurred_at": null,
+      "location_text": "rural highway approximately one to two miles northwest of observation point",
+      "member_case_ids": [
+        "UNDATED-OTHER-B40E2C"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D080.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 3 of 3 from DOW-UAP-D080.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0057",
+      "label": "western United States, near an airfield / 2023 / DOW-UAP-D081.pdf#ep1",
+      "occurred_at": null,
+      "location_text": "western United States, near an airfield",
+      "member_case_ids": [
+        "UNDATED-OTHER-C1D19C"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D081.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 1 of 1 from DOW-UAP-D081.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0058",
+      "label": "western United States / 2023 / DOW-UAP-D082.pdf#ep1",
+      "occurred_at": null,
+      "location_text": "western United States",
+      "member_case_ids": [
+        "UNDATED-FBI-82CCDD",
+        "UNDATED-FBI-F4CE38",
+        "UNDATED-FBI-AF6C31",
+        "UNDATED-FBI-15D04A"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D082.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 1 of 5 from DOW-UAP-D082.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0060",
+      "label": "western United States / undated / DOW-UAP-D082.pdf#ep2",
+      "occurred_at": null,
+      "location_text": "western United States",
+      "member_case_ids": [
+        "UNDATED-FBI-FEDFE7",
+        "UNDATED-FBI-4557DC",
+        "UNDATED-FBI-2EAE94",
+        "UNDATED-FBI-42FC0E",
+        "UNDATED-FBI-578E28"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D082.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 2 of 5 from DOW-UAP-D082.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0062",
+      "label": "western United States / undated / DOW-UAP-D082.pdf#ep3",
+      "occurred_at": null,
+      "location_text": "western United States",
+      "member_case_ids": [
+        "UNDATED-FBI-4FF3BA"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D082.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 3 of 5 from DOW-UAP-D082.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0063",
+      "label": "western United States / undated / DOW-UAP-D082.pdf#ep4",
+      "occurred_at": null,
+      "location_text": "western United States",
+      "member_case_ids": [
+        "UNDATED-FBI-09122D"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D082.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 4 of 5 from DOW-UAP-D082.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0064",
+      "label": "western United States / undated / DOW-UAP-D082.pdf#ep5",
+      "occurred_at": null,
+      "location_text": "western United States",
+      "member_case_ids": [
+        "UNDATED-FBI-C4AD20"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D082.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 5 of 5 from DOW-UAP-D082.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0065",
+      "label": "Western United States, distinctive peak in ridge line / undated / DOW-UAP-D083.pdf#ep1",
+      "occurred_at": null,
+      "location_text": "Western United States, distinctive peak in ridge line",
+      "member_case_ids": [
+        "UNDATED-DOW-03C815"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D083.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 1 of 5 from DOW-UAP-D083.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0066",
+      "label": "Western United States, north and slightly west of observation point / 1918 / DOW-UAP-D083.pdf#ep2",
+      "occurred_at": null,
+      "location_text": "Western United States, north and slightly west of observation point",
+      "member_case_ids": [
+        "UNDATED-DOW-8BB3D1"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D083.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 2 of 5 from DOW-UAP-D083.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0067",
+      "label": "Western United States, left side of observation point / 1937 / DOW-UAP-D083.pdf#ep3",
+      "occurred_at": null,
+      "location_text": "Western United States, left side of observation point",
+      "member_case_ids": [
+        "UNDATED-DOW-0AF53F"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D083.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 3 of 5 from DOW-UAP-D083.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0068",
+      "label": "Western United States, near lake and base, along road / undated / DOW-UAP-D083.pdf#ep4",
+      "occurred_at": null,
+      "location_text": "Western United States, near lake and base, along road",
+      "member_case_ids": [
+        "UNDATED-DOW-75EF1D"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D083.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 4 of 5 from DOW-UAP-D083.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0069",
+      "label": "Western United States, near sighting location / undated / DOW-UAP-D083.pdf#ep5",
+      "occurred_at": null,
+      "location_text": "Western United States, near sighting location",
+      "member_case_ids": [
+        "UNDATED-DOW-94EB50"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D083.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 5 of 5 from DOW-UAP-D083.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0070",
+      "label": "manitou / undated / DOW-UAP-D087.pdf#ep1",
+      "occurred_at": null,
+      "location_text": "area just north of Manitou",
+      "member_case_ids": [
+        "UNDATED-DOW-D2FE27"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D087.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 1 of 5 from DOW-UAP-D087.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0071",
+      "label": "hartford / undated / DOW-UAP-D087.pdf#ep2",
+      "occurred_at": null,
+      "location_text": "Hartford, Conn.",
+      "member_case_ids": [
+        "UNDATED-USAF-F1A24F"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D087.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 2 of 5 from DOW-UAP-D087.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0072",
+      "label": "lovelock / 1947 / DOW-UAP-D087.pdf#ep3",
+      "occurred_at": "1947-12-30",
+      "location_text": "30 miles west of Lovelock, Nevada",
+      "member_case_ids": [
+        "1947-DOW-7D054B"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D087.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 3 of 5 from DOW-UAP-D087.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0073",
+      "label": "medford / 1947 / DOW-UAP-D087.pdf#ep4",
+      "occurred_at": "1947-12-30",
+      "location_text": "between Medford, Oregon & Mt Shasta, California",
+      "member_case_ids": [
+        "1947-DOW-955BAE"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D087.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 4 of 5 from DOW-UAP-D087.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0074",
+      "label": "houston / undated / DOW-UAP-D087.pdf#ep5",
+      "occurred_at": null,
+      "location_text": "Anderson Road, Houston, Texas",
+      "member_case_ids": [
+        "UNDATED-DOW-6EE85A"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D087.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 5 of 5 from DOW-UAP-D087.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0075",
+      "label": "near residence / 2024 / FBI-UAP-D004.pdf#ep1",
+      "occurred_at": null,
+      "location_text": "near residence",
+      "member_case_ids": [
+        "UNDATED-FBI-14BE00"
+      ],
+      "source_roles": [
+        {
+          "filename": "FBI-UAP-D004.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 1 of 2 from FBI-UAP-D004.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0076",
+      "label": "behind residence, vicinity of residence, within trees, near water / 2021 / FBI-UAP-D004.pdf#ep2",
+      "occurred_at": null,
+      "location_text": "behind residence, vicinity of residence, within trees, near water",
+      "member_case_ids": [
+        "UNDATED-FBI-A1566D"
+      ],
+      "source_roles": [
+        {
+          "filename": "FBI-UAP-D004.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 2 of 2 from FBI-UAP-D004.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0077",
+      "label": "back window of property / 2021 / FBI-UAP-D005.pdf#ep1",
+      "occurred_at": null,
+      "location_text": "back window of property",
+      "member_case_ids": [
+        "UNDATED-FBI-380101"
+      ],
+      "source_roles": [
+        {
+          "filename": "FBI-UAP-D005.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 1 of 3 from FBI-UAP-D005.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0078",
+      "label": "unspecified / 2022 / FBI-UAP-D005.pdf#ep2",
+      "occurred_at": null,
+      "location_text": null,
+      "member_case_ids": [
+        "UNDATED-FBI-E92455"
+      ],
+      "source_roles": [
+        {
+          "filename": "FBI-UAP-D005.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 2 of 3 from FBI-UAP-D005.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0079",
+      "label": "New Mexico, between Fort Bliss, TX and Fort Carson, CO / 1996 / FBI-UAP-D005.pdf#ep3",
+      "occurred_at": null,
+      "location_text": "New Mexico, between Fort Bliss, TX and Fort Carson, CO",
+      "member_case_ids": [
+        "UNDATED-USA-AEFAE6"
+      ],
+      "source_roles": [
+        {
+          "filename": "FBI-UAP-D005.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 3 of 3 from FBI-UAP-D005.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0080",
+      "label": "northern edge of [location], patio on north side of home / undated / FBI-UAP-D007.pdf#ep1",
+      "occurred_at": null,
+      "location_text": "northern edge of [location], patio on north side of home",
+      "member_case_ids": [
+        "UNDATED-FBI-8BCB6F"
+      ],
+      "source_roles": [
+        {
+          "filename": "FBI-UAP-D007.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 1 of 4 from FBI-UAP-D007.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0081",
+      "label": "tree line to the west of home / undated / FBI-UAP-D007.pdf#ep2",
+      "occurred_at": null,
+      "location_text": "tree line to the west of home",
+      "member_case_ids": [
+        "UNDATED-FBI-D8E5B9"
+      ],
+      "source_roles": [
+        {
+          "filename": "FBI-UAP-D007.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 2 of 4 from FBI-UAP-D007.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0082",
+      "label": "tree line to the west of home / undated / FBI-UAP-D007.pdf#ep3",
+      "occurred_at": null,
+      "location_text": "tree line to the west of home",
+      "member_case_ids": [
+        "UNDATED-FBI-3994E8"
+      ],
+      "source_roles": [
+        {
+          "filename": "FBI-UAP-D007.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 3 of 4 from FBI-UAP-D007.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0083",
+      "label": "far end of pond, rear of home / undated / FBI-UAP-D007.pdf#ep4",
+      "occurred_at": null,
+      "location_text": "far end of pond, rear of home",
+      "member_case_ids": [
+        "UNDATED-FBI-0F4A44"
+      ],
+      "source_roles": [
+        {
+          "filename": "FBI-UAP-D007.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 4 of 4 from FBI-UAP-D007.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0084",
+      "label": "unspecified / 2024 / FBI-UAP-D008.pdf#ep1",
+      "occurred_at": null,
+      "location_text": null,
+      "member_case_ids": [
+        "UNDATED-FBI-3A201E"
+      ],
+      "source_roles": [
+        {
+          "filename": "FBI-UAP-D008.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 1 of 1 from FBI-UAP-D008.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0085",
+      "label": "near Australia / undated / NASA-UAP-D017.pdf#ep1",
+      "occurred_at": null,
+      "location_text": "near Australia",
+      "member_case_ids": [
+        "UNDATED-NASA-282EB0"
+      ],
+      "source_roles": [
+        {
+          "filename": "NASA-UAP-D017.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 1 of 1 from NASA-UAP-D017.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0086",
+      "label": "In orbit, between Carnarvon and Hawaii / undated / NASA-UAP-D019.pdf#ep1",
+      "occurred_at": null,
+      "location_text": "In orbit, between Carnarvon and Hawaii",
+      "member_case_ids": [
+        "UNDATED-USN-35D21A"
+      ],
+      "source_roles": [
+        {
+          "filename": "NASA-UAP-D019.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 1 of 1 from NASA-UAP-D019.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0087",
+      "label": "In orbit during GT-5 mission / undated / NASA-UAP-D020.pdf#ep1",
+      "occurred_at": null,
+      "location_text": "In orbit during GT-5 mission",
+      "member_case_ids": [
+        "UNDATED-NASA-6147BE"
+      ],
+      "source_roles": [
+        {
+          "filename": "NASA-UAP-D020.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 1 of 3 from NASA-UAP-D020.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0088",
+      "label": "orbital flight / undated / NASA-UAP-D020.pdf#ep2",
+      "occurred_at": null,
+      "location_text": "orbital flight",
+      "member_case_ids": [
+        "UNDATED-NASA-3A98D5"
+      ],
+      "source_roles": [
+        {
+          "filename": "NASA-UAP-D020.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 2 of 3 from NASA-UAP-D020.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0089",
+      "label": "during reentry, south side of orbit / undated / NASA-UAP-D020.pdf#ep3",
+      "occurred_at": null,
+      "location_text": "during reentry, south side of orbit",
+      "member_case_ids": [
+        "UNDATED-NASA-481954"
+      ],
+      "source_roles": [
+        {
+          "filename": "NASA-UAP-D020.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 3 of 3 from NASA-UAP-D020.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0090",
+      "label": "Orbital flight, approximately 16 hours 40 minutes after launch / undated / NASA-UAP-D021.pdf#ep1",
+      "occurred_at": null,
+      "location_text": "Orbital flight, approximately 16 hours 40 minutes after launch",
+      "member_case_ids": [
+        "UNDATED-NASA-2DBAFB"
+      ],
+      "source_roles": [
+        {
+          "filename": "NASA-UAP-D021.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 1 of 1 from NASA-UAP-D021.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0091",
+      "label": "boise / 1947 / DOW-UAP-D088.pdf#ep1",
+      "occurred_at": "1947-06-02",
+      "location_text": "Boise, Idaho",
+      "member_case_ids": [
+        "1947-DOW-AE5FD0"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 1 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0092",
+      "label": "fort ross / 1947 / DOW-UAP-D088.pdf#ep2",
+      "occurred_at": "1947-07-03",
+      "location_text": "near Fort Ross, Sonoma County, California",
+      "member_case_ids": [
+        "1947-USN-0A0B7C"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 2 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0093",
+      "label": "approximately 400 miles west of San Francisco, Pacific Ocean / 1947 / DOW-UAP-D088.pdf#ep3",
+      "occurred_at": "1947-11-24",
+      "location_text": "approximately 400 miles west of San Francisco, Pacific Ocean",
+      "member_case_ids": [
+        "1947-USN-2B1C80"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 3 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0094",
+      "label": "green / 1948 / DOW-UAP-D088.pdf#ep4",
+      "occurred_at": "1948-02-18",
+      "location_text": "39\u00b0 N-100\u00b0 W near Green River, Utah, approximately 100 miles southeast of B-29s",
+      "member_case_ids": [
+        "1948-USAF-BBF693"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 4 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0095",
+      "label": "smyrna / undated / DOW-UAP-D088.pdf#ep5",
+      "occurred_at": null,
+      "location_text": "Smyrna AAF",
+      "member_case_ids": [
+        "UNDATED-USAF-FE3BFB"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 5 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0096",
+      "label": "Belmont, N.C. (Sighted from ground) / 1948 / DOW-UAP-D088.pdf#ep6",
+      "occurred_at": "1948-03-01",
+      "location_text": "Belmont, N.C. (Sighted from ground)",
+      "member_case_ids": [
+        "1948-DOW-0A7390"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 6 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0097",
+      "label": "bakersfield / 1948 / DOW-UAP-D088.pdf#ep7",
+      "occurred_at": "1948-03-05",
+      "location_text": "Bakersfield, California, southwest toward Buena Vista Lake",
+      "member_case_ids": [
+        "1948-USAF-1F9AD2"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 7 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0098",
+      "label": "bakersfield / 1948 / DOW-UAP-D088.pdf#ep8",
+      "occurred_at": "1948-03-08",
+      "location_text": "Bakersfield, California, due north approximately five miles distance",
+      "member_case_ids": [
+        "1948-USAF-B2CFCE"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 8 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0099",
+      "label": "bakersfield / 1948 / DOW-UAP-D088.pdf#ep9",
+      "occurred_at": "1948-03-08",
+      "location_text": "North of Bakersfield, California",
+      "member_case_ids": [
+        "1948-USAF-27805A"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 9 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0100",
+      "label": "bakersfield / 1948 / DOW-UAP-D088.pdf#ep10",
+      "occurred_at": "1948-03-09",
+      "location_text": "Bakersfield, California, due north seven to ten miles distant",
+      "member_case_ids": [
+        "1948-USAF-86200B"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 10 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0101",
+      "label": "Philippine Islands, 12\u00b052' North, 124\u00b03' East / 1948 / DOW-UAP-D088.pdf#ep11",
+      "occurred_at": "1948-04-01",
+      "location_text": "Philippine Islands, 12\u00b052' North, 124\u00b03' East",
+      "member_case_ids": [
+        "1948-USAF-B87733"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 11 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0102",
+      "label": "124 degrees 3 minutes East, 12 degrees 52 minutes North / 1948 / DOW-UAP-D088.pdf#ep12",
+      "occurred_at": "1948-04-01",
+      "location_text": "124 degrees 3 minutes East, 12 degrees 52 minutes North",
+      "member_case_ids": [
+        "1948-USAF-F2241E"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 12 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0103",
+      "label": "Ashley, Ohio / 1948 / DOW-UAP-D088.pdf#ep13",
+      "occurred_at": "1948-04-08",
+      "location_text": "Ashley, Ohio",
+      "member_case_ids": [
+        "1948-DOW-18E973"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 13 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0104",
+      "label": "Delaware, Ohio / 1948 / DOW-UAP-D088.pdf#ep14",
+      "occurred_at": "1948-04-08",
+      "location_text": "Delaware, Ohio",
+      "member_case_ids": [
+        "1948-DOW-8D6B91"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 14 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0105",
+      "label": "Delaware, Ohio / 1948 / DOW-UAP-D088.pdf#ep15",
+      "occurred_at": "1948-04-08",
+      "location_text": "Delaware, Ohio",
+      "member_case_ids": [
+        "1948-DOW-073986"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 15 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0106",
+      "label": "Montgomery, Alabama / 1948 / DOW-UAP-D088.pdf#ep16",
+      "occurred_at": "1948-04-09",
+      "location_text": "Montgomery, Alabama",
+      "member_case_ids": [
+        "1948-USAF-929659"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 16 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0107",
+      "label": "Approx 1 mile north of Fairbanks, Alaska / 2000 / DOW-UAP-D088.pdf#ep17",
+      "occurred_at": null,
+      "location_text": "Approx 1 mile north of Fairbanks, Alaska",
+      "member_case_ids": [
+        "UNDATED-USAF-C065FF"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 17 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0108",
+      "label": "Over Greenville AF Base, Greenville, S.C. / undated / DOW-UAP-D088.pdf#ep18",
+      "occurred_at": null,
+      "location_text": "Over Greenville AF Base, Greenville, S.C.",
+      "member_case_ids": [
+        "UNDATED-USAF-1173FB"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 18 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0109",
+      "label": "Near shores of James Bay, Moose Factory, Ontario, Canada / undated / DOW-UAP-D088.pdf#ep19",
+      "occurred_at": null,
+      "location_text": "Near shores of James Bay, Moose Factory, Ontario, Canada",
+      "member_case_ids": [
+        "UNDATED-DOW-96E4D5"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 19 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0110",
+      "label": "Memphis, Tennessee / undated / DOW-UAP-D088.pdf#ep20",
+      "occurred_at": null,
+      "location_text": "Memphis, Tennessee",
+      "member_case_ids": [
+        "UNDATED-DOW-779C5B"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 20 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0111",
+      "label": "Berlin Lichtenrade, Kirchbachstrasse 2 / undated / DOW-UAP-D088.pdf#ep21",
+      "occurred_at": null,
+      "location_text": "Berlin Lichtenrade, Kirchbachstrasse 2",
+      "member_case_ids": [
+        "UNDATED-DOW-866540"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 21 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0112",
+      "label": "Asuncion, Paraguay / undated / DOW-UAP-D088.pdf#ep22",
+      "occurred_at": null,
+      "location_text": "Asuncion, Paraguay",
+      "member_case_ids": [
+        "UNDATED-DOW-9B5D75"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 22 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0113",
+      "label": "Aregua - 10 miles east of Asuncion, Paraguay / undated / DOW-UAP-D088.pdf#ep23",
+      "occurred_at": null,
+      "location_text": "Aregua - 10 miles east of Asuncion, Paraguay",
+      "member_case_ids": [
+        "UNDATED-DOW-01F83D"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 23 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0114",
+      "label": "Villa Hayes (10 miles NE of Asuncion), Paraguay / undated / DOW-UAP-D088.pdf#ep24",
+      "occurred_at": null,
+      "location_text": "Villa Hayes (10 miles NE of Asuncion), Paraguay",
+      "member_case_ids": [
+        "UNDATED-DOW-425D55"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 24 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0115",
+      "label": "Gadbjerg (ner Vejle), Denmark / undated / DOW-UAP-D088.pdf#ep25",
+      "occurred_at": null,
+      "location_text": "Gadbjerg (ner Vejle), Denmark",
+      "member_case_ids": [
+        "UNDATED-DOW-624838"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 25 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0116",
+      "label": "Cartersville, Georgia, 34\u00b0 10' N, 84\u00b0 gt W / 1918 / DOW-UAP-D088.pdf#ep26",
+      "occurred_at": "1918-01-09",
+      "location_text": "Cartersville, Georgia, 34\u00b0 10' N, 84\u00b0 gt W",
+      "member_case_ids": [
+        "1918-RAF-66D199"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 26 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0117",
+      "label": "Holloman Air Force Base / undated / DOW-UAP-D088.pdf#ep27",
+      "occurred_at": null,
+      "location_text": "Holloman Air Force Base",
+      "member_case_ids": [
+        "UNDATED-USAF-5E9B99"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 27 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0118",
+      "label": "Holloman Air Force Base / 1948 / DOW-UAP-D088.pdf#ep28",
+      "occurred_at": "1948-04-05",
+      "location_text": "Holloman Air Force Base",
+      "member_case_ids": [
+        "1948-USAF-D96E2B"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 28 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0119",
+      "label": "unspecified / 1948 / DOW-UAP-D088.pdf#ep29",
+      "occurred_at": "1948-04-18",
+      "location_text": null,
+      "member_case_ids": [
+        "1948-USAF-A09FD8"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 29 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0120",
+      "label": "St. Louis, Missouri, 0\u00b000'N 90\u00b015'W / undated / DOW-UAP-D088.pdf#ep30",
+      "occurred_at": null,
+      "location_text": "St. Louis, Missouri, 0\u00b000'N 90\u00b015'W",
+      "member_case_ids": [
+        "UNDATED-DOW-BBB35B"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 30 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0121",
+      "label": "between Plevna and Miles City Montana on U.S. Highway 12 / 1948 / DOW-UAP-D088.pdf#ep31",
+      "occurred_at": "1948-05-17",
+      "location_text": "between Plevna and Miles City Montana on U.S. Highway 12",
+      "member_case_ids": [
+        "1948-DOW-722CFD"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 31 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0122",
+      "label": "Knoxville, Tenn / undated / DOW-UAP-D088.pdf#ep32",
+      "occurred_at": null,
+      "location_text": "Knoxville, Tenn",
+      "member_case_ids": [
+        "UNDATED-DOW-5058DD"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 32 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0123",
+      "label": "Chapel Hill, N. C. / undated / DOW-UAP-D088.pdf#ep33",
+      "occurred_at": null,
+      "location_text": "Chapel Hill, N. C.",
+      "member_case_ids": [
+        "UNDATED-USN-C339A5"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 33 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0124",
+      "label": "Chapel Hill, N. C. / undated / DOW-UAP-D088.pdf#ep34",
+      "occurred_at": null,
+      "location_text": "Chapel Hill, N. C.",
+      "member_case_ids": [
+        "UNDATED-USA-457EEB"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 34 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0125",
+      "label": "Columbus, O. / undated / DOW-UAP-D088.pdf#ep35",
+      "occurred_at": null,
+      "location_text": "Columbus, O.",
+      "member_case_ids": [
+        "UNDATED-DOW-37819C"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 35 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0126",
+      "label": "Osborn, Ohio / 1948 / DOW-UAP-D088.pdf#ep36",
+      "occurred_at": "1948-07-09",
+      "location_text": "Osborn, Ohio",
+      "member_case_ids": [
+        "1948-USAF-3E07D2"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 36 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0127",
+      "label": "Gahanna, Ohio / 1918 / DOW-UAP-D088.pdf#ep37",
+      "occurred_at": null,
+      "location_text": "Gahanna, Ohio",
+      "member_case_ids": [
+        "UNDATED-DOW-D5C0FB"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 37 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0128",
+      "label": "20 miles south of Montgomery, Ala / undated / DOW-UAP-D088.pdf#ep38",
+      "occurred_at": null,
+      "location_text": "20 miles south of Montgomery, Ala",
+      "member_case_ids": [
+        "UNDATED-DOW-92AE9A"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 38 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0129",
+      "label": "Near Blackstone, Va. enroute to Raleigh-Durham / 1948 / DOW-UAP-D088.pdf#ep39",
+      "occurred_at": "1948-07-24",
+      "location_text": "Near Blackstone, Va. enroute to Raleigh-Durham",
+      "member_case_ids": [
+        "1948-OTHER-E7312A"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 39 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0130",
+      "label": "Atlanta area, enroute from Blackstone, Va. / 1948 / DOW-UAP-D088.pdf#ep40",
+      "occurred_at": "1948-07-24",
+      "location_text": "Atlanta area, enroute from Blackstone, Va.",
+      "member_case_ids": [
+        "1948-OTHER-73290C"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 40 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0131",
+      "label": "Twenty miles southwest of Montgomery, Alabama / 1948 / DOW-UAP-D088.pdf#ep41",
+      "occurred_at": "1948-07-24",
+      "location_text": "Twenty miles southwest of Montgomery, Alabama",
+      "member_case_ids": [
+        "1948-OTHER-65F11F"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 41 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0132",
+      "label": "Fielding Lake, Alaska (63.5\u00b0) / 1948 / DOW-UAP-D088.pdf#ep42",
+      "occurred_at": "1948-07-09",
+      "location_text": "Fielding Lake, Alaska (63.5\u00b0)",
+      "member_case_ids": [
+        "1948-USAF-77483D"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 42 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0133",
+      "label": "Vicinity of San Acacia Dam, 65 miles south of Albuquerque / 1948 / DOW-UAP-D088.pdf#ep43",
+      "occurred_at": "1948-07-17",
+      "location_text": "Vicinity of San Acacia Dam, 65 miles south of Albuquerque",
+      "member_case_ids": [
+        "1948-USAF-35413D"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 43 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0134",
+      "label": "Springfield, Ohio / 1948 / DOW-UAP-D088.pdf#ep44",
+      "occurred_at": "1948-07-27",
+      "location_text": "Springfield, Ohio",
+      "member_case_ids": [
+        "1948-DOW-D131B8"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 44 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0135",
+      "label": "826 Dibert Ave., Springfield, Ohio / 1948 / DOW-UAP-D088.pdf#ep45",
+      "occurred_at": "1948-07-26",
+      "location_text": "826 Dibert Ave., Springfield, Ohio",
+      "member_case_ids": [
+        "1948-DOW-40B1D6"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 45 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0136",
+      "label": "North Jutland (Hjerrin, the Scaw and Hjerup) / 1948 / DOW-UAP-D088.pdf#ep46",
+      "occurred_at": "1948-01-19",
+      "location_text": "North Jutland (Hjerrin, the Scaw and Hjerup)",
+      "member_case_ids": [
+        "1948-DOW-6EEA6C"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 46 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0137",
+      "label": "unspecified / undated / DOW-UAP-D088.pdf#ep47",
+      "occurred_at": null,
+      "location_text": null,
+      "member_case_ids": [
+        "UNDATED-DOW-A22A98"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 47 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0138",
+      "label": "Columbus, Ohio - Trement Rd near WSU radio tower / 1948 / DOW-UAP-D088.pdf#ep48",
+      "occurred_at": "1948-07-31",
+      "location_text": "Columbus, Ohio - Trement Rd near WSU radio tower",
+      "member_case_ids": [
+        "1948-DOW-1A4F34"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 48 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0139",
+      "label": "Columbus, Ohio near University Golf Course / 1948 / DOW-UAP-D088.pdf#ep49",
+      "occurred_at": "1948-07-31",
+      "location_text": "Columbus, Ohio near University Golf Course",
+      "member_case_ids": [
+        "1948-DOW-6DAE54"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 49 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0140",
+      "label": "Groveport, Ohio - 1 mile west / undated / DOW-UAP-D088.pdf#ep50",
+      "occurred_at": null,
+      "location_text": "Groveport, Ohio - 1 mile west",
+      "member_case_ids": [
+        "UNDATED-DOW-8A48B2"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 50 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0141",
+      "label": "Worthington, Ohio / 1948 / DOW-UAP-D088.pdf#ep51",
+      "occurred_at": "1948-07-30",
+      "location_text": "Worthington, Ohio",
+      "member_case_ids": [
+        "1948-USAF-9D72CC"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 51 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0142",
+      "label": "Dravosburg, Pennsylvania / 1948 / DOW-UAP-D088.pdf#ep52",
+      "occurred_at": "1948-07-04",
+      "location_text": "Dravosburg, Pennsylvania",
+      "member_case_ids": [
+        "1948-DOW-D2977F"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 52 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0143",
+      "label": "Hamel, Minnesota - back yard / 1948 / DOW-UAP-D088.pdf#ep53",
+      "occurred_at": "1948-08-11",
+      "location_text": "Hamel, Minnesota - back yard",
+      "member_case_ids": [
+        "1948-DOW-74961C"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 53 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0144",
+      "label": "Van Nuys, California / undated / DOW-UAP-D088.pdf#ep54",
+      "occurred_at": null,
+      "location_text": "Van Nuys, California",
+      "member_case_ids": [
+        "UNDATED-DOW-F389BF"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 54 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0145",
+      "label": "Uniontown, Pa. - Observer's front porch at 38 Kensington Circle / undated / DOW-UAP-D088.pdf#ep55",
+      "occurred_at": null,
+      "location_text": "Uniontown, Pa. - Observer's front porch at 38 Kensington Circle",
+      "member_case_ids": [
+        "UNDATED-DOW-9433CF"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 55 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0146",
+      "label": "Chamblee, Ga. - Observation tower at Atlanta Naval Air Base / 1948 / DOW-UAP-D088.pdf#ep56",
+      "occurred_at": "1948-07-26",
+      "location_text": "Chamblee, Ga. - Observation tower at Atlanta Naval Air Base",
+      "member_case_ids": [
+        "1948-USN-A1B75A"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 56 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0147",
+      "label": "Los Angeles, Calif. - 1301 W. Olympic Blvd. / undated / DOW-UAP-D088.pdf#ep57",
+      "occurred_at": null,
+      "location_text": "Los Angeles, Calif. - 1301 W. Olympic Blvd.",
+      "member_case_ids": [
+        "UNDATED-USAF-32B1F2"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 57 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0148",
+      "label": "19\u00b0 08' WN = 164\u00b0 05' E between Kwajalein Island, Marshall Islands and Hickam Field / 1948 / DOW-UAP-D088.pdf#ep58",
+      "occurred_at": "1948-05-06",
+      "location_text": "19\u00b0 08' WN = 164\u00b0 05' E between Kwajalein Island, Marshall Islands and Hickam Field",
+      "member_case_ids": [
+        "1948-USAF-F2CCB5"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 58 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0149",
+      "label": "unspecified / undated / DOW-UAP-D088.pdf#ep59",
+      "occurred_at": null,
+      "location_text": null,
+      "member_case_ids": [
+        "UNDATED-DOW-700A3E"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 59 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0150",
+      "label": "Obrechstreet, Arnhem, The Hague; 52\u00b0 30' N, ye 30' E / 1948 / DOW-UAP-D088.pdf#ep60",
+      "occurred_at": "1948-07-20",
+      "location_text": "Obrechstreet, Arnhem, The Hague; 52\u00b0 30' N, ye 30' E",
+      "member_case_ids": [
+        "1948-DOW-5CD5DF"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 60 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0151",
+      "label": "Maplewood, Ohio / 1948 / DOW-UAP-D088.pdf#ep61",
+      "occurred_at": "1948-08-29",
+      "location_text": "Maplewood, Ohio",
+      "member_case_ids": [
+        "1948-DOW-E9D290"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 61 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0152",
+      "label": "Adapazari, Turkey / undated / DOW-UAP-D088.pdf#ep62",
+      "occurred_at": null,
+      "location_text": "Adapazari, Turkey",
+      "member_case_ids": [
+        "UNDATED-DOW-8C34F5"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 62 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0153",
+      "label": "About 25 kilometers (19 to 20 miles) NW of Moscow / 1948 / DOW-UAP-D088.pdf#ep63",
+      "occurred_at": "1948-08-03",
+      "location_text": "About 25 kilometers (19 to 20 miles) NW of Moscow",
+      "member_case_ids": [
+        "1948-DOW-EC4793"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 63 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0154",
+      "label": "Fargo, N. Dekota from plane over Fargo and vicinity / 1948 / DOW-UAP-D088.pdf#ep64",
+      "occurred_at": "1948-10-01",
+      "location_text": "Fargo, N. Dekota from plane over Fargo and vicinity",
+      "member_case_ids": [
+        "1948-USAF-665866"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 64 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0155",
+      "label": "Fargo N. Dekota Airport - Control Tower of Fargo Airport / 1948 / DOW-UAP-D088.pdf#ep65",
+      "occurred_at": "1948-10-01",
+      "location_text": "Fargo N. Dekota Airport - Control Tower of Fargo Airport",
+      "member_case_ids": [
+        "1948-OTHER-F10B1B"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 65 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0156",
+      "label": "Fargo, N. Dekota Airport - Control tower Fargo, N. D Arpt. / 1948 / DOW-UAP-D088.pdf#ep66",
+      "occurred_at": "1948-10-01",
+      "location_text": "Fargo, N. Dekota Airport - Control tower Fargo, N. D Arpt.",
+      "member_case_ids": [
+        "1948-OTHER-7760B6"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 66 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0157",
+      "label": "Fargo, N. Dekota - from ake Fargo control tower / undated / DOW-UAP-D088.pdf#ep67",
+      "occurred_at": null,
+      "location_text": "Fargo, N. Dekota - from ake Fargo control tower",
+      "member_case_ids": [
+        "UNDATED-DOW-28B571"
+      ],
+      "source_roles": [
+        {
+          "filename": "DOW-UAP-D088.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 67 of 67 from DOW-UAP-D088.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0158",
+      "label": "sand point / 1953 / FBI-UAP-D013.pdf#ep1",
+      "occurred_at": "1953-02-10",
+      "location_text": "Sand Point Naval Air Station, Seattle",
+      "member_case_ids": [
+        "1953-USN-C2999C"
+      ],
+      "source_roles": [
+        {
+          "filename": "FBI-UAP-D013.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 1 of 8 from FBI-UAP-D013.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0159",
+      "label": "sand point / 1953 / FBI-UAP-D013.pdf#ep2",
+      "occurred_at": "1953-02-09",
+      "location_text": "University Bridge, Seattle, over Sand Point Naval Air Station",
+      "member_case_ids": [
+        "1953-USN-573FEC"
+      ],
+      "source_roles": [
+        {
+          "filename": "FBI-UAP-D013.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 2 of 8 from FBI-UAP-D013.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0160",
+      "label": "richland / 1953 / FBI-UAP-D013.pdf#ep3",
+      "occurred_at": "1953-07-15",
+      "location_text": "Richland, Washington",
+      "member_case_ids": [
+        "1953-FBI-A61610"
+      ],
+      "source_roles": [
+        {
+          "filename": "FBI-UAP-D013.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 3 of 8 from FBI-UAP-D013.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0161",
+      "label": "slightly north of Pascos / 1954 / FBI-UAP-D013.pdf#ep4",
+      "occurred_at": "1954-06-06",
+      "location_text": "slightly north of Pascos",
+      "member_case_ids": [
+        "1954-USAF-34B3C0"
+      ],
+      "source_roles": [
+        {
+          "filename": "FBI-UAP-D013.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 4 of 8 from FBI-UAP-D013.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0162",
+      "label": "Georef LE 1604, vicinity of TIMOTHY radar control site / 1954 / FBI-UAP-D013.pdf#ep5",
+      "occurred_at": "1954-06-22",
+      "location_text": "Georef LE 1604, vicinity of TIMOTHY radar control site",
+      "member_case_ids": [
+        "1954-USAF-34623D"
+      ],
+      "source_roles": [
+        {
+          "filename": "FBI-UAP-D013.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 5 of 8 from FBI-UAP-D013.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0163",
+      "label": "kennewick / undated / FBI-UAP-D013.pdf#ep6",
+      "occurred_at": null,
+      "location_text": "vicinity of 1st and Washington, Kennewick, Washington",
+      "member_case_ids": [
+        "UNDATED-USAF-7E6303"
+      ],
+      "source_roles": [
+        {
+          "filename": "FBI-UAP-D013.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 6 of 8 from FBI-UAP-D013.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0164",
+      "label": "McChord Air Force Base, Washington / 1956 / FBI-UAP-D013.pdf#ep7",
+      "occurred_at": "1956-06-12",
+      "location_text": "McChord Air Force Base, Washington",
+      "member_case_ids": [
+        "1956-USAF-A500E2"
+      ],
+      "source_roles": [
+        {
+          "filename": "FBI-UAP-D013.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 7 of 8 from FBI-UAP-D013.pdf"
+      ]
+    },
+    {
+      "event_id": "evt-0165",
+      "label": "seattle / 1959 / FBI-UAP-D013.pdf#ep8",
+      "occurred_at": "1959-10-10",
+      "location_text": "7525 - 28th S. Cas Seattle",
+      "member_case_ids": [
+        "1959-FBI-35647B"
+      ],
+      "source_roles": [
+        {
+          "filename": "FBI-UAP-D013.pdf",
+          "role": "primary_narrative"
+        }
+      ],
+      "notes": [
+        "intra-source episode 8 of 8 from FBI-UAP-D013.pdf"
+      ]
+    }
+  ],
+  "event_members": [
+    {
+      "event_id": "evt-0021",
+      "case_id": "UNDATED-USAF-9CCC64",
+      "source_filename": "CIA-UAP-003.pdf",
+      "role": "observation",
+      "episode_id": "CIA-UAP-003.pdf#ep1"
+    },
+    {
+      "event_id": "evt-0022",
+      "case_id": "1955-CIA-E34C6D",
+      "source_filename": "CIA-UAP-006.pdf",
+      "role": "observation",
+      "episode_id": "CIA-UAP-006.pdf#ep1"
+    },
+    {
+      "event_id": "evt-0023",
+      "case_id": "UNDATED-CIA-96D28F",
+      "source_filename": "CIA-UAP-016.pdf",
+      "role": "observation",
+      "episode_id": "CIA-UAP-016.pdf#ep1"
+    },
+    {
+      "event_id": "evt-0024",
+      "case_id": "1968-CIA-FA829A",
+      "source_filename": "CIA-UAP-016.pdf",
+      "role": "observation",
+      "episode_id": "CIA-UAP-016.pdf#ep2"
+    },
+    {
+      "event_id": "evt-0025",
+      "case_id": "1968-CIA-218E91",
+      "source_filename": "CIA-UAP-016.pdf",
+      "role": "observation",
+      "episode_id": "CIA-UAP-016.pdf#ep3"
+    },
+    {
+      "event_id": "evt-0026",
+      "case_id": "1966-CIA-B2A386",
+      "source_filename": "CIA-UAP-016.pdf",
+      "role": "observation",
+      "episode_id": "CIA-UAP-016.pdf#ep4"
+    },
+    {
+      "event_id": "evt-0027",
+      "case_id": "2008-CIA-052DE8",
+      "source_filename": "CIA-UAP-017.pdf",
+      "role": "observation",
+      "episode_id": "CIA-UAP-017.pdf#ep1"
+    },
+    {
+      "event_id": "evt-0028",
+      "case_id": "UNDATED-FBI-C390B7",
+      "source_filename": "DOW-UAP-D079.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D079.pdf#ep1"
+    },
+    {
+      "event_id": "evt-0029",
+      "case_id": "UNDATED-FBI-031A45",
+      "source_filename": "DOW-UAP-D079.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D079.pdf#ep2"
+    },
+    {
+      "event_id": "evt-0030",
+      "case_id": "UNDATED-FBI-CD3613",
+      "source_filename": "DOW-UAP-D079.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D079.pdf#ep3"
+    },
+    {
+      "event_id": "evt-0031",
+      "case_id": "UNDATED-FBI-63F44E",
+      "source_filename": "DOW-UAP-D079.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D079.pdf#ep4"
+    },
+    {
+      "event_id": "evt-0032",
+      "case_id": "UNDATED-USA-599D8B",
+      "source_filename": "FBI-UAP-D002.pdf",
+      "role": "observation",
+      "episode_id": "FBI-UAP-D002.pdf#ep1"
+    },
+    {
+      "event_id": "evt-0033",
+      "case_id": "UNDATED-FBI-DA1DE3",
+      "source_filename": "FBI-UAP-D009.pdf",
+      "role": "observation",
+      "episode_id": "FBI-UAP-D009.pdf#ep1"
+    },
+    {
+      "event_id": "evt-0034",
+      "case_id": "1957-FBI-DB9934",
+      "source_filename": "FBI-UAP-D012.pdf",
+      "role": "observation",
+      "episode_id": "FBI-UAP-D012.pdf#ep1"
+    },
+    {
+      "event_id": "evt-0035",
+      "case_id": "1957-USAF-861A2D",
+      "source_filename": "FBI-UAP-D012.pdf",
+      "role": "observation",
+      "episode_id": "FBI-UAP-D012.pdf#ep2"
+    },
+    {
+      "event_id": "evt-0036",
+      "case_id": "1958-FBI-B518F9",
+      "source_filename": "FBI-UAP-D012.pdf",
+      "role": "observation",
+      "episode_id": "FBI-UAP-D012.pdf#ep3"
+    },
+    {
+      "event_id": "evt-0037",
+      "case_id": "1958-FBI-8A9CE1",
+      "source_filename": "FBI-UAP-D012.pdf",
+      "role": "observation",
+      "episode_id": "FBI-UAP-D012.pdf#ep4"
+    },
+    {
+      "event_id": "evt-0038",
+      "case_id": "1958-FBI-E2D2FF",
+      "source_filename": "FBI-UAP-D012.pdf",
+      "role": "observation",
+      "episode_id": "FBI-UAP-D012.pdf#ep5"
+    },
+    {
+      "event_id": "evt-0039",
+      "case_id": "1958-FBI-420E8E",
+      "source_filename": "FBI-UAP-D012.pdf",
+      "role": "observation",
+      "episode_id": "FBI-UAP-D012.pdf#ep6"
+    },
+    {
+      "event_id": "evt-0040",
+      "case_id": "1958-FBI-D3842E",
+      "source_filename": "FBI-UAP-D012.pdf",
+      "role": "observation",
+      "episode_id": "FBI-UAP-D012.pdf#ep7"
+    },
+    {
+      "event_id": "evt-0041",
+      "case_id": "1958-FBI-6DD6C7",
+      "source_filename": "FBI-UAP-D012.pdf",
+      "role": "observation",
+      "episode_id": "FBI-UAP-D012.pdf#ep8"
+    },
+    {
+      "event_id": "evt-0042",
+      "case_id": "1959-FBI-BA1A63",
+      "source_filename": "FBI-UAP-D012.pdf",
+      "role": "observation",
+      "episode_id": "FBI-UAP-D012.pdf#ep9"
+    },
+    {
+      "event_id": "evt-0043",
+      "case_id": "1960-FBI-A1F54A",
+      "source_filename": "FBI-UAP-D012.pdf",
+      "role": "observation",
+      "episode_id": "FBI-UAP-D012.pdf#ep10"
+    },
+    {
+      "event_id": "evt-0044",
+      "case_id": "1960-FBI-147E91",
+      "source_filename": "FBI-UAP-D012.pdf",
+      "role": "observation",
+      "episode_id": "FBI-UAP-D012.pdf#ep11"
+    },
+    {
+      "event_id": "evt-0045",
+      "case_id": "1960-FBI-8DA237",
+      "source_filename": "FBI-UAP-D012.pdf",
+      "role": "observation",
+      "episode_id": "FBI-UAP-D012.pdf#ep12"
+    },
+    {
+      "event_id": "evt-0046",
+      "case_id": "1960-FBI-DE8CB5",
+      "source_filename": "FBI-UAP-D012.pdf",
+      "role": "observation",
+      "episode_id": "FBI-UAP-D012.pdf#ep13"
+    },
+    {
+      "event_id": "evt-0047",
+      "case_id": "1966-OTHER-0D00E1",
+      "source_filename": "FBI-UAP-D012.pdf",
+      "role": "observation",
+      "episode_id": "FBI-UAP-D012.pdf#ep14"
+    },
+    {
+      "event_id": "evt-0048",
+      "case_id": "UNDATED-CIA-02F984",
+      "source_filename": "CIA-UAP-010.pdf",
+      "role": "observation",
+      "episode_id": "CIA-UAP-010.pdf#ep1"
+    },
+    {
+      "event_id": "evt-0049",
+      "case_id": "UNDATED-CIA-158652",
+      "source_filename": "CIA-UAP-011.pdf",
+      "role": "observation",
+      "episode_id": "CIA-UAP-011.pdf#ep1"
+    },
+    {
+      "event_id": "evt-0050",
+      "case_id": "UNDATED-RAF-9CE431",
+      "source_filename": "CIA-UAP-014.pdf",
+      "role": "observation",
+      "episode_id": "CIA-UAP-014.pdf#ep1"
+    },
+    {
+      "event_id": "evt-0051",
+      "case_id": "UNDATED-FBI-42C272",
+      "source_filename": "DOW-UAP-D078.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D078.pdf#ep1"
+    },
+    {
+      "event_id": "evt-0052",
+      "case_id": "UNDATED-FBI-B8A3AB",
+      "source_filename": "DOW-UAP-D078.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D078.pdf#ep2"
+    },
+    {
+      "event_id": "evt-0053",
+      "case_id": "UNDATED-FBI-C98A18",
+      "source_filename": "DOW-UAP-D078.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D078.pdf#ep3"
+    },
+    {
+      "event_id": "evt-0054",
+      "case_id": "UNDATED-OTHER-7258F0",
+      "source_filename": "DOW-UAP-D080.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D080.pdf#ep1"
+    },
+    {
+      "event_id": "evt-0055",
+      "case_id": "UNDATED-OTHER-F8E57A",
+      "source_filename": "DOW-UAP-D080.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D080.pdf#ep2"
+    },
+    {
+      "event_id": "evt-0056",
+      "case_id": "UNDATED-OTHER-B40E2C",
+      "source_filename": "DOW-UAP-D080.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D080.pdf#ep3"
+    },
+    {
+      "event_id": "evt-0057",
+      "case_id": "UNDATED-OTHER-C1D19C",
+      "source_filename": "DOW-UAP-D081.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D081.pdf#ep1"
+    },
+    {
+      "event_id": "evt-0058",
+      "case_id": "UNDATED-FBI-82CCDD",
+      "source_filename": "DOW-UAP-D082.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D082.pdf#ep1"
+    },
+    {
+      "event_id": "evt-0058",
+      "case_id": "UNDATED-FBI-F4CE38",
+      "source_filename": "DOW-UAP-D082.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D082.pdf#ep1"
+    },
+    {
+      "event_id": "evt-0058",
+      "case_id": "UNDATED-FBI-AF6C31",
+      "source_filename": "DOW-UAP-D082.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D082.pdf#ep1"
+    },
+    {
+      "event_id": "evt-0058",
+      "case_id": "UNDATED-FBI-15D04A",
+      "source_filename": "DOW-UAP-D082.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D082.pdf#ep1"
+    },
+    {
+      "event_id": "evt-0060",
+      "case_id": "UNDATED-FBI-FEDFE7",
+      "source_filename": "DOW-UAP-D082.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D082.pdf#ep2"
+    },
+    {
+      "event_id": "evt-0060",
+      "case_id": "UNDATED-FBI-4557DC",
+      "source_filename": "DOW-UAP-D082.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D082.pdf#ep2"
+    },
+    {
+      "event_id": "evt-0060",
+      "case_id": "UNDATED-FBI-2EAE94",
+      "source_filename": "DOW-UAP-D082.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D082.pdf#ep2"
+    },
+    {
+      "event_id": "evt-0060",
+      "case_id": "UNDATED-FBI-42FC0E",
+      "source_filename": "DOW-UAP-D082.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D082.pdf#ep2"
+    },
+    {
+      "event_id": "evt-0060",
+      "case_id": "UNDATED-FBI-578E28",
+      "source_filename": "DOW-UAP-D082.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D082.pdf#ep2"
+    },
+    {
+      "event_id": "evt-0062",
+      "case_id": "UNDATED-FBI-4FF3BA",
+      "source_filename": "DOW-UAP-D082.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D082.pdf#ep3"
+    },
+    {
+      "event_id": "evt-0063",
+      "case_id": "UNDATED-FBI-09122D",
+      "source_filename": "DOW-UAP-D082.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D082.pdf#ep4"
+    },
+    {
+      "event_id": "evt-0064",
+      "case_id": "UNDATED-FBI-C4AD20",
+      "source_filename": "DOW-UAP-D082.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D082.pdf#ep5"
+    },
+    {
+      "event_id": "evt-0065",
+      "case_id": "UNDATED-DOW-03C815",
+      "source_filename": "DOW-UAP-D083.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D083.pdf#ep1"
+    },
+    {
+      "event_id": "evt-0066",
+      "case_id": "UNDATED-DOW-8BB3D1",
+      "source_filename": "DOW-UAP-D083.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D083.pdf#ep2"
+    },
+    {
+      "event_id": "evt-0067",
+      "case_id": "UNDATED-DOW-0AF53F",
+      "source_filename": "DOW-UAP-D083.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D083.pdf#ep3"
+    },
+    {
+      "event_id": "evt-0068",
+      "case_id": "UNDATED-DOW-75EF1D",
+      "source_filename": "DOW-UAP-D083.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D083.pdf#ep4"
+    },
+    {
+      "event_id": "evt-0069",
+      "case_id": "UNDATED-DOW-94EB50",
+      "source_filename": "DOW-UAP-D083.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D083.pdf#ep5"
+    },
+    {
+      "event_id": "evt-0070",
+      "case_id": "UNDATED-DOW-D2FE27",
+      "source_filename": "DOW-UAP-D087.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D087.pdf#ep1"
+    },
+    {
+      "event_id": "evt-0071",
+      "case_id": "UNDATED-USAF-F1A24F",
+      "source_filename": "DOW-UAP-D087.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D087.pdf#ep2"
+    },
+    {
+      "event_id": "evt-0072",
+      "case_id": "1947-DOW-7D054B",
+      "source_filename": "DOW-UAP-D087.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D087.pdf#ep3"
+    },
+    {
+      "event_id": "evt-0073",
+      "case_id": "1947-DOW-955BAE",
+      "source_filename": "DOW-UAP-D087.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D087.pdf#ep4"
+    },
+    {
+      "event_id": "evt-0074",
+      "case_id": "UNDATED-DOW-6EE85A",
+      "source_filename": "DOW-UAP-D087.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D087.pdf#ep5"
+    },
+    {
+      "event_id": "evt-0075",
+      "case_id": "UNDATED-FBI-14BE00",
+      "source_filename": "FBI-UAP-D004.pdf",
+      "role": "observation",
+      "episode_id": "FBI-UAP-D004.pdf#ep1"
+    },
+    {
+      "event_id": "evt-0076",
+      "case_id": "UNDATED-FBI-A1566D",
+      "source_filename": "FBI-UAP-D004.pdf",
+      "role": "observation",
+      "episode_id": "FBI-UAP-D004.pdf#ep2"
+    },
+    {
+      "event_id": "evt-0077",
+      "case_id": "UNDATED-FBI-380101",
+      "source_filename": "FBI-UAP-D005.pdf",
+      "role": "observation",
+      "episode_id": "FBI-UAP-D005.pdf#ep1"
+    },
+    {
+      "event_id": "evt-0078",
+      "case_id": "UNDATED-FBI-E92455",
+      "source_filename": "FBI-UAP-D005.pdf",
+      "role": "observation",
+      "episode_id": "FBI-UAP-D005.pdf#ep2"
+    },
+    {
+      "event_id": "evt-0079",
+      "case_id": "UNDATED-USA-AEFAE6",
+      "source_filename": "FBI-UAP-D005.pdf",
+      "role": "observation",
+      "episode_id": "FBI-UAP-D005.pdf#ep3"
+    },
+    {
+      "event_id": "evt-0080",
+      "case_id": "UNDATED-FBI-8BCB6F",
+      "source_filename": "FBI-UAP-D007.pdf",
+      "role": "observation",
+      "episode_id": "FBI-UAP-D007.pdf#ep1"
+    },
+    {
+      "event_id": "evt-0081",
+      "case_id": "UNDATED-FBI-D8E5B9",
+      "source_filename": "FBI-UAP-D007.pdf",
+      "role": "observation",
+      "episode_id": "FBI-UAP-D007.pdf#ep2"
+    },
+    {
+      "event_id": "evt-0082",
+      "case_id": "UNDATED-FBI-3994E8",
+      "source_filename": "FBI-UAP-D007.pdf",
+      "role": "observation",
+      "episode_id": "FBI-UAP-D007.pdf#ep3"
+    },
+    {
+      "event_id": "evt-0083",
+      "case_id": "UNDATED-FBI-0F4A44",
+      "source_filename": "FBI-UAP-D007.pdf",
+      "role": "observation",
+      "episode_id": "FBI-UAP-D007.pdf#ep4"
+    },
+    {
+      "event_id": "evt-0084",
+      "case_id": "UNDATED-FBI-3A201E",
+      "source_filename": "FBI-UAP-D008.pdf",
+      "role": "observation",
+      "episode_id": "FBI-UAP-D008.pdf#ep1"
+    },
+    {
+      "event_id": "evt-0085",
+      "case_id": "UNDATED-NASA-282EB0",
+      "source_filename": "NASA-UAP-D017.pdf",
+      "role": "observation",
+      "episode_id": "NASA-UAP-D017.pdf#ep1"
+    },
+    {
+      "event_id": "evt-0086",
+      "case_id": "UNDATED-USN-35D21A",
+      "source_filename": "NASA-UAP-D019.pdf",
+      "role": "observation",
+      "episode_id": "NASA-UAP-D019.pdf#ep1"
+    },
+    {
+      "event_id": "evt-0087",
+      "case_id": "UNDATED-NASA-6147BE",
+      "source_filename": "NASA-UAP-D020.pdf",
+      "role": "observation",
+      "episode_id": "NASA-UAP-D020.pdf#ep1"
+    },
+    {
+      "event_id": "evt-0088",
+      "case_id": "UNDATED-NASA-3A98D5",
+      "source_filename": "NASA-UAP-D020.pdf",
+      "role": "observation",
+      "episode_id": "NASA-UAP-D020.pdf#ep2"
+    },
+    {
+      "event_id": "evt-0089",
+      "case_id": "UNDATED-NASA-481954",
+      "source_filename": "NASA-UAP-D020.pdf",
+      "role": "observation",
+      "episode_id": "NASA-UAP-D020.pdf#ep3"
+    },
+    {
+      "event_id": "evt-0090",
+      "case_id": "UNDATED-NASA-2DBAFB",
+      "source_filename": "NASA-UAP-D021.pdf",
+      "role": "observation",
+      "episode_id": "NASA-UAP-D021.pdf#ep1"
+    },
+    {
+      "event_id": "evt-0091",
+      "case_id": "1947-DOW-AE5FD0",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep1"
+    },
+    {
+      "event_id": "evt-0092",
+      "case_id": "1947-USN-0A0B7C",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep2"
+    },
+    {
+      "event_id": "evt-0093",
+      "case_id": "1947-USN-2B1C80",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep3"
+    },
+    {
+      "event_id": "evt-0094",
+      "case_id": "1948-USAF-BBF693",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep4"
+    },
+    {
+      "event_id": "evt-0095",
+      "case_id": "UNDATED-USAF-FE3BFB",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep5"
+    },
+    {
+      "event_id": "evt-0096",
+      "case_id": "1948-DOW-0A7390",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep6"
+    },
+    {
+      "event_id": "evt-0097",
+      "case_id": "1948-USAF-1F9AD2",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep7"
+    },
+    {
+      "event_id": "evt-0098",
+      "case_id": "1948-USAF-B2CFCE",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep8"
+    },
+    {
+      "event_id": "evt-0099",
+      "case_id": "1948-USAF-27805A",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep9"
+    },
+    {
+      "event_id": "evt-0100",
+      "case_id": "1948-USAF-86200B",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep10"
+    },
+    {
+      "event_id": "evt-0101",
+      "case_id": "1948-USAF-B87733",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep11"
+    },
+    {
+      "event_id": "evt-0102",
+      "case_id": "1948-USAF-F2241E",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep12"
+    },
+    {
+      "event_id": "evt-0103",
+      "case_id": "1948-DOW-18E973",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep13"
+    },
+    {
+      "event_id": "evt-0104",
+      "case_id": "1948-DOW-8D6B91",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep14"
+    },
+    {
+      "event_id": "evt-0105",
+      "case_id": "1948-DOW-073986",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep15"
+    },
+    {
+      "event_id": "evt-0106",
+      "case_id": "1948-USAF-929659",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep16"
+    },
+    {
+      "event_id": "evt-0107",
+      "case_id": "UNDATED-USAF-C065FF",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep17"
+    },
+    {
+      "event_id": "evt-0108",
+      "case_id": "UNDATED-USAF-1173FB",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep18"
+    },
+    {
+      "event_id": "evt-0109",
+      "case_id": "UNDATED-DOW-96E4D5",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep19"
+    },
+    {
+      "event_id": "evt-0110",
+      "case_id": "UNDATED-DOW-779C5B",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep20"
+    },
+    {
+      "event_id": "evt-0111",
+      "case_id": "UNDATED-DOW-866540",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep21"
+    },
+    {
+      "event_id": "evt-0112",
+      "case_id": "UNDATED-DOW-9B5D75",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep22"
+    },
+    {
+      "event_id": "evt-0113",
+      "case_id": "UNDATED-DOW-01F83D",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep23"
+    },
+    {
+      "event_id": "evt-0114",
+      "case_id": "UNDATED-DOW-425D55",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep24"
+    },
+    {
+      "event_id": "evt-0115",
+      "case_id": "UNDATED-DOW-624838",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep25"
+    },
+    {
+      "event_id": "evt-0116",
+      "case_id": "1918-RAF-66D199",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep26"
+    },
+    {
+      "event_id": "evt-0117",
+      "case_id": "UNDATED-USAF-5E9B99",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep27"
+    },
+    {
+      "event_id": "evt-0118",
+      "case_id": "1948-USAF-D96E2B",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep28"
+    },
+    {
+      "event_id": "evt-0119",
+      "case_id": "1948-USAF-A09FD8",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep29"
+    },
+    {
+      "event_id": "evt-0120",
+      "case_id": "UNDATED-DOW-BBB35B",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep30"
+    },
+    {
+      "event_id": "evt-0121",
+      "case_id": "1948-DOW-722CFD",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep31"
+    },
+    {
+      "event_id": "evt-0122",
+      "case_id": "UNDATED-DOW-5058DD",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep32"
+    },
+    {
+      "event_id": "evt-0123",
+      "case_id": "UNDATED-USN-C339A5",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep33"
+    },
+    {
+      "event_id": "evt-0124",
+      "case_id": "UNDATED-USA-457EEB",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep34"
+    },
+    {
+      "event_id": "evt-0125",
+      "case_id": "UNDATED-DOW-37819C",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep35"
+    },
+    {
+      "event_id": "evt-0126",
+      "case_id": "1948-USAF-3E07D2",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep36"
+    },
+    {
+      "event_id": "evt-0127",
+      "case_id": "UNDATED-DOW-D5C0FB",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep37"
+    },
+    {
+      "event_id": "evt-0128",
+      "case_id": "UNDATED-DOW-92AE9A",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep38"
+    },
+    {
+      "event_id": "evt-0129",
+      "case_id": "1948-OTHER-E7312A",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep39"
+    },
+    {
+      "event_id": "evt-0130",
+      "case_id": "1948-OTHER-73290C",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep40"
+    },
+    {
+      "event_id": "evt-0131",
+      "case_id": "1948-OTHER-65F11F",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep41"
+    },
+    {
+      "event_id": "evt-0132",
+      "case_id": "1948-USAF-77483D",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep42"
+    },
+    {
+      "event_id": "evt-0133",
+      "case_id": "1948-USAF-35413D",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep43"
+    },
+    {
+      "event_id": "evt-0134",
+      "case_id": "1948-DOW-D131B8",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep44"
+    },
+    {
+      "event_id": "evt-0135",
+      "case_id": "1948-DOW-40B1D6",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep45"
+    },
+    {
+      "event_id": "evt-0136",
+      "case_id": "1948-DOW-6EEA6C",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep46"
+    },
+    {
+      "event_id": "evt-0137",
+      "case_id": "UNDATED-DOW-A22A98",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep47"
+    },
+    {
+      "event_id": "evt-0138",
+      "case_id": "1948-DOW-1A4F34",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep48"
+    },
+    {
+      "event_id": "evt-0139",
+      "case_id": "1948-DOW-6DAE54",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep49"
+    },
+    {
+      "event_id": "evt-0140",
+      "case_id": "UNDATED-DOW-8A48B2",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep50"
+    },
+    {
+      "event_id": "evt-0141",
+      "case_id": "1948-USAF-9D72CC",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep51"
+    },
+    {
+      "event_id": "evt-0142",
+      "case_id": "1948-DOW-D2977F",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep52"
+    },
+    {
+      "event_id": "evt-0143",
+      "case_id": "1948-DOW-74961C",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep53"
+    },
+    {
+      "event_id": "evt-0144",
+      "case_id": "UNDATED-DOW-F389BF",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep54"
+    },
+    {
+      "event_id": "evt-0145",
+      "case_id": "UNDATED-DOW-9433CF",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep55"
+    },
+    {
+      "event_id": "evt-0146",
+      "case_id": "1948-USN-A1B75A",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep56"
+    },
+    {
+      "event_id": "evt-0147",
+      "case_id": "UNDATED-USAF-32B1F2",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep57"
+    },
+    {
+      "event_id": "evt-0148",
+      "case_id": "1948-USAF-F2CCB5",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep58"
+    },
+    {
+      "event_id": "evt-0149",
+      "case_id": "UNDATED-DOW-700A3E",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep59"
+    },
+    {
+      "event_id": "evt-0150",
+      "case_id": "1948-DOW-5CD5DF",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep60"
+    },
+    {
+      "event_id": "evt-0151",
+      "case_id": "1948-DOW-E9D290",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep61"
+    },
+    {
+      "event_id": "evt-0152",
+      "case_id": "UNDATED-DOW-8C34F5",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep62"
+    },
+    {
+      "event_id": "evt-0153",
+      "case_id": "1948-DOW-EC4793",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep63"
+    },
+    {
+      "event_id": "evt-0154",
+      "case_id": "1948-USAF-665866",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep64"
+    },
+    {
+      "event_id": "evt-0155",
+      "case_id": "1948-OTHER-F10B1B",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep65"
+    },
+    {
+      "event_id": "evt-0156",
+      "case_id": "1948-OTHER-7760B6",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep66"
+    },
+    {
+      "event_id": "evt-0157",
+      "case_id": "UNDATED-DOW-28B571",
+      "source_filename": "DOW-UAP-D088.pdf",
+      "role": "observation",
+      "episode_id": "DOW-UAP-D088.pdf#ep67"
+    },
+    {
+      "event_id": "evt-0158",
+      "case_id": "1953-USN-C2999C",
+      "source_filename": "FBI-UAP-D013.pdf",
+      "role": "observation",
+      "episode_id": "FBI-UAP-D013.pdf#ep1"
+    },
+    {
+      "event_id": "evt-0159",
+      "case_id": "1953-USN-573FEC",
+      "source_filename": "FBI-UAP-D013.pdf",
+      "role": "observation",
+      "episode_id": "FBI-UAP-D013.pdf#ep2"
+    },
+    {
+      "event_id": "evt-0160",
+      "case_id": "1953-FBI-A61610",
+      "source_filename": "FBI-UAP-D013.pdf",
+      "role": "observation",
+      "episode_id": "FBI-UAP-D013.pdf#ep3"
+    },
+    {
+      "event_id": "evt-0161",
+      "case_id": "1954-USAF-34B3C0",
+      "source_filename": "FBI-UAP-D013.pdf",
+      "role": "observation",
+      "episode_id": "FBI-UAP-D013.pdf#ep4"
+    },
+    {
+      "event_id": "evt-0162",
+      "case_id": "1954-USAF-34623D",
+      "source_filename": "FBI-UAP-D013.pdf",
+      "role": "observation",
+      "episode_id": "FBI-UAP-D013.pdf#ep5"
+    },
+    {
+      "event_id": "evt-0163",
+      "case_id": "UNDATED-USAF-7E6303",
+      "source_filename": "FBI-UAP-D013.pdf",
+      "role": "observation",
+      "episode_id": "FBI-UAP-D013.pdf#ep6"
+    },
+    {
+      "event_id": "evt-0164",
+      "case_id": "1956-USAF-A500E2",
+      "source_filename": "FBI-UAP-D013.pdf",
+      "role": "observation",
+      "episode_id": "FBI-UAP-D013.pdf#ep7"
+    },
+    {
+      "event_id": "evt-0165",
+      "case_id": "1959-FBI-35647B",
+      "source_filename": "FBI-UAP-D013.pdf",
+      "role": "observation",
+      "episode_id": "FBI-UAP-D013.pdf#ep8"
+    }
+  ],
+  "event_sources": [
+    {
+      "event_id": "evt-0032",
+      "source_filename": "FBI-UAP-D003.pdf",
+      "relationship": "media_for_event",
+      "document_class": "media_metadata"
+    },
+    {
+      "event_id": "evt-0032",
+      "source_filename": "ICA-UAP-D001.pdf",
+      "relationship": "analysis_of_event",
+      "document_class": "analysis"
+    }
+  ],
+  "event_series": [
+    {
+      "series_id": "western-us-event-2023",
+      "label": "Western US Event",
+      "event_ids": [
+        "evt-0051",
+        "evt-0052",
+        "evt-0053",
+        "evt-0028",
+        "evt-0029",
+        "evt-0030",
+        "evt-0031",
+        "evt-0054",
+        "evt-0055",
+        "evt-0056",
+        "evt-0057",
+        "evt-0058",
+        "evt-0060",
+        "evt-0062",
+        "evt-0063",
+        "evt-0064",
+        "evt-0065",
+        "evt-0066",
+        "evt-0067",
+        "evt-0068",
+        "evt-0069"
+      ],
+      "evidence": [
+        "catalog pdf_pairing series label: Western US Event"
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "decision_id": "dec-0059",
+      "relationship": "same_event",
+      "status": "auto_supported",
+      "left": "UNDATED-FBI-82CCDD",
+      "right": "UNDATED-FBI-15D04A",
+      "evidence": [
+        "intra-source continuity cues grouped phase rows into one episode",
+        "episode size=4",
+        "source=DOW-UAP-D082.pdf"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "dec-0061",
+      "relationship": "same_event",
+      "status": "auto_supported",
+      "left": "UNDATED-FBI-FEDFE7",
+      "right": "UNDATED-FBI-578E28",
+      "evidence": [
+        "intra-source continuity cues grouped phase rows into one episode",
+        "episode size=5",
+        "source=DOW-UAP-D082.pdf"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "dec-0166",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "DOW-UAP-D077.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog pdf_pairing series label: Western US Event",
+        "series membership does not imply same_event",
+        "episodes from DOW-UAP-D077.pdf: 0"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "dec-0167",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "DOW-UAP-D078.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog pdf_pairing series label: Western US Event",
+        "series membership does not imply same_event",
+        "episodes from DOW-UAP-D078.pdf: 3"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "dec-0168",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "DOW-UAP-D079.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog pdf_pairing series label: Western US Event",
+        "series membership does not imply same_event",
+        "episodes from DOW-UAP-D079.pdf: 4"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "dec-0169",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "DOW-UAP-D080.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog pdf_pairing series label: Western US Event",
+        "series membership does not imply same_event",
+        "episodes from DOW-UAP-D080.pdf: 3"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "dec-0170",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "DOW-UAP-D081.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog pdf_pairing series label: Western US Event",
+        "series membership does not imply same_event",
+        "episodes from DOW-UAP-D081.pdf: 1"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "dec-0171",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "DOW-UAP-D082.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog pdf_pairing series label: Western US Event",
+        "series membership does not imply same_event",
+        "episodes from DOW-UAP-D082.pdf: 5"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "dec-0172",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "DOW-UAP-D083.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog pdf_pairing series label: Western US Event",
+        "series membership does not imply same_event",
+        "episodes from DOW-UAP-D083.pdf: 5"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "dec-0173",
+      "relationship": "media_for_event",
+      "status": "auto_supported",
+      "left": "FBI-UAP-D003.pdf",
+      "right": "evt-0032",
+      "evidence": [
+        "catalog PDF Pairing links FBI-UAP-D003 \u2192 FBI-UAP-D002",
+        "official catalog PDF pairing",
+        "primary narrative source FBI-UAP-D002.pdf"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "dec-0174",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "DOW-UAP-D077.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog series identifier western-us-event-2023",
+        "series membership does not imply same_event",
+        "episodes from DOW-UAP-D077.pdf: 0"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "dec-0175",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "DOW-UAP-D078.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog series identifier western-us-event-2023",
+        "series membership does not imply same_event",
+        "episodes from DOW-UAP-D078.pdf: 3"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "dec-0176",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "DOW-UAP-D079.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog series identifier western-us-event-2023",
+        "series membership does not imply same_event",
+        "episodes from DOW-UAP-D079.pdf: 4"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "dec-0177",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "DOW-UAP-D080.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog series identifier western-us-event-2023",
+        "series membership does not imply same_event",
+        "episodes from DOW-UAP-D080.pdf: 3"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "dec-0178",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "DOW-UAP-D081.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog series identifier western-us-event-2023",
+        "series membership does not imply same_event",
+        "episodes from DOW-UAP-D081.pdf: 1"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "dec-0179",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "DOW-UAP-D082.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog series identifier western-us-event-2023",
+        "series membership does not imply same_event",
+        "episodes from DOW-UAP-D082.pdf: 5"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "dec-0180",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "DOW-UAP-D083.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog series identifier western-us-event-2023",
+        "series membership does not imply same_event",
+        "episodes from DOW-UAP-D083.pdf: 5"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "dec-0181",
+      "relationship": "analysis_of_event",
+      "status": "auto_supported",
+      "left": "ICA-UAP-D001.pdf",
+      "right": "evt-0032",
+      "evidence": [
+        "analysis source text shares specific place token(s): ['cheyenne', 'cheyenne mountain']",
+        "target incident UNDATED-USA-599D8B from FBI-UAP-D002.pdf",
+        "place_prominence=lede_or_repeated"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    }
+  ],
+  "rejected_pairs": [
+    {
+      "decision_id": "rej-0001",
+      "relationship": "unrelated",
+      "status": "rejected",
+      "left": "UNDATED-USAF-9CCC64",
+      "right": "UNDATED-FBI-C390B7",
+      "evidence": [
+        "generic location alone is not linking evidence",
+        "left_location=None",
+        "right_location='western United States, valley area'"
+      ],
+      "score_band": "weak",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "rej-0002",
+      "relationship": "unrelated",
+      "status": "rejected",
+      "left": "UNDATED-USAF-9CCC64",
+      "right": "UNDATED-FBI-031A45",
+      "evidence": [
+        "generic location alone is not linking evidence",
+        "left_location=None",
+        "right_location='western United States, over hillside'"
+      ],
+      "score_band": "weak",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "rej-0003",
+      "relationship": "unrelated",
+      "status": "rejected",
+      "left": "UNDATED-USAF-9CCC64",
+      "right": "UNDATED-FBI-CD3613",
+      "evidence": [
+        "generic location alone is not linking evidence",
+        "left_location=None",
+        "right_location='western United States'"
+      ],
+      "score_band": "weak",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "rej-0004",
+      "relationship": "unrelated",
+      "status": "rejected",
+      "left": "UNDATED-USAF-9CCC64",
+      "right": "UNDATED-FBI-63F44E",
+      "evidence": [
+        "generic location alone is not linking evidence",
+        "left_location=None",
+        "right_location='western United States, on road'"
+      ],
+      "score_band": "weak",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "rej-0005",
+      "relationship": "unrelated",
+      "status": "rejected",
+      "left": "UNDATED-USAF-9CCC64",
+      "right": "1958-FBI-6DD6C7",
+      "evidence": [
+        "generic location alone is not linking evidence",
+        "left_location=None",
+        "right_location=None"
+      ],
+      "score_band": "weak",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "rej-0006",
+      "relationship": "unrelated",
+      "status": "rejected",
+      "left": "UNDATED-USAF-9CCC64",
+      "right": "UNDATED-FBI-42C272",
+      "evidence": [
+        "generic location alone is not linking evidence",
+        "left_location=None",
+        "right_location='western United States'"
+      ],
+      "score_band": "weak",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "rej-0007",
+      "relationship": "unrelated",
+      "status": "rejected",
+      "left": "UNDATED-USAF-9CCC64",
+      "right": "UNDATED-FBI-B8A3AB",
+      "evidence": [
+        "generic location alone is not linking evidence",
+        "left_location=None",
+        "right_location='western United States'"
+      ],
+      "score_band": "weak",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "rej-0008",
+      "relationship": "unrelated",
+      "status": "rejected",
+      "left": "UNDATED-USAF-9CCC64",
+      "right": "UNDATED-FBI-C98A18",
+      "evidence": [
+        "generic location alone is not linking evidence",
+        "left_location=None",
+        "right_location='western United States'"
+      ],
+      "score_band": "weak",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "rej-0009",
+      "relationship": "unrelated",
+      "status": "rejected",
+      "left": "UNDATED-USAF-9CCC64",
+      "right": "UNDATED-OTHER-C1D19C",
+      "evidence": [
+        "generic location alone is not linking evidence",
+        "left_location=None",
+        "right_location='western United States, near an airfield'"
+      ],
+      "score_band": "weak",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "rej-0010",
+      "relationship": "unrelated",
+      "status": "rejected",
+      "left": "UNDATED-USAF-9CCC64",
+      "right": "UNDATED-FBI-82CCDD",
+      "evidence": [
+        "generic location alone is not linking evidence",
+        "left_location=None",
+        "right_location='western United States'"
+      ],
+      "score_band": "weak",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "rej-0011",
+      "relationship": "unrelated",
+      "status": "rejected",
+      "left": "UNDATED-USAF-9CCC64",
+      "right": "UNDATED-FBI-F4CE38",
+      "evidence": [
+        "generic location alone is not linking evidence",
+        "left_location=None",
+        "right_location='western United States'"
+      ],
+      "score_band": "weak",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "rej-0012",
+      "relationship": "unrelated",
+      "status": "rejected",
+      "left": "UNDATED-USAF-9CCC64",
+      "right": "UNDATED-FBI-AF6C31",
+      "evidence": [
+        "generic location alone is not linking evidence",
+        "left_location=None",
+        "right_location='western United States'"
+      ],
+      "score_band": "weak",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "rej-0013",
+      "relationship": "unrelated",
+      "status": "rejected",
+      "left": "UNDATED-USAF-9CCC64",
+      "right": "UNDATED-FBI-15D04A",
+      "evidence": [
+        "generic location alone is not linking evidence",
+        "left_location=None",
+        "right_location='western United States'"
+      ],
+      "score_band": "weak",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "rej-0014",
+      "relationship": "unrelated",
+      "status": "rejected",
+      "left": "UNDATED-USAF-9CCC64",
+      "right": "UNDATED-FBI-FEDFE7",
+      "evidence": [
+        "generic location alone is not linking evidence",
+        "left_location=None",
+        "right_location='western United States'"
+      ],
+      "score_band": "weak",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "rej-0015",
+      "relationship": "unrelated",
+      "status": "rejected",
+      "left": "UNDATED-USAF-9CCC64",
+      "right": "UNDATED-FBI-4557DC",
+      "evidence": [
+        "generic location alone is not linking evidence",
+        "left_location=None",
+        "right_location='western United States'"
+      ],
+      "score_band": "weak",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "rej-0016",
+      "relationship": "unrelated",
+      "status": "rejected",
+      "left": "UNDATED-USAF-9CCC64",
+      "right": "UNDATED-FBI-2EAE94",
+      "evidence": [
+        "generic location alone is not linking evidence",
+        "left_location=None",
+        "right_location='western United States'"
+      ],
+      "score_band": "weak",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "rej-0017",
+      "relationship": "unrelated",
+      "status": "rejected",
+      "left": "UNDATED-USAF-9CCC64",
+      "right": "UNDATED-FBI-42FC0E",
+      "evidence": [
+        "generic location alone is not linking evidence",
+        "left_location=None",
+        "right_location='western United States'"
+      ],
+      "score_band": "weak",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "rej-0018",
+      "relationship": "unrelated",
+      "status": "rejected",
+      "left": "UNDATED-USAF-9CCC64",
+      "right": "UNDATED-FBI-578E28",
+      "evidence": [
+        "generic location alone is not linking evidence",
+        "left_location=None",
+        "right_location='western United States'"
+      ],
+      "score_band": "weak",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "rej-0019",
+      "relationship": "unrelated",
+      "status": "rejected",
+      "left": "UNDATED-USAF-9CCC64",
+      "right": "UNDATED-FBI-4FF3BA",
+      "evidence": [
+        "generic location alone is not linking evidence",
+        "left_location=None",
+        "right_location='western United States'"
+      ],
+      "score_band": "weak",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "rej-0020",
+      "relationship": "unrelated",
+      "status": "rejected",
+      "left": "UNDATED-USAF-9CCC64",
+      "right": "UNDATED-FBI-09122D",
+      "evidence": [
+        "generic location alone is not linking evidence",
+        "left_location=None",
+        "right_location='western United States'"
+      ],
+      "score_band": "weak",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    }
+  ],
+  "episode_audit": {
+    "CIA-UAP-003.pdf": {
+      "input_rows": 1,
+      "episode_count": 1,
+      "boundaries": []
+    },
+    "CIA-UAP-006.pdf": {
+      "input_rows": 1,
+      "episode_count": 1,
+      "boundaries": []
+    },
+    "CIA-UAP-016.pdf": {
+      "input_rows": 4,
+      "episode_count": 4,
+      "boundaries": [
+        {
+          "source_filename": "CIA-UAP-016.pdf",
+          "left_case_id": "UNDATED-CIA-96D28F",
+          "right_case_id": "1968-CIA-FA829A",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "CIA-UAP-016.pdf",
+          "left_case_id": "1968-CIA-FA829A",
+          "right_case_id": "1968-CIA-218E91",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "CIA-UAP-016.pdf",
+          "left_case_id": "1968-CIA-218E91",
+          "right_case_id": "1966-CIA-B2A386",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        }
+      ]
+    },
+    "CIA-UAP-017.pdf": {
+      "input_rows": 1,
+      "episode_count": 1,
+      "boundaries": []
+    },
+    "DOW-UAP-D079.pdf": {
+      "input_rows": 4,
+      "episode_count": 4,
+      "boundaries": [
+        {
+          "source_filename": "DOW-UAP-D079.pdf",
+          "left_case_id": "UNDATED-FBI-C390B7",
+          "right_case_id": "UNDATED-FBI-031A45",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D079.pdf",
+          "left_case_id": "UNDATED-FBI-031A45",
+          "right_case_id": "UNDATED-FBI-CD3613",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D079.pdf",
+          "left_case_id": "UNDATED-FBI-CD3613",
+          "right_case_id": "UNDATED-FBI-63F44E",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        }
+      ]
+    },
+    "FBI-UAP-D002.pdf": {
+      "input_rows": 1,
+      "episode_count": 1,
+      "boundaries": []
+    },
+    "FBI-UAP-D009.pdf": {
+      "input_rows": 1,
+      "episode_count": 1,
+      "boundaries": []
+    },
+    "FBI-UAP-D012.pdf": {
+      "input_rows": 14,
+      "episode_count": 14,
+      "boundaries": [
+        {
+          "source_filename": "FBI-UAP-D012.pdf",
+          "left_case_id": "1957-FBI-DB9934",
+          "right_case_id": "1957-USAF-861A2D",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "FBI-UAP-D012.pdf",
+          "left_case_id": "1957-USAF-861A2D",
+          "right_case_id": "1958-FBI-B518F9",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "FBI-UAP-D012.pdf",
+          "left_case_id": "1958-FBI-B518F9",
+          "right_case_id": "1958-FBI-8A9CE1",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "FBI-UAP-D012.pdf",
+          "left_case_id": "1958-FBI-8A9CE1",
+          "right_case_id": "1958-FBI-E2D2FF",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "FBI-UAP-D012.pdf",
+          "left_case_id": "1958-FBI-E2D2FF",
+          "right_case_id": "1958-FBI-420E8E",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "FBI-UAP-D012.pdf",
+          "left_case_id": "1958-FBI-420E8E",
+          "right_case_id": "1958-FBI-D3842E",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "FBI-UAP-D012.pdf",
+          "left_case_id": "1958-FBI-D3842E",
+          "right_case_id": "1958-FBI-6DD6C7",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "FBI-UAP-D012.pdf",
+          "left_case_id": "1958-FBI-6DD6C7",
+          "right_case_id": "1959-FBI-BA1A63",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "FBI-UAP-D012.pdf",
+          "left_case_id": "1959-FBI-BA1A63",
+          "right_case_id": "1960-FBI-A1F54A",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "FBI-UAP-D012.pdf",
+          "left_case_id": "1960-FBI-A1F54A",
+          "right_case_id": "1960-FBI-147E91",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "FBI-UAP-D012.pdf",
+          "left_case_id": "1960-FBI-147E91",
+          "right_case_id": "1960-FBI-8DA237",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "FBI-UAP-D012.pdf",
+          "left_case_id": "1960-FBI-8DA237",
+          "right_case_id": "1960-FBI-DE8CB5",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "FBI-UAP-D012.pdf",
+          "left_case_id": "1960-FBI-DE8CB5",
+          "right_case_id": "1966-OTHER-0D00E1",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        }
+      ]
+    },
+    "CIA-UAP-010.pdf": {
+      "input_rows": 1,
+      "episode_count": 1,
+      "boundaries": []
+    },
+    "CIA-UAP-011.pdf": {
+      "input_rows": 1,
+      "episode_count": 1,
+      "boundaries": []
+    },
+    "CIA-UAP-014.pdf": {
+      "input_rows": 1,
+      "episode_count": 1,
+      "boundaries": []
+    },
+    "DOW-UAP-D078.pdf": {
+      "input_rows": 3,
+      "episode_count": 3,
+      "boundaries": [
+        {
+          "source_filename": "DOW-UAP-D078.pdf",
+          "left_case_id": "UNDATED-FBI-42C272",
+          "right_case_id": "UNDATED-FBI-B8A3AB",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D078.pdf",
+          "left_case_id": "UNDATED-FBI-B8A3AB",
+          "right_case_id": "UNDATED-FBI-C98A18",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        }
+      ]
+    },
+    "DOW-UAP-D080.pdf": {
+      "input_rows": 3,
+      "episode_count": 3,
+      "boundaries": [
+        {
+          "source_filename": "DOW-UAP-D080.pdf",
+          "left_case_id": "UNDATED-OTHER-7258F0",
+          "right_case_id": "UNDATED-OTHER-F8E57A",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D080.pdf",
+          "left_case_id": "UNDATED-OTHER-F8E57A",
+          "right_case_id": "UNDATED-OTHER-B40E2C",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        }
+      ]
+    },
+    "DOW-UAP-D081.pdf": {
+      "input_rows": 1,
+      "episode_count": 1,
+      "boundaries": []
+    },
+    "DOW-UAP-D082.pdf": {
+      "input_rows": 12,
+      "episode_count": 5,
+      "boundaries": [
+        {
+          "source_filename": "DOW-UAP-D082.pdf",
+          "left_case_id": "UNDATED-FBI-82CCDD",
+          "right_case_id": "UNDATED-FBI-F4CE38",
+          "boundary": "same_episode",
+          "evidence": [
+            "continuity_cue=same_episode"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D082.pdf",
+          "left_case_id": "UNDATED-FBI-F4CE38",
+          "right_case_id": "UNDATED-FBI-AF6C31",
+          "boundary": "same_episode",
+          "evidence": [
+            "continuity_cue=same_episode"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D082.pdf",
+          "left_case_id": "UNDATED-FBI-AF6C31",
+          "right_case_id": "UNDATED-FBI-15D04A",
+          "boundary": "same_episode",
+          "evidence": [
+            "continuity_cue=same_episode"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D082.pdf",
+          "left_case_id": "UNDATED-FBI-15D04A",
+          "right_case_id": "UNDATED-FBI-FEDFE7",
+          "boundary": "new_episode",
+          "evidence": [
+            "continuity_cue=new_episode"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D082.pdf",
+          "left_case_id": "UNDATED-FBI-FEDFE7",
+          "right_case_id": "UNDATED-FBI-4557DC",
+          "boundary": "same_episode",
+          "evidence": [
+            "continuity_cue=same_episode"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D082.pdf",
+          "left_case_id": "UNDATED-FBI-4557DC",
+          "right_case_id": "UNDATED-FBI-2EAE94",
+          "boundary": "same_episode",
+          "evidence": [
+            "continuity_cue=same_episode"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D082.pdf",
+          "left_case_id": "UNDATED-FBI-2EAE94",
+          "right_case_id": "UNDATED-FBI-42FC0E",
+          "boundary": "same_episode",
+          "evidence": [
+            "continuity_cue=same_episode"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D082.pdf",
+          "left_case_id": "UNDATED-FBI-42FC0E",
+          "right_case_id": "UNDATED-FBI-578E28",
+          "boundary": "same_episode",
+          "evidence": [
+            "continuity_cue=same_episode"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D082.pdf",
+          "left_case_id": "UNDATED-FBI-578E28",
+          "right_case_id": "UNDATED-FBI-4FF3BA",
+          "boundary": "new_episode",
+          "evidence": [
+            "continuity_cue=new_episode"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D082.pdf",
+          "left_case_id": "UNDATED-FBI-4FF3BA",
+          "right_case_id": "UNDATED-FBI-09122D",
+          "boundary": "new_episode",
+          "evidence": [
+            "continuity_cue=new_episode"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D082.pdf",
+          "left_case_id": "UNDATED-FBI-09122D",
+          "right_case_id": "UNDATED-FBI-C4AD20",
+          "boundary": "new_episode",
+          "evidence": [
+            "continuity_cue=new_episode"
+          ]
+        }
+      ]
+    },
+    "DOW-UAP-D083.pdf": {
+      "input_rows": 5,
+      "episode_count": 5,
+      "boundaries": [
+        {
+          "source_filename": "DOW-UAP-D083.pdf",
+          "left_case_id": "UNDATED-DOW-03C815",
+          "right_case_id": "UNDATED-DOW-8BB3D1",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D083.pdf",
+          "left_case_id": "UNDATED-DOW-8BB3D1",
+          "right_case_id": "UNDATED-DOW-0AF53F",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D083.pdf",
+          "left_case_id": "UNDATED-DOW-0AF53F",
+          "right_case_id": "UNDATED-DOW-75EF1D",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D083.pdf",
+          "left_case_id": "UNDATED-DOW-75EF1D",
+          "right_case_id": "UNDATED-DOW-94EB50",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        }
+      ]
+    },
+    "DOW-UAP-D087.pdf": {
+      "input_rows": 5,
+      "episode_count": 5,
+      "boundaries": [
+        {
+          "source_filename": "DOW-UAP-D087.pdf",
+          "left_case_id": "UNDATED-DOW-D2FE27",
+          "right_case_id": "UNDATED-USAF-F1A24F",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D087.pdf",
+          "left_case_id": "UNDATED-USAF-F1A24F",
+          "right_case_id": "1947-DOW-7D054B",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D087.pdf",
+          "left_case_id": "1947-DOW-7D054B",
+          "right_case_id": "1947-DOW-955BAE",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D087.pdf",
+          "left_case_id": "1947-DOW-955BAE",
+          "right_case_id": "UNDATED-DOW-6EE85A",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        }
+      ]
+    },
+    "FBI-UAP-D004.pdf": {
+      "input_rows": 2,
+      "episode_count": 2,
+      "boundaries": [
+        {
+          "source_filename": "FBI-UAP-D004.pdf",
+          "left_case_id": "UNDATED-FBI-14BE00",
+          "right_case_id": "UNDATED-FBI-A1566D",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        }
+      ]
+    },
+    "FBI-UAP-D005.pdf": {
+      "input_rows": 3,
+      "episode_count": 3,
+      "boundaries": [
+        {
+          "source_filename": "FBI-UAP-D005.pdf",
+          "left_case_id": "UNDATED-FBI-380101",
+          "right_case_id": "UNDATED-FBI-E92455",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "FBI-UAP-D005.pdf",
+          "left_case_id": "UNDATED-FBI-E92455",
+          "right_case_id": "UNDATED-USA-AEFAE6",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        }
+      ]
+    },
+    "FBI-UAP-D007.pdf": {
+      "input_rows": 4,
+      "episode_count": 4,
+      "boundaries": [
+        {
+          "source_filename": "FBI-UAP-D007.pdf",
+          "left_case_id": "UNDATED-FBI-8BCB6F",
+          "right_case_id": "UNDATED-FBI-D8E5B9",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "FBI-UAP-D007.pdf",
+          "left_case_id": "UNDATED-FBI-D8E5B9",
+          "right_case_id": "UNDATED-FBI-3994E8",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "FBI-UAP-D007.pdf",
+          "left_case_id": "UNDATED-FBI-3994E8",
+          "right_case_id": "UNDATED-FBI-0F4A44",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        }
+      ]
+    },
+    "FBI-UAP-D008.pdf": {
+      "input_rows": 1,
+      "episode_count": 1,
+      "boundaries": []
+    },
+    "NASA-UAP-D017.pdf": {
+      "input_rows": 1,
+      "episode_count": 1,
+      "boundaries": []
+    },
+    "NASA-UAP-D019.pdf": {
+      "input_rows": 1,
+      "episode_count": 1,
+      "boundaries": []
+    },
+    "NASA-UAP-D020.pdf": {
+      "input_rows": 3,
+      "episode_count": 3,
+      "boundaries": [
+        {
+          "source_filename": "NASA-UAP-D020.pdf",
+          "left_case_id": "UNDATED-NASA-6147BE",
+          "right_case_id": "UNDATED-NASA-3A98D5",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "NASA-UAP-D020.pdf",
+          "left_case_id": "UNDATED-NASA-3A98D5",
+          "right_case_id": "UNDATED-NASA-481954",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        }
+      ]
+    },
+    "NASA-UAP-D021.pdf": {
+      "input_rows": 1,
+      "episode_count": 1,
+      "boundaries": []
+    },
+    "DOW-UAP-D088.pdf": {
+      "input_rows": 67,
+      "episode_count": 67,
+      "boundaries": [
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "1947-DOW-AE5FD0",
+          "right_case_id": "1947-USN-0A0B7C",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "1947-USN-0A0B7C",
+          "right_case_id": "1947-USN-2B1C80",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "1947-USN-2B1C80",
+          "right_case_id": "1948-USAF-BBF693",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "1948-USAF-BBF693",
+          "right_case_id": "UNDATED-USAF-FE3BFB",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "UNDATED-USAF-FE3BFB",
+          "right_case_id": "1948-DOW-0A7390",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "1948-DOW-0A7390",
+          "right_case_id": "1948-USAF-1F9AD2",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "1948-USAF-1F9AD2",
+          "right_case_id": "1948-USAF-B2CFCE",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "1948-USAF-B2CFCE",
+          "right_case_id": "1948-USAF-27805A",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "1948-USAF-27805A",
+          "right_case_id": "1948-USAF-86200B",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "1948-USAF-86200B",
+          "right_case_id": "1948-USAF-B87733",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "1948-USAF-B87733",
+          "right_case_id": "1948-USAF-F2241E",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "1948-USAF-F2241E",
+          "right_case_id": "1948-DOW-18E973",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "1948-DOW-18E973",
+          "right_case_id": "1948-DOW-8D6B91",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "1948-DOW-8D6B91",
+          "right_case_id": "1948-DOW-073986",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "1948-DOW-073986",
+          "right_case_id": "1948-USAF-929659",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "1948-USAF-929659",
+          "right_case_id": "UNDATED-USAF-C065FF",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "UNDATED-USAF-C065FF",
+          "right_case_id": "UNDATED-USAF-1173FB",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "UNDATED-USAF-1173FB",
+          "right_case_id": "UNDATED-DOW-96E4D5",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "UNDATED-DOW-96E4D5",
+          "right_case_id": "UNDATED-DOW-779C5B",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "UNDATED-DOW-779C5B",
+          "right_case_id": "UNDATED-DOW-866540",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "UNDATED-DOW-866540",
+          "right_case_id": "UNDATED-DOW-9B5D75",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "UNDATED-DOW-9B5D75",
+          "right_case_id": "UNDATED-DOW-01F83D",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "UNDATED-DOW-01F83D",
+          "right_case_id": "UNDATED-DOW-425D55",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "UNDATED-DOW-425D55",
+          "right_case_id": "UNDATED-DOW-624838",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "UNDATED-DOW-624838",
+          "right_case_id": "1918-RAF-66D199",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "1918-RAF-66D199",
+          "right_case_id": "UNDATED-USAF-5E9B99",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "UNDATED-USAF-5E9B99",
+          "right_case_id": "1948-USAF-D96E2B",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "1948-USAF-D96E2B",
+          "right_case_id": "1948-USAF-A09FD8",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "1948-USAF-A09FD8",
+          "right_case_id": "UNDATED-DOW-BBB35B",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "UNDATED-DOW-BBB35B",
+          "right_case_id": "1948-DOW-722CFD",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "1948-DOW-722CFD",
+          "right_case_id": "UNDATED-DOW-5058DD",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "UNDATED-DOW-5058DD",
+          "right_case_id": "UNDATED-USN-C339A5",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "UNDATED-USN-C339A5",
+          "right_case_id": "UNDATED-USA-457EEB",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "UNDATED-USA-457EEB",
+          "right_case_id": "UNDATED-DOW-37819C",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "UNDATED-DOW-37819C",
+          "right_case_id": "1948-USAF-3E07D2",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "1948-USAF-3E07D2",
+          "right_case_id": "UNDATED-DOW-D5C0FB",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "UNDATED-DOW-D5C0FB",
+          "right_case_id": "UNDATED-DOW-92AE9A",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "UNDATED-DOW-92AE9A",
+          "right_case_id": "1948-OTHER-E7312A",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "1948-OTHER-E7312A",
+          "right_case_id": "1948-OTHER-73290C",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "1948-OTHER-73290C",
+          "right_case_id": "1948-OTHER-65F11F",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "1948-OTHER-65F11F",
+          "right_case_id": "1948-USAF-77483D",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "1948-USAF-77483D",
+          "right_case_id": "1948-USAF-35413D",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "1948-USAF-35413D",
+          "right_case_id": "1948-DOW-D131B8",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "1948-DOW-D131B8",
+          "right_case_id": "1948-DOW-40B1D6",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "1948-DOW-40B1D6",
+          "right_case_id": "1948-DOW-6EEA6C",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "1948-DOW-6EEA6C",
+          "right_case_id": "UNDATED-DOW-A22A98",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "UNDATED-DOW-A22A98",
+          "right_case_id": "1948-DOW-1A4F34",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "1948-DOW-1A4F34",
+          "right_case_id": "1948-DOW-6DAE54",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "1948-DOW-6DAE54",
+          "right_case_id": "UNDATED-DOW-8A48B2",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "UNDATED-DOW-8A48B2",
+          "right_case_id": "1948-USAF-9D72CC",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "1948-USAF-9D72CC",
+          "right_case_id": "1948-DOW-D2977F",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "1948-DOW-D2977F",
+          "right_case_id": "1948-DOW-74961C",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "1948-DOW-74961C",
+          "right_case_id": "UNDATED-DOW-F389BF",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "UNDATED-DOW-F389BF",
+          "right_case_id": "UNDATED-DOW-9433CF",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "UNDATED-DOW-9433CF",
+          "right_case_id": "1948-USN-A1B75A",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "1948-USN-A1B75A",
+          "right_case_id": "UNDATED-USAF-32B1F2",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "UNDATED-USAF-32B1F2",
+          "right_case_id": "1948-USAF-F2CCB5",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "1948-USAF-F2CCB5",
+          "right_case_id": "UNDATED-DOW-700A3E",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "UNDATED-DOW-700A3E",
+          "right_case_id": "1948-DOW-5CD5DF",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "1948-DOW-5CD5DF",
+          "right_case_id": "1948-DOW-E9D290",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "1948-DOW-E9D290",
+          "right_case_id": "UNDATED-DOW-8C34F5",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "UNDATED-DOW-8C34F5",
+          "right_case_id": "1948-DOW-EC4793",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "1948-DOW-EC4793",
+          "right_case_id": "1948-USAF-665866",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "1948-USAF-665866",
+          "right_case_id": "1948-OTHER-F10B1B",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "1948-OTHER-F10B1B",
+          "right_case_id": "1948-OTHER-7760B6",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "DOW-UAP-D088.pdf",
+          "left_case_id": "1948-OTHER-7760B6",
+          "right_case_id": "UNDATED-DOW-28B571",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        }
+      ]
+    },
+    "FBI-UAP-D013.pdf": {
+      "input_rows": 8,
+      "episode_count": 8,
+      "boundaries": [
+        {
+          "source_filename": "FBI-UAP-D013.pdf",
+          "left_case_id": "1953-USN-C2999C",
+          "right_case_id": "1953-USN-573FEC",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "FBI-UAP-D013.pdf",
+          "left_case_id": "1953-USN-573FEC",
+          "right_case_id": "1953-FBI-A61610",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "FBI-UAP-D013.pdf",
+          "left_case_id": "1953-FBI-A61610",
+          "right_case_id": "1954-USAF-34B3C0",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "FBI-UAP-D013.pdf",
+          "left_case_id": "1954-USAF-34B3C0",
+          "right_case_id": "1954-USAF-34623D",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "FBI-UAP-D013.pdf",
+          "left_case_id": "1954-USAF-34623D",
+          "right_case_id": "UNDATED-USAF-7E6303",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "FBI-UAP-D013.pdf",
+          "left_case_id": "UNDATED-USAF-7E6303",
+          "right_case_id": "1956-USAF-A500E2",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        },
+        {
+          "source_filename": "FBI-UAP-D013.pdf",
+          "left_case_id": "1956-USAF-A500E2",
+          "right_case_id": "1959-FBI-35647B",
+          "boundary": "uncertain_boundary",
+          "evidence": [
+            "continuity_cue=none"
+          ]
+        }
+      ]
+    }
+  },
+  "production_writes": false,
+  "auto_merged": false,
+  "incidents_rewritten": false,
+  "candidates": [
+    {
+      "candidate_kind": "series_identifier",
+      "left": "DOW-UAP-D077.pdf",
+      "right": "Western US Event",
+      "evidence": [
+        "catalog pdf_pairing series label: Western US Event"
+      ],
+      "series_label": "Western US Event"
+    },
+    {
+      "candidate_kind": "series_identifier",
+      "left": "DOW-UAP-D078.pdf",
+      "right": "Western US Event",
+      "evidence": [
+        "catalog pdf_pairing series label: Western US Event"
+      ],
+      "series_label": "Western US Event"
+    },
+    {
+      "candidate_kind": "catalog_pdf_pairing",
+      "left": "DOW-UAP-D079.pdf",
+      "right": "FBI-UAP-D014.pdf",
+      "evidence": [
+        "catalog PDF Pairing links DOW-UAP-D079 \u2192 FBI-UAP-D014"
+      ]
+    },
+    {
+      "candidate_kind": "catalog_pdf_pairing",
+      "left": "DOW-UAP-D079.pdf",
+      "right": "FBI-UAP-D015.pdf",
+      "evidence": [
+        "catalog PDF Pairing links DOW-UAP-D079 \u2192 FBI-UAP-D015"
+      ]
+    },
+    {
+      "candidate_kind": "catalog_pdf_pairing",
+      "left": "DOW-UAP-D079.pdf",
+      "right": "FBI-UAP-D021.pdf",
+      "evidence": [
+        "catalog PDF Pairing links DOW-UAP-D079 \u2192 FBI-UAP-D021"
+      ]
+    },
+    {
+      "candidate_kind": "series_identifier",
+      "left": "DOW-UAP-D079.pdf",
+      "right": "Western US Event",
+      "evidence": [
+        "catalog pdf_pairing series label: Western US Event"
+      ],
+      "series_label": "Western US Event"
+    },
+    {
+      "candidate_kind": "catalog_pdf_pairing",
+      "left": "DOW-UAP-D080.pdf",
+      "right": "FBI-UAP-D016.pdf",
+      "evidence": [
+        "catalog PDF Pairing links DOW-UAP-D080 \u2192 FBI-UAP-D016"
+      ]
+    },
+    {
+      "candidate_kind": "catalog_pdf_pairing",
+      "left": "DOW-UAP-D080.pdf",
+      "right": "FBI-UAP-D017.pdf",
+      "evidence": [
+        "catalog PDF Pairing links DOW-UAP-D080 \u2192 FBI-UAP-D017"
+      ]
+    },
+    {
+      "candidate_kind": "catalog_pdf_pairing",
+      "left": "DOW-UAP-D080.pdf",
+      "right": "FBI-UAP-D018.pdf",
+      "evidence": [
+        "catalog PDF Pairing links DOW-UAP-D080 \u2192 FBI-UAP-D018"
+      ]
+    },
+    {
+      "candidate_kind": "catalog_pdf_pairing",
+      "left": "DOW-UAP-D080.pdf",
+      "right": "FBI-UAP-D019.pdf",
+      "evidence": [
+        "catalog PDF Pairing links DOW-UAP-D080 \u2192 FBI-UAP-D019"
+      ]
+    },
+    {
+      "candidate_kind": "catalog_pdf_pairing",
+      "left": "DOW-UAP-D080.pdf",
+      "right": "FBI-UAP-D020.pdf",
+      "evidence": [
+        "catalog PDF Pairing links DOW-UAP-D080 \u2192 FBI-UAP-D020"
+      ]
+    },
+    {
+      "candidate_kind": "catalog_pdf_pairing",
+      "left": "DOW-UAP-D080.pdf",
+      "right": "FBI-UAP-D022.pdf",
+      "evidence": [
+        "catalog PDF Pairing links DOW-UAP-D080 \u2192 FBI-UAP-D022"
+      ]
+    },
+    {
+      "candidate_kind": "catalog_pdf_pairing",
+      "left": "DOW-UAP-D080.pdf",
+      "right": "FBI-UAP-D023.pdf",
+      "evidence": [
+        "catalog PDF Pairing links DOW-UAP-D080 \u2192 FBI-UAP-D023"
+      ]
+    },
+    {
+      "candidate_kind": "series_identifier",
+      "left": "DOW-UAP-D080.pdf",
+      "right": "Western US Event",
+      "evidence": [
+        "catalog pdf_pairing series label: Western US Event"
+      ],
+      "series_label": "Western US Event"
+    },
+    {
+      "candidate_kind": "series_identifier",
+      "left": "DOW-UAP-D081.pdf",
+      "right": "Western US Event",
+      "evidence": [
+        "catalog pdf_pairing series label: Western US Event"
+      ],
+      "series_label": "Western US Event"
+    },
+    {
+      "candidate_kind": "series_identifier",
+      "left": "DOW-UAP-D082.pdf",
+      "right": "Western US Event",
+      "evidence": [
+        "catalog pdf_pairing series label: Western US Event"
+      ],
+      "series_label": "Western US Event"
+    },
+    {
+      "candidate_kind": "series_identifier",
+      "left": "DOW-UAP-D083.pdf",
+      "right": "Western US Event",
+      "evidence": [
+        "catalog pdf_pairing series label: Western US Event"
+      ],
+      "series_label": "Western US Event"
+    },
+    {
+      "candidate_kind": "catalog_pdf_pairing",
+      "left": "FBI-UAP-D003.pdf",
+      "right": "FBI-UAP-D002.pdf",
+      "evidence": [
+        "catalog PDF Pairing links FBI-UAP-D003 \u2192 FBI-UAP-D002"
+      ]
+    },
+    {
+      "candidate_kind": "catalog_pdf_pairing",
+      "left": "FBI-UAP-D009.pdf",
+      "right": "FBI-UAP-D010.pdf",
+      "evidence": [
+        "catalog PDF Pairing links FBI-UAP-D009 \u2192 FBI-UAP-D010"
+      ]
+    },
+    {
+      "candidate_kind": "series_identifier",
+      "left": "DOW-UAP-D077.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog series identifier western-us-event-2023"
+      ],
+      "series_id": "western-us-event-2023"
+    },
+    {
+      "candidate_kind": "series_identifier",
+      "left": "DOW-UAP-D078.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog series identifier western-us-event-2023"
+      ],
+      "series_id": "western-us-event-2023"
+    },
+    {
+      "candidate_kind": "series_identifier",
+      "left": "DOW-UAP-D079.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog series identifier western-us-event-2023"
+      ],
+      "series_id": "western-us-event-2023"
+    },
+    {
+      "candidate_kind": "series_identifier",
+      "left": "DOW-UAP-D080.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog series identifier western-us-event-2023"
+      ],
+      "series_id": "western-us-event-2023"
+    },
+    {
+      "candidate_kind": "series_identifier",
+      "left": "DOW-UAP-D081.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog series identifier western-us-event-2023"
+      ],
+      "series_id": "western-us-event-2023"
+    },
+    {
+      "candidate_kind": "series_identifier",
+      "left": "DOW-UAP-D082.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog series identifier western-us-event-2023"
+      ],
+      "series_id": "western-us-event-2023"
+    },
+    {
+      "candidate_kind": "series_identifier",
+      "left": "DOW-UAP-D083.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog series identifier western-us-event-2023"
+      ],
+      "series_id": "western-us-event-2023"
+    },
+    {
+      "candidate_kind": "analysis_place_match",
+      "left": "ICA-UAP-D001.pdf",
+      "right": "UNDATED-USA-599D8B",
+      "evidence": [
+        "analysis source text shares specific place token(s): ['cheyenne', 'cheyenne mountain']",
+        "target incident UNDATED-USA-599D8B from FBI-UAP-D002.pdf",
+        "place_prominence=lede_or_repeated"
+      ],
+      "target_filename": "FBI-UAP-D002.pdf",
+      "score_band": "strong"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+UNCLASSIFIED/ fFOA OFFl&I.t.k Y&& 8PtL\f 
+Figure 8. A Stargate in Times Square 
+If a small wormhole (three or more dimensional) were to begin to appear or even bump 
+into our local space, one would perceive t his process as the occurrence of an unusually 
+bright spot in the sky. Blue and red Doppler shifting of this bright spot would manifest 
+when t he intersection of the wormhole with our local space grows or recedes, 
+respectively. 
+III. The General Relativistic Definition of Exotic Matter and 
+the Energy Conditions 
+This section will consider the physics of the exotic matter that is required to build 
+traversable wormholes. What exactly is "exotic" matter? In classical physics the energy 
+density of all observed forms of matter (fields) is non-negative. What is exotic about 
+the type of matter that must be used to generate traversable wormhole spacetime is 
+that it must have negative energy density and/or negative flux (Reference 10). The 
+energy density is "negative" in the sense that the configuration of matter fields one 
+must deploy to generate and thread a traversable wormhole throat must have an 
+energy density, pE ( = pc2, where pis the rest-mass density), that is less than or equal 
+to its pressures/tensions, Pi (Reference 1, 3). 4 In many cases, these equations of state 
+are also known to possess an energy density that is algebraically negative, i.e., the 
+energy density and flux are less than zero. It is on the basis of these condit ions that 
+4 From th is point forward in the text, all Latin indices (e.g., i, j, k =1...3) that are affixed to phys ical quant ities 
+denote the usual 3-dimensional space coord inates, x1... x3, indicating the spatial components of vector or tensor 
+quant ities. 
+UNCLASSIFIEQ { {FOR OFFICIAL Y&& 8HLY 
+9

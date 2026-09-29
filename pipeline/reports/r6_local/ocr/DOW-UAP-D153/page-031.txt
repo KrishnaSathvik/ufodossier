@@ -1,0 +1,45 @@
+UNCLASSIFIED/ /FOR OFFICIAL 03E 014L I 
+Photodiodes 
+Most photodetectors apply a version of the photoelectric effect to operate in which 
+incident light radiation ionizes a piece of photosensitive material in the detector and 
+produces freely moving electrons, i.e., an electric current is created that can be 
+amplified and handled by electronic means. A commonly used type of detector is the 
+linear-response photodiode. In most cases, the photosensitive part of the detector is a 
+P-1-N structure, a sandwich of Positively doped, Intrinsic, and Negatively doped 
+semiconductor material. Commonly, silicon (Si) or indium gallium arsenide (lnGaAs) 
+are used where Si detects light out to a 1 µm wavelength and InGaAs operates in the 
+range 0.19 µm to 2.6 µm. A bias voltage of about 10 Volts is applied to drain the 
+majority carriers (electrons in N and holes in P) out of the intrinsic zone. In this 
+depletion region an unstable situation is created for the minority carriers. As soon as 
+electron-hole pairs are present in the intrinsic zone, the bias voltage produces a current 
+that is proportional to the number of carriers. Electrons in the valence band are lifted 
+into the conduction band by the absorption of light radiation, i.e., the absorption of a 
+single photon lifts one electron into the conduction band, which creates electron-hole 
+pairs in the depletion zone. This process can be made highly efficient because the 
+applied voltage is very low so that no avalanche of charge carriers into the conduction 
+band (via collisions) is formed. The current response of the detector is linear in the 
+intensity of the detected light. However, thermal fluctuations cause Nyquist noise in 
+the photocurrent. Thermal effects also create electron-hole pairs in the depletion zone 
+thus producing dark current, which is electronic noise. Because of this electronic noise, 
+linear-response photodiodes do not reach single-photon resolution. They are suitable 
+for relatively high intensities, greater than about 100 photons per microsecond. 
+There are inefficiencies and noise associated with realistic photodetection. A convenient 
+model to understand the effect these have on experiments is provided by imagining a 
+fictitious beam splitter placed in front of an ideal detector. See Figure 9. Only the 
+transmitted photons are counted, so t hat the transmissiv ity of the fictitious beam 
+splitter corresponds to the detection efficiency. Dissipation is always accompanied by 
+fluctuations. These degrade the quantum noise properties of the detected light. The 
+fluctuations are modeled by a vacuum entering the unused port of the fictitious beam 
+splitter. This analysis shows how the nonclassical features of light are lost when the 
+detectors are inefficient. 
+Balanced Homodyne Detection 
+Under idealized conditions the photon number is measured in direct photodetection. 
+However, another method of detection exists, in which the light field amplitudes (the 
+quadrature components) are measured instead of the quantized light intensity. 
+Intensity (photon number) and field amplitude (quadrature) are distinct quantities. 
+There is no simple relationship between the photon statistics and the quadrature 
+distributions in the quantum regime, but the two are shown to be related via the 
+mathematics and procedures of quantum state sampling [38]. Furthermore, the field 
+amplitudes contain phase information, and so they are dependent on phase. 
+UNCLASSIFIED/ /FOA &FFI@IAL U.!E ONE I 
+27

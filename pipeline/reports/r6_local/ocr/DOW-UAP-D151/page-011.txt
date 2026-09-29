@@ -1,0 +1,50 @@
+UNCLASSIFIED / /(502-O5526EA-USE-ONET"
+
+high frequency components which have different noise contributions (for example, core
+temperature changes, blood pressure or speech, and respiration, respectively).?°
+
+Blood pressure and its variability can also be measured. For continuous monitoring, a
+finger cuff filled with water match the inner-arterial pressure and can be used to
+monitor variability.1!
+
+CNS Measurements
+
+Measurement of brain activity can be unobtrusively recorded using low-count
+electroencephalography (EEG),® or the minimally obtrusive techniques of EEG, near-
+infrared spectrometry (NIRS), trans-cranial Doppler sonography (TCDS), or the non-
+invasive laboratory techniques of functional MRI (fMRI), magnetoencephalography
+(MEG), or positron emission tomography (PET). The latter three techniques are for
+brain research only and do not have any current naturalistic research studies (although
+see Genik!2 for a prognosis on generation-after-next technologies including NIRS, PET,
+fMRI, and MEG).
+
+EEG measurements are typically divided into spectra and the relative power in the
+bands 0-4 Hz (A), 4-8 Hz (0), 8-13 Hz (a), 13-30 Hz (8), and 30-100 Hz (y). NIRS
+measures the BOLD effect‘ and is related to localized y activity. TCDS measures CO2 as
+the byproduct of localized increased metabolism and is also an indirect measure of
+neural activity which has been shown to be related to vigilance.1? For EEG experiments
+in mental workload, changes are typically reported in the 6 and a bands, though more
+recently B and y bands have shown sensitivity. +*
+
+Event-related potentials (ERP) are peaks of activity measured at the skin indicative of
+several tens of thousands of neurons firing coherently for a short time. For example, a
+well-studied cognitive ERP is P300, a 10’s-of-msec-wide bump in the EEG signal
+occurring 200-400 msec after an event. Some success in utilizing a task-irrelevant
+secondary audio stimulation and N100 has been shown,!> but little further development
+to this approach has been found in the last 15 years.
+
+Ocular Measurements
+
+Measurements involving eye fixations, dwell time (temporal length of a fixation), and
+pupillary changes are well established metrics of workload in visual searching tasks. *®
+Additional measures of ocular changes include blink rate, blink duration, blink latency,
+and eye movement. These are recorded using one of various types of eye-tracking (ET)
+or electrodes to measure an electrooculogram (EOG). ET data will include position of a
+fixation and the time of each eye movement (or saccade), whereas an EOG only
+identifies the time that the muscle controlling eye blinks or eye position activated.
+
+© Low-count EEG is generally less than 10 electrodes, and usually 3 or 5.
+‘The Blood Oxygen Level Dependent (BOLD) effect is a local change in the oxygen saturation ratio near neural
+activity due to metabolic and vascular action. This change is detectible in the infrared spectra.
+
+UNCLASSIFIED/ /FOROPPTCTALUSE-ONLEY

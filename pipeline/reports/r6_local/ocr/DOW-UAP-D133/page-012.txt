@@ -1,0 +1,46 @@
+UNCLASSIFIED/ /FOR. OFFl@IAL l!ISE 8PU::Y 
+interacts with a nonlinear crystal and is transformed into two photons with energies and 
+vector momenta that add up to those of the original pump photon. Depending on the 
+type of down-conversion process, there are well-defined polarization correlations 
+between the entangled photons. The down-converted photons may also be easily 
+prepared in momentum -entangled states, because within the nonlinear medium, the 
+vector momenta of the down-converted pair of photons must add to give that of the 
+pump photon. 
+The first measurement using 
+momentum-entangled down-conversion 
+photons that might be related to 
+nonlocal communication is the Ghost 
+Interference experiment reported in 
+1995 by the Shih group (Reference 16), 
+shown schematically in Figure 2. The 
+experimenters used degenerate 
+collinear Type-II down-conversion of 
+351-nm UV pump radiation from an 
+argon-ion laser passed through a 3-
+mm-long BBO (f3-BaB2Q4) crystal that 0had been cut with the optic axis at a 
+phase-matching angle of 42.2° to the 
+pump beam to produce a pair of 
+collinear momentum-entangled 702-nm 
+photons with opposite polarizations. The 
+entangled photons emerge from the 
+crystal very nearly parallel with the 
+pump beam. The pump beam is then 
+split off from the pair using refraction in 
+a quartz prism (UV Prism), and the 
+entangled photons are separated with a 
+polarization-selecting beam splitter (BS) 
+that reflects the "extraordinary" 
+vertically polarized photon (e) and Figure 2. Schematic of the 1995 Ghost Interference 
+transmits the "ordinary" horizontally Experiment (Reference 16) of the Shih group 
+polarized photon (o) . Both photons are 
+passed through 702 ± 10-nm wavelength-selective filters (f1,2) and then detected 
+(D1,2). 
+351 nm 
+Ar Laser 
+BS 
+f 
+Slits 1 
+fiber Gating 
+Gated 
+UNCLASSIFIED/ /FOR. OFFICIJ!IL U:!~ Gilt I 
+6

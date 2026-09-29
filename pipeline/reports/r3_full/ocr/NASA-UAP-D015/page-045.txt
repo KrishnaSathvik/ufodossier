@@ -1,0 +1,26 @@
+LOS ALAMOS SCIENTIFIC LABORATORY 
+UNIVl:RatTY 01" CALll"ORNIA 
+L.09 ALAM09, NIIW MUICO 
+TO: Dr. Jocelyn Gill -5- DATI: July 13, 1962 
+From the repcrt 1n Science, I infer that for the layer reported, 
+(16) 
+or 
+(17) 
+giving 
+aNi • o.o4 ± 0.027 (18) 
+and 
+0N2 • 0.22 ± 0.15 (19) 
+Any such absorbing layer present during the day would result in rapid heating, and 
+•I 
+reradiation in the infra-red range from whatever bands may be present. However, 
+the absorbers postulated below would be destroyed by photodissociation and/or 
+heating during the day. Hence, it is not surprising that solar spectra have not 
+shown such an absorbing layer. 
+StellarJplanetary or lunar spectra might show the existence of such a layer, 
+if the absorption spectrum has sufficient structure. 
+Setting (20a) 
+we find the effective path length Xi. 
+(20b) 
+~ • 3.9 x 106 cm (starting absorption at (20c) 
+.100 km altitude) 
+'

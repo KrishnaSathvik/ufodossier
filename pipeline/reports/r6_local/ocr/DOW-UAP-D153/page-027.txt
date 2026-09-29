@@ -1,0 +1,43 @@
+UNCLASSIFIED/ /FOR OFFICiltt tJ.!l! f>HLY 
+serves to demonstrate the apparent conflict of what quantum theory tells us is true 
+about the nature and behavior of matter on the quantum (atomic or subatomic) level 
+compared with what we actually observe to be true about the nature and behavior of 
+matter on the macroscopic level. 
+Schrodinger's thought experiment is as follows: One places a living cat into a steel 
+chamber along with a device containing a vial of hydrocyanic acid. There is also a very 
+small amount of a radioactive substance inside the chamber. If even a single atom of 
+the substance decays during the test period, then a relay mechanism will trip a 
+hammer, which will in turn break the vial and kill the cat. 
+The observer cannot know whether or not an atom of the radioactive substance has 
+decayed, and consequently, cannot know whether the vial has been broken, the 
+hydrocyan ic acid released, and the cat killed. Since one cannot know, the cat is both 
+dead and alive in a superposition of quantum states according to the quantum 
+superposition principle. It is only when one breaks open the box and learns the 
+condition of the cat that the superposition is lost, and the cat becomes either dead or 
+alive. This situation is sometimes called quantum indeterminacy or the observer's 
+paradox: the act of observation or measurement itself affects the outcome, so that the 
+outcome as such does not exist unless, and until, the measurement is made. (That is, 
+there is no single outcome unless it is observed.) 
+According to the fundamental superposition principle of quantum mechanics, we are 
+entitled to think of quantum superpositions of coherent states. These are states that 
+contain simultaneously two coherent components (or states), one pointing in one 
+direction in phase space and the other pointing in another direction. We label the 
+former component the "alive-cat" state and the latter component the "dead-cat state." 
+The position wave function '¥ of such a state would be the superposition of two 
+coherent state (Gaussian) wave functions [38]: 
+(11) 
+The normalization factor has been omitted in Eq. (11) because it is not important here. 
+Equation (11) shows that'¥ has two peaks, one at +qo (alive-cat state) and the other at 
+- qo (dead-cat state) according to the superimposed coherent amplitudes. Also, Eq. 
+(11) has nothing to do with optical interference. When two fields interfere, their 
+amplitude may be enhanced or canceled, producing, for example, coherent states of 
+enhanced or zero amplitude (vacuum). The quantum superposition shown in Eq. (11) 
+still contains both coherent amplitudes ±qo. It is also much different from an 
+incoherent superposition of ±qo, where the field has either the amplitude +qo or the 
+amplitude -qo with certain probabilities. The quadrature amplitude of'¥ is +qoas well 
+as -qo (simultaneously!), with a resolution given by the vacuum fluctuations. 
+This strange behavior of'¥ being simultaneously at +qo and - qo turns out to be the best 
+representation of Schrodinger's famous thought experiment in the quantum field theory 
+of light. Schrodinger cat states are difficult to observe in the optical domain because 
+UNCLASSIFIED/ /PO" OFFIClltt tJ.!l! Oflt I 
+23

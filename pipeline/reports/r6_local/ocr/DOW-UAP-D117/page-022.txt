@@ -1,0 +1,41 @@
+UNCLASSIFIED/ /EiOR QFFIEJIAL l1!E ONLY 
+deformation can proceed in a stable manner by generation and subsequent arrest of 
+shear bands. The key to composite design is to produce a microstructure with t he 
+correct length scale to prevent propagating shear bands from becoming catastrophic 
+cracks. This turns out to be relatively difficult with ex situ composites, for reasons of 
+processing described above. As a result, the recently developed dendritlc in situ 
+composites have the most prom ising properties, and we focus the remainder of our 
+discussion on them. 
+STRENGTH AND DUCTILITY: PLASTIC DEFORMATION 
+As with other composite materials, the yield strength of metallic glass matrix 
+composites can be approx imated as a simple rule of mixtures based on the volume 
+fract ion of the two phases. Because the ductile crystalline phases useful for limit ing 
+shear band propagation are weaker than the amorphous matrix, in producing a 
+composite, some sacrifice in strength is inevitable. However, the gains in tensi 'le 
+ductility can be significant. For instance, monolithic titanium -based metallic glasses 
+(like all metallic glasses) have essentially zero tensile ductility, but in situ composites 
+based on titanium have been reported with tensile elongation as large as 12 percent. 35 
+This is comparable to the ductility of Ti-6Al-4V (the most common convent ional 
+titan ium alloy), but in a material with about 30 percent greater strength. The properties 
+of metallic glass matrix composites and more conventional materials are further 
+compared below. 
+FRACTURE AND FATIGUE 
+The development of a stable plastic zone means additional energy is required for crack 
+propagation, making in situ composites much more resistant to fracture and fatigue 
+than are single-phase glasses. For instance, the plane-strain fracture toughness of 
+some zirconium -based in situ composites can exceed 170 MPa m112- 7 times greater 
+than that of single-phase glasses and greater than that of virtually any other metallic 
+alloy. 36 This resistance to crack propagation is also manifested as improved fatigue 
+performance. The fatigue strength of the zirconium-based in situ composites is 20-30 
+percent of the tensile strength; in comparison, monolithic metallic glasses have a 
+fatigue strength of only~ 5 percent of the tensile strength. 37 The fatigue strength of 
+the in situ composites is thus comparable to that of conventional structural alloys. 
+Aerospace Applications of Metallic Glasses 
+STRUCTURAL APPLICATIONS 
+The key properties of materials for structural applications in aerospace are: 
+• Strength. 
+• Stiffness (Young's modulus) . 
+• Density (weight) . 
+• Fracture toughness (damage tolerance) . 
+16 
+UNCLASSIFIED/ /FOR OFFICIO! 11S5 AN! X

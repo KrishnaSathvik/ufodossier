@@ -1,0 +1,46 @@
+UNCLASSIFIED/ /POI\ OPPICIAL l:191!! er~LY 
+where: a and bare dimensions of the sides and 'f.. is the wavelength. 
+For conical horns, the gain is given by: 
+where: D is the diameter and 'A, is the wavelength. 
+Mode conversion is critically important with horn antennas in order to generate field 
+patterns of use. The fundamental modes, TE10 in rectangular waveguide and TEn in 
+circular waveguide, are preferred since they radiate a field pattern with peak field 
+strength on axis. These are the most common modes used in electronic vulnerability 
+testing. 
+Parabolic dish antennas are the most 
+common type found in conventional 
+microwave applications, but their use in 
+narrowband HPM has been limited 
+because of breakdown problems in 
+center feed geometries. Variations of 
+the parabolic dish have, however, been 
+very successful. The Active Denial 
+System (ADS) uses a flat parabolic 
+surface (FLAPS) antenna. FLAPS uses an 
+array of crossed dipole scatterers placed 
+about 1/8 wavelength above a ground 
+plane to create a geometrically flat 
+surface that behaves like a parabolic 
+dish. Each dipole controls its 
+corresponding polarization. Incident 
+energy causes a standing wave to be 
+established between the dipole and the 
+ground plane. The interaction of the 
+dipole reactance and the standing wave causes the incident RF energy to be reradiated 
+with a phase shift determined by the dipole length, thickness, and distance from the 
+ground plane, as well as by the angle of incident RF, the dielectric constant of the 
+media between the dipole and ground plane, and the proximity to adjacent dipoles. 
+Figure 12 shows the essential elements of the FLAPS antenna with a cross-shorted 
+dipole array. These antennas are easier to store and have less wind resistance than 
+conventional parabolic dishes. 
+The Vlasov antenna is also well suited to narrowband HPM radiation and has some 
+distinct advantages. It can be fed with a TM01 mode and produce a directed beam with 
+a nearly Gaussian profile; mates easily to the cylindrically symmetric HPM sources, such 
+as the MILO and vircators; is easily constructed; and has a large feed aperture to 
+support high electric fields. Typically sources that generate their power in the TMon 
+modes require a mode converter for radiating anything other than a donut beam, but 
+the Vlasov antenna does not; the antenna is actually adapted from a mode converter. 
+UNCLASSIFIED/ {EAR OFFICIO .. Ulilii 8HLY 
+Figure 12. FLAPS Antenna With a Cross-Shorted 
+Dipole Array 
+26

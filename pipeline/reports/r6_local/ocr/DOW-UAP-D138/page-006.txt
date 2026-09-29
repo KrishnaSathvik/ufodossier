@@ -1,0 +1,44 @@
+UNCLASSIFIED//F0R 0FFIOIAL WSli a••tv 
+spacecraft capable of 100c 1 for an array of exotic destinations of possible 
+interest. As Table 1 shows, trips to the planets within our own solar system 
+would take hours rather than years, and journeys to local star system would 
+be measured in weeks rather than hundreds of thousands of years. 
+Table 1. Transit Times to Various Exotic Destinations 
+at 100 Times the Speed of Light 
+Destination Transit Time 
+Mars 193 seconds 
+Jupiter 36 minutes 
+Neptune 4 hours 
+Alpha Centauri 15 days 
+Epsilon Eridani 38 days 
+The Orion Nebula 1.3 years 
+Until recently, the warp drive was a concept reserved for science fiction. 
+However, a 1994 paper by Miguel Alcubierre placed the idea on a more solid 
+theoretical footing. Alcubierre (Reference 1) demonstrated that a specific 
+Lorentzian manifold could be chosen that exhibited bubble-like features 
+reminiscent of the warp drive from the popular Star Trek television series. The 
+bubble allowed for the surrounding spacetime to move at FTL speeds, and the 
+inhabitants of the bubble would feel no acceleration effects because spacetime 
+itself would be in motion instead of the spacecraft and its inhabitants. 
+A number of papers have emerged in recent years that build on this original 
+idea. However, these papers do not typically address how one might actually 
+create the necessary spacetime bubble. Our own research directly addresses 
+this question from a new and unique perspective and introduces a novel 
+paradigm shift in the field of warp drive study (Reference 2). More formally, 
+our work approaches the physics of warp drive from the perspective of 
+quantum field theory; this diverges from the more traditional approach to 
+warp drives, which utilizes the physics of general relativity. One of the 
+improvements the model introduces is a dramatic reduction in the overall 
+energy required to create such a phenomenon. 
+The roadmap to this new idea was the observation that spacetime is currently 
+known to be in a state of accelerated expansion, as demonstrated by the 
+redshifting of galaxies, and the belief that if the mechanism for this expansion 
+could be understood, then it might ultimately be controlled. A popular term 
+used by cosmologists today is "dark energy," an exotic and ubiquitous form of 
+energy that is believed to constitute over 70 percent of the matter-energy 
+content of the universe (Reference 3-6). One salient feature of dark energy is 
+its intrinsic ability to generate negative pressure, causing the fabric of space 
+to expand in the way that is currently observed (Reference 7). 
+1 This speed, while somewhat arbitrary, highlights the fact that our galaxy would become far more accessible if or 
+when one discovers how to surpass the speed of light barrier. 
+UNCLASSIFIED/ ,'FQR. QFFIOIAL WSI: OHL\' vi

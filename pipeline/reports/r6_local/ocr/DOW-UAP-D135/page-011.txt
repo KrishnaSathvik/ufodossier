@@ -1,0 +1,26 @@
+UNCLASSIFIED/ fFOA OFFIEIAk W&i 0Pilk¥ 
+where rio is the vacuum "gravitational permeability" constant( = 16nG/c2 = 3. 73 x 10-26 
+m/kg), 1 N is the total number of turns of pipe wound around the torus, 'ft. is the time 
+rate-of-change of the mass current flowing through the pipe, r is the radius of one of 
+the loops of pipe, R1 is the radius of the torus, and c is the speed of light (3 x 108 m/s) 
+(Reference 14). One should note the striking similarity between Equations (4) and (5) 
+for the dipole electric and dipole gravitational fields. 
+Figure 2. Diople Gravitational Field Generator {Reference 14} 
+Using Equation (5), Forward (Reference 13,14) showed that there would be a need to 
+accelerate matter with the density of a dwarf star through pipes as wide as a football 
+field wound around a torus with kilometer dimensions in order to produce an antigravity 
+field (at the center of the torus) of G ~ 10-10a acc , where a acc is the acceleration of the 
+(dwarf star density) matter through the pipes. The tiny factor 10-10 is composed of the 
+even smaller rio, which is the reason why very large systems are required to obtain 
+even a measurable amount of acceleration. To counteract the Earth's gravitational field 
+of 1-g requires an antigravity field of 1-g (vectored upward), and thus the dwarf star 
+density material within the pipes must achieve a acc = 1011 m/s 2 in order to accomplish 
+this effect. 
+Forward (Reference 5) also identified a configuration comprised of a rotating torus of 
+dense matter that turns inside-out like a smoke ring as another type of dipole 
+gravitational field generator. As shown in Figure 3, an inside-out turning ring of very 
+dense mass (M) will create an upward force (of acceleration a) in the direction of the 
+(constant) mass motion (Mv, vis the mass velocity). This is also a feature of the 
+1 The vacuum "gravitational permittivity" constant is (Reference 12) : yo= (41tGJ-' = 1.19 x 109 kg-s2/m3• 
+UNCLASSIFIED/ /FOA OFFI&IAb Yi&: 8,.bY 
+6

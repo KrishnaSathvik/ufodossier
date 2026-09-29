@@ -1,0 +1,42 @@
+UNCLASSIFIED/ /FOR AEEICIAk W&li 8,.L 1/ 
+drawback of this approach is that it reveals information about the quantum state only 
+within the sideband chosen for the measurement. Therefore, the method is 
+incompatible with other techn iques for characterizing a quantum state for which such 
+precise selection of spectral modes is impossible. Time-domain BHD resolves th is 
+limitation. Hansen et al. [4] describe their experimental time-domain BHD device. 
+They developed a pulsed BHD for precise measurement of the electric field quadratures 
+of pulsed optical quantum states . A high level of common mode suppression(> 85 dB) 
+and low electronic noise (730 electrons per pulse) in their device provides a signal-to­
+noise rat io of 14 dB for measurement of the quantum noise of individual pulses. Their 
+device achieved a signal-to-noise ratio of 14 dB at a pulse repetition rate of up to 1 MHz, 
+enabling high-accuracy quantum measurements to be carried out in a short time. They 
+performed a quantum tomography of the coherent state as a test for their device, and 
+the Wigner function and density matrix were reconstructed with 99.5% fidelity while 
+their detector exhibited 91 % quantum effic iency. Their detection system can also be 
+used for ultrasensitive balanced detection in continuous wave mode. Figure 13 shows a 
+schematic of their time-domain BHD. The figure shows two polarizing beam splitter 
+(PBS) cubes, a 50:50 beam splitter (BS), two half-wave plates (A/2), two photodiodes 
+(left-side in dotted box), and the signal processing electronics inside the dotted box. 
+;-·-- -·---·------·--- ·---·---·--- ·---·--- ·------·· 
+I 
+I 
+lo~ pass 
+ilter 
+I 
+I 
+------------------------------------·---
+Figure 13. Time-Domain Balanced Homodyne Detector. (courtesy of P. Lodahl) 
+As we discussed previously in Sections IIIB-4 and IIIB-5, to perform BHD one overlaps 
+on a beam splitter the electromagnetic wave whose quantum state is to be measured 
+and a relatively strong LO wave in the matching opt ical mode. The two fields emerg ing 
+from the beam splitter are incident upon two high efficiency photodiodes whose output 
+photocurrents are subtracted. The photocurrent difference is proportional to the value 
+of the electric field operator E in the signal mode, where 8 is the relative optica l 0 
+phase of the signal and the LO. In traditional frequency-domain BHD, one uses a 
+certain frequency component of the difference signal to determine the quadrature 
+quantum noise of the optical state. The measurement frequency is normally chosen to 
+be approximately 5 to 10 MHz where the technical noise is minimized. Figure 14 shows 
+an example of experimentally measured data for a typical (undisturbed) vacuum state 
+and a squeezed vacuum state using a time-domain BHD system. 
+UNCLASSIFIED// FOR OFFICIAL U.!r:: er•t' 
+34

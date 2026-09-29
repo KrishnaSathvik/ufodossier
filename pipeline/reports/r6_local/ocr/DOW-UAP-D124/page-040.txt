@@ -1,0 +1,29 @@
+UNCLASSIFIED/ /FOR: 0rr1e1J1tt Y!H: 8HLY 
+forced HTO mode would instead have a gross weight in excess of 1,000 tons. so the 
+resulting observation was "See! Air breathers are not lighter than all-rocket!" And so 
+the rocket proponents have defeated an air-breathing solution since the first aerospace 
+plane in 1958. 
+Launch Options 
+Previously, an option was presented for a mobile launch platform that was limited to an 
+11- to 12-metric ton (24,225- to 26,460-lb) payload . This section presents a 
+conventional vertical launch site that provides for frequent, scheduled launches and no 
+intrinsic payload weight. In a discussion with the author, Lozino-Lozinski questioned 
+the pract icality of the NASP, describing it as nothing more than a very large orbital ­
+entry-protected propellant tank. His approach was to minimize the volume of 
+propellant tanks that required orb ital-entry protection. Prior to meet ing DARPA's 
+Robert Williams, the MDC had the same philosophy, as shown in Figure 35. 
+2,370,000 lb 814,500 lb 580,000 lb 
+301,000 lb 
+512,000 lb 
+80,000 lb 
+SSTO 1 1/2 Stage 2 Stage 
+Figure 35. Propellant Tanks That Are Not Reentry Vehicles Greatly Reduce System Weight. Venture star 
+orbital maneuver rules. 
+This was the MDC manned aerospace vehicle approach we briefed before the NASP. 
+The size, thermal protection system surface area, and weight of the SSTO vehicle to 
+just a stage-and-a-half concept is significant. All of the booster segments were fully 
+recoverable and reusable with rebuilding. The cargo capsule was not recoverable. This 
+operational concept envisioned frequent, scheduled launches at least equal in number 
+to those of the 1964 MOL support launcher-that is, 100 to 150 launches a year. 
+UNCLASSIFIED/ tEOR OFFICIO! 1!SE Alli Y 
+33

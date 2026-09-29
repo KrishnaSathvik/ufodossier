@@ -1,0 +1,50 @@
+UNCLASSIFIED/ /POK: OPPICllcL l:191!!! OHL'/ 
+Engineering DNA-Based Logic Gates 
+This branch of nanotechnology employs DNA enzymology to induce molecular behavior in 
+solution that responds to an appropriate nucleic acid input. The goal is to make reliable DNA­
+based logic gates that can be used to assemble complicated logic circuits, which, in turn, can 
+be used to control complex molecular devices (115). Strictly speaking the silicomimetic 
+solution-phase approaches are not connected to traditional DNA nanotechnology, or 
+Adleman's model of DNA computing (116). However, there is some overlap of concepts, and 
+all these approaches can be integrated in order to achieve complex functional behaviors. 
+There are two primary requirements that a DNA-based logical device has to fulfill: first, the 
+device should have the ability to integrate the presence or absence of several inputs into a 
+single output. Second, a device has to be designed in such a way that a limited number of 
+simple devices can be combined into a variety of complex circuitries. This usually means that 
+one device can communicate with other components through some kind of information 
+transfer. Furthermore, devices that could communicate with sensors, and produce outputs 
+for autonomous therapeutic and diagnostic devices are of our interest, because they may one 
+day function as silicon-free expert systems. DNA-based logic gates are intended to perform 
+as traditional binary logic gates, which turn 1 's and O's of input into 1's and O's of output, 
+which form the central processing units in digital computers. Recently, Seeman and 
+colleagues at New York University have found a clever new way to tease DNA strands into 
+mimicking exclusive OR (XOR) logic gates ( 117). In the case of an XOR gate, the rule is 
+simple: when the same two digits enter the gate, a 0 comes out; two different entering digits 
+return a 1. In this latest case of DNA computing, inputs are replaced by single-stranded 
+molecules, and how they bind with each other--base pair to base pair--dictates the 
+operations. In essence, the collection of input molecules that are used set up the problem; 
+once that's done, the answer self-assembles in a single step. The near term goal is to build 
+DNA-based computing modules and to develop nanoscopic machines that could exist in living 
+organisms, sensing conditions and making decisions based on what they sense, then 
+responding with actions such as releasing medicine or killing specific cells. 
+Logic Operation by Deoxyribozymes 
+This biocomputing approach is based on two libraries of nucleic acids, one consisting of an 
+allosterically modified deoxyribozyme (nucleic acid catalysts made of DNA) and the second, 
+its substrates. A DNAzyme is associated with gene replication only, and they exist only in the 
+laboratory. Nevertheless, they are very powerful tools for building DNA-based nanosystems. 
+The functions of these molecular units are essential for molecular logic gates and the 
+seamless integration into DNA-based computing devices. These constructs are capable of 
+carrying out simple arithmetic operations ( 118) and have the capability to arrange several 
+gates around a common substrate. (119) 
+These devices have oligonucleotides (short ssDNA) as both inputs and outputs. 
+Phosphodieseterase deoxyribozymes cleave other oligonucleotides, producing shorter strands 
+as outputs. For example, operation of the simplest sensors is illustrated in Figure 20. The 
+stem-loop of YESx molecule inhibits the catalytic module through the overlap of the stem 
+with the substrate recognition region. Hybridization of ix to the complementary loop opens 
+the stem to allow substrate binding to proceed. The YESx gate behaves as a two-state switch, 
+with the active state in the presence of input. The combination of these sensors for input to 
+gate logic is illustrated in Figure 21. Generalized approaches have three-input gates 
+(including NOT, AND, ANDNOT, ANDANDNOT gates) based on the deoxyribozyme logic. (121) 
+These gates are generic and modular, in the sense that other deoxyribozymes could be 
+UNCLASSIFIED// FOR OPPICilcL tl:!I!! 8HLY 
+35

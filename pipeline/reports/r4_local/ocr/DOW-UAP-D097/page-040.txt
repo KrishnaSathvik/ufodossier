@@ -1,0 +1,150 @@
+THE AEROPLANE
+
+Fig. 11.—Willoughby’s “Delta 8°’ experimental
+monoplane of 1938.
+
+Thus, an observant student of laboratory tests could have
+noticed the extraordinary capacity of circular or square shapes
+to give a very gradual, innocent stall, and that at very high
+incidences, et, apart from a few broad-minded experimenters,
+no designer drew the conclusion that wings of such shapes
+promised safety in flight, though it was known from early
+practical experience that flying in the “second regime,” i.e.,
+at the stall, was positively dangerous. ‘
+
+It is true that spinning—Parker’s “Spiral Dive "—was
+attributed, in those days, to high incidences, and that most of
+the lightly loaded rectangular wings used at that period
+rendered the stall relatively innocuous. | However, accidental
+stalling was then, as now, the cause of the majority of all
+crashes. And the nose dive following inadvertent stalls was well
+known to be of the most serious consequences. ;
+
+Eiffel, Riabouchinsky, Dines, Prandtl, etc., began their
+laboratory experiments on aerofoils of very small aspect ratio
+and the results were generously published (how closely secret
+they would be kept to-day!). Eiffel showed that the ratio of
+the resultant forces reached maxima for small aspect ratios and
+that slender wings gave the greatest drag at 90 degrees inci-
+
+. dence, whilst disc wings had then the least resistance of all.
+Riabouchinsky proved that the maximum lift with disc wings
+was reached at incidences of the order of 40 degrees, whilst with
+normal aspect ratios (exceeding a value of 4) the maximum lift
+took place at incidences of 12 to 14 degrees only. Beyond
+their critical incidence disc wings gave a gradual decrease of
+the lift force, whereas wings of normal aspect ratio gave a
+very abrupt and unsteady one. The tests by Dines on flat
+plates in natural wind confirmed this information and that the
+observation applied to cambered aerofoils as well was also
+proved (by Riabouchinsky). O. Foeppl showed from system-
+atic wind-tunnel tests that a square aerofoil behaves, in respect
+of its lift curve, in a remarkably different manner from one
+having an aspect ratio of 1.5, although wall interference and
+Reynolds Number may have somewhat affected the results of
+the tests.
+
+Later, Prandtl was eager to point out that his aerofoil theory
+did not hold for very small aspect ratios, and that, in fact, the
+induced drag of disc wings was less than the theory suggested.
+In spite of this, however, nobody seems to have heeded the
+possibilities implied and the “ Battle of the Aspect Ratios” was
+decided in favour of slender wings. ;
+
+To be fair, it must be pointed out that there was one serious
+
+Fig. 12.—Experimental Hayden glider, 1925. a 19.7%:
+
+length, 13°85 ft.; wing area, 173 sq. ft.  Alll-up_ weight,
+
+310 Ib. No lateral control.
+
+MARCH 5, 1948
+
+argument against disc wings. The best aecrofoil sections in use
+prior to about 1925 had a plain camber which implies travel of
+the centre of pressure when the incidence varies; the length of
+such travel is linked up with the wing chord. Hence the change
+in trim or stability is, with such aerofoil sections, greater with
+large-chord wings. On this consideration of fore-and-aft
+stability and control, designers had some justification for their
+decision against experimenting with disc wings. Yet quite
+useful aerofoil sections had already been used in flight which
+had practically no travel of the centre of pressure and hence
+did not suffer from this disadvantage of the disc wing.
+
+The whole argument, however, lost its importance imme-
+diately M. M. Munk proved that very efficient aerofoil sections
+could be designed with a completely (or nearly so) stationary
+centre of pressure. It is, therefore, right to say that from that
+time all conditions existed for a practical evolution of disc-wing
+aeroplanes,
+
+F, Handley Page converted an aerofoil, leaving an aspect
+ratio of 6.25, into six square-aerofoil portions by five slots,
+each parallel to the chord of the wing. By so doing he hoped
+to have the low drag of a mormal wing combined with the high
+stalling angle of the disc-type wing. Although a very
+slight improvement was claimed, the principle was that of
+eating the cake and having it too: the induced drag is respon-
+sible for the stalling properties of the disc wing and you cannot
+have the benefits of the high drag without suffering its disad-
+vantages. Moreover, in order to have the effect of the disc
+wing, the provision of mere slots is insufficient. Marginal
+vortices need room to deploy.
+
+On the whole, however, the idea proves that at least ane
+practical aircraft designer had realized that there was some-
+thing in wings of abnormally small aspect ratio.
+
+There were other, although not quite as well thought out,
+antecedents of the disc-wing aeroplane. In the first soaring-
+flight competition on the Rhoen (1920), Friedrich Richter, a
+burly naval pilot of 20 stone or so, performed on a triplane
+glider with wings having an individual aspect ratio of far less
+than three. H. Hayden secured, in 1922, a patent for a rhom-
+boidal wing with an aspect ratio of nearly unity, claiming for
+such a shape high lift and good flying qualities.
+
+In 1925 he constructed a glider with a wing having an aspect
+ratio of only 2.25, The wing was nearly triangular in shape,
+with its apex leading, and a pronounced wash-out towards the
+tips (Fig. 12); no lateral controls were fitted. The tailplane
+with the elevator was fitted underneath the trailing edge at the
+
+Fig. 13.—A French project of G. Abrial, 1929.
+
+stern of a fuselage. Flying experiments in Styria were said to
+have proved satisfactory flying qualities.
+
+Some early tailless aeroplanes, such as certain expérimental
+types of Rene Arnoux, had rather stub wings and _ heavily
+reflexed (i.e., positively stable) aerofoil sections. A 1929 design
+of G. Abrial showed an aspect ratio of 2.88, with, however,
+substantial tip discs (which have the effect of increasing the
+aerodynamic aspect ratio) and wind-tunnel experiments indi-
+cated a creditable performance (Fig. 13). Russian attempts,
+in particular the parabola type of Tscheranowsky, too, were
+experiments with aspect ratios of three and even less (Figs. 14
+and 15). Their resemblance in shape to the latest designs of
+super-sonic aeroplanes is remarkable, :
+
+A Modern Pioneer
+
+Further interest in the aerodynamics of disc wings was
+displayed by research workers with the arrival of Juan de la
+Cierva’s Autogiro, This was indeed sOmething like a circular
+wing, and performance estimates were based on the properties
+of such wings. Yet the question of stalling stability did not
+arise, because of the rotor properties,
+
+The real pioneer of the disc win
+research engineer of the National Advisory Committee for
+Aeronautics (N.A.C.A.), who proved capable of following
+independent lines of development. In about 1930 Charles
+
+Zimmermann subjected the properties of disc wings to
+
+was a very able American
+
+NND 927545

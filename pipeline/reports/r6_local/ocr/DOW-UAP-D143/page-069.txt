@@ -1,0 +1,32 @@
+UNCLASSIFIED/,'rOR: orrlCIJ!tL USE 014Lf 
+Inertially Stabilized 
+Pointer/Tracker Mount .0 .,. • ... sensor.... -· 
+en or_-:.-. ·.- .- .• _\ . eerror·· ····· ·· 
+0 target 
+GimbaJ 
+To achieve the high prec1s1on required for a HEL Weapon , 
+The sensor and Beam Expander must maintain precise alignment 
+Figure 34. HEL Beam Pointer/Tracker (courtesy of the Directed Energy Professional 
+Society). 
+In summary, this new architecture has only the HEL module and the beam director. All 
+the measurement and correction functions are integrated into the beam director 
+without increasing the number of high power components usually required in a coude 
+path.§§ The three major advantages of this architecture are as follows (see Figure 
+35): *** 
+• Minimizing complexity and component count: The optical control architecture has 
+far less than a dozen mirrors plus a turret window and two polarizers between the 
+HEL module and the target. The resulting beam line is considerably simpler, 
+smaller and lighter than current architectures. Almost every component in the 
+beam line performs multiple functions, thereby dramatically reducing the 
+component count. There is only one long-burn DM, one coarse steering mirror 
+(CSM), one FSM, and all of these are integrated into the beam director. This 
+approach also packages all beam control sensors, processors and drivers into the 
+turret assembly. 
+• End-to-End Boresight and High-Bandwidth Tracking: In this design, the HEL and 
+track illuminating laser (TILL) trackers are integrated onto the same focal plane 
+§§Coude is French for "elbow," meaning a beam of light is bent in a zigzag manner through an 
+optical train. 
+***D. Kiel, Directed Energy Systems Symposium Short Course, Naval Post-Graduate School, 
+Monterey, CA, 2010 . 
+UNCLASSIFIED//FOR 061ilCl.li.k W&& 8Ptl'l 
+65

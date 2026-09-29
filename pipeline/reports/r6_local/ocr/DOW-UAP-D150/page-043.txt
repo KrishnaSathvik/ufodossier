@@ -1,0 +1,36 @@
+----
+UNCLASSIFIED//EOR OFFl&IJ..L ttSI!! BHLI 
+enzymes, e.g., deoxyribozymes, and performed either solution phase conformational 
+changes, or were proposed to move autonomously along a linear track over up to four steps. 
+(127) 
+A new paper published in the journal Nano Letters details how the researchers created the 
+first light-powered nanometer (Figure 24) out of a photoreactive chemical and a short length 
+-- only 31 base pairs -- of DNA. (128) The motor looks a bit like a pair of tweezers. When UV 
+light hits it, the photoreactive chemical causes the DNA to bend, which acts as the power 
+stroke of the motor, opening the tweezers. Light in the visible spectrum, in turn, resets the 
+chemical, closing the tweezers. The team from the University of Florida built a new type of 
+"molecular nanometer" driven only by photons, or particles of light . While it is not the first 
+photon-driven nanomotor, the almost infinitesimal device is the first built entirely with a 
+single molecule of DNA, offering a simplic ity that increases its potent ial for development, 
+manufacture and real-world applicat ions in areas ranging from medicine to manufactur ing. 
+In the coming years, nanometers could become a component of microscopic devices that 
+repair individual cells or fight viruses or bacteria. Although in the conceptual stage, those 
+devices, like much larger ones, will require a power source to function . Because it is made of 
+DNA, the nanomotor is biocompatible. Unlike traditional energy systems, the nanomotor also 
+produces no waste when it converts light energy into motion. 
+zob oz n< > . '. . . 'I '•
+I 
+. •. 
+T TOOT G 
+____, \._.... ). 
+V I 
+tern' tem Loop 
+Figure 24. A single molecule DNA-based nanomotor driven by photons . (128) 
+Nanometers can be daisy -chained together, so that small movements on the microscopic 
+scale add up to large movements at the macroscopic scale. In biology, muscle contraction 
+and plant movement both result from small motors working together to create big changes. 
+Scientists are attempting to mimic the many molecu lar motors that have been proven in 
+nature. Today, biology is acting as a blueprint for the development of many DNA-based 
+devices . One such biologically based mechanism is the spider-like-inspired nanowalker. 
+UNCLASSIFIED//POR: Offl@IAL Y&li 8Ptllf 
+42

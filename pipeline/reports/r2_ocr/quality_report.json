@@ -1,0 +1,20 @@
+{
+  "generated_at": "2026-09-25T18:38:50.579162+00:00",
+  "production_writes": false,
+  "documents": [
+    {
+      "filename": "ODNI-UAP-D001.pdf",
+      "page_count": 2,
+      "usable_text_chars": 5727,
+      "stats": {
+        "native_good": 2,
+        "native_thin": 0,
+        "needs_ocr": 0,
+        "ocr_failed": 0,
+        "ocr_succeeded": 0,
+        "pages_ocrd": 0
+      },
+      "combined_path": "pipeline/reports/r2_ocr/ODNI-UAP-D001/combined.txt"
+    }
+  ]
+}

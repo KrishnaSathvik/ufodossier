@@ -1,0 +1,39 @@
+UNCLASSIFIED F/P OR OPPICTAL USE ONLY
+
+Mi
+
+SP : Output Scraper
+
+IST : Optical Isolator
+
+M3 : Turning Flat
+
+Power Amplifier OE : Beam Expansion Optics
+E-Gun : Electron Gun & Interface
+
+M1, M2: End Mirrors
+
+AM: Acoustic Muffler
+
+Figure 17. Schematic of MOPA [291,
+
+Sonic Acoustic muffler
+
+Screer f
+Orifice
+
+Gas Tank Flow control
+Valve Plenum Chamber C2#in cell Gas exit horn
+Gas Pressure : Gas Physical Parameters:
+P1=150 Atm Mixture : N2:CO2:H2 (3:1:0.08)
+P2=2-2.5 Atm a = 271 m/s (acoustics)
+PO = 1 Atm (ambient) M = 0.18 (Mach No)
+Flow speed : 50 m/s (gain) m=31.5 g
+
+Density = 1.3 kg/m
+
+Figure 18. Schematic of the Laser N2/CO2/H2 Gas Flow System [29],
+
+45
+
+UNCLASSIFIED L4502.055160i-USE-ONEY

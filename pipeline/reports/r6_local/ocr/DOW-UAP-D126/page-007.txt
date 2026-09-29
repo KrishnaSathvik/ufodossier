@@ -1,0 +1,43 @@
+UNCLASSIFIED/ ;'FOR OFFl&I.t.k Wlilii QNL¥ 
+Introduction 
+As Hermann Oberth proved for chemical rockets in his 1923 book The Rocket into 
+Planetary Space (Reference 6), this paper will try to prove for thermonuclear rockets 
+the following: 
+• At the present state of science and technology one can build spaceships driven by 
+deuterium thermonuclear reactions, able to reach the outer limits of the solar 
+system. 
+• Such spaceships permit the manned exploration of the entire solar system and 
+beyond, with the ultimate potential to reach nearby solar systems. 
+• The cost in research and development to build such spaceships will be high but still 
+well within what is economically feasible. 
+• Using the same physical principles as for deuterium fusion rockets will also lead to 
+the realization of clean nuclear energy, justifying the expenditures for these large 
+projects. 
+Deuterium can be used as the rocket fuel of choice in addition to any inert material that 
+is suitable as a propellant. This propellant material is available on most planetary 
+bodies and particularly on the comets of the Oort cloud. The main idea is that by 
+gradual radial expansion from the Sun by building bridges over the Oort clouds, which 
+presumably surround all suns, Earthlike planets in neighboring solar systems can 
+eventually be reached. 
+The first and most important step toward this goal is to reach the focus of the Einstein 
+gravitational lens at 550 AU (astronomical units). At this location, one can use the Sun 
+as the lens of a super telescope, an idea first proposed by Claudio Maccone in 1993. 
+Present knowledge is that there are planets in nearby solar systems that are likely 
+Earthlike planets. It is only with this gigantic telescope that one can determine if life on 
+these planets is possible. But because of the complexity of this task, a manned mission 
+to the Einstein gravitational lens focus is likely to be needed, possible only with 
+advanced nuclear rocket propulsion. 
+Deuterium, Argon Ion Lasers, and KeV Superexplosives 
+The goal is a spacecrah that can be refueled while landing on a planetary body, which 
+can be a planet, an asteroid, or a comet. With heavy water available on many planetary 
+bodies but in particular on comets, this suggests the use of deuterium (D) as the 
+thermonuclear rocket fuel. Ignition of deuterium though, is more difficult than ignition 
+of the deuter ium-tr iti um (DT) reaction or of the deuterium-helium3 (DHe3) reaction. 
+The DT reaction is the easiest to ignite, but 80 percent of the energy goes into 
+neutrons, which cannot be deflected by a magnetic mirror. In the DHe3 reaction all the 
+energy goes into charged fusion products, but in a mixture of D with He3 there are still 
+some neutron -producing deuter ium-deuterium (DD) reactions. More important is the 
+fact that, unlike deuterium, He3 is largely unava ilable. There is some indication of He3 
+on the surface of Moon. In the Daedalus starship study by the British Interplanetary 
+UNCLASSIFIED/ /FOR 8FFl@IAL t:191!! 8HL t 
+1

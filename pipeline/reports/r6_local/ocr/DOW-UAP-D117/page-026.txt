@@ -1,0 +1,45 @@
+UNCLASSIFIED//POlll OPPIE!IAL WS& 0,u.v 
+Current Challenges and Prospects for the Future 
+ALLOY DESIGN 
+A critical limitation of existing metallic glass technology (and related composites) is the 
+relative dearth of alloys with good glass-forming ability. The best glass-forming alloys 
+are either based on expensive elements (for example, palladium) or contain toxic 
+elements (for example, beryllium in the best zirconium- and titanium-based alloys). For 
+aerospace applications, the most glaring lack is that, despite significant alloy design 
+efforts in the United States (through the DARPA Structural Amorphous Metals program), 
+Japan, China, and elsewhere, there are no good glass-forming alloys based on 
+aluminum. Attempts to make aluminum-based metallic glass components by 
+consolidating amorphous powders have met with limited success. Similarly, all of the 
+good iron-based metallic glasses contain considerable amounts of nonmetallic elements 
+(notably carbon, boron, silicon, and/or phosphorus), which are thought to contribute to 
+the very low fracture toughness of these alloys (Figure 9(b)). 
+However, there is reason to expect that further progress is possible. Recent 
+experimental results have shown that some of the empirical "rules" of glass-forming 
+ability 44 are actually quite flexible, and that glass-forming ability is much more sensitive 
+to composition than had been previously appreciated. 45 So it is highly probable that 
+some excellent glass-formin g alloys compositions remain to be discovered, possibly 
+including some low-density glasses based on aluminum. 
+Identifying these good glass-forming alloys will be a challenge. Most alloy development 
+to date has been done with a brute-force approach, but combinatorial techniques 46 re 
+likely to enable much more ra pid screening. One issue is identification of suitable 
+metrics for glass-forming ability, since the combinatorial approaches use vapor­
+deposited thin films, and it is not clear what characteristics of such a film correlate with 
+glass-forming ability in the bulk. Similarly, continued development of ab initio molecular 
+dynamics techniques should enable identification of candidate alloys from computer 
+simulations, particularly as computers continue to increase in power. 
+One area that has received insufficient attention is the influence of processing 
+conditions on glass-forming ability. For instance, application of electromagnetic 
+vibrations during cooling reportedly significantly enhances the glass-forming ability of 
+magnesium-based metallic glasses.47 This approach could, in princ iple, be applied to 
+other alloys, possibly greatly extending the range of alloys and compositions that can 
+be produced as bulk metallic glasses. 
+THERMOPHYSICAL PROPERTIES AND THERMOPLASTIC PROCESSING 
+Most of the practical interest in single-phase (monolithic) metallic glasses centers on 
+the potential for thermoplastic processing near to or above the glass transition 
+temperature. However, the thermophysical properties and behavior of metallic glasses 
+are not well understood. For instance, the viscosity of the metallic glass melt (or 
+supercooled liquid) is of critical importance, but we do not know how and why alloy 
+composition influences viscosity. From an engineering point of view, the practical 
+aspects of molding of metallic glasses are just beginning to be explored. Certainly many 
+20 
+UNCLASSIFIED/ /iOlil OfiFiliCiili.t.k WS& 8HL¥

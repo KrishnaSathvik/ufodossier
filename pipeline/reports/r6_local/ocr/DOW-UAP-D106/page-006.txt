@@ -1,0 +1,28 @@
+Declassified by MG Richard A. Hiimson 
+"C'5( EJ\;"TC OM C luet ot \taff 
+Decl,1ss1fied on ~o Jtme :?016 
+FOCO Pm dcy Act applies 
+• Observation DTG: 052026:00ZMAY22 
+• Aircraft Callsign:l 1.4a I 
+• Aircraft Location: 38S MD 41~ 4~ 
+• Aircraft Heading: -75 
+• Aircraft Altitude: FL200 
+• Aircraft Airspeed: 100 KIAS 
+• Relative Bearing or Clock Position: 
+• Range: 4.98NM 
+• Killbox & Keypad : 91AS 
+• Observed Activity Location: 38SMD3 ~;@ 
+• Observed Activity Description: UAS 
+• Method of Observation: FMV 
+• EEis Observed : 
+• Number of EEis: 
+GENTEXTIOBSERVATION 
+• Gentext: --1) AT 20262 I 1.4a !WAS SCANNING POI IVO 38SMD38WS4Iuii} AND 
+PERIODICALLY OBSERVED UAPS FLYING SPORATICALLY WITHIN THE TARGET AREA OF 
+92AS. ACCORDING TO THE b.4a, 1.4glMTS, THE UAPs WERE TRAVELLING AT VARIOUS SPEEDS 
+BETWEEN 80-180 MPH. WE WERE UNABLE TO DETERMINE ALTITUDE. THE SIZE OF THE 
+UAPs WERE APPROXIMATELY 1-2 METERS. THE UAPs DID NOT HIND ER THE MISSION. 
+WEATHER 
+• Weather: 
+3.5c, (b)(6) 
+USCENTCOM MDR 26-0084 to 26-0095 Approved for Release to AARO - FOUO I PA applies 06/30/26 036

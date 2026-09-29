@@ -1,0 +1,40 @@
+UNCLASSIFIED/ /FOR 8FFI@IAL 1::191!! 8HLY 
+cos[ w(t- z!c)] part of the beam and into the sin[ w(t- z!c)] part [18, 40-44].§§ The 
+observable that gets squeezed will have its fluctuations reduced below the vacuum ZPF. 
+The act of squeezing transforms the phase space circular noise profile characteristic of 
+the vacuum into an ellipse, whose semimajor and semiminor axes are given by unequal 
+quadrature uncertainties (of the quantized electromagnetic oscillator operators). This 
+applies to coherent states in general, and the usual vacuum is also a coherent state 
+with eigenvalue zero. As this ellipse rotates about the origin with angular frequency w, 
+these unequal quadrature uncertainties manifest themselves in the electromagnetic 
+field oscillator energy by periodic occurrences, which are separated by one quarter 
+cycle, of both smaller and larger fluctuations compared to the unsqueezed vacuum . 
+We digress momentarily by noting that coherent states, also called Glauber states, are 
+the eigenstates of the annihilation operator a: 
+ala) =ala), (3) 
+which have well-defined amplitudes lal and phases arg(a) (recall the discussion in Sect. 
+IIB-1). They are called coherent states because light fields in these states are perfectly 
+coherent, and high-qual ity lasers generate such fields. This is an important reason why 
+high-q uality laser light is an excellent tool for experimental quantum optics. Coherent 
+states come as close as quantum mechanics allows to wave-like states of the 
+electromagnetic oscillator. Because the wave aspects of light are commonly regarded 
+as classical, coherent states are often called classical states. Furthermore, fields in 
+statistical mixtures of coherent states (such as thermal fields) are classical as well, 
+whereas any state that cannot be understood as an ensemble of coherent states is 
+called nonclassica/. The experimental generation and application of nonclassical light 
+fields is the main subject of this report. Despite much recent progress, producing 
+nonclassica l states of light is still extremely challenging because they are easily 
+destroyed (reduced to classical) by any kind of losses. Furthermore, it turns out that 
+the vacuum is a coherent state as well because it satisfies Eq. (3) for a= 0. In other 
+words, the vacuum is a zero-am plitude coherent state. With a little algebra we see 
+directly from Eq. (3) that the mean (i.e., quantum expectation value of the) energy of a 
+coherent state with unit frequency is 
+\Ha)= (alata + ½la) 
+(4)
+=lal2 +½-
+Equation ( 4) is the sum of the classical wave intensity lal2 and the vacuum zero-point 
+energy 1/2. One simply multiplies the right-ha nd side of Eq. ( 4) by liw to put (Ha) 
+into units of energy. 
+§§ z denotes the z-axis direction of beam propagation. 
+UNCLASSIFIED/; PO" OPPICIICL U.!! OHL I' 
+9

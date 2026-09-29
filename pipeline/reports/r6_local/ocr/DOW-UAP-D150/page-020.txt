@@ -1,0 +1,18 @@
+UNCLASSIFIED/ /FOA QFFIEJIAL YSI!!! 9Ht'I" 
+By means of Klein tunneling, two distant qubits can be strongly coupled without touching the 
+states of intermediate qubits that might be located between the two. Thus, a ribbon of 
+graphene hosting many spin qubits in a line can be viewed as a qubit piano where any two of 
+them can be entangled with leaving the states of the others unchanged; see Figure 7. 
+Interestingly, this feature, i.e., the availability of non-local interactions, is important for 
+quantum error correction since it raises the threshold for fault-tolerant quantum comput ing 
+(72). 
+Figure 7. Qubit piano . Illustration of many spin qubits in a line hosted within a 
+graphene nanoribbon. Quantum dots are red bars and barrier regions are blue 
+bars. Different spin qubits that are strongly coupled to each other via Klein 
+tunneling are marked with the same color. 
+Figure 8. Long distance coupling of three graphene qubits. 
+Spin Relaxation and De-phasing in Graphene Quantum Dots 
+Why can we expect stable spin qubits in graphene quantum dots? There is hope that spin 
+relaxation and dephasing will be very weak in graphene for the following reasons: (i) Carbon 
+UNCLASSIFIED//EAR OFFICIO I. flii 0Plk¥ 
+19

@@ -1,0 +1,44 @@
+UNCLASSIFIED/ fFOA OFFIEIAk W&i 0Pilk¥ 
+The net gravity-induced (electrostatic levitation) self-force (Fo;pGrav) is given by 
+(Reference 66): 
+(28) 
+where qe is the electric charge on a particle and r is the radial distance between two 
+charged particles in the dipole. There is an additional term of order g2/c4 in Fo;porav that is 
+neglected because it is negligible in magnitude. Equation (28) states that an electric 
+dipole will experience a push in the upwards direction (opposite direction with respect 
+to the Earth's gravitational acceleration); that is, the dipole undergoes self-acceleration 
+in which one charged particle in the dipole appears to be chasing the other charged 
+particle. As an example, for a dipole comprised of two charges (for example, an 
+electron -proton system) held at fixed r to levitate in the Earth's gravitational field, r 
+would have to be ~ 10-15 m (the size of an atomic nucleus). An experiment to test this 
+prediction on such a small scale is too difficult to control or measure. 
+An energy analysis done by Pinto showed that there is a distance r between two 
+charges (each of rest-mass mo) in a dipole (of mass Mdip = 2mo) such that their 
+electrostatic potential energy, U d;p = - qe2/4rcEor, becomes equal to the unrenorma lized 
+mass of the system as r ➔ oo . At this distance, the effective total gravitational mass Mct;p 
++ Ud;p/c2= O and the self-force alone can support the dipole at rest against its own weight. 
+The self-acceleration of the dipole is such that the acceleration process can continue 
+indefinitely, which poses a problem for energy conservation because the dipole can be 
+left to self-accelerate for an arbitrary period of time and then stopped to harness the 
+resulting kinetic energy. This process could be used to extract unlimited energy from 
+the system. Pinto claims that there is no conflict with energy conservation because the 
+renormalized inertial mass of the accelerating system is Mdi p-ren =M dir + U ct;p/c2 =0 and the 
+total energy of the system is zero at all times regardless of speed. This claim requires 
+reevaluation because there are subtle boundary conditions involved that might have 
+been overlooked in the analysis. 
+Fermi's discovery led to a new subfield of research devoted to the study of 
+electrodynamics and dipole and interatomic dispersion forces in a curved spacetime. 
+Pinto's theoretical program extended the result of these studies by considering a 
+system of polarizable atoms and adopting an approach in which the effect of a 
+gravitational field in general relativity is modeled as an effective opt ical medium. In 
+other words, the spacetime vacuum is treated as a non-uniform optical medium with a 
+vary ing index of refraction that defines the components of a flat spacetime metric 
+geometry (Reference 68). There is no spacetime curvature due to sources of matter in 
+this model, instead its equivalent general relativistic effects (that is, gravitation) are 
+produced by varying the vacuum index of refraction, comprised of the vacuum 
+electromagnetic permittivity and permeability constants, in response to the presence of 
+matter sources. Pinto's lengthy analysis gives the van der Waals dispersion self-force 
+for two polarizable atoms in a curved spacetime (that is, a weak gravitational field) as 
+(Reference 66): 
+UNCLASSIFIED/ /FOA OFFI&IAb Yi&: 8,.bY 
+22

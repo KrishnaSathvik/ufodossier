@@ -1,0 +1,52 @@
+UNCLASSIFIED/; POI\ OPPICIAL U.!I!! er•tY 
+Transparency 
+H. G. Wells's novel The Invisible Man 
+represents another strategy for 
+becoming invisible: transparency. 
+In Wells's novel, the invisible man, a 
+disgruntled college professor, invents a 
+substance that somehow changes the 
+refractive index 1 of his body. Most 
+transparent substances, like glass, air, 
+or water, modify the speed of light, 
+because the atoms or molecules of these 
+substances absorb and re-emit light, 
+which takes time. The delay caused by 
+the atoms and molecules results in a 
+reduced speed of light and hence in a 
+refractive index larger than 1. It is, 
+however, also possible to achieve a 
+refractive index smaller than 1, although 
+only in narrow bands of the spectrum. In 
+these cases, the atoms or molecules 
+advance the wave fronts of light because 
+they are excited such that their electron 
+clouds oscillate ahead of the light. If the refractive index is uniform in a material, light 
+is reflected and refracted at the boundary but otherwise is traveling straight through. 
+On the other hand, if the refractive index varies, light is scattered at the index 
+inhomogeneities and gets lost. Most white substances appear white because of such 
+scattering . Milk, for example, consists of minuscule oily droplets-fat-in water. The 
+refractive index of the droplets differs from water, and hence light is scattered at them; 
+it does not penetrate the substance, and the diffused light appears as white. Now, 
+human bodies are visible, because they absorb light. Most of the absorption is due to 
+the scattering of light in biological tissue, in the cells of which the bodies are made. If 
+the refractive indices of a person's cells could somehow be changed to the refractive 
+index of air, the person would become transparent and disappear from view-like the 
+Invisible Man. 
+Some animals (for example, some jellyfish) are transparent, but the cells of higher 
+order animals are usually much too complex and diverse for transparency to become a 
+serious option for disguise. Exceptions are the transparent parts of the body, most 
+notably eye lenses, which consist of uniform cells kept in a state between life and 
+death. If this balance is upset, the lenses become opaque as a cataract develops. 
+Transparency is the idea behind some proposed forms of invisibility by technology. For 
+example, in plasmonic covering, 1 a particle should be surrounded by layers made of 
+metals and transparent substances, such as glass. The layers are designed such that 
+they cancel the scattering of light at the particle, hence making both the particle and 
+the layers transparent-that is, invisible. Another proposal 2 exploits the resonance of 
+the particle with a negative-refractive material that cancels out scattering. In a material 
+with negative refraction, the wave fronts of light appear to move in the opposite 
+1 The refractive index is the ratio between the speed of light in vacuum and the speed of light in a material. 
+UNCLASSIFIED//5O9 OEEICI0 .. Uili QPlkY 
+Figure 4. H. G. Wells's The Invisible 
+Man: Invisibility by Transparency 
+3

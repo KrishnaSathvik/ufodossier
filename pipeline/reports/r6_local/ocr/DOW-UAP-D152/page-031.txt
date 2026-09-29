@@ -1,0 +1,28 @@
+UNCLASSIFIED/ /fOR. 8FFl&I.t.k W&li ,HIia¥ 
+Of/> = - - ' V • ds (97) 
+In the hydrodynamic interpretation suggested by the Planck aether hypothesis, the 
+phase shifts caused by either the magnetic or the gravitational vector potential result 
+from a circular flow of the Planck aether. The principle of equivalence can precisely 
+relate this circular flow to the angular velocity of a rotating platform . According to (93), 
+one has for the grav itational vector potential in a rotating frame of reference 
+A 
+~ 
+=-rocr 
+with the phase shift given by (97). One can apply (97) to the Sagnac effect for photons 
+of frequency v. By putt ing mc2 = hu = 21rhu, with the result that 
+(97) 
+? 21rv&p = 2w1rr-2-
+c 
+the same as predicted by quantum mechanics. 
+We now compute the phase shift (85) by a magnet ic vector potential. To make a 
+comparison with the gravitational vector potential in the Sagnac effect, we consider the 
+magnetic field produced by an infinitely long cylindrical solenoid of radius R. Inside the 
+solenoid the field is constant, vanishing outside. If the magnetic field inside the solenoid 
+is H, the vector potential is 
+1A = -Hr r<R 
+((J 2 
+l HR2 
+A= -­ r>R . (98)({) 2 r 
+According to (85) the vector potent ial on a closed path leads to the phase shift 
+UNCLASSIFIED/fFOA OFFI&I.t.k W&li OJi,k¥ 
+27

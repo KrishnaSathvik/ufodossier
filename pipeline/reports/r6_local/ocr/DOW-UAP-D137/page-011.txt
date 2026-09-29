@@ -1,0 +1,64 @@
+UNCLASSIFIED/ fFOA. OFFI€il.t.L YSE er•tv 
+Typically in a chemical laser, 10 to 20 percent of the energy released in the chemical 
+reaction will result in lasing while the other 80 to 90 percent becomes heat. 
+Fortunately in a flowing gas laser, the heat can be easily removed from the resonator 
+region of the gain generator by the exhaust gas. It is this efficient heat removal 
+mechanism which has allowed chemical lasers to be scaled to such high average 
+powers. If a MW-class laser were required today or in the next few years, chemical 
+lasers provide the only available options. Because they use large quantities of 
+hazardous chemicals and need refueling, this type of laser is not a preferred choice by 
+the military. 
+The physics and scaling of chemical lasers such as OF, HF, and COIL are well 
+understood and, in principal, they could be scaled to power levels significantly beyond 
+the MW level. However, due to the maturity of these technologies, only marginal 
+further efficiency improvements are likely. As a result, the quantity of chemicals which 
+must be stored and consumed for a laser beyond ~ 10 MW would make the concept 
+highly impractical for space-based applications and extremely cumbersome for ground 
+based lasers. Additionally, the atmospheric degradation of a laser beam propagating 
+from ground to space makes these wavelengths impractical at power levels beyond 10 
+MW. 
+SOLID-STATE LASERS 
+The earliest and perhaps the most diverse laser category is the solid-state laser which 
+uses specific atoms or molecules as a lasing gain medium (called the dopant) uniformly 
+suspended in transparent crystalline or ceramic glass (called the host). For example, 
+the familiar Nd:YAG laser uses a few percent of neodymium (Nd) atoms as the dopant 
+suspended in a crystalline mix of yttrium, aluminum, and garnet (YAG). Figure 5 shows 
+some of the many combinations of solid-state laser dopants and hosts in use or being 
+developed today. 
+Wavelength (microns) 
+0.4 0. 5 0.6 0.7 0.8 0.9 1.0 1.1 1.2 1.3 1.4 1.5 1.6 1.7 1.8 1.9 2.0 
+I 
+: isibl e II 
+a ·~ 0 
+Ruby 
+Rhodamine 
+I 
+~ear lnfra~d I 
+I 
+!11I I 
+·~ 
+!,Sapphire 
+• 
+~~ 
+I 
+Nd: YAG 
+Yb:YAG 
+Alex and rite Er: YAG 
+Er:Yb :YAG 
+Hosts can include: 
+Ruby~ Al2 03::Cr 
+-Sapphire - Al203 
+I 
+,J 
+Ho: 
+Nd:YAG X2 
+YAG"' Yittrium , Aluminum , Gamate"' Y3Al5012 
+LuAG"' Lutetium, Aluminum, Gamate"' Lu3Al5012 
+Yittira"' Y2 03 
+Figure 5. Common Solid-State Lasers and Their Wavelengths 
+A major advantage of solid-state lasers for mobile or portable applications is that they 
+only require electricity to power them although cooling is also needed. For example, a 
+5 second run of a 15 percent efficient 100 kW laser would require less than one 
+kilogram of gasoline or diesel fuel. No hazardous chemicals are needed and an 
+UNCLASSIFIED/ fFOA QFFI€il.t.L YSE 8,.L\f 
+6

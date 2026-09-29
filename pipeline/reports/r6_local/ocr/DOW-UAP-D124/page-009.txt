@@ -1,0 +1,44 @@
+UNCLASSIFIED/ /FOR OFFl&IAk W&li 0PU,¥ 
+The Russian design bureaus are to thank for arriving at a concept that eliminated the 
+noisy and hazardous air-breather takeoff and for increasing the operational flexibility of 
+the British HOTOL concept. Glebe Lozino-Lozinski had a concept for a spacecraft with a 
+7-metric-ton payload carried atop an Antonov An-225, with a second An-225 carrying 
+the liquid hydrogen and launch facilities and staff.3 The An-225 was in fact a mobile 
+launch facility; it could literally launch a satellite for any facility that could 
+accommodate a B-747 or an MDC-11. With Rolls Royce or General Electric engines, the 
+An-225 becomes a more easily maintained vehicle with better altitude performance. 
+The An-225's empennage is modified from the An-124's single vertical and horizontal 
+empennage to an 'H' configuration. This permits the powered hypersonic glider to 
+easily lift off the top of the vehicle, as the MBB Sanger wind tunnel test demonstrated. 
+Most commercial transport aircraft larger than ERJ 170 are potential mobile launch 
+platforms for space tourism, point-to-point cargo, or orbital facilities support. Most of 
+the commercial passenger equipment can be removed, with just enough equipment 
+remaining for a launch crew. The fuselage is strengthened and fitted with external 
+mountings for the hypersonic glider. The landing gear need not be modified, as the 
+same maximum weight as the commercial transport will be maintained. The flight 
+control system would be adapted to automatically maintain the correct launch 
+trajectory until separation. A second modified transport would be modified to carry the 
+liquid hydrogen and liquid air to fuel the hypersonic vehicle, along with maintenance 
+and support crew. The intent is to use the automatic launch checkout the author 
+witnessed at Baikanour in 1988, wherein a Soyuz that arrived on its train carrier at 
+0500 hours launched carrying a Progress capsule at 1715 hours the same day. That 
+should make a local launch possible with in hours of arriving at the specified airport 
+launch departure site. These two elements can provide a commercial space launch 
+facility that requires no special or dedicated operational base. 
+Hypersonic Configuration Concepts 
+The configuration and the propulsion system are linked through aerothermopropulsion 
+integration. This approach is not new, as a wide spectrum of configurations and 
+concepts existed in the 1960s. One such McDonnell Aircraft Company concept is shown 
+in Figure 3. This potential operational mach 12 cruise vehicle was developed for the 
+U.S. government as a strike reconnaissance vehicle taking off from a U.S. Air Force 
+base. The concept was to provide on-demand reconnaissance in force operations. 
+However, as was the case with all such efforts in the 1960s, none of the aircraft derived 
+from the "flight-to-space" efforts reached a hardware stage. Individuals working on 
+these projects were convinced that the industrial capability existed to design and 
+fabricate these vehicles, and that such vehicles were technically feasible. The concepts 
+varied widely among different nations, but all had as their goal a transportation system 
+to space that had commercial potential. This discussion is provided to discr iminate 
+between rocket-powered hypersonic gliders and hypersonic cruisers with an air­
+breathing propulsion system . 
+UNCLASSIFIED/ ;CFQR 0FFI&l.t.k Wliliii 8Plk¥ 
+2

@@ -1,0 +1,38 @@
+UNCLASSIFIED/ ;CfOA OFFI&IAk WSE 8Ptklf 
+Section I . IEC Background and Basics 
+Before considering detail, it is helpful to obtain a rough idea of how inertial electrostatic 
+confinement (IEC) fusion works. 
+Gas Feed 
+Line 
+High-Volu gc -l-
+Power Supply 
+Figure 1.1. An UIUC Spherical IEC. The plasma discharge betwee·n the grid and vacuum wall creates an Ion 
+source that is extracted and directed towards the center by the highly charged negative grid. A photograph of a 
+typ ical IEC chamber is shown in the center. A photograph of the discharg e through the view port shows the "Star 
+Mode" discharge where ion beams are created that pass through the grid openings. This is Important for long run 
+times since ion bombardment of the grids, hence grid wire sputtering , is minimiz ed. 
+For this purpose the experimental IEC device of Figure 1.1 is considered. As shown, this 
+"gridded" type IEC has a spherical mesh grid suspended on a high voltage feed-through 
+in the center of a metal vacuum vessel. The fusion "fuel", e.g. deuterium gas, is first 
+fed into the chamber originally prepared at high vacuum, e.g. 10-7 Torr. The fuel gas 
+brings the pressure up into the 10's of Torr region. Then the voltage on the grid is 
+raised into the many (-) kV range, creating a plasma discharge between the high 
+voltage grid and chamber wall (electrical ly grounded). The high negative voltage on the 
+grid serves to extract the ion from the plasma, accelerating them towards the center of 
+the grid where in principle they interact and fuse. In practice however, the scattering 
+cross section is larger than the fusion cross section. Thus many ions scatter without 
+reacting (fusing). Many "near misses" essentially pass straight through the center of the 
+plasma core and exit. This dominance of scattering over fusion reactions is the central 
+issue of all fusion confinement approaches, forcing use of strong confinement so the 
+ions have many passes and hence a good probabi lity of fusing before being lost from 
+the fusion reaction chamber. In the IEC multiple passes occur because the ions are 
+trapped in a potential "well" created by the buildup of positive charge due to the large 
+flow of the accelerated ions into a small "core" region in the center of the negative grid. 
+Viewed in another way, the ions extracted from the region between the grid and the 
+wall can scatter and pass back through the grid, but can only return to the same 
+potential surface they were born on. Thus they cannot reach the vessel wall, but 
+instead lose their kinetic energy, stop, and are accelerated by the grid potentia l back 
+into the center of the grid. This then provides many "recirculations" through the center 
+of the grid volume where they have a finite probability of fusing. If not for the existence 
+UNCLASSIFIED/ / EAR OFFI CI O Li !li F QNL¥ 
+1

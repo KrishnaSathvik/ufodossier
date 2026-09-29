@@ -1,0 +1,20 @@
+UNCLASSIFIED/;'FOR OFFI@IAL l:ISE OHL¥ 
+• Meteoroid penetration or spalling of the thin refractory metal shingles may be a 
+problem during a 180-day stay on orbital storage as a rescue vehicle, and some 
+form of protection may be required. 
+• A readily refurbishable and repairable heat-protection system consisting of a water­
+cooled inner body, insulation, and a radiation-cooled external surface is 
+recommended. 
+The goal was to build a test vehicle that init ially would achieve at least mach 6.5 at 
+100,000 feet (30,480 meters) for at least 5 minutes test time. As scramjets became 
+available, that would be extended to higher mach numbers and altitudes. As part of 
+the spacecraft definition study, four fuels were considered: hydroge n, kerosene (JP-5), 
+methane, and propane. The propulsion systems considered were: 
+• Turbojet-ramjet/scramjet. 
+• Integrated turboramjet. 
+• Rocket-ramjet/scramjet. 
+• Carrier aircraft/vehicle with ramjet/scramjet spacecraft. 
+The closest study to respond to these findings was the NASA-sponsored HyFAC studies 
+executed by McDonnell Aircraft Company of the McDonnell Douglas Corporation. 34 
+UNCLASSIFIED{;CFOR OFFI&il.t.k Uliliii 8Nk¥ 
+45

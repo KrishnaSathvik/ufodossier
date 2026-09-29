@@ -1,0 +1,189 @@
+--- PAGE 1 ---
+UNCLASSIFIED / /FOR-OFFEGEAL-USE-OALY
+
+Defense
+Intelligence
+Reference
+Document
+
+A SC«Cefense Futures
+
+01 November 2010
+
+ICOD 30 August 2010
+
+DIA-08-1011-001
+
+Laser Lightcraft
+Nanosatellites
+
+Laser Lightcraft Nanosatellites
+
+UNCLASSIFIED ++FOR-OFFECEAEUSE-ONET—
+
+--- PAGE 2 ---
+UNCLASSIFIED//P'8R 8FFl01iflk W&li QtU.¥ 
+The Defense Intelligence Reference Document provides non-substantive but 
+authoritative reference information related to intelligence topics or methodologies. 
+Prepared by: 
+Technology Warning Division (DW0 -4) 
+Defense Warning Office 
+Directorate for Analysis 
+Defense Intelligence Agency 
+611thnr· 
+AAP Person 58 
+Administrative Notes: 
+(U) COPYRIGHT WARNING: Further dissem ination of the photographs in this publica tion is not 
+authorized. 
+This product is one in a series of advanced technology reports produced in FY 2010 under the Defense 
+Intelligence Agency, Defense Warning Office's Advanced Aerospace Weapon System Applications.---.... 
+(AAWSA) Program. Comments or questions pertaining to this document should be addressed to I -·--. ) MP Person 
+AAP Perso~ ______ IAAWSA Program Manager, Defense Intelligence Agency, ATTN: JUIAF - DI/DWO-3, 1 ·-··-
+1 ---· Bldg 6000, Washington, DC 20340-5100. 
+ii 
+UNCLASSIFIED//liQQ OFFIQIA .. W&E &•U:Y
+
+--- PAGE 3 ---
+UNCLASSIFIED/ /f8R 8FFIGI/Jk W&li QIIL¥ 
+Contents 
+Chapter 1: Nanosatellite Technologies .................................................................. 3 
+Chapter 2: Laser Lightcraft Nanosatellite Propulsion .............................................. 11 
+Chapter 3: Laser Lightcraft Weapon Mission Selection Study .................................. 27 
+Chapter 4: Summary of Multi-Megawatt Laser Study for Lightcraft Propulsion 
+Applications ..................................................................................................... 42 
+Chapter 5: Conclusion ...................................................................................... 68 
+References ....................................................................................................... 71 
+Figures 
+Figure 1. Air Force X-25LR Laser Lightcraft .......................................................... 12 
+Figure 2. AFRL Test Vehicle in Vertical Flight ................................ ........................ 14 
+Figure 3. Time-Lapse Photo of a Lightcraft Undergoing an Outdoor Vert ical Flight Test 15 
+Figure 4. Lightcraft Flight -Test Vehicle Used in Horizontal Guide -Wire Flight Tests ...... 16 
+Figure 5. Lightcraft Undergoing Horizontal Guide-Wire Flight Test ........................... 16 
+Figure 6. Lightcraft Undergoing Horizontal Guide-Wire Flight Test ........................... 17 
+Figure 7. Lightcraft Concept .......... ...... ................ ... .......... ........... .......... ............ .18 
+Figure 8. Lightcraft Trajectory and Associated Pointing Angles ................................. 19 
+Figure 9. Lightcraft Vehicle Evolution ... ................. ..... ........ ............. .......... ........... 20 
+Figure 10. Attenuation Effects on Captured Laser Beam Power................................ 22 
+Figure 11. Influence of Trajectory and Laser Wavelength on Captured Power ............. 22 
+Figure 12. Captured Laser Power vs. Increasing Range from 11.2 µm CO2 Laser ........ 23 
+Figure 13. Influence of Lightcraft Range and Pointing Angles on Captured Power........ 24 
+Figure 14. Ground/Sea-to-Space Concept ............................................................. 27 
+Figure 15. Air-to -Space Concept . ........................................ .......... ............ ......... .28 
+Figure 16. Schematic of Power Oscillator Optics .................................................... 44 
+Figure 17. Schematic of MOPA ............................................................................ 45 
+Figure 18. Schematic of the Laser N2/CO2/H2 Gas Flow System ................................ 45 
+Figure 19. Northrop Grumman's Joint High Power Bulk Slab Solid-State Laser .......... .48 
+Figure 20. DARPA's High Energy Liquid Laser Area Defense System ......................... 50 
+Figure 21. Phase Change Materials Allow Storage of Large Intermittent Heat Loads 
+While Slow Regeneration Removes Heat from Aircraft ............................................ 52 
+Figure 22. Typ ical HPFL MOPA Design ... ...................................... ......................... 54 
+Figure 23. Fiber Laser Beam Combining Techniques ............................................... 54 
+Figure 24. Pumping Fiber Lasers ......................................................................... 56 
+Figure 25. Large and Small Diameter Fiber Lasers ................................................. 56 
+Figure 26. Single Mode Fiber Laser Modules .......................................................... 57 
+Figure 27. Multimode HPFLs ................................ ............................................... 57 
+Figure 28. Free-Electron Laser............................................................................ 58 
+Figure 29. Free-Electron Laser Mechanism ............................................................ 58 
+Figure 30. Free-Electron Laser Electron Beam Phase-Space Evolution ....................... 59 
+Figure 31. Recirculating-Beam FEL System ........................................................... 60 
+Figure 32. High-Power FEL Optical Resonator ........................................................ 62 
+Figure 33. Notional Long Range HEL Beam Control System ..................................... 64 
+UNCLASSIFIED,tfFQA QFFIGIAI:: 1!181: 8HLY 
+iii
+
+--- PAGE 4 ---
+UNCLASSIFIED/ /fOR. 8FFl&IAk W&li ,HIL:¥ 
+Figure 34. HEL Beam Pointer/Tracker ............................................ ....................... 65 
+Figure 35. Basic Shared Aperture Beam Control System ......................................... 66 
+Figure 36. HEL Adaptive Optics System ................. ...... ......................................... 67 
+Tables 
+Table 1. Laser Lightcraft Model Cost Summary ...................................................... 25 
+Table 3. Estimated Costs for Hybrid Rocket and Lightcraft Launch Vehicles for ETO 
+Table 4. Influence of Target Velocity and Intercept Angle on Impact Energy and 
+Table 5. Influence of Lightcraft and Target Velocity on Impact Energy and Required 
+Table 2. Performance and Estimated Weights for a Hybrid Rocket and Lightcraft ........ 30 
+Flight .............................................................................................................. 32 
+Required Mass ..................... ...................... .. .................. ................................... 33 
+Mass ........................................................................................ ..... .................. 35 
+UNCLASSIFIED'Fl'FAR OFFJCJ0L: Pl&li ,>all.¥ 
+iv
+
+--- PAGE 5 ---
+UNCLASSIFIED/ /fOR. 8FFl&IAk W&li ,>all.¥ 
+Laser Lightcraft Nanosatellites 
+Summary 
+Miniaturized satellites are spacecraft of unusually low mass and small size, usually 
+under 500 kg in total mass. The term "minisatellite" refers to a spacecraft with a wet 
+mass (including onboard propellant) of 100 kg to 500 kg. Microsatellite or "microsat" is 
+a spacecraft with a wet mass of 10 kg to 100 kg. Nanosatellit e or "nanosat" is a 
+spacecraft with a wet mass below 10 kg. Picosatellite or "picosat" is a spacecraft with a 
+wet mass of 0.1 kg to 1.0 kg. Picosats are also called sub-nanosats. 
+The primary reason for miniaturizing satellites is to reduce cost. Heavier satellites 
+require larger launch vehicles of greater cost while smaller, lighter satellites require 
+smaller and cheaper launch vehicles and can somet imes be launched in multiples or 
+"piggyback" using excess capacity on larger launch vehicles. Miniaturized satellites 
+allow for cheaper designs as well as ease of mass production. However, few satellites 
+of any size other than communications constellations, where dozens of satellites are 
+used to cover the globe, have been mass produced in practice. 
+Besides the cost issue, the main rationale for the use of miniaturized satellites is the 
+opportunity to enable missions that a larger satellite cannot accomplish, such as: 
+• Constellations for low data rate communications. 
+• Using formations to gather data from multiple points. 
+• In-orbit inspection of larger satellites. 
+Many of these missions require numerous small spacecraft in a constellation or 
+"swarm." These include orbital communications networks and swarms of small 
+satellites to conduct remote sensing, and to provide unique perspectives on 
+astronomical bodies of interest. For instance, 100 or more nanosats could be deployed 
+from a mother ship to their final destination in space for deployment. 
+Provisions for orbital maneuvers as well as attitude control, multiple sensors, and 
+instruments, and full autonomy will yield a highly capable miniaturized satellite. All 
+onboard electronics will survive a total radiation dose rate of several hundred kilorads 
+over a several year mission lifetime (at least 100 kilorads over two years) . Nanosats 
+developed for in-situ measurements will be spin-stabilized, and carry a complement of 
+particles and fields instruments. Nanosats developed for remote sensing measurements 
+(MASINT) or surveillance and eavesdropping (SIGINT) will be three-axis stabilized, and 
+carry a complement of imaging and radio wave instruments. Autonomy both onboard 
+the nanosats and at the ground stations will minimize the mission operational costs for 
+tracking and managing a constellation. 
+To reduce overall mission cost, advanced technology components and a novel laser 
+propulsion system will be used to make nanosats and their onboard instruments 
+compact, lightweight, low power, low cost, and able to survive their radiation 
+environment over a several year lifetime. Each nanosat will be manufactured and 
+tested for a recurring cost not to exceed $500k. By producing a large quantity of 
+nanosats for a given mission, the per-unit cost will be reduced to a small fraction of 
+UNCLASSIFIED//FOR 061ilCl.li.k W&& 8Ptl'l 
+1
+
+--- PAGE 6 ---
+UNCLASSIFIED / /FOR-OFFEGHAL-USE-OALY.
+
+satellite procurements for traditional missions. Mission operation costs will be
+minimized by the incorporation of both onboard and ground autonomy and use of
+heuristic systems.
+
+UNCLASSIFIED &+60R-OFF26FAE-USE-ONET
+
+--- PAGE 7 ---
+UNCLASSIFIED/ /fOR. 8FFl&IAk W&li ,HIia¥ 
+Chapter 1: Nanosatellite Technologies 
+OVERVIEW 
+Nanosats require technologies that radically reduce the mass and power of components 
+without compromising performance. In addition to miniaturizing components, methods 
+to integrate similar functions across subsystems are being evaluated. For example, all 
+subsystem electronics, including instruments, could be integrated within the Command 
+and Data Handling (C&DH) subsystem. Multifunctional solutions also offer significant 
+savings over traditiona l approaches. Technology investments are required to develop 
+or adapt components to accommodate the expected radiation environment. Simple, 
+effective methods of thermal control are essential to keep the nanosat operational 
+during extreme temperature variations. Autonomy is a critical technology that impacts 
+every subsystem. Constellations with tens to thousands of nanosats must be highly 
+autonomous to be practical. The nanosat ground system must be kept inexpensive, 
+simple, and made inter-operable with other missions. 
+PROPULSION 
+In the baseline mission, nanosat propulsion is needed for two distinct functions: 1) each 
+nanosat must raise its orbit apogee to the appropriate radius, 2) and it must reorient 
+the axis of the spinning nanosat from the velocity direct ion (within the orbit plane) to 
+its science mission attitude (perpendicular to the ecliptic plane). These maneuvers 
+present challenging velocity change (1W) and attitude-control (ACS) requirements. 
+Requirements for the Av Thruster : 
+• Total impulse: 3,000 to 

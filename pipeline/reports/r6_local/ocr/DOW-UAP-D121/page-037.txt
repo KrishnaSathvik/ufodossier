@@ -1,0 +1,18 @@
+UNCLASSIFIED/ /FOR OFFl@IAL l!ISI!!! 9HLY 
+Conclusion 
+This paper prov ided an overview of the current state of HPM sources and the 
+technologies driving their development. Advanced cathode materials, computer codes 
+for more predictive ability in electron beam generation and propagation, high-speed 
+switching at high power, and low-loss insulation techniques are just a few of the areas 
+where advancement clearly is needed for progress to occur. Advancements in 
+photoconductive solid-state (PCSS) and other solid-state switching and sharpening 
+devices appear to finally be reaching a level of development such that they may soon 
+be of use in high-voltage systems. If PCSS switching devices capable of higher 
+operating voltage and extended lifetime are made available, variations of the phased 
+array will become the HPM source design of choice, given the inherent advantages. 
+More compact antennas are greatly desired; however, the physics of the radiation 
+process requires structure sizes on the order of one-half wavelength of the lowest 
+rad iated frequency. With demanding levels of directivity and gain also requirements, 
+compact UWB antenna designs will continue to be difficult, if not impossible, to realize. 
+UNCLASSIFIED/ /FOR OFFI&IAI: Wliliii QfslLV 
+29

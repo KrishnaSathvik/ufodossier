@@ -1,0 +1,239 @@
+{
+  "generated_at": "2026-09-28T17:24:36.113049+00:00",
+  "candidates": [
+    {
+      "candidate_kind": "series_identifier",
+      "left": "DOW-UAP-D077.pdf",
+      "right": "Western US Event",
+      "evidence": [
+        "catalog pdf_pairing series label: Western US Event"
+      ],
+      "series_label": "Western US Event"
+    },
+    {
+      "candidate_kind": "series_identifier",
+      "left": "DOW-UAP-D078.pdf",
+      "right": "Western US Event",
+      "evidence": [
+        "catalog pdf_pairing series label: Western US Event"
+      ],
+      "series_label": "Western US Event"
+    },
+    {
+      "candidate_kind": "catalog_pdf_pairing",
+      "left": "DOW-UAP-D079.pdf",
+      "right": "FBI-UAP-D014.pdf",
+      "evidence": [
+        "catalog PDF Pairing links DOW-UAP-D079 \u2192 FBI-UAP-D014"
+      ]
+    },
+    {
+      "candidate_kind": "catalog_pdf_pairing",
+      "left": "DOW-UAP-D079.pdf",
+      "right": "FBI-UAP-D015.pdf",
+      "evidence": [
+        "catalog PDF Pairing links DOW-UAP-D079 \u2192 FBI-UAP-D015"
+      ]
+    },
+    {
+      "candidate_kind": "catalog_pdf_pairing",
+      "left": "DOW-UAP-D079.pdf",
+      "right": "FBI-UAP-D021.pdf",
+      "evidence": [
+        "catalog PDF Pairing links DOW-UAP-D079 \u2192 FBI-UAP-D021"
+      ]
+    },
+    {
+      "candidate_kind": "series_identifier",
+      "left": "DOW-UAP-D079.pdf",
+      "right": "Western US Event",
+      "evidence": [
+        "catalog pdf_pairing series label: Western US Event"
+      ],
+      "series_label": "Western US Event"
+    },
+    {
+      "candidate_kind": "catalog_pdf_pairing",
+      "left": "DOW-UAP-D080.pdf",
+      "right": "FBI-UAP-D016.pdf",
+      "evidence": [
+        "catalog PDF Pairing links DOW-UAP-D080 \u2192 FBI-UAP-D016"
+      ]
+    },
+    {
+      "candidate_kind": "catalog_pdf_pairing",
+      "left": "DOW-UAP-D080.pdf",
+      "right": "FBI-UAP-D017.pdf",
+      "evidence": [
+        "catalog PDF Pairing links DOW-UAP-D080 \u2192 FBI-UAP-D017"
+      ]
+    },
+    {
+      "candidate_kind": "catalog_pdf_pairing",
+      "left": "DOW-UAP-D080.pdf",
+      "right": "FBI-UAP-D018.pdf",
+      "evidence": [
+        "catalog PDF Pairing links DOW-UAP-D080 \u2192 FBI-UAP-D018"
+      ]
+    },
+    {
+      "candidate_kind": "catalog_pdf_pairing",
+      "left": "DOW-UAP-D080.pdf",
+      "right": "FBI-UAP-D019.pdf",
+      "evidence": [
+        "catalog PDF Pairing links DOW-UAP-D080 \u2192 FBI-UAP-D019"
+      ]
+    },
+    {
+      "candidate_kind": "catalog_pdf_pairing",
+      "left": "DOW-UAP-D080.pdf",
+      "right": "FBI-UAP-D020.pdf",
+      "evidence": [
+        "catalog PDF Pairing links DOW-UAP-D080 \u2192 FBI-UAP-D020"
+      ]
+    },
+    {
+      "candidate_kind": "catalog_pdf_pairing",
+      "left": "DOW-UAP-D080.pdf",
+      "right": "FBI-UAP-D022.pdf",
+      "evidence": [
+        "catalog PDF Pairing links DOW-UAP-D080 \u2192 FBI-UAP-D022"
+      ]
+    },
+    {
+      "candidate_kind": "catalog_pdf_pairing",
+      "left": "DOW-UAP-D080.pdf",
+      "right": "FBI-UAP-D023.pdf",
+      "evidence": [
+        "catalog PDF Pairing links DOW-UAP-D080 \u2192 FBI-UAP-D023"
+      ]
+    },
+    {
+      "candidate_kind": "series_identifier",
+      "left": "DOW-UAP-D080.pdf",
+      "right": "Western US Event",
+      "evidence": [
+        "catalog pdf_pairing series label: Western US Event"
+      ],
+      "series_label": "Western US Event"
+    },
+    {
+      "candidate_kind": "series_identifier",
+      "left": "DOW-UAP-D081.pdf",
+      "right": "Western US Event",
+      "evidence": [
+        "catalog pdf_pairing series label: Western US Event"
+      ],
+      "series_label": "Western US Event"
+    },
+    {
+      "candidate_kind": "series_identifier",
+      "left": "DOW-UAP-D082.pdf",
+      "right": "Western US Event",
+      "evidence": [
+        "catalog pdf_pairing series label: Western US Event"
+      ],
+      "series_label": "Western US Event"
+    },
+    {
+      "candidate_kind": "series_identifier",
+      "left": "DOW-UAP-D083.pdf",
+      "right": "Western US Event",
+      "evidence": [
+        "catalog pdf_pairing series label: Western US Event"
+      ],
+      "series_label": "Western US Event"
+    },
+    {
+      "candidate_kind": "catalog_pdf_pairing",
+      "left": "FBI-UAP-D003.pdf",
+      "right": "FBI-UAP-D002.pdf",
+      "evidence": [
+        "catalog PDF Pairing links FBI-UAP-D003 \u2192 FBI-UAP-D002"
+      ]
+    },
+    {
+      "candidate_kind": "catalog_pdf_pairing",
+      "left": "FBI-UAP-D009.pdf",
+      "right": "FBI-UAP-D010.pdf",
+      "evidence": [
+        "catalog PDF Pairing links FBI-UAP-D009 \u2192 FBI-UAP-D010"
+      ]
+    },
+    {
+      "candidate_kind": "series_identifier",
+      "left": "DOW-UAP-D077.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog series identifier western-us-event-2023"
+      ],
+      "series_id": "western-us-event-2023"
+    },
+    {
+      "candidate_kind": "series_identifier",
+      "left": "DOW-UAP-D078.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog series identifier western-us-event-2023"
+      ],
+      "series_id": "western-us-event-2023"
+    },
+    {
+      "candidate_kind": "series_identifier",
+      "left": "DOW-UAP-D079.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog series identifier western-us-event-2023"
+      ],
+      "series_id": "western-us-event-2023"
+    },
+    {
+      "candidate_kind": "series_identifier",
+      "left": "DOW-UAP-D080.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog series identifier western-us-event-2023"
+      ],
+      "series_id": "western-us-event-2023"
+    },
+    {
+      "candidate_kind": "series_identifier",
+      "left": "DOW-UAP-D081.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog series identifier western-us-event-2023"
+      ],
+      "series_id": "western-us-event-2023"
+    },
+    {
+      "candidate_kind": "series_identifier",
+      "left": "DOW-UAP-D082.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog series identifier western-us-event-2023"
+      ],
+      "series_id": "western-us-event-2023"
+    },
+    {
+      "candidate_kind": "series_identifier",
+      "left": "DOW-UAP-D083.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog series identifier western-us-event-2023"
+      ],
+      "series_id": "western-us-event-2023"
+    },
+    {
+      "candidate_kind": "analysis_place_match",
+      "left": "ICA-UAP-D001.pdf",
+      "right": "UNDATED-USA-599D8B",
+      "evidence": [
+        "analysis source text shares specific place token(s): ['cheyenne', 'cheyenne mountain']",
+        "target incident UNDATED-USA-599D8B from FBI-UAP-D002.pdf",
+        "place_prominence=lede_or_repeated"
+      ],
+      "target_filename": "FBI-UAP-D002.pdf",
+      "score_band": "strong"
+    }
+  ]
+}

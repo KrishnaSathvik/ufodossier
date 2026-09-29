@@ -1,0 +1,67 @@
+UNCLASSIFIED/ /fOR OFFI&IAk Wlii QPU,¥ 
+In the sequel of this paper we shall denote the 
+independent variable of the lognormal distribution 
+(47) by a lower case letter n to remind the reader that 
+corresponding random variable N is the positive 
+integer number of ExtraTerrestriaJ Civilizations in 
+the Galaxy. In other words, n will be treated as a 
+positive real number in all calculations to follow 
+because it is a "large" number (i.e. a continuous 
+variable) compared to the only civilization that we 
+know of, i.e. ourselves. In conclusion, from 110w 011 
+the log11or111al probability density f11nction of N will 
+be written as 
+(1n(11}--µ)2 
+1 1 -~ ( ) (56) 
+n v2na 
+IN n =-· r;:;- e (n~ O) 
+Having so said, we now turn to the statistical 
+properties of the lognormal distribution (55), i.e. to 
+the statistical properties that describe the number N 
+of ExtraTerrestrial Civilizations in the Galaxy. 
+Our first goal is to prove an equation yielding all 
+the moments of the lognormal distribution (56), that 
+is, for every non-negative integer k = 0, I, 2, . . . one 
+has 
+(57) 
+The relevant proof starts with the definition of the k­
+d1 moment 
+(111[11]-p)' 
+k I I -~ 
+= rn •~ •.Ji; a •e dn0 
+One then transforms the above integral by 
+virtue of the substitution 
+In[n]= z. (58) 
+The new integral in z is then seen to 
+reduce to the Gaus sian integral (53) 
+(we skip all steps here) and (57) 
+follows 
+Upon setting k =0 into (56), the 
+normalization condition for f N (n) follows 
+Upon setting k =1 into (56), the important 
+mean value of the ra11dom variable N is found 
+(60) 
+Upon setting k =2 into (56), the mean value 
+of the square of the random variable N is found 
+/N 2) - 211 2a2
+\ -e e . (61) 
+The variance of N now follows from the last two 
+formulae: 
+(62) 
+The square root of this is the important standard 
+deviation f onnula for the N random variable 
+(63) 
+The third moment is obtained upon setting 
+k =3 into (56) 
+(64) 
+Finally , upon setting k =4, the fourth moment 
+of N is found 
+(65) 
+Our next goal is to find the cumulants of N. In 
+principle, we could compute all the cumulants K; 
+from the generic i-th moment p; by virtue of the 
+recursion formula (see ref. [8]) 
+• i- 1 (i - 1) . (66)K; =A- L k-1 K k f.l11-k· 
+k=i 
+UNCLASSIFIED/ /rOR orrl@IAL HSE O,.LY 
+40

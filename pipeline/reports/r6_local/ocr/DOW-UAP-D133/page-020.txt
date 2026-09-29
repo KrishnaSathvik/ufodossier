@@ -1,0 +1,34 @@
+UNCLASSIFIED/ /FOA OFFI€Ial.k Wiili 8NLY 
+time standing wave (w•) between the locations (for example, a photon source and a 
+photon detector). After an initial exchange of offer and confirmation waves, a particular 
+transaction is selected probabilistically from all that are possible, based on the \Jf\/1* 
+values of the alternatives. The offer/confirmation exchange continues until all the 
+conserved quantities (energy, momentum, angular momentum, and so forth) have 
+been transferred. 
+For the nonlocal communication test system described above, we will consider two 
+cases: 
+• Case 1: The switch is positioned so that each fiber from the slits is routed to one 
+detector, producing a "which-way" measurement of the slit through which the VLP 
+photon passed. In this case, the HLP photon as detected by the camera should have 
+a recorded position that falls on a broad single-slit-diffraction-pattern distribution, 
+(not a two-slit interference pattern). 
+• Case 2: The switch is positioned so that light from the two fibers is combined before 
+detection. Therefore, the detection produces no information on the path of VLP 
+photon, which could have passed through either slit. In this case, the HLP photon 
+detected by the camera should be in a position that falls on a two-slit interference 
+pattern distribution. 
+Figure 8 shows the transaction that forms for the nonlocal communication test system 
+in the Case 1 configuration. Here, as in the Ghost Interference experiment, we have 
+treated the nonlinear crystal source of entangled pairs as an effective "reflector" and 
+have represented the rays with straight-through paths to "unfold" the system, 
+duplicating the lens for each photon and representing the system as two-lens optical 
+imaging, with nearly parallel rays between the two lenses. Slit systems S1 and S2 are 
+located one focal length f away from the lenses. The left-going photon is assumed to 
+arrive at the upper slit of S2 and to be detected by the upper detector (circled). The 
+momentum-entangled right-going photon must then go to S1, which is the optical 
+image of S2, and be diffracted by the slit and detected by the camera. If Figure 8 were 
+vertically inverted, it would provide a similar diagram for the equally probable arrival of 
+the left-going photon at the lower slit of S2 and detect ion by the lower detector. The 
+three stages of transaction formation are shown. 
+UNCLASSIFIED/ /rOR. 0rr1e11et U:!I! OHL I 
+14

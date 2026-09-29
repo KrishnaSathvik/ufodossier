@@ -8,6 +8,8 @@ import json
 import re
 import sys
 
+from pipeline.extract import _normalize_for_match
+
 # Real war.gov text (verbatim from official AARO/DOW UAP reports)
 SOURCE = """DEPARTMENT OF WAR
 ALL-DOMAIN ANOMALY RESOLUTION OFFICE (AARO)
@@ -137,7 +139,7 @@ SIMULATED_HAIKU_OUTPUT = """[
 
 
 def normalize(s: str) -> str:
-    return re.sub(r"\s+", " ", s.strip().lower())
+    return _normalize_for_match(s)
 
 
 def validate_excerpt(excerpt: str, source: str) -> tuple[bool, str]:

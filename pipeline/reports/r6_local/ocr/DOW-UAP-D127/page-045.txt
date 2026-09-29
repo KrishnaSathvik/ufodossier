@@ -1,0 +1,37 @@
+UNCLASSIFIED/ /fOR OFFI&IAk WliF QPU,¥ 
+6 ·10-4 
+1000 2000 3000 4000 
+N = Number of ET Civilizations in Galaxy 
+Figure 4. Comparing the two probability density functions of the random variable N found: 
+1) At the end of Section 3.3. in a purely numeric way and without resorting to the CLT at all (thick curve) and 
+2) AnalyticaJly by using the CLT and the relevant lognormal approximation (thin curve). 
+PROBABILITY DENSITY FUNCTION OF Y=ln(N) 
+0.5 
+>- 0.4..... 
+0 
+g.B 
+§ 0.3 ..... 
+•~ 
+5 
+"O 0.2 _q 
+] 
+" .D 
+e 0.1 
+0.. 
+00 2 3 12 
+Independent variab le Y = ln(N ) 
+Figure 5. Comparing the two probability density functions of the random variable Y=ln(N) found: 
+I) At the end of Section 3.3. in a purely numeric way and without resorting to the CL Tat all (thick curve) and 
+2) Analytically by using the CL T and the relevant normal (Gaussian) approximation (thin Gaussian curve). 
+8. DISTANCE OF THE NEAREST and in several web sites, the solution to this 
+EXTRA TERRESTRIAL CIVILIZATI ON problem is reported with only slight differences in 
+AS A PROBABILITY DISTRIBUTI ON the mathematical proofs among the various authors . 
+In the first of the coming two sections (section 7 .1 ) 
+As an application of the Statistical Drake we derive the expression for this "ET_Distance" 
+Equation developed in the previous sections of this (as we like to denote it) in the classical, non­
+paper, we now want to consider the problem of probabilistic way: in other words, this is the 
+estimating the distance of the ExtraTerrestrial classical, deterministic derivation. In the second 
+Civilization nearest to us in the Galaxy . In all section (7.2) we provide the probabilistic 
+Astrobiology textbooks (see, for instance, ref. [10)) derivation , arising from our Statistical Drake 
+UNCLASSIFIED/}FOA OlililCil0L. 1155 ON!¥ 
+45

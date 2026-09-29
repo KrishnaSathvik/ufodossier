@@ -1,0 +1,44 @@
+UNCLASSIFIED/ /PeR. ePPIClillL t.tSI!! e,~tv 
+the "hotspot" range which lies between 400 MHz and 2 GHz. The heating is highly 
+nonuniform with typica l rat ios between spat ial peaks and whole body average specific 
+absorption rates of the order of 150: 1 to 200: 1.' {above and Figure One adapted from 
+[ 1]} 
+Figure One 
+I 
+Subresonance Resonance range , Hot spot Surface 
+absorption 
+rangerange Whole body : Partial : range 
+: body : 
+:theadl : 
+I I 
+30 300 400 2000 f(MHz) 
+Variation ofnormalistd specific absorption ratt wirhfrrqumcy and rtlattd absorption 
+characrerisrics in living organisms: reproduced wirh rht pe,,ni.ssion qf WHO from : 
+Electromagnetic fidds (300 Hz w 300 Ghz) 1993: 76. (Emnronmental Htalrh 
+Criuria 137.) 
+A. THE EFFECTS THAT BURN 
+From the perspective of aerospace applications, the millimeter wave length of emitters 
+has been of greatest interest for human effects, and there have been extensive reviews 
+documenting effects at both low and high levels of incident energy [20,21]. For our 
+purposes, the most basic biophysical information that pertains is clear: with dry 
+clothing, 90-95 % of the energy is efficiently absorbed with or without an air gap acting 
+as an impedance transformer. These millimeter waves (30-300 GHz) penetrate the skin 
+to a depth of several millimeters. The ANSI (American National Standards Institute) 
+safety guideline of 5 mW/cm 2 for RF /NIEMR equates to a SAR of 65-357 W/kg. 
+The depth of penetration involves the area of cutaneous receptors, and at and above 
+these levels will be perceived first, as prickling sensation, then pain and finally 
+erythema and even second degree burns if exposures last on the order of minutes: 
+burning can occur in a non-l inear dose-effect range above these SAR levels, as 
+described elsewhere in th is paper. 
+The thresho ld of heat perception is near 0.7 mW/cm 2, with power densities of about 9.0 
+mW/cm 2 causing sensations of pain with in one second of exposure. It is notable, that 
+the non-liner effects apply; e.g. for 3 GHz {decimeter, not millimeter wave lengths}, 
+the thresholds are on the order of 30 times less. Indeed, especially in the Former Soviet 
+Union, there is substantial literature on these wavelengths at SARs below 10s of W/kg 
+(as with Diathermy Machines in the US in the '50s) being exploited for a wide range of 
+external and internal (gastrointestina l) therapies . 
+Of interest here, in the context of incident RF that can produce heating injury, are a 
+series of very early experiments done at Brooks Air Force Base and the Oak Ridge 
+National Laboratories during the Cold War era intended to study potential weapons and 
+UNCLASSIFIED/fFOA OFFIQIAL: Wili QP◄ IL:¥ 
+9

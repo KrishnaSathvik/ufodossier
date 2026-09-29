@@ -1,0 +1,32 @@
+UNCLASSIFIED / / KOR-OEEIGIAL-US-E-OHe¥=
+
+task area, resulting in interface control documentation/drawing review prior to the
+critical design reviews of the component equipment areas. Finally, the systems
+engineering activity concludes with the development of test plans that will detail
+integration activities and reduce integration risk in subsequent phases. These activities
+are standard level-of-effort tasks that are rolled into other task bids as a background
+activity.
+
+1
+1
+'
+‘ Requirements
+: Review
+
+7 Rete
+
+11.5 Detection Re
+
+'
+1.3 Microwave Transmitter (GB
+
+ee
+
+bee em ewe Re ew oe we ee ee ee ee ee ee ee ee eee ee ee eee ee eee ee ese ee een eee eessern
+
+ICD = Interface Control Documentation/Drawing
+PDR = Preliminary Design Review = design approval
+CDR = Critical Design Review = design complete
+
+51
+UNCLASSIFIED / (EQB.O5ELGE=USEONTT™

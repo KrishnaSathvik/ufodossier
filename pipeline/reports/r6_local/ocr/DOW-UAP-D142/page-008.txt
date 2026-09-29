@@ -1,0 +1,38 @@
+UNCLASSIFIED/ /FOR OFFIEIAk WS& OPtkY 
+irreversible processes, heat can be produced and made to flow, either at T = 0 or at 
+any other T > 0 situation, such as by taking a system out of mechan ical equilibrium . 
+Moreover, work can be done by or done on physical systems, either at T = 0 or T > 0 
+situations, whether for a reversible or irreversible process. However, if one is 
+considering a net cyclical process on the basis of, say, the Casimir effect, then energy 
+would not be able to be continually extracted without a violation of the second law of 
+thermodynamics. Thus, Forward's process cannot be cycled to yield a continuous 
+extraction of energy. Here, the recharging of the battery would, owing to frictional and 
+other losses, require more energy than is gained from the ZPF. There is no useful 
+engine cycle in this process; nonetheless, the plate-contraction phase of the cycle does 
+demonstrate the ability to cause "extraction" of energy from the ZPF. It does reflect 
+work done by the ZPF on matter. 
+Another illustrative example of an early scheme for extracting energy from the ZPF is 
+described in a patent by Mead and Nachamk in (Reference 12). They propose that a set 
+of resonant dielectric spheres be used to extract energy from the ZPF and convert it 
+into electrical power. They consider the use of resonant dielectr ic spheres, slightly 
+detuned from each other, to provide a beat-frequency downshift of the more energetic 
+high-frequency components of the ZPF to a more easily captured form. Figure 3 shows 
+two embod iments of the invention. The device includes a pair of dielectric structures 
+(items 12, 14, 112, 114 in the figure) that are positioned proximal to each other and 
+which intercept incident ZPE radiation (items 16, 116 in the figure). The volumetr ic 
+sizes of the structures are selected so that they resonate at a particular frequency of 
+the incident radiation. But the volumetric sizes of the structures are chosen to be 
+slightly different so that the secondary radiations emitted from them (items 18, 20, 24, 
+118, 120, 124 in the figure) at resonance interfere with each other, thus producing a 
+beat frequency radiation that is at a much lower frequency than that of the incident 
+radiation, and that can be converted into electrical energy. A conventional metallic 
+antenna (loop or dipole type, or a RF cavity structure; items 22, 122 in the figure) can 
+then be used to collect the beat frequency radiation. This radiation is next transm itted 
+from the antenna to a converter via an electrical conductor or waveguide (items 26, 
+126 in the figure) and converted to electrical energy. The converter must include: 1) a 
+tuning circuit or comparable device so that it can effectively receive the beat frequency 
+radiation, 2) a transformer to convert the energy to electrical current having a desired 
+voltage, and 3) a rectifier to convert the energy to electrical current having a desired 
+waveform (items 28, 30, 32, 34, 128, 130, 132 in the figure). 
+UNCLASSIFIED/ /FOR OFFICIO! P!ili QIU.,¥ 
+2

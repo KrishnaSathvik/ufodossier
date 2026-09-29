@@ -1,0 +1,22 @@
+UNCLASSIFIED //FOR-OFFTCEAL-USE-ONES
+
+d. Compute the mass of fuel that must be consumed by the rocket to complete the
+one-way trip.
+
+AV = Vinidway AV 206066
+c
+c AV
+—-atanh| ——
+(= ( . )
+MASS patio = & MASS patio = 1.741
+Mrocket
+_ _ dicket Mena} = 2-198 x 10° ke
+
+MFinal
+TSS ratio
+
+Am := 2: (Mocket _ Minal) Mass of fuel consumed.
+
+UNCLASSIFIED / +O R-OFFt6EA-USE-ONE
+
+40

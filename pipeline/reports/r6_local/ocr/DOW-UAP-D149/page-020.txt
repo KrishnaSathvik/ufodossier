@@ -1,0 +1,40 @@
+--------
+UNCLASSIFIED/ /FOR AFEICIA.k W&i 8,.LY 
+----------> 
+------ >-
+--- .:,, 
+---- --> 
+Air counterflow 
+-->----
+', 
+' ' ' ' ' Aerodynamic: 
+heat : 
+' ' 't' 
+EleC'/oc 
+energy 
+I 000 0 00-00 l 
+[ ~<>'""'o'""'o'""a:-L, -l----->- -:;""'ct;,o..,,-o---'-N.::::ozzle: 
+, a ... -------- ... ,---------
+I 
+v 
+MHD controlled 
+inlet 
+~-----------------, ------------------'/ 
+' MHD accel9:rator 
+' Combustion chambe~ _, 
+ModifiedCheJlllcal Hem Magneto-Plasma-Chem1cal 
+Rege,nernrion S~ce rn Engine (MPCE)fuel 
+Figure 7. Schematic of Ajax Hypersonic Vehicle Concept. The upper and 
+lower pictures represent the same concept, but were published by the authors (A. 
+Kuranov et al.) at different times . 
+The key idea of the Ajax is that, with propulsion, aerodynamic, and heat 
+protection system for hypersonic vehicles hitting their theoretical and practical 
+limits, the only way beyond these limits is smart management of energy (i.e., 
+taking energy from the surrounding flow and putting that energy where it is 
+needed for propulsion benefits). The following three major concepts/systems are 
+included in Ajax: 24 
+• Endothermic fuel conversion. A mixture of hydrocarbon fuel (similar to 
+kerosene) and water initi ally stored on board is used to cool the external 
+surfaces and engine walls, and the heat transferred to the mixture is used in 
+UNCLASSIFIED/FQA QFFHiilif.tl: WOE 8,.L'I 
+16

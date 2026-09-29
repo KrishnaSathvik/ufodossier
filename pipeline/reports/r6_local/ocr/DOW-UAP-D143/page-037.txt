@@ -1,0 +1,54 @@
+UNCLASSIFIED F/P OR OPPICTAL USE ONLY
+
+Lightcraft Air to Space Investigation
+
+One Ballistic Missile Defense (BMD) mission already being investigated by the Air Force
+for high-power airborne laser systems is the focusing of their intense beam energy on
+enemy ballistic missiles over dwell times sufficient to heat missile materials to high
+temperature thus causing structural failure. Another BMD mission that involves high-
+power airborne laser systems was examined during this investigation (see Figure 15).
+This mission entails ballistic missile destruction above the atmosphere during the
+missile’s unpowered descent phase of flight. In this case, it is envisioned that the high-
+pulsed power within high-energy laser beams would first be used to rapidly examine
+each object within the incoming threat cloud and, based on each threat-object’s
+response, discriminate warhead-carrying vehicles from lighter decoys and non-
+threatening debris. Next the pulsed power within the high-energy laser beam would
+guide a Lightcraft to the warhead-carrying vehicles while accelerating the Lightcraft to
+the flight velocity needed for warhead vehicle destruction by kinetic energy kill. And
+intermittently during the trajectory, the laser illuminates the warhead vehicle instead of
+the Lightcraft for guidance updates and terminal semi-active seeker homing.
+
+Threats from space, other than ballistic missiles, were mentioned in the Rumsfeld 2001
+Space Commission Report [27]. One threat to U.S. space assets specifically cited was
+microwave signal-jamming from relatively unsophisticated and inexpensive enemy
+satellites [28]. Eliminating such satellite threats has not been examined in detail, but
+they could be rapidly eliminated by air-to-space Lightcraft, if sufficiently precise
+azimuth and elevation information can be obtained to point Lightcraft lasers at the
+jammers.
+
+“Hit-to-kill” accuracy and high impact energy requires Lightcraft maneuvering such that
+ballistic missile intercept occurs at relatively small angles from a head-on collision
+course. Tables 4 and 5 show the influence of such angles, together with Lightcraft
+velocity and enemy ballistic missile velocity, on Lightcraft impact energy and required
+mass. It is seen in both tables that intercept angles up to 45° from head-on collision
+courses do not significantly influence Lightcraft impact energy or required mass; that
+high Lightcraft impact energies are achieved with relatively low masses (1.0 kg); and
+that required Lightcraft masses for relatively high impact energies (10 MJ) are very low
+for Lightcraft velocities in the 2 km/sec to 4 km/sec range. It is also seen that the
+interception of longer range ballistic missile threats results in higher collision energy for
+a given Lightcraft mass and speed. That is because the higher entry speed of longer-
+range missiles contributes more collision velocity (target plus Lightcraft velocity
+component along the target velocity vector).
+
+This BMD air-to-space mission appears to be more favorable for Lightcraft than air-to-
+ground/sea or air-to-air missions, which are not considered here because they are
+beyond the scope of this report. This mission results in higher altitude flight where
+atmospheric propagation losses of laser beams are lower, and in higher impact
+velocities for higher Lightcraft impact energy or lower mass. But like air-to-air
+missions, BMD would require semi-active terminal guidance using uncooled IR detectors
+and chemical rocket thrusters for end-game maneuvering to ensure hit-to-kill accuracy.
+It is therefore estimated that the air-to-space Lightcraft dry mass would be about the
+same as the air-to-air Lightcraft (approximately 2.0 kg). This particular Lightcraft
+
+33
+UNCLASSIFIED L4502.055160i-USE-ONEY

@@ -1,0 +1,51 @@
+UNCLASSIFIED/ (FOR OFFIClt.k YSE 8Htt 
+Metamaterials for Energy Harvesting 
+One of the most important applications of meta materials is related to developing 
+"perfect absorbers" of infrared electromagnetic radiation, be it in the mid-to-long 
+infrared part of the spectrum (making it relevant for night vision, harvesting of the 
+Earth glow mid-infrared radiation, and so forth) or in the near-to-mid-IR spectrum 
+(mak ing it relevant for day-time infrared photography of the earth terrain). For 
+example, day-time infrared photography relies on the different sunlight reflect ivities of 
+surfaces (for example, snow, brick walls, concrete walls, grass, and so forth), and can 
+easily distingu ish between those surfaces . This reflectivity different ial tends to be the 
+greatest between 2-3 microns, and rapidly decays toward longer wavelengths. Open 
+sky contains very litt le infrared radiation which explains why infrared 
+imaging/photography is very important for aerial and satellite surveys. Because light 
+scattering in the atmosphere scales as >,.-4 , imaging through the atmosphere in the 
+visible range is impossible, and infrared imaging becomes important. This is especially 
+true for the 1 < A < 4 µm range. For longer wavelengths {A> 10 µm) this brightness 
+differential is largely gone because the emission spectrum is dominated by thermal 
+emission. In fact, the Earth glow maximum is around A> 10 µm, with most of the 
+energy contained in the 3 µm < A < 14 µm range. This longer wavelength (mid-to-far 
+IR) spectral range is also very important. It can be used for night-time energy 
+scavenging by high-altitude satellites and other aerospace platforms. 
+There has been a surge of activity in this area, first in the microwave/THz part of the 
+electromagnetic spectrum (References 33, 34), and subsequently in mid-to-far infrared 
+(Reference 20). The concept of narrow-band metamaterials-based absorbers introduced 
+in Reference 33 has the potential for developing highly efficient bolometer arrays. When 
+applied to the infrared part of the spectrum, it can be used for space navigation, 
+especially when weak infrared signals from specific stellar objects need to be picked up 
+and discriminated from other radiation sources. For such applications, the narrow-band 
+"perfect" absorption is highly suitable. An array of such bolometers would reject 
+(reflect) all undesirable frequencies and focus on the single wavelength characteristic of 
+the source of interest. Moreover, if an array of different (for example, tuned to different 
+frequencies) narrow band detectors can be deployed, then the hyper-spectral imaging 
+capability could bring additional benefits. For example, absolute temperatures of a 
+radiation source (that is, stellar bodies) could be accurately determined, and could 
+improve the accuracy of space navigation further. 
+(a) (b) (c) 
+-l 
+~ 
+(J) 
+3 iii" 
+(J) 
+6":::, 
+H 
+0.04 
+0.03 
+0.02 
+0.01 
+Figure 18. "Perfect" Narrow-Band Microwave Absorber. (a-c): Unit cell design . Right panel: sim ulated 
+absorption/transmission/reflection. (Reference 33) 
+UNCLASSIFIED/ /EAR QFFICl.t.ls W8I! Bfltf 
+20

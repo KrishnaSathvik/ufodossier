@@ -1,0 +1,50 @@
+“Sétret NOFERA—
+
+Chapter 6
+
+268
+
+Rodgers determined that a high-altitude object moving two to
+three times as fast as a normal aircraft would produce such a small
+blip with so little persistence that the radar operator would have great
+difficulty tracking it, if indeed he could even see it. Rodgers esti-
+mated that for an aircraft to take advantage of this Blip/Scan Ratio
+phenomenon it must fly at altitudes approaching 90,000 feet and have
+a radar cross section of less than 10 square meters, preferably not
+much over 5 square meters. However, for a Mach 3.0 aircraft to
+achieve such a small radar cross section, its designers would have to
+make many concessions in its structural design and aerodynamics.”
+
+By the summer of 1959, both firms had completed their propos-
+als. In early June, Lockheed submitted a design for a ground-launched
+aircraft known as the A-{{!. It would have a speed of Mach 3.2, a
+range of 3,200 miles, an altitude of 90,000 feet, and a completion date
+of January 1961. Kelly Johnson had refused to reduce the aerodynam-
+ics of his design in order to achieve a greater antiradar capability, and
+the A-Il’s radar cross section, although not great, was substantially
+larger than that of the much smaller parasite aircraft being designed
+by Convair.”
+
+The Convair proposal called for a small, manned, ramjet-pow-
+ered, reconnaissance vehicle to be air launched from one of two spe-
+cially configured Convair B-58B Super Hustlers. The FISH vehicle, a
+radical lifting body with a very-small-radar cross section, would fly at
+Mach 4.2 at 90,000 feet and have a range of 3,900 miles. Two
+Marquardt ramjets would power its Mach 4.2 dash over the target
+area. Once the FISH decelerated, two Pratt & Whitney JT-12 turbojets
+would bring it back to base. The ramjet exit nozzles and wing edges
+would be constructed of Pyroceram, a ceramic material that could
+withstand the high temperatures of very high speeds and would ab-
+sorb radiofrequency energy from radar pulses. Convair stated that the
+FISH could be ready by January 1961."
+
+Convair’s proposal depended on two uncertain factors. First and
+foremost was the unproven technology of ramjet engines. At the time,
+no aircraft in existence could carry a large, ramjet-powered craft into
+the sky and then accelerate to sufficient speed for the ramjet engines
+
+“Unnumbered Convair document on the Blip/Scan Ratio or Rodgers’ Effect (TS).
+” Johnson, “Archangel log,” December 1958—July 1959.
+
+"OSA History, chap. 20, p. 12 (TS Codeword); Convair Division, General Dynamics
+Corporation, “Project FISH Status Review,” 9 June 1959 (S).

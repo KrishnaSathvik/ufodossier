@@ -1,0 +1,33 @@
+UNCLASSIFIED/} FOR OFFICil<L l:191!!! 8HL1/ 
+The newer Al alloys also can be specially processed to render them superplastically 
+formable . This capability opens a realm of possibilities to replace structures that, in the 
+absence of this capability, are machined from thick plate. Very large structures are 
+produced in sections that must be joined. Conventional fusion welding techniques do 
+not work for high-strength Al alloys such as 7075, 7050, 2024, or 2050 because either 
+the welds lead to cracks or the welds made under conditions that avoid cracking have 
+greatly reduced tensile properties. Because these alloys are not amenable to welding, 
+heavier, fatigue-prone mechanically fastened joints must be used. Recently, scientists 
+developed a joining process that permits joining of Al alloys such as 7050. This process, 
+called friction stir welding (FSW), allows joint designs in a variety of configurations that 
+were not considered possible when fusion welding was the only alternative. 
+In FSW, a rotating steel tool is inserted into the seam between the two Al alloy pieces 
+to be joined. As the rotating tool is driven forward, the friction between the tool and the 
+work piece generates enough heat to soften the Al alloy without melting it. A schematic 
+of this process is shown in Figure 1. 
+retreating 
+side 
+Tool 
+/ 
+Figure 1. Schematic Diagram of Friction Stir Welding 
+The combined action of the rotation and the traversing of the tool essentially kneads 
+the two pieces together, leaving a mechanically sound joint. Although the weld 
+properties may be somewhat inferior to those of the base metal, they are good enough 
+that a relatively small increase in thickness at the joint position can compensate . 
+Although substantial development of the FSW process is ongoing, FSW already has 
+been put into practice. For example, the current external propellant tank on the space 
+shuttle is made from an Al-Li alloy fabricated through FSW. The weight advantage of 
+using welded as opposed to bolted joints in a large structure such as a launch vehicle is 
+considerable. With earlier high-strength alloys such as 7075, concerns about fracture 
+toughness in conjunction with monolithic structures would have caused a welded 
+2 
+UNCLASSIFIED/ /FOR. OFFl&IAI:: W&li &Ptl::lf

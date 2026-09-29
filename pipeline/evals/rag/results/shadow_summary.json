@@ -1,0 +1,114 @@
+{
+  "arm": "shadow-gpt-6-sol-medium",
+  "provider": "openai",
+  "model": "gpt-6-sol",
+  "reasoning_effort": "medium",
+  "hard_gate_pass": true,
+  "fake_citations": 0,
+  "citations_outside_retrieval": 0,
+  "unsupported_claims": 0,
+  "hard_abstention_failures": 0,
+  "abstention_checked": 10,
+  "grounded_correct": 54,
+  "grounded_checked": 54,
+  "semantic_grounded_correct": 54,
+  "semantic_grounded_checked": 54,
+  "epistemic_correct": 59,
+  "epistemic_checked": 59,
+  "completeness_correct": 59,
+  "completeness_checked": 59,
+  "acceptable_paraphrases": 0,
+  "overstated": 0,
+  "citation_precision_mean": 1.0,
+  "citation_recall_mean": 1.0,
+  "canonical_correct": 2,
+  "canonical_checked": 3,
+  "retrieval_failures": 1,
+  "api_errors": 0,
+  "estimated_cost_usd": 0.380454,
+  "latency_ms_mean": 3415,
+  "input_tokens": 147022,
+  "output_tokens": 8641,
+  "retrieval": {
+    "questions_with_expected_case": 48,
+    "recall_at_5": 0.8542,
+    "recall_at_10": 0.8958,
+    "recall_at_20": 0.9583,
+    "mrr": 0.821
+  },
+  "fixtures": [
+    {
+      "name": "sary_shagan",
+      "question_id": "q01",
+      "retrieved": true,
+      "context_present": true,
+      "pass": true,
+      "top_case_ids": [
+        "UNDATED-CIA-158652",
+        "UNDATED-CIA-6E72CA",
+        "1950-USAF-3455",
+        "1989-SOVIETARMY-ADFA2F",
+        "1956-FBI-D0933C"
+      ]
+    },
+    {
+      "name": "tremonton",
+      "question_id": "q02",
+      "retrieved": true,
+      "context_present": true,
+      "pass": true,
+      "top_case_ids": [
+        "1952-DOW-141453",
+        "1952-USN-80203D"
+      ]
+    },
+    {
+      "name": "green_fireballs",
+      "question_id": "q03",
+      "retrieved": true,
+      "context_present": true,
+      "pass": true,
+      "top_case_ids": [
+        "1948-USAF-DDD5CA",
+        "1948-USAF-BFA2CC",
+        "1949-USAF-5C0132",
+        "UNDATED-DOE-80EBE8",
+        "1949-USAF-9D1046"
+      ]
+    },
+    {
+      "name": "colorado_springs",
+      "question_id": "q05",
+      "retrieved": true,
+      "context_present": true,
+      "pass": true,
+      "top_case_ids": [
+        "UNDATED-USA-599D8B",
+        "2024-OTHER-745586",
+        "2023-FBI-6A299C",
+        "UNDATED-FBI-C4AD20",
+        "UNDATED-FBI-42C272"
+      ]
+    },
+    {
+      "name": "western_us_series",
+      "question_id": "q26",
+      "retrieved": true,
+      "context_present": true,
+      "pass": true,
+      "top_case_ids": [
+        "UNDATED-FBI-C98A18",
+        "UNDATED-FBI-42C272",
+        "UNDATED-FBI-C390B7"
+      ]
+    }
+  ],
+  "voyage_signature": {
+    "rows": 380,
+    "dimensions": 1536,
+    "padded_zero_tail": 380,
+    "nonzero_voyage_prefix": 380,
+    "invalid_rows": 0,
+    "pass": true
+  }
+}

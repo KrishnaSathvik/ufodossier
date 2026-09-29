@@ -1,0 +1,29 @@
+UNCLASSIFIED/ (fQR OFFIClt.k YSE 8HLI 
+A>d 
+.. 
+Figures. Schematic of the Super-Lens with n=-1 Refractive Index Corresponding to(£= -1, µ =-1) 
+Surrounded By Vacuum. Super-lens' presence enables imaging sub-diffraction objects such as the periodic 
+grating shown here. 
+There are, however, interesting circumstances when it is very important to transport 
+the image towards the scanning device. One such special circumstance is spatially­
+resolved spectroscopy of small (for example, cellular) structures. One can envision 
+space expeditions to other planets that could, potentially, result in finding some 
+evidence of primitive cellular-level life. It would then be highly desirable to examine the 
+structure of the living cell in its natural environment. In all likelihood, that environment 
+would be liquid. Therefore, it would be very desirable to examine the cell without 
+actually touching it with a tip of a near-field optical microscope. Thus, the sub-surface 
+imaging of a small object which is buried underneath a liquid layer would be necessary. 
+No such experiments have so far been conducted. However, several years ago there 
+was an experiment demonstrating imaging of sub-diffraction objects buried under the 
+layer of silicon dioxide. 
+The schematic and experimental results from the experiment (Reference 19) are shown 
+in Figure 6. In this exper iment the sub-wavelength objects were simple holes that were 
+milled in the metal using an FIB. They were buried underneath the super-lens 
+consisting of SiC (negative epsilon material for mid-infrared frequencies) and silicon 
+dioxide (positive epsilon material). Note that this configuration (materials with 6 1 > 0 
+and 62 ~ - 61< 0 joined together: sandw iched or positioned next to each other) is typical 
+for a near-field super-lens. The difference between the near-field super-lens shown in 
+Figure 6 and the "ideal" super-lens shown in Figure 5 is that the ideal also requires a 
+material with a negative value of magnetic permeability. 
+UNCLASSIFIED/ {fQR OFEICl.t.ls: W81!! 8flti 
+7

@@ -1,0 +1,26 @@
+Warning Notice
+Intelligence Sources or Methods Involved (WNINTEL)
+
+National Security Information
+
+Unauthorized Disclosure Subject to Criminal Sanctions
+
+Dissemination Control Abbreviations
+
+NOFORN (NF) Not releasable to foreign nationals
+NOCONTRACT (NC) Not releasable to contractors or contractor/
+Constants
+PROPIN (PR) Caution—proprietary information involved
+ORCON (OC) Dissemination and extraction of information
+controlled by originator
+REL... This information has been authorized for re-
+lease to...
+WN WNINTEL—Intelligence sources and meth-
+ods involved
+Classified by
+
+Declassify: OADR
+Derived from multiple sources
+
+All material on this page
+is Unclassified.

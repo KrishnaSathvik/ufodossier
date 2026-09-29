@@ -1,0 +1,38 @@
+UNCLASSIFIED//FQR QFFIGltlJL W&i &~•kV 
+false minima would be artificially created via the adjustment of the extra dimension 
+(see Figure 8). These modified regions would correspond to increased and negative 
+dark energy densities, thus creating the warp bubble previously discussed. 
+7 .4 ELEMENTARY WARP DRIVE CALCULATIONS 
+This section will explore the calculations relevant to propulsion. Specifically, it will 
+determine the energy required to accelerate a spacecraft to the speed of light. By 
+associating the cosmological constant with the higher dimensional Casimir energy, a 
+straightforward relation between A and the radius of the extra dimensions can be 
+determined : 
+(7.1) 
+A simpler way of developing the relationship between the energy density of space and 
+the expansion of space is to express A as a function of Hubble's constant, H: 
+H oc ✓A , (7.2) 
+which is a standard result obtained from GR. From these two formula, a relationship 
+between the expansion of space and the radius of the extra dimension can be shown: 
+(7.3) 
+This formula really expresses the foundation of this novel warp drive concept : that a 
+sufficiently advanced technology with the ability to adjust the radius of the extra 
+dimension locally would be able to locally adjust the expansion and contraction of 
+spacetime around a spacecraft. This asymmetric expansion creates the warp bubble 
+illustrated in Figure 1. The spacecraft would always move within its own light cone and 
+thus would not contradict any law of special relativity. The possibility that the higher 
+dimensional radius might vary from place to place has been explored in the context of 
+string theory (Reference 57), and so is a valid academic pursuit. However, it has never 
+before been suggested that th is might facilitate a new and exot ic form of propulsion. 
+Equations (7 .1) and (7.2) used together express a relationship between the expansion 
+of space and the energy density of space. A sufficient increase in the energy density of 
+space would generate a proportional increase in the expansion of space. Thus calculate 
+the energy density of space that would be necessary to generate a local expansion of 
+space at the speed of light. A local expansion at the speed of light, Hubble's constant 
+must be increased by a factor of: 
+Hl' = 1026 H I (7.4) 
+where Hcrepresents the modified Hubble's constant, and the subscript c indicates that it 
+is the Hubble's constant for the case of light speed expansion . H must be increased by 
+a factor of 1026 to achieve a local expansion of space equivalent to the speed of light. 
+UNCLASSIFIED//FQR QFFIGl,1L W&i &~•LY 
+20

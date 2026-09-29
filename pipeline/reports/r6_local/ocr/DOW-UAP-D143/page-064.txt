@@ -1,0 +1,37 @@
+UNCLASSIFIED//rOR: orrlCIAL USE 014Lf 
+• Efficient, generally a FEL can transform 10% (> 60% for microwave tubes) of its 
+energy into laser radiation. 
+• Reliable, systems now run 24 hours per day for weeks. 
+• Can produce picosecond laser pulse widths. 
+• Systems are big (40 m x 60 m) and expensive ($1 Million to $100 Million). 
+The Naval Sea Systems Command's (NAVSEA) Directed Energy and Electric Weapon 
+Systems (DE&EWS) Program Office is supporting research, development and testing of 
+advanced high-energy/high-power FEL designs for the purpose of deploying them as 
+directed energy weapons onboard warships in the near future. The DE&EWS program is 
+emphasizing the development of disruptive innovations to reduce FEL system size, 
+weight, and operational (and lifetime) cost, as well as to increase overall system 
+operating efficiency. One design that has emerged to reach all of these goals is the 
+recirculating-beam FEL system (RBFEL), which uses a superconducting accelerator, RF 
+power liquid helium refrigerator, an electron beam injector, an electron beam dump, 
+and a modified laser resonator-undulator cavity that boosts the production of amplified, 
+coherent laser photons (see Figure 31). The superconducting accelerato r gives good 
+efficiency and gradient while recirculation of the electron beam recovers beam energy 
+to increase efficiency and reduce the beam dump size. 
+Electron Accelerator 
+Beam 
+Dump 
+RF Power 
+Liquid Helium Refrigerator 
+Injector 
+IReflecting Minor Undulator Out-Coupling Minor 
+Figure 31. Recirculating-Beam FEL System {courtesy of the Naval Post-Graduate School ' FEL 
+Lab). 
+The key (typical) technical features of the Navy RBFEL are as follows : 
+• Total system volume: 16 m x 4 m x 4 m = 256 m3 . 
+• Undulator/Wiggler 
+- Length: 46 cm to 60 cm. 
+- Period: 2.9 cm. 
+- Number of periods: 18. 
+- Magnetic field strength : 1 Tesla. 
+UNCLASSIFIED/fFOA QFFH31AL ~81!! 8HLY 
+60

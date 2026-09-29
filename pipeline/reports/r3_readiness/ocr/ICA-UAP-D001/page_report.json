@@ -1,0 +1,86 @@
+{
+  "filename": "ICA-UAP-D001.pdf",
+  "generated_at": "2026-09-25T19:25:43.796827+00:00",
+  "page_count": 4,
+  "usable_text_chars": 3768,
+  "stats": {
+    "native_good": 3,
+    "native_thin": 0,
+    "needs_ocr": 1,
+    "ocr_failed": 0,
+    "ocr_succeeded": 1,
+    "pages_ocrd": 1
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "native_quality": {
+        "page_number": 1,
+        "native_char_count": 146,
+        "printable_ratio": 1.0,
+        "alpha_ratio": 0.719,
+        "word_count": 18,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "sufficient clean native text"
+      },
+      "final_category": "native_good",
+      "text_method": "native",
+      "char_count": 146,
+      "text": ""
+    },
+    {
+      "page_number": 2,
+      "native_quality": {
+        "page_number": 2,
+        "native_char_count": 24,
+        "printable_ratio": 1.0,
+        "alpha_ratio": 0.417,
+        "word_count": 3,
+        "replacement_char_count": 0,
+        "category": "native_thin",
+        "reason": "ocr_replaced_native (below native usability thresholds)"
+      },
+      "final_category": "native_thin",
+      "text_method": "tesseract",
+      "char_count": 19,
+      "text": ""
+    },
+    {
+      "page_number": 3,
+      "native_quality": {
+        "page_number": 3,
+        "native_char_count": 2727,
+        "printable_ratio": 1.0,
+        "alpha_ratio": 0.762,
+        "word_count": 388,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "sufficient clean native text"
+      },
+      "final_category": "native_good",
+      "text_method": "native",
+      "char_count": 2727,
+      "text": ""
+    },
+    {
+      "page_number": 4,
+      "native_quality": {
+        "page_number": 4,
+        "native_char_count": 810,
+        "printable_ratio": 0.998,
+        "alpha_ratio": 0.753,
+        "word_count": 116,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "sufficient clean native text"
+      },
+      "final_category": "native_good",
+      "text_method": "native",
+      "char_count": 810,
+      "text": ""
+    }
+  ],
+  "combined_path": "pipeline/reports/r3_readiness/ocr/ICA-UAP-D001/combined.txt",
+  "production_writes": false
+}

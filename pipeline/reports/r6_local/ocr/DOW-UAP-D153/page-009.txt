@@ -1,0 +1,45 @@
+UNCLASSIFIED/ /EAR AfifilCIAk Wlili 9PtLY 
+electrons (electrons and positrons) or when one state has one more electron 
+(electron-positron pair) than the other. 
+Cosmological inflation [9], cosmologica l particle production [9], classical scalar fields 
+[9], the conformal anomaly [9], and gravitational vacuum polarization [12-15] are 
+among many other examples that also violate the energy conditions. Since the laws of 
+quantum field theory place no strong restrictions on negative energies and fluxes, then 
+it might be possible to produce exotic phenomena such as faster-than- light travel [31-
+33], traversable wormholes [8, 9, 34], violat ions of the second law of thermodynamics 
+[35, 36], and time machines [9, 34, 37]. There are several other exot ic phenomena 
+made possible by the effects of negative energy, but they lie outside the scope of this 
+report. In what follows, we consider only items 2 and 4 in the previous list for the 
+purpose of this report due to the ir ready applicability and technical maturity. We will 
+not examine the other items in the list because they are theoretical curiosities that 
+remain under study by investigators. 
+Basic Notions of the Quantum Field Theory of Light 
+Before going further, it will be helpful to briefly outline the basic notions and 
+terminology of the quantum field theory of light (i.e., quantum optics) because the 
+content of this report focuses on those aspects. 
+Classically, light is electromagnetic radiation that can be pictured as waves flowing 
+through space at the speed of light, c (= 3.0 x 108 m/s). The waves are not waves of 
+anything substantive, but are in fact ripples in the state of a field. These waves carry 
+energy, and each wave has a specific direction, frequency and polarization state. This 
+is called a "propagating mode of the electromagnetic field." A simple model for this is 
+the electromagnetic oscillator. One complex-valued vector function u(x,t) called a 
+spatial-temporal mode comprises all classical wave aspects including polarization. The 
+sim plest example of a spatial-temporal mode is a plane wave 
+u(x,t) = u0 exp[i(kx-wt)] of polarization vector uo, angular frequency co, and wave 
+vector k (definition: k2 =u}/c2), where i is the unit complex number, and x is the 
+space coordinate and tis the time coordinate . 
+This mode defines a framework in space and time that may be excited by the quantum 
+field "light." The mode function quantifies the strength of one excitation in space and 
+time. Also, the mode function obeys the laws of classical waves given by Maxwell's 
+equations of electrodynamics. The choice of u(x,t) is made by the observer. The 
+observer singles out one mode, one quantum object from the rest of the world to make 
+a specific observation or measurement. This object turns out to be a harmonic 
+oscillator described by the annihilation operator a. A useful tool for modeling the 
+propagat ing mode of the electromagnetic field in quantum mechanics is the ideal 
+quantum mechanical harmonic oscillator: a hypothetical charged mass on a perfect 
+spring oscillating back and forth under the action of the spring's restoring force. The 
+operator astands for the quantized amplitude with which u(x,t) can be excited. In 
+classical optics it would be just a complex number a of magnitude lal and phase 
+arg(a) . The quantized amplitude ais neither predetermined nor given by the observer 
+UNCLASSIFIED/ /FOR OFFICIICL tl.!l!! 9HLY 
+5

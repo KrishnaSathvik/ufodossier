@@ -1,0 +1,54 @@
+UNCLASSIFIED / /FOROFPICTAL USE ONE
+
+was evacuated and back-filled with argon to prevent YBCO degradation by water vapor.
+When the static machine was operated, a light blue planar “discharge” was seen to pass
+from the superconductor array to the annulus. At this instant, a pencil standing upright
+on a table in an adjoining room and separated from the experiment by a thick concrete
+wall fell over.
+
+Around this time, Koczor had raised some NASA funding to commission the commercial
+fabrication of a 27-cm bi-layer disk conforming to Podkletnov and Levit’s 1997
+specifications. Podkletnov visited the Toronto laboratory for a second time to assess the
+experimental progress, in particular the fabrication of the special bi-layer sintered
+ceramic YBCO disks. Upon persistent questioning about the methods he used to power
+the various coils (without sustaining high-voltage arcs), keep them in phase at high
+frequencies, and maintain stability during rotation, it was learned that Podkletnov was
+not involved in the electrical design but only in the ceramic side of the experiment.
+Nevertheless, he claimed that with our apparatus and “home-made” disks, one should
+see the shielding effect, but at a somewhat smaller magnitude than his original results
+owing to our expected lower rotational speeds.
+
+For several years prior to 1999, Professor Harald Reiss had been working on tests of
+gravity’s influence on high-temperature superconductors and vice versa as a researcher
+at Asea Brown Boveri and later the University of Wuerzburg in Germany, where he
+taught courses in superconductivity. In that year he published (Reference 32) the
+results of precise measurements of the weights of superconducting and non-
+superconducting samples cooled below Tc and found anomalies not easily explained
+away. He weighed small, disk-shaped samples held in a specially made capsule while
+dipping it into LN2 and found a slight (~0.5 percent) weight increase of a high-
+temperature superconductor for which he was not able to offer a prosaic explanation.
+We supplied some YBCO disks for his experiments. His analysis of possible artifacts is
+thorough and very useful to other researchers investigating this area. In 2003, he
+published (Reference 33) an update of his ongoing LN2 experiments with increased
+precision and artifact reduction. He was still observing weight changes during Tc
+transition to a repeatable degree not achieved elsewhere.
+
+1999 saw the wind-up of the NASA small-diameter nonrotating disk experiments with
+no unequivocal results. As the budget for such experimentation had been exhausted by
+the costly fabrication of the 27-cm bi-layer disk, Koczor tried to interest others,
+including our laboratory, to take on the task of levitating and RF-spinning this monster
+disk at LHe temperatures; we respectfully declined. Around 2002, Koczor gave up
+trying, as the experiment was deemed too difficult without considerable effort, and no
+spare disks were available in case the only YBCO disk that was made broke!
+
+Two years later, Podkletnov and his collaborator on theory, Modanese, published a
+paper on the web concerning an enhanced version of the gravity beam, or “Impulse
+Gravity” experiment (Reference 34). This was the first general publication of the high-
+voltage impulse force experiment. Enough technical description was available to allow
+an assessment of the validity of experimental setup. Unfortunately, many unresolved
+technical questions cast considerable doubt on whether the experiment actually had
+been undertaken. Neither Podkletnov nor Modanese provided by a shred of
+confirmatory evidence. However, the paper presented a general summary of the
+theoretical work by Modanese and included an extensive bibliography.
+
+UNCLASSIFIED / / FOR-OFFTCTALUSE-ONTT

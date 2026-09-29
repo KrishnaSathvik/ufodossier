@@ -1,0 +1,47 @@
+UNCLASSIFIED/ / FOA OFFI&I Ak WSE 8Ptklf 
+Retrapping of Axial - Loss Particles 
+Axial plasma particle loss escaping out through the end cone (spindle cone) of the first 
+MCSA unit should be retrapped in the second unit because of "KAM effective 
+scattering". This KAM scattering occurs as particles move into the null-field region 
+within each SIEC unit. Figure 5.9 illustrates the axial magnetic field component along 
+the centerline of a two -unit MCSA. Particles escaping from the low field region of one 
+unit pass into the neighboring unit through the high magnetic field region between the 
+two -units. Upon entering the IEC region, the direction of the particle is effectively 
+randomized (i.e. Kam Scatter) when it loses adiabatic invariance in the field null region . 
+Although particles with high velocities parallel to the magnetic field will not experience 
+as much effective scattering, a majority of the particles entering the null field region 
+should experience scattering and retrapping. 
+Lmi,r-Fi ld High-Field 
+£ 
+O> 
+Q) C 
+C O Q) 
+·-:c, .= 
+~~en c a,-o 
+~~~ 
+120 
+100 
+80 
+60 
+40 
+20 
+0 
+-20 
+Magnetic hannd 
+-.------....- ...,....,-~--.----r---r- -r¼'..Ggt.00,..........-------, 
+Axial Position (m) 
+Figure 5.9. Axial Magnetic Field Strength Along Two-Unit MCSA Centerline 
+This KAM scattering process is illustrated conceptually in Figure 5.10. Before enter ing 
+the null-field region, part icles have a gyroradlus that depends on their perpendicular 
+velocity. If v is large compared to vu, the effective scattering angle wi ll be large, 
+resulting in retrapping in the case of the MCSA. In the high-field region, the gyro-radius 
+of the part icle is small. When the low-fiel d region is reached, the particle moves in a 
+straight-line path along the vector direction at the edge of the null region. Since the 
+phase of the gyro motion of the particles is random at this point, the vector direction 
+they assume in crossing the null is random. The result then can be viewed, as a 
+random, collisionless, scattering process. Particles that stream along the axis and enter 
+a neighboring IEC scatter in this way and become confined in the neighboring IEC 
+(termed axial -loss "re-trapping"). This re-trapping greatly increases the confinement 
+time of a MCSA fusion device. 
+UNCLASSIFIED/ I FOR 8ffIOIAk WSE 8Ptk\f 
+58

@@ -1,0 +1,30 @@
+UNCLASSIFIED/ /fOR. 8FFl&IAk W&li ,>all.¥ 
+Chapter 2: Laser Lightcraft Nanosatellite Propulsion 
+Laser propulsion is a new and exceptional method for reachi ng space. By launching 
+spacecraft on a beam of electromagnetic radiation, researchers will have developed the 
+first new method of achieving orbit since the late 1950's . In this concept, a remote or 
+ground-based energy source, such as a ground- or space-based laser beam generator, 
+transmits power to a spacecraft via a beam of electromagnetic radiation [ 1-8]. The 
+spacecraft collects the beam energy and uses it to power the propulsion system. This 
+concept has the advantage of using the ambient air as the working fluid in the 
+atmosphere and carrying propellant only for use outside the atmosphere, leaving the 
+energy source for heating the propellant on the ground. This results in a tremendous 
+weight reduction and improved performance benefit for the spacecraft because a large 
+propellant mass and heavy energy source are not carr ied onboard. 
+The laser-prope lled vehicle, called "Lightcraft" because it flies on a beam of laser light, 
+is designed to harness the energy of a laser beam and convert it into propulsive thrust. 
+In the earliest laser-prope lled rocket designs, beamed energy from a ground-based 
+laser (with near-vis ible wavelengths) is absorbed by a heat exchanger onboard a 
+rocket, and is transferred to a working fluid. The heated fluid (hydrogen, ammonia, 
+etc.) then produces thrust by expansion throug h a nozzle as in a conventional chemical 
+rocket. An alternat ive to this scheme is to use the beamed-energy to ablate an 
+onboard solid propellant (such as Delrin) to generate thrust. However, a more recent 
+incarnation of th is concept, developed by the Air Force Research Laboratory (AFRL) at 
+Edwards AFB, CA, is for the Lightcraft to operate in two propulsion modes: airbreathing 
+(detonation wave) and rocket ablation (deflagration). The Lightcraft operates in air 
+breathing mode up to Mach 5 and 30 km altitude, and in laser thermal rocket mode 
+(using liquid, gaseous, or Delrin ablation propellant) in space [7, 8, 9-16]. Figure 1 
+shows the Air Force X-25LR (25 cm diameter) Lightcraft concept. The Air Force X-SOLR 
+Lightcraft has twice the diameter as the X-25LR. 
+UNCLASSIFIED//FOR 061ilCl.li.k W&& 8Ptl'l 
+11

@@ -1,0 +1,22 @@
+UNCLASSIFIED/ /P'OR. 8FFIEil1'1.k lellii Ql'II.¥ 
+existence of negative masses. It is the spin of the fermions, like the spin of the electron. 
+Fermions are described by Dirac's relativistic wave equation. This equation has both 
+positive and negative energy components and because of the mass-energy relation, it 
+therefore must have negative mass components. According to Schrodinger [4], it is 
+these negative mass components which lead to the phenomenon of the spin. Since the 
+overall mass of the electron is positive, the occurrence of negative masses in the Dirac 
+equation must mean that the electron is a mass pole with a superimposed mass dipole 
+[5]. 
+The spin is definitely not an intrinsic rotational motion of a finite size particle, as older 
+models had suggested it to be. The original model by Uhlenbeck and Goudsmit, for 
+example, cannot possibly be correct because it requires superluminal rotation velocities 
+for an electron with the classical radius 'o =e2/ mc2 . 
+If we consider the linear motion of a mass dipole (Figure 2), we immediately see that 
+its translation generates angular momentum. Construction of a mass pole with a 
+superimposed mass dipole can simply be done by choosing the positive mass slightly 
+larger than the magnitude of its negative counterpart. For such a pole-dipole particle 
+the center of mass S is outside the line connecting both masses (Figure 3) with its 
+motion taking place on a circle of radius re. 
+Figure 2. Translation of mass dipole. 
+UNCLASSIFIED/fFOA OFFI&il.t.k lellii OJi,k¥ 
+11

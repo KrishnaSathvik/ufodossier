@@ -1,0 +1,50 @@
+Seeret NOFORN—
+Chapter 2
+50
+
+—_-
+
+James G. Baker
+
+The first success in designing very-high-acuity lenses came in
+the mid-1940s, when James G. Baker of Harvard and Richard S.
+Perkin of the Perkin-Elmer (P-E) Company of Norwalk, Connecticut,
+collaborated on a design for an experimental camera for the Army Air
+Force. They developed a 48-inch focal-length scanning camera that
+was mounted in a modified B-36 bomber. When tested over Fort
+Worth, Texas, at 34,000 feet, the new camera produced photographs
+in which two golf balls on a putting green could be distinguished (in
+reality, however, the “golf balls’’ were 3 inches in diameter). These
+photographs demonstrated the high acuity of Baker's lens, but the
+camera weighed more than a ton and was much too large to be carried
+aloft in an aircraft as small as the U-2,
+
+Realizing that size and weight were the major restraining factors
+in developing a camera for the U-2, James Baker began working on a
+radically new system in October 1954, even before the CLA adopted
+the Lockheed proposal. Baker quickly recognized, however, that he
+would need almost a year to produce a working model of such a com-
+plex camera. Since Kelly Johnson had promised to have a U-2 in the
+air within eight months, Baker needed to find an existing camera that
+could be used until the new camera was ready. After consulting with
+his friend and colleague Richard Perkin, Baker decided to adapt for
+the U-2 an Air Force camera known as the K-38, a 24-inch aerial
+framing camera built by the Hycon Manufacturing Company of
+Pasadena, California.
+
+Perkin suggested modifying several standard K-38 cameras in
+order to reduce their weight to the U-2’s 450-pound payload limit. At
+the same time, Baker would make critical adjustments to existing
+K-38 lenses to improve their acuity. Baker was able to do this in a
+few weeks, so several modified K-38s, now known as A-| cameras,
+were ready when the first “Angel” aircraft took to the air in
+mid-1955."°
+
+CIA awarded Hycon a contract for the modified K-38 cameras,
+and Hycon, in turn, subcontracted to Perkin-Elmer to provide new
+lenses and to make other modifications to the cameras in order to
+make them less bulky. In its turn, Perkin-Elmer subcontracted to
+Baker to rework the existing K-38 lenses and later design an im-
+proved lens system. To keep his liens-designing efforts separate from
+
+"Ibid.

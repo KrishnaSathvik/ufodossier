@@ -1,0 +1,65 @@
+• Type of IR-Guided AAM: 
+• Num IR-Guided AAM: 
+• Gun Name or Designator: 
+• Num Gun Rounds: 
+• Air-to-Ground Wpn to Include Num of Each: 
+• TGT Pod Name or Designator: 
+• Additional Avionics: 
+• Data Link: 
+• Gentext: 
+Timeline 
+Takeoff 
+• Callsign: 
+• Number of Aircraft: 
+• Asset Type (Aircraft): 
+• Aircraft Tail Number(s): 
+• Takeoff Location (ICAO Code): 
+• Takeoff Time DTG: 042149:00ZMAY22 
+• Mode 3 (IFF Codes): 
+• Gentext/Additional Details: 
+• Mission Canceled: 
+On Station 
+• Time On Station DTG: 
+• Callsign: 
+• JTAR Number: 
+• Killbox (Location): 
+• Mission Type: 
+• JTAC Callsign: 
+• Gentext/Additional Details: 
+• Did not Arrive On Station: 
+Off Station 
+• Time Off Station DTG: 
+• Total Time On Station: 
+• Gentext/Additional Details: 
+Landing 
+SECRET//REL TO USA, FVEY 
+SECRET//REL TO USA, FVEY 
+DECLASSIFED
+DECLASSIFED
+UNCLASSIFIED
+UNCLASSIFIED
+Declassified by:
+MG Richard A. Harrison
+USCENTCOM Chief of Staff
+Declassified on: 20260710
+ 
+ 
+-
+(b) (1) (B)
+(b) (1) (B)
+(b) (1) (B)
+(b) 
+(b) (1) (B)
+(b) (1) (B)
+(b) (1) (B)
+-
+(b) (1) (B)
+(b) (1) (B)
+-
+-
+(b) (1) (B)
+-
+-
+(b) (1) (B)
+(b) (1) (B)
+3.5C. (B)(6)

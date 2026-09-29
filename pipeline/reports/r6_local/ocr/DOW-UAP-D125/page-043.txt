@@ -1,0 +1,43 @@
+UNCLASSIFIED/ /FOR OFFl@IAL ~81: 8HLY 
+are possible in Penning IEC devices provided that: 1) The electrostatic well is deep 
+enough (Eo > 100 kV); 2) Ion confinement time is long enough ( 8 > 0.01); and 3) Ion 
+source strength is moderate (Sm ax < 300). Another important effect which enters these 
+calculation concerns is relative to ion motion in the well. To emphasize the difference 
+between Q values studies from Nevins and Chacon are summarized in Table 4.1. (Here, 
+the BAFP calculation was done for off-opt imal conditions (vs. the BAFP obtained for 
+beam-like cases) to compare with the Nevins' calculations) . 
+Further, calculated Q-val ues from the BAFP simulation by Chacon for the beam-like 
+cases are about five to ten times larger than those obtained in by Nevins in Reference 
+4.1. This added inconsistency can be traced back to the different treatment of the D 
+and T ion species in the two ca lculations. Thus, while BAFP treats both species as one 
+with average mass, Nevins treats both species separate ly but assumes they follow the 
+same monoenergetic distribution function. This results in a finite velocity difference 
+between species that boosts collisionality, rendering smaller Q-values. The 
+inconsistency in the Q-value disappears when BAFP is compared against theoretical 
+estimates with a similar multispecies treatment in Table 4.1. 
+The BAFP calculations in Reference 4.2 eliminated most of the assumptions that limited 
+Q values in prior studies, plus they concentrated on conditi ons in parameter space 
+where prom ising Q values could be expected. These conditions include that the 
+electrostatic well is deep enough (Eo ~100 kV); Ion confinement time is long enough 
+(8 ~0.01); the ion source strength is moderate (Sm ax < 300), while the ion inject ion 
+energy is slightly below the potential-well maximum. (Here 8 and S max are normalized 
+quantities defined in Reference 4.2) . 
+These results again confirm that proper formation of the electrostatic well is essential to 
+achieve large fusion gains, and demonstrate that the distorted Maxwellian ion 
+distribution-neglected in previous analyses-can play a positive role in the IEC gain . 
+Results also show that the square well assumption, used in previous analytical 
+estimates by Nevins is in fact a pessimistic one. Thus, parabolic wells result in larger 
+density peaks at the center, yielding Q-values 3 to 5 times larger (for Eo ~150 kV) than 
+those obtained with square wells. Parabolic wells are also more forgiving with respect to 
+the source to ratio requirement. As previously noted Chacon found steady-state 
+distributions in which the therma lized component of the distorted ion population is 
+significant and can produce high gains. Such operating regimes with Q-value > 100 
+have been identified, as plotted in Figure 4.3. These results ignore electron 
+Bremsstrahlung loss however. That effect on the Q-value was addressed heuristically by 
+Chacon using a semi-analytic model, indicating that quite large Q-values are still 
+possible, provided that electron particle losses are kept small and well depths are large. 
+These results show that in addition to potential well shape, the source strength vs. up­
+scattering losses plays a crucial role in the IEC energy gain. More insight into this can 
+be obtained from the distribution functions for trapp-ed ions, sketched in Figure 4.3. 
+UNCLASSIFIED/ ;<FOA OFFICI.IJ.k Wii Ql\lk¥ 
+36

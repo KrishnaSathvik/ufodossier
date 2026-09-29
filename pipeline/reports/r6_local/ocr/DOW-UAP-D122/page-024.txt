@@ -1,0 +1,28 @@
+C 
+UNCLASSIFIED/ fFOA OFFI&iIAk Ulilii ONkY 
+Broadband Invisibility 
+To understand why non-Euclidean geometry comes to the rescue of invis ibility , consider 
+the following two-dimensional example. 35 Imagine a virtual space made of a flat space, 
+a sheet of paper, and a curved space, the surface of a sphere. The two spaces touch at 
+one line. Consider the fate of light rays in this two-dimensional virtual world. Light rays 
+would either pass the sphere or enter, through the connecting line, the surface of the 
+sphere, whereupon, after one loop, they would continue in the same direction as they 
+entered, as if the tour on the sphere had never happened. The sphere is invisible; it 
+shows only as a time delay of the light ray. Although the sphere is invisible, it does not 
+make something else invisible yet. However, this is easily arranged. Imagine a mirror 
+around the equator of the sphere. The ray bounces off at the mirror, but, after another 
+bounce, is back on track. A mirror in this curved space reflects light back to itself! The 
+mirror creates the illusion that the light performs a full great circle, whereas in reality it 
+stays on one hemisphere. The other hemisphere is hidden. Alternatively, some lines on 
+the sphere are never crossed by light rays. Such lines can be opened like an eye; the 
+space they enclose is hidden from sight. 
+Figure 20. Non-Euclidean Cloaking Device in Two Dimensions. The device creates the illusion shown in A: 
+light propagates through a virtual space that consists of a plane and the surface of a sphere, a curved space, which 
+touch along a line. Some incident light rays venture from the plane to the sphere; they return after one loop and 
+continue in the same direction . Note that the rays never cross the red zigzag line on the sphere. Plane and sphere 
+carry a coordinate grid that is mapped onto physical space B. The magenta circle defines the boundary of the 
+device. Its interior has been expanded to make space for the grid of the sphere. In particular, the line where plane 
+and sphere touch has been opened like an eye (thick black lines) to include the sphere. This is not a cloaking 
+device yet, but one could place a mirror around the equator of the virtual sphere C, making the northern 
+UNCLASSIFIED/ /FOR OFFI&iIAk l::18E 8HLY 
+19

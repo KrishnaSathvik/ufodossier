@@ -1,0 +1,41 @@
+UNCLASSIFIED//POR. Offl@IAI:: ~S& Qptk\f 
+• Antimatter drives: 
+- Antimatter/fission. 
+- Antimatter, propellant and Laval nozzle. 
+- Antimatter, electrical generation, ion drive . 
+- Antimatter, electrical generation, photon drive (Sanger). 
+• Speculative technologies: 
+- Heim graviphoton drive. 
+- Black hole energy source. 
+To look at the role of fusion propulsion over the next 30 years and beyond, we can 
+envision four kinds of missions: surface to LEO (low-Earth orbit); LEO to Mars; LEO to 
+Saturn; and LEO to Alpha Centauri A, B, or C. While technical hurdles will certainly be 
+at the forefront for each mission, safety factors and fuel concerns will also contribute to 
+the optimal propulsion technology chosen . 
+SURFACE TO LOW-EARTH ORBIT ( 100 MILES) 
+The energy required to move one kilogram of mass into LEO 100 miles above the 
+surface of the Earth is about 30 MJ (8.5 kW-hr). The energy required to move this 
+same mass from LEO to lunar orbit significantly smaller, yet the transit time can be 
+very long. Chemical rockets, such as the Saturn V, have successfully launched 
+satellites and the Apollo missions into earth orbit using RP-1 and LOX (liquid oxygen), 
+along with LH2 (liquid hydrogen) in the second and third stages). 
+Proximity to the Earth's surface requires propulsion systems that are safe to the 
+population and to the environment. The Rover Project in the 1950s explored the use of 
+nuclear fission NERVA (Nuclear Engine for Rocket Vehicle Application) rockets, but 
+ejection of radioactive debris made these rockets untenable for use on Earth. Fusion 
+and antimatter systems suffer the same problem. Chemical rockets will continue to 
+move humans into local space until another technology is available. Given sufficient 
+technical and financial support, additional systems may be explored over the next 30 
+years: 
+• The Space Tether: This involves a carbon nanotube tether that connects a 
+spaceport on the Earth's surface to a station in geosychronous orbit above the 
+equator. Carbon nanotubes are extremely strong, yet fibers of sufficient length to 
+fabricate into a tether are not yet available. This is an active area of research 
+(http://www .spaceelevator .com ) with scientific progress presented at regular 
+conferences. Cargo and passengers would be moved into LEO using an elevator 
+attached to the tether. 
+• SSTO (Single Stage to Orbit): Multistage rockets are now used to attain Earth 
+orbit since most of the energy expended by the rocket is used to lift the rocket and 
+its fuel. The space shuttle is based on an earlier design by Eugen Sanger in 1930s 
+UNCLASSIFIED/fF&A &FFI€il.t.k W&& Qptk\f 
+26

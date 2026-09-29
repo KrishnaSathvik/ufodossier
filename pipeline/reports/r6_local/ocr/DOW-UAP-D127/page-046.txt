@@ -1,0 +1,85 @@
+UNCLASSIFIED/ /fOR OFFI&Ial.k Wlili QPU,¥ 
+Equation, of the corresponding probability density 
+function fET_Distance(r) : here r is the distance 
+between us and the nearest ET civilization 
+assumed as the independent variable of its own 
+prob~bility density function. The ensuing sections 
+provide more mathematical details about this 
+.firr_oi stana, (r) such as its mean value, variance, 
+standard deviation, all central moments, mode, 
+median, cumulants, skewness and kurtosis. 
+CLASSICAL, NON-PROBABILISTIC 
+DERIVATION OF THE DISTANCE OF THE 
+NEAREST ET CIVILIZATION 
+Consider the Galactic Disk and assume that: 
+1) The diameter of the Galaxy is (about) 100,000 
+light years, (abbreviated ly) i.e. its radius, 
+R calaxy• is about 50,000 ly. 
+2) The thickness of the Galactic Disk at half-way 
+from its center, hcalaxy , is about 16,000 ly. 
+Then 
+3) The volume of the Galaxy may be 
+approximated as the volume of the 
+corresponding cylinder, i.e. 
+V - R1 h (100)Gal«ry - 1l Ga/,u y 
+4) Now consider the sphere around us having a 
+radius r. The volume of such as sphere is 
+4 (Er Distance) 3 
+VOw·_ Sphere =31l' 2 (101) 
+In the last equation, we had to divide the distance 
+"ET_Distance" between ourselves and the nearest 
+ET Civilization by 2 because we are now going to 
+make the unwarranted assumption that all ET 
+Civilizations are equally space from each other in 
+the Galaxy! This is a crazy assumption, clearly, 
+and should be replaced by more scientifically­
+grounded assumptions as soon as we know more 
+about our Galactic Neighbourhood. At the moment, 
+however, this is the best guess that we can make, 
+and so we shall take it for granted, although we are 
+aware that this is weak point in the reasoning. 
+Having thus assumed that ET Civilizations 
+are UNIFORMLY SPACED IN THE GALAXY
+' we can write down this proportion: 
+Vcal<Lry = Vo11r_ Sphere (102) 
+N 
+That is, upon replacing both (100) and (101) into 
+(102): 
+4 (Er Distance) 3 
+1l RJalaxy h = 3" ---=- 2-- (103)
+N I 
+The only unknown in the last equation is 
+ET _Distance, and so we may solve for it, thus 
+getting the: 
+(A VERA GE) DISTANCE BETWEEN ANY PAIR 
+OF NEIGHBOURING CIVILIZATIONS IN 
+THE GALAXY 
+116 R 2 h _ V Galaxy CEr D. (104)istance - 1 ,.--; = -
+- tN ifii 
+where the positive constant C is defined by 
+C =3 6 Ria1 a.,y h calcu y ""28845 light years . ( l 05) 
+Equations (104) and (105) are the starting point for 
+our first application of the Statistical Drake 
+equation, that we discuss in detail in the coming 
+sections of this paper. 
+PROBABILISTIC DERIVATION OF THE 
+PROBABILITY DE SITY FUNCTION FOR 
+ET_DISTA CE 
+~he probability density function (pdt) yielding 
+the distance of the ET Civilization nearest to us in 
+the Galaxy and pre ented in this section, was 
+discovered by this author on September 5th' 2007. 
+He did not disclose it to other scientists until the 
+SETI meeting run by the famous mathematical 
+physicist and popular science author, Paul Davies, 
+at the "Beyond" Center of the University of 
+Arizona at Phoenix, on February 5-6-7-8, 2008. 
+This meeting was also attended by SETI Institute 
+experts Jill Tarter, Seth Shostak, Doug Vakoch, 
+Tom Pierson and others. During this author's talk, 
+Paul Davies suggested to call "the Maccone 
+distribution" the new probability density function 
+that yields the ET_Distance and is derived in this 
+section. 
+UNCLASSIFIED/ ffOR OFFI&Ial.L Wlili QPII..¥ 
+46

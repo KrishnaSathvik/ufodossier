@@ -1,0 +1,46 @@
+UNCLASSIFIED/ fFOA OFFIEIAL: U&i OPIL:¥ 
+are not electromagnetic in nature; that is to say they are non-Maxwellian, and so the 
+perfect-conductor boundary conditions do not apply to them. It turns out that complete 
+manifolds exhibit what is called the topological Casimir effect for any non-Maxwellian 
+fields. In order to define boundary conditions for other fields one replaces the conductor 
+boundary conditions and Minkowski spacetime by a manifold of the form mx I (that is, 
+a product space), where mis the real line defining the time dimension for this particular 
+product space and I is a flat 3-dimensional manifold having any one of the following 
+topologies: m2 x S1, mx T2, T3, mx K2, and so forth, mbeing the real line that defines 
+any linear space dimension (for example, m= line, m2 = 2-dimensional plane), Tn being 
+the n-torus, K2 the 2-dimensional Klein bott le, S1 the circle, and so forth. 
+The case r = m2 x S1 has the closest resemblance to the electromagnetic Casimir effect, 
+the difference being that instead of imposing conductor boundary conditions, one 
+imposes periodic boundary conditions on some of the space coordinates in the 3-
+dimensional manifo ld. When imposing this topological constraint on the field theoretic 
+calculation of the topological Casimir effect (for linear massless fields), one finds that 
+the generic expression for the energy density is also PcE = -Ahc I d4 , where 
+A= ±dr( n2 I 90), dr is the number of degrees of freedom (for example, helicity states) per 
+spatial point, the plus sign holds for boson fields (giving a negative energy density) and 
+the negative sign for fermion fields (giving a positive energy density). 
+If one were to admit spin structure in the manifolds described above and the field is 
+spinorial, then there is another important subtlety that must be taken into account 
+when evaluating TV~; . However, this introduces an additional complexity involving the 
+relationship between the spin structure and the global structure (that is, the 
+configuration space or fiber bundle) of the field in questi on whereby the topology not 
+only of the base manifold, but of the fiber bundle itself has an effect on r.~; .In addition 
+to this, there are (compactified) extra-space dimensional quantum field (that is, D­
+Brane or "brane world") analogs of the Casimir effect yet to be explored. But a detailed 
+consideration of these is beyond the scope of this report and will be left for future 
+investigation. 
+As a final note, one points out that the methods used to obtain the electromagnetic r;i.; 
+between parallel plane conductors can also be used when the conductors are not 
+parallel but are joined together along a line of intersection . If the conductors have 
+curved surfaces instead, then one obtains results that are similar to the case of 
+intersecting conductors. These geometries have also been evaluated for the case of 
+dielectric media. These particular cases will not be considered further since there are 
+technical subtleties involved that complicate the calculations and application of the 
+different approaches. This topic will also be left for future investigation. 
+DYNAMICAL CASIMIR EFFECT: MOVING MIRRORS 
+Negative energy can be created by a single moving reflecting (conducting) surface 
+(a.k.a. a moving mirror) . A mirror moving with increasing acceleration generates a flux 
+of negative energy that emanates from its surface and flows out into the space ahead 
+of the mirror (Reference 37,90). See Figure 5 (below) for an illustration of this effect. 
+This is essentially the simple case of an infinite plane conductor undergoing acceleration 
+UNCLASSIFIED/ /FOA OFFI€1.t.k Y&li 9,.LY 
+32

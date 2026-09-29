@@ -1,0 +1,104 @@
+{
+  "filename": "DOW-UAP-D116.pdf",
+  "generated_at": "2026-09-28T20:43:58.522929+00:00",
+  "page_count": 5,
+  "usable_text_chars": 7088,
+  "stats": {
+    "native_good": 0,
+    "native_thin": 1,
+    "needs_ocr": 4,
+    "ocr_failed": 0,
+    "ocr_succeeded": 4,
+    "pages_ocrd": 4,
+    "ocr_unrecoverable_thumbnail": 0
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "native_quality": {
+        "page_number": 1,
+        "native_char_count": 3486,
+        "printable_ratio": 0.992,
+        "alpha_ratio": 0.676,
+        "word_count": 475,
+        "replacement_char_count": 0,
+        "category": "native_thin",
+        "reason": "thin but printable native text (caption/short page)"
+      },
+      "final_category": "native_thin",
+      "text_method": "native",
+      "char_count": 3486,
+      "text": ""
+    },
+    {
+      "page_number": 2,
+      "native_quality": {
+        "page_number": 2,
+        "native_char_count": 1733,
+        "printable_ratio": 0.995,
+        "alpha_ratio": 0.428,
+        "word_count": 133,
+        "replacement_char_count": 0,
+        "category": "native_thin",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.07, clean=0.44))"
+      },
+      "final_category": "native_thin",
+      "text_method": "tesseract",
+      "char_count": 1569,
+      "text": ""
+    },
+    {
+      "page_number": 3,
+      "native_quality": {
+        "page_number": 3,
+        "native_char_count": 1174,
+        "printable_ratio": 0.998,
+        "alpha_ratio": 0.508,
+        "word_count": 117,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.11, clean=0.49))"
+      },
+      "final_category": "native_good",
+      "text_method": "tesseract",
+      "char_count": 1033,
+      "text": ""
+    },
+    {
+      "page_number": 4,
+      "native_quality": {
+        "page_number": 4,
+        "native_char_count": 101,
+        "printable_ratio": 1.0,
+        "alpha_ratio": 0.752,
+        "word_count": 10,
+        "replacement_char_count": 0,
+        "category": "native_thin",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.36, clean=0.64))"
+      },
+      "final_category": "native_thin",
+      "text_method": "tesseract",
+      "char_count": 100,
+      "text": ""
+    },
+    {
+      "page_number": 5,
+      "native_quality": {
+        "page_number": 5,
+        "native_char_count": 995,
+        "printable_ratio": 0.992,
+        "alpha_ratio": 0.494,
+        "word_count": 93,
+        "replacement_char_count": 0,
+        "category": "native_thin",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.15, clean=0.46))"
+      },
+      "final_category": "native_thin",
+      "text_method": "tesseract",
+      "char_count": 817,
+      "text": ""
+    }
+  ],
+  "combined_path": "/Users/krishnasathvikmantripragada/Webapps/ufo-dossier/pipeline/reports/r6_local/ocr/DOW-UAP-D116/combined.txt",
+  "production_writes": false
+}

@@ -1,0 +1,50 @@
+UNCLASSIFIED/ fFOR OFFI@IAI:: HSE OPtl::Y 
+• Grifantini, K. (2010) . GM Develops Augmented Reality Windshield. Technology Review, MIT, March 17. 
+Retrieved from < http://www.technologyreview.com/blog/editors/24936/?n lid= 2828&a =f> 
+News note on an advanced version or next generation of heads-up display to outline the road, pinpoint 
+obstacles (people and signs), even in bad weather. Pertinent excerpt: "To turn the entire windshield into a 
+transparent display, GM uses a special type of glass coated with red-emitting and blue-emitting 
+phosphors--a clear synthetic material that glows when it is excited by ultraviolet light. The phosphor 
+display, created by Superimaging, is activated by tiny, ultraviolet lasers bouncing off mirrors bundled near 
+the windshield. Three cameras track a driver's head and eyes to determine where she is looking." 
+• Hall, Kenji. (2007) . The Big Ideas Behind Nintendo's Wii. Business Week . Retrieved from 
+<http://www. businessweek. com/technology /content/nov2006/tc20061116_7 50580 .htm> 
+News note on the development of the Wii gaming interface which is a device-dependant gesture-based 
+interface. 
+• Hoover, G. (1992). Stop Saturating Pilots with Alphanumeric Hieroglyphics. Aviation Week and Space 
+Technology, June. 15, 98-99. 
+Editorial (2 pg) Asserting opinions by an accomplished researcher on what pilots need versus what flight 
+instrument designers were providing at that time. In short, with the advent of computer capabilities, many 
+displays were simply providing data in numeric form rather than in some form of interpretable graphic 
+format: "Nature does not use symbols, letters or numbers to convey information . As a result, the human 
+being has evolved as an effective differentiator, but a poor integrator." 
+• Joels, Kennedy, & Larkin. (1982). The Space Shuttle Operator's Manual, New York, NY: Ballantine Books. 
+Book (179 pg) Public oriented book illustrating the displays and controls of the Space Shuttle, which itself 
+is tightly coupled to the legacy aircraft methods . 
+• Johannesen, L. & Woods, D. D. {1991). Human Interaction with Intelligent Systems: Trends, Problems and 
+New Directions. In Conference Proceedings 1991 IEEE International Conference on Systems, Man, and 
+Cybernetics, 1337-1341. 
+Article (5 pg) Examines lessons and trends and emphasizing the need to have a visual model for the 
+process being monitored. 
+• McCandless, David. (2009) . The Visual Miscel/aneum . New York, NY: HarperCollins. 
+Book (255 pg) Illustrating numerous ways to graphically convey complex information in readily 
+interpretable forms. 
+• Millis, M. & Davis, E. (Eds.) . (2009). Frontiers of Propulsion Science, Volume 227 of Progress in Astronautics 
+and Aeronautics, Reston, VA: American Institute of Aeronautics and Astronautics (AIAA). 
+Book {739 pg) First scholarly textbook about the physics issues, progress, and next-step research 
+regarding such game-changing advances as control of gravitation or inertia, propellant-less space drives, 
+faster-than-light travel, and related energy requirements. Inc ludes physics regarding the quantum 
+vacuum, space-time warping, quantum non-locality, cosmology, and others . Includes chapters to clearly 
+document null-results of commonly recurring proposals, and a chapter about how to conduct such 
+revolutionary research in contemporary circumstances. 
+• Moravec H. (2000). Robot: Mere Machine to Transcendent Mind . Oxford University Press. 
+Book (240 pg) Fitting introduction to the notion of transhumanism, plus other predictions about the ascent 
+of artificial life. This is an updated version of his earlier seminal book, Mind Children : The Future of Robot 
+and Human Intelligence. 
+• Morgan, B. (1985) . DOD enlists voice control and expert systems. Electronic Products, Oct. 1, 65-67 . 
+Article (3 pg) Relevant in reflecting the early trends to actually apply voice control in military cockpits, 
+citing Wright-Patterson AFB as a leading center. 
+• Moskowitz, 5. & Devereux, W. (1970). Navigational Aspect of Transstellar Space Flight. In F. Ordway III 
+(Ed .), Advances in Space Science and Technology. Academic Press, Vol.10, 75-126 . 
+UNCLASSIFIED/fFOA. OFFICIO ls. Plili Olhlls.¥ 
+46

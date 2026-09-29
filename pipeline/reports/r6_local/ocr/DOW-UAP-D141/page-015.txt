@@ -1,0 +1,44 @@
+UNCLASSIFIED/ LEQB.OEFELCI ALSO NT
+
+described in Figure 9. A sub-wavelength object (for example, two slits) is located at the
+bottom of a multi-layer super-lens. Another sub-wavelength grating is deposited on top
+of the super-lens. Because the super-lens (and for that matter, any indefinite
+permittivity material) is capable of propagating sub-diffraction waves, the
+electromagnetic perturbations created by the object are propagated through the super-
+lens upwards, until they encounter the sub-wavelength grating. At that point these sub-
+wavelength perturbations are diffracted on the image-releasing grating and converted
+into the far-field electromagnetic waves. Those far-field waves are collected by the
+objective of a microscope and observed through the eyepiece. The schematic is shown
+in Figure 9(a). Note that, again, there is no need for NSOM. The actual implementation
+of the FSL used the following object: a nanowire pair with 50 nm wide slit and 70 nm
+gap inscribed by focused ion beam on a 40 nm thick Cr film on the quartz substrate.
+Diffraction-limited image from a conventional optical microscope cannot resolve the two
+nanowires (NA = 1.4, Ao = 377 nm) as can be seen in Figure 9(c), but the FSL-equipped
+microscope can as shown in Figure 9(d).
+
+Despite the success of this demonstration, there are serious issues involved in imaging
+sub-wavelength objects. Specifically it is pointed out in Reference 27 that multiple
+diffractive orders can become entangled, (that is, launched in the same direction into
+the far field). Disentangling these diffraction orders is very important. The payoff would
+be imaging of fully 2-D (flat) objects with a resolution smaller than the period of the
+image-releasing grating. More precisely, this ambiguity is illustrated by the right panel
+in Figure 10. If the sub-wavelength object is represented by the continuous spectrum
+(blue line), then the spectrum can be sampled within the discrete set of “zones” which
+are defined by the diffractive orders of the image-releasing grating. The width of each
+zone is 2@/c, and they are labeled as 1% order, 2" order, and so forth. Wave numbers
+belonging to the different zones can be diffracted onto the same far-field detector as
+explained in Figure 10. In order to disentangle the 1%t and the 2" zones, a single
+detector cannot provide sufficient information. It turns out that using two detectors (A
+and B) and two laser beams (Beam A and Beam B) provides additional information that
+is sufficient to disentangle the two zones. This additional information is obtained by
+comparing the intensity on the two detectors A and B. Another advantage of this
+imaging technique is that it is interferometric in nature. Therefore, even if the
+contribution of some of these spectral zones’ orders is very weak, it can still be
+detected because of the high sensitivity of the interferometric techniques. What makes
+this interference special is that it involves sub-diffractive waves propagating through
+the indefinite permittivity metamaterial. Below some of the experiments conducted in
+the laboratory that demonstrate such interference are discussed.
+
+LL
+
+UNCLASSIFIED/ LEQB.OEELGI=SEONTY

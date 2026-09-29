@@ -1,0 +1,41 @@
+UNCLASSIFIED/;'POR: OPPICIAE USE 014Lf 
+• 11 = 1: this is the conversion efficiency of laser rocket propellant-thrust-jet KE into 
+vehicle KE, in which the propellant/laser is designed so that the rocket thrust-jet 
+velocity is equal to the vehicle velocity throughout the mission, i.e., the laser 
+rocket has variable lsp "" 100 seconds at beginning of mission to 1000 seconds at 
+end of mission; 
+• ap = 0. 5: a is efficiency of laser energy absorption and p is efficiency of 
+conversion of propellant internal energy into thrust-jet KE; 
+• y = 0.7: this is the atmospheric transmission efficiency; 
+• Eiaser = 750 MJ. 
+These numbers multiplied together give a vehicle KE = 262.5 MJ in LEO. If the effective 
+change in velocity (~v) required to get to LEO is 10 km/sec (8 km/sec orbital velocity + 
+1 km/sec for gravity + 1 km/sec for drag loss), then 1 kg in LEO has SO MJ of energy 
+investment and a 5.25 kg payload in LEO has 262.5 MJ of energy investment. 
+The 60 kg/sec mass flow requirement of the 3: 1 N2/CO2 lasing gases means that a 
+mass flow of 15 kg/sec of CO2 and 45 kg/sec of N2 is required. For the 300 seconds of 
+thrust we will therefore need 4.5 tons of CO2 and 13.5 tons of N2 gases (we are 
+neglecting the tiny amount of H2) to launch a payload to LEO. Liquid CO2 costs $100 
+per ton and liquid N2 costs $154 per ton. The total lasing gas cost is therefore $450 for 
+the liquid CO2 and $2,079 for the liquid N2. Adding these two gas fuel costs to the $104 
+cost of the required electrical energy gives a total of $2,633 to launch a 5.25 kg 
+payload to LEO. This result represents a cost of $501 per kg of payload (or $228 per 
+pound) launched to LEO, which is 44 times lower than the oft-quoted standard space 
+launch industry cost of $10,000 per pound for conventional chemical propulsion rockets 
+systems. 
+However, this cost figure needs to be slightly adjusted to account for other factors. If 
+we use the N2/CO2 gases at a temperature of 217 Kin the laser, then we will have to 
+boil the liquid CO2 and the liquid N2 with additional heating of the gaseous N2. Boiling 
+4.5 tons of liquid CO2 at 217 K requires 1,175 MJ of energy, boiling 13.5 tons of liquid 
+N2 at 77 K requires 2,683 MJ of energy, and heating the 13.5 tons of gaseous N2 from 
+77 K to 217 K requires 1,890 MJ of energy. Therefore, the additional energy required 
+to prepare the laser gases is 5,748 MJ (= 1,175 MJ + 2,683 MJ + 1,890 MJ), which 
+represents an additional electricity cost of $160. Adding this additional energy cost to 
+the previous total of $2,633 gives a final total cost of $2,793 to launch a 5.25 kg 
+payload to LEO. This new final result represents a cost of $532 per kg of payload (or 
+$241 per pound) launched to LEO, which is 41 times lower than the space launch 
+industry cost of $10,000 per pound for conventional chemical propulsion rockets. Note 
+that this final cost estimate excludes the operations, life-cycle, and maintenance costs 
+that are listed in Table 1, which were based on the use of a bulk solid-state laser. 
+UNCLASSIFIED'I i'FAA: 061i1Clali.k W&& 8PtLY 
+47

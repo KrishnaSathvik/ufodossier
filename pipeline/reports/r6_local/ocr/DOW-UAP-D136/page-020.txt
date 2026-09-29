@@ -1,0 +1,51 @@
+UNCLASSIFIED/ /P'OR: OP'P'l@IAL WS& 0Nk¥ 
+COMMERCIAL BLOOD GLUCOSE SENSORS 
+The present method of blood glucose monitoring depends on a needle puncture of the 
+skin to withdraw a drop of blood to place on a color changing test strip. The test strip is 
+read by a small handheld reader. Glucose test strips do not have to necessarily be 
+small, but by making the sensor very small the amount of blood required for the test is 
+reduced. The sensors often are made by techniques of photolithography or in some 
+cases by microscale screen printing in order to achieve reproducibility. 
+The skin-puncture test is painful and time consuming, and thus noninvasiveness is the 
+key desired characteristic of glucose sensors. Research is being directed at a 
+noninvas ive glucose sensor that is accurate enough to work external to the body and 
+through the skin. Short term (a few days) wearable needle glucose sensors are 
+available from major companies like Medtronic Inc. but fall short of the convenience of 
+a noninvasive sensor. 
+ENZYME-BASED BIOSENSORS 
+The key component in most biosensors 
+is a reactive chemistry on the sensor 
+surface. The sensor chemistry is chosen 
+to give it specificity to only one analyte 
+(such as glucose). The concentration of 
+the analyte is determined by a sensor 
+that can directly measure the analyte 
+reaction products reacting with the 
+sensor surface. For example sensor 
+chemistries to measure glucose are 
+often based on glucose oxidase enzyme 
+which promotes a chemical reaction at 
+the sensor surface. Glucose oxidase 
+enzyme complex structure is seen in 
+Figure 10. 
+Glucose oxidase catalyzes the reaction: 
+glucose + 0 2 (glucose oxidase) ➔ 
+gluconolactone + H2O2 + heat (79 
+kJ/mole) 
+This reaction of glucose with oxygen (from the air) occurs in the presence of glucose 
+oxidase enzyme. The enzyme itself is a catalyst to the reaction and so is not consumed. 
+Rather it presents favorable conditions and ability to transfer electrons on its molecular 
+structure for glucose and oxygen to come together to react. Figure 10 shows the 
+enzyme structure. 
+Typically in a sensor the enzyme is a large molecule and can be trapped in a porous gel 
+and thus is not able to diffuse away from the sensor surface. Glucose and oxygen, 
+being small molecules, can diffuse through the gel to the enzyme whereby the reaction 
+occurs and the reaction products will diffuse away. The enzyme is unconsumed and the 
+reaction process is continuous as long as glucose is present. 
+UNCLASSIFIED/ {FOR OFFICIO! !PEii QDlk¥ 
+Figure 10. Glucose Oxidase Enzymes Like Glucose 
+Oxidase are Large Folded Molecules That Act as 
+Catalysts for a Chemical Reaction 
+(http ://www. innovations-
+report .de/bilder _neu/17279_gluc.jpg) 
+14

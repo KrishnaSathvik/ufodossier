@@ -1,0 +1,47 @@
+UNCLASSIFIED/ /fOR Offl@IAL ~SE 8,.Llf 
+was obtained from recirculation beam-beam reacti ons in a potential well such as in 
+Figure 2.1 (but without multiple structures). Indeed, to further confirm the existence of 
+a potential well, Hirsch did both collimated neutron and gamma measures. As shown in 
+the paper, he found structure for both consistent with well formation. One possible 
+explanation is that the ion-electro n densities obtained were high enough to "burn out" 
+(completely ionize) the background neutrals in the potential well. There is no direct 
+evidence to support this view however. 
+These important results have never been fully explained. Attempts to reproduce his 
+experiments were done by Gardner and co-workers at Brigham Young University 
+(Reference 2.1) who borrowed the original device used by Hirsch. However, despite 
+many months of effort, the neutron production they obtained was significantly lower 
+than that reported by Hirsch. They attributed this problem to a failure to regain the gun 
+alignment necessary to have a highly converged plasma "core" in the center of the 
+device. A major hurdle to this appears to have been that no provision was made to 
+allow precision alignment of the gun ions entering the device (although the 
+investigators did not mention this explicitly). Later when Miley reinitiated gun 
+experiments, his first gun design followed many of the design elements used by Hirsch, 
+but incorporated electrostatic beam steering. This worked well, but the design was 
+eventually discarded to move to RF guns with much higher beam currents. In addition, 
+the gun design of Figure 1.5 uses a magnetic nozzle for reducing the exiting beam 
+diameter and to allow strong differential pumping (not used in the prior Hirsch 
+experiments). 
+It should be stressed again here that the terms "injector" and "gun" are misleading. 
+The objective is to simply "flow" low energy ions into the device such that they are then 
+accelerated to fusion energies by either the grid or the virtual electrode structure. Thus, 
+a loss of "excess" energy after inject ion is needed trap the ion, i.e. prevent it from 
+simply passing through the potential well and hitting the opposite wall. A biased 
+reflector on the opposite wall can be introduced to help prevent this, but this only works 
+well if the entering ions have little excess energy. To further understand this problem, 
+the reader is advised to study the design of the Hirsch chamber of Reference 2.2 which 
+uses an auxiliary biased grid ("reflector") near the wall. Indeed the issue of how to best 
+introduce ions into the potential well so that their energy falls below that required to 
+escape the well is a key for proper design of the IEC. In addition to designs to cause an 
+initial ion energy loss to "drop" them into the potential well, designs with ion sourced 
+"imbedded" in the well such that ions are born trapped are discussed later. 
+Gridded devices for near-term applications such as neutron activation analysis (NAA) do 
+not rely on virtual well potential traps. Rather, the negative bias of the grid forms a 
+potential trap, and ions are born within the potential trap by ionization collisions in the 
+internal plasma discharge. 
+Note that the electron injected case faces the same problem of getting ions into the 
+potential trap. The approach used with the Polywell employs an embedded ion source 
+plus relies on "burn out" densities to eliminate neutrals. Success with this technique, 
+after many problems, was the key that lead to the "breakthrough" reported by R. W. 
+Bussard (as noted earlier) just before he passed away. 
+UNCLASSIFIED/ I f8R 8FFI&Ial.k Wlii Qr.IL¥ 
+15

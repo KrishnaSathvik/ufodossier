@@ -1,0 +1,37 @@
+STATEMENT OF OBJECTIVES 
+FOR THE 
+ADV AN CED AEROSPACE WEAPON SY~'TEM APPLICATIONS PROGRAM 
+18 July 2008 
+PAN:# 
+1. BACKGROUND: The Acquisition Support Division (DWO-3) of the Defonse Intelligence 
+Agency (DIA) has the responsibility to provide guidance and oversight to the Department of 
+Defense (DoD) acquisition process along with leveraging the DoD Intelligence Community to 
+coordinate, produce and maintain projections of the future threat environment in which U.S. air, 
+naval, ground, space, missile defense and infonnat:ion systems operate. In order to accurately 
+assess the foreign threat to U.S. weapon systems, a complete as possible understanding of potential 
+breakthrough technology applications employed in future aerospace weapon systems must be 
+obtained. 
+2. OBJECTIVE: One aspect of the future threat environment involves advanced aerospace 
+weapon system applications. The objective of this program is to understand the physics and 
+engineering of these applications as they apply to the foreign threat out to the far term, i.e., from 
+now through the year 2050. Primary focus is on breakthrough technologies and applications that 
+create discontinuities in currently evolving technology trends. The focus is not on extrapolations 
+of current aerospace technology. The proposal shall describe a technical approach which 
+discusses how the breakthrough technologies and applications listed below would be studied 
+and include proposed key personnel that have experience in those areas. 
+3. REQUIRRMENTS: 
+a) The contractor shall e-0mplete advanced aerospace weapon system technical studies in the 
+following areas: 
+1. lift 
+2. propulsion 
+3. control 
+4. power generation 
+5. spatial/temporal translation 
+6. materials 
+7. configuration, structure 
+8. signature reduction (optical, infrared, 
+radiofrequency, acoustic) 
+9. human interface 
+I0. human effects 
+11. annamcnt (RF and DE\V) 
+12. other peripheral area,:; in support of(1-11)

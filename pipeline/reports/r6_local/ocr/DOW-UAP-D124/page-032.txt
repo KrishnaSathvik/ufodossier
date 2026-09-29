@@ -1,0 +1,35 @@
+UNCLASSIFIED/ )'FOR: Offl@IAL l:ISI: &PU.¥ 
+Rocket Propulsion 
+The photo in Figure 27 is from the Society of Automotive Engineers book, Advanced 
+Engine Development at Pratt & Whitney: The Inside Story of Eight Special Projects 146-
+1971, by Dick Mulready. Chapter 6 of this book, "Boost Glide and the XLR-129 - mach 
+20 at 200,000 Feet," mentions the McDonnell Douglas boost-glide strategic vehicle, as 
+well as citing the key personnel at McDonnell Aircraft Company. Some time ago, a 
+model showed up on the desk of a now-Boeing employee that was not readily 
+identifiable. The author has an original model of this boot -glide strategic vehicle, and it 
+matched the unidentified model shown in Figure 27. 
+The XLR-129 was a shuttle-class engine that operated with turbopump exit pressures of 
+3,500 psi. It was brought to full pressure operation for the U.S. Air Force in just over 3 
+months. 14 In comparison, the space shuttle main engine (shown in Figure 28), 
+operating with a lesser turbopump exit pressure, required 3 years to reach full pressure 
+operation and never demonstrated reusability without overhaul. 
+Figure 27. Boost-Glide Strategic Vehicle With Pratt 
+& Whitney XLR-129 Rocket Engine Installed, Circa 
+1964 
+Figure 28. XLR-129 , a Shuttle -Class Engine That Ran 
+for 40 Test Cycles With Only Component Maintenance and 
+No Engine Rebuilding 
+The final paragraph of chapter 6 in Mulready's book contains the following passage: 
+"The liquid oxygen turbopump was the next component in line. However, before it was 
+funded, NASA had started the space shuttle campaign, and the Air Force gave the XLR-
+129 program to NASA granting free use of the existing hardware to Pratt & Whitney. 
+NASA promptly canceled the liquid oxygen turbopump because it would be unfair to our 
+compet itors to fund it." With the demise of the XLR-129, a rocket engine with a run 
+record of 42 simulated flights (in the test chamber) without any overhau l disappeared. 
+This engine was really the type of hardware a Kelly Johnston would oversee-that is, 
+the best application of the industrial capabilities available in the skilled mechanics, 
+engineers, and manufacturers. The only other engine of its class is the Russian RD-
+0120 engine manufactured by Autokinamatiki for the Energia launcher. This engine 
+functioned on the test stand for 80 simulated flights to space and return before 
+UNCLASSIFIED/ /EOB OEEJCIA! 1!SE ON! X 
+25

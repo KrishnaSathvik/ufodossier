@@ -1,0 +1,46 @@
+UNCLASSIFIED/ j POI\ OFFICIAL ttSl!! 8HLY 
+Chapter 2: Measurement of Mental Workload 
+There are three approaches to measuring mental workload in a subject performing a 
+primary task. The first is subjective evaluation, either post-hoc self-report 
+questionnaires concentrating on how "busy" one may have felt, or an experimental 
+observation of activity. The second is performance measures, an objective evaluation of 
+how well the subject completes the primary task, a secondary task, or an 
+experimentally inserted reference task. The final approach is to record real-time 
+physiological measures, with the assumption that increased workload increases anxiety 
+and this will be exhibited by changes in the autonomic nervous system (ANS). 
+SUBJECTIVE MEASUREMENTS 
+Self-report measures are appealing because they get inside the mind that was 
+performing the task. There is no absolute objective scale to measure one person's "fully 
+occupied" from another person's view of the same state; however, through rating 
+scales and self-drawn graphs, one can obtain an accurate picture of how perceived 
+workload evolved during the experiment. Perceived workload is important because it is 
+what needs to be maintained between a subjective minimum, where attention may 
+wander, and a subjective maximum, where increased emotion may decrease 
+performance capacity. 
+The most frequently used standardized self-report tools are the NASA Task Load Index 
+(NASA-TLX or just TLX) and the Subjective Workload Assessment Technique 
+(SWAT) .1,2,3.4 The TLX is a subjective workload assessment based on a multi­
+dimensional rating questionnaire. An overall workload score is derived based on a 
+weighted average of ratings on six subscales: mental demands, physical demands, 
+temporal demands, own performance, effort, and frustration. SWAT is a two-step 
+assessment of three workload factors: time load, mental effort load, and psychological 
+stress load. In t he first step, hypothetica l activities are ra nked according to perceived 
+workload. In the second step, the experimental task is evaluated post-hoc, using a 1-3 
+rating scale for each of the three dimens ions. An interval scale of workload is derived, 
+from 0-100, based on the reference data collected for each subject in the first step, and 
+the evaluation of the experimental task. A custom self-report can also be designed by 
+the experimenter to specifically focus on the research questions in a given exper iment. 
+The second type of subject ive measure is evaluation by an expert observer. In this type 
+of measurement, assumptions are made on the mental activity of the subject based on 
+the activ iti es being performed. The advantage of th is approach is that there is minimal 
+variance per-to-person if the same evaluator is employed. The disadvantage of this 
+approach is the outside observer can miss workload mu ltiplyi ng factors such as task 
+complexity contributing to an overwhelmed feeling by the subject . An example of this 
+approach is the concept of utilization. In ca lculating utilization it is assumed that the 
+subject must cognitively address one issue at a time in serial order. The measure of 
+utilization is percent t ime busy, or addressing any issue, as opposed to waiting or 
+monitoring for the next event. In general is it observed for control and supervisory 
+tasks that at around 70% utilization performance begins to degrade. 5 Arguably not a 
+perfect measure of workload, utilization has the advantage of simplicity, objectivity, 
+UNCLASSIFIED/ /EOA OFFI&IAL l:ISI! er•t I 
+3

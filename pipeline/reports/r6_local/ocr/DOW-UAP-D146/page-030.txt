@@ -1,0 +1,26 @@
+UNCLASSIFIED// FOR OFFICIAL d.!I!! 9HLY 
+Chapter 6: Future Developments 
+NEAR-TERM DEVELOPMENTS 
+Near-term developments of fusion propulsion will include the timeframe from 2010 to 
+2020. It will leverage the privately funded developments in DPF, FRC, and IEC for 
+commercial fusion reactors, as well as the DOE developments of magneto-inertial fusion, 
+including magnetized target fusion and high-density plasma physics experiments. 
+During this timeframe, it is expected that one or more of these fusion concepts will 
+develop sufficient experimental data or even achieve sustained ignition breakthroughs 
+that will allow the technology push to proceed into aerospace propulsion applications. 
+The IEC thruster described in Chapter 4 is a near-term candidate to replace HCTs with 
+high l sp and thrust augmented by aneutronic fusion. At the same time, associated 
+technology development from the mainline DOE programs and ITER tokomak programs 
+will contribute to the import areas of the following: 
+• Super conducting magnets. 
+• Energy storage supercapacitors. 
+• Fuel storage systems. 
+• Fuel ion injection accelerators. 
+• Compact high-voltage converters. 
+• Direct ion energy converters. 
+• Plasma propulsion systems. 
+Experiments and system analyses to validate the applicability of aneutronic fusion 
+propulsion should be conducted early on, since they may bias the path taken for the 
+various reactor and propulsion combinations. 
+UNCLASSIFIED/ /FOR O&filClt.k W&& 8HL\' 
+25

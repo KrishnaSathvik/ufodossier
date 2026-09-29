@@ -1,0 +1,24 @@
+Orbit Navigat ion Checks was a very good scheme . 
+The control mode we used was Pulse, and the 
+timing was just the GMT timing we had in the 
+spacecraft. I ' d like to have Ed discuss a 
+little of the technique now. 
+White Actually we had a form in our book that we had 
+made up to make these tests, but I think it 
+became apparent to both of us as we came along 
+that this is a fairly simple thing to do . If 
+you want to just try to update your map without 
+having an update from the ground, it was 
+quite simple to point the spacecraft straight down 
+to the earth and get a point which you could 
+recognize on the gro und., and actually plot this 
+right out on your orbit map. I think we could 
+probably make checks in this manner and update 
+our map almost as well as we could by having a 
+longi tude and time called up from the ground . 
+I 'd like to make a comment right now that I 
+thought the littl e map that we had with the 
+orbit plot on it was very useful, but it 
+was weak in one respect ; I was always wanting 
+more detai l on what I was seeing doWlll there . 
+We,fortunately,carried a map with about two to

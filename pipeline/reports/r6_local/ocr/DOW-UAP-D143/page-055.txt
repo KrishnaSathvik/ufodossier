@@ -1,0 +1,41 @@
+UNCLASSIFIED/;'POR: OPPICIAE USE 014Lf 
+• Average power limited by low thermal conductivity of host material. 
+• Wavelengths propagate extremely well in clear weather: 
+- Very low absorption. 
+- Higher scattering. 
+The requirements for high average power bulk solid-state lasers are [30]: 
+• Efficient optical pumping of gain medium: 
+- Flash lamp or laser diode well matched to absorption band. 
+- Small wavelength difference between pump and lasing ➔ low quantum defect. 
+• Efficient heat removal from gain medium: 
+- Improved heat removal techniques from host. 
+- Large surface area per unit volume. 
+- Or, large volume to store heat with low duty cycle operation. 
+• Gain medium must retain good (correctable) optical quality. 
+The typical properties of widely used Nd :YAG lasers are [30]: 
+• 4 nm absorption line width. 
+• 24% heating from quantum loss. 
+• Saturation intensity~ 3 kW/cm 2 (at~ 2% dopant). 
+• Multi-kilowatt average power demonstrated. 
+• Maximum average power potential ~several hundred kilowatts: 
+- Heat removal makes continuous running a challenge at this power. 
+- Current high-energy SSLs produce great amounts of heat (e.g., 600 kW of 
+electrical power in and 100 kW of beam power out equals 500 kW of waste 
+heat). 
+- Must store the waste heat and reject it from the system at a lower rate, thus 
+requiring storage and limited duty cycle. 
+• Quantum defect = pump light photon energy minus laser light photon energy. 
+The typical properties of widely used Yb:YAG lasers are [30]: 
+• 18 nm absorption line width. 
+• Indium gallium arsenide (InGaAs) pump laser diodes at 0.941 µm wavelength: 
+- 8.6% heating from quantum loss. 
+• Saturation intensity ~ 9. 7 kW/cm 2 (at ~ 25% dopant). 
+• Multi-kilowatt average power demonstrated. 
+• Maximum average power potential is perhaps 5 x Nd:YAG laser. 
+A new technology that enables the scaling-up of BSSSL beam power is a recently 
+developed thermal management system that is used to remove and store the waste 
+heat produced by BSSSL devices. General Atomics' Advanced Power Systems Division 
+recently announced * that it has completed test ing of an advanced thermal energy 
+' Reported in Space War Newsletter, June 7, 2010 . 
+UNCLASSIFIED'I i'FAA: 061i1Clali.k W&& 8PtLY 
+51

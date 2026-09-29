@@ -1,0 +1,39 @@
+UNCLASSIFIED/ (fQR OFFIClt.k YSE 8HLI 
+1.------r----"T""---11111111111: r-------r-----, 
+0.8 
+0.6 
+0.4 
+0.2 
+, ... , ' ,. ' ,- ' .,., , ., ' 
+1, I 
+' 
+100 
+I ~ 
+' , ' • I 
+'•' 
+200 300 400 500 
+Fiber length [1n1n] 
+Figure 25. Example of Time -Irreversibility of Light Propagation Inside the Twisted Fiber Core: the core 
+mode propagates with almost no loss from left to right (purple solid line), reflects back, and gets dissipated/mode 
+converted on its way back (red line) . Input mode is assumed to be right-hand circularly polarized (RCP). Mode 
+conversion: into LCP cladding mode (dashed line) . Propagation from left to right is represented by the red lines, 
+from right to left : by the purple lines. 
+As an examp le, we have used a Chiral Fiber (CF) with the following properties: a 2 µm 
+x 1.8 µm elliptical core wit h refractive index of nco =2.2 surrounded by a round cladding 
+with radius R =20 µm and refractive index nc1 =2.15. The helical pitch is assumed to 
+linearly vary over /,mx = 500 mm by 6 percent around A= 166 µm. The assumed r 
+corresponds to the nonlinear refractive index m = 5.4 x10-16 m2/W at the operating 
+vacuum wavelength>-. = 1.5 µm and the peak power P = 3.5 W. The cladding mode was 
+assumed to be lossy with the loss coefficient a= 10 dB/m . Results are shown in Figure 
+25. A core mode injected from the left end of the fiber (z = 0) propagates through the 
+fiber without converting into the cladding mode (purple solid line) with minimal losses. 
+After gett ing reflected at z = 500 mm, the principal core mode (red solid line) gets 
+converted into the delocalized cladding mode (red dashed line) and damped out. This 
+example clearly demonstrates that the interp lay between mode-coupling, nonlinear ity, 
+and losses can result in the dramatic loss of time-reversal. 
+Future research will be looking at other metamaterial systems that support two distinct 
+modes (one with a strongly nonlinear response and strong spatial localization, the other 
+essentially linear and delocalized), orthogonal polarizations, and investigate non­
+reciprocal wave propagat ion in such metamaterials. Structures from the previous 
+UNCLASSIFIED/ {fQR OFEICl.t.ls: W81!! 8flti 
+29

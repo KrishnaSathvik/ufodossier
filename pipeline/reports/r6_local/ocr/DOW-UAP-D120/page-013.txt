@@ -1,0 +1,49 @@
+UNCLASSIFIED/ JFOR OFFICIAL USE 014[ I 
+13-Ti alloys would be an attractive option for a launch vehicle with a very heavy payload. 
+These alloys can be processed and heat-treated to ultimate tensile strengths greater 
+than 1,300 mega-Pascals (MPa), making them very efficient structural alloys. However, 
+at these strength levels, the fracture toughness is decreased to about 40 MPa-m0 •5 , 
+making damage tolerance marginal. For example, using a design stress that is two­
+thirds that of ultimate tensile strength, the critical crack size for an alloy with these 
+properties is about 4 millimeters. Such a small critical crack size poses a challenge to 
+any required field inspections associated with reusability requ irements. p-Ti alloys' 
+stiffness also is as much as 10 percent lower than that of a+J3 alloys. Ten percent lower 
+stiffness generally is not an issue in a tension-loaded structure, but it can be an issue 
+for a compression-loaded structure because of the potential for buckling. Designs with a 
+higher section modulus can eliminate this concern, but the additional shape complexity 
+will almost certainly add cost. In extreme circumstances, Ti alloys can be reinforced 
+with ceramic fibers (typically silicon carbide) to increase their intrinsic stiffness, as will 
+be discussed later. 
+Ti alloys are reactive when exposed to air at temperatures of 550 °Celsius or above. 
+Consequently, any manufacturing operations that exceed this temperature limit must 
+be performed in a protective atmosphere of argon (Ar) or helium (He) gas. An 
+exception occurs during forging if enough excess material is left on the raw forging to 
+conta in the oxygen -contaminated layer so it can be machined away during the final 
+machining of the finished component. How to deal with this reactivity issue is well 
+understood, and it poses no concern other than the additional costs associated with the 
+excess material and additional machining. In other operations, such as welding, use of 
+specially designed fixtures incorporating inert shielding gas also effectively eliminates 
+concerns about oxygen contamination. In hot-forming applications, the as-formed part 
+is typically chemically milled to remove the oxygen-rich surface layer because this layer 
+typically has lower ductility and can cause fatigue crack ing in service. The practice of 
+eliminating all oxygen-contaminated material has served the aerospace industry well 
+over the years but is quite conservative and restrictive. This matter is discussed in 
+greater detail in the Reusable Reentry Vehicle section of th is document. 
+In summary, although the choices of materials for launch vehicles are in principle 
+numerous, in practice these choices are reduced by a variety of application-specific 
+considerations that include manufacturing capability for large components and 
+manufacturing cost. The foregoing discussion has attempted to examine the prospects 
+for advanced Al alloys, PMCs, and Ti alloys in light of these perceived practical 
+constraints. On a case-by-case basis, a variety of requirements are imposed by design 
+constraints, which some materials meet more readily than others. In all cases, 
+discussion of available material options was constrained by the assumption that the 
+maximum service temperatures would be relatively low. Consequently, the material 
+classes discussed here are all intended for relatively low-temperature use. The separate 
+case of a reusable single-stage-to-orbit vehicle, where operating temperature 
+requirements are considerably higher, is discussed in a later section of this document. 
+Ultimately, materials are selected to optimize structural performance, and a coordinated 
+approach of materials selection and geometric design is essential to this. Going forward, 
+a design using a synthesis process that treats form, fit, function, and materials 
+capability as equal constraints is needed to achieve true optimum structural efficiency. 
+8 
+UNCLASSIFIED/ /570A OFFl&IAk W&E 8HL\«

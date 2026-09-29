@@ -1,0 +1,41 @@
+UNCLASSIFIED/;'FOtt OFFI&iIAk U&li QPIL¥ 
+Positrons for a Manned Mars Mission 
+Positron propulsion systems improve engine performance, making them an attractive 
+substitute for chemical and nuclear systems for manned exploration of the planets. One 
+of the boldest challenges is a manned mission to Mars. Onboard propellant requires an 
+overall interplanetary system mass that prohibits use of any type of existing launch 
+vehicle, including the Saturn V. The need to protect astronauts from radiation hazards 
+in space inhibits use of low-impulse interplanetary trajectories to reduce propellant 
+mass. Missions must be established that can transport astronauts to Mars in less than 
+180 days. 
+Demands on a positron engine to get from LEO to Mars are based on two parameters: 
+mass of the spacecraft after burnout and the tiV provided by orbital mechanics. Efforts 
+to minimize burnout mass for a positron-based rocket spacecraft prompted examination 
+of previously designed systems. The NASA Mars Exploration Study Team studied such 
+systems in 1997-98. 49, so 
+Conclusions reached by NASA and adopted for this study include: 
+• To make the Mars mission econom ically feasible, multiple payloads should be 
+launched to Mars instead of a single, "all-in-one" vehicle. This keeps payload masses 
+within reach of existing chem ical launch systems . 
+• A solid-core nuclear-thermal rocket (NTR) was studied. The study adopted existing 
+NERVA rockets with l sp = 900 seconds and a core temperature near 2,800 °c. The 
+1993 study examined 15 kilopound-force klbf and 20 klbf rockets. 51 
+• Each launch had a payload consisting of the NTR with its Mars payload. 
+• Unpiloted cargo was sent on a low-energy ("C3") Hohmann-type transfer, generally 
+the slowest means of reaching Mars. 
+• The Mars excursion vehicle should be sent on a "fast transit" to Mars from LEO. A 
+fast, 180-day mission would not require artificial gravity on the spacecraft to protect 
+astronauts from weightlessness . 
+• The Earth return vehicle (ERV) sits in Mars orbit at 250-km periapsis and waits until 
+astronauts have docked from Mars using a liquid oxygen (LOX)/methane propulsion 
+system. The ERV uses a chemical propulsion system to return home to avoid use of 
+a fission-based propulsion plant in the atmosphere. 
+• Minimization of tiV to Mars is performed by launching during estimated planetary 
+conjunctions (every 778 days) and by using aerobraking. 
+• Aerobraking uses the chemical propulsion system of the cargo vessel or lander. 
+Payload is jettisoned from the NTR system (called the trans-Mars insertion system 
+[TMI]) sometime during the trip to Mars. 
+• To reduce the probability of impact with Earth, an additional tiV is given to the TMI 
+stage after the payload has separated. 
+UNCLASSIFIED/;6FQA QFFICI0L Uili QPIL¥ 
+19

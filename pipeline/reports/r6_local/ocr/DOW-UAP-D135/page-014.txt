@@ -1,0 +1,47 @@
+UNCLASSIFIED/ fFOA OFFIEIA~ W&li QPI~¥ 
+because repulsive force terms are second and higher-order in the source mass velocity. 
+To invent a relativistic driver for a captured astronomical body in order to use it to 
+launch payloads into relativistic motion presents a large technical challenge for future 
+exper imenters. For this reason, this paper will not consider this concept any further. 
+However, it does serve the useful purpose of illustrating the unusual antigravity forces 
+that can appear in Einstein's general relativity theory. 
+NEGATIVE ENERGY-INDUCED ANTIGRAVITY 
+Negative energy density and negative pressure are acceptab le results both 
+mathematically and physically in general relativity and quantum field theories, and 
+negat ive energy/pressure manifests as gravitational repulsion (that is, antigravity). 
+Negative energy is also known as a form of "exotic matte r." 
+In classical physics the energy density of all observed forms of matter (fields) is non­
+negative . What is exotic about negative energy is that it must have negative energy 
+density and/or negat ive flux (Reference 20). The energy density is "negative" in the 
+sense that a given (exotic) matter field must have an energy density, PE(= pc2, where 
+p is the rest-mass density), that is less than or equal to its pressures/tensions, p1 
+(Reference 21,22). 3 In many cases, these equations of state are also known to possess 
+an energy density that is algebra ically negative; that is, the energy density and flux are 
+less than zero. It is on the basis of these conditions that this material property is called 
+"exotic." The condition for ordinary, classical (non-exotic) forms of matter that one is 
+familiar with in nature is that PE > pi and/or PE ~ 0. These conditions represent two 
+examples of what are variously called the "standard" energy conditions: Weak Energy 
+Condition (WEC: PE ~ 0, PE +Pi~ 0), Null Energy Condition (NEC: PE+ p1 ~ 0), Dominant 
+Energy Conditi on (DEC), and Strong Energy Condition (SEC). These energy conditions 
+forbid negative energy density between material objects to occur in nature, but they 
+are mere hypotheses. Hawking and Ellis (Reference 23) formulated the energy 
+conditions in order to establish a series of mathematical hypotheses govern ing the 
+behavior of collapsed-matter singularities in thei r study of cosmology and black hole 
+physics. More specifically, classical general relativity allows one to prove lots of general 
+theorems about the behavior of matter in gravitational fields . 
+The bad news is that real physical matter is not "reasonable" because the energy 
+conditions are in general violated by semiclassical quantum effects (occurring at order 
+11) (Reference 22). 4 More specifically, quantum effects generically violate the average 
+NEC (ANEC). Furthermore, it was discovered in 1965 that quantum field theory has the 
+remarkable property of allowing states of matter containing local regions of negat ive 
+energy density or negat ive fluxes (Reference 24). This violates the WEC, which 
+postulates that the local energy density is non-negat ive for all observers. "Negative 
+energy" has the unfortunate reputation of alarming physicists. This is unfounded since 
+all the energy condition hypotheses have been exper imentally tested in the laboratory 
+and experimentally shown to be false - 25 years before their formulation (Reference 
+25). 
+3 Latin indices (e.g., i, j, k = 1...3) that are affixed to physical quantities denote the usual 3-dimensional space 
+coordinates, x1... x3, indicati ng the spatial components of vector or tensor quantities . 
+4 Planck's reduced constant, 11 = 1.055 x 10-34 J.s. 
+UNCLASSIFIED/ /FOA OFFI&IAk Yi& 8,.k\f 
+9

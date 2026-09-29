@@ -1,0 +1,37 @@
+INFO stage A: CIA-UAP-002.pdf
+INFO CIA-UAP-002.pdf: pages=42 usable_chars=45430 ocr_pages=34 ocr_ok=32 ocr_fail=2
+INFO stage A: CIA-UAP-003.pdf
+INFO CIA-UAP-003.pdf: pages=406 usable_chars=755596 ocr_pages=329 ocr_ok=327 ocr_fail=2
+INFO stage A: CIA-UAP-005.pdf
+INFO CIA-UAP-005.pdf: pages=4 usable_chars=12299 ocr_pages=4 ocr_ok=4 ocr_fail=0
+INFO stage A: CIA-UAP-006.pdf
+INFO CIA-UAP-006.pdf: pages=2 usable_chars=4822 ocr_pages=0 ocr_ok=0 ocr_fail=0
+INFO stage A: CIA-UAP-009.pdf
+INFO CIA-UAP-009.pdf: pages=1 usable_chars=126 ocr_pages=1 ocr_ok=0 ocr_fail=1
+INFO stage A: CIA-UAP-016.pdf
+INFO CIA-UAP-016.pdf: pages=6 usable_chars=5313 ocr_pages=6 ocr_ok=6 ocr_fail=0
+INFO stage A: CIA-UAP-017.pdf
+INFO CIA-UAP-017.pdf: pages=3 usable_chars=3840 ocr_pages=1 ocr_ok=1 ocr_fail=0
+INFO stage A: DOW-UAP-D077.pdf
+INFO DOW-UAP-D077.pdf: pages=4 usable_chars=11500 ocr_pages=0 ocr_ok=0 ocr_fail=0
+INFO stage A: DOW-UAP-D079.pdf
+INFO DOW-UAP-D079.pdf: pages=2 usable_chars=6373 ocr_pages=0 ocr_ok=0 ocr_fail=0
+INFO stage A: DOW-UAP-D085.pdf
+INFO DOW-UAP-D085.pdf: pages=7 usable_chars=169 ocr_pages=7 ocr_ok=2 ocr_fail=5
+INFO stage A: FBI-UAP-D002.pdf
+INFO FBI-UAP-D002.pdf: pages=2 usable_chars=2175 ocr_pages=1 ocr_ok=1 ocr_fail=0
+INFO stage A: FBI-UAP-D003.pdf
+INFO FBI-UAP-D003.pdf: pages=1 usable_chars=93 ocr_pages=1 ocr_ok=1 ocr_fail=0
+INFO stage A: FBI-UAP-D009.pdf
+INFO FBI-UAP-D009.pdf: pages=2 usable_chars=3216 ocr_pages=1 ocr_ok=1 ocr_fail=0
+INFO stage A: FBI-UAP-D011.pdf
+INFO FBI-UAP-D011.pdf: pages=4 usable_chars=2914 ocr_pages=3 ocr_ok=3 ocr_fail=0
+INFO stage A: FBI-UAP-D012.pdf
+INFO FBI-UAP-D012.pdf: pages=66 usable_chars=121760 ocr_pages=50 ocr_ok=40 ocr_fail=10
+INFO stage A: ICA-UAP-D001.pdf
+INFO ICA-UAP-D001.pdf: pages=4 usable_chars=3768 ocr_pages=1 ocr_ok=1 ocr_fail=0
+INFO stage A: NASA-UAP-D016.pdf
+INFO NASA-UAP-D016.pdf: pages=340 usable_chars=372075 ocr_pages=95 ocr_ok=88 ocr_fail=7
+INFO stage A: USG-UAP-D001.pdf
+INFO USG-UAP-D001.pdf: pages=86 usable_chars=153980 ocr_pages=29 ocr_ok=29 ocr_fail=0
+INFO stage A done: 18 docs, 10 extract, 8 source_only, 2885.8s

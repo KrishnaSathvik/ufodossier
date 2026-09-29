@@ -1,0 +1,22 @@
+UNCLASSIFIED/ fFOR 8FFI@IAL YSI!! f>HLY 
+Figure 4 shows an example of a TI matrix composite (TMC) cross section. 
+Figure 4. Cross-Section Micrograph of a Ti Matrix Composite. Small, dark centers 
+of fibers are C monofilament substrates for deposition of SiC (light micrograph). 
+Material system: Matrix alloy - Ti-6242; Fiber - SiC about 5.6-mil-diameter SCS-6 
+Table 2 shows that the strength and stiffness properties of TMCs can exceed those of 
+the Ti matrix (or other a.+13 Ti alloys) by more than a factor of two with no increase in 
+density. So why are TMCs not in widespread use? The foremost reason is cost. Another 
+reason is the availability of SiC fiber for TMCs. 
+• During the 1990s, when the U.S. government (mainly DoD) was interested in and 
+provided development money for TMC R&D, t he most attractive reinforcing fiber was 
+SCS-6™, which was produced exclusively by Textron Specialty Materials (TSM) in 
+Lowell, MA. 
+• Unfortunately (at least in hindsight), TSM made a business decision not to sell fiber 
+and to instead forward-integrate and sell TMC components or finished TMC mill 
+products. This decision stemmed in part from TSM's negative business experience 
+with development of B-based fiber (Boro-SiC™) for first-generation TMCs. 
+• Prior to making this business decision, TSM did not develop sufficient TMC­
+manufacturing expertise to properly position itself as a producer of TMC products 
+with consistent properties. 
+15 
+UNCLASSIFIED/ f FOR OFFIQl.\k Uili Qfslk¥

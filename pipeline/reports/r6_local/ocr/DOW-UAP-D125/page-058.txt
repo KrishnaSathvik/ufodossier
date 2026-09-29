@@ -1,0 +1,31 @@
+UNCLASSIFIED/ /POI\ OPPICllct tt!I!! 9HLY 
+D-0 IEC for T A 
+0-T IEC 
+for PFNA/FNA 
+I C for x- y 
+- -c:CJ D ctor Arr y 
+Luggag 
+Top View 
+Figure 5.2. Schematic (view from top) of a broad coverage IEC inspection System for luggage 
+inspection 
+This unit employs two broad area neutron sources to provide both 14.1-MeV and 2.45-
+MeV neutron coverage . The IEC Bremsstrahlung source provides broad area 80 kV x­
+rays. An array of gamma and x-ray detectors is provided for simultaneous x-ray 
+analysis using a fuzzy logic artificial intelligence system to interpret the combined 
+signals. In the inspection station, shown in Figure 5.2, typical of airport luggage 
+inspection stations, objects being interrogated pass between sources and detection 
+array on a conveyor belt. For maximum efficiency a duplicate conveyor belt and 
+detection array (not shown in Figure 5.2) would be placed on the left hand side of the 
+IEC sources. For other cases, such as unloading container from a ship the detectors 
+system might be suspended along t he side of the vessel with containe rs as they are 
+lowered from the upper decks to the waiting cargo train cars or trucks (see Figures 5.3 
+and 5.4 and related discussion). The challenge in these systems is that the unload ing 
+time is short and the container is large and thick. The present system with its mult i-lEC 
+broad coverage and fast fuzzy analysis technology is designed to overcome these 
+issues. Further, conventional accelerator type systems that are candidates for such use 
+are hampered by size and cost . Thus, they have not received wide use in sea ports. The 
+increased accuracy and reduced cost of the present system should enable wide use. 
+This would close a vital gap in our seaport/airport cargo security that has been widely 
+cited by critics of the present handling of port security . 
+UNCLASSIFIED/ ,CFOA OFFIQIAk Wliii 01\lk¥ 
+51

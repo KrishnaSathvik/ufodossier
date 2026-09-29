@@ -1,0 +1,77 @@
+UNCLASSIFIED / /POROPPICTAL USE-ONEY
+
+_. Metallic glasses
+Dendritic 2
+
+composites
+
+Silicon
+
+Polymers
+0.1
+
+Nylon—,
+
+Polymer
+foams
+
+Specific strength, oy /p (MPa m? kg~')
+
+0.01
+Metals
+(crystalline)
+Biologicals
+
+0.001
+
+0.1 | LO 100
+Specific stiffness, E/p (MPa m3 kg~')
+(b)
+
+(=) Dendritic composites steels
+
+100
+
+Nickel-based
+superalloys
+
+Metallic glasses
+7
+am Metals
+
+Titanium
+
+Ci
+
+Zr, , Ti Cuj, Ni, Be,,
+
+ay tea" ie
+
+Zirconia Silicon
+
+/ nitride
+Silicon
+Pe carbide
+
+= Hardwood
+{along grain)
+
+Fracture toughness, Kj, (MPa
+\
+
+Biologicals
+
+>) Ca, Al, Ni Cuj, Mg,Cu,,Tb,; Fe,,Mn,,Mo,,Cr,C,,B,
+l
+
+| 10 100 1000
+Stiffness, E (GPa)
+
+Figure 9. Materials Property Charts. (a) Strength and stiffness (both normalized to density) of metallic glasses
+(yellow) and dendritic metallic glass matrix composites (red) compared with other materials. (b) Damage
+tolerance. On this plot, the dashed lines represent contours of equal fracture energy. In both plots, polymer
+composites (CFRP and GFRP) are represented by isotropic averages; continuous fiber composites can have greater
+strength and stiffness in a direction parallel to the fibers.*?
+
+18
+UNCLASSIFIED / / KOR-O5bLGIA=USE-ONEY

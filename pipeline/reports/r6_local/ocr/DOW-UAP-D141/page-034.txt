@@ -1,0 +1,49 @@
+UNCLASSIFIED/ :£FQB OFEICI\k 1!18!! eNtf 
+sections, such as shown in Figures 15 and 16, will be primary candidates for 
+implementing optical and microwave non-reciprocity. Such metamater ials would be 
+comprised of a unit cell containing a non-radiative element (that is, a two-str ip 
+capacitor-loaded antenna support ing a "dark" magnetic mode) and a single "bright" 
+dipole antenna. Such a system exhibits EIT when the frequenc ies of the "dark" and 
+"bright" resonances coincide. EIT results in energy compression and enhanced 
+nonlinearity. The source of the nonlinearity could be, for example, a variable 
+capacitance diode (varactor) used as a capacitive load of the double-strip antenna. The 
+second (linear) mode could have an orthogonal polarization, and the coupl ing between 
+the two could be accomplished via spat ially-per iodic displacement of the single-strip 
+and double-strip antennas with respect to each other . 
+Tunable Switchable Metamaterials 
+Electromagnetic properties of most metamater ials are "hard-wired", meaning they are 
+determined during fabrication. That can be a serious impediment to using them in the 
+context of space exploration. Being able to change opt ical/electromagnetic properties of 
+a metamaterials-based device without having to re-manufacture it would be highly 
+desirab le. Therefore, this survey is concluded by describing some of the recent progress 
+in making reconfigurable/switchable metamaterials. This is a new exciti ng area of 
+metamaterials research that is worth watching for applications. One of the first 
+electrically-controllable THz metamaterials has been reported in Reference 36, where 
+resonant properties of the electric split ring were controlled by applying reverse bias 
+between metal and highly-doped in GaAs layer. The schematic of the experiment is 
+shown in Figure 25. Without reverse bias there is no resonant response of the split ring 
+to incident THz pulse because highly-conductive electrons of the n-GaAs layer are 
+shorting the gap of the resonant split ring as schematically indicated in Figure 26(b). 
+With the applied reverse bias, electron density is depleted inside the gap. The resulting 
+transmission spectrum shows spectral dips which were converted into the effective 
+dielectric permittivity &eff (w) that exhibited resonant peaks. The strongest of the peaks 
+corresponded to the Inductance-Capacitance (LC) resonance of the split ring. One 
+possible application of such electrically tunable metamaterial suggested in Reference 36 
+was a modulator. The authors claim that the performance of their device as a THz 
+modulator already exceeds current state-of-the-art electrical THz modulators (based on 
+semiconductor structures) by one order of magnitude on resonance. Moreover, their 
+device operates at room temperature. Needless to say, this metamaterial-based 
+modulator can be improved. For example, configurations exploiting EIT could result in 
+stronger modulation strength. 
+Another interesting possibility for tuning microwave metamaterials has been suggested 
+in Reference 37. Ferroelectrics (such as BST) can be tuned by apply ing DC voltage 
+which changes their dielectric permittivity. This property of BST was utilized to develop 
+frequency tunable magnetic metamaterials using metallic split rings loaded with 
+barium-strontium titanate thin film capacitors. The resonant frequency of this medium 
+is voltage tunable across a 140 MHz band centered at 1. 75 GHz. The effective relative 
+permeability of the slab was shown to have Lorentzian shape that reaches minimum 
+values between -2 and -3 for biases from Oto 5 V. Therefore, permeability of the slab 
+can tune between positive and negative values, making it useful in applications 
+requiring a state switchable magnetic permeability. 
+UNCLASSIFIED/ {EAR OEEICl.t.ls: 1!181!! eNtf 
+30

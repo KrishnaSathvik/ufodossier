@@ -1,0 +1,22 @@
+UNCLASSIFIED //FOR-OFFECEALUSE-ONE~
+
+Maximum Velocity Achieved / Speed of Lightt
+
+0 0.1 0.7 08 0.9 I
+Mass of Fuel Consumed / Total Initial Rocket Mass
+
+Figure 13. Maximum Achievable Velocity Versus Fuel Usage.
+
+Acceleration / Earth's Gravitational Acceleration
+
+Time (years) Measured in the Earth Reference Frame
+
+Figure 14. Acceleration and Rocket “Clock” Ratio versus Mission Time on Earth.
+
+Another item to consider is the value chosen for the constant acceleration of the
+spacecraft. We cannot exceed 1 g for crew safety, yet higher accelerations mean
+
+es
+UNCLASSIFIED / #-@R-OFFIGH-USE-ONEY
+
+Time (rocket) / Time (Earth)

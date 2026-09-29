@@ -1,0 +1,72 @@
+DE 75 EVALU.aTiot! OF OBSERV};R a:~LIABILITY CODE 76 EVALUA'rION OF RSPORT RELIABILITY 
+X 
+y 
+0 Complete 
+l Quite 
+2 Fair 
+3 Doubtful 
+4 Poor 
+5 Not 
+6 
+7 
+8 
+9 Cannot be judged 
+CODE 77 RELllBILITY GROUP CLASSIFICATION 
+(Based on observer and report ratings) 
+Excellent (Observer O or 1 and Reoort O or 1) 
+Good (Observer O or 1, Report 2, 3, or 4; 
+Observer 2, 3, or 4, Report O or l; Observer 
+2, Report 2) 
+Doubtful (Observer O or 1, Report 5 or 9; 
+Observer 2, Report 3, 4, S, or 9; Observer 
+3 or 4, Report 2, 3, 4, S, or 9; Observer S 
+or 9, Report o, 1, 2, 3, or 4) 
+Poor (Observer 5, 9, or Y, Report 5, 9, or Y) 
+308 
+X 
+y 
+0 Complete I 
+1 Quite 
+2 Fair 
+3 Doubtful 
+4 Poor 
+5 Not 
+6 
+7 
+8 
+9 Cannot be judged 
+CODE 78 FINAL IDENTIFICATION 
+X Probably 
+y 
+0 Balloon 
+1 Astronomical 
+2 Aircraft 
+3 Light phenomenon 
+4 Birds 
+5 Clouds, dust, etc. 
+6 Insufficient information 
+7 Psychological manifestations 
+8 Unknown 
+9 Other 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+Ii 
+I 
+I 
+I 
+I 
+I 
+I

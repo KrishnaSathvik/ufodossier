@@ -1,0 +1,16 @@
+UNCLASSIFIED//&OR Oii&ICI0L Ll&li QPIL¥ 
+Figure 9. Birmingham University HFGW Detector 
+The INFN Genoa HFGW resonant antenna consists of two coupled, superconducting, 
+spherical, harmonic oscillators a few centimeters in diameter (see Figure 10). The 
+oscillators are designed to have (when uncoupled) almost equal resonant frequencies. 
+In theory, the system is expected to have a sensitivity to HFGWs with size (fractional 
+deformations) of about ~ 2x 10·17 (Hz) ·½ with an expectation to reach a sensitivity of~ 
+2x 10-20 (Hz)·½ (Bernard, Gemme, Parodi, and Picasso (2001); Chincarini and Gemme. 
+(2003)). As of this date, however, there is no further development of the INFN Genoa 
+HFGW detector. 
+Figure 10. INFN Genoa HFGW Detector 
+The Kawamura 100 MHz HFGW detector has been built by the Astronomical 
+Observatory of Japan. It consists of two synchronous interferometers exhibiting an 
+arms length of 75 cm. Please see Figure 11. Its sensitivity is now about 10-16 (Hz)·½ 
+UNCLASSIFIED/ /FOP OiiiilCl.t.k l!ISI!!! l>flti 
+13

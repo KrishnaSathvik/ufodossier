@@ -1,0 +1,21 @@
+1
+UNCLASSIFIED/ /FOR 055ICIAl 1481!! er•t I 
+a'=rt\1 +(l - ri)1' 2 a2 from Section IIIB-2 to define the annihilat ion operators of the 
+. , ,, 1/ 2 • 1 1/ 2 - - · 1 /2 • 1 1/ 2 - -
+detected light modes a1 = ri a1 +(1- ri) b1 and a2 =ri a2 +(1 - ri) b2 , where b, and 
+b2 are the annihilat ion operators of the vacua entering the second unused ports of the 
+fictit ious beam splitters. The annihilation operators a; and a~ describe the light modes 
+(or fields) emerg ing from the 50:50 beam splitter where the signal is optically mixed 
+with the LO. Again, the LO is an intense field compared with the signal so it can be 
+treated classically. Therefore, we do some algebra to compute the difference photon 
+number ii21 = n; - n7= a;ta; - a7ta7 , but retain only the leading terms with respect to 
+a w , and obtain the final result [38]: 
+(12) 
+The symbol H C in Eq. (12) denotes the Hermitian conjugate of the othe r part of an 
+expression and b=i- 12(b2-b1) . The fluctua t ion mode operator b corresponds to the 
+optical mix ing of the fictit ious vacuum -noise modes b1 and b2, and it obeys the bosonic 
+commutation relation [ b,b']=1 (e.g., see Sect. 111B-2). Because the interfere nce of 
+vacuum with vacuum yields vacuum, the fluctuation mode b can be regarded as a 
+bosonic mode, being in the vacuum state as well. 
+UNCLASSIFIED/ /FOR OFFI@IAl YSfI or•t'&' 
+30

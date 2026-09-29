@@ -1,0 +1,63 @@
+FCSD rep
+
+Conrad
+
+Cooper
+
+8.3 RCS
+FCSD rep
+
+Cooper
+Conrad
+
+Cooper
+
+FCSD rep
+Cooper
+FCSD rep
+Conrad
+Cooper
+
+Cooper
+
+ff = : A
+CAPALDI I 22 bh ee.
+
+47
+
+OK- well, I don't think there is much we can
+add then--did you get all of these readings
+out of--
+
+80-81-82-58-59-69- Yeah, that stuff works
+just like the simulator. We got the readings.
+
+OK - On to 8.3 - RCS.
+
+Let's go into the RCS - yeah, I don't think
+there is anything more--
+
+This is all--
+
+Yeah, this is all we can do on the REP.
+OK-RCS Operational Checks - We did just like
+we had planned in our little book. We
+activated the RCS and Check Ring A and ACME
+and direct--all three axis- Ring B - Check
+Ring B in ACME and direct--all three axis
+and they worked beautifully.
+
+How about the pad checks--were they--
+Negative
+
+No pad checks?
+
+Not with the sealed system--
+
+A sealed system - I'm glad it was--
+
+Control Modes — We used pulse and we used
+
+horizon scan--
+
+TEONFBENTAT ..

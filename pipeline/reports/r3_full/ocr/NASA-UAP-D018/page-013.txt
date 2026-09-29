@@ -1,0 +1,37 @@
+M-931-65-04 
+LAUNCH VEHICLE DESCRIPTION 
+The Gemini Launch Vehicle (GLV) has been modified by man-roting an Air Force 
+Titan II missile. The GLV has two stages, the first 71 feet long and the second 18 
+feet long; both stages have a diameter of 10 feet. The gross loaded weight of the 
+two stages is 337,521 pounds and they both burn storable hypergolic (self-igniting 
+upon mixture) propellants. First stage thrust is approximately 430,000 pounds at sea 
+level. Second stage thrust is approximately 100,000 pounds. The various systems of 
+the GLV have been detailed in previous Gemini MOR1s and what follows is additional 
+information concerning modifications made to GLV-4. The fuel dampener and oxidizer 
+standpipe used to suppress longitudinal oscillations have been redesigned. Butt welding 
+vice lapped joints have been utilized on the fuel tank conduits to eliminate minute 
+cracks. Malfunction Detection System circuitry has been redesigned to provide separate 
+indications of the subassembly thrust level and additional insulation has been applied to 
+provide increased fire protection. Sixteen T/M readout points have been removed 
+from the GLV because they are no longer required and one range safety circuit has 
+been added to the destruct system interlocking AGE and the GLV motor driven switch 
+control. This circuit will prevent switch cycling in the event that both set and reset 
+signals are inadvertently applied during checkout. 
+TABLE I 
+PROJECT COST 
+(In Millions) 
+FY 62 FY 63 FY 64 FY 65 FY 66 FY 67 Total 
+Spacecraft 30.3 205. 1 280.5 165.3 122.7 19. 1 823.0 
+Launch Vehicle 24.4 79. 1 122.7 115.4 88.6 8.5 438.7 
+Operational 
+Support 0 1 4.9 15. 7 27.7 30.8 13.0 92.2 
+Total RD & 0 54.8 289. 1 418.9 308.4 242. 1 40.6 1353.9 
+This level of funding will provide for twelve Gemini Launch Vehicles, twelve space­
+craft, seven Agena Target Vehicles, six Atlas booster missiles and the operational costs 
+of flight testing and the associated Ground Support Equipment. 
+SPACECRAFT 
+The spacecraft is 18. 75 feet long and its two sections, a reentry module and an adapter 
+section will weigh 7799 lbs. fully loaded with the astronauts onboard. The configuration 
+will be the same as was flown on GT-3 except for the following: minor changes have 
+been made to switch positions and nomenclature, three additional (total of six) adapter 
+5/24/65 Page 3

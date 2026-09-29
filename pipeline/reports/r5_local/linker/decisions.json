@@ -1,0 +1,995 @@
+{
+  "generated_at": "2026-09-28T19:31:29.315756+00:00",
+  "decisions": [
+    {
+      "decision_id": "dec-0071",
+      "relationship": "same_event",
+      "status": "auto_supported",
+      "left": "UNDATED-FBI-82CCDD",
+      "right": "UNDATED-FBI-15D04A",
+      "evidence": [
+        "intra-source continuity cues grouped phase rows into one episode",
+        "episode size=4",
+        "source=DOW-UAP-D082.pdf"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": "03",
+      "target_release": "03",
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0073",
+      "relationship": "same_event",
+      "status": "auto_supported",
+      "left": "UNDATED-FBI-FEDFE7",
+      "right": "UNDATED-FBI-578E28",
+      "evidence": [
+        "intra-source continuity cues grouped phase rows into one episode",
+        "episode size=5",
+        "source=DOW-UAP-D082.pdf"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": "03",
+      "target_release": "03",
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0204",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "DOW-UAP-D077.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog pdf_pairing series label: Western US Event",
+        "series membership does not imply same_event",
+        "episodes from DOW-UAP-D077.pdf: 0"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0205",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "DOW-UAP-D078.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog pdf_pairing series label: Western US Event",
+        "series membership does not imply same_event",
+        "episodes from DOW-UAP-D078.pdf: 3"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0206",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "DOW-UAP-D079.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog pdf_pairing series label: Western US Event",
+        "series membership does not imply same_event",
+        "episodes from DOW-UAP-D079.pdf: 4"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0207",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "DOW-UAP-D080.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog pdf_pairing series label: Western US Event",
+        "series membership does not imply same_event",
+        "episodes from DOW-UAP-D080.pdf: 3"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0208",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "DOW-UAP-D081.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog pdf_pairing series label: Western US Event",
+        "series membership does not imply same_event",
+        "episodes from DOW-UAP-D081.pdf: 1"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0209",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "DOW-UAP-D082.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog pdf_pairing series label: Western US Event",
+        "series membership does not imply same_event",
+        "episodes from DOW-UAP-D082.pdf: 5"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0210",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "DOW-UAP-D083.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog pdf_pairing series label: Western US Event",
+        "series membership does not imply same_event",
+        "episodes from DOW-UAP-D083.pdf: 5"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0211",
+      "relationship": "media_for_event",
+      "status": "auto_supported",
+      "left": "FBI-UAP-D003.pdf",
+      "right": "evt-0044",
+      "evidence": [
+        "catalog PDF Pairing links FBI-UAP-D003 \u2192 FBI-UAP-D002",
+        "official catalog PDF pairing",
+        "primary narrative source FBI-UAP-D002.pdf"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0212",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "FBI-UAP-D014.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog pdf_pairing series label: Western US Event",
+        "series membership does not imply same_event",
+        "episodes from FBI-UAP-D014.pdf: 2"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0213",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "ODNI-UAP-D001.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog pdf_pairing series label: FBI Photo A001",
+        "series membership does not imply same_event",
+        "episodes from ODNI-UAP-D001.pdf: 4"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0214",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "ODNI-UAP-D001.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog pdf_pairing series label: FBI Photo A002",
+        "series membership does not imply same_event",
+        "episodes from ODNI-UAP-D001.pdf: 4"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0215",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "ODNI-UAP-D001.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog pdf_pairing series label: FBI Photo A003",
+        "series membership does not imply same_event",
+        "episodes from ODNI-UAP-D001.pdf: 4"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0216",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "ODNI-UAP-D001.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog pdf_pairing series label: FBI Photo A004",
+        "series membership does not imply same_event",
+        "episodes from ODNI-UAP-D001.pdf: 4"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0217",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "ODNI-UAP-D001.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog pdf_pairing series label: FBI Photo A005",
+        "series membership does not imply same_event",
+        "episodes from ODNI-UAP-D001.pdf: 4"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0218",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "ODNI-UAP-D001.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog pdf_pairing series label: FBI Photo A006",
+        "series membership does not imply same_event",
+        "episodes from ODNI-UAP-D001.pdf: 4"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0219",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "ODNI-UAP-D001.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog pdf_pairing series label: FBI Photo A007",
+        "series membership does not imply same_event",
+        "episodes from ODNI-UAP-D001.pdf: 4"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0220",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "ODNI-UAP-D001.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog pdf_pairing series label: FBI Photo A008",
+        "series membership does not imply same_event",
+        "episodes from ODNI-UAP-D001.pdf: 4"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0221",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "ODNI-UAP-D001.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog pdf_pairing series label: FBI Photo B001",
+        "series membership does not imply same_event",
+        "episodes from ODNI-UAP-D001.pdf: 4"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0222",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "ODNI-UAP-D001.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog pdf_pairing series label: FBI Photo B002",
+        "series membership does not imply same_event",
+        "episodes from ODNI-UAP-D001.pdf: 4"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0223",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "ODNI-UAP-D001.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog pdf_pairing series label: FBI Photo B003",
+        "series membership does not imply same_event",
+        "episodes from ODNI-UAP-D001.pdf: 4"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0224",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "ODNI-UAP-D001.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog pdf_pairing series label: FBI Photo B004",
+        "series membership does not imply same_event",
+        "episodes from ODNI-UAP-D001.pdf: 4"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0225",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "ODNI-UAP-D001.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog pdf_pairing series label: FBI Photo B005",
+        "series membership does not imply same_event",
+        "episodes from ODNI-UAP-D001.pdf: 4"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0226",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "ODNI-UAP-D001.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog pdf_pairing series label: FBI Photo B006",
+        "series membership does not imply same_event",
+        "episodes from ODNI-UAP-D001.pdf: 4"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0227",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "ODNI-UAP-D001.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog pdf_pairing series label: FBI Photo B007",
+        "series membership does not imply same_event",
+        "episodes from ODNI-UAP-D001.pdf: 4"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0228",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "ODNI-UAP-D001.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog pdf_pairing series label: FBI Photo B008",
+        "series membership does not imply same_event",
+        "episodes from ODNI-UAP-D001.pdf: 4"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0229",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "ODNI-UAP-D001.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog pdf_pairing series label: FBI Photo B009",
+        "series membership does not imply same_event",
+        "episodes from ODNI-UAP-D001.pdf: 4"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0230",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "ODNI-UAP-D001.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog pdf_pairing series label: FBI Photo B010",
+        "series membership does not imply same_event",
+        "episodes from ODNI-UAP-D001.pdf: 4"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0231",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "ODNI-UAP-D001.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog pdf_pairing series label: FBI Photo B011",
+        "series membership does not imply same_event",
+        "episodes from ODNI-UAP-D001.pdf: 4"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0232",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "ODNI-UAP-D001.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog pdf_pairing series label: FBI Photo B012",
+        "series membership does not imply same_event",
+        "episodes from ODNI-UAP-D001.pdf: 4"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0233",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "ODNI-UAP-D001.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog pdf_pairing series label: FBI Photo B013",
+        "series membership does not imply same_event",
+        "episodes from ODNI-UAP-D001.pdf: 4"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0234",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "ODNI-UAP-D001.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog pdf_pairing series label: FBI Photo B014",
+        "series membership does not imply same_event",
+        "episodes from ODNI-UAP-D001.pdf: 4"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0235",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "ODNI-UAP-D001.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog pdf_pairing series label: FBI Photo B015",
+        "series membership does not imply same_event",
+        "episodes from ODNI-UAP-D001.pdf: 4"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0236",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "ODNI-UAP-D001.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog pdf_pairing series label: FBI Photo B016",
+        "series membership does not imply same_event",
+        "episodes from ODNI-UAP-D001.pdf: 4"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0237",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "ODNI-UAP-D001.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog pdf_pairing series label: FBI Photo B017",
+        "series membership does not imply same_event",
+        "episodes from ODNI-UAP-D001.pdf: 4"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0238",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "ODNI-UAP-D001.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog pdf_pairing series label: FBI Photo B018",
+        "series membership does not imply same_event",
+        "episodes from ODNI-UAP-D001.pdf: 4"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0239",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "ODNI-UAP-D001.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog pdf_pairing series label: FBI Photo B019",
+        "series membership does not imply same_event",
+        "episodes from ODNI-UAP-D001.pdf: 4"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0240",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "ODNI-UAP-D001.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog pdf_pairing series label: FBI Photo B020",
+        "series membership does not imply same_event",
+        "episodes from ODNI-UAP-D001.pdf: 4"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0241",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "ODNI-UAP-D001.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog pdf_pairing series label: FBI Photo B021",
+        "series membership does not imply same_event",
+        "episodes from ODNI-UAP-D001.pdf: 4"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0242",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "ODNI-UAP-D001.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog pdf_pairing series label: FBI Photo B022",
+        "series membership does not imply same_event",
+        "episodes from ODNI-UAP-D001.pdf: 4"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0243",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "ODNI-UAP-D001.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog pdf_pairing series label: FBI Photo B023",
+        "series membership does not imply same_event",
+        "episodes from ODNI-UAP-D001.pdf: 4"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0244",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "ODNI-UAP-D001.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog pdf_pairing series label: FBI Photo B024",
+        "series membership does not imply same_event",
+        "episodes from ODNI-UAP-D001.pdf: 4"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0245",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "ODNI-UAP-D001.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog pdf_pairing series label: USPER Statement about UAP Sighting",
+        "series membership does not imply same_event",
+        "episodes from ODNI-UAP-D001.pdf: 4"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0246",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "DOW-UAP-D077.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog series identifier western-us-event-2023",
+        "series membership does not imply same_event",
+        "episodes from DOW-UAP-D077.pdf: 0"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0247",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "DOW-UAP-D078.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog series identifier western-us-event-2023",
+        "series membership does not imply same_event",
+        "episodes from DOW-UAP-D078.pdf: 3"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0248",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "DOW-UAP-D079.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog series identifier western-us-event-2023",
+        "series membership does not imply same_event",
+        "episodes from DOW-UAP-D079.pdf: 4"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0249",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "DOW-UAP-D080.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog series identifier western-us-event-2023",
+        "series membership does not imply same_event",
+        "episodes from DOW-UAP-D080.pdf: 3"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0250",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "DOW-UAP-D081.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog series identifier western-us-event-2023",
+        "series membership does not imply same_event",
+        "episodes from DOW-UAP-D081.pdf: 1"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0251",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "DOW-UAP-D082.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog series identifier western-us-event-2023",
+        "series membership does not imply same_event",
+        "episodes from DOW-UAP-D082.pdf: 5"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0252",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "DOW-UAP-D083.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog series identifier western-us-event-2023",
+        "series membership does not imply same_event",
+        "episodes from DOW-UAP-D083.pdf: 5"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0253",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "FBI-UAP-D014.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog series identifier western-us-event-2023",
+        "series membership does not imply same_event",
+        "episodes from FBI-UAP-D014.pdf: 2"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0254",
+      "relationship": "analysis_of_event",
+      "status": "auto_supported",
+      "left": "ICA-UAP-D001.pdf",
+      "right": "evt-0044",
+      "evidence": [
+        "analysis source text shares specific place token(s): ['cheyenne', 'cheyenne mountain']",
+        "target incident UNDATED-USA-599D8B from FBI-UAP-D002.pdf",
+        "place_prominence=lede_or_repeated"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0255",
+      "relationship": "analysis_of_event",
+      "status": "auto_supported",
+      "left": "ICA-UAP-D001.pdf",
+      "right": "evt-0202",
+      "evidence": [
+        "analysis source text shares specific place token(s): ['colorado']",
+        "target incident 2023-FBI-6A299C from FBI-UAP-D030.pdf",
+        "place_prominence=lede_or_repeated"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    },
+    {
+      "decision_id": "dec-0256",
+      "relationship": "same_event",
+      "status": "review_supported",
+      "left": "evt-0021",
+      "right": "evt-0061",
+      "evidence": [
+        "shared specific place token(s): ['sary shagan']",
+        "matching year 1973",
+        "cross-source specific place overlap; review before consolidating events"
+      ],
+      "score_band": "medium",
+      "auto_merged": false,
+      "incidents_rewritten": false,
+      "source_release": null,
+      "target_release": null,
+      "cross_release": false
+    }
+  ]
+}

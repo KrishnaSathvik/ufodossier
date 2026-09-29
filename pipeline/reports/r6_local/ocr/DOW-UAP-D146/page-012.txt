@@ -1,0 +1,49 @@
+UNCLASSIFIED/ /FOR OFFI&ilAl l::181: 8HL'f 
+Field Reversed A spheromak is a tokamak in a Plasma Configuration Separatrixspherical chamber that uses only a 
+single set of coils in conjunction with 
+plasma currents that self-generate a 
+reconfining magnetic field. However, -
+this design is thought to be less 
+promising than the previously 
+described technologies for 
+generating significant fusion energy. 
+An FRC (field-reversed configuration) Axial Fi~oils Closed Pololdal Open Magnetic 
+Field Line Field Lineis an elongated plasma ellipso id 
+conducting an azimuthal current that Figure 4. Field-Reversed Configuration 
+reverses the direction of an 
+externally applied magnetic field. The resultant field provides toroidal plasma confine­
+ment without requiring a toroidal vacuum vessel or coil set (shown in Figure 4 ). It has 
+the potent ial of achieving much higher stable plasma configurations in much smaller 
+volumes than a tokamak using supplementary laser or neutral beam heating from its 
+ends. The FRC is susceptible, however, to a tilting mode instability where the confined 
+plasma ring can flip over and fly apart as the previously confining forces shift radially 
+outward rather than inward. This can be overcome by magnetic field design. A 
+significant augmentation of power density for th is concept is to inject the fuel through 
+the ends with high energy ion or neutral particle beams. Such a system can allow the 
+very high plasma energy density, temperatures, and confinement times needed for 
+aneutronic fusion. 
+INERTIAL CONFINEMENT 
+Inertial confinement fusion (ICF) is a process by which nuclear fusion is initiated by 
+heating and compressing a fuel target. Such targets are usually pellets conta ining a 
+"fuel" of deuterium and trit ium atoms. Typical pellets are about the size of a pinhead, 
+holding ~10 mg of fuel. The process of compressing and heating the pellet is usually 
+accomplished by one of two methods: using high-energy lasers or using particle beams 
+(electrons or ions). The vast majority of ICF devices use lasers. 
+The lasers heat the pellet's outer layer, which explodes this layer outward and produces 
+a reaction force against the remainder of the target. The lasers either impact the pellet 
+simultaneously from multiple symmetrically arranged directions or illuminate the inner 
+wall of a metal cylinder (a hohlraum) contain ing the pellet (the hohlraum then produces 
+thermal x-rays which impact the pellet). This force accelerates the fuel inward, sending 
+shock waves into the pellet's center. If the shock waves are strong enough, they are 
+able to compress and heat the fuel at the center to such an extent that fusion can occur. 
+The released energy then heats the surrounding fue l, which may also undergo fusion. 
+In comparison with magnetic confinement, ICF results in much higher pressures, but at 
+the expense of a much shorter confinement time. 
+The goal of ICF is to get a sufficient percentage of the fuel to undergo fusion such that 
+more energy is released than is used to produce the reaction. Early attempts, however, 
+have demonstrated that ICF efficiency was much lower than expected. Recent advances 
+in materials technology and techniques have shown that considerable improvements in 
+performance are possible; such a test at the DOE National Ignition Test Facility (NIF) 
+will use 50 TW of laser energy in 192 beams to compress a pellet to achieve ignition. 
+UNCLASSIFIED/ /fOR: 8ffl@IAl l::ISE OHl?f 
+7

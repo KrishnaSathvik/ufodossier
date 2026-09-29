@@ -1,0 +1,48 @@
+UNCLASSIFIED/ ,CFOA OFFl&il.\k W&& 8PtLY 
+3.13 J. Khachan, A. Samarian, "Dust diagnostics on an inertial electrostatic 
+confinement discharge", Phys. Letters A, vol. 363, no. 4 (2007) pp. 297-301. 
+3.14 L. Blackhall, J. Khachan, "A simple electric thruster based on ion charge 
+exchange", vol. 40, No. 8, (2007) pp. 2491-2494. 
+Section IV. IEC Theory 
+Early basic IEC theory was briefly e emitterOnion-shaped B -W0 kVdescribed in Section I. Section IV will conductornow turn to some more recent studies 
+starting with an early study by Bill ov 
+Nevins (Reference 4.1) that has caused 
+concern in the community about the 
+suitability of the IEC for a fusion power 
+reactor . Nevins did a semi analytic 
+analysis where IEC systems are 
+predicated including a non-equilibrium 
+ion distribution function. Coulomb 
+collisions between ions cause this 
+distribution to relax to a Maxwellian on 
+the ion-ion collisional time scale. His 
+analysis suggests that the input power 
+required to prevent th is relaxation, thus Reflector 
+maintaining the IEC configuration for 
+times beyond the ion-ion collisional time -Wo kV· few V 
+scale, is greater than the fusion power Figure 4.1 . Cross Section of the Experimental Layout 
+of the PFX-1 Experiment. The emitte r - electron source,produced. Thus, he concluded that IEC onion-shaped anode and reflector form an axialsystems show little promise for the electrostat ic well for electron axial confinement. Rad ial 
+development of commerc ial electric confinement is provided by the axial magnetic field. The 
+reflector is biased slightly more negative than the emitterpower plants. Nevin's analysis appears 
+to avoid electron losses to the reflector. to be very thorough, however, as 
+discussed next, it suffers from several 
+key, but subtle assumptions that may force the pessimistic results. 
+Later, to further explore issues raised by Nevins, Lu is Chacon, doing his thesis with G. 
+Miley, decided to use a Fokker Plank model for analysis of the IEC so that some of the 
+questionable assumptions used by Nevins could be relaxed. This study, presented in 
+Reference 4.2, specifically dealt with a Penning-type IEC due to interest in the Penning 
+trap experiment at LANL. The experimental device, PFX-I is illustrated in Figure 4.2 
+while the reactor-like configuration modeled by Chacon is shown in Figure 4.2. It should 
+be stressed however, that the conclusions still apply in principle to the ion injected IEC 
+since the issues involve the potential well trapping common to both. The Penning trap 
+and the ion injected devices differ in how the well is formed and stabilized, but the 
+physics of trapped plasma confinement is the same. Namely, the time scale for 
+collisional degradation of the beam-like ion distribution function is crucial since short 
+times (as the fusion time) would prevent a power reactor. Nevins addressed this issue 
+by calculating collisional relaxation rates from a beam-like, monoenergetic ion 
+population, absolutely confined in a square potential well. From his analysis, Nevins 
+concluded that the IEC will thermalize and lose ion focusing before enough fusion 
+UNCLASSIFIED/ /FOR OFFl&ilAk Wii OrelL¥ 
+Superconducting 
+magnet 
+34

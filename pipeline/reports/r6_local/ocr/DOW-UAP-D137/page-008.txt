@@ -1,0 +1,32 @@
+UNCLASSIFIED/ fFOA OFFl&I.t.k YSE &P•tv 
+High Power Laser High Power Optics Pointer I Tracker I Atmospheric Target 
+Device and Beam Shaping Target Designator Propagation 
+EXHAUST 
+TRACKER 
+Atmospheric , 
+absorption, 
+ENERGY SOURCE scattering , 
+and turbulence 
+Figure 2, Elements of an HEL Weapon System 
+Laser Devices 
+LASER FUNDAMENTALS 
+The term "Laser" is an acronym for Light Amplification by Stimulated Emission of 
+Radiation. It is a unique device that employs the quantum states of matter to store 
+and convert energy into electromagnetic radiation. The resulting radiation is referred to 
+as "coherent," meaning it is single wavelength or "monochromatic" and highly focusable 
+due to its well controlled phase. In its simplest form, any laser device can be viewed as 
+an "energy-conversion" box with one input and two outputs. The input is energy, which 
+can take a variety of forms (electricity, light, or a chemical reaction) depending on the 
+specific laser, while the two outputs are a coherent beam and heat (Figure 3). Since 
+the overall energy-conversion lasing process is considerably less than 100 percent 
+efficient, significant waste heat is generated which must be removed from the laser. 
+Inside the laser is a "gain-medium" which stores a fraction of the input energy in its 
+atoms or molecules and then releases the energy at the laser's selected wavelength. 
+The laser also contains "resonator" mirrors which repeatedly relay the beam back and 
+forth through the gain medium to increase its energy level. The laser device functions 
+as the optical equivalent of an electrical oscillator with the resonator optics providing 
+the feedback. Different lasers, which use various materials as their gain medium, emit 
+radiation at wavelengths ranging from the infrared through the visible spectrum and 
+into the ultraviolet. 
+UNCLASSIFIED/ fFOA OFFI&I.t.k YSE 8,.L\f 
+3

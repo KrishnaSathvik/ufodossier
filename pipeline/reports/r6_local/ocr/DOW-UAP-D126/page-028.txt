@@ -1,0 +1,32 @@
+UNCLASSIFIED/ /FOR 8FFl@IAL l!ISI! er~t a 
+Figure 7 shows the circuit of an ordinary Marx generator, and Figure 8 that of a Super 
+Marx. An art ist's view of a mile-long Super Marx generator, charged up by about 100 
+ordinary Marx generators and connected to the chamber in which the thermonuclear 
+target is placed, is shown in Figures 9-11. 
+Marx Banks InOff lanl<s with HighVoltoge C.podtim 
+Figure 10. Detailed View of a Section of the Super 
+Marx Generator. Two conventional Marx banks charge 
+up one coaxial capacitor/transmission line element to 10 
+MV. 
+As shown in Figure 12, the Super Marx is made up of a chain of co-axial capacitors with 
+a dielectric that has to withstand the potential difference of 107 volts between the inner 
+and outer conductor. 
+Figure 11. Injection of GeV - 10 MA Proton Beam. 
+Drawn From Super Marx generat or made up of 
+magne tically insulated coaxial capacitors into chamber 
+with cylindrical deuterium target . 
+~ • • • • • • ,.
+M 
+• • • • • • ~ 
+8 ► 
+- -+ s + \, + \, t C \5°" \,°" °" °" 
+-
+JJif /Jell JJif JJd - -+ + + + + 
+8 ► 
+X X X X X xix X X X X X X 
+Figure 12. Showing a Few Elements of the Super Marx Generator 
+Following their charging up of the Super Marx generator, the Marx generators are 
+disconnected from the Super Marx. If the capacitors of the Super Marx can hold their 
+charge long enough, this can be done by mechanical switches. 
+UNCLASSIFIED/ ,<FOR 8FFl@IAL l!ISI! er~t I 
+22

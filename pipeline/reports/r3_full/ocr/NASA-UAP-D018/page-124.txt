@@ -1,0 +1,51 @@
+c~. t, 
+3:00 
+3:10 
+3:20 
+3:30 
+3:40 
+3:50-
+4:00 
+4: 10 
+4:20 
+4:80 
+EG RESS S/C 
+INGRESS S/C
+CLOSE HATCH REPRESSURIZE S/C 
+ALIGN PLA FORM 
+SEPARATION AV .-5 FT /SEC 
+COMPLETE INGRESS 
+T 
+E 
+X 
+N 
+T 
+D/T TAPE PLYBK 
+MEDICAL DATA 
+PASS TYPE 1 
+D/T TAPE PLYBK 
+CHECKLIST 
+MEDICAL 
+DATA PASS 
+TYPE 2 
+p 
+R 
+f 
+G 
+y 
+M 
+C 
+N 
+V 
+A 
+s 
+C 
+I 
+J 
+T 
+A 
+N N 
+. G 
+H 
+T I 
+~

@@ -1,0 +1,56 @@
+UNCLASSIFIED / /F@R-OFFECGE-USE-ONE—
+
+which both matter and vacuum mode structure have been returned to their original
+states, the vacuum modes must of necessity contain at a minimum the same, “hard-
+wired,” energetic content as before the cycle. Therefore, assuming local detailed-
+balance energy conservation, continuous conversion of vacuum ZPE to other forms via
+a Type II machine is, from the QED viewpoint, forbidden in principle since the vacuum
+as described by the QED formalism is non-degradable. (Globally, vacuum energy is not
+conserved during cosmological expansion, with work being done by the negative
+vacuum pressure to maintain positive constant vacuum energy density and therefore
+increasing the vacuum energy (Reference 65) This outcome of second-quantized QED
+theory permits of but two interpretations with regard to continuous vacuum energy
+conversion: 1) QED theory, despite criticisms that can be leveled against it, is correct in
+its description of vacuum fluctuation dynamics, and even though vacuum ZPE exists, it
+cannot be continuously converted to other forms, or 2) the axiomatic inconvertibility is
+an artifact of an over-idealized mathematical structure, and therefore the possibility of
+conversion remains an open question.!! What is not in question, however, is that QED,
+as an axiomatic, quantum formalism based on the concept of an immutable, non-
+degradable vacuum, does not support the concept of continuous vacuum energy
+conversion.
+
+ALTERNATIVES TO QED
+
+As noted in Section V, despite its successes the second-quantized QED formalism with
+its infinite vacuum degrees of freedom and associated infinite energy density has been
+the subject of criticism and, as a result, alternatives have been proposed and
+investigated in the literature. The alternatives run the gamut from neoclassical theories
+in which matter is quantized but the fields are not (for example, the voluminous work of
+E. T. Jaynes), through classical theories where both matter and fields are treated
+classically, with vacuum fluctuations fields taken to be real but of a classical nature (for
+example, SED), to formalisms which eliminate the concept of vacuum fields altogether
+(for example, direct-action approaches investigated by A. O. Barut and others; see the
+references cited below). Each of these will be examined briefly with regard to the
+possibility of useful “vacuum energy conversion.”
+
+Neoclassical Theories of QED Vacuum Fluctuation Effects
+
+A major proponent of the neoclassical approach has been E. T. Jaynes, who has
+questioned whether the quantized vacuum field is physically real or merely an artifice of
+the second-quantized QED formalism. Based on the fact that the QED formalism
+permits expression of effects in terms of quantized “self” or “source” fields as an
+alternative to expression in terms of quantized vacuum fluctuation fields, Jaynes
+advanced the hypothesis that QED effects can be attributed to the self-fields of
+quantized matter without considering independent quantization of the vacuum fields,
+expressions in terms of the latter just being a placeholder for the former. Pointedly,
+with regard to QED being “the jewel of physics because of its extremely accurate
+predictions,” Jaynes’ position is that “those accurate experimental confirmations of QED
+come from the local source fields, which are coherent with the local state of matter,”
+and that “the quantized free field only tags along (Reference 66).” Jaynes nonetheless
+arrived at a conclusion that one might call Jaynes’ Axiom, namely, “This complete
+
+11 A number of publications by E. T. Jaynes, A. O. Barut and their collaborators are based on the premise that
+second quantization is an unnecessary artifact of an over-idealized formalism.
+
+26
+UNCLASSIFIED/ AEQROEEICIALUS EO ble

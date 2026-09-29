@@ -1,0 +1,48 @@
+UNCLASSIFIED/ fFOA OFFI&il.t..k Y&& 8Ptk\f 
+negative energy or energy condition violations required to build a traversable wormhole 
+spacetime. Investigators have invoked the QI to rule out many of the macroscopic 
+wormhole spacetimes. When generating negative energy the QI postulate that: a) the 
+longer the pulse of negative energy lasts, the weaker it must be; b) a pulse of positive 
+energy must follow and the magnitude of the positive pulse must exceed that of the 
+initial negative pulse; and c) the longer the time interval between the two pulses, the 
+larger the positive pulse must be. This actually sounds quite reasonable on energy 
+conservation grounds until one discovers that the Casimir effect and its non-Maxwellian 
+quantum field analogs violate all three conditions. There are also a number of squeezed 
+vacuum sources and Dirac field states that manifestly violate all three conditions. 
+Cosmological inflation, cosmological particle production, classical scalar fields, the 
+conformal anomaly, and gravitational vacuum polarization are among the many other 
+examples that also violate the QI. Visser (Reference 60) also points out that 
+observational data indicate that large amounts of "exotic matter" are required to exist 
+in the universe in order to account for the observed cosmological evolution parameters. 
+The QI have also not been verified by laboratory experiments. The assumptions used to 
+derive the QI and the efficacy of their derivation for various cases has been called into 
+question by numerous investigators. Krasnikov (Reference 61) constructed an explicit 
+counterexample for generalized FTL spacetimes showing that the relevant QI breaks 
+down even in the simplest FTL cases. And he also addressed Fewster's (Reference 62) 
+technical arguments on this issue. It is important to point out that the Qis have been 
+mainly proven for free massless scalar fields in flat two-dimensional Minkowski 
+spacetime, so there remains the unanswered questions of extending the QI into a four­
+dimensional curved spacetime model (with or without boundar ies) and how much 
+negative energy density can arise for interacting fields. 
+It turns out that Visser and coworkers (Reference 59, 63, 64) developed a superior way 
+to properly quantify the amount of negative energy or energy condition violations 
+required to build a traversab le wormhole spacetime. They propose a quantifier in terms 
+of a spatial volume integral, which amounts to calculating the following definite 
+integrals (Reference 59, 63, 64): 
+(10) 
+with an appropriate choice of the integration measure dV ( = 4n?dr or glf 2drd(:k:J<p, where 
+g = det(gpv) is the matrix determinant of gw), The amount of energy condition violation 
+is defined as the extent to which Equation (10) can become negative. The value of 
+Equation (10) provides information about the total amount of energy condition violating 
+matter that must exist for any given FTL spacetime under study (e.g., warp drives and 
+traversable wormholes). It was further shown that Equation (10) can be adjusted to 
+become vanishingly small by appropriate choice of parameters; therefore, examples 
+can be constructed whereby the energy condition violation can be made arbitrarily 
+small. But the violation cannot be made to vanish entirely. 
+Equation (10) also gives the result that traversable wormholes require arbitrarily small 
+amounts of negative energy to build (whereby Equation (9) serves only as a gross 
+upper limit) such that within a wormhole spacetime (Reference 59): 
+PE= O; fp ,dV ➔ 0 (11) 
+C 
+UNCLASSIFIEQ { {FOR OFFICIAL Y&& 8HLY 
+23

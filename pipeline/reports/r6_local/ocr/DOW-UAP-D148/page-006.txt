@@ -1,0 +1,10 @@
+UNCLASSIFIED/fFOR. QFFIEl.t.L: Uii QD:I! X 
+There are a number of different techniques available to detect hypersonic objects and to 
+determine their position, velocity, and trajectory. These detection methods can be broadly 
+divided into electromagnetic, optical, and acoustic/seismic methods. Each method relies on 
+the properties of the surface of the object to reflect incident radiation or upon the properties 
+of the hot ionized gases caused by the bow shock and entrained into the object's wake. The 
+theory of external fluid flow around objects in subsonic, supersonic, and hyperson ic regimes 
+will be reviewed and various detection methods will be compared in this report. 
+UNCLASSIFIED//EQA: QlililEl.t.L: W&&: O,.L'l 
+2

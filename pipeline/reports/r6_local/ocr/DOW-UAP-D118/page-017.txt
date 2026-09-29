@@ -1,0 +1,46 @@
+UNCLASSIFIED/ /P:eR errtCIAE USE OHLf 
+Quantum computing is another possibility. Qbits were first demonstrated in 1995 by the 
+National Institute of Standards and Technology in Boulder, Colorado, and by the 
+California Institute of Technology in Pasadena. Because computing power increases 
+exponentially with the number of qbits (versus linearly with the number of binary bits), 
+a 64-qbit computer is roughly 18 billion billion times as powerful as a 64-bit binary one. 
+In a quantum, programmable world, the concept of "operations per second" as a 
+computing bottleneck may simply vanish. 
+Opinions vary widely on how smart or intelligent or conscious a machine can ever be, 
+but as IBM's chess champion Deep Blue demonstrates, even a stupid machine can 
+appear brilliant if it runs fast enough. This is known in industry as "weak AI," but with 
+the power of quantum computing behind it, the results could in fact be extremely 
+powerful. 
+Scenario for Possible Applications 
+Imagine a space station in low-Earth orbit. It is in darkness, its running lights blinking, 
+but as it clears the terminator and swings around into full sunlight , we can see that its 
+surface is one big, dead-black solar collector. Its exterior drinks in sunlight, taking 
+some of it as stored heat and pumping the rest into electrical wires, which shuffle it off 
+into a bank of capacitors. If we could see through the hull, we could watch the 
+capacitors swelling-literally growing larger as more energy becomes available and 
+more of the station's mass is allocated to storing it. 
+But we cannot see through the hull, there are no windows, and the station would be 
+completely dark inside if not for dim little nightlights glowing here and there , lighting 
+the way in case someone visits the galley in search of a nighttime snack. Beneath its 
+layer of solar collectors, the hull is one big, opaque insulator, keeping the cold, bright 
+"morning" of outer space at bay. 
+Then, suddenly, the clock strikes 0600 Houston time, and an arrangement of diffusive 
+portholes and mirrors gradually fades into existence, waking each of the station's 
+inhabitants with the gentle morning sunlight. These fenestrations are not stationary; 
+they crawl across the walls as the station moves in its orbit and changes its orientation 
+to the sun. Greeted by the soft voice of the station's central computer, our astronauts 
+awaken. 
+While the astronauts eat their breakfast in a bright little galley, more portholes appear, 
+looking down at Earth and at points of interest in the black sky above it. However, the 
+crew's comfort and privacy are not compromised; through the mirrored glass, ground­
+based and space-based telescopes cannot see inside the station, and the amount of 
+reflectivity is constantly controlled, balancing the needs of daylighting, solar heat gain, 
+and the aesthetics of a good view. In a pinch, the station can even turn "invisible," 
+taking light and heat from one side and emitting a matching signal on the other side. 
+After breakfast, some of the crew settle into office niches to check their email, voice, 
+and video messages. Almost any surface in the station can serve as a desk, keyboard , 
+computer screen, video camera, or drafting table. Others proceed to scientific 
+experiments and routine maintenance activities throughout the station. Portholes and 
+skylights follow them around, but now they are looking out mainly from the station 's 
+UNCLASSIFIED/ /liQR QFFHiiilil'lk Miili G•lkY 
+13

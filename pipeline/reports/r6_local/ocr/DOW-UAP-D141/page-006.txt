@@ -1,0 +1,23 @@
+UNCLASSIFIED/ LEQB.OEELICIAL-USE-O NEY
+
+FIQ“UIE L. CAGMPIS Ul @ MELAMALETIAl VOMIPOMEMILE PMS eneeggerer es Speene nanny eam reeetre (een meager re
+in-plane lattice parameters are ay = a: = 10/3 mm. The ring is square, with edge length | =3 mm and tracewidth w
+= 0.2 mm. The substrate is 381 «m-thick Duroid 5870 (€ = 2.33, ts = 0.0012 at 10 GHz, where tu is the loss
+tangent). The Cu film, from which the SRRs are patterned, is 17 um thick. The parameters r and s are given in the
+table together with the associated value of y-. (Reference 6)
+
+Electric properties of metamaterials can be similarly controlled. An example of a planar
+electrically-active metamaterial is shown in Figure 2.
+
+Figure 2. Example of Another Metamaterial Component: Electric
+Ring Resonator (ERR). This component provides tunable resonant
+electric response to the incident electromagnetic field, and can be
+utilized for engineering the frequency-dependent dielectric
+
+permittivity €(@) . Possible application: THz and microwave absorbers.
+(Reference 7)
+
+“~
+H,y
+
+UNCLASSIFIED/ LEQB.OEELCIAI=USE-ONTY

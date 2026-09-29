@@ -1,0 +1,164 @@
+{
+  "summary": {
+    "generated_at": "2026-09-25T04:39:49.577674+00:00",
+    "production_writes": false,
+    "sources_considered": 5,
+    "sources_skipped_by_classifier": 2,
+    "sources_extracted": 3,
+    "candidate_incidents": 15,
+    "quote_valid_incidents": 1,
+    "quote_rejected_incidents": 14,
+    "duplicate_candidates_review": 0,
+    "new_unique_incidents_local": 1,
+    "note": "Local smoke only \u2014 nothing written to Supabase / Vercel"
+  },
+  "skipped_sources": [
+    {
+      "filename": "DOE-UAP-D002.pdf",
+      "class": "correspondence",
+      "reason": "Letter/correspondence form; no encounter narrative"
+    },
+    {
+      "filename": "DOE-UAP-D003.pdf",
+      "class": "administrative",
+      "reason": "Invitation/agenda/membership/admin content"
+    }
+  ],
+  "validated_incidents": [
+    {
+      "title": "Pantex Unidentified Object Incident",
+      "summary": "An unidentified object was detected and captured on ground surveillance radar at the Pantex facility, with enhanced imaging analysis conducted by Sandia National Labs.",
+      "raw_excerpt": "Image from Ground Surveillance Radar Tower",
+      "occurred_at_text": null,
+      "occurred_at": null,
+      "occurred_at_precision": "unknown",
+      "location_text": "Pantex",
+      "country": "United States",
+      "region": null,
+      "branch": null,
+      "reporting_unit": "Pantex",
+      "sensor_types": [
+        "radar"
+      ],
+      "duration_seconds": null,
+      "altitude_feet": null,
+      "shape_description": null,
+      "size_description": null,
+      "resolution_status": "unresolved",
+      "resolution_notes": null,
+      "source_file_id": "local:DOE-UAP-D001.pdf",
+      "case_id": "UNDATED-DOE-3A0A9F",
+      "slug": "undated-gov-pantex-unidentified-object-incident-3a0a",
+      "extraction_model": "claude-haiku-4-5",
+      "extraction_version": "v1.0",
+      "extracted_at": "2026-09-25T04:38:12.475962+00:00",
+      "source_filename": "DOE-UAP-D001.pdf",
+      "ingestion_state": "validated_local",
+      "source_external_id": "DOE-UAP-D001",
+      "document_class": "incident_report",
+      "duplicate": {
+        "duplicate_status": "new_event",
+        "best_match_case_id": "1956-RAF-3BC0B2",
+        "best_match_score": 0.382,
+        "review_required": false
+      }
+    }
+  ],
+  "rejected_incidents": [
+    {
+      "title": "Green Circular Object at Sary Shagan, USSR",
+      "raw_excerpt": "On one evening in late summer 1973, Source observed an unidentified phenomenon at Site 7. While watching a sport competition between Canada and the USSR on television, he stepped outside for some air and observed an unidentified sharp (bright) green circular object or mass in the sky. The object was situated west of the site at an angle of sighting of approximately 70 degrees.",
+      "reason": "quote_validation_failed",
+      "source_filename": "CIA-UAP-D001.pdf"
+    },
+    {
+      "title": "Green Fireball - July 24, 1949",
+      "raw_excerpt": "A fireball was reported to have passed over the general neighborhood of Socorro, New Mexico, at 8:26 p.m., July 24, 1949. Impactment equipment, developed in connection with the aerosol research project of the New Mexico School of Mines, was available, and it was decided to make systematic collections of airborne material in the hope of obtaining material that could be associated with the fireball.",
+      "reason": "quote_validation_failed",
+      "source_filename": "DOW-UAP-D017.pdf"
+    },
+    {
+      "title": "Green Fireball - January 30, 1949",
+      "raw_excerpt": "In an earlier report it has been pointed out that in spite of air and ground searches in early February along the well determined earth-trace of the green fireball of 1949, January 30th no fragments of this fireball were recovered. There remained the possibility that this fireball had been so completely volatilized during flight that only fine dust from it filtered down through the atmosphere.",
+      "reason": "quote_validation_failed",
+      "source_filename": "DOW-UAP-D017.pdf"
+    },
+    {
+      "title": "Green Fireball - August 6, 1949",
+      "raw_excerpt": "When it was determined that the green fireball of July 24th had descended in the immediate vicinity of Socorro, it was decided to ask Dr. Crozier to attempt collections even though he and his staff were then engaged in the final stages of moving from Albuquerque to their new quarters on the Campus of the New Mexico School of Mines. A long distance call to Dr. Orozier on July 26th brought the welcome news that he had been alerted by an appeal for observations issued by the Institute of Meteoritics on the evening of July 25th and had already made dust collections on the campus at Socorro on the morning of July 25.",
+      "reason": "quote_validation_failed",
+      "source_filename": "DOW-UAP-D017.pdf"
+    },
+    {
+      "title": "Unidentified Aerial Phenomenon - December 22, 1948",
+      "raw_excerpt": "Slight Green Fireball Phenomenon December 22 55 - 1 Unidentified Sandia Base, New Mexico Falling in an arc. Rapid falling 2-3 seconds Faded out",
+      "reason": "quote_validation_failed",
+      "source_filename": "DOW-UAP-D017.pdf"
+    },
+    {
+      "title": "Green fireball over Bernal/Los Alamos, December 12, 1948",
+      "raw_excerpt": "The green fireball of December 12 ~ 9h 2m plus or minus 30s appeared very near at a point with the coordinates latitude 35\u00b0 50', longitude 106\u00b0 40' and disappeared near a point with the coordinates latitude 35\u00b0 45', longitude 107\u00b0 traversing a nearly or exactly horizontal path with a length of very nearly twenty-five (25) miles at an altitude above the surface of the earth of approximately 8 to 10 miles, depending on the estimate of irregular altitude employed in the reduction; the velocity with respect to the earth works out at between 8 and 12 miles a second.",
+      "reason": "quote_validation_failed",
+      "source_filename": "DOW-UAP-D017.pdf"
+    },
+    {
+      "title": "Red-trailed green fireball, December 13, 1948",
+      "raw_excerpt": "The unusual feature of these two incidents is that there were reports of two red lights trailing the green fireball. In each case observers noticed that the trailing lights retained a constant position with respect to each other and to the green light. Also, these two sightings are the only among all the green fireballs where a sharp change of direction in the vertical plane was observed.",
+      "reason": "quote_validation_failed",
+      "source_filename": "DOW-UAP-D017.pdf"
+    },
+    {
+      "title": "Green-white fireball over Los Alamos, December 20, 1948",
+      "raw_excerpt": "It is found that the fireball doubly observed by Messrs. Wilson, Truett, Strang, and Skipper appeared at a height of at least 10 miles and descended at an angle of about 45\u00b0 to the vertical (according to Truett's estimate) to point C at an elevation of only 2.3 miles above the horizontal plane through the point from which Strang and Skipper observed. As the fireball approached point C, its path levelled off and from C to its point of disappearance E, the fireball followed a nearly horizontal path approximately 7.5 miles.",
+      "reason": "quote_validation_failed",
+      "source_filename": "DOW-UAP-D017.pdf"
+    },
+    {
+      "title": "Diamond-shaped object near Ordnance Area, January 6, 1949",
+      "raw_excerpt": "Pfc. Everitt advised that on 6 January 1949 he was guarding a C-97 airplane at the landing strip, located adjacent to the Ordnance Area, when at approximately 1730 hours he noticed a bright object travelling across the sky, from the Southeast towards the Northwest. He related that the object was diamond shaped, approximately two feet long, and appeared to be much brighter in its center than at the edges. He estimated that the object was approximately 1500 to 2000 feet in the air and travelled approximately 500 feet, horizontal to the earth's surface before he lost sight of it.",
+      "reason": "quote_validation_failed",
+      "source_filename": "DOW-UAP-D017.pdf"
+    },
+    {
+      "title": "Large green fireball over New Mexico and Texas, January 30, 1949",
+      "raw_excerpt": "It has been possible to determine that the January 30th fireball became visible at an altitude of approximately twelve miles over a point at latitude Z 34\u00b0, longitude 102\u00b0 5', and disappeared at an altitude of approximately eight miles over a point at latitude 32\u00b0 48', longitude 102\u00b0 22'. After traversing a nearly horizontal path approximately 143 miles long at a velocity of from eight to fourteen miles per second.",
+      "reason": "quote_validation_failed",
+      "source_filename": "DOW-UAP-D017.pdf"
+    },
+    {
+      "title": "Two unidentified lights with directional maneuvers, February 17 and March 27, 1949",
+      "raw_excerpt": "Flight - Both objects performed various maneuvers - consisting of climbing and diving, with turning movements. In each case, reports indicated that the so-called corner maneuvers inexplicable, rather than sound correlation with maneuvers - rather than sound around as would a fireball object. In neither case did investigation reveal any evidence of a jet-propulsion or rocket-type object in the area.",
+      "reason": "quote_validation_failed",
+      "source_filename": "DOW-UAP-D017.pdf"
+    },
+    {
+      "title": "Elliptical aluminum object with billowy flame, March 8, 1949",
+      "raw_excerpt": "The object appeared to be an elliptical, rather stubby, aluminum body surrounded or covered with billowy flame. There may have been projections similar to stubby control surfaces and wings, but the observer could not be sure of this. The observer described the object as looking rather like the part of a war time German airplane from the cockpit aft. It disappeared behind the clouds. The path was slightly descending; there was no noise.",
+      "reason": "quote_validation_failed",
+      "source_filename": "DOW-UAP-D017.pdf"
+    },
+    {
+      "title": "Yellow and red lights at Camp Hood, Texas, March 6-8, 1949",
+      "raw_excerpt": "On 6 March 1949 and 7 March 1949, four unidentified lights appeared in the vicinity of 915.26 . 855. 19, the lights noticed at this time were three yellow and one red. A patrol of Killeen Base, in the 'Q' Area noticed two of these lights. A patrol located on Crossille Mountain, which consisted of four enlisted men of the Army Air Force saw four.",
+      "reason": "quote_validation_failed",
+      "source_filename": "DOW-UAP-D017.pdf"
+    },
+    {
+      "title": "Multiple blinking lights at Camp Hood, March 17-18, 1949",
+      "raw_excerpt": "However, before this operation could be begun, the series of 8 unusual 'lights' appeared. Coordinates of lights and time of sighting follow: [coordinates and times listed]. Coordinates are based on dual sightings of each light by sights on tanks of observers. One burst into a green cluster. One was reddish, another white. One observer described some of them as similar to Very Pistol flares.",
+      "reason": "quote_validation_failed",
+      "source_filename": "DOW-UAP-D017.pdf"
+    }
+  ],
+  "duplicate_triage": [
+    {
+      "case_id": "UNDATED-DOE-3A0A9F",
+      "title": "Pantex Unidentified Object Incident",
+      "source_filename": "DOE-UAP-D001.pdf",
+      "duplicate_status": "new_event",
+      "best_match_case_id": "1956-RAF-3BC0B2",
+      "best_match_score": 0.382,
+      "review_required": false
+    }
+  ]
+}

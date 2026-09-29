@@ -1,0 +1,28 @@
+UNCLASSIFIED/P9R err1e1wt t,9[ l'84Li 
+Aneutronic Fusion Propulsion 
+Summary 
+Controlled fusion energy production has been under development for 60 years. 
+The primary objective has been gaining the ability to create terrestrial power 
+plants using deuterium and tritium as fuel. Unfortunately, this objective has 
+been eluded for both technical and economic reasons. However, the threshold 
+for achieving success in applying fusion to propulsion is considerably relaxed, 
+especially if fuels are used that do not use tritium. Tritium has to be 
+continuously bred; these reactions yield fast neutrons, which require shielding 
+and cause structural materials to be periodically replaced. Such "aneutronic" 
+fusion fuels, such as hydrogen fusing with Boron-11, have been studied 
+extensively for space propulsion applications since the 1980s. 
+This report reviews the basic fusion plasma physics, design concepts that 
+apply aneutronic fusion for propulsion, and the requirements for transitioning 
+to space. The predominant concepts studied include magnetic field reversed 
+configuration, dense plasma focus and inertial electrostatic confinement. All of 
+these concepts have venture capital funded programs for terrestrial fusion 
+power. When applied to space or near-space propulsion, they can exceed the 
+performance of any conventional electric thruster. 
+The future technology development of aneutronic fusion propulsion will 
+initially be motivated by the very large GEO satellites that will be developed in 
+the next 20 years for commercial and military broadband communication. 
+Further development of very-high-power propulsion systems(> 100 kW) to 
+Mars and beyond will require major developments in all technology areas for 
+confinement pulsed power and ion fuel beam accelerators. 
+UNCLASSIFIED/POI\ err1e1111t ~§[ 8F.Llf 
+V

@@ -1,0 +1,73 @@
+UNCLASSIFIED / / FOF-OFFECEHE-USE-ONE—
+
+82.Bath J. and Turberfield A.J. DNA nanomachines. Nature Nanotechnology, VOL 2 :
+MAY 2007.
+
+83.Watson JD, Crick FH. Molecular structure of nucleic acids; a structure for
+
+deoxyribose nucleic acid. Nature. 1953 Apr 25;171(4356):737-8.
+84.Sanger F, Nicklen S, Coulson AR. DNA sequencing with chain-terminating inhibitors.
+Proc Natl Acad Sci US A. 1977 Dec;74(12):5463-7.
+
+85.Saiki RK, Scharf S, Faloona F, Mullis KB, Horn GT, Erlich HA, et al. Enzymatic
+amplification of beta-globin genomic sequences and restriction site analysis for
+diagnosis of sickle cell anemia. Science. 1985 Dec 20;230(4732):1350-4.
+86.Mao, C and Yu, H. Growing millimeter-sized DNA crystals. SPIE Newsroom, April
+2006.
+
+87.Seeman NC. Nucleic acid junctions and lattices J. Theor. Biol. 99 237-47, 1982.
+
+88.Seeman, N. C. De novo design of sequences for nucleic acid structural engineering.
+J. Biomol. Struct. Dyns 8, 573-581, 1990.
+
+89.Carbone A., Seeman NC. Molecular Tiling and DNA Self-assembly. Aspects of
+Molecular Computing. 61-83,
+
+90.Winfree E, Yang X, Seeman NC (1998b) Universal computation via self-assembly of
+DNA: Some theory and experiments. In: Landweber LF, Baum EB, editors. DNA-
+based computers II. Providence, Rhode Island: American Mathematical Society. pp.
+191-213.
+
+91.Winfree E Simulations of computing by self-assembly. Technical report CS-
+TR:1998.22. Pasadena, California: California Institute of Technology. 1998.
+
+92.Wang H. Proving theorems by pattern recognition II. Bell System Tech J 40: 1-42,
+1961.
+
+93.Wang H An unsolvable problem on dominoes. Technical report BL-30 (II-15).
+Cambridge, Massachusetts: Harvard Computation Laboratory.1962.
+
+94.Winfree E., Liu F., Wenzler LA, Seeman N C. Design and Self-Assembly of Two-
+Dimensional DNA Crystals, Nature, VOL 394 6 AUGUST, 1998.
+
+95.Winfree, E. Algorithmic Self-Assembly of DNA: Theoretical Motivations and 2D
+Assembly Experiments. Journal of Biomolecular Structure and Dynamics 11: 263—
+270, 2000.
+
+96.Winfree E. and Bekbolatov R. Proofreading tile sets: Error correction for algorithmic
+self-assembly. In Proceedings of the Ninth International Meeting on DNA Based
+Computers. Madison, Wisconsin, June 2003.
+
+97.Reif, J.H., Sahu, S. and Yin, P. “Compact Error-Resilient Computational DNA Tilings,”
+Nanotechnology Science and Computation (Chen, J. et al. Eds.), Springer-Verlag,
+Berlin Heidelberg, pp. 79-103, 2006.
+
+98.Fujibayashi, K., Murata, S. “A method of error suppression for self-assembling DNA
+tiles,” DNA Computing 10 (Ferretti et al. Eds.), LNCS 3384, Springer- Verlag Berlin
+Heidelberg, pp. 113-127, 2005.
+
+99.Fujibayashi, Yu Zhang D., Winfree E., Murata S. Error Suppression Mechanisms for
+DNA Tile Self-Assembly and their Simulations. Nat Comput. Springer, 2008.
+
+100. Adleman, L.: Molecular Computation of Solutions to Combinatorial Problems,
+Science, Vol.266, pp.1021-1024, 1994.
+
+101. Winfree, E.: Algorithmic Self-Assembly of DNA, Ph.D Thesis, California Institute of
+Technology, 1998.
+
+102. Winfree, E., Yang, X. and Seeman, N. C.: Universal Computation via Self-assembly
+of DNA : Some Theory and Experiments, DNA based Computers 2, DIMACS Series
+in Discrete Mathematics and Theoretical Computer Science, Vol.44, pp.191-
+213,1999.
+
+51 UNCLASSIFIED / sF@R“OPPICIAL USE ONLY

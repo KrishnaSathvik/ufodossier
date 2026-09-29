@@ -1,0 +1,48 @@
+UNCLASSIFIED/ /EOA OFFl&IAl WSE er•tv 
+ION PROPULSION 
+Ion propulsion is a method by which the principles of electromagnetics are exploited to 
+accelerate an ionized gas in a controlled manner. The forces involved to accelerate the 
+plasma, by Newton's third law, act to propel an object such as a rocket or spacecraft 
+along a given path. The classification of the different plasma propulsion designs is 
+somewhat difficult. Some designs involve electrostatic fields only, some use magnetic 
+fields for ionization purposes but not for ion acceleration, and some designs use both 
+electric and magnetic fields for ion acceleration and thrust. In addition, some designs 
+emit ions from a material anode, while other designs use electric and magnetic fields to 
+ionize a gas by one of several methods, for example, by enhancing collisions or by 
+using radiofrequency (RF) waves, to create a plasma . The different classes of plasma 
+propulsion are described in the following subsections. The use of fusion reactions in an 
+ion propulsion device could significantly enhance the energy of the accelerated ions 
+augmenting the net thrust per watt expended. We will examine the methods of plasma 
+ion propulsion that may benefit from aneutronic fusion. 
+Ion Thrusters 
+Ion thrusters typically emit charged particles from an anode or cathode to create an ion 
+population. This population is then accelerated by an electric (and sometimes magnetic) 
+field to generate thrust. Examples of ion thrusters include gridded electrostatic 
+thrusters, Hall effect thrusters, and field-emission electric propulsion systems: 
+Gridded Electrostatic Thrusters. Gridded electrostatic thrusters were originally 
+derived from a duoplasmatron design (which uses electrons from a cathode filament to 
+ionize an introduced gas). Such designs then accelerate and focus ions into a beam, 
+using an electrostatic potential, with a force equal to the ion mass times the strength of 
+the electric field (Coulomb force). An external (to the plasma chamber) electron gun 
+expels electrons into the exhaust to neutralize the system (to keep the spacecraft from 
+charging up, pulling the ions [exhaust] back toward the spacecraft and lowering 
+efficiency dramatically). These designs are typically low thrust and low specific impulse 
+(Isp). 
+Hall Effect Thruster. Hall thrusters use a magnetic field to trap electrons (which are 
+used to ionize the gas) and use an electric field to accelerate ions to create thrust. The 
+electrons also form a virtual cathode, in place of a physical grid, which is used to 
+accelerate the ions. Lastly, electrons are used to neutralize the exhaust. About 30 
+percent of the discharge current is an electron current, which does not produce thrust. 
+This limits the energetic efficiency of the Hall effect thruster. This design can produce a 
+specific impulse of ~1,500 seconds and thrusts of several tens of mN up to ~3 N. 
+Field-Emission Electric Propulsion Systems . A field-emission electric propulsion 
+(FEEP) system uses a very strong electric field to cause metal ions to be emitted from a 
+metal tip. These ions are then electrostatically accelerated to provide thrust. An 
+electron gun neutralizes the exhaust. This is typically a very-low-thrust system. 
+PLASMA THRUSTER 
+Plasma thruster designs usually ionize a gas contained within a chamber, which is then 
+accelerated using electric and magnetic forces (Lorentz force). Examples of plasma 
+thruster designs discussed in the following subsections include magnetoplasmadynamic 
+and Lithium Lorentz Force Accelerator (LiLFA) thrusters, electrodeless thrusters, helicon 
+UNCLASSIFIED/ /EOR OEEiliCili.t.k Wi& 9NlY 
+14

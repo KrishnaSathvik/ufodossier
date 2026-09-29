@@ -1,0 +1,31 @@
+UNCLASSIFIED/ /FOR OPFICIJllt l:ISE 8PUs:lf 
+Biodegradable polymers have been used with computer-based rapid prototyping 
+machines to form porous shapes where t issue cells can ingrow. The result after many 
+weeks of submers ion in tissue culture is that the polymer slowly degrades, leaving the 
+cultured tissue in the shape of the predefined scaffold. Although this approach cannot 
+grow complex organs, like a heart or kidney, that have many different tissues, it can be 
+used to create simple structures of cell products-for example, of cartilage excreted by 
+fibroblast cells. These structures do not create their own networks of blood vessels, a 
+problem whose solution lies in the future. 
+Figure 20 shows CSLA (Crosslinkable Star Lactide-co-Glycolide), a biodegradable 
+polymer deposited into a honeycomb structure by a process not unlike ink-jet printing. 
+The ink-jet pen is supplied with a hot liquid form of the CSLA polymer, which then 
+hardens when it cools and is exposed to the air. Using a computer to rewrite successive 
+layers on top of one another, a three-dimensional structure is built. 
+Figure 20. Biodegradable Material CSLG Deposited in a Honeycomb Structure to Allow Infiltration by 
+Living Cells While in a Submerged Cell Culture 
+CARDIOVASCULAR BIOMATERIALS 
+Biomaterials are often made into medical devices rather than being sold in raw form. 
+Among the largest and most demanding of all biomaterial applications are devices that 
+come into direct contact with blood. In general, various derivatives of Teflon and 
+silicone are the most widely used for blood contact, while metals and ceramics are more 
+often used in tissues. 
+Cardiovascular (heart and blood vessel) applications are one of the most important 
+categories of implant biomaterials. Biomaterials for cardiovascular applications are 
+usually prepared using polymers, because polymers are available in a wide variety of 
+compos itions with adequate physical and mechanical properties and can easily be 
+manufactured into products with the desired shape. In addition, some metals and 
+ceramics are used in the blood stream . Figure 21 lists some of the common 
+cardiovascular devices and how long they are in contact with blood. 
+UNCLASSIFIED/ /FOR OFFICIO~ 11&5 QNla:lf 
+15

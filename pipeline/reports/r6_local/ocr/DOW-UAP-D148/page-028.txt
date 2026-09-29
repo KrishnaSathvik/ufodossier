@@ -1,0 +1,37 @@
+UNCLASSIFIED/fFOR. QFFIEIA.L: Ulii Qt!! X 
+LIDAR. By attaching a rotat ing mirror to vary the direction of the laser beam, it is possible to 
+traverse the laser across surfaces to develop 3-D maps of objects using "imaging LIDAR." As 
+an example, during the DARPA challenge held in the Nevada desert in 2005, autonomous 
+automobiles used LIDAR to build a map of all objects in front of the vehicle and used it for 
+collision avoidance and navigation. LIDAR systems have also been used to obtain accurate 
+maps of the surface of mars from the Mars Orbiting Global Surveyer. LIDAR systems for 
+meteorological studies are often mounted in aircraft and fired from the side of the fuselage to 
+obtain a two-dimensional horizontal map of the atmospher ic condit ions. 
+A measurement technique known as Laser Doppler Velocimetry (LDV) uses the Doppler shift 
+in the transmitted and reflected laser light to measure the velocity of the target and the 
+properties of the air along the axis of the laser beam. 
+LIDAR systems using pulsed YAG lasers are capable of measur ing many propert ies of air 
+along the path of the laser beam. As shown in Figure 17, if a laser pulse is fired toward a 
+distant target, light is reflected from particles in the atmosphere and this light is collected 
+through a beamsplitter and directed to a photodetector. By knowing the time interval 
+between generation of the laser pulse and the time that each reflected signal is received, the 
+distance along the beam can be accurately determined for each data set. By recording this 
+optical information as a function of time, using Raman spectroscopy, particle light scattering, 
+and absorption theory, multiple properties of the air and particles in the air along the path of 
+the laser can be measured as a function of distance from the transmitter. Particle density, 
+velocity, and chemical species can be measured using pulsed LIDAR systems. Concentration 
+of airborne gas species (oxygen, nitrogen), air temperature, and air velocity can also be 
+measured in this fashion. 
+v(x, YI 
+~ 
+v(x,y) 
+~ X,Y 
+v(x.y) ~ 
+v(x,y) 
+Laser Beam 
+Supel50fliC 
+Vehicle and 
+Turbulent Wake 
+Figure 17. Schematic of a Pulsed LIDAR System. 
+UNCLASSIFIED//FQR QfifilEIA.k W&li O,.L\f 
+24

@@ -1,0 +1,51 @@
+UNCLASSIFIED/ /EAR Q6fi1Clt.k Ulilii QptL\f 
+overhaul was necessary. It, too, met its end in a government-terminated program, lost 
+to future space launcher designe rs. 
+Two air-breath ing rocket propulsion systems permit exam ination of a rocket-powered 
+vehicle as an operationally viable commercial system with low-noise airport operation, 
+reduced operational weight, and global deployability for a space-based FedEx or UPS 
+(cargo is economically viable, passengers yet to be determined). The earliest of these 
+is a rocket system that operates as an air-breathing rocket below mach 5.5. This 
+concept dates to the late 1950s and the Marquardt Company. The terminat ion of the 
+first aerospace plane halted this work, but John Ahern 15 continued his work, as did John 
+Leingang 16 at the U.S. Air Force Aero Propulsion Laboratory . Much of Leingang's work 
+was kept out of the techn ical literature in the 1960s, so th is is a current reference 
+establishing that earlier work. John Ahern was one of the first analyzers of the Liquid 
+Air Cycle Engine (LACE) concept, and one who identified the sources of irreversibility 
+and approaches to minimize them. In Russia, Keldesh Institute independently began, 
+conduct ing experiments with LACE systems, as reported at the 2002 conference 
+sponsored by the Association Aeronautique et Astronautique de France and also by 
+Rudakov17• 18 and Balepin. 19 In Japan, NAL Mitsubishi and ISAS conducted experiments 
+that were leading to an air-breathing rocket system, and an impressive, ice-free, 1-
+cubic-meter liquefying heat exchanger was demonstrated for the NASP visiting team in 
+1988. 20, 21 With only one hydrogen test stand in Sendi, LACE development was 
+deferred until the problems with the H-1 engine were solved. However, by then 
+interest was lost. In India, research organizat ions used all of the published LACE 
+documents to arrive at a credib le system configuration and performance. 22 
+Unfortunately, India at the time did not have the manufacturing skill and methods to 
+make a functional LACE System. 
+There are two types of air-breath ing rockets, both of which are based on using the 
+recoverable energy in the liquid hydrogen to drive the systems, as diagrammed in 
+Figure 29. In both systems, the liquid hydrogen absorbs the thermal energy in the inlet 
+air stream to reduce the air temperature to nearly saturation in an upstream heat 
+exchanger. In the LACE, as the name implies, a second heat exchanger liquefies the 
+cold gas and a turbopump pressurizes the liquid air to the correct working pressure 
+required by the rocket motor. The thermal energy is picked up by the hydrogen in 
+cooling the gas, and the rocket (including the combustion chamber) is used to drive the 
+expansion turb ines powering the turbopumps (left sketch in Figure 29). In the 
+Japanese system, a low-pressure ratio compressor pressurizes the cold gas before it 
+enters into the downstream heat exchanger, increasing the quantity of liquid air 
+produced per unit liquid hydrogen. With a heat exchanger in the rocket motor 
+combustion chamber, there is suffic ient thermal energy to power the expansion 
+turbines compressing the saturated or liquid air and deeply cool or liquefy the incoming 
+air to at least mach 5.5. In the deeply cooled system (Rudakov and Balepin), a 
+turbocomp ressor compresses the cold gas to the injection pressure required by the 
+rocket motor. The thermal energy picked up by the hydrogen in cooling the gas and 
+the rocket (including the combustion chamber) is used to drive the expansion turbines 
+powering the turbocompressor (right sketch in Figure 29) . One of the difficulties with 
+Bond's HOTOL (hor izontal takeoff and landing) engine compared with Rudakov and 
+Balepin was that HOTOL avoided the combustion heat exchanger at the expense of 
+having the air-breathing rocket operate to less than mach 4, increasing the to-orbit 
+weight ratio and gross weight and thereby making the concept less viable. In both 
+UNCLASSIFIED/ ,,roA. OfifilCIOk flili ODIL¥ 
+26

@@ -1,0 +1,48 @@
+UNCLASSIFIED/ /FOR 8FFI€iIAL YSE 8,.LV 
+currently 22 electrodes directly implanted into the cochlea of the inner ear. The 
+microphone and sound processor replaces the outer and middle ear, while the 
+electrodes replace the frequency selective hair fibers of the inner ear that normally 
+would transmit electrical signals to the cochlea. The quality of the sound is much less 
+than natural hearing, but the only option for patients who have lost hearing or were 
+born deaf. It has been estimated that 100,000 cochlear implants provide sound to users 
+worldwide (Reference 37). The cochlear implant is an open loop stimulation system that 
+provides complex signals to the nervous system through a peripheral connection. 
+BMI technologies have evolved from assistive technology devices solely targeted for the 
+healthcare industry, into apparatuses designed for intracortical microstimulation to 
+deliver sensory feedback. Such systems allow the simultaneous recording and 
+microstimulation of neuronal and behavioral events. The primary device that has 
+emerged leading this technological transformation is the direct cortical array containing 
+either surface or neocortex penetrating electrodes. The direct cortical array is implanted 
+on the surface of the brain near the functional area of interest, and then the connection 
+is reverse-engineered: individual electrodes are tested to determine if they should be 
+assigned as input, output, or neither. 12 These devices are designed to fuse neural 
+signaling pathways with external machinery into a 3D control system, such as those 
+apparatuses designed to modulate the movement of appendages (e.g. robotic arms), 
+though the signals could be used for control of any complex machine. The control 
+circuits on these systems are intricate and often bulky, and they can be designed with 
+either open- or closed-loop sensory feedback. 
+An additional device is the penetrating cortical electrode. These electrodes contain a 
+ladder of input/output probes and can be selected to transmit or receive signals in any 
+layer of the neocortex. Research is ongoing regarding the optimal layer with which to 
+place an interface. When using penetrating electrodes, tissue response is an additional 
+challenge as these devices frequently cause scarring. Animal studies are in progress to 
+quantify this effect. 
+Technological challenges in development of all types of invasive BMI devices include 
+signal decoding/stimulation algorithms, and localization of brain activation near the 
+implant. Functional MRI (fMRI) is utilized in conjunction with the invasive implants to 
+confirm additional neural network activity during interface tasks. Modifications in the 
+design of electrodes is necessary for experiments involving fMRI (Reference 38). 13 
+The majority of invasive experiments to date use animal or even tissue models, though 
+a few human trials have been conducted (with the exception of the cochlear implant 
+described above) . 
+OPEN-LOOP DIRECT CORTICAL ARRAY ALGORITHM MODELING 
+In traditional open loop experiments, eye movement systems are utilized to develop a 
+linear model for a physiological system. 14 In such experiments, invasive signals are 
+recorded from the cortex and the motion of the eye is recorded in tandem. The location 
+t i This procedure eliminates the need to directly locate the neuron(s) of interest during implantation . 
+13 Field potentials at the points of metal electrodes cause concentration of RF energy from the excitation pulses of 
+the MRI. This effect is used in a similar setup for tissue ablation therapy; however, such energy concentration is 
+undesirable in the studies at hand . 
+1• These techniques may be generally applied to any motor control systems. 
+UNCLASSIFIED/ /FOR. 8fPltlAL U.91!! f>flt I 
+11

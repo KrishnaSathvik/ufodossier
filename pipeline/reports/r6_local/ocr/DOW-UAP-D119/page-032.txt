@@ -1,0 +1,50 @@
+UNCLASSIFIED/ /FOR. Ol'l'ICIAL USE ONLY 
+Dialysis works on the principles of 
+natural diffu sion of metabolic waste 
+products in the blood across a 
+semipermeable membrane . Waste 
+products in high concentration in the 
+blood will diffuse across the 
+membrane. The membrane allows the 
+passage of certain-sized molecules 
+across it but prevents the passage of 
+other, larger molecules of the blood, 
+thus helping to get rid of waste 
+products. Figure 31 illustrates this 
+idea. The blood cells are kept on the 
+outside of the membrane (orange) 
+while waste product solutes (violet 
+and yellow dots) pass through . 
+Advances in bioengineering and in the 
+technical aspects of dialysis machines have made hemodialys is a safe and effective 
+procedure. 
+The design of dialyzers is primarily an exercise in biomaterial selection. Biomembrane 
+materials play the critical role in cleansing the blood, but they must not damage the 
+blood or provoke thrombus. The most common biomaterial used in dialyzers is a 
+semipermeable membrane made of cellulose acetate trade-named Cuprophane ™. 
+Dialyzer membranes come with different pore sizes. Nanotechnology is being used in 
+some of the most recent high-flux membranes to create a uniform pore size. The goal 
+of high-flux membranes is to pass relatively large molecules, such as beta-2-
+microglobulin (MW 11,600 daltons), but not albumin (MW ~66,400 daltons). Dialysis 
+membrane materials are crucial to the practical performance of medical hemodialysis 
+systems. These systems/materia ls support the survival of milli ons of people in kidney 
+failure that undergo routine dialysis, usually for several hours during the day and three 
+to four times a week. 
+Summary and Recommendations 
+The performance of biomaterials underl ies the success of many medical devices that 
+must be acceptable to body tissues. These materials often serve critical-perhaps life­
+and-death-functions and, so, require large amounts of money and time to rigorously 
+test. This appears to be the reason the biomedical industry is slow to produce and 
+accept new materials. 
+Existing materials for implants are generally based on materials that have been 
+available for more than 20 years. Biodegradable materials, particularly the polylactide 
+and glycolide, have a long history of safe and effective use. Building on this solid 
+foundation, most of the innovation is occurring in devising new ways to embody the 
+materials and apply them to new applications. Thus, the markets are expanding for 
+biomateri als, and physicians can look forward to new products that will help speed 
+patient recovery. 
+UNCLASSIFIED/ {FOR OFFICIO ls. Ulilii &HLY 
+Figure 29. Cuprophane Membrane Passes Blood Waste 
+Products (Violet and Orange Dots) Through Pores and 
+Blocks Passage of Red Blood Cells 
+25

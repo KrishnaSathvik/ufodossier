@@ -1,0 +1,954 @@
+{
+  "filename": "FBI-UAP-D013.pdf",
+  "generated_at": "2026-09-25T22:05:51.753995+00:00",
+  "page_count": 55,
+  "usable_text_chars": 51666,
+  "stats": {
+    "native_good": 0,
+    "native_thin": 1,
+    "needs_ocr": 54,
+    "ocr_failed": 3,
+    "ocr_succeeded": 51,
+    "pages_ocrd": 54,
+    "ocr_unrecoverable_thumbnail": 0
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "native_quality": {
+        "page_number": 1,
+        "native_char_count": 197,
+        "printable_ratio": 0.929,
+        "alpha_ratio": 0.33,
+        "word_count": 12,
+        "replacement_char_count": 0,
+        "category": "native_thin",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.17, clean=0.17))"
+      },
+      "final_category": "native_thin",
+      "text_method": "tesseract",
+      "char_count": 242,
+      "text": ""
+    },
+    {
+      "page_number": 2,
+      "native_quality": {
+        "page_number": 2,
+        "native_char_count": 111,
+        "printable_ratio": 0.973,
+        "alpha_ratio": 0.45,
+        "word_count": 10,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.13, clean=0.39))"
+      },
+      "final_category": "native_good",
+      "text_method": "tesseract",
+      "char_count": 233,
+      "text": ""
+    },
+    {
+      "page_number": 3,
+      "native_quality": {
+        "page_number": 3,
+        "native_char_count": 817,
+        "printable_ratio": 0.947,
+        "alpha_ratio": 0.438,
+        "word_count": 87,
+        "replacement_char_count": 0,
+        "category": "native_thin",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.34, clean=0.35))"
+      },
+      "final_category": "native_thin",
+      "text_method": "tesseract",
+      "char_count": 225,
+      "text": ""
+    },
+    {
+      "page_number": 4,
+      "native_quality": {
+        "page_number": 4,
+        "native_char_count": 53,
+        "printable_ratio": 1.0,
+        "alpha_ratio": 0.17,
+        "word_count": 2,
+        "replacement_char_count": 0,
+        "category": "native_thin",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.21, clean=0.00))"
+      },
+      "final_category": "native_thin",
+      "text_method": "tesseract",
+      "char_count": 138,
+      "text": ""
+    },
+    {
+      "page_number": 5,
+      "native_quality": {
+        "page_number": 5,
+        "native_char_count": 39,
+        "printable_ratio": 0.897,
+        "alpha_ratio": 0.359,
+        "word_count": 4,
+        "replacement_char_count": 0,
+        "category": "native_thin",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.29, clean=0.14))"
+      },
+      "final_category": "native_thin",
+      "text_method": "tesseract",
+      "char_count": 21,
+      "text": ""
+    },
+    {
+      "page_number": 6,
+      "native_quality": {
+        "page_number": 6,
+        "native_char_count": 46,
+        "printable_ratio": 1.0,
+        "alpha_ratio": 0.326,
+        "word_count": 3,
+        "replacement_char_count": 0,
+        "category": "native_thin",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.38, clean=0.25))"
+      },
+      "final_category": "native_thin",
+      "text_method": "tesseract",
+      "char_count": 41,
+      "text": ""
+    },
+    {
+      "page_number": 7,
+      "native_quality": {
+        "page_number": 7,
+        "native_char_count": 138,
+        "printable_ratio": 0.978,
+        "alpha_ratio": 0.261,
+        "word_count": 8,
+        "replacement_char_count": 0,
+        "category": "native_thin",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.22, clean=0.13))"
+      },
+      "final_category": "native_thin",
+      "text_method": "tesseract",
+      "char_count": 162,
+      "text": ""
+    },
+    {
+      "page_number": 8,
+      "native_quality": {
+        "page_number": 8,
+        "native_char_count": 54,
+        "printable_ratio": 0.963,
+        "alpha_ratio": 0.704,
+        "word_count": 7,
+        "replacement_char_count": 0,
+        "category": "native_thin",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.33, clean=0.56))"
+      },
+      "final_category": "native_thin",
+      "text_method": "tesseract",
+      "char_count": 76,
+      "text": ""
+    },
+    {
+      "page_number": 9,
+      "native_quality": {
+        "page_number": 9,
+        "native_char_count": 431,
+        "printable_ratio": 0.903,
+        "alpha_ratio": 0.109,
+        "word_count": 9,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.14, clean=0.05))"
+      },
+      "final_category": "native_good",
+      "text_method": "tesseract",
+      "char_count": 1196,
+      "text": ""
+    },
+    {
+      "page_number": 10,
+      "native_quality": {
+        "page_number": 10,
+        "native_char_count": 2107,
+        "printable_ratio": 0.96,
+        "alpha_ratio": 0.44,
+        "word_count": 245,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.37, clean=0.44))"
+      },
+      "final_category": "native_good",
+      "text_method": "tesseract",
+      "char_count": 1807,
+      "text": ""
+    },
+    {
+      "page_number": 11,
+      "native_quality": {
+        "page_number": 11,
+        "native_char_count": 2509,
+        "printable_ratio": 0.928,
+        "alpha_ratio": 0.349,
+        "word_count": 221,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.43, clean=0.28))"
+      },
+      "final_category": "native_good",
+      "text_method": "tesseract",
+      "char_count": 2223,
+      "text": ""
+    },
+    {
+      "page_number": 12,
+      "native_quality": {
+        "page_number": 12,
+        "native_char_count": 1765,
+        "printable_ratio": 0.96,
+        "alpha_ratio": 0.5,
+        "word_count": 209,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.45, clean=0.37))"
+      },
+      "final_category": "native_good",
+      "text_method": "tesseract",
+      "char_count": 1426,
+      "text": ""
+    },
+    {
+      "page_number": 13,
+      "native_quality": {
+        "page_number": 13,
+        "native_char_count": 232,
+        "printable_ratio": 0.927,
+        "alpha_ratio": 0.052,
+        "word_count": 3,
+        "replacement_char_count": 0,
+        "category": "native_thin",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.17, clean=0.04))"
+      },
+      "final_category": "native_thin",
+      "text_method": "tesseract",
+      "char_count": 23,
+      "text": ""
+    },
+    {
+      "page_number": 14,
+      "native_quality": {
+        "page_number": 14,
+        "native_char_count": 1016,
+        "printable_ratio": 0.954,
+        "alpha_ratio": 0.335,
+        "word_count": 89,
+        "replacement_char_count": 0,
+        "category": "native_thin",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.56, clean=0.30))"
+      },
+      "final_category": "native_thin",
+      "text_method": "tesseract",
+      "char_count": 24,
+      "text": ""
+    },
+    {
+      "page_number": 15,
+      "native_quality": {
+        "page_number": 15,
+        "native_char_count": 461,
+        "printable_ratio": 0.902,
+        "alpha_ratio": 0.104,
+        "word_count": 13,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.24, clean=0.06))"
+      },
+      "final_category": "native_good",
+      "text_method": "tesseract",
+      "char_count": 1205,
+      "text": ""
+    },
+    {
+      "page_number": 16,
+      "native_quality": {
+        "page_number": 16,
+        "native_char_count": 825,
+        "printable_ratio": 0.874,
+        "alpha_ratio": 0.105,
+        "word_count": 14,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "ocr_replaced_native (high replacement/mojibake density)"
+      },
+      "final_category": "native_good",
+      "text_method": "tesseract",
+      "char_count": 2098,
+      "text": ""
+    },
+    {
+      "page_number": 17,
+      "native_quality": {
+        "page_number": 17,
+        "native_char_count": 33,
+        "printable_ratio": 0.97,
+        "alpha_ratio": 0.333,
+        "word_count": 3,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.25, clean=0.50))"
+      },
+      "final_category": "native_good",
+      "text_method": "tesseract",
+      "char_count": 278,
+      "text": ""
+    },
+    {
+      "page_number": 18,
+      "native_quality": {
+        "page_number": 18,
+        "native_char_count": 223,
+        "printable_ratio": 0.879,
+        "alpha_ratio": 0.094,
+        "word_count": 6,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "ocr_replaced_native (high replacement/mojibake density)"
+      },
+      "final_category": "native_good",
+      "text_method": "tesseract",
+      "char_count": 905,
+      "text": ""
+    },
+    {
+      "page_number": 19,
+      "native_quality": {
+        "page_number": 19,
+        "native_char_count": 1084,
+        "printable_ratio": 0.933,
+        "alpha_ratio": 0.159,
+        "word_count": 47,
+        "replacement_char_count": 0,
+        "category": "native_thin",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.19, clean=0.07))"
+      },
+      "final_category": "native_thin",
+      "text_method": "tesseract",
+      "char_count": 648,
+      "text": ""
+    },
+    {
+      "page_number": 20,
+      "native_quality": {
+        "page_number": 20,
+        "native_char_count": 2467,
+        "printable_ratio": 0.908,
+        "alpha_ratio": 0.264,
+        "word_count": 151,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.28, clean=0.17))"
+      },
+      "final_category": "native_good",
+      "text_method": "tesseract",
+      "char_count": 1128,
+      "text": ""
+    },
+    {
+      "page_number": 21,
+      "native_quality": {
+        "page_number": 21,
+        "native_char_count": 109,
+        "printable_ratio": 0.954,
+        "alpha_ratio": 0.376,
+        "word_count": 11,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.32, clean=0.21))"
+      },
+      "final_category": "native_good",
+      "text_method": "tesseract",
+      "char_count": 872,
+      "text": ""
+    },
+    {
+      "page_number": 22,
+      "native_quality": {
+        "page_number": 22,
+        "native_char_count": 1495,
+        "printable_ratio": 0.986,
+        "alpha_ratio": 0.668,
+        "word_count": 216,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.13, clean=0.63))"
+      },
+      "final_category": "native_good",
+      "text_method": "tesseract",
+      "char_count": 1284,
+      "text": ""
+    },
+    {
+      "page_number": 23,
+      "native_quality": {
+        "page_number": 23,
+        "native_char_count": 41,
+        "printable_ratio": 1.0,
+        "alpha_ratio": 0.293,
+        "word_count": 3,
+        "replacement_char_count": 0,
+        "category": "native_thin",
+        "reason": "ocr_replaced_native (below native usability thresholds)"
+      },
+      "final_category": "native_thin",
+      "text_method": "tesseract",
+      "char_count": 31,
+      "text": ""
+    },
+    {
+      "page_number": 24,
+      "native_quality": {
+        "page_number": 24,
+        "native_char_count": 813,
+        "printable_ratio": 0.943,
+        "alpha_ratio": 0.212,
+        "word_count": 41,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.32, clean=0.11))"
+      },
+      "final_category": "native_good",
+      "text_method": "tesseract",
+      "char_count": 1450,
+      "text": ""
+    },
+    {
+      "page_number": 25,
+      "native_quality": {
+        "page_number": 25,
+        "native_char_count": 1394,
+        "printable_ratio": 0.916,
+        "alpha_ratio": 0.201,
+        "word_count": 69,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.23, clean=0.13))"
+      },
+      "final_category": "native_good",
+      "text_method": "tesseract",
+      "char_count": 2317,
+      "text": ""
+    },
+    {
+      "page_number": 26,
+      "native_quality": {
+        "page_number": 26,
+        "native_char_count": 68,
+        "printable_ratio": 0.985,
+        "alpha_ratio": 0.441,
+        "word_count": 6,
+        "replacement_char_count": 0,
+        "category": "native_thin",
+        "reason": "thin but printable native text (caption/short page)"
+      },
+      "final_category": "native_thin",
+      "text_method": "native",
+      "char_count": 68,
+      "text": ""
+    },
+    {
+      "page_number": 27,
+      "native_quality": {
+        "page_number": 27,
+        "native_char_count": 915,
+        "printable_ratio": 0.946,
+        "alpha_ratio": 0.317,
+        "word_count": 75,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.36, clean=0.21))"
+      },
+      "final_category": "native_good",
+      "text_method": "tesseract",
+      "char_count": 1631,
+      "text": ""
+    },
+    {
+      "page_number": 28,
+      "native_quality": {
+        "page_number": 28,
+        "native_char_count": 178,
+        "printable_ratio": 0.933,
+        "alpha_ratio": 0.129,
+        "word_count": 2,
+        "replacement_char_count": 0,
+        "category": "native_thin",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.25, clean=0.00))"
+      },
+      "final_category": "native_thin",
+      "text_method": "tesseract",
+      "char_count": 56,
+      "text": ""
+    },
+    {
+      "page_number": 29,
+      "native_quality": {
+        "page_number": 29,
+        "native_char_count": 641,
+        "printable_ratio": 0.995,
+        "alpha_ratio": 0.58,
+        "word_count": 93,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.25, clean=0.40))"
+      },
+      "final_category": "native_good",
+      "text_method": "tesseract",
+      "char_count": 610,
+      "text": ""
+    },
+    {
+      "page_number": 30,
+      "native_quality": {
+        "page_number": 30,
+        "native_char_count": 2004,
+        "printable_ratio": 0.948,
+        "alpha_ratio": 0.436,
+        "word_count": 217,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.37, clean=0.36))"
+      },
+      "final_category": "native_good",
+      "text_method": "tesseract",
+      "char_count": 1518,
+      "text": ""
+    },
+    {
+      "page_number": 31,
+      "native_quality": {
+        "page_number": 31,
+        "native_char_count": 3033,
+        "printable_ratio": 0.943,
+        "alpha_ratio": 0.433,
+        "word_count": 337,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.39, clean=0.37))"
+      },
+      "final_category": "native_good",
+      "text_method": "tesseract",
+      "char_count": 2089,
+      "text": ""
+    },
+    {
+      "page_number": 32,
+      "native_quality": {
+        "page_number": 32,
+        "native_char_count": 1775,
+        "printable_ratio": 0.9,
+        "alpha_ratio": 0.239,
+        "word_count": 114,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.34, clean=0.14))"
+      },
+      "final_category": "native_good",
+      "text_method": "tesseract",
+      "char_count": 2338,
+      "text": ""
+    },
+    {
+      "page_number": 33,
+      "native_quality": {
+        "page_number": 33,
+        "native_char_count": 841,
+        "printable_ratio": 0.932,
+        "alpha_ratio": 0.422,
+        "word_count": 97,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "ocr_replaced_native (soft-hyphen density (2) suggests scanned text layer)"
+      },
+      "final_category": "native_good",
+      "text_method": "tesseract",
+      "char_count": 657,
+      "text": ""
+    },
+    {
+      "page_number": 34,
+      "native_quality": {
+        "page_number": 34,
+        "native_char_count": 655,
+        "printable_ratio": 0.921,
+        "alpha_ratio": 0.176,
+        "word_count": 28,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.29, clean=0.08))"
+      },
+      "final_category": "native_good",
+      "text_method": "tesseract",
+      "char_count": 607,
+      "text": ""
+    },
+    {
+      "page_number": 35,
+      "native_quality": {
+        "page_number": 35,
+        "native_char_count": 959,
+        "printable_ratio": 0.93,
+        "alpha_ratio": 0.241,
+        "word_count": 49,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.24, clean=0.15))"
+      },
+      "final_category": "native_good",
+      "text_method": "tesseract",
+      "char_count": 398,
+      "text": ""
+    },
+    {
+      "page_number": 36,
+      "native_quality": {
+        "page_number": 36,
+        "native_char_count": 205,
+        "printable_ratio": 0.932,
+        "alpha_ratio": 0.054,
+        "word_count": 1,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.40, clean=0.00))"
+      },
+      "final_category": "native_good",
+      "text_method": "tesseract",
+      "char_count": 368,
+      "text": ""
+    },
+    {
+      "page_number": 37,
+      "native_quality": {
+        "page_number": 37,
+        "native_char_count": 1782,
+        "printable_ratio": 0.927,
+        "alpha_ratio": 0.314,
+        "word_count": 135,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.23, clean=0.21))"
+      },
+      "final_category": "native_good",
+      "text_method": "tesseract",
+      "char_count": 1246,
+      "text": ""
+    },
+    {
+      "page_number": 38,
+      "native_quality": {
+        "page_number": 38,
+        "native_char_count": 34,
+        "printable_ratio": 1.0,
+        "alpha_ratio": 0.353,
+        "word_count": 5,
+        "replacement_char_count": 0,
+        "category": "ocr_failed",
+        "reason": "ocr returned empty; keeping native"
+      },
+      "final_category": "ocr_failed",
+      "text_method": "native",
+      "char_count": 34,
+      "text": ""
+    },
+    {
+      "page_number": 39,
+      "native_quality": {
+        "page_number": 39,
+        "native_char_count": 2639,
+        "printable_ratio": 0.994,
+        "alpha_ratio": 0.687,
+        "word_count": 443,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.09, clean=0.49))"
+      },
+      "final_category": "native_good",
+      "text_method": "tesseract",
+      "char_count": 3388,
+      "text": ""
+    },
+    {
+      "page_number": 40,
+      "native_quality": {
+        "page_number": 40,
+        "native_char_count": 216,
+        "printable_ratio": 0.894,
+        "alpha_ratio": 0.097,
+        "word_count": 7,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.15, clean=0.02))"
+      },
+      "final_category": "native_good",
+      "text_method": "tesseract",
+      "char_count": 2081,
+      "text": ""
+    },
+    {
+      "page_number": 41,
+      "native_quality": {
+        "page_number": 41,
+        "native_char_count": 170,
+        "printable_ratio": 0.847,
+        "alpha_ratio": 0.124,
+        "word_count": 4,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "ocr_replaced_native (high replacement/mojibake density)"
+      },
+      "final_category": "native_good",
+      "text_method": "tesseract",
+      "char_count": 1812,
+      "text": ""
+    },
+    {
+      "page_number": 42,
+      "native_quality": {
+        "page_number": 42,
+        "native_char_count": 775,
+        "printable_ratio": 0.968,
+        "alpha_ratio": 0.595,
+        "word_count": 119,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.19, clean=0.59))"
+      },
+      "final_category": "native_good",
+      "text_method": "tesseract",
+      "char_count": 747,
+      "text": ""
+    },
+    {
+      "page_number": 43,
+      "native_quality": {
+        "page_number": 43,
+        "native_char_count": 187,
+        "printable_ratio": 0.968,
+        "alpha_ratio": 0.561,
+        "word_count": 28,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.48, clean=0.41))"
+      },
+      "final_category": "native_good",
+      "text_method": "tesseract",
+      "char_count": 1164,
+      "text": ""
+    },
+    {
+      "page_number": 44,
+      "native_quality": {
+        "page_number": 44,
+        "native_char_count": 989,
+        "printable_ratio": 0.929,
+        "alpha_ratio": 0.367,
+        "word_count": 85,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.36, clean=0.27))"
+      },
+      "final_category": "native_good",
+      "text_method": "tesseract",
+      "char_count": 1330,
+      "text": ""
+    },
+    {
+      "page_number": 45,
+      "native_quality": {
+        "page_number": 45,
+        "native_char_count": 34,
+        "printable_ratio": 0.912,
+        "alpha_ratio": 0.265,
+        "word_count": 2,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.17, clean=0.17))"
+      },
+      "final_category": "native_good",
+      "text_method": "tesseract",
+      "char_count": 1129,
+      "text": ""
+    },
+    {
+      "page_number": 46,
+      "native_quality": {
+        "page_number": 46,
+        "native_char_count": 112,
+        "printable_ratio": 0.991,
+        "alpha_ratio": 0.357,
+        "word_count": 10,
+        "replacement_char_count": 0,
+        "category": "ocr_failed",
+        "reason": "ocr returned empty; keeping native"
+      },
+      "final_category": "ocr_failed",
+      "text_method": "native",
+      "char_count": 112,
+      "text": ""
+    },
+    {
+      "page_number": 47,
+      "native_quality": {
+        "page_number": 47,
+        "native_char_count": 568,
+        "printable_ratio": 0.933,
+        "alpha_ratio": 0.178,
+        "word_count": 23,
+        "replacement_char_count": 0,
+        "category": "native_thin",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.34, clean=0.10))"
+      },
+      "final_category": "native_thin",
+      "text_method": "tesseract",
+      "char_count": 38,
+      "text": ""
+    },
+    {
+      "page_number": 48,
+      "native_quality": {
+        "page_number": 48,
+        "native_char_count": 119,
+        "printable_ratio": 0.941,
+        "alpha_ratio": 0.261,
+        "word_count": 7,
+        "replacement_char_count": 0,
+        "category": "native_thin",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.29, clean=0.10))"
+      },
+      "final_category": "native_thin",
+      "text_method": "tesseract",
+      "char_count": 231,
+      "text": ""
+    },
+    {
+      "page_number": 49,
+      "native_quality": {
+        "page_number": 49,
+        "native_char_count": 248,
+        "printable_ratio": 0.972,
+        "alpha_ratio": 0.04,
+        "word_count": 2,
+        "replacement_char_count": 0,
+        "category": "ocr_failed",
+        "reason": "ocr returned empty; keeping native"
+      },
+      "final_category": "ocr_failed",
+      "text_method": "native",
+      "char_count": 248,
+      "text": ""
+    },
+    {
+      "page_number": 50,
+      "native_quality": {
+        "page_number": 50,
+        "native_char_count": 263,
+        "printable_ratio": 0.905,
+        "alpha_ratio": 0.053,
+        "word_count": 5,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.25, clean=0.02))"
+      },
+      "final_category": "native_good",
+      "text_method": "tesseract",
+      "char_count": 1186,
+      "text": ""
+    },
+    {
+      "page_number": 51,
+      "native_quality": {
+        "page_number": 51,
+        "native_char_count": 1191,
+        "printable_ratio": 0.949,
+        "alpha_ratio": 0.498,
+        "word_count": 161,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.33, clean=0.42))"
+      },
+      "final_category": "native_good",
+      "text_method": "tesseract",
+      "char_count": 1132,
+      "text": ""
+    },
+    {
+      "page_number": 52,
+      "native_quality": {
+        "page_number": 52,
+        "native_char_count": 458,
+        "printable_ratio": 0.913,
+        "alpha_ratio": 0.135,
+        "word_count": 15,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.26, clean=0.06))"
+      },
+      "final_category": "native_good",
+      "text_method": "tesseract",
+      "char_count": 1328,
+      "text": ""
+    },
+    {
+      "page_number": 53,
+      "native_quality": {
+        "page_number": 53,
+        "native_char_count": 303,
+        "printable_ratio": 0.901,
+        "alpha_ratio": 0.086,
+        "word_count": 3,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.36, clean=0.05))"
+      },
+      "final_category": "native_good",
+      "text_method": "tesseract",
+      "char_count": 965,
+      "text": ""
+    },
+    {
+      "page_number": 54,
+      "native_quality": {
+        "page_number": 54,
+        "native_char_count": 336,
+        "printable_ratio": 0.887,
+        "alpha_ratio": 0.19,
+        "word_count": 13,
+        "replacement_char_count": 0,
+        "category": "native_thin",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.26, clean=0.14))"
+      },
+      "final_category": "native_thin",
+      "text_method": "tesseract",
+      "char_count": 102,
+      "text": ""
+    },
+    {
+      "page_number": 55,
+      "native_quality": {
+        "page_number": 55,
+        "native_char_count": 1825,
+        "printable_ratio": 0.926,
+        "alpha_ratio": 0.283,
+        "word_count": 132,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.45, clean=0.19))"
+      },
+      "final_category": "native_good",
+      "text_method": "tesseract",
+      "char_count": 2021,
+      "text": ""
+    }
+  ],
+  "combined_path": "/Users/krishnasathvikmantripragada/Webapps/ufo-dossier/pipeline/reports/r3_full/ocr/FBI-UAP-D013/combined.txt",
+  "production_writes": false
+}

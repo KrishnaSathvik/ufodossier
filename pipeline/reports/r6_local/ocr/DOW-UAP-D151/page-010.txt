@@ -1,0 +1,34 @@
+UNCLASSIFIED/ /FAR AEEICl.'1.k W8f! er•tt 
+The enteric system executes control of smooth muscle. Although the CNS and PNS are 
+anatom ically dist inct, they are functiona lly intertwined. When discussing the funct ion of 
+the autonomic division, it is customary to refer to it as the Autonomic Nervous System, 
+or ANS.7 
+Changes in global arousal or activation through changing workload can result in 
+changes in physiological activity. These measures are advantageous as changes are 
+measurable continuously, in real-time, and usually unobtrusively in a naturalistic 
+setting. The drawback of using physiology alone is that there is no direct measure of 
+primary task performance. 
+Cardiac Function 
+Normal beating of the human heart produces a distinct and repeating pattern of 
+electrical activity measurable throughout the body for any two sample points that cross 
+the chest.c The typical electrocard iogram signal is shown in Figure 2. 
+R 
+Tp 
+Q 
+s 
+Figure 2. Typical EKG Signal for a Normal Heartbeat. Portions of the wavefo rm are labeled P, Q, 
+R, S, and T. 
+Detection of the R-wave allows measurement of frequency, time,d and amplitude. For 
+continuous monitoring, heart rate measurements will vary considerably and in a non­
+linear fashion; therefore, the measurement of inter-beat- interval (IBI), the time 
+between R peaks, is more normally distributed in the absence of signal, reducing noise 
+in the measurement. 8 Averaging the heart rate over minutes of task performance and 
+comparing to baseline yields a reliable estimate of increased metabolic function. 9 An 
+additional measure is the heart rate var iability (HRV), calculated by dividing the 
+standard deviation of IBI by an average value of IBI within a sample period. Additional 
+measurements can be made by decompos ing the spectra of HRV into low, mid, and 
+c In fact, a typical introductory physics course for life science students will include a laboratory experiment where 
+the heart rhythm is measured between electrodes located on the right wrist and left ankle. 
+d This time measurement is properly a phase measurement , with the phase relat ive to some reference event . 
+UNCLASSIFIED/ /POI\ OfflelAL WS& €OIL¥ 
+5

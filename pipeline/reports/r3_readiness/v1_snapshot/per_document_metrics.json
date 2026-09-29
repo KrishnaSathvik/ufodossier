@@ -1,0 +1,16 @@
+{
+  "generated_at": "2026-09-25T19:34:45.212132+00:00",
+  "note": "Per-document Stage B metrics derived from extractions.json",
+  "documents": [
+    {"filename": "CIA-UAP-003.pdf", "candidates": 2, "quote_valid": 2, "quote_rejected": 0, "evidence_insufficient": 1, "accepted": 1, "notes": "No inflation — 1 accepted U-2/BLUE BOOK explanation"},
+    {"filename": "CIA-UAP-005.pdf", "candidates": 0, "quote_valid": 0, "quote_rejected": 0, "evidence_insufficient": 0, "accepted": 0, "notes": "Classifier extracted; model returned []"},
+    {"filename": "CIA-UAP-016.pdf", "candidates": 7, "quote_valid": 6, "quote_rejected": 1, "evidence_insufficient": 1, "accepted": 5, "notes": "Multi-incident PASS — 5 distinct Himalayan sightings"},
+    {"filename": "CIA-UAP-017.pdf", "candidates": 1, "quote_valid": 1, "quote_rejected": 0, "evidence_insufficient": 0, "accepted": 1, "notes": "Harare Airport modern incident"},
+    {"filename": "DOW-UAP-D079.pdf", "candidates": 5, "quote_valid": 5, "quote_rejected": 0, "evidence_insufficient": 0, "accepted": 5, "notes": "Modern Western US narrative — 5 events"},
+    {"filename": "FBI-UAP-D002.pdf", "candidates": 1, "quote_valid": 0, "quote_rejected": 1, "evidence_insufficient": 0, "accepted": 0, "notes": "Colorado Springs — quote gate dropped sole candidate"},
+    {"filename": "FBI-UAP-D009.pdf", "candidates": 3, "quote_valid": 1, "quote_rejected": 2, "evidence_insufficient": 0, "accepted": 1},
+    {"filename": "FBI-UAP-D012.pdf", "candidates": 0, "quote_valid": 0, "quote_rejected": 0, "evidence_insufficient": 0, "accepted": 0, "notes": "FAIL — 66-page historical multi-case returned no candidates"},
+    {"filename": "NASA-UAP-D016.pdf", "candidates": 1, "quote_valid": 1, "quote_rejected": 0, "evidence_insufficient": 1, "accepted": 0, "notes": "Transcript candidate failed evidence sufficiency"},
+    {"filename": "USG-UAP-D001.pdf", "candidates": 20, "quote_valid": 14, "quote_rejected": 6, "evidence_insufficient": 3, "accepted": 11, "notes": "Classifier false-positive — catalog/correspondence mined as incidents"}
+  ]
+}

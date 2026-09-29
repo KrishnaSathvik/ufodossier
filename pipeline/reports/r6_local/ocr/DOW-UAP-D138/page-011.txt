@@ -1,0 +1,44 @@
+UNCLASSIFIED//P61t OfflOl.tltL WSli &••LY 
+are kept constant, then t... = 3.37 x 1024 m (or 3.57 x 108 light-years) in order for Vwarp :::; 
+1, wh ich is an unrealistic requirement on the warp bubble design. 
+Because this energy requirement is so phenomenally high one finds it of paramount 
+importance to explore new ideas in the field of warp drive technology . What now follows 
+is a pedagogically rich review of the novel warp drive concept that we have been 
+developing since 2005. 
+3. The Cosmological Constant 
+Einstein is famous for a multitude of achievements in the field of physics. Arguably his 
+most notable contribution is the General Theory of Relativity, a geometr ic description of 
+gravitation whose fundamental idea relates the matter and the energy content of the 
+universe to the geometry of spacetime. Simply put, the presence of matter and energy 
+causes spacetime to curve, and this curvature controls how matter and energy move 
+through spacetime. General relativity has been the prevailing theory of gravitat ion since 
+1915 and thus far has unambiguously passed observational and experimental tests. It 
+remains an active area of research and technology is still being developed to test 
+certain features of the theory . Gravitat ional waves, for example, are one prediction 
+from GR; however, technology is only now reaching the stage of maturity to allow for 
+the detection of these waves. 
+3 .1 EINSTEIN 'S EQUATION AND THE INTRODUCTION OF/\ 
+Upon completion of GR, Einstein applied his theory to the entire universe. He firmly 
+believed in Mach's principle, and the only way to satisfy this was to assume that space 
+is globally closed and that the metric tensor should be determined uniquely from the 
+energy-momentum tensor (Reference 13). He also assumed that the universe was 
+static, which was a reasonable assumpt ion at the time because observat ional 
+astronomy had not advanced to a level that contradicted this paradigm. In 1917, when 
+a static solution to his equations could not be found, he introduced the cosmologica l 
+constant A (Reference 14): 3 
+I 8nG 
+RI"' - 2Rg pv = 7 ~,v+ Agµv · (3.1) 
+In this equation Rµv is the Ricci curvature tensor, R is the Ricci curvature scalar, Tµv is 
+the stress-energy-momentum tensor, 4 and gJI" is the spacetime metric. The left-hand 
+side of Equation (3.1) encodes the curvature in the geometry of spacetime, and the 
+right-hand side encodes the source of matter-energy that curves spacetime. 
+The addition of A can be understood as a term in the equation which allows one to 
+adjust theory to match observation. In Einstein's case, he chose to add A to ensure that 
+the universe was static and unchanging. In later years, he often referred to this 
+amendment to his equations as his "biggest blunder." Several years after GR had been 
+formulated, the astronomer Edwin Hubble discovered the phenomenon of galactic 
+redshifting, which strongly indicated that the universe was indeed expanding. This 
+3 Pronounced "lam bda." 
+4 Tµ,·encodes the density and flux of a matter source's energy and momentum. 
+4 
+UNCLASSIFIED/ /FOlil OFFICIO L W&i O•ILY

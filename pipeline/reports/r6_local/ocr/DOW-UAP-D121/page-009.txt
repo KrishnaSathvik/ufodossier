@@ -1,0 +1,47 @@
+UNCLASSIFIED/ /FOtt erPIEIAL USE Ol'J[f 
+Critical Technologies 
+Several technology areas are critical to the design and fabrication of a working HPM 
+source. First, because the pulsed-power section of the source must operate at high 
+voltages, it must contain insulating materials capable of withstanding the required 
+voltage. The insulat ing scheme chosen is critical to the success of the project; 
+therefore, several insulation techniques will be discussed, along with the merits and 
+drawbacks of each. Another pulsed-power technology that is criti cal to the success of 
+any source is high -voltage switching; various types of switches will be discussed, along 
+with applications. Finally, cathode materials are a technology area that has been 
+thoroughly researched and is critical to narrowband HPM generation; several cathode 
+materials will be discussed, along with needs for future cathodes. 
+INSULATION 
+Electrical insulating materials or dielectrics are essential not only for pulsed power and 
+HPM generation but for the proper functioning of all electrical and electronic equipment. 
+In fact, usually the size and operating limitations of a piece of equipment are 
+determined by the choice of insulating material. In the past, all manner of varnishes, 
+tars, petroleum asphalts, natural resins, gums, saps, and minerals were used for 
+electrical insulation. Now there is an almost endless list of possible insulating materials. 
+The question now is, which material is the most appropriate for the task at hand? In 
+pulsed power, and even more so in HPM applications, the choice is critical. All 
+properties of a material must be weighed against one another to make the proper 
+choice. Such properties as voltage breakdown, dielectric loss, dielectric constant, cure 
+temperatures, hardness, tensile strength, flow modulus, and the variation of all these 
+with frequency, voltage, and temperature must be considered before an appropriate 
+insulating material can be selected. Many of these properties have never been 
+published for most materials, and even when they have been published, they are 
+typically known only at one or two frequencies. Designing insulation for challenging 
+applications is at best a compromise between evils. Most of the material studies are 
+carried out for the power industry, making them valid only at 50 or 60 hertz. 
+Measurements at these low frequencies usually provide little or no clue about the 
+values at much higher frequencies. Therefore, it is often up to diligent engineers to 
+obtain materials data on the ir own. 
+One recent research area of interest is in develop ing what are termed artificial 
+dielectrics in an effort to decrease insulation weight. This material is made by 
+suspending hollow glass microspheres in a lightweight dielectric medium. Depending on 
+the concentration of these spheres, t he dielectric constant can be lowered and tailored 
+for the application, and the loss tangent of the media can also be reduced . Coating the 
+spheres with a conductor such as aluminum can also raise the dielectric constant. Thus 
+far, as might be expected, the dielectric strength of such materials is much lower than 
+that of many thermoplastics, but they have been useful for applications such as 
+radomes. 
+Insulation generally falls into one of three categories: (1) homogeneous insulation, 
+where the entire insulating volume is filled with the same media, be it solid, liquid, or 
+gas; (2) lam inated insulation, where the insulating volume is filled with some manner of 
+UNCLASSIFIED/ /FOR OEEJCJOP 1!iii QDIL¥ 
+1

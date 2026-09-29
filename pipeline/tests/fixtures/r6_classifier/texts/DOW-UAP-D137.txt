@@ -1,0 +1,190 @@
+--- PAGE 1 ---
+UNCLASSIFIED/} FOR OFFICIJCL 1191! 9HLY 
+Defense 
+Intelligence 
+Reference 
+Document 
+Acquisition Threat Support 
+31 March 20 10 
+ICOD: 1 December 2009 
+DIA-08- 1003-019 
+State of the Art and Evolution 
+of High-Energy Laser Weapons 
+UNCLASSIFIED//F8R 8FFI@IAL HSE 8Ptllf
+
+--- PAGE 2 ---
+UNCLASSIFIED//5QA QFFl&i,.l YSE BHL1/ 
+State of the Art and Evolution of High-Energy Laser 
+Weapons 
+Prepared by: 
+Acquisition Support Division (DW0-3) 
+Defense Warning Office 
+Directorate for Analysis 
+Defense Intelligence Agency 
+Author: 
+AAP Person 79 
+Administrative Note 
+COPYRIGHT WARNING: Further dissemination of the photographs in this publication is not authorized. 
+This product is one in a series of advanced technology reports produced in FY 2009 
+under the Defense Intelligence Agency, Defense Warning Office's Advanced Aerospace 
+Weapon System Applications (AAWSA) Program. Comments or questions pertaining to 
+this document should be addressed to!AAP Person 1 l AAWSA Program 
+Manager, Defense Intelligence Agency, ATTN: CLAR/DWO-3, Bldg 6000, Washington, 
+DC 20340-5100 . 
+UNCLASSIFIED//J;QA GFJ;IGlifil W&& 8HlV 
+ii
+
+--- PAGE 3 ---
+UNCLASSIFIED/ fFOA OFFI€il.t.k YSE &P•tv 
+Contents 
+Summary ................................................................................................................. v 
+Introduction ............................. .............................................................................. 1 
+Basic Attributes of Kinetic Energy and HEL Weapons ......................................... 1 
+Elements of an HEL weapon ............................................................................... 2 
+Laser Devices ......................................................................................................... 3 
+Laser Fundamentals ........................................................................................... 3 
+Chemical Lasers ................................................................................................. 5 
+Solid-State Lasers .............................................................................................. 6 
+Rod and Slab Lasers ........................................................................................... 7 
+Fiber Lasers ....................................................................................................... 8 
+Ultra-Short Pulse Lasers .................................................................................. 10 
+Free-Electron Lasers ........................................................................................ 11 
+Beam Control and Atmospheric Propagation of Laser Devices .............................. 12 
+Brief History of DoD Laser Weapon Research ....................................................... 16 
+Laser-Material Interaction ................................................................................... 20 
+Vulnerability of Spacecraft to Laser Radiation ...................................................... 22 
+Projection of Future HEL Weapon Capability ........................................................ 23 
+Recommendations ................................................................................................ 25 
+Sources of Further Information ............................................................................ 26 
+Figures 
+Figure 1. Utility of KE and HEL Weapons ................................................................. 2 
+Figure 2. Elements of an HEL Weapon System ........................................................ 3 
+Figure 3. Basic Laser Concept ................................................................................. 4 
+Figure 4. Cylindrical Gain Generator for HF Chemical Space Based Laser ............... 5 
+Figure 5. Common Solid-State Lasers and Their Wavelengths ................................ 6 
+Figure 6. Incoherent Combination of Single Mode Lasers at the Target .................. 9 
+UNCLASSIFIED/ fFOA OFFI€il.t.k YSE 8,.LY 
+iii
+
+--- PAGE 4 ---
+UNCLASSIFIED/ fFOA. OFFI€il.t.L YSE er•tv 
+Figure 7. Incoherent Combination of Single Mode Lasers in a Fiber Combiner ....... 9 
+Figure 8. Free-Electron Laser Wiggler .................................................................. 11 
+Figure 9. Elements of the 2 kW FEL at Thomas Jeffereson National Accelerator 
+Facility .................................................................................................. 12 
+Figure 10. HEL Weapon Basic Tracking and Pointion Controls .............................. 14 
+Figure 11. Sealite Beam Director ......................................................................... 14 
+Figure 12. Typical Atmospheric Absorption and Scattering in the Infrared .......... 16 
+Figure 13. Army Mobile Tactical Unit .................................................................... 17 
+Figure 14. Air Force Airborne Laser Laboratory .................................................... 17 
+Figure 15. Mid-Infared Advanced Chemical Laser ................................................. 18 
+Figure 16. MDA Airborne Laser in a Boeing 747-400F .......................................... 19 
+Figure 17. The Advanced Tactical Laser C-130 Aircraft .......... ..... ...... .............. ...... 20 
+Figure 18. Single Pulse Maximum Permissible Exposure ...................................... 22 
+Tables 
+Table 1. Laser Systems Irradiance Calculations ....... ...................................... ...... 25 
+UNCLASSIFIED/ fFOA QFFI€il.t.L YSE 8,.L\f 
+iv
+
+--- PAGE 5 ---
+UNCLASSIFIED/ -502-OFFLGEHH-USE-ONEY
+
+State of the Art and Evolution of High-Energy Laser
+Weapons
+
+Summary
+
+The laser was invented in 1960, only 49 years ago, and (along with the light-
+emitting diode) has evolved into an essential part of our modern every-day life
+in ways that could not have been foreseen. On the military side, there have
+also been incredible advances in laser and beam control technologies but no
+deployment of any high-energy weapons. Many concepts have been developed
+and pursued, only to be discarded or deferred owing to technical immaturity,
+expected production cost, lack of apparent utility, or logistics concerns.
+
+The most significant technical impediment to deployment may have been the
+large quantities of expensive and hazardous chemicals that were required by
+the only available high-average-power lasers. This is now changing with
+recent advances in electrically powered lasers (both solid-state and free-
+electron lasers). As these devices mature over the next few decades, they will
+enable practical military weapons at power levels ranging from kilowatts to
+megawatts. This evolution may be somewhat slowed or limited in the United
+States if there are policy concerns about the use of new types of weapons or
+about weaponization of space. As an example, the Department of Defense
+developed a microwave device for crowd control, called Active Denial, which
+has been shown to produce temporary pain without any injury. However, DoD
+was precluded from deploying it owing to policy (not legal) concerns. Other
+countries may not exhibit similar restraint, as evidenced by the open
+marketing of laser-blinding weapons despite a 1980 Geneva Convention
+prohibiting their development or use.
+
+Space offers the ideal environment for laser beam propagation; there is no
+atmosphere to either attenuate or spread the beam. As a result, large
+distances could be bridged quickly, with range limited by the size of the
+transmitting telescope and the potential damage mechanisms limited primarily
+by the laser’s output power. Initial spacecraft laser weapons are conceivable
+within the next 20 years, with the potential for follow-on growth in laser
+power and transmitting telescope size. Transmitting telescope size would be
+limited by the spacecraft size and competing demands for weight and volume.
+Laser power could grow to the megawatt range as solid-state and free-
+electron laser technology matures, but the major limitation to a spacecraft’s
+weapon capability may prove to be its ability to generate and store the energy
+required by the laser and to store and dissipate the resultant waste heat.
+
+UNCLASSIFIED / -2OR-OFFL6H-USE-ONEY—
+
+--- PAGE 6 ---
+UNCLASSIFIED/ fFOA OFFl&I.t.k YSE &P•tv 
+Introduction 
+The purpose of this report is to provide an overview of the current state-of-the-art and 
+potential evolution of megawatt (MW) class high-energy laser (HEL) weapons. 
+Implications for space vehicles in or beyond earth orbit will be addressed. 
+It is rare today to find an individual who doesn't have some concept of a laser weapon. 
+From Orson Wells's Martian invaders in War of the Worlds, who used them with chilling 
+efficiency, to the now-classic Star Wars movies, the capabilities attributed to such 
+devices have grown with time and with writers' imagination. While most fictional 
+depictions of laser weapons (and many news stories) are without sound basis, these 
+devices do offer the potential for a whole new class of weapons and capabilities which 
+may complement (but not replace) existing kinetic energy (KE) weapons and electronic 
+warfare. 
+BASIC ATTRIBUTES OF KINETIC ENERGY AND HEL WEAPONS 
+KE weapons (bullets, shells, missiles, bombs, and so forth) require a finite period of 
+time to reach the target but are then able to destroy it instantly. They can deliver 
+immense quantities of explosive energy and destroy large areas. This makes KE 
+weapons most effective at engaging hardened, large, or stationary targets. Collateral 
+damage concerns, such as a desired target next to a hospital, enemy forces near 
+friendly forces, or a sniper target in a crowd can significantly limit the opportunity to 
+use KE weapons. Randomly moving targets also present a challenge for KE weapons 
+due to difficulties in predicting the target's location at the future time of arrival or in 
+tracking the target with sufficient accuracy. 
+High Energy Laser (HEL) weapons, by contrast, begin delivering the laser beam's 
+energy to the target at the speed of light. However, they require a finite dwell time to 
+accumulate enough thermal energy (heat) on the aim point to achieve the desired 
+effect (similar to a blowtorch). The strength of an HEL weapon is its ability to precisely 
+deliver a limited quantity of energy to a small spot with litt le collateral damage to 
+nearby objects or people. The instantaneous measure of a focused laser beam's 
+effectiveness is called "irradiance" and is measured in power per unit area over the 
+laser spot (typically watts/cm 2). The beam's ability to inflict damage, by heating during 
+a time interval, is called "fluence" and is typically measured in joules/cm 2. Fluence is 
+simply irradiance x time and one joule is equal to one watt for one second. 
+Speed-of-light energy transfe r, coupled with precisio n tracking, allows HEL weapons to 
+efficiently engage softer targets which are highly maneuverable, only visible for short 
+periods of time, or at extremely long range. Although the initial cost of a laser weapon 
+might be high, the logistics trail is short and the cost per shot is comparatively 
+inexpe nsive since the only major expendables are laser chemicals or electricity. 
+Figure 1 compares the relative strengths and weaknesses of KE & HEL weapons for 
+different classes of potential targets. Just as there is a wide variety of KE weapons 
+(ranging from bullets to precision guided munitions to nuclear weapons) for different 
+types of applications, one could envision a range of future HEL weapons at different 
+power levels, wavelengths, weights, volumes, and costs which would be best suited for 
+specific applications. 
+UNCLASSIFIED/ fFOA QFFI&I.t.k YSE 8,.L\f 
+1
+
+--- PAGE 7 ---
+------------------ -------------------- --------
+---------------------------------------- ------
+----------------- ----- ----- ---- ----- ----- -----
+UNCLASSIFIED/ fFOA OFFl&I.t.k YSE &P•tv 
+HEL and Kinetic Weapons offer complementary capabilities 
+Soft/Small/Fast Moving/tactical Missiles & Harden

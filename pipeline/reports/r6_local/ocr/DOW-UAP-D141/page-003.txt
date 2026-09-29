@@ -1,0 +1,42 @@
+UNCLASSIFIED/ (fQR OFFIClt.k YSE 8HLI 
+Contents 
+Definition of Meta materials .................................................................................... 1 
+Applications to Sub-Diffraction Imaging: Super-Lens and Hyper-Lens .................. 6 
+Applications to Circuits and Waveguide Miniaturization: Slowing Down and 
+Manipulating Electromagnetic Pulses (EMP) Using Advanced Metamaterials ....... 16 
+Metamaterials for Energy Harvesting ................................................................... 20 
+Nonlinear Non-Reciprocal Chiral Metamaterials: For Developing Novel Optical 
+Isolators and "One-Way" Microwave Mirrors ....................................................... 27 
+Tunable Switchable Metamaterials ....................................................................... 30 
+Summary and Conclusions ................................................................................... 31 
+References ........................................................................................................... 31 
+Figures 
+Figure 1. Example of a Metamaterial Component: The Magnetic Split Ring 
+Resonator (SRR) Design .......................................................................... 2 
+Figure 2. Example of Another Metamaterial Component: Electric Ring Resonator 
+Figure 3. Geometry of Original Planar Metamaterial Unit Cells (OE1-OE6) and Their 
+Figure 4. Recent Optical Metamaterials for Telecommunication Wavelength and 
+Figure 6. Schematic of the SiC-based Super-lens Which is Imaging Sub-wavelength 
+(ERR) ......................................................................................................... 2 
+Complements (CE1-CE6) ......................................................................... 3 
+Mid-Infrared Indefinite Permittivity Material .......................................... 5 
+Figures. Schematic of The Super-lens With n=-1 Refractive Index Corresponding 
+to ( Surrounded by Vacuum ..................................................................... 7 
+Holes Buried Under the SiO2 Layer .......................................................... 8 
+Figure 7. Theoretical Concepts (left panel) and Experimental Implementation 
+(right panel) of an Optical Hyperlens Capable of Magnifying Sub-
+Diffraction Objects to Observable (larger than Size ................................. 9 
+Figure 8. Hyperlens Based on a Converging Array of Metal Wires ........................ 10 
+Figure 9. Far-Field Super-lens (FSL) Based on an Indefinite Permittivity 
+Metamaterial Placed Between the Object and the Image-Releasing 
+Grating ...................... ........................................................................ .... 12 
+Figure 10. Tomographic Multi-Beam Multi-Detector Holography of Sub-Wavelength 
+Objects Using Indefinite Permittivity Medium (IPM) ........................... 12 
+Figure 11. First Experimental Demonstration of Propagating Sub-Diffraction Waves 
+Figure 12. Schematic for 2-Beams/2-Detectors Interferometric Measurement 
+Figure 13. Experimental Setup for 2-Beams/2-Detectors Interferometric 
+in the Indefinite Permittivity Medium (IPM) ....................................... 13 
+and Numerical Simulation ............................. ...................................... 14 
+Measurement in the Lab and Preliminary Experimental Results .......... 15 
+UNCLASSIFIED/ {fQR OFEICl.t.ls: W81!! 8flti 
+iii

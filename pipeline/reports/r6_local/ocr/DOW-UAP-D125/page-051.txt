@@ -1,0 +1,56 @@
+UNCLASSIFIED / /F@R-OFFECTEAEUSE-ONET
+
+results. Rider was particularly interested in the claim that due to its beam-like non-
+Maxwellian plasma, the IEC can burn “advanced fusion fuels” such as D-?He and p-!!B
+easier than traditional Maxwellian type plasma devices (Tokomaks, etc.). Thus, he
+considered use of D-T, D-D, D-3He, #He-*He, p-!!B and p-®Li fuels. Due to their high Z
+components, all of these fuels must battle large energy losses via Bremsstrahlung.
+These losses were evaluated using the traditional formula, but his evaluation has a built
+in bias since the loses depend heavily on the electron ion temperature ratio which in
+turn depends strongly on the <ov> values assumed as already discussed. Deviation
+from an equilibrium electron energy distribution also strongly affects radiation emission.
+Using the Maxwellian average values, he found that Bremsstrahlung losses would be
+prohibitively large for 3He-7He, p-!!B, and p-®Li reactors and will be a considerable
+fraction of the fusion power for D-*He and D-D reactors limiting use to D-T. As a
+corollary, he concludes in contradiction with earlier claims that it does not appear
+possible for the dense central region of a reactor-grade IEC device to maintain a
+significantly non-Maxwellian ion distribution or keep a low electron to ion temperature
+ratio. The problem, however, is that the assumed rate constants would naturally force
+this conclusion. Further, these rate constants lead to Rider’s build-in result forcing the
+ions to form a Maxwellian distribution with a mean energy close to the energy of the
+potential. Consequently, in his analysis, ions in the energetic tail of the distribution are
+lost at rates faster the fusion rate, giving low Q values.
+
+Rider considered the Polywell type IEC and even with exceedingly optimistic
+assumptions about the potential well, he found the electron losses are intolerable for all
+fuels “except perhaps DT”. Based on these results, Rider concludes that for the IEC
+system to be used as a fusion reactor it will be necessary to find methods to
+“circumvent these problems, especially the excessive Bremsstrahlung losses”. Certainly
+reducing radiation losses should be an ongoing study, but his pessimism appears to be
+overdone.
+
+The problem with Rider’s analysis is his not using reaction and scattering rates
+averaged over the non-Maxwellian distribution characteristic of an IEC reactor. This
+includes both the beam-like ion distribution and the large ion-electron temperature
+ratio. This very basic energy analysis should be redone with revised reaction rate data,
+but to date have not been reported. Despite questions about Rider’s analysis and
+pessimistic conclusion, his recommendations of issues to study and overcome remain
+quite valid.
+
+NEUTRON SOURCE SIMULATIONS
+
+Several simulation studies have focused on neutron source type IECs. In this case, as
+opposed to future power reactors, the background gas is of sufficient pressure,
+
+resulting in beam-background scaling of the fusion rate (i.e., theoretically this gives a
+current x pressure scaling). Charge exchange also becomes a significant factor in device
+performance. In Reference 4.8, Miley et al. used an analytical model of charge-
+exchange collisions in the IEC plasma to include ion time-of-flight and fusion neutron
+generation rates. Results from the model simulating 10 mA of D* ion current in a 30-cm
+diameter IEC device at 50 kV matched the experimental results of 10° fusion neutrons
+per second. The model was also used to find the effects of grid diameter on neutron
+yield and show that the yield scales as grid diameter is raised to the power -0.41. This
+factor is very close to the experimental scaling observed from the UIUC neutron source
+
+44
+UNCLASSIFIED / /#@R-OF6L614.-55-00,LY.

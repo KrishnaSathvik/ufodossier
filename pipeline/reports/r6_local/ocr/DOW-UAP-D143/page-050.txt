@@ -1,0 +1,42 @@
+UNCLASSIFIED//rOR: orrlCIAL USE 014Lf 
+The total cost for an installed 10 MW power oscillator-based laser transmitter is 
+estimated as follows [29]: 
+• 2.5 MW Prototype = $80.0 Million. 
+• 3 x 2.5 MW Additio nal Modules + 4 Module Integration = $133.0 Million. 
+• Buildings/Installations~ $17.0 Million. 
+• Total Insta lled & Integrated Transmitter Cost ~ $230 Million. 
+And the addit ional costs for the MOPA-based transm itters and cold-flow assessment are 
+[29): 
+• 4 Master Oscillators ~ $20 .0 Million . 
+• Cold-Flow Subscale Upgrades & Evaluations ~$5.0 Million. 
+• Total Additional Cost~ $25.0 Million . 
+The TEXTRON Systems study concluded that [29]: 
+• A pulsed CO2 repetitively pulsed transmitter, which uses a 300 second blow down 
+and beam combining, can provide the power levels and energies needed for 
+Lightcraft propulsion applications. 
+• Spectral tailoring of the beam and mountain-top operation should provide 
+reasonable atmospheric transm ission of the high pulsed-power laser beam. 
+• Low cost operation is achievable with helium-free gas mixtures, which use N2, 
+CO2, and small quantities of H2. 
+• Subscale testing will be used to anchor the design and thus reduce risk. 
+• Legacy programs support many aspects of th is approach. 
+• Growth potential with cold-flow and aero windows should double the beam power 
+output. 
+• Current pulsed CO2 laser technology blow down configuration is postured to 
+provide power levels for propulsion of kilogram-sized spacecraft into orbit. 
+Payload Cost Estimate for Lightcraft Launch Using a 10 MW CO2/Gas 
+Mixture Laser 
+Froning and Davis [26] used a proposed 10 MW electron gun-driven N2/CO2/H 2 laser 
+design to estimate the Lightcraft payload launch cost per kilogram, which is described 
+in what follows. Each power oscillator optics module transmitting a 2.5 MW beam of 
+10.6 µm wavelength photons generates 1.334 x 1026 photons/sec, and 15 kg/sec of CO2 
+mass flow represents 2.053 x 1026 molecules/sec of gas flow. These figures taken 
+together mean that 1.54 CO2 molecules are required to lase one photon. A 2.5 MW 
+laser operating for 300 seconds of thrusting will allow us to send 5.25 kg of payload 
+into LEO, and the total laser energy (E1aser) output is 750 MJ. If the laser efficiency is 
+0.20, then we will need to use 12.5 MW of electrical power for 300 seconds (or 3,750 
+MJ of total energy), which, at a cost of $0.10 per kWh (or $0.0278 per MJ), gives a 
+total cost of $104 for the required electrical energy to launch the payload. 
+The kinetic energy (KE) of a Lightcraft in LEO is given by KE = 1,ap yE1aser, where [26): 
+UNCLASSIFIED{fFOA QFFIEiIAL ~81!! 8HLY 
+46

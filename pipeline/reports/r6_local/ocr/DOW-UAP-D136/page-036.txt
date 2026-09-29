@@ -1,0 +1,26 @@
+UNCLASSIFIED/ /P'OR: OP'P'l@IAL WS& 0Nk¥ 
+Figure 27. Power Transfer by Magnetic Induction to an Implanted BioMEMS Retinal Prosthesis. This is 
+the Boston Retinal Implant Project. 
+(http://www. bostonretina Iim plant. org/ retina I approach. php ?fontsize= norm al&hicontrast) 
+MICROSCALE IN THERAPEUTIC NEUROSTIMULATION 
+Some of the biggest excitement in medical neuroprosthetics has been in the notion that 
+we can use micro-implantable devices rather than drugs to reduce or better control the 
+effects of stroke, heart disease, epilepsy, and other disorders of the human condition. 
+Bioelectrical stimulation has effects which are very specific on local tissues rather than 
+indiscriminately affecting all tissues and so may offer fewer side effects of drugs. Such 
+devices can be finely controlled in their effects and provide a greater flexibility in terms 
+of treatment. 
+Any implanted device has to be small in order to be minimally invasive, especially in the 
+brain. Powering of implanted devices by batter ies is only practical in a few biomedical 
+situations. Also implants may need to communicate with the outside world wirelessly. 
+Having wires penetrating the skin is uncomfortab le and could lead to infection in the 
+tissue. 
+The notion of placing bioelectronic stimulation devices inside of the body for therapeutic 
+reasons goes back to the early invention of the pacemaker. These kind of devices have 
+internal batteries to support an electrical pulse generator that paces the rhythm of the 
+heart. 
+Because the amount of energy in each pulse is relatively small the power drain is low 
+and the pacemaker batteries can last years. The difficulty is that they are bulky, must 
+be eventually replaced on the order of seven years, and their placement is invasive. 
+UNCLASSIFIED/ {FOR OFFICIO! !PEii QDlk¥ 
+30

@@ -1,0 +1,45 @@
+UNCLASSIFIED/ ,'FOR OFFl@IAL YSE OHL¥ 
+• A couple of costly and highly visible TMC component test failures using TSM 
+materials called into question the viability of TMCs. In truth, the real issue was one 
+of quality and not the fundamental viability of the TMC material concept. 
+• These failures led to extreme caution by the government, which promptly imposed 
+stringent quality requirements on TSM. Consequently, TSM became a serious 
+bottleneck for availability of TMCs with acceptable quality. As a result, numerous 
+large, government-funded R&D programs fell behind schedule to the point that 
+some were canceled and others were abandoned. 
+• Other, less attractive SiC fibers were being developed during this period, including 
+Nicalon in Japan and Sigma in the United Kingdom. Because SiC fiber and TMCs 
+were deemed strategic materials and neither of these alternate fibers was produced 
+in the United States, there was reluctance to experiment with them, and the U.S. 
+government occasionally prohibited their use in federally funded R&D programs. 
+• The issue of fiber availability became a major distraction from the real business at 
+hand-that is, improving the consistency and reducing the cost of the TMC product. 
+• In the end, TSM partially relented, but by then such limited interest in TMCs existed 
+that the original opportunity was lost. Furthermore, there still was no concrete 
+evidence that TMCs could be produced with sufficiently consistent properties that 
+they could be considered an engineering material (at any cost). 
+• In the mid-1990s, a cost study that assumed fiber availability showed that TMCs 
+that meet specification properties could be manufactured for about $500/lb (in 1995 
+$) if the use volume was about 10,000 lb/year. Finding enough low-risk, high-value 
+applications to consume this quantity of TMCs was not deemed possible. 
+• Consequently, work on TMCs halted after an investment of about $500 million of U.S. 
+government funds and a (presumably) comparable, but less well known private 
+sector (mostly independent R&D $) investment. 
+• One lesson from this is that a credible market and cost study should be undertaken 
+before embarking on a major R&D program to develop revolutionary materials such 
+as TMCs. 
+The foregoing discussion exemplifies the challenges associated with developing and 
+commercializing a revolutionary new materials system. New material concepts 
+originating from nonproduction sources such as national laboratories or research 
+universities should be approached with caution and never be put on the critical path of 
+product design. Even if a new material is vetted through an established production 
+source, the timing of full commercialization should be carefully examined. 
+Ni-base Alloys 
+Ni-base alloys have been considered real engineering materials for at least 40 years. 
+Because of their relatively low rate of strength loss with increasing temperature, Ni­
+base alloys are also called "superalloys." They are commonly used at temperatures well 
+in excess of half of their melting point (Tm), which is the accepted useful limit for most 
+structural metallic materials. There is no other class of structural alloys for which this is 
+true. Ni-base alloys have been used in turbine engines of all types almost since their 
+16 
+UNCLASSIFIED/ /FOA OFFICiIAk Wlilii 0PU.¥

@@ -1,0 +1,43 @@
+UNCLASSIFIED/ /FOil OFFl@IAL YSli 8Ptllf 
+• Once a case is present, can the structure be repaired (for example, by fusion or 
+friction stir welding)? 
+The Air Force Materials and Manufacturing Directorate is starting a new project intended 
+to address these questions. The motivation for this program is hypersonic flight 
+vehicles. The results from th is U.S. Air Force program should prove highly useful to the 
+design of future reusable SSO vehicles. 
+Earlier uses of Ti alloys at high temperatures included the skin and much of the load­
+bearing structure of the SR-71 Blackbird. This airplane flew successfully at peak speeds 
+in excess of mach 3.2 for 34 years (1964-1998). While the maximum skin temperatures 
+are not readily available, they were in excess of 300 °Celsius. There were no known 
+issues involving a case during the SR-71's service. Notably, the primary alloy used for 
+the SR-71 was one of the original ~-Ti alloys, B-120 VCA, the composition of which is 
+Ti-13V-11Cr-3AI. The primary reason for choosing this alloy was that it is much easier 
+than any of the a +~ Ti alloys are to roll into sheet gauges. Today there are newer ~- Ti 
+sheet alloys featuring a better balance of properties that could be used in the same way 
+as B-120 VCA. The most common of these is Ti-15V-3Cr-3Sn-3AI. However, the 
+successful use of B-120 VCA raises the question of whether ~- Ti alloys are more 
+resistant than a+ ~ alloys such as Ti-6-4 are to a case formation. 
+The attraction to using Ti alloys, in addition to their structural efficiency, is the 
+extensive industrial base for making the material in a variety of product forms and the 
+extensive knowledge base resulting from the many successful applications of Ti alloys in 
+high-performance products. For example, the ability to superplastically form Ti alloys 
+such as Ti-6-4 creates the opportunity for design of a structure that functions both as 
+load bearing and as thermal protection. 
+Ti Matrix Composites 
+As Table 1 showed, Ti alloys are not especially attractive for their specific stiffness. One 
+way to overcome this limitation is to reinforce a Ti alloy matrix with SiC fibers. In this 
+case, the fibers are "long" fibers-they have sufficient length for the matrix to transfer 
+the maximum possible fraction of the external load to the fiber. The fibers are 
+essentially monofilaments and must be carefully placed so adjacent fibers do not touch 
+one another. Areas of contact between fibers essentially are incipient cracks that 
+degrade the mechanical strength. As Table 2 shows, TMCs have excellent properties. 
+Table 2. Example of Properties of Ti Matrix Composites 
+Property Property Value (English /Metric 
+Units) 
+Ultimate tensile strenqth 276 ksi / 1902 MPa 
+Young's modulus 32.8 msi / 226 GPa 
+Strain to fracture 0.95% 
+Density 0.16 lb/in 3 / 4.43 q/cm 3 
+Fiber Volume fraction 0.39 
+14 
+UNCLASSIFIED/;SFOR. OFFl&IAL Y&li 8Ptllf

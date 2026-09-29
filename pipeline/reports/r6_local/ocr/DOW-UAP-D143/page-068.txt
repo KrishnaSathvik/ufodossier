@@ -1,0 +1,32 @@
+UNCLASSIFIED//rOR: orrlCIAL USE 014Lf 
+A novel new HEL beam control architecture being tested and deployed by the various 
+directed energy weapons programs that offers reduced complexity and component 
+count, and combines many functions into a compact arrangement has the following key 
+features: ** 
+• End-to-end boresight tracker with 0.1 micro-radian root-mean-square accuracy at 
+10 KHz. 
+• No beacon illuminator laser (BILL) required. 
+• Real-time beam quality measurements on target during each engagement. 
+• Extremely compact and lightweight beam train suitable for ground, airborne and 
+sea platforms. 
+• Primary mirror which is also a deformable mirror (DM) and a fast steering mirror 
+(FSM). 
+Alignment 
+Sensor 
+lor 
+Inertial 
+Platrorm 
+Local-loop
+Wavefront 
+Sensor 
+--- - - -
+Propagation 
+Through 
+Atmosphere 
+(or space) 
+Luer Device 
+Module 
+Figure 33. Notional Long Range HEL Beam Control System (courtesy of the Directed Energy 
+Profess ional Society). 
+UNCLASSIFIED{fFOA QFFIEiIAL ~81!! 8HLY 
+64

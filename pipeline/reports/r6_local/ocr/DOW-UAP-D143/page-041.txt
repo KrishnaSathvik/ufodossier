@@ -1,0 +1,46 @@
+UNCLASSIFIED//rOR: orrlCIAE USE O14Lf 
+These array functions can be made coherent over very great distances. RF antennas 
+with sizes of hundreds of kilometers and optical telescopes of hundreds of meters 
+diameter can be formed. These systems can enable new capabilities not possible with 
+single spacecraft either acting alone, as a proliferated but non-coherent constellation, 
+or as relays for each other. Formed of nanosats and picosats, such swarms will contain 
+so many spacecraft that the economics of true mass production will come into play in 
+space for the first time, greatly reducing the cost of producing the system. In addition, 
+these systems feature the advantages of truly distributed satellite systems, including 
+fault tolerance, robustness, survivability, reconfigurability by software, and the ability 
+to be incrementally emplaced and upgraded as budgets are available. 
+These swarms can be implemented in a cost effective manner using laser propulsion for 
+both launch and orbital insert ion. However, the system designs described in the 
+following sections are flexible enough to allow for the use of alternative conventional 
+launch vehicle technologies. The technologies to produce these swarms and their 
+constituent nanosats or picosats probably can be demonstrated by 2015 and deployed 
+in space by 2020. 
+The following concepts were provided via the voluminous research notes, lectures, and 
+briefings provided courtesy of I. Bekey. 
+ROTATING PICOSAT SWARM ARRAY RADIO FREQUENCY COLLECTOR 
+An unconventional, large sparse antenna array RF collector spacecraft with a small 
+surface footprint even when deployed in geosynchronous Earth orbit (GEO) separates 
+different sources in proximity and also detects weak signals. Its implementation would 
+result in a highly desirable, long dwell RF emitter detect ion capability. 
+At the heart of this system is a large antenna that is formed by a swarm of tiny 
+elements that make up the lens of a space-fed array with no structure. The antenna is 
+a sparse, self-cohering array formed from a large number of picosats rotating (in 
+relative coordinates) in a plane around a central orbital point in GEO. The picosats are 
+self-contained repeater spacecraft. Each one receives the ground signal, delays it, and 
+retransmits the signal so that it arrives at the feeds at the same time as a direct ray 
+through the center of the array. The time delay of each picosat is self computed based 
+on its location in the swarm, as measured by a local differential global positioning 
+system (DGPS)-like navigation signal, to compensate for its deviation from its assigned 
+ideal location. Each picosat digitizes, delays, frequency shifts, and retransmits its 
+received signals independently, causing an in-phase composite signal from the ground 
+to be received at the feeds. 
+The relative positions of these picosat elements change slowly, and only small and 
+infrequent propulsive maneuvers are needed for constellation maintenance. A tether 
+along the local vertical at the central point holds the receivers and DGPS-like reference 
+at the focus against a counterweight. A pseudorandom distribution of the picosats 
+suppresses the antenna grating lobes, and intensive computation greatly reduces much 
+of the remaining sidelobes, creates multiple beams, and steers the ensemble of the 
+individual beams anywhere on Earth. The antenna system will function with far fewer 
+elements as a more sparse array, though with limited sensitivity. This system can be 
+UNCLASSIFIED//FOR O61ilCl.li.k W&& 8Ptl'l 
+37

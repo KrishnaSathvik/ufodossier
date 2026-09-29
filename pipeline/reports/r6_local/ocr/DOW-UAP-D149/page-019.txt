@@ -1,0 +1,20 @@
+UNCLASSIFIED/ /POR. OPPl@IAL ~91!!! OHL¥ 
+E-beams B field 
+forebody vehicle 
+Flow inlet 
+Cowl lip 
+Figure 6. MHD Control of Scramjet Inlet Using E-Beam Ionization. The retarding 
+ampere force restores the shock-on-lip condition at Mach numbers higher than the 
+design value. 
+THE AJAX CONCEPT : MHD BYPASS 
+An MHD-assisted propulsion concept that has attracted perhaps the most 
+attention over the last decade or two is known as the Ajax, or Ayaks. The 
+concept, illustrated in Figure 7, orig inated in the 1980s at Leninetz Scientific & 
+Production Enterpr ise (now Leninetz Holding Co.) in Leningrad, USSR (now St. 
+Petersburg, Russia). A good overview of the concept and its present status and 
+problems can be found in the recent article 23 included in the Special Section of 
+the Journal of Propulsion and Power devoted to weakly ionized gases for 
+propulsion enhancement, with one of the authors of this survey serving as 
+special guest editor. 
+UNCLASSIFIED/FAA OFF1&1AI:: ~9E et•t I 
+15

@@ -1,0 +1,54 @@
+UNCLASSIFIED / SPOR “OPPICTAL USE ONTT-
+
+EMG interfaces for limb amputees have advanced dramatically in the last several years,
+with several devices controlled by remaining muscles that have been implanted with
+otherwise unused nerves in an invasive process called reinnervation (References 56,
+57). Twelve electrode pairs were utilized in the recording of intended arm motion. The
+classifier algorithm used to determine hand control was able to provide a new prediction
+10 times a second, and for controls, a motion selection from 1 of 10 possibilities could
+be achieved in less than 170 milliseconds. Interesting with this procedure is that a
+direct biological amplification of the neuronal signal is achieved by connecting it to a
+muscle. The amplified signal is then read by a noninvasive EMG probe. Although not yet
+approaching normal, the speed and dexterity of these artificial limbs is impressive.
+
+Finally, one trial utilizing a normal, healthy human self-experimenter in 2002 showed
+that sensation and control is possible through a peripheral array implant in the median
+nerve of the left arm. This trial lasted 3 months before the physical connection between
+the nerve and the microarray deteriorated beyond use. Subsequent examination and
+testing has revealed no long-term damage at the implant site (Reference 58).
+
+OPTICAL STIMULATION OF ACTION POTENTIALS
+
+A final invasive technology that utilizes light to gate action potentials shows promise
+(Reference 59). In this technology, the biological switch is controlled by a locally
+inserted LED and possibly guided using optical fibers, but there is no contact between
+the physical circuits and neurons, thus avoiding the issue of scar tissue caused by
+operation of invasive probes. Application to artificial vision have already interesting pre-
+clinical results in rat brain tissue (Reference 60).
+
+Discussion
+
+Any successful BMI hardware technology relies on at least one, and in most cases all, of
+the following three essential elements: brain plasticity through user training, neural
+decoding by a machine learning algorithm, and neuroscience knowledge. Advances in
+the latter two will help all BMI research paths, but the former element is the most
+research path dependent since different technologies have different training limitations
+such as the inherent visual feedback delay of a noninvasive BOLD monitor.
+
+One approach to the training issue is to greatly simplify the control information
+bandwidth required. Research here has placed a focus on scenario-based controlling
+that is not from millisecond-to-millisecond updating of some 3-D trajectory like a full-
+duplex BMI specified in the introduction would perform, but rather is controlled by high
+level commands from the user in a low-bandwidth supervisory mode. It is conceivably
+useful to tell a wheelchair to “Go Left,” “Stop,” or “Veer Right,” and let sensors and
+actuators on the wheelchair work out the trajectory details, as opposed to constantly
+setting and resetting the trajectory of the wheelchair. In this manner, much of the
+feedback error-correction is done in the physical circuit. This approach can be viewed as
+a series of simple asynchronous decisions, and relies on the artificial intelligence of the
+execution algorithms rather than tapping the general adaptability of mammalian brain
+architecture. Mention is made of this research path because it is important to the
+advancement of the field as a whole, though the concentration in this treatise is on
+tapping the plasticity of neural systems rather than creating a program to imitate them.
+
+23
+UNCLASSIFIED/ -F@R-OFFtCGHH-USE-ONEE-

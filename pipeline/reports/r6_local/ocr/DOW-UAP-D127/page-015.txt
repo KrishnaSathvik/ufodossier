@@ -1,0 +1,62 @@
+UNCLASSIFIED / / FOR-OFFEGHH-USE-OA
+
+Table 1. Summary of the Properties of the Lognormal Distribution That Applies
+to the Random Variable N = Number of ET Communicating Civilizations in the
+Galaxy
+
+Random variable N = number of communicating ET
+civilizations in galax
+
+Probability distribution Lognormal
+
+(In(n uy
+20° (n> 0)
+
+Probability density function
+
+Mean value
+
+Variance
+
+Standard deviation
+
+u
+All the moments, i.e. k-th moment ps
+(N*) = eM e ?
+
+Mode (= abscissa of the lognormal peak) Maode = Mea = @ oo
+
+Value of the Mode Peak , o
+mo = -e"-e2
+fy Mma a a
+
+Median (= fifty-fifty probability value for oe eee
+N
+
+Skewness K ; oO p30"
+= -( +2} g r z = 5
+(K,)2 ( - i) (3° +3e°7 +607 + 6)
+Paine Ra =e!” 4263" +362" -6
+(K,)
+
+Expression of win terms of the lower (a7)
+
+and upper (bj) limits of the Drake
+uniform input random variables D;
+
+Expression of o*in terms of the lower (ai)
+and upper (bj) limits of the Drake
+uniform input random variables Di
+
+7. An Example Explaining the Statistical Drake Equation
+
+To understand how things work in practice for the statistical Drake equation, please
+consider the following table 2. It is made up of three columns:
+
+e The first column on the left lists the seven input sheer numbers that also become
+e The mean values (middle column).
+
+e Finally the last column on the right lists the seven input standard deviations.
+
+15
+UNCLASSIFIED/ /POR“OFFECEAL-USE-ONEY

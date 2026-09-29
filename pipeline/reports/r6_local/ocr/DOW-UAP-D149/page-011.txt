@@ -1,0 +1,34 @@
+UNCLASSIFIED/ /POI\ orr1e1At WSE 8Ptk¥ 
+pressure, Pamb is the ambient/environmental pressure, Pj et is the jet-kinetic 
+power (thrust power) produced by the engine, and Peiect is the electrical (or other 
+external source) power supplied to the propulsion system. For air-breathing 
+systems the mass flow rate of the fuel is very small relative to the mass flow 
+rate of the air. 
+Note that an air-breathing system can never fly faster than its exhaust velocity. 
+Rockets, because they carry an onboard oxidizer, do not have this restrict ion 
+and, therefore, have no flight-speed limits. The jet power for high-speed air­
+breathing engines is larger than the equivalent jet power for a rocket due to the 
+inlet and is the difference of two large numbers. 
+Large power levels are required for aircraft and launch vehicles . For example, an 
+SR-71 cruising at Mach 3.2 produces a thrust of 24,700 lbf (110 kN) and a jet 
+power of 104 MW. Climb and maneuver thrust is much higher. Similarly, an RL10 
+rocket engine produces 15,000 lbf (66.7 kN) thrust at an l sp of 433 seconds, and 
+has a jet power of 142 MW. By comparison, a Nimitz class nuclear aircraft carr ier 
+propulsion system is 194 MW, and the Hoover 
+dam produces about 2000 MW. Therefore, any 
+electric system replacing these applicat ions must 
+be capable of processing a lot of power. 
+Spacecraft propulsion systems are typically 
+hundreds of watts to tens of kW. This, in addition 
+to powerplant weight issues, is a primary reason 
+why electric propulsion systems are currently 
+being used on spacecraft and not on aircraft. 
+Historically, electr ic thrusters for spacecraft were 
+available for flight decades before the power 
+systems. 12 
+Figure 1. Electrothermal Arcjet 
+Thruster. Photograph of a 30-kW 
+arcjet thruster being tested at the 
+Jet Propulsion Laboratory .13 
+UNCLASSIFIED/f8R 8ffl@lsld:. WSE 8Ptklf 
+7

@@ -1,0 +1,44 @@
+UNCLASSIFIED/ /P'OR: OP'Pl@IAL WS& 0NI.¥ 
+have a significant problem in controlling their blood sugar and sometimes insulin doses 
+are not adjusted finely enough or frequently enough to maintain the blood glucose at 
+healthy levels. This form of diabetes is responsible for fainting (ketoacidosis) and other 
+serious symptoms such as poor blood circulation to the limbs. Poor circulation can 
+result in diabetic ulcers and may sometimes necessitate amputation of the limb. 
+Insulin pumps are often worn by brittle diabetics because a slow infusion of insulin 
+works better in stabilizing blood glucose levels rather than periodic injections. A belt­
+worn insulin-delivery system looks something like an old-style audio player. These 
+systems are typically controlled by a small screw-type pump powered by batteries. The 
+reservoir carries several milliliters of insulin for dispensing over an extended period of 
+time. The injection needle is connected (underneath the clothes) to a catheter and then 
+to the pump. The systems are reasonably effective but are cumbersome and require the 
+needle to continuously reside subcutaneously in the abdomen. 
+A MEMS implanted insulin pump is a less cumbersome and perhaps more convenient 
+means of slowly infusing insulin at a programmed rate. The implanted device is refilled 
+periodically by introducing a needle through the skin and tissue to a septum in the 
+device. 
+The MEMS insulin pump shown in Figure 6 is surgically placed under the skin. It has a 
+rubber septum on the top for filling with insulin. This implementation has a piezoelectric 
+element that moves in response to electrical charge. When actuated by a timer the 
+element oscillates, creating a pressure inside the device that dispenses insulin. The 
+device is programmable for dispensing at various rates. 
+Although the implantable MEMS pump was developed for diabetes, the pump has 
+application to the slow measured delivery of many other drugs including 5-fluoruracil 
+used for cancer therapy and theophyllne for treatment of asthma. 
+What is a Biosensor? 
+A primary application of BioMEMS is in the creation of sensors for blood chemistry and 
+other biophysical parameters of the human body. 
+We can define a Biosensor as: 
+• A sensor whose application is primarily in the measurement of quantities within a 
+biological system, such as chemical, electrical, and physical parameters. 
+• A sensor incorporating a biological component (enzymes, living cells, antibodies) 
+typically used to measure chemical concentration. This definition does not require 
+that the sensor be deployed within a biological system. 
+The two definit ions which are somewhat different have their origin with different 
+influential investigators who wrote textbooks in the early days of this field. The latter 
+definition is prevalent in Europe. 
+A biosensor is normally constructed by immobilizing a biologically active mater ial (such 
+as an enzyme) onto an electrical sensor that measures a fundamental physical quantity 
+like electrical current, voltage, mechanical strain, temperature, or frequency. The 
+specific sensor material is chosen because it reacts to a desired measurand (such as 
+UNCLASSIFIED/ {FOR OFFICIO! !PEii ODIi.¥ 
+9

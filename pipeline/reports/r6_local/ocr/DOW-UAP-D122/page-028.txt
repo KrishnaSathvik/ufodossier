@@ -1,0 +1,59 @@
+UNCLASSIFIED/ /FOR OFFI@IAL l::ISE OHL¥ 
+Summary 
+A cloaking device is a passive device made of a transpare nt material that guides light 
+around any object in its interior as if the light has passed through empty space. The 
+cloaking device conceals the object and hides the act of hiding itself. Perfect cloaking 
+devices are impossible because they require mater ials where the speed of light 
+approaches infinity. Imperfect cloaking devices could be made. Such devices impleme nt 
+suitable curved-space geometries. For electromagnetic microwaves, cloaking devices 
+are definitely within reach of the present technology. Whether invisibility in the visible 
+range of t he spectrum will become a reality is not entirely clear yet. Most probably, this 
+will depend more on the new theoretical research than on advances in new materia ls, 
+and on the application of mathemat ical intelligence, int uition, and imagination. 
+1 A. Alu and N. Engheta, Achieving transparency with plasmonic and metamateria l coatings, Physical Review E 72, 
+016623 (2005) . 
+2 G. W. Milton and N.-A. P. Nicorovici, On the cloaking effects associated with anomalous localized resonance, 
+Proceedings of the Royal Society London A 462 , 3027 (2006). 
+3 Y. Lai, H. Chen, Z-Q. Zhang, and C. T. Chan, Complementary Media Invisibility Cloak that Cloaks Objects at a 
+Distance Outside the Cloaking Shell, Physical Review Letters 102 , 093901 (2009) . 
+4 U. Leonhard t, Optical Conformal Mapping, Science 312 , 1777 (2006). 
+5 J. B. Pendry, D. Schur ig, and D. R. Smith, Controlling Electromagn etic Fields, Science 312, 1780 (2006) . 
+6 J. B. Pendry, D. Schur ig, and D. R. Smith, Controlling Electromagnetic Fields, Science 312, 1780 (2006) . 
+7 U. Leonhardt and T. G. Phi lbin, Transformation Optics and the Geometry of Light, preprint arXiv:0805.4778, to 
+appear in Progress in Optics. 
+8 U. Leonhardt and T. G. Philbin, Transformation Optics and the Geometry of Light, preprint arXiv :0805.4778, to 
+appear in Progress in Optics. 
+9 U. Leonhardt, Optical Conformal Mapping, Science 312, 1777 (2006) . 
+10 J. B. Pendry, D. Schurig , and D. R. Smith , Controlling Electromagnetic Fields, Science 312 , 1780 (2006) . 
+11 D. Schurig, J. J. Mock, B. J. Justice, S. A. Cummer, J. B. Pendry, A. F. Starr, and D. R. Smith, Metamaterial 
+Electromagnetic Cloak at Microwave Frequencies, Science 314, 977 (20 06) . 
+12 U. Leonhardt, Optical Conforma l Mapping, Science 312 , 1777 (2006) . 
+13 D. Schurig, J. J. Mock, B. J. Justice, S. A. Cummer , J. B. Pendry, A. F. Starr , and D. R. Smith, Metamater ial 
+Electromagnet ic Cloak at Microwave Frequencies, Science 314 , 977 (2006). 
+14 D. Schur ig, J. J. Mock, B. J. Justice, S. A. Cummer, J. B. Pendry, A. F. Starr, and D. R. Smith, Metamaterial 
+Electromagnetic Cloak at Microwave Frequencies, Science 314 , 977 (2006) . 
+15 D. Schur ig, J. J. Mock, B. J. Justice, S. A. Cummer , J. B. Pendry, A. F. Starr , and D. R. Smith, Metamaterial 
+Electromagnetic Cloak at Microwave Frequencies, Science 314 , 977 (2006). 
+16 D. Schurig, J. J. Mock, B. J. Justice, S. A. Cummer, J.B . Pendry, A. F. Starr, and D. R. Smith, Metamaterial 
+Electromagnetic Cloak at Microwave Frequencies, Science 314 , 977 (2006). 
+17 F. E. Wagner, S. Haslbeck, L. Stievano, S. Ca logero, Q. A. Pan khurst, and P. Martinek, Before striking gold in 
+gold-ruby glass, Nature 407, 691 (2000). 
+18 D. Schurig, J. J. Mock, B. J. Justice, S. A. Cummer, J.B. Pendry, A. F. Starr, and D.R. Smith, Metamaterial 
+Electromagnetic Cloak at Microwave Frequencies, Science 314 , 977 (2006). 
+19 W. Cai, U. K. Chett iar, A. V. Kildishev, and V. M. Shalaev, Optical cloaking with metamaterials, Nature Photonics 
+1, 224 (2007) . 
+20 W. Cai, U. K. Chettiar, A. V. Kildishev, and V. M. Shalaev, Optical cloaking with metamaterials, Nature Photonics 
+1, 224 (2007) . 
+21 C. M. Soukoulis, S. Linden, and M. Wegener, Costas M. Soukou lis, Stefan Linden, and Martin Wegener, Negative 
+Refractive Inde x at Optical Wavelengths, Science 315 , 47 (2007) . 
+22 C. M. Soukoulis, S. Linden, and M. Wegener, Costas M. Soukoulis, Stefan Linden, and Martin Wegener, Negative 
+Refract ive Inde x at Optical Wavelengths, Science 315 , 47 (2007) . 
+23 J. Yao, Z. Liu, Y. Liu, Y. Wang, C. Sun, G. Barta!, A. M. Stacy, and X. Zhang, Optical Negative Refraction in Bulk 
+Metamaterials of Nanowires, Science 321 , 930 (2008). 
+24 J. Valentine, S. Zhang, T. Zentgraf, E. Ulin- Avila, D. A. Genov, G. Barta!, and X. Zhang, Three-dimensional 
+optica l metamaterial wit h a negative refractive index, Nature 455 , 376 (2008). 
+25 U. Leonhardt and T. G. Philbin, General relativity in electrical engineering, New Journal of Physics 8, 247 (2006). 
+26 (11 ) J. Yao, Z. Liu, Y. Liu, Y. Wang, C. Sun, G. Barta!, A. M. Stacy, and X. Zhang, Optical Negative Refraction in 
+Bulk Metamaterials of Nanowires, Science 321, 930 (2008) . 
+23 
+UNCLASSIFIED/ ,CFOA OFFI&I.t.L l::ISE OHL¥

@@ -1,0 +1,26 @@
+18 
+White 
+a lot of firing , too. I started out checking the 
+Rate Command , so I thought I might possib ly have 
+one bad pitch thruster that was causing a rolling 
+moment that was bei ng counteracted by the yaw-roll 
+jets. When I did it in Direct, however , it wasn' t 
+doing that . It wasn't rolling either , so I felt 
+that it must jus t be a very tight deadband that 
+was trying to hold us in there . So, the operational 
+checks were all right . The only thing we had to 
+monitor on the syst em was the temperature and the 
+press ure of the propellant . It seemed to hold 
+pretty well . 
+I have some comments on that. I kept a running 
+log of them as we went alon g. The temper a ture 
+started out at 75 degrees and 3000 pounds . It held 
+that way pretty well until about the 65th hour , when 
+the temperature gradually went down. The temperature 
+decre ased to a point where we start ed get tin g the 
+RCS heater lights that we noted earl ier . We got 
+about eight series of RCS heater lights . It took 
+about 5 minutes to extinguish the light . It was 
+t he A-ring,then the B- ring, and then the A-ring . 
+I t s eemed to alt ernate each time back and forth and 
+it came on for abou t 15 to 20 minute periods of

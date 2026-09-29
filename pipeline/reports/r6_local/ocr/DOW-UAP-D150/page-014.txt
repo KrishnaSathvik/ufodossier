@@ -1,0 +1,47 @@
+UNCLASSIFIED//FOR. 8FFI@IAL l!ISI!!! er~t I 
+Two special schemes that operate differently than digital analogues of gate-based technology 
+are adiabatic and cluster-state quantum computation . In an adiabatic design, the answer is 
+the ground state of a complex network of interactions and the interactions are slowly turned 
+on to evolve qubits from the initi al state to the final ground state . In the cluster-state 
+scheme, the system is placed in a particular state through use of a small set of control gates 
+and the output is repeatedly measured using arb itrary basis (the fault-tolerance mechanism). 
+In the adiabatic case, the computation is 'programmed' in the setup of interactions. In the 
+cluster-state case, the calculation produces a superposition of states that need several 
+measurements to ensure correct interpretation. Both schemes have been shown to be 
+equivalent to gate-based circuit technologies. (15-17) 
+INITIALIZATION AND MEASUREMENT 
+Implied in the discussions above is the ability to set the quantum computer into a known 
+initial state, measure various states during computation if needed, and output the final state. 
+These processes can be tricky while maintaining isolation and low entropy. The initialization 
+and measurement techniques are discussed with each technology. 
+The Quantum Dot Approach 
+A major obstacle in the quest to design and construct a radically new kind of inorganic 
+quantum computer has been finding a way to manipulate the single electrons that are likely 
+to constitute the new machines' qubits . The ability to manipulate and alter a single electron 
+without disturbing the trillions of electrons in the immed iate surround ings has become a 
+research focus for many studies. (18) (19)(20) A cand idate is to utilize properties of the 
+intrinsic spin of the electron. In 1925, Austrian physicist Wolfgang Pauli proposed that an 
+electron in a quantum state can assume only one of two states-"spin-up" or "spin down." 
+(21) One approach to manipulate spin state and electrical charge independently for use in 
+quantum computing has arisen in the quantum dot. 
+Quantum dots (QDs) are tiny islands within a solid state lattice where electrons experience 
+charg ing effects as well as quantum confinement, like an electron in an energy level around a 
+nucleus. (22) Besides fundamental insights into matter, these artificial atoms can also work 
+as building blocks for the control of electronics at the single electron level. The so called 
+single-electron transistors are able to switch on and off electron transport through a dot by 
+means of electrical gates using the effect of Coulomb blockade. 
+Conversely, one can use spin rather than charge to control electrical conduction in 
+mesoscopic-scale electronics; such "spin-controlled electronic devices," and the ir 
+development and study, are termed spintronics. (23) Exploiting the spin degree of freedom, 
+a quantum dot can act as a spin filter (24)(25)(26) or as a spin-blockade device. (27) 
+Quantum dots have been proposed as host for an electron -spin qubit . Arrays of such 
+quantum dots with tunable tunnel-couplings between them would work as a universal 
+quantum computer. (28) Recent progress in this field using GaAs-based two-dimensional 
+electron gases is impressive (29), though decoherence can arise from spin-orbit and 
+hyperfine interaction with the nuclear-spin(s) of the host material (30) (31) (32). These 
+decoherence effects can be reduced by using a lattice structure with low magnetic moment. 
+Carbon has near zero magnetic moment due to the six each paired protons and neutrons in 
+carbon isotope 12C; a small net magnetic moment comes from the natural 1% contamination 
+of 13C. 
+UNCLASSIFIED//fdk OFFICIAL U:!I!!! 9HL'I 
+13

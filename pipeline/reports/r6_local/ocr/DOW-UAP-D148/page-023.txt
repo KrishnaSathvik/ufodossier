@@ -1,0 +1,24 @@
+UNCLASSIFIED/fFOR. QFFIEl.t.L: Uii QD:I! X 
+I x I06 i 
+J \ 
+\ I 
+u(A, T 2) 
+I 
+''!. 
+\ 
+\ 
+SxI05 •. 
+! o~---~----~--------~---~ 
+Figure 12. Energy Spectrum of the Sun at 5,778 K. 
+Application of Planck's Law to Hypersonic Vehicles. 
+As descr ibed in the theory of hypersonic fluid flow, any object moving through the 
+atmosphere with an M > 1 will result in a shock wave emanating from the leading edge of 
+the object. If the object has a blunt nose, such as a meteor entering the atmosphere, the 
+shock will be detached from the surface. If we consider a spherica l object moving through 
+the atmosphere at hypersonic speed, as shown in Figure 13, the expected spectrum of 
+emitted radiation can be computed. In this example, the altitude is assumed to be 10 km 
+above the Earth's surface. At this altitude, the ambient static temperature is 223 K (- 50° C), 
+the pressure is 26.1 % of sea level atmospheric pressure (see Appendix A for the properties 
+of the U.S. Standard Atmosphere). 
+UNCLASSIFIED//EQA: QlililEl.t.L: W&&: O,.L'l 
+19

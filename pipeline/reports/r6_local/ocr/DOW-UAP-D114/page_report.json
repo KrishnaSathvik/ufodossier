@@ -1,0 +1,70 @@
+{
+  "filename": "DOW-UAP-D114.pdf",
+  "generated_at": "2026-09-28T20:43:50.128749+00:00",
+  "page_count": 3,
+  "usable_text_chars": 5105,
+  "stats": {
+    "native_good": 1,
+    "native_thin": 1,
+    "needs_ocr": 1,
+    "ocr_failed": 0,
+    "ocr_succeeded": 1,
+    "pages_ocrd": 1,
+    "ocr_unrecoverable_thumbnail": 0
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "native_quality": {
+        "page_number": 1,
+        "native_char_count": 947,
+        "printable_ratio": 0.998,
+        "alpha_ratio": 0.524,
+        "word_count": 95,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.07, clean=0.51))"
+      },
+      "final_category": "native_good",
+      "text_method": "tesseract",
+      "char_count": 614,
+      "text": ""
+    },
+    {
+      "page_number": 2,
+      "native_quality": {
+        "page_number": 2,
+        "native_char_count": 4330,
+        "printable_ratio": 0.999,
+        "alpha_ratio": 0.713,
+        "word_count": 599,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "sufficient clean native text"
+      },
+      "final_category": "native_good",
+      "text_method": "native",
+      "char_count": 4330,
+      "text": ""
+    },
+    {
+      "page_number": 3,
+      "native_quality": {
+        "page_number": 3,
+        "native_char_count": 112,
+        "printable_ratio": 1.0,
+        "alpha_ratio": 0.759,
+        "word_count": 11,
+        "replacement_char_count": 0,
+        "category": "native_thin",
+        "reason": "thin but printable native text (caption/short page)"
+      },
+      "final_category": "native_thin",
+      "text_method": "native",
+      "char_count": 112,
+      "text": ""
+    }
+  ],
+  "combined_path": "/Users/krishnasathvikmantripragada/Webapps/ufo-dossier/pipeline/reports/r6_local/ocr/DOW-UAP-D114/combined.txt",
+  "production_writes": false
+}

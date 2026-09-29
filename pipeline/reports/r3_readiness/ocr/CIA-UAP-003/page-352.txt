@@ -1,0 +1,50 @@
+APPENDIX E
+
+Unmanned Reconnaissance Projects
+
+AQUILINE
+
+In the early 1960s, there were many problems in obtaining coverage
+of hostile territory. The U-2 was too vulnerable to Soviet sur-
+face-to-air missiles, as had been demonstrated by losses over the
+Soviet Union, Cuba, and the People’s Republic of China. The
+OXCART was still under development and even when completed
+might prove vulnerable to Soviet radars and missiles. Although safe
+from interception, the newly developed photosatellites could not pro-
+vide coverage of a desired target on short notice. Because several of
+the intelligence community's primary targets such as Cuba and the
+new Soviet radar installation at Tallinn (Estonia) were not located
+deep in hostile territory, CIA scientists and engineers began to con-
+sider the possibility of using small, unmanned aircraft for aerial
+reconnaissance. They believed that recent advances in the minia-
+turization of electronic technology would make possible the
+development of a reconnaissance vehicle with a very-low-radar cross
+section and small visual and acoustical signatures. Such a vehicle
+could reconnoiter an area of interest without the hostile country real-
+izing that it had been overflown.
+
+In mid-1965, David L. Christ, chief of the Office of Research
+and Development’s Applied Physics Division, and Frank Briglia of
+the same office began working on the concept of a small, inexpensive
+aircraft that would be about the size of a large bird and could carry
+various payloads for photography, nuclear sensing, and ELINT collec-
+tion. ORD soon formed a Special Projects Group to develop the air-
+craft with Briglia as the project manager. Only one firm—the Douglas
+Aircraft Company—responded favorably to a request for proposal
+to study the feasibility of a low-altitude reconnaissance system. On
+15 November 1965, Douglas received a study contract. This was
+followed by two Agency contracts on 2! November 1966 for the
+development of an operational low-altitude intelligence-gathering
+system. Further contracts followed in 1968 and 1969.
+
+The AQUILINE prototype developed by Douglas Aircraft
+(which became part of McDonnell-Douglas in 1969 as the result of a
+merger) was essentially a powered glider with an 8.5-foot wingspan.
+The aircraft weighed only 105 pounds. AQUILINE’s tail-mounted en-
+gine drove a two-bladed propeller. Powered by a small 3.5-horse-
+power two-cycle engine originally developed by the McCullough
+
+“Sttret NHOFORAL
+Appendix E
+
+339

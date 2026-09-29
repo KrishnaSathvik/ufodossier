@@ -1,0 +1,35 @@
+UNCLASSIFIED/ /FOR 8FFIOIAL ~81!! 9HLY 
+.....-
+1'10 .... -------''---..- --------.---------r-----------...,, 
+10 ~ ~- - --- -------------------- -+--- ----,t 
+iR .._o •u:s 
+Figure 1.2. Idealized Potential Structure Calculated by Hirsch for Monoenergetic Ions With 
+No Angular Momentum. The nested virtual anodes and cathodes observed were originally termed 
+"poissors" by the inventor, Philo Farnsworth . 
+This is a very striking result that enthused these researchers to push on with this 
+research. It, in effect, circumvents the Elmore et al. restriction by changing the 
+potential well physics fundamentally. Of course in practice, there will be a spread in 
+energy and angular momentum, so one would not expect more than a single potential 
+well (vs. the infinite poissors of Farnsworth) to form in practice. The questions 
+remaining then were (and still are): "How deep can such a well be in practice and how 
+high an ion density can be trapped in it?" Various studies followed to study these issues 
+more thoroughly using simulation codes. For examp le, Klevens and Black found in 
+Reference 1.3 that: "A model of an electrostatic confinement device with ion injection 
+has been developed which provides strong correlation between theory and experiment. 
+The ion density profile was determined in position velocity throughout the two 
+concentric grids by considering the processes of charge transfer and grid capture. A 
+shallow -well approximation was incorporated in the model by assuming that ions 
+encountering charge transfer in the inner grid region were accelerated up to a 
+maximum of 5 percent of the applied grid voltage, and that the velocity of beam ions 
+was constant in this region. Distribution functions in total energy and angular energy 
+were developed for both ions and electrons. The ion distribution function consisted of 
+three parts: a beam created at the anode and accelerated by the applied cathode 
+voltage; a low-energy group produced by charge transfer near the cathode or in the 
+center; and a intermediate-energy group resu lting from charge-transfer reaction 
+between anode and cathode. For each group the angular energy was assumed uniform 
+up to a maximum value, which was different for each energy group. The electrons were 
+assumed to be isotropic in velocity space, and to be uniformly distributed in total 
+energy in the potential well in which they are trapped . The distribution functions were 
+substituted into Poisson's equation and potential and density profiles for various 
+UNCLASSIFIED/ I f8R 8FFIEilAk lel&& 0PU,¥ 
+6

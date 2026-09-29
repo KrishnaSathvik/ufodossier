@@ -1,0 +1,46 @@
+UNCLASSIFIED/ fFOA OFFIEIAk W&i 0Pilk¥ 
+distance). 8 The supernovae data strongly disfavored (with high confidence) the flat 
+matter-dominated (nm = 1, n /\ = 0) universe and the pure open universe (nm = 0.3, n /\ 
+= 0) models. 9 After this discovery, a lot of attention was paid to choosing an 
+appropriate name for this new energy. "Quintessence" was one good choice because it 
+expresses the fact that, after cosmological photons, baryons, neutrinos, and dark 
+matter, there is a fifth essence in the universe. More recently, "dark energy" is used 
+more often, with quintessence referring to the subset of models in which the energy 
+density can be associated with a time-dependent scalar field or a time-dependent 
+cosmological vacuum energy. 
+In analyzing the cosmological modeling results suggested by the Type Ia supernovae 
+data, it becomes apparent that the only form of dark energy budgeted for in the models 
+is the cosmological constant. To consider other possibilities one evaluates the time 
+evolution of the general relativistic conservation law for energy, VJ:= V,l ; = O, where 
+v = 0 to signify time evolution and Vr, is the covariant derivative (or spacetime 
+curvature gradient), in an expanding universe as applied to the cosmological constant 
+(Reference 16): 
+8PE +~3PE + 3p] = O (20) 
+at a 
+where a is the scale factor of the universe and t& is the time derivative of a. Equation 
+(20) is derived using Equation (12) in the case of a perfect isotropic fluid where there is 
+no gravity and velocities are negligible such that u µ = (1, 0, 0, 0), and the energy 
+density and pressure evolve according to the continuity and Euler equations. The only 
+way Equation (20) can be satisfied with constant energy density is if the pressure is 
+defined by Equation (17). One might imagine energy with a slightly different pressure 
+and therefore energy evolution. Define the equation of state w: 
+(21) 
+A cosmological constant corresponds to w"' = wvac = -1, matter (ordinary and dark) to 
+w mauer ::::: 0, and radiation to Wract = 1/3. 10 The earlier Riess and Perlmutter supernovae 
+data (fixing the universe to be flat) showed that values of Wcte > - 0.52 for dark energy 
+are strongly disfavored. In fact, Riess and a team of collaborators (a.k.a. the "Higher-Z 
+team") recently published new observational data and analysis that includes a much 
+larger survey of Type Ia supernovae that are at much higher cosmological redshift 
+(Reference 54). The measured spectra of ancient (z ~ 1, or up to 10 billion light-years 
+distance or a look-back time of up to 10 billion years ago) and recent (z ~ 0.1, or ~ 1 
+billion light-years distance or a look-back time of ~ 1 billion years ago) were compared 
+and showed that there was no evolutionary change in the physics that drives Type Ia 
+supernovae explosions and their subsequent spectral luminosity output. This establishes 
+8 In cosmology, the redshi~ z serves as a surrogate for distance (in light-years) or look-back time . 
+9 O m = ratio of energy density conta ined in matter (as measured today) to the critical energy density; n A = Ovac = 
+ratio of energy density in a cosmological constant to the critical energy density; Per= 3Hl /8rcG is the critical energy 
+density, where Ho is the present-day Hubble expansion rate . 
+10 Non-relativistic (ordinary and dark) matter has a very tiny positive pressure, p oc Temp/m (Temp is absolute 
+temperature, m is mass), while a relativistic gas (of radiation) hasp = pE/3 > 0. 
+UNCLASSIFIED/ /FOA OFFI&IAb Yi&: 8,.bY 
+16

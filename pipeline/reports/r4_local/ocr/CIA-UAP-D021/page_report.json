@@ -1,0 +1,87 @@
+{
+  "filename": "CIA-UAP-D021.pdf",
+  "generated_at": "2026-09-28T17:29:25.466748+00:00",
+  "page_count": 4,
+  "usable_text_chars": 4714,
+  "stats": {
+    "native_good": 0,
+    "native_thin": 1,
+    "needs_ocr": 3,
+    "ocr_failed": 0,
+    "ocr_succeeded": 3,
+    "pages_ocrd": 3,
+    "ocr_unrecoverable_thumbnail": 0
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "native_quality": {
+        "page_number": 1,
+        "native_char_count": 1837,
+        "printable_ratio": 0.989,
+        "alpha_ratio": 0.671,
+        "word_count": 251,
+        "replacement_char_count": 0,
+        "category": "native_thin",
+        "reason": "thin but printable native text (caption/short page)"
+      },
+      "final_category": "native_thin",
+      "text_method": "native",
+      "char_count": 1837,
+      "text": ""
+    },
+    {
+      "page_number": 2,
+      "native_quality": {
+        "page_number": 2,
+        "native_char_count": 23,
+        "printable_ratio": 0.913,
+        "alpha_ratio": 0.739,
+        "word_count": 3,
+        "replacement_char_count": 0,
+        "category": "native_thin",
+        "reason": "ocr_replaced_native (below native usability thresholds)"
+      },
+      "final_category": "native_thin",
+      "text_method": "tesseract",
+      "char_count": 19,
+      "text": ""
+    },
+    {
+      "page_number": 3,
+      "native_quality": {
+        "page_number": 3,
+        "native_char_count": 1840,
+        "printable_ratio": 0.985,
+        "alpha_ratio": 0.533,
+        "word_count": 256,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.30, clean=0.42))"
+      },
+      "final_category": "native_good",
+      "text_method": "tesseract",
+      "char_count": 1827,
+      "text": ""
+    },
+    {
+      "page_number": 4,
+      "native_quality": {
+        "page_number": 4,
+        "native_char_count": 1093,
+        "printable_ratio": 0.985,
+        "alpha_ratio": 0.427,
+        "word_count": 132,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.36, clean=0.32))"
+      },
+      "final_category": "native_good",
+      "text_method": "tesseract",
+      "char_count": 965,
+      "text": ""
+    }
+  ],
+  "combined_path": "/Users/krishnasathvikmantripragada/Webapps/ufo-dossier/pipeline/reports/r4_local/ocr/CIA-UAP-D021/combined.txt",
+  "production_writes": false
+}

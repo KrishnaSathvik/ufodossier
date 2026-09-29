@@ -1,0 +1,40 @@
+UNCLASSIFIED/ /FOA QFFl&I.t.k WSI: 8,.kY 
+release intense bursts of keV X-rays capable of igniting a DT thermonuclear reaction, 
+which in turn could ignite a larger deuterium detonation. 
+To realize the first possibility, one might consider pumping a solid argon rod with a 
+convergent cylindrical shock wave driven by a high explosive (Reference 9). If the 
+argon rod is placed in the center of convergence and reaches a temperature of 90,000 
+°K, the upper ultraviolet laser level of the argon will be populated. Following this 
+heating, the argon cylinder radially expands and cools, with the upper laser level frozen 
+into the argon. The energy thus stored in the upper laser level can then be removed 
+from the rod by a small Q-switched laser, the resulting powerful laser pulse optically 
+focused onto a thermonuclear target. 
+To realize the second possibility, one would have to subject suitable materials to very 
+high pressure (Reference 10, 11). These energetic states can be reached only if during 
+their compression the materials are not appreciably heated, because such heating 
+would prevent the electrons from forming t he bridges between the inner electron shells. 
+Details of the second possibility are provided in t he appendix. 
+Magnetic Insulation and Inductive Charging 
+Two concepts are of great importance for t he envisioned realization of a deuterium 
+fusion-driven starship: 
+• The concept of magnetic insulatio n, which permits the attainment of ultrahigh 
+voltages in high vacuum (Reference 1). 
+• The concept of inductive charging, by which a magnetically insulated conductor can 
+be charged up to very high electric potentials (Reference 12). 
+MAGNETIC INSULATION 
+In a greatly simplified way, magnetic insulation can be understood as follows: if the 
+electric field on the surface of a negatively charged conductor reaches a critical field on 
+the order of Ee ~ 107 Vjcm, the conductor becomes the source of electrons emitted by 
+field emission. The critical electric field for the emission of ions from a positively 
+charged conductor is ~ 108 V/cm. Therefore, if in a high-voltage diode the electric field 
+reaches ~107 V/cm , breakdown will occur by electric field emission from t he cathode to 
+the anode. But if a magnetic field of strength B measured in gauss is applied in a 
+direction parallel to the negatively charged surface, and if B > E, where E (like B) is 
+measured in electrostatic cgs units, the field-emitted electrons make a drift motion 
+paralle l to the surface of the conductor with the velocity. 
+w w 
+E x B E v =c --=c - (1)d B2 B 
+To keep vd/C < 1 then requires that E < H. Let us assume that H::::: 2 x 104 G, which can 
+be reached with ordinary electromagnets, means that E ~ 2 x 104 esu = 6 x 106 V/cm. 
+UNCLASSIFIED/ /FOR. 8Fflt1Jlct U:!I! OHLI 
+3

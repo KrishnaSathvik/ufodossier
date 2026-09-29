@@ -1,0 +1,1493 @@
+--- PAGE 1 ---
+Authority: 
+NND 974373
+
+--- PAGE 2 ---
+
+
+--- PAGE 3 ---
+f 
+, 
+DEPARTMENT OF THE AIR FORCE 
+Head.quarters United States Air Force 
+Washington 251 D. C. 
+SCIENTIFIC ADVISORY BOARD TO THE CHIEF OF STAFF, tJSAF' 
+scn;NrIFIC ADVISORY BOARD :REPORT ON AVRO PROJECT Y2 
+~ 
+Novembex· 1951+ 
+----------:" 
+This document consists of ______ pages 
+Copy Number~-- of _,l.1,, ··- copies. 
+0 
+ECRB±'
+
+--- PAGE 4 ---
+.... . 
+, t DEPARTMENT OF TBE AIR FORCE 
+Head.quarters United States Air Foree 
+Washington 25, D. C. 
+10 December 1954 
+Lieutenant General Donald I .. Pu·tt 
+Deputy Chi et of Staff, Development 
+Headquarters United States Air Force 
+Washington, D. C.. 
+Dear Don: 
+In response to your request tor BAB commen·t,s on the Avco 
+"Saucer'' project, the SAB baa taken the following action: 
+The Aircraft and Propulsion Panels were brieted on September 
+28 ·by represente.ti vea ot Bq. ARDC, at ·the time of the Fall meet~j.ng 
+of the Board in Omaha. The tentat:ive conclusions ot bo·tb panels 
+immediately atter this briefing were to the ettect that th.is pro­
+.Ject warranted no more than limited support. l!oveve:r, to assu1·e 
+·thoro\lgb. consideration ot this project, I requested rt:?presentati ves 
+of these two panels to supplement. the briefings given 'to -them at 
+~ by a. Tisi·t to A. V. Roe- Canada Ltd., Malton., Ontario. 
+With the advice of Clark Millikan and Dean Soderberg., a select 
+committee ,ms choaen to conclude this study. It was c~sed ot 
+Dean Soderberg, Chairman of the Propulsion Panel and senior member 
+o'f the group; Professor Markham, of the Aircraft Panel; and Mr .. 
+Donovan, who has been serving both as a member or 'the Aircraft Panel 
+and as lie..:I.son member with the Propulsi,on Panel. 
+The attached report ot this ,group is ~orwarded with my «.PPt•oval, 
+representing the results ot the SAB's ccapleted study. 
+Sincerely, 
+/a/ 
+J. H. DOOLr.rTLE 
+Actins Chairman 
+Scient.itic Advisory Board 
+Office ot the Chief of Sta.ff 
+Inclosure 
+• 
+S E C Ft B 'f
+-
+
+--- PAGE 5 ---
+December 6, 1
+
+2
+
+Generel Jamea H. Declittie,
+Sejentific ‘Avieory E +s
+Office of the Chief
+Headquarters Unit so
+
+Sees meee «Os
+en oe 7. fk we
+
+we be o a een
+We wish %
+most courteous end vell<-olanned
+
+ble wee of the evailable cine.
+
+the Y2 is en airplane of eclreule
+around @ redial flow turbojet with the «
+
+flected downveard in ean annular jet for take-of
+
+AK
+
+te ground. The @irplane is designed for
+
+see
+
+LvLtuae, under which condition. ine
+
+a
+
+ally peerverde,. The air is taken in vertical
+
+© exhaust ;
+
+to cone
+pre~
+in Sep=
+
+Company in
+
+availa
+
+supersonic
+
+One
+
+--- PAGE 6 ---
+hovering; for level flight the inte!
+
+ged to & normal
+
+frontal inlet by a set of alides and doors. In later versions
+
+i axiel flow
+
+rectioal engine has been rep aced by radially dispose
+
+turbojets of conventional type. This modification wt
+
+as originally
+
+considered a8 an intermediate version which might simplify the devel-
+
+i
+
+ae
+
+pment procedures, but as the radial engine has been more realisti-
+
+cally appraised, 1t ie now leoked upon as an alternative form of -
+
+squeal promise.
+
+It ia evident thet the invention involves a whole array of for-
+
+mideble problems of research and development. Even in the emailest
+
+versions the outer diameter of the radiel flow turbine is about
+
+twenty feet. The entire voter must be supported on air bearings in
+
+the redial ag well ae the axial direction, and it is evident that
+
+the esecompanying problems of mechanical design are very difficult.
+
+um of about
+
+The design requires that very large
+
+lated by a complicated syst
+
+on the inlet as well as on the outlet side. The problems of stability
+
+in hovering, in forwerd flight, end in the transition between the two
+
+modes naturally demand considerable attention. The many structural
+problems of an unconventional nature Likewlse require much study, It
+ia evident, even with only a casual study, that the process of devel
+
+ae
+
+% would be lengthy and costly in the extreme, even by present
+
+gtanderds in militery aircraft, The justification for entering into
+
+--- PAGE 7 ---
+such an under
+jectives whi
+ese objectives.
+
+.n of the Y2 is based is
+
+eseure build-up increases the lift
+
+ich @ fashion as to indicate
+
+round effect, woul
+
+tein ite attitude. The
+ined by A. V. Ree in
+
+cause the appropria’
+
+not investiga nd the pertinent measurements not
+
+tents, data are not eva
+L0n factors. There are
+
+tation factors
+
+--- PAGE 8 ---
+i
+
+woe
+
+figuration to such an extent that performance in level flight ap-
+
+&
+
+pears to have been senimusly compromised. Since forward flight is,
+
+tant function of any airplane, we have attempted
+
+after all, the impor
+
+to examine into the inventor's claim for the flight characteristics
+
+, GOL «
+
+with particul
+
+tor hes advanced claims for favorable forward flight
+
+basis tl radial flow engine has a very
+
+gatio (about .22), that the spec
+on the projected area of the plane (about 600, excluding air in
+
+end thet the drag cherecteristice of the plane are
+
+2 settle
+
+very favorable. While not enough information is availabl
+
+all of these points, we are compelled to take exception to all th
+of these claims. The specific engine weight ia no longer
+would not in iteelf justify the radiel engine development. Moreover,
+
+the redial engine possesses certain inherent limitations in pressure
+
+ratio end component efficiencies which are detrimental to good fuel
+
+consumption in c jon wi’ A0 ial flow type. The shift to con-
+
+wontional turbojets has, of course, altered the situation, but it hes —
+
+on the engine. The high
+
+ie ia % dus the fact that all discussions Bo §
+6 around ol os with no pay lead. The situation v
+_gespect to drag ap) 8 to us the most sevlous, however, $i.
+
+that the drag may have been underestimated by a factor of two. Very
+
+--- PAGE 9 ---
+ents are needed to settle the
+
+ovement in
+
+th the distribution of
+
+irplane. it is not
+
+sent, but no
+
+ime @} this point
+
+ffers from more conv
+
+entional types only
+
+ng edge of the
+
+does not. appear to possess an)
+
+origin. adial engine or with
+
+turbojets. The pressure recove
+
+to be poor for both «
+
+ernatives; even with
+of details it could not app
+
+8, The ducting on. %
+
+difficulties
+
+--- PAGE 10 ---
+information to indieate that this is so. No basic lews appear to he
+
+1 transgressed in the design. It is merely a question of overempha-
+
+sia on the hovering characteristics without any assurance that the
+
+level. flight. characteristics would be telerable.
+in arriving at a recommendation for action by the United States
+Airy Fores, we have attempted to bring into focus several considerat
+The kind of imaginatlve thinking shout unconventional
+the inventor has dieplayed certainly has a place, and there
+hapa not enough of 1+ in the pleoning operations of the USAF.
+scheme of thie Kind ie ready for more serious exploitation
+certain considerations are eseentiel.
+of hardhesded thecretical and experimental «
+wat such a 1 procedure, if epplied to aircraft development
+yours ago, would have prevented powered flight is
+The development of an engine euch as the Ye, if 1% 46 to be
+to a Flight article of some kind, ies ean undert
+
+(ude that it simply cannot be undertaken c
+
+particularly with reference to level flight.
+serious lack of attempt at a systematic exploration of ime various
+
+key serodyneamic phenomena involved. There must also be a set of
+
+goals for the alrcraft, which would vlece 1% in a class abead of
+
+--- PAGE 11 ---
+' " other developments
+
+et
+
+formance, if the basic ideas should be
+
+le of realisation. We do not feel. thet the objectives of
+
+the devel
+
+1 ¢learly formulated. In particular, we
+
+nt have b
+
+& A
+
+on @ preoccupation with
+
+al that there has be
+
+the hovering char«
+
+) more direct ass
+
+entials of
+
+eirerert heve been Lost sight of ..
+
+We Go not question the ability of the A. V. Roe Ge
+
+undertake successfully any well-conceived project in the aix
+
+fleld whieh lies within thelr ma’
+
+Pio). resources. Our visit con-
+
+in jot aircraflt
+
+3
+
+the suspicion, how _
+
+ever, thet the responsible ¢ rere in the A. V. Roe engineering
+
+groups ere not thore e Y2 project. It is mani«-
+
+festly leposgible for us to prove this contention or to wake this
+
+assertion officially with the company. We feel convinced,
+
+ante or 0 Ae ¥ @ Roe
+
+organization have not
+
+ion of this pr
+
+inventor, who im
+
+ginetion, bat who
+
+--- PAGE 12 ---
+On the basis of the above, we recommend against y contract
+
+support for this project until much greater potentialities have be:
+
+demonstrated by A. ¥. Roe’s own analysie.
+
+SLY yours,
+
+s
+
+--- PAGE 13 ---
+AFOIN-201
+Mr iain
+1 October 1954
+
+Le TO make a final report on a special project assigned to Mr. OC. .
+Bollun, Sr., for the purpose of investigating possible Soviet capabilities
+for developing and producing a Vertical Take-Off Aircraft which - be
+similar in appearance to a "Flying Saucer",
+
+2. In the Magazine Section of the Washington Post, dated 13 December
+1953, there appeared am article which reported the development of a flying —
+: e Canada, Limited of Toronto. ‘The eS wae
+Lt. Gen. Donald L. Putt, Director of ARDC , |
+_ wiewed this flying saucer. Other information given in the art
+Mr. Bollum with the thou that here was the first factual evidenc
+was possible to build a ing saucer. If it was possible for Canada to oo
+
+build a flying saucer, then it was also possible for the Soviets to bu
+one, Mr, Bollum requested that he be authorized to initiate a special p
+_ ject for the purpose of determining Soviet capabilities in this field. Sach
+permission was granted by Col. fT. W. = Chief of cate Future —
+Branch, | :
+
+RAY, the suis was , ecuckat yy ol L
+a patent filed by the 4.¥. Roe people on a arias entitled «ik Gs es :
+_< owt ere _ application for this device was first filed in
+o oa ita eal salad out the feasibility of the
+Baltimore to discuss the |
+that Lt. Cel. V. Ly  .
+: peusiek first prerpeet the Saterha\ion vacerdink the. application of the
+_ Coanda Effect to the Project "Y¥" desig. Several more visits were made to
+ARDC and after Pychaceng. the ag et eg several engineers and officers, |
+
+ner ef the “wees of thi cwtes datorestl on scasetiing oi
+Sevan Visise Saucer projects. ‘These were rumored to have existed at the
+end of World War II, ot vee authorized for Bollum and Wainwright
+
+result of this trip copies of the pertinent information were forwarded to . Lo
+
+aks ile ee ht Ottawa. Im brief, there is information on four
+
+--- PAGE 14 ---
+a. George Klein who, as of April 1953 resided in Hamburg,
+claims to have been chief engineer of all flying disc projects, How
+
+ever, his principal importance seems to be that he knew of the exist—
+
+ence of such projects and has called attention to other Germans in basse
+
+b. Otte Habermohl , who has not been heard of since the end of
+the war, is reported to have had a project for a 16 meter diameter fly-
+ing saucer which was test ene on 14 February 1945 at Helice,
+
+Ce Rudolf Schriever, who ated in 1945, was a designer/test pilot
+BMW Works at Prague. He is mepevied to have constructed a flying
+saucer, which at a trial in April 1945 failed to leave the ground,
+
+ad. Robert Miethe, whe is supposed to have entered the U. . is
+1953, is reported to have constructed a 435 meter diameter flying
+called the "V-7", which is reported to have flown with a crew of thre:
+in 1944, In August 1944 the Ceeko-Moraveke Worke in Prague is reporte
+to have received a production order for @ short series, but none
+finished by the end of the war, Miethe remained in Preslen, when,
+escaped in an ME-165 one jump ahead of the Russians, The Russians capture
+three of ostoasied principal assistants and his workshops. Miethe, snares
+to the Canadians, came into this country as an emigrant.
+
+It is of interest to note that in March of 1954, a man using the
+Berberich and who claims to have entered this country in 1953, forwarded t:
+a Senator from Ohie a manuscript and drawings depicting how he would build
+a flying saucer, These were in turn forwarded to the Legislation and Liaison
+Division of Headquarters, USAF, who sent them te AFOIN. AFOIN forwarded the
+documents to ATIC for translation and evaluation, Mr. Bollum was assured by
+Mr, Arcier of ATIC that he would receive a copy of the resulta aca soon as
+ATIC had completed the translation, Teo date mo such information has been
+Regen ves and therefore Mr. Bollum is not able to ve-aua the results obtained.
+The big question would seem to be whether or not this man Berberich could be
+Miethe,
+
+5. Upon return to Washington Bollum and Wainwright again went to ARDC
+Baltimore where they were briefed on the U.S. interest in Canada's project
+and informed of the political and international = involved. At
+this time both were requested to handle the whole project on a sensitive
+basis until notified by ARDC that exranconeats ives U.8. and Canada had
+been completed. In accordance with such request, briefings were Limi ted to
+General Samford, General Lewis, Colonel Morrow, Colonel Eriksen, Colonel
+True, Colenel Wolfe, Captain Reomey, USN, and Lt. Colonel Farrior.
+
+6. In April Colonel True received permission for an Air Reom peerage
+of key APOIN personnel, which was attended by the Branch and Division Ghiefs.
+About the lst of May a request came for briefing the Classen Committee, who
+wer considering the future material requirements for the Strategic Air
+Command, On 26 May 1954 key analysts of the Rand Corporation, Santa Monica,
+California, were briefed at the requess ef Colonel True and permission was
+
+--- PAGE 15 ---
+he
+
+) ge to brief the engineering personnel of the Los Angeles Air Force
+
+ae Office.
+
+7. #m "Air Force Only" restriction was dropped in June 1954 and the
+following have been briefed since; Chief of Naval Operations and Staff,
+Chief of Staff U.S. Army and Staff, Commandant of the Marine Corps and
+Steff, Key Personnel of ClA-OsI, Mr. Hisesletein of ATIC, Intelligence per~
+somnel of SAC, TAG, ADC, ARDC, AFSS, AVSSOP, NSA, and Requirements Officer
+of the Air War College. A copy of the briefing is attached as TAB A,
+
+8. On 15 June 1954, Bollum and Wainwright visited the i Roe ‘Limited,
+Toronte, Gamada. One day was spent discussing Project "Y" and informatio
+German and/or Soviet interest in such unconventional aircraft. Mr, ¥:
+the Chief Engineer on the project and designer of the radial flew jet
+demonstrated by use of laboratory models all the principles of the Coanda
+Effect, the air bearings, and the control system contemplated, Such Sinea-
+atrations left little doubt in the minds of amyone present that the project
+would be a success. Mr. Frost had previously gone to Europe to interrogate —
+George Klein and in addition had had access to many flying saucer reports
+from Hurepe, He firmly stated that there was no doubt in his ménd that the
+Soviets are ahead of the Western Nations in the development of a true, verti-
+cal take-off aircratt.
+
+9. Recent news articles indicate that both the U.S. and U.K. have other
+projects in being which are in the field of Vertical Take-Off Aircraft (V0).
+
+1O. Im conclusion, it appears that the chances of success are good for
+Project "Y" or Project "Ladybird" as it is known in the USAF. If this is the
+rough in the aeronautical “State of the Art" has oecurred which |
+mize aircraft design and eir warfare. If we accept the possi-~
+bilities of such designs then we must also conclude that the Soviets must at
+the least have the capability te have such aircraft almest as soon as the
+Western Nations, At the other end of the possibilities, we must consider
+the chance that the Soviets are several years ahead of the U.S. at this time.
+Perhaps one of the most importent results of this imvestigation has been that
+ae unconventional aircraft are not considered as fantastic as previous”and
+2 emphasis will shift from disproving flying saucer reports to proving such
+poser The effect of a successful flight will be far reaching. A new look
+will have to be taken at the design of many categories of military equipment;
+i.e. radars, guided missiles, armament, antiaircraft artillery, etc. It is
+possible that such capabilities could very radically change estimates for the
+period of 1960-65
+
+oi -ecommendations have
+It was = at she time that the various: — of the Directorate
+ine = a this
+
+--- PAGE 16 ---
+- assume , any responsibility 4 eis field, Informally, ATIC personnel have
+indicated to Mr. Bollum opinion that the success of Project "Ye" is very —
+
+doubtful and that it ie not expected that ATIC will show amy great inter- =
+
+_ est or take amy action other than that normally taken by the Unidentified
+
+Flying Object. Personsel« As a result of this inactivity, very little
+new has been accomp the last few months toward ascertaining Soviet
+capabilities. I s therefore recommended that the following actions de. -
+- requested by the’ Director of Intelligence, —
+
+ . Inaguuch as Vertical Take-Off eivorett similar in appearance OF
+a ‘flying saucer will be test flown in a matter of 18 months with a possible
+_ production within three years, it is believed appropriate at this time to
+
+_ diverce the reports, analysis, and estimates of earth produced flying gaucers
+
+from the UFO activity at ATIC. Such items of intelligence should: wae handled
+through normal material and equipment channels in the D/I. :
+
+* AD reports of sipbines f UFO's in areas immediately adjacent
+to the Soviet Union and Satellites should be re-examined in ligh
+possibility that the Soviets could be well ahead of the U.S. and (
+
+the development and service testing ef such an aircraft. :
+
+ce. A section should be inserted in the Basic Air Intelligence ,
+_ Requirement Manual and an AFM should be prepared on Tinted is eence Cell eeee
+Guidance Manual on Vertical Take-Off Aircraft".
+
+: d, Necessary support should be requested of other ecversnsat aeoncien _
+in an attempt to locate Robert Miethe and Bruno Berberich. After location of
+the above men, steps should be taken to have oe inverse? by pereennel
+
+familiar =“ the entire background on this project.
+
+| _ A project should be established to estimate os nes |
+applications for such an aircraft and the extent to scam eer —
+desi, for other military equi ad
+—, a short discourse on airfield requirements might be included.
+
+ch. A collection requirement should be placed on all agencies “a
+
+- ge ‘al intelligence estimates for the 1960-65 ;
+_a@ statement on the possibility of operational use of saucer | s
+and the atfect of such use on. her equipment estimates, —
+
+it i oan that an Taki vidual who is | eek on th
+of this project be appointed as coord: ator for the Director of
+HQ, USAF, on Unconventional Vertical Take Thi
+: aAad Sion to hie function with the Director of Istellicmes, shoul
+five liaison contact between the D/I and other interested co
+: agencies | when i Fequanse are ve for briefings, etc,
+
+--- PAGE 17 ---
+12. Subject matter will not be submitted for ‘inclusion in the D/I
+Policy Book or the Daily Staff Digest. —
+
+ACTION F
+
+14. Inasmuch as Mr. Bollun is the most knowledgeable person im the
+D{/I on the subject of this project, it is recommended that he be appointed
+coordinator for the Director of Intelligence and that he be euthorized to
+proceed as necessary te accomplish the desired results on the recommenda-
+
+16 made above,
+
+, ke Mw, Kirton, bh 1 N-2C1 ~ Ext. 5ocdy
+¥. b, Zoller, AFOIN-2C <= Ext, 71577 es
+J. Je Morrow, AFOIN-2 - Ext. 71110 pf
+
+--- PAGE 18 ---
+The purpose of this briefing is two-fold. First, I will att ,
+
+tell you of a project being financed by the U.S. Air Force and a a. r
+thereof to dispel to the greatest extent possible any doubt in
+
+that such a project is feasible and desirable. Second, I will
+
+show that there is a very good possibility that
+
+nation to successfully fly such an aircraft. In order not to tak
+
+time with uninteresting technical considerations and information,
+
+make the first part very brief. However, if anyo Orn
+ation on the design, performance, operation, etc., 1 am prepared to go.
+into a more detailed discussion complete with slides at the end of the
+regular briefing.
+
+_.. .... .. . . .
+
+The "State of the Art" being one of the most important consi erations
+in a technical estimate, we have attempted te ascertain what ef i ,
+ing made in thie field. Through various sources it was determined tha
+cave servenes authority on the theories surrounding such an aircraft was
+ek Frost, an aeronautical engiaass prewently ula ea
+Ros Limited of G a. Some indication of Mr, Frost's capability may be
+derives from the fact that he was project engineer on the OF-100 in
+a3 The principal sources of information covered in this brief
+were ARDC, Bai tinore; _, Washington; DAI, Ottawa; and A. V. Roe
+Limited of Canada going any further, I wish to emphasize that |
+the interest of the HQ, USAF D/I in this subject is solely from the
+fore! _aspect and particularly as it concerns the Soviet capabilities,
+heasis that we may give to the Research and Development “—
+in’ this country ve a benus and not intentional.
+
+*s* ee ee eee
+
+onieis a flying saucer, Thi.
+
+atrictly a new cage This particular iden hia been ‘ existence for
+several years and nad
+‘Great Britain,
+the development of the pis tel In jana of ‘195
+
+ent agreed to finance the project to the extent of hipeta
+due to some belief that Canada might be somewhat limited in facilities sid
+finances to complete the development in the least possible time, and the
+
+Ds $6- 0203-4
+
+--- PAGE 19 ---
+danger that a foreign power not entirely friendly
+| 3 e desired results sooner, the USAF has made
+Ge: dian government and A.¥. Roe Company to take
+ent effort. The prime outeast appears to be
+with the A.V. Roe Canada,Limited and upon my last visit to the factory,
+_ they were well ee ae way in the preparation of drawings and pessibly —
+at this time are starting fabrication of parts. As of the eat report |
+kmown to us, it was expected that the Plight test of the first model would
+take place in the Spring of 1956, By this time some of you would like to
+
+gee @ picture of this aircraft. I have two artist conceptions (Slide 1), __
+
+fais slide is to depict landings and take-offs from other than established
+airfields. (Slide 2). ‘This slide is for the purpose of showing a naval:
+or marine use by launching from a submarine. ia earlier model called
+Project "Y" or Project "OMEGA" which would have used the same engine ~~
+(Slide 3) but would have been flat on the aft end similar in shape to
+the letter Omega. Two versions of small research type Vertical secagoctaga
+aircraft, identified as Project "Y" and Project "y2" have. :
+_pigned. Each project is essentially a simple proposal.
+
+of @ very large radial flow gas corctusmes engi
+
+to form a flying wing
+
+esigned around a tarbo- Jet eng!
+
+The engines are designed to fly "“edg
+as es a case of - more conrentie nel ty
+
+2a.c ations of oa rotor.
+Such an aircraft would have some very fundamental advantages} such a
+
+The manufacturing simplicity that ; resulte,
+The much greater t thrust/ weight ratio,
+
+» The very high thrust/frontal area patie.  .
+The gyroscopic stability.
+The ability to operate without prepared le ndine , fields; this
+being the most important consequence of the trast weight
+ratio being much greater than one.  .
+
+_The ops wy design which utilized the same engine, but = a tu
+
+| nd has on sien pant whatsoever “a reat
+sien the two designs is _ _ she first dost required su: of
+or elevons while the: aes tan ,
+
+--- PAGE 20 ---
+' aireraéft and the ground which eliminates the possibility of severe impact on
+
+landing. Tests have shown that the jet lift is increased several times over
+that of a flat disc near the groun te tages of such a Seeks are as
+
+' follows;
+
+It is safer and more acceptable to pilets. 2
+The gyroscopic plane is parallel with the ground, |
+improves the use of the aircraft in the transport category.
+
+‘(Slide 5). In general, the orepeses aircraft consists of a very large radiz
+
+flow gaa turbine engine disposed between two concentric rings, It is estimated
+
+that the engine will produce nearly 50,000 lbs, Sea Level Static Thrust, De
+pending on the final design and balance the circular plan form may need to be :
+modified to accommodate trim flaps. The air intakes are also circular in plan, |
+the skins extending acroas the central part of the plane, The pilot, fuel and
+disposable loads are containéd in the central compartment which is well insul-
+ated against aerodynamic heating by the fuel. fhe aircraft is shown in the |
+_ take-off configuration with both air intakes closed and relieving doors on the
+top intake open all the way around. This arrangement permits the air to sink
+
+in and ever into the intake annulus, then radially outwards to the jet ex:
+which are normal to. the surface around the whole eri about 15 inches
+from the edge  .
+
+(Slide 6) ‘Typical streamlines of the airflow through the aircraft are shown
+in this slide which represents any section through the circular form of the
+_aireraft. This aircraft will have neither an oi] system nor a hydraulic |
+system, inasmuch as the engine is air lubricated and there is no retractible
+under carriage nor hydraulic operated controls employed. The control equip-
+ment in the cockpit will be mach simpler. Normal flight and navigational
+instruments and equipment will be installed in the aircraft. A simplified
+form of ejector seat is fitted, as high ejection velocities are mot considered
+necessary for this tailless aircraft, :
+
+Now for a | few general operational characteristics. ‘The first model to be
+tested is expected to be able to have speeds up to Mach. 2.5, fly at altitudes
+up to 85,000 feet, and have a range of 1500 n.m. (one way). A later model
+with a diameter of 100 fie and configured as pa gs recon, or n
+version is exp ve |
+intercontinental wperatiosa. Time to climb from
+would be about a minutes.
+
+Let us now veviun wietly ¥ what we have in the 5 otis. We have an ai
+craft capable of taking off and landing vertically climbing to altitude in
+an exceedingly short period of time, and able to cruise at very high —
+In addition, it cam hever, and has great lifting capabilities, 4nd what
+this mean? No requirements for long runways of concrete or other hard
+No need fer the new type aircraft carriers. Any naval vessel cf sufficient
+
+size can carry an aircraft of this type. We have here an aircraft capable of ~~
+
+great maneuverability and high altitudes. What would such capabilities mean
+
+to an invasion force. And how about its uses for pursuit, reconnaissance,
+bulance, bomber, or transport. fhe artist conception of its use with a
+
+submarine is a per ener 7 Aeathy om eiansien. The installation of arman
+
+4
+
+--- PAGE 21 ---
+* ds mot seen to present any specific difficulty. Guns er rockets may be
+- mounted in the nose, or to fire out of the intake. Similarly, radar may
+be installed in a nese pod or if scan is considered adequate, inside the
+intakes, where the drag penalty will be less. New types of side look
+antennas may work very well on this type of configuration. Guided Missiles
+
+may be carried externally. A larger bomber version of the aircraft is
+visualized as having more available payload space in the central well.
+The aircraft under study has an ample margine of thrust/weight to lift
+additional military load from the ground. Performance penalty will there-
+fere only be felt at a somewhat reduced range and ceiling. Top speed is
+unlikely to be affected, since the drag due to lift is extremely small for
+this condition. Larger aircreft may be expected te have a longer range,
+bat no detail figures are yet available. However, intercontinental ranges
+do not appear to be impossible,
+
+- When such an aircraft has been proven by tests, it will no doubt have
+@ great effect on the design and requiremenis for many other types of rhea
+tary equipment. Let us for a minute review some of the changes that
+be apparent.
+
+Due to the speeds involved, it is possible that the present type
+of sivieras radar will be entirely inadequate, And, due to the acpacorerd :
+speeds and altitudes, our _— designed ground radar equipmen ent
+be useless for most purpos:
+
+The presently known G/M designs would
+
+hardly be gee meee org use goon een bombers with speeds up to Mach, 2.5
+80,000 ft. mae | if those bombers had a good —
+for maneuvering.
+
+As one of. the principal requirements for 5AM appears to be to overcome the
+time delay in getting interceptor A/C into the air and to the target, it
+is possible that the job could be done better with an interceptor model of
+the gyroplane,
+
+500 nem. ak. or a eat lassie Yamehed from 200 to 300 : nem
+: with the inherent errors of such a system?
+
+From an intellicence aspect this type of aircraft should be watched —
+very closely. Mr. Frost has stated that the idea is not entirely his ewn,
+All of the basic information on the first model has been available to other
+nations for many years, especially those nations in Central Hurope. Mr. Frost
+believes that other engineers could very easily have duplicated his effort.
+
+--- PAGE 22 ---
+LT
+
+. While’ the application of the "Coanda Effect" appears to be Mr. Frost's idea,
+
+he feels that such an application could have been apparent to engineers an
+
+Germany and the Soviet Bloc nations. Two particular reports, although of
+
+low reliability, are of interest. The first deals with an individual who,
+while riding a bicycle down a country road in one of the Satellite countries,
+observed a flying saucer descending from above and hovering above the ground.
+He stated that suddenly the saucer accelerated saree? and ee COTE ts Bp ies
+and altitude wobbulated with a slight !
+
+tain speed was attained. Mr. Frost has ica oak ied as ma
+
+that his prototype would act in the same manner if full
+
+after hovering. The second report deals with a PW fieldhand who, with others,
+was at work when a sanoer-shaped aircraft landed in a nearby field. He re-
+ported that & scopatt had § % markings on it and that one or more
+
+persons climbed out of the aircraft, Immediately police or some sort of
+
+authority appeared on the scene, placed a cordon around the aircraft and
+arrested this man's co-workers, The informant escaped and reported the
+incident. While it is admitted that such reports mey be fabricated, the
+
+_ possibility cannot be overlooked that the information is essentially true. _
+
+As an example, in the electronic field a review of low reliability reports
+has indicated that a large proportion of the sources gave an honest
+
+deseription of what they observed and that intelligence analysts failed to
+identify the equipment from such descriptions. We have reports of the
+
+French interest in flying saucer designs and of reported German activities
+im this field during the World War. Of the Germans supposedly in this field
+
+of activity we have four names, George Klein, who in April 1955 resided in
+
+burg, claims to have been the chief engineer of all flying dise projects.
+uportance seems to be that he knew of the existence
+of such eeateete ‘end has called attention to other Germans in the field,
+
+_ Otte Habermohl, who has not been heard of since the end of the war, is re-
+
+ported to have had a project for a 16 meter diameter flying saucer which was
+test flighted on 1¢ February 1945 at Holice. Rudolf Schriever, who died in
+1945, was a designer/test pilet at BMW Wo Prac es
+
+“Rave constructed © flying eauser, which at a trial in April 1945 failed te
+
+leave the ground. Robert Miethe, who is supposed te have entered the u. Se
+in 1953, is reported to have constructed a 43 meter diameter f1; ge
+( v7) which was flow with a crew of three in 194
+
+_ Cesko-Moravake Works in Prague is reported to lave vecsited a plated
+
+order for a short series, but none was finished by the end of the war,
+
+_Miethe remained in Breslaw, whence he escaped in an ME-163 one jump ahead
+
+of the Russians. The Russians captured three of Miethe's principal assiat-
+
+ants and his workshops. In March of 1954, a man by the name of Brune
+
+Berbevich, who claims te have entered this country in October 1953, peeecint
+to the Senator from Ohio @ manuscript and drawings of how he would build a
+
+flying saucer. These were in turn sent te the Legislation and Liaison Division —
+of Headquarters, USAF, who sent them to ATOIN, General Samford's office had
+
+them sent to ATIC for translation from German to English. The big question
+is "Could this man be Robert Miethe?" last, projects on the cones | Beteek :
+have et let Satellite BER Oret Neen. i tl
+
+has mad
+
+much ag two years ahead of iiiae this ‘ia, ; Such ¥ : ae cha, the
+intercepter application would have a serious effect on the ar rne ti ven eas
+
+_of = Soviet Air Defense capabilities.
+
+--- PAGE 23 ---
+We have presented to you some evidence that flying saucers are within
+
+the capabilities of the existing “state of the art" in this country and
+
+Canada. ‘The "state of the art" is well kmown in European countries, ‘The
+Coanda effect has been known to all countries and the application is net
+beyond the capabilities of the Soviets. It is possible that German projects
+for flying saucers existed at the end of the war, ‘fhe n |
+possible teps in this field is supposed to be im the U.S. now. We have
+reports on eye witnesses of flying saucers in Seviet territory.
+
+It 1s recommended that:
+
+1. ‘The entire iaveliacenee community Leg alerted to a possible Soviet
+activity in this field.
+
+g files on foreign viii wiseers should be reviewed
+
+should be interrogated by intelligence analysts
+round on existing intelligence,
+
+4, Robert Miethe should be found. Possibly Miethe could have ch
+
+his name to Bruno Berberich or seme other alias.
+
+5. A collection requirement should be placed on all agencies in the
+field including the Attaches.
+
+--- PAGE 24 ---
+Bak
+
+--- PAGE 25 ---
+SOON
+
+sus
+
+oc
+
+Le
+
+yee
+
+Zz
+Le
+
+Ze
+
+wy,
+
+Zz
+
+7
+
+LEE
+
+Le
+
+Ze
+
+Zee
+
+ES
+
+ge
+
+Ze
+
+Ze
+
+Le
+
+Ze
+
+Zz
+
+--- PAGE 26 ---
+
+
+--- PAGE 27 ---
+;
+|
+:
+
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS UNITED STATES AIR FORCE
+WASHINGTON 25, D.C.
+
+Article. "the Flying Dise” in December Issue of the air
+—s Digest —
+
+iene la connectic ~
+- aircraft. I stated our pos
+
+Scientific ites 5 tL reget
+
+have tary of wd following:
+
+The extent of coordi
+
+--- PAGE 28 ---
+. Despite the unfavorable tone of the Scientific
+Advisory Board, report,responsible key technicians —
+within DCS/D are split into two groups on the
+feasibility of the project.
+
+In view of this feeling within pcs/D, Gene
+
+Putt's letter to ARDC oe last week in Decent
+
+was, in effect, a compromiseg position. The
+
+letter directed ARDC to award a contract to
+
+A. V. Roe, Ltd., for certain wind tunnel tests, 32~@
+and further indicated that additional U. 5
+development funds would be decided on the
+
+_ basis of the data analysis produced .
+
+area _ general Watson's last visit here he discussed with me
+ad bee repared for his signature by one of his
+staff but which he peck to sign to you because of its tone. He feels
+
+strongly, however, that the monitorship of this project should be the
+
+province of ATIC and differs greatly in his personal views with the |
+ee in AID
+
+2 randum for Record (Tab C) ex
+of the enter of OIN-2 into this project whieh srietiy ws gO
+two considerations;
+
+a. A feeling in OIN-2C that this arajest was “hot” a
+no one else was acting for OIN.
+
+lability ana “entree” afforded
+
+Wo action has been taken on “y of the recommendations mac
+in the M/R by Colonel Morrow and he has instructed Mr. Bollum verbally
+
+to discontinue further work and briefings on the project.
+
+7- Im view of the above I offer the following recommendations:
+
+: Because of the divided opinions within and outside of the
+Air Staff on the feasibility of Project "Y", no further articles or
+ings on this project should be accomplished without your persona.
+(Colonel Adams and Colonel Morrow concur.)
+
+state the case s tor Project ws es i ase chjective teen ites ae
+to do so —— only serve to further "muddy the waters.”
+
+= @. At their earliest convenience, General Watson and Colonel
+y should have e discussion directed toward the transition of ;
+asibility for monitorship of a "y" from OIN-2C to ATIC. .
+2] Morrow and General Watson conc
+
+2
+
+--- PAGE 29 ---
+d. No reply should be ma nm
+"Executive Secretary of the Gciecti fic Mince Be
+
+Lt Gclonct, ,
+Directorate of ‘Intelligence
+
+--- PAGE 30 ---
+DEPARTMENT OF THE AIR FORCE
+_ HEADQUARTERS UNITED STATES AIR FORCE
+_ _ WASHINGTON 25,D.c.
+
+L December 1954.
+
+y of @ recent re-
+tudy of the "fly-
+
+| st pension of: techni~
+e undne ss. ) and optimietts expectatiens co wee =~ the
+
+on The Flying Disc" published in the Decembe
+
+the Air — ace Digest.
+
+Inclosure
+1. Avro rpt, cy 2
+
+Office of mee State
+
+AECSA bd /
+
+--- PAGE 31 ---
+•• 
+A -.• -
+.. • 
+•••• ~. ........................................ 
+la .... 
+. ....... 
+' ·, , ,, ' '\ " ,, ''• ' , ' 
+.:r,1,. 
+. . ............ ....• 
+•'• IV.. UI.. ..-. .... 
+• • . • ·~.... ... 
+........ 1JN\ •.·.. • 
+........., ..... ............................ 
+• 
+II
+
+--- PAGE 32 ---
+
+
+--- PAGE 33 ---
+HE
+
+--- PAGE 34 ---
+
+
+--- PAGE 35 ---
+Zee 2
+
+Z Z
+LE
+
+ee
+
+ee
+
+Ze
+
+.
+
+--- PAGE 36 ---
+
+
+--- PAGE 37 ---
+COVER SHEE
+
+ROUTING
+
+Initial “IN” column to denote review prior to action. Initial “OUT” poluma fo deaots view of compet action. _(K for |
+action; y for coordination.) , :
+
+, —— (Oe toee, Cees)
+
+rwarded for your approval and signature.
+
+Co lonel, sie _
+_Divectorate of Intelligence _ a
+
+--- PAGE 38 ---
+[ORIGIN OF BASIC
+
+[suBlect
+
+--- PAGE 39 ---
+COVER SHEE : | SusPENSE
+
+ORIGIN OF BASIC
+
+OIN-2C4 _ . TASS (6neD BY
+SUBJECT
+
+Memorandum for Record
+
+ROUTING
+
+Initial "IN" column to denote review prior to action. Initial "OUT" column to denote review of completed ac
+(X for oo coordination.)
+
+COMMENTS(Use reverse, if necessary)
+
+2 to the RCAF ec taining the tm
+x ge ‘Tals peper should }
+
+Directorate of Inteniigence
+
+DITIONS OF TH S FORM MAY BE USED.
+
+--- PAGE 40 ---
+* 
+., 
+,. • 
+.;,' ,. 
+.AFOIN-2C4' Col. MacDuff /bps/524-66 
+w/11 July 1955 
+MEMORANDtM FOR RECORD 
+PROBUM: .. .. .. --
+1. To evaluate Kc 97 crew sightings and ground radar returns of object in 
+the Newf'o,mdland.. area ( 491 5950W) . 
+FACTS AND DISCUSSION:--··· .... ·----- ...... -
+2. OIN-2C directed ·the OIN-2C cotmllJ.ttee 011 8 July to evaluate the 6 July 
+Kc 97 sightings and GCI radar returns over Newfound.land as summarized and detailed 
+inCAF IN 15592, dtd 6 JuJ.y 55 and CAF IN 90703 dtd 7 July 55. 
+3. In arriving at the following conclusions the conmittee reviewed reports 
+summarizing the incident, the crew interrogations and the NEAD evaluation of 
+the j_nc1.dent. In addition certain new U.S. and Canadian developments in high 
+performance unconventional aircraft were considered. 
+CONCLUSIONS: 
+4. It was concluded that no intelligence is available to support or deny 
+the existence of unconventional Soviet aircraft comparable to those un.der 
+consideration in the US and Canada and provid1.ng performance such as reported. 
+5. The committee was unable to explain the simultaneous ground radar 
+returns and aircrew visual sightings, and tentatively accepts the NEAC evaluation 
+attributing the :i.ncident to electrical phenomenon on the one hand and mis­
+interpretation of -the s:i.ghtings by aircrew members on the other. 
+6. It was further concluded that this inc:f.dent should be classified as UFOB. 
+7. This i ten1 is not consj_dered suitable for inclusion in D/I Policy Book 
+or the Daily Staff Di.. gest. 
+RECCMOOIDATIONS:....... 
+8. Due to the serious technological threat should tmfriendly nations succeed 
+in developing high performance unconventional ai.rcraft increased effort should 
+be made by all collec·tion agencies to penetrate the Soviet Research and Development 
+establishments a.nd programs in order to give the U.S. adequate warning of any 
+developments in this area. 
+9. It is further recommended that in the event of future incidents of this 
+nature fighter scrambles be effected without delay. 
+COORDINATION: 
+....... i···• ■ •· I ■■ ■ -■ U 
+AFOIN-2C4, Col. MacDuff, ext. 52 
+AFOIN•-2Cl, Lt. Col. Farrior, ext. 
+AFOIN-2C2, CoJ.. Gould, ext. 56200 
+AFOIN-205, Col. OWynne,,ext. 55538
+
+--- PAGE 41 ---
+AF HQ-s0 (Bey 21 June 4s) DEPARTMEN —E AIR FORCE Pr 4
+
+wet AIR STAFF SUMMARY SHEET
+ore [weaneo aonon [ins [>
+
+aah
+
+uae
+Slate Request WAC for Immediate Fighter Scramble Against Flying
+
+SUMMARY.
+Le On 6 duly the crew of | a KC-97 tanker re vorted the y ethane of an unidentified
+wroundland area (ko10N/595 OW). At the time of the sighting a —
+GC _ Obte ained a niger return of an object which apparently was
+‘identical to the one the KC-97 crew had under visual observation. A committee, appointed |
+by this Directorate to evaluate this os ae reviewed reports summarizing the incident.
+by the Northeast wae ‘ommand. The committee tentatively attributed the sighting to
+electrical phenomenon visual nlsinrerpretation by aircrew members. At the same time,
+however, the committee aaa the possibility that the object miene have been an
+high performance unconventional aireraft. ‘his Directorate is of the opinion that the
+evelopment of such an aircraft by an unfriendly nation would constitute a ——
+| bec slogical threat to the United States, and therefore every effort must be made
+identify sightings in the future.
+
+2. Im its discussion of methods to be used obtain identification of objects
+| _ in a similar fashion in the future, » the committee concluded that the method
+ing the most likelihood ef success would be interception of the object by fighte
+2 : of this nature fighters
+
+FRANK B. CHAPPELL
+Colonel USAR
+
+Directorate of Intelligence _
+
+1 Inel
+Proposed Msg to
+Cdr NEAC
+
+OO lac7e
+
+--- PAGE 42 ---
+|
+|
+|
+
+1 ROBO
+
+--- PAGE 43 ---
+
+
+--- PAGE 44 ---
+ns
+i
+
+--- PAGE 45 ---
+a
+
+Oe ee UU AS elnia pslasine
+
+be ’ : ~ . : Se
+
+_
+
+:
+
+.
+
+.
+
+a
+
+Zo
+
+Ae
+
+-
+
+a
+a
+OE:
+-
+a
+
+2
+Le
+
+Z
+
+a
+7
+
+ae
+
+Ze
+Ss
+
+oe
+
+7
+
+ee
+Zz
+
+Se
+
+Sk
+
+: os
+.
+
+i
+
+wie opeane
+ae
+
+CO
+o
+
+oo
+oy
+
+_. ... : _ . . ..
+
+a ge ee
+: So ' \ oo
+
+--- PAGE 46 ---
+0 incidents. The incidents
+
+were 45 sella: :
+
+ightings by RB-47 crews in Ce nex
+
+‘5. This item is not suitable for inc
+e Daily Staff Digest.
+
+--- PAGE 47 ---
+
+
+--- PAGE 48 ---
+Selec
+
+ne
+
+dna
+
+omen
+
+--- PAGE 49 ---
+ue
+
+--- PAGE 50 ---
+ees
+
+EIS
+
+Se
+
+os
+
+RES
+
+ee
+
+Ce
+
+--- PAGE 51 ---
+one
+
+--- PAGE 52 ---
+
+
+--- PAGE 53 ---
+ae
+
+Bes
+
+ee ea
+
+invancecdon snitch Aut aba Niodadeorsbalkcaht Hast bei <oo naa ATA A
+
+pie nit aagayeZAls
+
+PES MAeeG aE Nese ua aTER ANTS
+
+--- PAGE 54 ---
+EES
+
+GORE SIS
+
+EIT
+
+a ssanore
+
+a
+
+ee
+
+eee
+
+BONELESS
+
+ES
+
+Se ee altamamee sees
+
+seeianoa
+
+sath OSHS
+
+JAsessaaalanblsstadtansctanmioheaeR
+
+EVAR Sen Stee
+
+ai
+
+PS
+
+SUE EUS vec
+
+OTT
+
+--- PAGE 55 ---
+
+
+--- PAGE 56 ---
+
+
+--- PAGE 57 ---
+MEMORANDUM FOR THE RECORD
+
+SUBJECT; CIRVIS Program
+
+1. In accordance with AFR 200-3, Hq MATS, is responsible
+for contacting commercial airlines and pilots to indoctrinate
+them and secure their participation in the CIRVIS program as
+outlined in the JANAP 146 series.
+
+2. Intelligence Division, Hq MATS, has done an out-
+standing job in this indoctrination, having contacted commercial
+airlines, the National Business Aircraft Association, and the
+pilots in both. They have secured the cooperation of all
+companies and associations through writing a multitude of
+letters. They have gone into the field and personally lectured
+to regional pilots' meetings and have succeeded in getting a
+real interest in CIRVIS aroused for the first time. This has
+been a tremendous task and has only been accomplished by an’ :
+exceptional effort. However, the only way to keep the interest
+at a peak is to keep emphasizing the importance of the CIRVIS
+program to them. ‘MATS * efforts must continue.
+
+3. AFOIN-1A-P, wherein lies the ee for moni-
+toring the CIRVIS program for AFOIN, and in part for Hq USAF,
+has long felt that MATS should be complimented in writing on
+pee fine job, and at the same time be urged to continue their
+
+am. It is felt that any letter of recognition or
+ndation should come originally from CINCONAD and an in-
+formal suggestion has been made along these lines.
+
+: 4. However, this seems like a good opportunity for
+us to easily and naturally show our awareness of and satisfac-
+tion for a job well done. Hence, the forwarding of the
+ole roa from ADC by the letter indicating our apprecia-
+7 } “a pci aoa we _phonte take this chance to help

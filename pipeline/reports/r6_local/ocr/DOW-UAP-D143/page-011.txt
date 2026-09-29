@@ -1,0 +1,44 @@
+UNCLASSIFIED/ /fOR. 8FFI61Ak U&F QJsll.¥ 
+Because configuration (2) has a much smaller overall energy balance than configuration 
+(1), it is much more sensitive to MLI properties and to internal power dissipation. 
+However, eclipse performance improves. During the ~8 hour eclipse, internal 
+temperatures drop by only 20°C, a marked improvement, with end-of-eclipse 
+temperatures well within the range of most spacecraft components. It should be noted 
+that the solar arrays, since they are now isolated from the body of the nanosat, drop to 
+temperatures of about - 110°C. Even these solar array temperatures should not pose a 
+problem. For example, the solar arrays of many geosynchronous satellites drop 
+routinely to temperatures of about -150 °C during the 72 minute eclipse experienced by 
+these spacecraft at each equinox season. 
+The key feature of configuration (3) is that the equipment is coupled to an external 
+radiator only with a two-phase heat transport device, such as a capillary pumped loop 
+(CPL) or loop heat pipe (LHP). Operational temperatures are again maintained to 
+temperatures of about 20°c nominal with a properly sized radiator. However, the 
+temperature is also totally dependent on the proper operation of the two-phase "loop." 
+The two-phase heat transport device can be made redundant by the addition of a 
+second loop if single fault tolerance is desired. Note that redundancy is not a 
+consideration for the other two configurations . During the ~8 hour eclipse, further 
+improvement is realized, with internal temperatures dropping by as little as 6°C if the 
+internal payload is well insulated from the exterior of the nanosat. As in configuration 
+(2), the solar array temperatures drop to about -110 °C. For certain equipment or 
+science instruments, the temperature control afforded by this type of "active" design 
+may be necessary. 
+A moderate amount of technology development has been underway since 2000 to 
+enable a two -phase heat transport system for use in a nanosat. The small size and low 
+heat transport requirements of the nanosat will necessitate significant downsizing of 
+today's flight qualified two-phase systems. This reduction will be accomplished by 
+leveraging recent successful tests of a small cryogenic two-phase CPL. 
+RF COMMUNICATIONS 
+The onboard RF subsystem must be small, low mass, and low power. The system 
+specifications are: 
+• Mass: 0.5 kg. 
+• Power consumption: 0.5 watt. 
+• Transmission data rate: up to 100 kbits/sec. 
+• Command reception data rate: 1 kbit/sec. 
+• Range: 3 to 5 Earth radii. 
+• Channel type: BPSK. 
+• Effective isotropic radiated power: 0.15 watt (-8.2 dbW). 
+• Carrier frequency: 8,470 MHz. 
+The tracking system should be coupled with this communication subsystem to maximize 
+efficiency in mass and power. 
+UNCLASSIFIED//FOR O61ilCl.li.k U&& 8Ptl'l 
+7

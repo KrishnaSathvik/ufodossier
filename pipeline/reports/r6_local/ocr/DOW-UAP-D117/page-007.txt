@@ -1,0 +1,31 @@
+UNCLASSIFIED/ /FOR QFFI&iIJ.b Wfi& 8PtLY 
+Metallic Glasses 
+STRUCTURE 
+The atomic -scale structure of most metals and alloys is crystalline; that is, the atoms 
+are arranged in a highly ordered manner on a lattice that is periodic in three 
+dimensions, as depicted in Figure l(a). In contrast to this crystalline structure, metallic 
+glasses lack the long-range order of a lattice and are therefore said to be amorphous, 
+as depicted in Figure l(b) . Although the word "amorphous" implies a complete lack of 
+structural order, in fact the atomic structure of metallic glasses is not truly random. 
+Constraints on atomic packing provide strong short-range order; for instance, on 
+average the atoms have a particular number of nearest atomic neighbors at a well­
+defined distance. But this short-range order persists only over distances of a few 
+atoms; there is no long-range order as there is in a crystalline alloy. In many ways, the 
+atom ic-scale structure of metallic glasses more closely resembles the highly disordered 
+structure of a liquid than the structure of a crystalline alloy. 
+Cry ta ll in Amorph u (gla s) 
+Figure 1, Amorphous Versus Crystalline Structure. Schematic atomic-scale structure of crystalline 
+(a) and amorphous (b) metals. In a crystalline structure, order persists over long distances (many 
+atomic dimensions}. In a glass, there is short range order but no long-range order. 
+A corollary of this difference in structure is that the nature of structural defects is quite 
+different between crystalline and amorphous alloys. Crystalline alloys, for example, 
+have extended linear defects in the crystal structure, called dislocations, that are (in 
+large part) responsible for determining mechanical behavior. The lack of crystalline 
+order precludes the existence of dislocations in metallic glasses, but other sorts of 
+defects can be present and may influence properties and behavior. 
+From an applications point of view, the amorphous structure of metallic glasses has two 
+principal implications. First, the mechanical properties of amorphous alloys are 
+significantly different from those of their crystalline counterparts; some of these 
+differences are advantageous, but others are not. Second, because metallic glasses are 
+1 
+UNCLASSIFIED/ /FQA 8FFIGIAk W&& QP..,¥

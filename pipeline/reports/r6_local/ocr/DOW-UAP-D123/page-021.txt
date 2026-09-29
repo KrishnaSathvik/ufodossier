@@ -1,0 +1,27 @@
+UNCLASSIFIED/ /FOil 8FFl&I.t.k U&li Qt,IP X 
+THE SANGER PHOTON POSITRON ROCKET 
+In 1953, German engineer Eugen Sanger proposed the photon rocket. One means of 
+providing thrust was to shower a parabol ic mirror with positron annihilation gamma 
+rays .37 Unfortunately, there are no materials that reflect gamma rays at large angles. 
+A schemat ic of a modified Sanger photon rocket is shown in Figure 13. Ps is emitted in 
+' pellets ' from several storage banks located behind the engine. Positrons are 
+programmed by support ing fields to annihilate in front of a stiffened pressure plate, the 
+shape of which was assumed to be parabolic for this work. 38 
+To make the Sanger photon rocket practica l, solid propellant that can be ablated from 
+the plate is added. Gamma rays deposit energy on the surface of the ablation material 
+and jett ison high-energy particles with large l sp . As the solid mate rial recedes from the 
+target, the location of the positron annihilation can be corresponding ly moved inward to 
+preserve focal properties of the system. A thickness of a few meters of mate rial is 
+sufficient for a planetary mission. 
+PEC SYSTEM 
+(OPTIONAL) 
+e+ TRAP BANKS 
+SOLID ABLATION 
+MATERIAL 
+Figure 13. Modified Sanger Photon Rocket Concept (courtesy Positronics Research LLC)39 
+The predicted l sp for this system results in fast trans it times to Mars, warranting a 
+positron power plant. Unlike the solid-core or gas-core concepts, there are no means to 
+draw off some of the ablated mater ial to provide power . A separate Brayton -cycle 
+positron energy conversion system provides power to the pellet mass driver and other 
+UNCLASSIFIED/fFOA QFFI&I.t.k WSE 8rtt'I 
+16

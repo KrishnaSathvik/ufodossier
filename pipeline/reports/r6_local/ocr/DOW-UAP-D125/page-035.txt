@@ -1,0 +1,48 @@
+UNCLASSIFIED/ /fOR Offl@IAL W&& 8Nk¥ 
+Table 3.1. Estimated Performance Parameters or the IEC Ion Thruster 
+Parameter IEC Ion Thruster 
+Propellant Xenon 
+Molecular Weight ( arnu) 131.3 
+Specific Impul se (s) 3000 
+Thrust (m.N) 34 
+Jet Power (W) 500 
+Net accelerating Potential (V) 600 
+Beam Current (mA) 832 
+Power Loss to Grid (W) :S50 
+Power Loss to Bresstrahlung 
+Radiation (W) < 1 
+Power lo s to Ionization of 
+Propellan t (W) 200-250 
+Input Power (W) 
+Thruster Efficiency(%) 
+750-800 
+62-68 
+In summary, the power efficiency of the IEC thruster appears to be competitive to 
+existing ion thrusters. What are the advantages then? These were outlined earlier and 
+include a more compact design, large heat rejection area, an exhaust jet closer to 
+quasi-neutrality, reduced neutral propellant leakage, and reduced grid erosion. Thus, 
+the mass of the IEC jet thruster system can potentially be reduced compared to a high­
+power Hall-type thruster and also its lifetime can be increased significantly. In this 
+overall context, then, the IEC thruster potentially offers an important improvement in 
+performance for high power thruster applications. 
+Scale -up to p- 11 B IEC Space Power Unit/Thruster 
+The electrically driven IEC jet thruster provides an important data base for a next step 
+p-11 B IEC jet thruster. Jumping to p-11 B for this application may appear overly 
+ambitious. However, neutronless fusion seems essent ial in a small space thruster to 
+avoid excessive weight from shielding of electronics . Considerable experience with 
+fusing plasmas in IECs has been gained through development of IEC DD neutron 
+sources. These devices operate with ~80- keV D-ion beams using the non-Maxwellian 
+character of the IEC. This important characteristic makes use of p-11 B a realist ic goal. 
+In fact, operation with circulating ion energies at the desired 150 keV energy for p-11B 
+has already been achieved at the UIUC and several other laboratories working on IECs. 
+The issue then is how to achieve adequate confinement times . The approach being 
+pursued at UIUC is the formation of deep potential wells with angular ion injection using 
+a differentially-pumped RF ion gun, as discussed in later sections. A proposed 
+experiment to demonstrate p-11B physics is discussed in Section VI. 
+In summary, the extraction of a jet plasma from a gridded IEC opens the way to a 
+number of added plasma applications for the IEC. This present discussion is intended to 
+identify an orderly progress of IEC applications in commercial space power, starting 
+with an electrically driven IEC thruster to a self-powered IEC p-11B unit. The attractive 
+characteristics of the electrically driven device, namely light weight, low mainten ance, 
+UNCLASSIFIED/ /FOR OFFIQIAk Wii QrelL¥ 
+28

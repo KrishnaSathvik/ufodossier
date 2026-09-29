@@ -1,0 +1,85 @@
+UNCLASSIFIED/ /fOR OFFI&IAk Wlii QPU,¥ 
+fact 2670 light years. Finally, the standard deviation equals 1309 light years: THIS IS GOOD NEWS FOR 
+SETI, inasmuch as the nearest ET Civilization might lie at just 1 sigma =2670-1309 =1361 light years 
+from us. 
+From Figure 6, we see that the probability of 
+finding ExtraTenestrials is practically zero up to a 
+distance of about 500 light years from Earth. Then 
+it starts increasing with the increasing distance 
+from Earth, and reaches its maximum at 
+_fl_ ,?-
+rrmde = rpeak = Ce 3 e 9 ~1933 light years. (152) 
+This is the MOST LIKELY VALUE of the 
+distance at which we can expect to fi11d the 
+nearest ExtraTerrestrial civilization. 
+It is not, however, the mean value of the 
+probability distribution (113) for .feT_Distana,(r) . In 
+fact, the probability density (] l 3) has an infinite 
+tail on the right, as clearly shown in Figure 6, and 
+hence its mean value must be higher than its peak 
+value. As given by ( 119), its mean value is 
+_!!_ 0" 2 
+r,11ea11 l'alue =C e 3 e 18 ~ 2670 light years. (153) 
+This is the MEAN (value of the) DISTANCE 
+at which we can expect to find ExtraTerrestrials. 
+After having found the above two distances (1933 
+and 2670 light years, respectively) , the next natural 
+question that arises is: "what is the range, forth and 
+back around the mean value of the distance, within 
+which we can expect to find ExtraTenestrials with 
+"the highest hopes ?," The answer to this question 
+is given by the notion of standard deviation, that 
+we already found to be given by (123) 
+_fl_ 0"2 ~ 
+(TET_Dislana, = Ce 3 e 18 Ve9 - 1 ~1309 light years. 
+... (154) 
+More precisely, this is the so called I-sigma 
+(distance) level. Probability theory then shows that 
+the nearest ExtraTenestria l civilization is expected 
+to be located within this range, i.e. within the two 
+distances of (2670-1309) = 1361 light years and 
+(2670+ 1309) = 3979 light years, with probability 
+given by the integral of fET_Distana, (r) taken in 
+between these two lower and upper limits, that is: 
+i
+3979 1igh tyears 
+/ET Distana,(r)dr~0.75 = 75% (155)
+136 lli ghtyears -
+In plain words: with 75% probability , the nearest 
+ExtraTerrestrial civilization is located in between 
+the distances of 1361 and 3979 light years from us, 
+having assumed the input values to the Drake 
+Equation given by Table 1. If we change those 
+input values, then all the numbers change again. 
+9. THE "DATA ENRICHMENT 
+PRINCIPLE" AS THE BEST CL T 
+CONSEQUENCE UPON THE 
+STATISTICAL DRAKE EQUATION 
+(ANY NUMBER OF FACTORS 
+ALLOWED) 
+As a fitting climax to all the statistical 
+equations developed so far, let us now state our 
+"DATA ENRICHMENT PRINCIPLE," It simply states that 
+"The Higher the Number of Factors in the 
+Statistical Drake equation, The Better," 
+Put in this simple way, it simply looks like a 
+new way of saying that the CL T lets the random 
+variable Y approach the nonnal distribution when 
+the number of terms in the sum (4) approaches 
+infinity. And this is the case, indeed. However, our 
+"Data Enrichment Principle" has more profound 
+methodological consequences that we cannot 
+explain now, but hope to describe more precisely 
+in one or more coming papers. 
+CONCLUSIONS 
+We have sought to extend the classical Drake 
+equation to let it encompass Statistics and 
+Probability. 
+This approach appears to pave the way to 
+future, more profound investigations intended not 
+only to associate "enor bars" to each factor in the 
+Drake equation, but especially to increase the 
+number of factors themselves. In fact, this seems to 
+be the only way to incorporate into the Drake 
+UNCLASSIFIED/ ffOR OFFI&IAk Wlii QPII.¥ 
+53

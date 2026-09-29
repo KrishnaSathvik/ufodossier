@@ -1,0 +1,59 @@
+UNCLASSIFIED/ /POI\ OFPl@IAL WS& &Nia¥ 
+glasses in the true sense of the word, rather than melt ing abruptly (as crysta lline 
+metals do), they soften and flow over a range of temperatures in a manner akin to 
+common (oxide) glasses. This creates opportunities for tremendous flexibi lity in the 
+processing of metallic glasses. 
+PROCESSING 
+Glass-Forming Alloys 
+The key to making a meta llic glass is to retain the disordered, liquid- like atomic scale 
+structure during cooling from the melt. All materials have a tendency to crystal lize upon 
+cooling because the crystalline state is the most stable structure at any tempe rature 
+below the melting point. But crystallization takes time, so if the cooling is fast enough, 
+it is possible to bypass crysta llization and form an amorphous structure at the glass 
+transition temperature (Figure 2(a)) . Glass format ion and crystallization are therefore 
+competitive processes; which one will occur depends on the material and the processing 
+conditions. 
+(a) (b) 
+Temperature 101(1 
+Liquid 
+~ 
+g_ "' 10~ 
+Me ll ii1g 
+,.,1ompcrarurc 
+i§ 10<• 
+"'1) 
+I: 
+8 10" 
+u 
+el u 102 
+lass lr:msiti on ··o c: 
+temperatu.re u 
+1011 
+I0.2 
+0 Purt: nickel 
+- , " o nventional' metallic gla scs 
+I 0 , (max Lh1clme < I mm)
+\ cg \ 
+\ O \ Bulk metallic glasses 
+\ (max lb icknes > l mm) 
+' 0 -- -'_I I O o' ' 
+\ ~ ' 'x,o~\ \ Pd., u.,N11,P,, 
+. . 0 I Zr,.,T1 1,.Cu,,,N1"Bc,.,, ...._ _,, 
+0 
+Time 01 OJ OA 05 Oh 0~ OB 
+Reduced glass tran ition temperature (T ,IT,,.) 
+Figure 2. Critica l Cooling Rate . (a) Effect of the cooling rate on glass formation - If the cooling rate ls slow (path 
+1), then the melt c rystallizes befo re going through the glass transition . If the cooling rate is fast enough (path 2), 
+then the melt can form a glass. The crit ical cooling rate (path 3) is the slowest rate at which the melt can be cooled 
+and still form a glass. (b) Critical cooling rates for various metallic alloys - The horizontal axis is the glass transition 
+temperature normalized to the melting (liquidus) temperature. 1 
+For some materials, such as silica (silicon dioxide) and most the rmoplastic polyme rs, 
+the crystallization process is slow because the crystal structures are complex and the 
+basic structura l units (for example, segments of polymer chains) are slow to rearrange 
+into a crystalline form. These materials can therefore be produced in glassy form even 
+at very low cooling rates; in fact, it can be difficult to crystallize them at all. Metals and 
+alloys are another matter because the crystal structures are relat ively simple and the 
+basic structura l units are individual atoms, which are highly mobi le. Metallic crystals 
+nucleate and grow quickly, making production of a meta llic glass more challenging. 
+2 
+UNCLASSIF I ED/ /FOA OFFICI.li.la Wili 8PU11¥

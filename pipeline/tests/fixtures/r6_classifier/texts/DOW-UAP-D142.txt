@@ -1,0 +1,194 @@
+--- PAGE 1 ---
+UNCLASSIFIED / -FOf-OFFICEAL USE ONE
+
+Defense
+Intelligence
+Reference
+Document
+r=—i(<‘aésisYr Acquisition Threat Support
+
+6 April 2010
+
+ICOD: 1 December 2009
+
+DIA-08-1004-007
+
+Concepts for Extracting
+Energy From the Quantum
+Vacuum
+
+UNCLASSIFIED/ 4-@R-OFFEGEAE-USE-ONE
+
+--- PAGE 2 ---
+UNCLASSIFIED//F9R 9FFI0IAL YSE 9HL1f 
+Concepts for Extracting Energy From the Quantum Vacuum 
+Prepared by: 
+Acquisition Support Division (DW0-3) 
+Defense Warning Office 
+Directorate for Analysis 
+Defense Intelligence Agency 
+Author: 
+AAP Person 58 
+Administrative Note 
+COPYRIGHT WARNING: Further dissemination of the photographs in this publication is not authorized. 
+This product is one in a series of advanced technology reports produced in FY 2009 
+under the Defense Intelligence Agency, Defense Warning Office's Advanced Aerospace 
+Weapon System Applications (AAWSA) Program. Comments or questions pertaining to 
+this document should be addressed to jAAPPerson 1 I, AAWSA Program 
+Manager, Defense Intelligence Agency, ATTN: CLAR/DWO-3, Bldg 6000 , Washington, 
+DC 20340-5100 . 
+UNCLASSIFIED//FOR OFFICIOL !l&F Qtlb¥ 
+ii
+
+--- PAGE 3 ---
+UNCLASSIFIED/ /FOR OFFI@IAL WSE QptLY 
+Contents 
+I. Summary ............................................................................................................. v 
+II. Historical Concepts for Extracting Energy and Thermodynamic Considerations 1 
+III. Origin of Zero-Point Field Energy ..................................................................... 4 
+Elements of QED Theory ..................................................................................... 4 
+Elements of SED Theory ..................................................................................... 6 
+IV. Review of Selected Experiments ....................................................................... 7 
+Voltage Fluctuations in Coils Induced by ZPF at High Frequency ........................ 7 
+ZPF Energy Extraction by Ground State Energy Reduction ............................... 10 
+Tunable Casimir Effect ..................................................................................... 14 
+EV Phenomenon ............................................................................................... 17 
+V. Theoretical Considerations and Issues ............................................................. 22 
+QED Vacuum Revisited ..................................................................................... 22 
+QED Vacuum as a Plenum ............................................................................. 22 
+QED Vacuum as a Mathematical "Placeholder" for Fluctuating Matter Fields 23 
+Casimir Effect Revisited ................................................................................... 24 
+Casimir Effect in the Plenum Picture ............................................................ 24 
+Casimir Effect in the Fluctuating Matter Fields Picture ................................. 24 
+Type I (Transient) and Type II (Continuous) Machines .................................... 25 
+Degradability of the Vacuum ............................................................................ 25 
+Alternatives to QED .......................................................................................... 26 
+Neoclassical Theories of QED Vacuum Fluctuation Effects ............................ 26 
+SED Model Revisited ..................................................................................... 27 
+QED Without Second-Quantized Fields ......................................................... 28 
+Examples of Degradable of Decaying Vacuum .................................................. 28 
+Gravitational Squeezing of the Vacuum ........................................................ 29 
+Redshifting the Vacuum ............................................................................... 29 
+Vacuum Field Stress: Negative Vacuum Energy from the Casimir Effect ...... 30 
+UNCLASSIFIED/ /FOR OFFICIO! Pili QIU.,¥ 
+iii
+
+--- PAGE 4 ---
+UNCLASSIFIED/ /FOR OFFIEIAk WS&i OPtkY 
+Squeezed Quantum Vacuum ......................................................................... 32 
+Dirac Vacuum Decay: "Sparking the Vacuum" .............................................. 33 
+Magnetically Induced Decay of the Dirac Vacuum ........................................ 34 
+Melting the QCD Vacuum .............................................................................. 35 
+Summary: ZPF Modes and Vacuum Field Energy ......................................... 37 
+VI. Conclusion: The Way Forward to 2050 ........................................................... 37 
+Acknowledgements .............................................................................................. 41 
+Appendix: The QCD Bag Model ............................................................................ 42 
+References ........................................................................................................... 44 
+Figures 
+Figure 1. Illustration of the Casimir Effect ............................................................. 1 
+Figure 5. Energy Released from Ground State Suppression of Hydrogenic Atom 
+Figure 6. Apparatus for Ground State Energy Suppression: Casimir Segmented 
+Figure 7. Alternative Apparatus for Ground State Energy Suppression: Casimir 
+Figure 2. Vacuum-Fluctuation Battery .................................................................... 1 
+Figure 3. ZPE Resonant Dielectric Spheres Electrical Power Generation ................. 3 
+Figure 4. Theoretical Voltage Spectral Density of a Tungsten Coil .......................... 9 
+in a Microcavity ..................................................................................... 11 
+Tunnels ................................................................................................. 13 
+Strip and Spacer-Channels .................................................................... 13 
+Figure 8. Experimental Apparatus for Ground State Energy Reduction Tests ....... 14 
+Figure 9. Tunable Casimir Effect: Conductor vs. Dielectric ................................... 15 
+Figure 10. Tunable Casimir Effect: Engine Cycle ................................................... 16 
+Figure 11. Schematic of EV (Pulse Discharge Source) Device ............................... 18 
+Figure 12. SEM of EV Damage to Ceramic Plate .................................................... 19 
+Figure 13. SEM of EV Damage to Palladium Target ............................................... 20 
+Figure 14. EV Moving at Downward Angle Away From Its Source ........................ 21 
+UNCLASSIFIED/ /FOR OFFICIO! Pili QIU.,¥ 
+iv
+
+--- PAGE 5 ---
+UNCLASSIFIED/ / FOR OFFI@IA L WSE QptLY 
+Concepts for Extracting Energy From the Quantum Vacuum 
+I. Summary 
+Quantum theory predicts that the vacuum of space throughout the universe is 
+filled with electromagnetic waves, random in phase and amplitude, 
+propagating in all possible directions, and with a cubic frequency distribution. 
+This differs from the cosmic microwave backg round radiat ion and is refe rred 
+to as the electromagnetic quantum vacuum, which is the lowest energy state 
+of otherwise empty space. When integrated over all frequency modes up to the 
+Planck frequency, vp ( ~1043 Hertz [Hz]), it represents an energy dens ity of as 
+much as 10113 J/m 3 , wh ich is far in excess of any othe r known energy source, 
+even if only an infinitesimal fraction of it is accessible. Even if one is 
+constrained to integrate over all frequency modes only up to the nucleon 
+Compton frequency (~1023 Hz), 1 t his energy density is still enormous (~103 5 
+J/m 3). In addition, the electromagnetic quantum vacuum is not alone; it 
+intimately couples to the charged particles in the Dirac sea of virtual fermion 
+particle-antiparticle pairs (aka the Dirac vacuum) and thereby couples to the 
+other interactions inherent in the Standard Model (weak and strong force 
+vacua). However, in the Standard Model of particle physics, the weak force 
+vacuum is essentially the electromagnetic vacuum, because photons serve as 
+the massless eigenstates of (unified) electroweak theory with an "effective" 
+coupling constant that is in fact electromagnetic in strength. 2 And we can 
+safely ignore any coupling of the quantum electromagnetic vacuum to the 
+quantum chromodynamic vacuum in this paper because the latter coexists in 
+two phases: (1) the ordinary vacuum exterior to the hadron, which is 
+impenetrable to quark color, and (2) the vacuum interior of the hadron,3 in 
+which the Yang-Mills fields that carry color (gluons) propagate freely. Both 
+vacuum phases are separated by a boundary at the surface of the hadron on 
+which the Yang-Mills and quark fields satisfy boundary conditions. 
+Even though this zero-point field (ZPF) energy seems to be an inescapable 
+consequence of quantum field theory, its energy density is so enormous as to 
+make it difficult to reconcile. Instead, many quantum calculations subtract the 
+ZPF energy by ad hoc means (for example, renormalization). However, the 
+effects of the quantum vacuum ZPF that are responsible for a variety of well­
+known physical effects are observed, such as: 
+Lamb shift. 
+Spontaneous atomic emission. 
+1 The characteristic frequency associated with the size of nucleons. 
+2 The weak force coupling constant is merely the quantum electrodynamic/electromagnetic 
+coupling constant (i.e., the fine structure constant, a) that is "suppressed" by a simple 
+inverse-quadratic ratio of the virtual weak force particle mass to the proton mass (a factor 
+of 10-4). 
+3 Hadrons are the class of strongly interacting elementary particles which are a bound state 
+of quarks. This class of particles has two subclasses: baryons (e.g., protons and neutrons 
+comprised of three quarks) and mesons ( comprised of two quarks). 
+UNCLASSIFIED/ /FOR OEFICIOP Pili QIU.,¥ 
+V
+
+--- PAGE 6 ---
+UNCLASSIFIED/ /FOR OFFIEIAk WS& OPtkY 
+Low-temperature van der Waals forces. 
+Casimir effect. 
+Source of photon shot and fluctuating radiation-pressure noise in lasers. 
+• Astronomically observed cosmological constant (aka dark energy, a form of 
+Casimir energy according to the Schwinger-DeWitt quantum ether 
+prescription [ Reference 1-4]). 
+Rather than eliminate the ZPF energy from the equations, there is much left to 
+be learned by exploring the possibility that it is a real energy, From this 
+perspective, the ordinary world of matter and energy is like foam atop the 
+quantum vacuum sea. If the ZPF is real, then there is the possibility that it can 
+be tapped as a source of power or be harnessed to generate a propulsive force 
+for space travel. This notion of exchanging energy with the quantum vacuum 
+is the focus of this paper. 
+An aircraft propeller or jet engine can push air backwards to propel the 
+aircraft forward. A ship or boat propeller does the same thing in water. On 
+Earth there is air or water to push against. But a rocket in space has no 
+material medium to push against, and so it needs to carry and eject propellant 
+in order to provide momentum. A deep-space rocket must start out with all the 
+propellant it will ever require, and this quickly results in the need to carry 
+additional propellant just to propel the propellant. The breakthrough desired 
+in space travel is to eliminate the need to carry propellant at all, that is, to 
+generate a propulsive force without carrying and ejecting propellant? 
+UNCLASSIFIED/ /FOR OEFICIOP 11ili ODIi.¥ 
+vi
+
+--- PAGE 7 ---
+UNCLASSIFIED / /FO@R-OFFTCGEAL-USE-ONE—
+
+II. Historical Concepts for Extracting Energy and
+Thermodynamic Considerations
+
+The Casimir force is a force associated with the electromagnetic quantum vacuum
+(Reference 5). This force is an attraction between parallel uncharged metallic plates
+that has now been well measured and can be attributed to a minute imbalance in the
+ZPF energy (ZPE) density inside the cavity between the plates versus the region outside
+the plates as sho

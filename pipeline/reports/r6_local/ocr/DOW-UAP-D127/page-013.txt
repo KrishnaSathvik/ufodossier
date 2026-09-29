@@ -1,0 +1,39 @@
+UNCLASSIFIED/ /FOR OFFI&I.t.k W~i Q~lk¥ 
+This is a difficult problem. 
+It occupied the author's mind for no less than about ten years (1997 -2007). 
+It is actually an ANALYTICALLY UNSOLVABLE problem, in that, to the best of this 
+author's knowledge, it is IMPOSSIBLE to find an analytic expression for any FINITE 
+PRODUCT of uniform random variablesD ; . This result is proven in Sections 2 thru 3.3 of 
+Appendix B (unfortunately!) . 
+6. Solving the Statistical Drake Equation By Virtue of the 
+Central Limit Theorem (CLT) of Statistics 
+The solution to the problem of finding the analytical expression for the probability 
+density function of N in the statistica l Drake equation was found by this author in 
+September 2007. The key steps are the following: 
+• Take the natural logs of both sides of the statistical Drake equation (7). This 
+changes the product into a sum. 
+• The mean values and standard deviations of the logs of the random variables D; 
+may all be expressed analytically in terms of the mean values and standard 
+deviations of the D; . 
+• Recall the Central Limit Theorem (CLT) of statistics, stating that (loosely speaking) if 
+you have a SUM of independent random variables, each of which is ARBITRARILY 
+DISTRIBUTED (hence, also including uniformly distr ibuted), then, when the number 
+of terms in the sum increases indefinitely (i.e. for a sum of random variables 
+infinitely long) .. . the SUM RANDOM VARIABLE TENDS TO A GAUSSIAN. 
+• Thus, the natural log of N tends to a Gaussian. 
+• Thus, N tends to the LOGNORMAL DISTRIBUTION. 
+• The mean value and standard deviations of this lognormal distribution of N may all 
+be expressed analytically in terms of the mean values and standard deviations of 
+the logs of the D, already found previously. 
+This result is fundamental. 
+All the relevant equations are summarized in the following Table 1. This table is actually 
+the same as Table 2 of the author's original paper IAC-08-A4.1.4, entit led "The 
+Statistical Drake Equation" and presented by him at the International Astronautical 
+Congress (IAC) held in Glasgow, UK, on October l5t, 2008. This orig inal paper is 
+reproduced in Appendix B. 
+To sum up, not only is it found that N approaches the completely known lognormal 
+distribution for an INFINITY of factors in the statistical Drake equation (7), but the way 
+is paved to further applications by removing the condition that the number of terms in 
+the product (7) must be FINITE. 
+UNCLASSIFIED/ /FOR 8FFI&l.t.k Wii QNk¥ 
+13

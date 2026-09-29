@@ -1,0 +1,74 @@
+UNCLASSIFIED / / FO@R-OFFEGHH-USE-OAL
+
+Ns = 350-10" uNs := Ns ONs = 1-10°
+50 10
+P= T00 MiP : oP = 700
+1
+ne = 1 Line ‘= ne Gne = i
+3
+50 10
+fi -= — 3 of] -= —
+100 - 100
+20 10
+1s. —. = fi of = —
+100 “ 1
+20 10
+fe = — c= f ofe = —
+100 ae 100
+_ sais ae swat nik «: wn
+10 10
+N <= Ns-fp-ne-f-fi-fe-fL N = 3500
+
+Table 1. Input values (i.e. mean values and standard deviations) for the seven Drake uniform random variables D,.
+The first column on the left lists the seven input sheer numbers that also become the mean values (middle column).
+Finally the last column on the right lists the seven input standard deviations. The bottom line is the classical Drake
+
+equation (1).
+
+3.2 STEP 6: COMPUTING THE LOGS
+OF THE 7 UNIFORMY
+DISTRIBUTED DRAKE RANDOM
+VARIABLES D;
+
+Intuitively speaking, the natural log of a
+uniformly distributed random variable may not be
+another uniformly distributed random variable! This
+is obvious from the trivial diagram of y =In(x)
+
+shown below:
+
+Natural logarithm of x
+
+REAL values of the natural log: y=In(x)
+
+aol) 1 Z 3 4 5
+POSITIVE independent variable x
+
+Figure 1. The simple function y = In(x).
+
+aa
+
+So, if we have a uniformly distributed random
+variable D; with lower limit a;and upper limit b;, the
+random variable
+
+Y,=In(D,) i=1,...,7 (23)
+
+must have its range limited in between the lower limit
+In(a;) and the upper limit /n(b,). In other words, this
+are the lower and upper limits of the relevant
+probability density function fy (y). But what is the
+
+actual analytic expression of such a pdf?. To find it,
+we must resort to the general transformation law for
+random variables, defined by equation (9). Here we
+obviously have
+
+y= g(x)=In(x) (24)
+That, upon inversion, yields the single root
+
+x(y)=2(y)=e. (25)
+
+On the other hand, differentiating (24) one gets
+
+UNCLASSIFIED / SFO R-OFFEGHH-USE-OPHY

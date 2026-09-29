@@ -1,0 +1,48 @@
+UNCLASSIFIED/ fFOA OFFIEIAk W&i 0Pilk¥ 
+quantization procedure and order of approximation used in a given quantum gravity 
+theory. However, the linearized semi-classical quantum gravity theory is related to 
+Einstein's classical nonlinear General Relativity Theory whereby the former uniquely 
+implies the latter provided that the graviton, which exchanges the gravitational force 
+between two massive particles or photons, is a pure spin-2 particle. In this theory, the 
+stress-energy tensor of the source matter fields is quantized while gravitation (via the 
+Einstein curvature tensor) is still treated classically. Semi-classical quantum gravity is a 
+quantum field theory in curved spacetime that has been successful in reproducing a few 
+of the predictions and many of the foundational precepts of General Relativity Theory. 
+A particular example of what a quantum antigravity correction term looks like was 
+derived in 1984 by R. L. Forward and the author, with instruction provided by R. P. 
+Feynman and M. Scadron, during a summer quantum gravity seminar sponsored by the 
+Hughes Research Labs in Malibu, CA. One began by studying the Feynman quantization 
+procedure for the case of single -photon exchange between two charged particles, which 
+tells us about the underlying nature and quantum corrections to the static Coulomb 
+force. From this study discovered that the same is also true for the case of single­
+graviton exchange between two massive spin-0 particles in connection with the static 
+Newtonian force. By applying Feynman's quantizat ion procedure (Reference 58-60) to 
+the linearized Einstein field equation in the nonrelativistic limit, the following static 
+graviton -exchange potential, V gr.,v (r), for two spin -0 particles undergoing a gravitational 
+interaction can be derived: 
+(23) 
+where m1 and m 2 are the masses of the interact ing particles, r is their radial separation, 
+and 83(r) is the 3-dimensional Dirac 8-function with r the position vector of some 
+reference point in space. The first term in Equation (23) is immediately recognized as 
+the attractive Newtonian gravitational potential while the second quantum correction 
+term is repulsive. Also, the second term is independent of the interacting particle 
+masses and can only be measured for bound quantum s-states because the product of 
+the coefficient 4n(Gli2/c2) ~ 10-94 with the 8-function gives only a minute physical effect 
+at the atomic scale. The second term happens to be analogous to the usual quantum 
+correction to the Coulomb or nuclear force. If the two particles were to have non-zero 
+quantum spin, then Vgrav(r) will be modified by additional spin-orbit and spin-spin 
+correction terms. Furthermore, there are additional velocity-dependent corrections to 
+Vgrav(r) that generate the general relativistic post-Newtonian modifications of the 
+classical equation of motion of a particle in a gravitational field. 
+But the most important characteristic to observe about the quantum antigravity 
+correction term in Equation (23) is that its magnitude is incredibly minute, only 
+affecting bound quantum s-states. In general, quantum gravity correction terms at any 
+level of approximation, whether gravitationally repulsive or attractive, will have 
+coefficients ~G(li0/cK) (for 8, K > 1), and therefore will not have a measurable impact on 
+any macroscopic system that embodies any form of propulsion. Because these quantum 
+corrections are so minute, and because there is no single universally accepted quantum 
+gravity theory to work with, investigators have had little reason to look into the 
+potential application of quantum gravity correction terms to antigravity propulsion 
+physics. 
+UNCLASSIFIED/ /FOA OFFI&IAb Yi&: 8,.bY 
+18

@@ -1,0 +1,131 @@
+22
+
+23
+24
+25
+26
+27
+28
+29
+30
+
+xp
+
+32
+
+33
+
+34
+
+35
+
+UNCLASSIFIED / /F@R-OFFECEAE-USE-ONEY
+
+Several references are available on the broad category of different method to display complex information in
+
+graphical formats. These are just some noteworthy examples:
+
+e 50 Great Examples of Data Visualization. (2009, June). Web Designer Depot. Retrieved from
+<http://www.webdesignerdepot.com/2009/06/50-great-examples-of-data-visualization>
+
+e McCandless, David. (2009). The Visual Miscellaneum. New York, NY: HarperCollins.
+
+e Shneiderman, B. (1997). Designing the User Interface: Strategies for Effective Human-Computer Interaction,
+
+3rd edition. Boston, MA: Addison-Wesley Longman Publishing.
+e Tufte, E. (1991). Envisioning Information. Cheshire, CT: Graphics Press.
+
+e Visual Understanding Environment (VUE). (2008). Tufts University. Site developed by Academic Technology.
+
+Retrieved from <http://vue.tufts.edu/>
+
+Stokes, Wickens, & Kite, K. (1990).
+
+Stokes, Wickens, & Kite, K. (1990).
+
+Tufte, E. (1991).
+
+Stokes, Wickens, & Kite, K. (1990).
+Reason, J. (1990).
+
+Stokes, Wickens, & Kite, K. (1990).
+
+Stokes, Wickens, & Kite, K. (1990).
+
+Stokes, Wickens, & Kite, K. (1990).
+
+Degani, A. & Wiener, E. (1990). Human Factors of Flight-Deck Checklists: The Normal Checklist, NASA CR
+177549, University of Miami, Coral Gables, FL
+Several references apply:
+
+e Bass, L. & Dewan, P. (Eds.). (1993). Trends in Software, User Interface Software, New York, NY: John Wil
+& Sons.
+
+ey
+
+e Elm, W. C. & Woods, D. D. (1985). Getting Lost: A Case Study in Interface Design. In Proceedings: Twenty-
+
+Ninth Annual Meeting of the Human Factor Society, 927-931.
+e Hoover, G. (1992).
+
+e Johannesen, L. & Woods, D. D. (1991). Human Interaction with Intelligent Systems: Trends, Problems and
+
+New Directions. In Conference Proceedings 1991 IEEE International Conference on Systems, Man, and
+Cybernetics, 1337-1341.
+e Potter, S. S. & Woods, D. D. (1991). Event Driven Timeline Displays: Beyond Message Lists in Human-
+
+Intelligent System Interaction. In Conference Proceedings 1991 IEEE International Conference on Systems,
+
+Man, and Cybernetics, 1283-1288.
+
+e Potter, S. S, et al. (1992). Visualization of Dynamic Processes: Function-Based Displays for Human-
+Intelligent System Interaction. In Proceedings 1992 IEEE International Conference on Systems, Man, and
+Cybernetics, 1283-1288.
+
+e  Sarter, N. & Woods, D. (1992). Mode error in supervisory control of automated systems. In Proceeding of
+the Human Factors Society 36'" Annual Meeting. Atlanta GA, Oct.
+
+e Wan, C, et al. (1991). "Visé: A Visual Programming Environment for Data Analysis and Visualization."
+Presented at the 1999/Nov. Conference of Association for Computing Machinery (ACM)User Interface
+Software and Technology (National Information Display Laboratory).
+
+e Woods, D. D. (1984).
+
+e Woods, D. D. (1988). The Significance Messages Concept for Intelligent Adaptive Data Display. Working
+Paper Series No. 1988-015. Columbus OH: Ohio State University.
+
+e« Woods, D. D. (1993). The price of flexibility. In Hefley & Murray (Eds.), Proceeding of the International
+Workshop on Intelligent User Interfaces. Association for Computing Machinery (ACM).
+
+Regarding adaptive displays, a number of references are pertinent:
+e Hoover, G. (1992).
+e  Sarter, N. & Woods, D. (1992). Mode error in supervisory control of automated systems. In Proceeding of
+the Human Factors Society 36” Annual Meeting. Atlanta GA, Oct.
+Woods, D. D. (1984).
+Woods, D. D. (1988).
+Woods, D. D. (1993).
+Stokes, Wickens, & Kite, K. (1990).
+
+e
+.
+.
+Three references apply:
+
+« Stokes, Wickens, & Kite, K. (1990).
+e Hoover, G. (1992).
+
+e Shneiderman, B. (1997).
+
+T
+
+.
+
+e
+
+hree references apply:
+Stokes, Wickens, & Kite, K. (1990).
+Woods (1984).
+
+UNCLASSIFIED /-OR-O5ELGDALAW SEO Re
+
+51

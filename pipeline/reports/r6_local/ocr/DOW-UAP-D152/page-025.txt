@@ -1,0 +1,27 @@
+UNCLASSIFIED/ /P'OR. 8FFIEil1'1.k lellii Ql'II.¥ 
+(69) 
+where t~ is the time a light signal is emitted from A to B, reflected at B back to A, 
+arriving at A at the time t~, and where it is assumed that the time t8 at which the 
+reflection at B takes place is equal to the arithmetic average of t~ and t~. Only by 
+making this assumption does the velocity of light turn out always to be isotropic and 
+equal to c. From an absolute point of view, the following rather is true. If tR is the 
+absolute reflection time of the light signal at clock B, one has for the out and return 
+journeys of the light signal from A to B and back to A, if measured by an observer in an 
+absolute system at rest in the distinguished reference system: 
+y(tR -t~) = dfc+ 
+(70) 
+y(t; -tR) = d/c_' 
+where d is the distance between both clocks, and where c+ and c_ are given by (67). 
+Adding the equations (70) one obtains 
+(71) 
+If an observer at rest with the clock wants to measure the distance from A to B, he can 
+measure the time it takes a light signal to go from A to B and back to A. If he assumes 
+that the velocity of the light is constant and isotropic in all inertial reference systems, 
+including the one he is in, moving together with A and B with the absolute velocity v, 
+the distance is 
+d' = (c I 2)(t! -t~) . 
+And because of (71) 
+(72) 
+d' = rd.Ji-( v2 I c2 )sin 2 f//. (73) 
+UNCLASSIFIED/fFOA OFFI&il.t.k lellii OJi,k¥ 
+21

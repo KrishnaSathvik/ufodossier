@@ -1,0 +1,47 @@
+UNCLASSIFIED1/FOR 8ffl@IAL tt.!! 8flt I 
+AEROSPACE 
+Ultracapacitors are suitable for applications requ iring large bursts of power for relatively 
+short peri ods of time, with the ability to be recharged rapidly. Ultracapacitors are 
+find ing ubiqu itous use in electronics and transportation, and there are a number of 
+applications in aerospace ranging from backup power to high pulse-power delivery. The 
+electronics systems in milita ry vehicles requi re failsafe operation; ultracaps can be 
+designed to provide a continuous power source in the event of a power interruption. 
+Fire-control systems are another example where continuous power is requ ired, 
+including higher power capability. Airbags require a backup power source to ensure 
+they are deployed as requ ired with or without a powered system. Small portab le 
+communications systems have ultracaps for backup power and to reta in memo ry. 
+Memory retention is critical in many systems; for example, the bridge power used 
+during a transfer from ground to onboard power in aircraft systems can be supplied by 
+an ultracap. Ultracaps are excellent for stabilizing the power that is either delivered or 
+received. For example, communication systems may requ ire additional power during 
+transmission, which can be offset by using an ultracap to supplement the system. Bus 
+voltages may need peak current stabilization. 
+The high-power capabilities of ultracaps make them advantageous for severa l systems . 
+The fast discharge is ideal for delivering the significantly higher power required for 
+starting cold engines. Active suspension systems in vehicles require bursts of power 
+that are delivered in response to the terra in; an ultracap can store the necessary power, 
+deliver as necessary, and recharge quickly. GPS-guided missiles and projectiles may 
+use ultracapacitors to provide the power required for commun ication and navigation. 
+High-power discharge for naval systems has been identified as an area where ultracaps 
+are especially useful, often used in hybrid systems in tandem with high-energy 
+batteries. Extremely high power delivery makes ultracapacitors a potential veh icle for 
+delivering the power required for directed-energy weapons. As pseudocapacitive 
+systems reach higher energy densities, along with improvements to the materials and 
+cell composition, ultracapacitors will have capabilities of delivering large amounts of 
+power in a very short time, conta ined within an increasingly smaller footprint. 
+Signatures and Vulnerabilities 
+As mentioned above, ult racapacitors could be impo rtant in the development of 
+ult rawideband energy weapons. Previously, this market has been dominated by bulk 
+acoustic semiconductor switch (BASS) devices, but by stringing several capacitors 
+together in parallel, a more formidable discharge can be created. Because 
+ultracapacitors have very high discharge rates, they will emit a distinctive broadband RF 
+signature when discharged. A modest wideband receiver may be able to detect this 
+discharge; its proxim ity will depend upon the construction of the target device . 
+Furthermore, the architectu re of such a device may yield a unique signatu re that, with 
+the proper equipment, can be identified and certa inly warrants further study. When 
+employed in a particular electronic device, this signature may be altered by its 
+immed iate envi ronment, and this may further give an indication of both the type of use 
+and device employed. When searching for ultracaps in the field that are not i n use, the 
+large electrostat ic potentials may provide a clue. 
+UNCLASSIFIEO/fFOA OFFl€il.t.k YSE O,.Llf 
+15

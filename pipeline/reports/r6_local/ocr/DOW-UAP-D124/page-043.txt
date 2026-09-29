@@ -1,0 +1,27 @@
+UNCLASSIFIED/.'FOR OFFICl.t. .. Uili QN .. ¥ 
+Figure 39 shows the deviation from the 1962 standard atmosphere for a hypersonic 
+glider enter ing the atmosphere from the central South Pacific (summer) to northeastern 
+Russia (winter). The deviations from constant -density shells based on the 1962 
+standard atmosphere are significant . With today's computers, not ignoring the actual 
+atmosphere is only a bookkeeping task. Hypersonic glide ranges at near maximum L/D 
+ratio are to be generated. The local density is critically important, as it is determined 
+by the lift coefficient for L/D maximum . 
+2 2 q = W/ S plan { 1- ( --y ) ] =1188 5 ~--y ) 0 CT (5)
+(CL)m axL/D 25,535 • 1000 ° 
+The seasonal variat ions are enough that the glider should have the correct density and 
+temperature distribution in its flight-control computer so that unexpected alterations in 
+the flight trajectory are not mandated during entry. The atmosphere is analogous to a 
+constant-energy system-if the lower altitudes are hotter, the upper altitudes are 
+colder, and vice versa. 
+In terms of deviations from the standard, the coldest upper-altitude temperatures most 
+likely encountered are at 50,000 feet over Saudi Arabia in summer, and the warmest 
+atmospheric temperatures are at 27,000 feet over Russia in winter. 
+1962 Standard Atmosphere 
+1966 Standard Atmosphere Supplement 
+1959 Selected Meridional Cross sections of the Northern Hemisphere NAVAIR-50-1 C-59 
+-48%
+-•-
+Figure 39. Earth's Atmosphere. Earth's atmosphere is not a series of concentric, constant-density shells or 
+globally uniform, and fly ing from one hemisphere to anoth er enta ils significant deviations from standard definitions. 
+UNCLASSIFIED/fFOR OFFI@IAL Y81: 8HLY 
+36

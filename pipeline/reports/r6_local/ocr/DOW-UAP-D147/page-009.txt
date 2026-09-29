@@ -1,0 +1,39 @@
+UNCLASSIFIED11FOR. 8FFl@IAL tt.!! e"t I 
+Table 1: Contrasting Properties of Batteries and Ultracapacitors 9 
+Characteristic 
+State of the Art Lithium Ion Battery Ultra capacitor 
+Charge time ~3-5 minutes "'1 second 
+Discharge time ~3-5 minutes ~1 second 
+Cycle life <5,000 @ 1C rate >500,000 
+Specific Energy (Wh/kg) 100-200 5 
+Specific power (kW/kg) 0.5 -1 5-10 
+Cycle efficiency (%) <50% to >90% <75 to >95% 
+Cost/Wh $1-2/Wh $10-20/Wh 
+Cost/kW $75-150/kW $25-50/kW 
+The voltage curve for an ultracapacitor is proportional to the depth of discharge, 
+whereas batteries deliver a relatively constant voltage over a long discharge period. The 
+sloping voltage curve of an ultracap can be advantageous for state-of-charge 
+determinations. However, this is also responsible for the decreased energy density 
+available in an ultracapacitor. For applications requiring energy to be delivered over a 
+longer time scale or delivered at a constant voltage, the relatively flat voltage curve 
+found in most batteries would be the preferred option. In instances where power is to 
+be delivered or received quickly, or where many cycles are required, an ultracap is ideal. 
+To better understand the differences between batteries and ultracaps, it helps to think 
+of batteries as storing watt-hours of energy and ultracaps as storing watts of power. A 
+Ragone plot illustrates the distinctions by plotting power versus energy in a logarithmic 
+scale. As can be seen in Figure 3, ultracaps make an excellent option where high power 
+density is required. The times shown are rough estimates for a full charge or discharge, 
+which are estimates to help understand the relationship between energy density and 
+power density. Batteries have made significant improvements to power delivery 
+recently, but batteries remain the high-energy-density solution . Ultracapacitors are 
+often thought of as a stop-gap between conventional capacitors and batteries. Recent 
+developments of hybrid capacitors have led to considerable progress toward higher 
+energy density. However, there is a tradeoff between high energy density and high­
+power devices, and the distinctions between the two require consideration of application 
+requirements when choosing the energy storage platform for a system. The differences 
+between ultracaps and batteries do not make the two mutually exclusive. There are 
+applications where either a battery or an ultracap is the preferred energy storage 
+platform. Quite often, these two can be used together in systems to perform 
+complementary roles. 
+UNCLASSIFIEO/;LFOA OFFI&il:.l.b YS& OrtLY 
+4

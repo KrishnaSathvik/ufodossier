@@ -1,0 +1,48 @@
+UNCLASSIFIED / #®OR-OFELGIALUSEQ_ONLY ns
+
+than the zeroth one. This confirms the recently predicted effect that for IPMs one can
+indeed observe a very counterintuitive effect: sub-diffraction waves can indeed
+propagate with less loss than the diffraction-limited ones.
+
+The second milestone involves demonstrating the possibility of observing the
+interference of sub-diffraction electromagnetic waves inside the IPM using the two-
+beam/two-detector technique. Figure 10 demonstrates this interference pattern which
+reveals the phase advance of the sub-diffraction waves inside the IPM. While we have
+so far demonstrated the interference between the first Fourier component of the grating
+(sub-diffraction) and the zeroth Fourier component, we see the possibility of interfering
+even more sub-diffraction waves (29 and 3°).
+
+interference scan, 10.800 microns
+
+Normalized signal
+
+— Detector 2 - "+1" + "0" orders
+— Detector 1 - "0" +"-1" orders
+
+4 ‘ a 10
+Interference scan, 11.310 microns
+
+Normalized signal
+
+0 2 4 e a ‘0 w
+
+— 42
+— Detector 2 (A) - "+1" + "0"
+
+. . ord
+Delay line position, microns} —_ Nadactor + /B)-"D" + °-1" orde
+
+Figure 13. (Left): Experimental Setup for 2-Beams/2-Detectors Interferometric Measurement in Our
+Lab. (Right): Preliminary Experimental Results: infrared intensity on two detectors (red and black lines) are
+(i) different from each other; (ii) have a sinusoidal dependence on the delay line position (in microns), which is
+equivalent to the phase delay between the two beams; (iii) are shifted in phase by the amount equal to twice the
+phase difference between the 1* order (sub-diffraction) and 0" order (radiation zone) Fourier components of the
+bottom grating. Measurements taken at A= 10.8 um and A= 11.3 um.
+
+With these two milestones established, it is now possible to conduct true sub-
+
+wavelength imaging experiments using two (or more) far-field detectors and jointly
+processing their inputs.
+
+15
+UNCLASSIFIED/ LEQB.OEELCIAI=USE-ONTY

@@ -1,0 +1,52 @@
+UNCLASSIFIED/ (FOR OFEICI0k YSE 8Htt 
+,----------2 
+A=l - cos0-.Jt: YY I A , -sin. 20/(µ xxA z> (4) 
+cos0 + J£ YY Iµ, , - sin 2 0 l(µx.<µ ,,) 
+where we've assumed that, for normal incidence, this metamaterial is impedance­
+matched: £ YY = 1-'zz = - 1+ i. Equation 4 can be simplified under the assumption 
+oflcS')'.)'I >> l,µ "" = 1: A :=:d - tan4 (0/2), implying that A~ 0.97 even for 0 = n /6. The 
+challenge, if course, is to design a true impedance-matched optical metamaterial. 
+Success has been achieved in designing such a metamaterial (Reference 20). 
+The recently published design is shown in Figure 19. The unit cell consists of two layers 
+of plasmonic antennas; the cut-wire antenna that imparts magnetic (as well as some 
+electric) response to this metamaterial, and the continuous-wire antennas that impart a 
+purely electric response. It is found that the wide-angle capability could be very 
+important for several applications. Wide-angle power absorption efficiency is desirable 
+for miniaturizing photodetectors or microbolometers down to the wavelength size. 
+Continuous Silver 
+20nm 
+80 
+nm 
+I 
+I 
+wires 
+control 
+µ eff 
+1450 1500 1550 1600 1650 1700 
+Wavelength [nm] 
+Figure 20. Specific Design of a Wide-Angle Plasmonic Absorber Based on Negative Index Metamaterial 
+Operating at A= 1550 nm. Left panel: Schematic of the silver-based plamonic structure. Right panel: Extracted 
+permittivity and permeability for the normal incidence demonstrate impedance matching: £ YY =µ,, =-1 +i. 
+(Reference 20) 
+For example, to focus light on a wavelength-sized photodetector or micro-bolometer 
+requires high-NA optics (a NA=0.5 or higher). Therefore, a photodetector should be 
+able to absorb light incident at 30 degree angle. For advanced aerospace platforms it is 
+easy to envision a scenario where an airborne platform is powered by a high-power 
+infrared laser source located on Earth. If the wavelength falls inside the transparency 
+window of the atmosphere (between 3 and 4 µm, and also around 10 µm), then such a 
+22 
+UNCLASSIFIED/ /FOR QFFI@IAL tt.!I! Oi4Lf 
+3 
+2 
+_1 
+-2 
+-3 
+Impedance 
+- Matching , .. , . 
+,' -. lit - .. 
+I ,. ,.. • -
+- Re e 
+""'" Im E 
+■ •• Reµ 
+Im.ti 
+-4~----~- ~ --~-~

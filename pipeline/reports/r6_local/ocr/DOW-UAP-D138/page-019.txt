@@ -1,0 +1,44 @@
+UNCLASSIFIED//P6R OFFIOIIIL W&li Q~•kY 
+Higgs, and therefore the greater the mass. The second brane is the UV or "hidden" 
+brane. The line element in RSl is described by the metric: 
+(5.4) 
+Y/µvis the metric tensor for the D-dimensional Minkowski spacetime, the AdS curvature 
+radius is given by 1/k and the interbrane separation is given by r. The 5th dimension is 
+compactified on the orbifold of length a, where a < qi < a. The orbifold fixed points 
+located at qi= 0 and 4>= a correspond to the location of the visible and the hidden 
+brane. 
+The exponential factor is referred to as the warp factor and is an appealing feature in 
+the RSl model, as it can both generate a TeV mass scale from the Planck scale in the 
+higher dimensional theory and reduce the effective gravitational strength on the visible 
+brane through the suppression factor e-2krl.SI while retaining a bulk width that is only a 
+couple of orders of magnitude above the Planck scale. In addition to the stabilization of 
+the interbrane separation, the quantum effects from the bulk fields (aka the Casimir 
+energy) can also provide a mechan ism for the generation of dark energy on the visible 
+brane. 
+5.4 EXTRA DIMENSION SUMMARY 
+Although there is still no direct evidence of extra spatial dimensions, there is the 
+possibility that the experiments planned at the Large Hadron Collider could detect 
+particle decay signatures that would indicate the presence of higher dimensions. In fact, 
+all the theoretical groundwork has been performed by theorists, and as soon as the LHC 
+is running smoothly it could, in principle, demonstrate the existence of higher 
+dimensions in a relatively short period of time. Any such discovery would represent a 
+truly radical alteration of our understanding of nature, and many new questions will 
+emerge regarding the potential role extra dimensions could play in advanced 
+technologies (which will be discussed in more detail later in this paper). 
+6. Dark Energy as a Higher Dimensional Artifact 
+As discussed earlier, the vacuum of spacetime can be visualized as a sea of quantum 
+fields never fully at rest due to the Heisenberg Uncertainty Principle. The oscillations of 
+the vacuum radiate energy over a range of frequencies in much the same way that an 
+oscillating electron emits electromagnetic energy, and in this way, there exists a ground 
+state energy associated with space itself. The vacuum potential for a periodic scalar 
+field in the ADD model described above is given by (Reference 48-50): 
++ T}C 00 
+d
+4 2 n,r 2 2 
+V = - L,,, fo -(k)4 log[ k +( - ) +m ] • (6.1)
+2 2,r R11= 
+where k is the momentum modes of the quantum fields, R is the radius of the 5th 
+dimension, and mis the mass of the field. The prime on the summation indicates the 
+n = 0 term is excluded. The integral over the continuous momentum modes of the 
+UNCLASSIFIED//FQR OFFIOIAL ~81: 6Ht,• 
+12

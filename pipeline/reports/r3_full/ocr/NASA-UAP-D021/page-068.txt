@@ -1,0 +1,51 @@
+58
+
+Lovell
+
+Borman
+
+Lovell
+
+Borman
+
+Love] 1
+
+FRormen
+
+Lovell
+
+Borman
+
+cross range.
+Did you have any kind of a malfunction in the acceler-
+ometer?
+
+No, but Spacecraft 6 did. I don't remember that being
+
+a condition of the bet.
+
+I didn't either.
+
+Ground Information. The ground gave us excellent informa-
+tion, as far as everything we needed to know, including
+recomputing the guidance angles after retro. The ground
+did an excellent job. Tracking data, I don't remember
+receiving that. When Spacecraft 6 was entering, they
+
+kept telling them that they were fine, and they were going
+right down the slot and everything. J do not remember
+ever hearing from the ground on anything like that on ours,
+do you? Perhaps we did and we were so engrossed in fiyine
+it, that we did not notice it.
+
+Well, we had good communications prior to blackout over
+Guaymas. After we started guiding, going into the atmos-
+phere, communications went to pot.
+
+Status of recovery. I do not think recovery could have
+been any better.
+
+Very smooth.
+
+7.4 Systems Configuration
+The FCS, as we said before, we had 0, HI RATE with both

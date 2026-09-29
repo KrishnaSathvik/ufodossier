@@ -1,0 +1,12 @@
+.... 
+Appendix I II 
+Sequence Frame Number Number of Approx time of Sky Color 
+Number Start Finish Frames Seq. in Seconds 
+1 0 160 160 10 Light 
+2 161 386 225 14 Light 
+3 387 700 313 19 1/2 Dark 
+4 700 970 270 17 Dark 
+5 970 1010 4o 2 1/2 Dark 
+6 1010 1080 70 4 1/2 Dark 
+7 1080 114o 60 4 Dark 
+DECLASS IFIED Authority NND 923007

@@ -1,0 +1,34 @@
+UNCLASSIFIED//POR. Offl@IAI:: ~S& Qptk\f 
+electric current. The ion charge is given in the equation as e. MHD generators have 
+been proposed for highly efficient generation of electricity from the combustion of coal, 
+for example. On a spacecraft, MHD generators can generate power from both ions and 
+electrons, which deflect in opposite directions due to the magnetic field. 
+Even if the ion energy cannot be converted directly into electricity, neutrons or ions can 
+be used to heat up a propellant gas to provide thrust. Hydrogen gas would be the most 
+efficient propellant for fusion reactions producing neutrons because the neutron energy 
+is easily absorbed through collisions with the hydrogen nuclei. 
+Propulsion fusion reactors, however, still generate radiation, including neutrons, which 
+pose a health hazard for the crew of any spacecraft. By carrying hydrogen propellant 
+and locating the crew as far away as possible from the fusion reactor, some degree of 
+shielding is possible. 
+While fusion reactors have the potential to produce incredible amounts of energy from 
+relati vely inexpensive fuel (deuterium, tritium, helium-3), the problems of initiating, 
+controlling, and sustain ing the fusion reaction remain unsolved. 
+FUSION INITIATION METHODS 
+There are many possible fusion reactions that extend all the way up from hydrogen to 
+the actin ides (uranium). In each case, the two ions that "fuse" must collide to form a 
+new nucleus that rapidly decays with the release of fusion energy, as shown in Figure 6. 
+Both ions, however, are positively charged and tend to repel each other due to 
+Coulombic repulsion: 
+/ He+ 3.5 MeV 
+n + 14.1 MeV 
+Figure 6. Nuclear Fusion of Deuterium and Tritium. 
+The Sun emits vast amounts of thermal energy through the fusion of hydroge n isotopes; 
+it overcomes Coulombic repulsion through the high pressures and temperatures that 
+exist in its inter ior. High temperatures create high ion velocities and high-velocity 
+collisions are more likely to cause two ions to fuse together. 
+Controlled fusion reactions are difficult to achieve due to the temperatures required to 
+initiate the process. The reactions that occur at the lowest temperatures are listed in 
+Figure 7, including the D-T reaction which was discussed earlier. 
+UNCLASSIFIED/fF&A &FFI&I:.l.k W&& Qptk\f 
+14

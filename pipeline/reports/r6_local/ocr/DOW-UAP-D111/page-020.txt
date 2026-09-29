@@ -1,0 +1,90 @@
+Contract Line, Subline, or Item Description
+
+Exhibit Line Item Number
+
+(iii) Subassemblies, components, and parts embedded within delivered items as specified in
+
+Attachment Number
+
+(2) The unique item identifier and the component data elements of the DoD unique item
+identification shall not change over the life of the item.
+
+(3) Data syntax and semantics of unique identifiers. The Contractor shall ensure that--
+
+(i) The encoded data elements (except issuing agency code) of the unique item identifier are
+marked on the item using one of the following three types of data qualifiers, as determined by the
+Contractor:
+
+(A) Application Identifiers (AIs) (Format Indicator 05 of ISO/IEC International Standard
+15434), in accordance with ISO/IEC International Standard 15418, Information Technology # EAN/UCC
+Application Identifiers and Fact Data Identifiers and Maintenance and ANSI MH 10.8.2 Data Identifier
+and Application Identifier Standard.
+
+(B) Data Identifiers (DIs) (Format Indicator 06 of ISO/IEC International Standard
+15434), in accordance with ISO/IEC International Standard 15418, Information Technology # EAN/UCC
+Application Identifiers and Fact Data Identifiers and Maintenance and ANSI MH 10.8.2 Data Identifier
+and Application Identifier Standard.
+
+(C) Text Element Identifiers (TEIs) (Format Indicator 12 of ISO/IEC International Standard
+15434), in accordance with the Air Transport Association Common Support Data Dictionary; and
+
+(ii) The encoded data elements of the unique item identifier conform to the transfer structure,
+syntax, and coding of messages and data formats specified for Format Indicators 05, 06, and 12 in
+ISO/IEC International Standard 15434, Information Technology # Transfer Syntax for High Capacity
+Automatic Data Capture Media.
+(4) Unique item identifier.
+(i) The Contractor shall--
+(1) Serialize within the enterprise identifier;
+(A) Determine whether to--
+(2) Serialize within the part, lot, or batch number; or
+(3) Use a DoD recognized unique identification equivalent; and
+(B) Place the data elements of the unique item identifier (enterprise identifier; serial
+
+number; DoD recognized unique identification equivalent; and for serialization within the part, lot,
+or batch number only: original part, lot, or batch number) on items requiring marking by paragraph
+(c) (1) of this clause, based on the criteria provided in the version of MIL-STD-130, Identification
+Marking of U.S. Military Property, cited in the contract Schedule.
+
+(d) For each item that requires unique item identication under paragraph (c) of this clause,
+in addition to the information provided as part of the Material Inspection and Receiving Report
+specified elsewhere in this contract, the Contractor shall report at the time of delivery, either
+as part of, or associated with, the Material Inspection and Receiving Report, the following
+information:
+
+(1) Unique item identifier.
+
+(2) Unique item identifier type.
+
+(3) Issuing agency code (if concatenated unique item identifier is used).
+
+(4) Enterprise identifier (if concatenated unique item identifier is used).
+
+(5) Original part number (if there is serialization within the original part number).
+(6) Lot or batch number (if there is serialization within the lot or batch number).
+
+(7) Current part number (optional and only if not the same as the original part number).
+(8) Current part number effective date (optional and only if current part number is used).
+(9) Serial number (if concatenated unique item identifier is used).
+
+(10) Government ’s unit acquisition cost.
+
+(11) Unit of measure.
+
+(e) For embedded subassemblies, components, and parts that require DoD unique item identification
+under paragraph (c) (1) (iii) of this clause, the Contractor shall report as part of, or associated
+with, the Material Inspection and Receiving Report specified elsewhere in this contract, the
+following information:
+
+(1) Unique item identifier of the parent item under paragraph (c) (1) of this clause that contains
+the embedded subassembly, component, or part.
+(2) Unique item identifier of the embedded subassembly, component, or part.
+(3) Unique item identifier type.++
+(ii) The issuing agency code--
+
+(A) Shall not be placed on the item; and
+
+(B) Shall be derived from the data qualifier for the enterprise identifier.
+(4) Issuing agency code (if concatenated unique item identifier is used).++
+(5) Enterprise identifier (if concatenated unique item identifier is used).++
+
+PAGE 20 OF 59 HHM402-08-C-0072

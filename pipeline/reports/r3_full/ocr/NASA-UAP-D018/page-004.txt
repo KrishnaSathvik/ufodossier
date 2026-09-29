@@ -1,0 +1,38 @@
+M-913-65-04 
+will trail 16 miles behind the booster. At this point, a spacecraft retardation 
+maneuver of 13 feet per second will initiate the visual rendezvous sequence. 
+The spacecraft will approach the booster from behind and below. Because of 
+unknown variation in the atmospheric density and drag of the slowly tumbling 
+booster, the exact approach trajectory cannot be predicted. The flight crew 
+will measure elevation angles of the booster and wil I initiate rendezvous 
+maneuvers when the booster is approximately 45 degrees elevation angle a bove 
+the spacecraft. By observing the movement of the booste r with respect to the 
+star background and with respect to the spacecraft inertia l platform display , the 
+crew can determine the proper lateral maneuver to null the late ral componen t 
+of velocity thereby resulting in a spacecraft velocity vector which is directly 
+toward the booster. After removing the lateral velocity difference, the pilot 
+will apply a series of breaking maneuvers with the forward firing thrusters to 
+reduce the closing velocity. The flight crew will measure with onboard 
+instruments the total maneuvering velocity required for the rendezvous procedure. 
+The spacecraft should be back in close proximity of the launch vehicle over 
+the Northeast coast of South America at the beginning of the fifth orbit. 
+After the rendezvous operation is complete, the spacecraft will again separate 
+from the booster - this time using a maneuver which will place the Gemini 
+spacecraft on an orbit with a predicted lifetime of four days. 
+The EVA suit is the new G4C suit which replaces the G3C suit used so 
+successfully by the GT-3 flight crew. The G4C suit has the following new 
+features: 
+a. Helmet - incorporation of triple lens shield (visors) for visual, thermal, 
+impact, and micrometeorite protection. 
+b. Torso -
+1. Change to Nomex (HT-1) 11 Linknet 11 in restraint layer for increased 
+structure I strength. 
+2. Incorporation of strain relief zipper in sealing closu re. 
+3. Incorporation of redesigned ventilation inlet and outlet fittings with 
+automatic locking and redundant sealing features. 
+4. Replace Nomex (HT-1) coverlayer with integrated thermal and 
+mi crometeori ty cover layer. 
+c. Gloves - Incorporate new design with increased mobility, abrasion 
+resistance and thermal protection. 
+d. Bio-connector - Self-alighment, pin protective design. 
+6/1/65 Page 2

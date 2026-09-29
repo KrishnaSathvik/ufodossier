@@ -1,0 +1,36 @@
+{
+  "filename": "DOS-UAP-D001.pdf",
+  "generated_at": "2026-09-28T19:14:30.886233+00:00",
+  "page_count": 1,
+  "usable_text_chars": 1675,
+  "stats": {
+    "native_good": 0,
+    "native_thin": 0,
+    "needs_ocr": 1,
+    "ocr_failed": 0,
+    "ocr_succeeded": 1,
+    "pages_ocrd": 1,
+    "ocr_unrecoverable_thumbnail": 0
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "native_quality": {
+        "page_number": 1,
+        "native_char_count": 1487,
+        "printable_ratio": 0.987,
+        "alpha_ratio": 0.672,
+        "word_count": 196,
+        "replacement_char_count": 0,
+        "category": "native_thin",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.13, clean=0.57))"
+      },
+      "final_category": "native_thin",
+      "text_method": "tesseract",
+      "char_count": 1660,
+      "text": ""
+    }
+  ],
+  "combined_path": "/Users/krishnasathvikmantripragada/Webapps/ufo-dossier/pipeline/reports/r5_local/ocr/DOS-UAP-D001/combined.txt",
+  "production_writes": false
+}

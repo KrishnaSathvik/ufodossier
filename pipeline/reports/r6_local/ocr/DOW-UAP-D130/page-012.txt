@@ -1,0 +1,49 @@
+UNCLASSIFIED/ /POil 8ffl61Al W&li 0NL¥ 
+second transferred. Higher bit rates equate to more efficient interfaces . Baseline 
+examples of performance include finger pointing, which can convey 14 bits/s of 
+informatio n (Reference 13), operation of a mouse about 8 bits/s (Reference 14), while 
+stylus tapping a soft QWERTY keyboard on a PDA has a lower rate, around 5 bits/s 
+(Reference 15). 
+Once these questions are researched and answered for a given application, the design 
+choice should be made whether a new mechanical interface, or an optical interface that 
+tracking detailed motion of the eyes, body and limbs, may be the optimum solution 
+rather than a BMI.5 
+Another consideration in developing a BMI control system is the cognitive limit of 
+supervisory control of external devices. The current state of the art for human 
+interfaces involves volition of control, meaning that there is some executive 
+supervision, typically involving the pre-frontal cortex, active during the control process. 
+Recent studies relating to control of semiautonomous vehicles show that there are 
+significant limits on the number of supervisory activities that can be undertaken 
+simultaneously (Reference 16). In response to these limits, one can consider utilizatio n 
+of nonsupervised brain networks in control of external devices, similar to those brain 
+systems that initiate very complex muscle coordination activity such as martial arts or 
+playing a musical instrume nt, or systems like those that are responsible for autonomic 
+function. Application from such research is long term, but there are current studies that 
+show BMI training of at least one spinal cord patient exhibited differential activity in the 
+cerebellum, owing to extraordinary plasticity (Reference 17). It is therefore not out of 
+the realm of possibility that sufficient input and output interfaces that include neural 
+pathways through the cerebellum could result in over-learning a BMI application to the 
+point that supervisory control is developed and thus significant cognitive effort is not 
+required. 
+Noninvasive Technologies 
+There are four noninvasive technologies currently in widespread use in monitoring brain 
+activity. The two direct-measure technologies involve detecting surface currents from 
+the relative voltage changes at or just below the scalp, electroencephalography (EEG), 
+and detection of near scalp magnetic fields associated wit h neura l pathway current flow, 
+magnetoencephalography (MEG). The remaining two indirect measures involve 
+monitoring BOLD response through rapid successions of whole brain MRI (functional 
+MRI or fMRI), and near-i nfrared spectroscopy (NIRS). 6 
+The primary technology used for BMI is also the oldest. EEG was first described in 1929 
+(Reference 18) and now exists in several derivative forms. Traditional EEG uses 
+electrodes at the surface of the scalp to measure and amplify potential differences 
+between points above the cortical surface and a fixed refere nce such as the average 
+reading from the earlobes. Traditional EEG data is analyzed by breaking up the power 
+spectrum into several bands between 0.5 and 100 Hz. A derivative form of EEG 
+developed about 10 years later is called event-related potentials, or ERP. In ERP, scalp 
+5 There is a valid argument to be made that optical tracking and analysis, especially of the eyes, is a BMI 
+technology as defined in the current treatise. It is excluded as one merely by fiat. 
+6 NIRS is occasionally referred to as functional NIRS or fNIRS. NIRS using multiple sources to produce 3D images of 
+internal changes in blood flow is occasionally called diffuse optical tomography (DOT). DOT is a more general 
+technology that can also refer methods such as to visible-light laser excitation of tissue. 
+UNCLASSIFIED/ /FOil OFFl61Al WSE OHlY 
+6

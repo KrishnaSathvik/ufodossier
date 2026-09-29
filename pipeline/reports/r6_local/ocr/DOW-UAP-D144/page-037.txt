@@ -1,0 +1,37 @@
+UNCLASSIFIED/ ,'FOR OFFI@IAL WSE QptLY 
+Chapter 3: Provisional Cockpit for Breakthrough Flight 
+Applying the strategy of using the most demanding situations to guide designs, the 
+provisional cockpit presented here assumes a single pilot. Without any crew amongst 
+whom to disburse the workload, such a cockpit must be more efficient and effective. 
+The "design for stress" approach is also applied, which drives the design to have actual 
+physical displays and controls that are concentrated in a "tunnel vision" zone. The 
+elements on these physical panels are predictably fixed, owing to lessons of human 
+factors. 
+Newer technology such as virtual reality displays with augmented reality and gesture­
+based inputs are also included, along with voice and thought commands. Based on 
+lessons from adaptive display errors, and considering the limits of human 
+concentration, limits are imposed on the use of voice and thought commands . 
+The overall configuration is shown in Figure 13 and consists of a modest set of physical 
+panels surrounding a seated pilot, along with a large virtual display surrounding the 
+entire area. The most critical displays and controls are condensed into the forwardmost 
+panels. 
+FLIGHT MODES 
+The most fundamental flight mode is the full manual mode. Each subsequent flight 
+mode offers increasing levels of automated assistance, up to and including a fully 
+autonomous control mode that can operate even when the pilot is incapacitated. A 
+provisional set of flight modes (whose buttons and indicators are presented across the 
+central flight mode panel from left to right) include the following: 
+• Full manual. 
+• Manual w/safe assist. 
+• Interactive assist. 
+• Fully autonomous (keyed to emergency responses). 
+Full Manual 
+As the name suggests, this is where the pilot has full control over the motion of the 
+vehicle through joysticks, switches, gestures, voice, and thought. This is the most 
+difficult flight mode for the pilot, and accordingly provides the best situation from which 
+to design the guidance displays and to set the requirements for the various contro l 
+inputs. 
+In subsequent studies, 48 this would be the flight mode to specify when addressing the 
+challenges of guiding the pilot for entry into orbits and navigating in difficult situations. 
+UNCLASSIFIED/fFOA: OFFICIO la Plili Oralla¥ 
+32

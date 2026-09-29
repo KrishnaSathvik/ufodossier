@@ -1,0 +1,35 @@
+UNCLASSIFIED1fFOR 8ffl@IAL tt9! e"t I 
+Ultracapacitors as Energy and Power Storage Devices for 
+Commercial and Military Applications 
+Summary 
+Ultracapacitors (ultracaps) are energy storage devices capable of extremely 
+rapid charge and discharge rates with the ability to be cycled hundreds of 
+thousands of times. These unique capabilities make ultracaps attractive for a 
+number of applications. The advantages over lithium ion batteries are 
+somewhat mitigated by the fact that they have less than 10% of the specific 
+energy (Wh/kg) and require a power converter to regulate their voltage. The 
+high capacitance is achieved by the enormously high surface area of the 
+carbon electrodes compared to planar electrolytic capacitors. Ultracapacitors 
+are commonly used to provide voltage stabilization of power converters and to 
+supplement peak-power loading of electrical systems. Their application has 
+expanded from electronics and telecommunications to industrial load leveling 
+and transportation. Due to their durability, their use in aerospace has been for 
+munitions fusing and missile power load leveling. Ultimately, application will 
+be pulsed power storage and delivery for electric propulsion and directed­
+energy weapons. 
+Recent developments in ultracapacitors have focused on different active 
+materials and electrode designs. By using advanced carbons, polymers, and 
+metal oxides, increased power density and energy density can be achieved. 
+Oxide-based thin-film ultracaps have demonstrated high-performance energy 
+and power density, approaching theoretical limits. Carbon nanotubes and 
+advanced carbons have been used as additives to and solely as electrode 
+materials. Nanostructured materials and thin-film manufacturing process 
+improvements will generate breakthroughs in mass production. Magnetic 
+capacitors are a recent development, manufactured using semiconductor 
+processes on silicon wafers. They possess a different storage mechanism and 
+will transform energy storage and pulsed-power applications. Ultracapacitors 
+are reaching widespread adoption and they are now available to support 
+electronics through transportation. New advancements in materials will enable 
+high-energy density devices with exceptional power capabilities. 
+UNCLASSIFIEO/fFOA OFFI&I:.l.b YS& ONLY 
+iv

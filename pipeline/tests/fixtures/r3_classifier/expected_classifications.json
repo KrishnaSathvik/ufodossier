@@ -1,0 +1,30 @@
+{
+  "baseline_frozen_at": "2026-09-25",
+  "notes": "R3 readiness classifier regressions. Catalog/referral correspondence is source_only. First-hand encounter letters stay extractable. Analysis assessments stay source_only. A host 'invitation' must not force administrative.",
+  "documents": [
+    {
+      "filename": "USG-UAP-D001.pdf",
+      "external_id": "USG-UAP-D001",
+      "document_class": "correspondence",
+      "contains_incidents": false
+    },
+    {
+      "filename": "ICA-UAP-D001.pdf",
+      "external_id": "ICA-UAP-D001",
+      "document_class": "analysis",
+      "contains_incidents": false
+    },
+    {
+      "filename": "FBI-UAP-D011.pdf",
+      "external_id": "FBI-UAP-D011",
+      "document_class": "correspondence",
+      "contains_incidents": true
+    },
+    {
+      "filename": "CIA-UAP-006.pdf",
+      "external_id": "CIA-UAP-006",
+      "document_class": "incident_report",
+      "contains_incidents": true
+    }
+  ]
+}

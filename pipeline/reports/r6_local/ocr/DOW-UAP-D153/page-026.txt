@@ -1,0 +1,30 @@
+-----------------------------
+------------------------
+UNCLASSIFIED/ /PO" orr1e1J11t l:l!H! e .. tv 
+0.2 
+0 
+-0.2 
+q-4 '-----
+-~----
+0 ,.______ 
+/J 
+-0.2\ 
+'--.. 
+q-5 -------~ 
+-2.5 
+0 
+p 2.s"'-...._____ 
+..... 
+5 
+Figure 7. Quantum Tomography of Schrodinger-Cat States. Top: q0 = 3. Two separated 
+coherent amplitudes (peaks) are clearly visible. Bottom: qo = 4. The larger the separat ion of the 
+amplitudes, the more rapid is the oscillation in t he quantum interference structure between the 
+two peaks. Negative probabil ities appear within the quantum interference structure. The 
+exper imental data used to reconstruct the depicted Wigner functions was provided by A. Furusawa 
+and H. Yonezawa, University of Tokyo. 
+----- 4 
+We digress for the moment to explain what Schrodinger cat states are. Schrodinger's 
+cat is a famous illustration of the principle of superpos ition in quantum theory that was 
+proposed as a thought exper iment by Erwin Schrod inger in 1935 . Schrodinger's cat 
+UNCLASSIFIED/ /fOtt 8ffl@IAL Y§E 8,.LY 
+22

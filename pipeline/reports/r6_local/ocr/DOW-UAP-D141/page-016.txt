@@ -1,0 +1,35 @@
+UNCLASSIFIED/
+
+Figure 9. FSL Based on an Indefinite Permittivity Metamaterial Placed Between the Object and the
+Image-Releasing Grating. The grating releases into the far field sub-diffraction waves produced by light
+scattering off the object. The role of the metamaterial is to propagate sub-diffraction waves from object to grating.
+(Reference 27)
+
+Ever since Merlin’s invention (Reference 28) of the sub-diffraction near-field plate, it
+has become clear that the interference between sub-diffraction electromagnetic fields
+can result in the formation of a deeply sub-wavelength image. The near-field plate,
+however, is not an imaging device; its purpose is to create a well-defined image using
+an elaborate pre-fabricated sub-wavelength structure on the plate’s surface. The goal
+for this study is to observe an a priori unknown sub-wavelength image using a near-
+field structure. In the past, successes (Reference 19) in retrieving images of sub-
+wavelength objects (such as A/20 holes) using an NSOM for radiation detection are
+achieved. An NSOM is a near-field instrument, therefore, a much more desirable
+detection method would involve far-field detection. To advance this goal, and to
+develop a tool sometimes referred to as the FSL, we've initiated research on multi-
+beam multi-detector sub-wavelength holography illustrated in Figure 10.
+
+‘> Detectors
+
+NG
+
+Figure 10. Tomographic Multi-Beam Multi-Detector Holography of Sub-Wavelength Objects Using
+Indefinite Permittivity Medium (IPM). Incident beam(s) scatter off the sub-A object, propagate through the
+IPM, and then get re-scattered into the far field by the grating with the period D. The purpose of the multi-detector
+arrangement is to disentangle the ki and kz spatial wave numbers in the object's spectrum (shown in the left
+panel). Beams A and B are phase-shifted with respect to each other.
+
+Far field
+
+12
+
+UNCLASSIFIED/ LEQR.OFEIGCI A= tSE-ONTY

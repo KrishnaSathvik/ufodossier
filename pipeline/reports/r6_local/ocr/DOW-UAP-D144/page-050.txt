@@ -1,0 +1,47 @@
+UNCLASSIFIED/ ,'FOR OFFI@IAL WSE ONLY 
+Appendix A: Annotated Bibliography 
+References used in the course of th is report are provided here along with a short 
+description of each. Although not all were explicitly cited, each influenced this study. 
+• 50 Great Examples of Data Visualization. (2009, June) . Web Designer Depot. Retrieved from 
+< http://www . webdesig nerdepot .com/2009/06/50-great -examples-of -data-visualizatio n > 
+Article with examples and links to dozens of different ways to visually convey the interrelationships of 
+multiple items - visualization techniques suitable for future gesture -based interfaces and/or art . 
+• Ausubel, J. & Marchetti, C. (2001). The Evolution of Transport. The Industrial Physicist, April/May, 20- 24. 
+Article (5 pg) gives historic data on human travel instincts compared to transporta tion technology - with 
+projections aimed to advocate Maglev trains. The data appears constant over history that people average 
+1 hr/day of travel, typically round trips from home (80% of the time) and where school and work are the 
+temporary destinations. Also, and again consistent over time, the resources devoted to travel is 12-15% 
+of total resources. This means for wa lking (2.5 km/h), the village territory is 20 km2. Driving (40km/h) , 
+territory is 1,000 km2. For flying (600km/h) , the terr itory was unspecified due to differences in the 
+proport ion of population using air flight and the differences in time devoted (different travel reasons) . 
+• Bass, L. & Dewan, P. (Eds.). (1993). Trends in Software, User Interface Software, New York, NY: John Wiley 
+& Sons. 
+Book (216 pg) Addresses usability attributes and then how these are tested and improved. 
+• Cohen, A. & Chen, E. (1999). Six Degree-of -Freedom HAPTIC System as a Desktop Virtual Prototyping 
+I nterface, Cambridge, MA: SensAble Technologies, Retrieved from 
+<http:/ /citeseerx. ist.psu .edu/viewdoc/download?doi= 10.1.1.122 .1783&rep= repl&type=pdf> 
+Technical Advertisement (2 pg) Mechanical version of a six-deg -interface that offers force-feedback on all 
+6 motions . Although not adaptable to cockpit joyst icks, the issue of tactile feedback is relevant. 
+• Coombes, L. F. E. (2005). Control in the Sky: The Evolution and History of The Aircraft Cockpit, Pen & Sword 
+Aviation : Leo Cooper Limited . 
+Book (320 pg) A historical overv iew of the developments of the cockpit. Contains significant examples of 
+contemporary cockpit displays. 
+• Degani, A. & Wiener, E. (1990). Human Factors of Flight-Deck Checklists : The Normal Checklist, NASA CR-
+177549 , Univers ity of Miami, Coral Gables, FL. 
+Report (67 pg) Focuses on aircraft checklists and presents recommendations for improvements. 
+• Dismukes, R. (1991). Aerospace human factors research division - Code FL. Internal document, NASA Ames 
+Research Center, Moffett Field, CA. 
+Report (83 pg) listing the projects and personnel of that division during that year. 
+• Elm, W. C. & Woods, D. D. (1985). Getting Lost : A Case Study in Interface Design. In Proceedings: Twenty ­
+Ninth Annual Meeting of the Human Factor Society, 927-931. 
+Report (5 pg) Applies principles of spatial data management to solve the 'getting lost' and 'mode error' 
+phenomena frequently encountered with mult i-display networks. 
+• Genik II, R. J. (2009/ March/ 23) . Technological Approaches to Controlling External Devices in the Absence 
+of Limb-operated Interfaces, Defense Intelligence Reference Document, DIA-08-1003-012 (unclassified). 
+Report (31 pg) summaries the variety of approaches for having the brain directly control machines, called, 
+Brain-Machine Interface (BM!), without the need for mechanical actions. While long-term projections 
+suggest that implants might ultimately become viable, the most likely near-term embodiments are 
+noninvasive means, such as the existing commercial products Mindset, by NeuroSky, and nia, by OCZ 
+Technology . Accuracy is improving as this technology is further researched. 
+UNCLASSIFIED/fFOA. OFFICIO ls. Plili ONls.¥ 
+45

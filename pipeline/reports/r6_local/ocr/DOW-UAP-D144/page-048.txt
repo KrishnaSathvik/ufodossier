@@ -1,0 +1,56 @@
+UNCLASSIFIED / (FO R-OFFECEALE-USE-ONEY
+
+Chapter 4: Future Work
+
+Given the incomplete body of knowledge concerning futuristic propulsion and
+maintaining cognizance of ongoing human-factors research, it is probably premature to
+engage in specific research on cockpits for propulsion physics. Instead, more insights
+are likely to be gained from relevant physics research. A caveat is that advances in
+cockpits for breakthrough flight might be further advanced by taking advantage of the
+gaming industry or through science fiction speculation.
+
+Without the actual technology for breakthrough flight, a game simulation or detailed
+science fiction show/movie could be used as the context around which to explore such
+options. A concern with this approach, however, is that the underlying stories serve the
+primary function of entertainment as opposed to user efficiency. It is conceivable to
+encounter a guidance system more intended to create dramatic tension ("wow effect")
+than ease of use.
+
+MULTIPLE FLIGHT REGIME GUIDANCE CONVENTIONS
+
+The breakthrough vehicle will operate in regimes for which guidance standards do not
+yet exist, specifically orbit insertion and deep-space (interstellar) travel. Although
+motion near the surface of a gravitating body can copy the standards of aircraft flight
+(primary flight display and terrestrial navigation standards), further work is required to
+explore and select the best options for orbit and deep-space flight.
+
+Although it is expected that orbit insertion maneuvers would be handled by an
+automated system, the more demanding condition to use as a design target is to have
+a display system that can guide a pilot to manually enter a stable orbit.
+
+Choosing the convention for the primary axis of deep-space motion will require a trade
+study to determine if the natural human instinct for forward-dominated motion offers a
+better human-machine interface than the propulsion-dominant option for upward-
+dominated motion. Such an assessment must also consider how well the convention
+works when transitioning from deep-space flight into an orbit, then landing, and then
+back again to deep-space flight. Once any convention is set into place, it will be difficult
+to change later.
+
+VECTOR MOTION DISPLAY
+
+Once the development of those guidance conventions is further along, a method to
+clearly display those conventions for the pilot would have to be developed. A
+complication that these future displays will encounter is the need for a seamless
+transition between these three conventions: flight above a gravitating body, orbit
+insertion, and deep-space flight beyond our solar system.
+
+VECTOR MOTION CONTROL
+
+Adding three linear axes (plus yaw) to the classic two-rotational degree-of-freedom
+joystick is a_ significant change. Although six-degree joysticks are available
+commercially, they are oriented toward computer interfaces rather than commanding
+the motion of a vehicle. To determine the optimum configuration for an actual six-
+degree vehicle control, simulations would likely be required. Perhaps one venue is to
+
+43
+UNCLASSIFIED /-602-O5FIGLAL-USE-OAL

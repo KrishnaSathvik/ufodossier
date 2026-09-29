@@ -1,0 +1,32 @@
+UNCLASSIFIED/ /FOR 8FFI@IAL 1::191!! 8HLY 
+What has not been experimentally measured yet are the sub-vacuum fluctuations and 
+their corresponding sub-vacuum (negative) energy density inside a Casimir cavity. 
+Casimir cavities produce static, or time-independent, sub-vacuum fluctuations and 
+(negative) energy density. Marecki [5, 6] proposed a modified BHD and computed the 
+two-point function and the associated spectral density for the ground state of the 
+quantum electric field in Casimir geometries, and predicted a position- and frequency­
+dependent pattern of BHD responses if a device of this type is placed inside a Casimir 
+cavity. He discovered that by exploiting a trick with the subtraction of the output of 
+two balanced photodiodes, it is possible to quantify and map the sub-vacuum 
+fluctuations of the quantum field and its corresponding energy density inside the cavity. 
+His modified BHD design uses the electric field of the TEl mode of the Casimir cavity as 
+the local oscillator. Marecki also discovered that the sub-vacuum (negative) energy 
+density regions inside a Casimir cavity violate the Quantum Inequalities theorem. We 
+recommend that an experimental program be implemented to test Marecki's modified 
+BHD and his predictions for Casimir geometries. Using this device to also test the 
+efficacy of the Quantum Inequalities theorem is a necessary part of the proposed 
+experimental program. If such experiments are successful, then it will be necessary to 
+follow up by implementing a program to develop and commercialize a portable 
+"modified-Marecki BHD" device for the purpose of detecting, measuring, and spatially 
+mapping the sub-vacuum (negative) energy regions produced by a putative static (or 
+"DC") negative energy generator that would be used for engineering the spacetime 
+surrounding an aerospace platform for propulsion purposes. Because the Casimir effect 
+and its associated negative energy are incredibly feeble, such putative propulsion 
+systems will not involve the use of Casimir cavities to produce a free-space distribution 
+of negative energy surrounding the platform. Therefore, a modified-Marecki BHD will 
+require a high quality laser for the local oscillator and the photodiodes are allowed to be 
+much larger in size. A number of modified-Marecki BHD devices could also be 
+assembled in a sensor array for surveillance and detection of any anomalous aerospace 
+platforms that might use engineered spacetime effects for propulsion. 
+UNCLASSIFIED// FOR OPPICIJ!tt tlSI!! 8PU::lf 
+44

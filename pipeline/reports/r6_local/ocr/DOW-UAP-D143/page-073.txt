@@ -1,0 +1,47 @@
+UNCLASSIFIED/;'POR: OPPICIAE USE 014Lf 
+spacecraft. This creates coherent RF or optical apertures that are essentially unlimited 
+in size, which could offer unprecedented high-resolution radiometry, hyperspectral 
+imaging, radar, and RF interception (for mapping, surveying, MASINT, SIGNIT), etc. 
+Launching laser-propelled Lightcraft nano-/pico-satellites to LEO requires megawatt­
+class lasers. TEXTRON Systems Corporation's proposed 10 MW electron gun-driven 
+CO2/gas mixture laser is a multi-megawatt-class system that can be implemented now 
+because this technology requires little or no additional R&D. This system offers realistic 
+near-term, low-cost Lightcraft launch capability. However, this system is large, 
+requires a large amount of gas propellant to fuel the laser, and the system 
+infrastructure will cost over $200 million. 
+The newly emergent bulk slab solid-state, high-power fiber, and free -electron laser 
+technologies being explored by the various DoD directed energy weapons programs 
+offer higher electrical-to-optical efficiencies and overall laser performance, compact and 
+portable system size, less complexity and smaller weight, all at much lower system and 
+infrastructure cost. These lasers are scalable to megawatt-class beam power, and so 
+we roughly estimate that the overall system and infrastructure cost to deploy such laser 
+systems to launch a Lightcraft to LEO will be from several factors to an order of 
+magnitude (or more) lower than for the electron gun-driven CO2/gas mixture laser 
+system. 
+Removing the waste heat produced by high-power laser systems is an important factor 
+driving the physical limitations of scaling up the beam output power. An innovative 
+matched-refractive-index liquid is used to rapidly remove the heat produced by a 150 
+kW bulk slab solid-state laser weapon while the very high surface area-to-volume ratio 
+of high-power fiber lasers allows for the rapid removal of heat from the gain medium 
+without the need for external cooling. Phase-change materials are being explored and 
+devices using such materials have recently demonstrated the ability to store very large 
+quantities of the waste heat produced by high-power solid-state lasers, which is a 
+different way of rapidly removing large amounts of heat from the solid-state gain 
+medium. Unlike solid-state laser systems, free-electron lasers are not affected by heat 
+problems while their gain medium (a vacuum) cannot be damaged. 
+Launching a laser-propelled Lightcraft nanosat/picosat from the ground, sea, or air into 
+LEO requires controlling and steering the high-energy laser beam, while at the same 
+time making real-time adjustments to account for platform motion, optical train and 
+atmospheric effects on beam propagation, so that the beam maintains high quality, 
+low-loss, precision contact with the Lightcraft during the entire flight. Recent technical 
+innovations in optical train design and other system architecture have evolved beam 
+control devices for high-energy laser weapons toward new implementations. New beam 
+control devices and high-power optical train combinations have a resulting beam line 
+that is considerably simpler, smaller and lighter than current architectures. Almost 
+every component in the beam line performs mult iple functions, thereby dramatically 
+reducing the high-power optical component count. This approach also packages all 
+beam control sensors, processors and drivers into a single turret assembly. 
+In 2005, the AFRL/PRSP (Edwards AFB, CA) concluded their laser Lightcraft propulsion 
+R&DTE program before launching a Lightcraft test vehicle into LEO was demonstrated 
+UNCLASSIFIED'I i'FAA: 061i1Clali.k W&& 8PtLY 
+69

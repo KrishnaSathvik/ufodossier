@@ -1,0 +1,49 @@
+UNCLASSIFIED/ (POR OFFECTALUSE-ONE—
+
+THE SOLID-CORE POSITRON ROCKET
+
+Figure 11 depicts a solid-core positron-powered rocket, similar in many regards to the
+NERVA nuclear-thermal concept.?9
+
+Turbopump
+
+Bb H2 Tank
+Attenuating
+HX ee
+
+——_—————————————
+Hot Bleed
+Line Inlet Plenum
+
+Turbine &
+Exhaust Nozzle
+
+Figure 11. Solid-Core Positron Rocket Engine With a Hot-Bleed Configuration (courtesy Positronics
+Research LLC)*°
+
+The cryogenic hydrogen propellant is supplied from a storage tank through a high-
+pressure pump and routed to cool the regenerative nozzle, the casing of the heat
+exchanger, and the central positron target tubes. Ps enters the inlet plenum to the
+attenuator that is heated by gamma rays to high temperature. Hydrogen propellant
+passes through the attenuating matrix and is heated and exhausted through a nozzle to
+generate thrust.
+
+A small fraction of the hot exit propellant is bled off to a turbine that drives the high-
+pressure feed pump. The high-temperature bleed can either be mixed with cold
+hydrogen to reduce its temperature or directly fed to the turbine. If it is directly fed to
+the turbine, it must be made of materials that can withstand high temperatures. The
+bleed flow is exhausted from a turbine exit nozzle to space after driving the turbine.
+
+As with the NERVA system, the positron solid-core concept is thermally limited by
+materials in the heating chamber. The difference is that the fission system requires a
+reactor and complex machinery, whereas the positron system relies on Ps atoms
+injected upstream from a storage unit. This has two advantages. First, a reduction in
+the engine mass for a given thrust is realized; second, there is greater choice in
+materials to be used in the heating chamber.
+
+A thermal-fluids analysis was conducted to predict performance. A specific impulse of
+920 seconds is attainable with chamber temperatures at 3,000 Kelvin. The
+corresponding thrust and power emulate fission systems. Mars trip burn times are on
+
+12
+UNCLASSIFIED/ /FOR-OFFECEAL-USE-ONE—

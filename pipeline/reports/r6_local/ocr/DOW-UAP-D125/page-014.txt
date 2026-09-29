@@ -1,0 +1,50 @@
+UNCLASSIFIED/ /FOR 8FFIEJIAL ~SE er•tv 
+experimental parameters were obtained. The parameters which were varied include the 
+background pressure, the ratio of electron to ion circulating currents, the applied 
+potential difference between the grids, and the inner grid variables such as measured 
+current, transparency, and construction error. When estimates of each of these 
+parameters which simulate the ion injection mode experiment were inserted into the 
+model, the resulting potential profile exhibited no more than a shallow potential well. 
+This result is consistent with that of beam defection measurements in the ion injection 
+mode experiments. In spite of these assumptions, the model is extremely valuable in 
+determining the relative (sensitivity of the potential well profile and depth to effects of 
+many of the system parameters. 
+It has been found that for the "medium" level of ion currents under discussion, the 
+most critical factors which inhibit deep well formation are inadequate spherical focusing 
+and charge neutral ization. The focusing is determined to a great extent by the degree 
+to which the grids are spherical potential surfaces. The grid must approach a spherical 
+shape within a few percent before other factors such as grid transparency and 
+background pressure play an important role. However, as the current is increased, the 
+requirements for sphericity are somewhat relaxed. For a grid construction error of less 
+than 5 percent, increasing the grid transparency and decreasing the pressure will also 
+lead to significant improvement in well depth." 
+These results were somewhat encouraging. However, they showed that grid 
+deformation could be very harmful. This deserves several comments. First, the present 
+author (G. Miley) later showed that design of grids with larger openings provided the 
+STAR mode where ion beams passed through the center of the openings, avoid ing grid 
+collisions and making spher icity of the grid itself less important. This is important for 
+small neutron/proton source type devices. However, the assumption of grids fails to 
+address the question of how a grid could survive in a power reactor or if they could be 
+eliminated to use a potent ial well with virtual electrode formation. The use of grids 
+cannot be completely ruled out for power reactors. Magnetic field protection techniques, 
+active cooling, etc. are conceivable. 
+Another question relates to the role of background gas in the IEC. The point is this: 
+When Miley moved to simplify the device for small neutron sources, he used the 
+discharge between the grid and vessel to form the ions needed for acceleration and 
+fusion. This inherently forces use of a modest background neutral gas pressure of the 
+fuel (typically deuterium) inside the reaction vessel. That in turn results in ion reactions 
+with the background gas becoming a dominant process in these IECs. Such interaction 
+includes fusion itself, scattering, charge exchange, etc. This greatly changes the plasma 
+physics of the IEC as opposed to the ideal of a potential well with "zero" background 
+pressure. Some key differences in the physics of such IECs were brought out by Tim 
+Thomson in his experimental study described in Reference 1.4. He noted that: "In 
+present gridded systems, convergence is not important since beam-target fusion 
+reaction dominate the reactivity of these devices, as evidenced by the linear scaling of 
+reactivity of these devices, as evidenced by the linear scaling of reactivity with the 
+cathode current. In fact, convergence may reduce the reactivity by forming a virtual 
+anode that limits the central ion density. However, this space charge effect can be 
+overcome by proper introduction of electrons. Good convergence is required to achieve 
+optimal beam-beam reactivity scaling for the application that require higher fusion 
+reaction rates, and the importance of symmetry in determining convergence places a 
+UNCLASSIFIED/ /P"Olt 8FFIEJIAk Wliii QrslL¥ 
+7

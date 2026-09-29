@@ -1,0 +1,16 @@
+UNCLASSIFIED/ /P'OR: OP'P'l@IAL WS& 0Nk¥ 
+Figure 14. Illustration of the Thermocouple Principle (Guilbeau and Towe, ASU) 
+Figure 15 on the left panel shows a photomicrograph of a thermopile temperature 
+sensor that is made from the metals antimony and bismuth. These metals are vacuum 
+deposited as alternating thin films using a masking process to form horizontal lines of 
+conductive metal. Each pair of lines has a sensing junction and a reference junction. 
+When they are heated on their sensing junction with respect to their reference end 
+(that is exposed to the ambient temperature), they generate a small electrical voltage. 
+Each junction is only a few tens of microns in size so it is possible to place dozens of 
+junctions in series in order to increase the voltage signal. Figure 15 on the right panel 
+shows that there are two banks of thermoelectric sensors with the central common 
+junctions supporting an enzyme gel. Thermopiles are thin film temperature sensors and 
+are differential in nature in that they measure temperature differences, and are thus 
+sensitive enough to detect exceedingly small temperature rises. 
+UNCLASSIFIED/ {FOR OFFICIO! !PEii QDlk¥ 
+18

@@ -1,0 +1,40 @@
+UNCLASSIFIED/ / FOA OFFIQI,t.k Wli& 0Nk¥ 
+~10 16 cm-3 , ion trap times of~ 1 sec are required. While very demanding, plasma 
+simulations show that carefully controlled injection can provide the potential well 
+formation (trap) required to achieve this goal. 
+PROPOSED BREAKEVEN EXPERIMENT 
+Studies of gridded configurations discussed earlier have achieved reaction rates of up to 
+1012 reactions per second(~ 1 Watt of fusion power) . Although these power levels fall 
+well below the requisite "break even" condition for power production, corresponding 
+neutrons production makes the IEC an excellent compact source for practical NAA. 
+Consequent ly this application and then related "spin -off" type projects have continued 
+to advance IEC basic physics understanding to the point where a pathway to a power 
+reactor can now be envisioned. Present IEC experiments at UIUC are designed to 
+baseline Q impact of ion injection conditions combined with supplemental electron 
+sources to maintain the desired quasi-neutrality. One of the current experiments, 
+shown in Figure 6.2, consists of a 16-inch diam . spherical vacuum system wit h a 
+spherical grid held at a high potential. This system produces about 108 reactions/sec 
+based on neutron counting experiments. A specially designed radio frequency (RF) ion 
+gun is installed on the side of the chamber to study controlled ion injection and 
+corresponding potential well formation for ion trapping. 
+Spherical f(v) 
+10-21 , - T77"l.i:~ =t=1~~;:----:---:-: -:;;-~----~ I""7 
+IEC well depth ( kV ) 
+Figure 6.1. p-11 B Fusion Cross Section Energy Requirements. The p- ll B react ion rate 
+approaches that of D-T at very high energies, I.e. deep potential wells. 
+10-22 
+l 
+i 10-23 Ill 
+'E 
+'-' 
+G> 
+ii 10-24 a.. 
+C 
+0 
+:.:. u «I 10-25G> 
+~ 
+10-26 
+10-27~-~---~ - --~-~-~-~--~~ 
+1. 2. 3. 5. 10. 20. 30. 50. 100. 200300 
+UNCLASSIFIED/ ,'FOR OFFiiiIAk W&lii 8 Pt k¥ 
+62

@@ -1,0 +1,34 @@
+UNCLASSIFIED/ /fOft Offl@IAL l!ISE 8P•tlf 
+IEC BASICS 
+We begin by presenting the early very basic theoretical study by Elmore, Tuck, and 
+Watson (Reference 1.1). That addresses the key question of the fusion power density 
+obtainable with potential well confinement. One of their basic assumptions is that the 
+potential well is "dug" by electrons which trap ions. Certain added assumptions lead to 
+well depth, etc, and finally they conclude that the system is unstable for ion densities 
+sufficiently high that appreciable thermonuclear yield is expected. They qualify this 
+conclusion saying "admittedly, a more thorough investigation is required to obtain a 
+complete understanding of stability of this electrostatic device". 
+This result was quite negative for electron formation of potential wells, but left the 
+route possibly open since the subject "needed a more thorough investigation." Later, 
+for various reasons, R. W. Bussard still pursued this concept by introducing the High­
+Energy Power Source (HEPS) Polywell device which uses a spherical simulated magnetic 
+field to stabili ze the potential well formed by electrons. This represents a "hybrid" 
+magnetic-lEC confinement system where electrons are confined by the magnetic fields, 
+forming the potential well which "traps " ions. Apparently, Bussard's view was that this 
+added magnetic stabilization would overcome the earlier Elmore and Tuck criticism. 
+Subsequently, some of his reports used particle-in-cell simulations to support the view 
+that such a stabilized electron potential well would allow adequate density for attractive 
+fusion densities. 
+However, the next IEC experiments following the Elmore et al. analysis (prior to 
+Bussard's) were the Hirsch-Farnsworth experiments (Reference 1.2) which used ion (vs. 
+electron) injected traps (as does the present author's work). This selection was largely 
+driven by the desire to gain added stabil ity by the large momentum of recirculating ions 
+that form the potential well. More about ion vs. electron injection routes will be covered 
+in later sections. Next, it is important to review the multiple well ("poissors" solution) 
+Farnsworth -Hirsch found for ion injected formation of potential wells in spherical 
+geometry. This is described in the paper by Hirsch (Reference 1.2) . As seen from Figure 
+1.2, monoenergetic ions with angular momentum "drag in" electrons to create "onion 
+skin" like nested potential wells around the center of the sphere such that the ion 
+density goes to infinity in zero volume at the origin. 
+UNCLASSIFIED/ }FOA: OFFICIAL !!ii onn X 
+5

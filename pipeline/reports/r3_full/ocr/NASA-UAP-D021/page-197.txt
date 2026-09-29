@@ -1,0 +1,22 @@
+187 
+There 's one area of procedures and systems training which 
+can be improved, and that is t he use of more correct 
+procedures between ground and simula t or. A lot of times 
+we got into the simulator to do a reentry or launch, 
+and we didn't get the parameters which you normally get 
+from Mlssion Control . There have been five manned l aunches , 
+with t apes on all of them, where the communications bet ween 
+the grouno. an:l th,~ spacecraf t are well documented . We 
+ought t o incorporate t hose in training . So you could 
+copy down upda te s, you could get the 0 ,8, you could get 
+systems failures and how the ground handles them , and 
+things of this n~tu.re. I think we could simul ate them 
+a lot better now, especi ally in Houston. 
+Borman I think Lynn Taegart was doi ng t hat. 
+Lovell Lynn was attempting to follow that procedure , We 
+requested th1t they get some tape s from MGC from 
+G1-5 1 s l aunch , but by the time we left there, they 
+hadn't yet arr i ved. Launch was very realis tic , 
+Borman I don't think that we flew a simul a t or with our roll 
+p~ogram in it and it really didn ' t make any 
+d ifference. I guess what we are sayi ng about the

@@ -1,0 +1,41 @@
+UNCLASSIFIED/ /P'OR: OP'P'l@IAL WS& 0Nk¥ 
+Microcantilever based sensors fall into 
+two categories: static sensors and 
+vibrational sensors. Static sensing 
+microcantilevers are usually covered 
+with a gold film, which is then coated 
+with a substance having a specific 
+affin ity. Upon binding the specific 
+selective chemical layer 
+~ 
+L 
+analyte (such as a prote in), stress is ------------------------------·-1 s generated result ing in bending of the 
+microcantilever . 
+The deflection is often measured using a 
+narrow light beam from a small laser. ♦ reacting chemical compound 
+Light reflected off the bottom of the 
+cantilever falls onto a surface, where a 
+position sensitive detector (PSD) can 
+Figure 34. Principle of a Microcantilever That Bendsdetermine how much the beam bends. When It is Loaded With an Adherent Mass Typically the bend is exceedingly slight, 
+but the sensitivity of the optical readout system is high enough that small amounts 
+(nanograms to picograms) of adsorbed material can be detected. These devices are 
+mostly used for measuring th ings in the air and not well suited for immersion in flu ids. 
+In vibrational sensing, an external motor is used to vibrate the microcantilever through 
+a certain range of speeds, and a sensing mechanism then reads out the amplitude of 
+the vibration. By seeing at what speed the cantilever vibrates best, the resonant 
+frequency is obta ined. As bioparticles bind to the microcantilever, the resonant 
+frequency will be slower due to the increased mass. 
+The mass of attached analyte can be determined from the frequency of the 
+microcanti lever. The microcantilever has its own natural frequency w. When a 
+biomolecule binds to the microcantilever, it changes the mass of the microcanti lever. 
+This in turn affects the resonant frequency. We can use that change to determ ine the 
+mass that has been attached to t he microcantilever. 
+In some sense it is like a tuning fork that changes its pitch when touched. The surface 
+has an affin ity for adhesion of a certain material and nothing else. When these 
+materials are present, they adhere and increase the mass and so the pitch moves 
+lower. 
+The sensit ivity of these systems to the loaded mass increases as the mass of the 
+cantilever beam decreases and with it the resonant frequency increases. Decreasing the 
+overall dimensions of the beam results in an corresponding increase in their sensitivity. 
+UNCLASSIFIED/ {FOR OFFICIO! !PEii QDlk¥ 
+37

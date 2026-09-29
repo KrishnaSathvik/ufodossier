@@ -1,0 +1,53 @@
+UNCLASSIFIED / /$OR-OFFtGEAEUSE-ONET
+
+REUSABLE CREW MODULES
+
+The concept of manned orbital crew modules has evolved from the Mercury capsules to
+the Gemini and Apollo programs to the space shuttle, the first fully reusable crew
+module. The shuttle also has a combined payload bay used for transporting satellites
+into orbit and hardware for developing the International Space Station and for repairing
+and refurbishing the Hubble telescope, among other uses. The reusable nature of the
+shuttle crew module introduced a number of design and materials selection challenges.
+Perhaps foremost among these is the requirement for a thermal protection system
+(TPS) that would protect the crew during reentry and also minimize the intermission
+refurbishment requirements of the spacecraft itself. During the early days of the shuttle
+development program, there was much initial interest in a metallic TPS because it
+appeared to better meet the program’s needs. Ultimately, however, ceramic tiles were
+used on the underbody and carbon-carbon composites (C-CCs) were used on the
+leading edges of the wings. The shuttle design itself can therefore be characterized as a
+“cold structure” with an insulating TPS. For example, much of the shuttle load-bearing
+structure is made of the Al alloy 2219, in part because it is fusion weldable and in part
+because it retains its strength at moderately elevated temperatures better than other
+high-strength Al alloys can. The refurbishment needs of the ceramic shuttle tiles after
+each flight reputedly are considerable and increase with vehicle age. The C-CC wing
+leading edges are basically not repairable but require scrutiny. Hindsight shows that C-
+CCs “age” and lose much of their fracture toughness during repeated thermal exposure.
+(This loss of toughness was a prime factor in the Columbia disaster. Had a metallic heat
+shield that included the wing leading edges been used, this disaster arguably could
+have been avoided.) If the discussion of a metallic TPS were held today, the outcome
+might not be much different. Certainly any serious consideration of a reusable single-
+stage-to-orbit vehicle today would need to reopen the discussion of a metallic TPS. The
+challenges and opportunities associated with a metallic TPS are discussed later.
+
+The design efficiency of an integrated TPS and load-bearing structure is extremely
+attractive. Such a design requires availability of high-temperature alloys that also have
+good strength at the moderate temperatures to withstand the aerodynamic and
+vibrational loads encountered during launch and orbital insertion. Any attractive alloy
+also must have reasonable intrinsic resistance to oxidation at the reentry temperatures
+and should be capable of being fabricated into sheet gauges at reasonable cost.
+Meeting these various requirements in combination becomes quite daunting. Earlier
+programs such as the DynaSoar reusable reentry glider devoted considerable time and
+resources to examining the use of refractory alloys such as Mo-0.5%Ti (Moly half Ti)
+and several Columbia-based alloys for the TPS and some hot structure. All the
+refractory metal alloys are solid solution strengthened and, consequently, have
+relatively low ambient temperature strengths. They also are quite dense, making the
+density-corrected strength even less attractive. Refractory metals and their alloys react
+extensively when exposed to air at elevated temperatures. Therefore, even if the
+mechanical property limitations could be overcome, any hot structure would require an
+oxidation-resistant protective coating. In the case of the DynaSoar program, scientists
+extensively investigated a surface conversion coating of MoSiz formed by reacting the
+Moly half-Ti alloy with Si powder in a high-temperature fluidized bed. With the benefit
+of hindsight, it is now unclear how a large structure could have been successfully
+coated in this manner. This is particularly true when the brittle nature of MoSiz is
+
+UNCLASSIFIED / -2OR-O5516141-U55.0.11L%.

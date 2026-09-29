@@ -1,0 +1,25 @@
+UNCLASSIFIED// re1t Offl@IAL lel§li 8PUs:lf 
+PTRE Applications 
+Three uses for PTREs have been investi gated: unmanned aerial vehicles (UAVs), 
+ramjet-assisted missiles (RAMs), and single-stage reusable vehicles (SSRVs). 
+UNMANNED AERIAL VEHICLE {UAV) 
+Figure 6 shows range versus positron mass for a 60-kg UAV with lift/drag of four that 
+can circumnavigate Earth on 150 µg of positrons. 14 It is modeled after the LOCASS 
+turbojet (Figure 7) at the Air Force Research Laboratory (AFRL), Eglin Air Force Base, 
+Florida .15 
+350 
+300 
+- 250 
+~ 
+z 200.::it:.
+-a, 
+O'I 150s:: 
+C,:J 
+Ct: 100 
+50 
+0 
+0.00 0.50 1.00 1.50 2.00 
+Positron Mass (mg) 
+Figure 6. UAV Range Versus Positron Mass (courtesy Positronics Research LLC) 16 
+UNCLASSIFIED/ ,'FOR. OFFl&IAls: lel&li 8Ptls:lf 
+5

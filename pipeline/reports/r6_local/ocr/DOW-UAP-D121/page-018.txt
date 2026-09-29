@@ -1,0 +1,44 @@
+UNCLASSIFIED// FOR OPPl@IAL Ylili 011! X 
+appears to be hydrogen ions, which, because of their low mass, contribute to the 
+problem of gap closure. The gap closure velocity using carbon cathodes quoted by most 
+reports researched is 2-2.5 cm/µsec, and diode gaps from the same reports were 1-4 
+centimeters. Carbon cathodes also have much longer lifetime than velvet. However, one 
+of the greatest advantages of carbon is the ever-expanding ability to form both macro­
+and nanostructures using it as a base or substrate. Structures formed using carbon 
+include pyramids, fibers, microfibers, nanotubes, and tufts. Many possible carbon 
+structures still have yet to be formed and tested. Thus far, structures with the most 
+surface area appear to perform best. 
+CERAMICS 
+Ceramics, much like carbon, can be formed into at least microstructures and have some 
+features that have attracted interest in them for a couple of decades. These include 
+virtually unlimited lifetimes and extremely low outgassing. A problem with ceramics, 
+however, is that very high threshold fields are required for diode operation. Coatings to 
+improve the performance of ceramic cathode structures may exist, and research is 
+cont inuing in this area. 
+CESIUM IODIDE COATED 
+One of the most recent and impressive materials to be used in cathodes for HPM tubes 
+is cesium iodide . Cesium is a pure metal that has a work function of only 1.9 ev and a 
+melting temperature of 28 °Celsius; thus, it is liquid at only slightly above room 
+temperature. Cesium ions are quite heavy, and that is why this coating was used 
+initially. It was believed that the gap closure rate would be slowed since the heavy 
+cesium ions would progress much more slowly across the anode-cathode gap than 
+would other ion species, given the same electric field. This has proved to be the case, 
+and closure velocities that are about one-fourth those for velvet or bare carbon (0.4 
+cmh1sec) have been attained. As a result, the HPM emission times have been extended. 
+Typically, the cesium salt is dissolved in water as a saturated solution and then the 
+carbon cathodes are dipped several times. Subsequently, the cathodes must be baked 
+under vacuum for several hours to remove the water from the surface and leave the 
+hardened cesium salt. Once completed, the cathodes have a very long lifetime unless 
+contaminated by back splatter of material from the anode. At present, HPM programs 
+investigating the performance of cathodes having some form of cesium coating over 
+carbon nanostructures show the most potential for progress in the state of the art. The 
+goal of these programs is hundreds of kiloamps for tens of microseconds, resulting in 
+gigawatt narrow-band HPM sources running at repetition rates of possibly 100 hertz and 
+thus capable of 100-megajoule energy output per burst. Also of great interest at 
+present are cathodes termed "hybrids," which utilize multiple emission mechanisms in 
+beam generation. The cathodes developed by these programs are to be used with the 
+magnetically insulated line oscillator (Sandia National Laboratories [SNL]), the 
+relat ivistic klystron oscillator (Kyle Hendricks, Air Force Research Laboratory [AFRL]), 
+the reltron (Bruce Miller, SNL), and t he super reltron, among others. 
+UNCLASSIFIED/ ,,roA &FFI@IAL U91!! f)flt I 
+10

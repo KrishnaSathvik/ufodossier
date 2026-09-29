@@ -1,0 +1,72 @@
+{
+  "generated_at": "2026-09-28T19:02:23.602218+00:00",
+  "verdict": "R4_LOCAL_COMPLETE",
+  "production_writes": 0,
+  "deploy": 0,
+  "gpt6": "off",
+  "quote_rules_changed": false,
+  "evidence_gate_changed": false,
+  "corpus": {
+    "records": 17,
+    "pdfs": 14,
+    "media": 3,
+    "pages": 558,
+    "pages_ocrd": 441,
+    "ocr_failed": 132,
+    "extract": 8,
+    "source_only": 6
+  },
+  "extraction": {
+    "candidates": 28,
+    "quote_valid": 25,
+    "quote_rejected": 3,
+    "evidence_insufficient": 9,
+    "accepted": 16,
+    "truncations": 1,
+    "extraction_failed": 0,
+    "json_stats": {
+      "json_first_pass": 10,
+      "json_retry_success": 0,
+      "json_retry_failed": 1,
+      "json_truncated": 1,
+      "json_invalid": 1,
+      "api_error": 0,
+      "valid": 10,
+      "extraction_failed": 0,
+      "sections_subdivided": 1,
+      "haiku_calls": 13
+    },
+    "cost_usd": 0.26,
+    "runtime_seconds": 204.8,
+    "haiku_calls": 13
+  },
+  "identity": {
+    "canonical_events": 171,
+    "event_series": 1,
+    "decisions": 54,
+    "rejected_pairs": 20,
+    "candidates": 65,
+    "colorado_springs_pass": true,
+    "western_us_pass": true,
+    "linker_regression_pass": true,
+    "linker_failures": [],
+    "decision_breakdown": {
+      "same_event": 3,
+      "same_series": 49,
+      "media_for_event": 1,
+      "analysis_of_event": 1
+    }
+  },
+  "gate": {
+    "fabricated_accepted_observed": 0,
+    "catalog_admin_inflation": 0,
+    "thin_caption_incidents": 0,
+    "truncation_loss": 0,
+    "unexplained_extract_zero": [],
+    "generic_location_auto_merges": 0,
+    "cross_date_auto_merges": 0,
+    "source_only_event_inflation": 0
+  },
+  "needs_review_count": 9,
+  "stage_a_runtime_seconds": 5277.9
+}

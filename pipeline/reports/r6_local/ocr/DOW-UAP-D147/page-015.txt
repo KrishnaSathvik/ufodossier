@@ -1,0 +1,46 @@
+UNCLASSIFIED1fFOR 8ffl@IAL tt.!! e"t I 
+Activated carbons are synthesized by a heat treatme nt of carbon-r ich organ ic 
+precursors in a controlled atmosphere. This carbonization process can be performed 
+from natura l sources, such as fru it shells, wood, pitch, or coke. Activated carbons can 
+also be produced from synthetic precursors, such as select polymers. The heat 
+treatment process uses a controlled partial oxidation of the precursor combined with a 
+high-temperature processing. The high-temperature processing can be done in an inert 
+atmosp here, an oxidizing environment, or with a chemical modificat ion. The activated 
+carbons contain a distributed porous network throughout, as shown in Figure 5 .17 These 
+materials can have an extremely high surface area, upward of 3,000 m2/g, but process 
+conditions to create activated carbons have litt le control over pore size distribution, 
+result ing in incomplete utilizat ion of the surface area. Carbon cloth electrodes use 
+processing conditions similar to those used to create activated carbons . The advantage 
+with a fabric composed of activated carbon is these materials are directly used as active 
+electrodes, requiring no binder or additional processing. However, these tend to be 
+expensive to produce, which has thus far limited their use to specialized applications. 
+rnacroporcs >50 run 
+~ -1-- mi r pre <2nm 
+mesopore 2-50nm 
+Figure 5. Activated Carbon Porosity. These can be produced with a distribut ion of pore sizes ranging from less 
+than 2 nm to greater than SO nm. 
+Continued improvements to the carbon electrodes are expected to provide additional 
+performance enhancement to ultracaps. Current research is leading toward carbon 
+materials with higher specific capacitance (F/g). Improved materials, such as carbon 
+nanotubes and tailored porous carbons show promise as the next generation of carbon 
+materials. Graphene is another advanced carbon material that shows promise to 
+providing increased capacitance. One of the key design issues revolves around 
+improved understanding of the relationship between the carbon pore size and the 
+electrolyte ion. The nanostructured materials allow fine tuning of the porous structure 
+to increase capacitance. 
+Carbon nanotubes (CNTs) are commonly produced as powders where they can be cast 
+as a distributed network to form an electrode, and they can be used as an additive to 
+increase conductivity. Additionally, CNTs can be grown as a "forest," where the CNTs 
+are grow n perpendicu lar to a substrate. These forests can be used as is or can be 
+modified or coated to change specific structural or electronic properties. CNTs are 
+grown by a number of methods, but most methods used currently are a derivative of a 
+chemical vapor deposition (CVD) process. The specific propert ies of the nanotubes are 
+extremely tailorable. CNT length, diameter, the number of tubes, and the electronic 
+properties can all be tailored by growth conditions. The catalysts used to grow CNTs can 
+affect tube properties, as well as CNT tempe rature and precursor variables. Carbon 
+nanotubes are finding util ity in both battery and ultracapacitor applications, where they 
+are used for conductivity enhancement and energy storage. Their capacitive behavior 
+suggests they may have a fundamentally different storage mechanism than traditional 
+carbon. Storage potential includes CNT outer walls, inner diameter, and interwall spaces 
+UNCLASSIFIEO/fFOA OFFI&I:.l.b YS& ONLY 
+10

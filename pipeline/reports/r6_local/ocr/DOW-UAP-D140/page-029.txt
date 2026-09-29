@@ -1,0 +1,34 @@
+UNCLASSIFIED/ /iiOR OiiiilCI O L lallili QPIL¥ 
+Figure 17. In general, an EM signal Si will be used to actuate some type of GW 
+generation device, and this device will have a conversion efficiency of µeg, which 
+represents the ratio of power of the EM input signal to power of the GW signal 
+generated. Not all of the GW generated will be constructively used to radiate in the 
+desired direction; some of the GW power will be lost to destructive interference, and 
+some will not be radiated through the antenna aperture. Thus the transmitter will have 
+a less than unity radiated power efficiency, Rx. 
+----
+An end-to-end power link budget from the transmitter to the receiver 
+must be also calculated to support a communications link design. 
+Transmitter Terms Receiver TermsLinkA 
+r --.. Loss r ~ 
+GW GW µgeT E~ So IRrisi M~eg 1G~1 j I 
+GW 
+I I I I IReceiverInput EM/GW Radiated Propagation GW/EM OutputAntennaXmit Ant. LossesSignal Conversion Conversion Signal: PowerPower (TransmissionPower Efficiency Efficiency PowerEfficiency Factor) Efficiency 
+Figu re 17. A Block Diagram of a Typical Link Budget 
+Then there will be propagatio n link loss, or transmiss ion loss, T, which will be t he 
+ante nna patte rn integ rated across the solid angle of t he receiver anten na aperture as 
+seen from the source. The receiver may have an GW anten na that aids in focusing an 
+otherwise wider solid angle into a narrower detection aperture, and if t his is true, then 
+there will be an efficiency associated with this receiver antenna, designated here as Rr. 
+At the receiver's detector, there is another conversion factor to account for, the 
+conversion efficiency of GW signal power to EM signal power µ9e, which would be much 
+less than unity, except that the Q factor enters the equation as a component of µ9e. Of 
+course Q may also impact the bandwidth range over which the signal is collected, Ll to 
+L2. There is also a hidden integral here which occurs over the sample time, which is 
+understood. 
+Al l of these terms will have to be defined and well understood before a communication 
+system can be successfully designed. Many of these parameters have been predicted 
+for the components reviewed in prior sections, however, they will not be verified until a 
+successful experiment can be performed. 
+UNCLASSIFIED/ / FOR OiiiilCl .t.k H SI!! efl ti 
+24

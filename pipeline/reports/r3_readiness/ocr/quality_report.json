@@ -1,0 +1,21 @@
+{
+  "generated_at": "2026-09-25T20:52:48.627818+00:00",
+  "production_writes": false,
+  "documents": [
+    {
+      "filename": "CIA-UAP-009.pdf",
+      "page_count": 1,
+      "usable_text_chars": 126,
+      "stats": {
+        "native_good": 0,
+        "native_thin": 0,
+        "needs_ocr": 1,
+        "ocr_failed": 1,
+        "ocr_succeeded": 0,
+        "pages_ocrd": 0,
+        "ocr_unrecoverable_thumbnail": 1
+      },
+      "combined_path": "pipeline/reports/r3_readiness/ocr/CIA-UAP-009/combined.txt"
+    }
+  ]
+}

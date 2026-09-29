@@ -1,0 +1,50 @@
+UNCLASSIFIED/ fFOA OFFl&I.t..k YS& 8Ptk\f 
+explicit switching factor whereby five different switching functions (based on data 
+windowing theory) are defined and evaluated. In order to isolate the effects of negative 
+energy a comparison is made for the response of a detector switched on and off during 
+a period of negative energy density (or negative energy flux) and that switched on and 
+off in the vacuum. The results shed light on the response of matter (detectors) to 
+pulses of negative energy of finite duration, and they showed that negative energy 
+should have the effect of enhancing deexcitation (i.e., induce cooling) of the detector. 
+This is the opposite of our experience with detectors that undergo excitation when 
+encountering "normal" matter or energy, and isolated detectors placed in a vacuum 
+naturally cool due to the usual thermodynamic reasons. But Davies and Ottewill point 
+out that the enhanced cooling effect they discovered cannot be used to draw a 
+thermodynamic conclusion because their modeling was restricted to first order in 
+perturbation theory. It is not possible at first order to determine whether t he enhanced 
+cooling effects are due to the small violation of energy conservation expected in any 
+process in which a general quantum state collapses to an energy eigenstate, or whether 
+they predict a systematic reduction in the energy of the detector which has serious 
+thermodynamic implications. However, Davies and Ottewill point out that their results 
+are model dependent and they found for their standard monopole detector model that 
+there is not always a simple relationship between the strength of the negative energy 
+density/flux and the behavior of the detector. Further research will be necessary to 
+resolve these issues. 
+V. Conclusion: The Way Forward 
+More than 40 years elapsed between the late 1890s when the Curies first identified 
+radioactive substances in their laboratory and when a neutron-catalyzed fission chain 
+reaction - the world's first nuclear reactor - was demonstrated at the University of 
+Chicago in 1939 by Enrico Fermi and Leo Szilard. Six more years would pass before the 
+world's first nuclear bomb was successfully tested in New Mexico. The progress of 
+science and technology is rapid, but highly dependent on adequate and sustained focus, 
+effort, and support. On this basis, it is possible that a traversable wormhole can be 
+demonstrated in the laboratory as long as there is a focused, sustained level of long­
+term research support. 
+A game changer may appear that could dramatically accelerate or alter the direct ion of 
+an experimental traversable wormhole program. Such a game changer could entail new 
+physics that is predicted by a complete, comprehensive quantum gravity theory, or a 
+quantum gravity theory that is a subset of a larger unified field theory (i.e., a final ized 
+quantum superstring theory, or some other theory that replaces it), or a completely 
+new theory for the quantum vacuum and its related spacetime physics (e.g., 
+"emergent" spacetime/gravity theories (Reference 73, 74)). The new field of 
+"emergent" spacetime/gravity suggests that gravitation is not a fundamental force of 
+nature because, among many other considerations, of its extreme weakness relative to 
+the other forces of nature. Instead, spacetime and gravitation are seen as emergent 
+low-energy phenomenon, which arises from the collective action of much higher-energy 
+phenomenon occurring in the quantum vacuum where Lorentz invariance and energy 
+conservation may be violated in the trans-Planckian regime. One now knows empirically 
+that the "emergent" low-energy vacuum within which one exists is in fact a rich 
+quantum ether comprised of zero-point fluctuation fields that make it behave like a 
+nonlinear optical medium endowed with paramagnetic, dichroic, birefringent, condensed 
+UNCLASSIFIEQ { {FOR OFFICIAL WS& 8HLY 
+26

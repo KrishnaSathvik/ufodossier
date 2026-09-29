@@ -1,0 +1,70 @@
+{
+  "filename": "FBI-UAP-D039.pdf",
+  "generated_at": "2026-09-28T19:29:51.110658+00:00",
+  "page_count": 3,
+  "usable_text_chars": 201,
+  "stats": {
+    "native_good": 0,
+    "native_thin": 0,
+    "needs_ocr": 3,
+    "ocr_failed": 0,
+    "ocr_succeeded": 3,
+    "pages_ocrd": 3,
+    "ocr_unrecoverable_thumbnail": 0
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "native_quality": {
+        "page_number": 1,
+        "native_char_count": 0,
+        "printable_ratio": 0.0,
+        "alpha_ratio": 0.0,
+        "word_count": 0,
+        "replacement_char_count": 0,
+        "category": "native_thin",
+        "reason": "ocr_replaced_native (empty native text)"
+      },
+      "final_category": "native_thin",
+      "text_method": "tesseract",
+      "char_count": 50,
+      "text": ""
+    },
+    {
+      "page_number": 2,
+      "native_quality": {
+        "page_number": 2,
+        "native_char_count": 0,
+        "printable_ratio": 0.0,
+        "alpha_ratio": 0.0,
+        "word_count": 0,
+        "replacement_char_count": 0,
+        "category": "native_thin",
+        "reason": "ocr_replaced_native (empty native text)"
+      },
+      "final_category": "native_thin",
+      "text_method": "tesseract",
+      "char_count": 51,
+      "text": ""
+    },
+    {
+      "page_number": 3,
+      "native_quality": {
+        "page_number": 3,
+        "native_char_count": 0,
+        "printable_ratio": 0.0,
+        "alpha_ratio": 0.0,
+        "word_count": 0,
+        "replacement_char_count": 0,
+        "category": "native_thin",
+        "reason": "ocr_replaced_native (empty native text)"
+      },
+      "final_category": "native_thin",
+      "text_method": "tesseract",
+      "char_count": 51,
+      "text": ""
+    }
+  ],
+  "combined_path": "/Users/krishnasathvikmantripragada/Webapps/ufo-dossier/pipeline/reports/r5_local/ocr/FBI-UAP-D039/combined.txt",
+  "production_writes": false
+}

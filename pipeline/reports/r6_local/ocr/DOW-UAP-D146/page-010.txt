@@ -1,0 +1,39 @@
+UNCLASSIFIED/ /FOA QFFI@IAL Y!H! f>HL I 
+In order to facilitate efficient fusion, it is also necessary to constrain the mot ions of the 
+charged particles (i.e., confine the plasma) in an attempt to max imize the likelihood of 
+ion collisions. Therefore, the net energy produced by the fusion process is more 
+realistically the released energy minus the energy consumed for plasma heating and 
+confinement. The fusion energy gain factor, usually expressed with the symbol Q, is the 
+ratio of fusion power produced in a nuclear fusion reactor to the power required to 
+maintain the plasma temperature; for the Lawson Criterion, breakeven Q = 1. However, 
+to provide sufficient energy to convert that power to a useful level, a minimum Q >5 is 
+needed, and for a power plant to generate electr icity the Q should be >30. 
+For the fusion react ions shown in Table 3, the (D, 3He) will produce a few fusion 
+neutrons which can be minimized by running hot and deuterium-lean; however, the 
+application may be limited by the availabi lity of 3He. Other reactions to consider will be 
+the (p, 6Li) and (p, 11B). First, a review the most commonly used plasma confinement 
+methods is needed. 
+Table 3: Fusion Ignition Temperatures 
+] 
+MAGNETIC CONFINEMENT 
+Magnetic confinement is an often -used method for constraining the motion of the 
+plasma "fuel," increasing the efficiency of nuclear collisions and the fusion process. The 
+plasma is composed of charged particles and is, therefore, affected by electric and 
+magnetic fields. Charged particles spira l along magnetic field lines with electrons 
+spiraling faster and in smaller radii and in opposite directions than their heavier ion 
+counterparts . As the magnetic field increases at the ends of a magnet ic mirror, the 
+charged particles will reverse direction along the field lines and thus become trapped. A 
+chamber can be designed such that an appropr iate magnetic field configuration can be 
+produced that guides and constrains the motion of the plasma (see Figure 2). The 
+pressures (thermal, kinetic, magnetic) of the plasma "gas" are balanced by the high 
+pressure of the imposed magnetic field-the plasma is "contained" by the magnetic field. 
+One obvious advantage of this approach is that the imposed magnetic field prevents (or 
+at least delays) much of the plasma (at energies of tens of keV or temperatures of 
+several hundred millions of degrees Kelvin) from coming into contact with the structural 
+elements of the chamber. The pressures are typically on the order of one bar, and 
+depending on the design, confinement times can span a few seconds to minutes. 
+Although magnetic confinement designs are in principle steady-state systems, their 
+primary difficulty is maintaining the strong damping of the various modes of plasma 
+instabilities that arise in these systems. 
+UNCLASSIFIED/ /FOR OFFJCJ0L n&li ONLY 
+5

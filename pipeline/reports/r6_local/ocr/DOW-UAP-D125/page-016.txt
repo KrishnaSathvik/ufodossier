@@ -1,0 +1,42 @@
+UNCLASSIFIED! /POI\ OPPlelAL ~SE &PU:¥ 
+',I I 
+I
+, 
+I • 
+I 
+\ 
+I 
+I I 
+I I 
+I, ... ___ ,.,. ; 
+Figure 1.4. Photo of Star Mode Seen Through a Reaction Vessel 
+Port Window 
+Figure 1.3. Discharge Modes in 
+Gridded Devices Identified by 
+Miley 
+In summary, the basic IEC approach is to create a potential well through electrostatic 
+confinement of one of the plasma species in a dynamic (inertial) configuration. 
+"Inertial" effects associated with dynamic motion of the confined species are essential 
+to avoid plasma losses predicted for systems by Earnshaw (as noted earlier). The two 
+primary approaches can be termed, "ion injected" or "electron injected", the "injected" 
+species being the one form ing the potential well. In order to mainta in the well, the 
+second species brought in with the injected one must not completely neutralize the 
+plasma, i.e., the IEC plasma is inherent ly "quasi-neutral". This well then provides 
+trapp ing and convergence of the ion "streaming" towards the center of the trap region, 
+forming a dense fusing plasma there. For a power reactor the objective is to obtain ion 
+beam-beam collisions in this central core. For neutron/proton production satisfactory 
+reaction rates can come from beam background collisions. However, this sca ling with 
+injected current would require excessive input power for a practical power -producing 
+unit. Thus beam-beam scaling of the reaction rate as the current squared (or higher 
+powers as noted earlier may be possible due to nonlinear effects) is essential. The 
+vision of a power reactor seeks a "zero" background pressure, thus generally involves 
+an external ion source with acceleration into the trap at ultra low pressure to obtain 
+beam-beam collisions. As described earlier, this changes the details of the physics just 
+discussed for an ideal "zero" background pressure device. The issue of whether the trap 
+should be formed by ion injection or by "digging a well" with electrons remains open, 
+but involves stability and reaction volume (focusing) optimization issues. Since the 
+discussion to here has been largely on gridded devices, we next briefly review some 
+other approaches: the Bussard HEPS concept, the Barnes Nebel Penning trap, the Nebel 
+POPS device, and the Miley ion injected device. 
+UNCLASSIFIED/ /F8R 8ffl@IAL l:t!!! or•t I 
+9

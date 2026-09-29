@@ -1,0 +1,35 @@
+UNCLASSIFIED/ /P'eR. 9P'P'!e!ftl t,91!! e.cc ( 
+Denver Five-Year Cumulative Savings 
+(holding energy prices constant} 
+- RavenWindow+ Low-E 
+$3,000.00 
+- Pilkington K-Glass 
+$2,500.00 
+--O!dcastle Sunglass $2,000.00 
+$1,500.00 --Viracon VRE238 
+$1,000.00 
+- AFG Comfort TiR 
+$500.00 
+, ---- 99% Transmissive Low­$-
+E0 12 24 36 48 60 
+Months Installed ------- 99% Reflective Low-E 
+Figure 6. Rave nWindow Smart Window Film Performance vs. Leading I ncumbent Window Filters. 
+Assuming a retail cost of $25 per square foot, for large buildings across multiple climate 
+zones, the payback period is 5-10 years. Even faster return on investment is possible if 
+the retail cost can be reduced, which seems likely given the relative simplicity of the 
+technology. The payback period does not include capital cost reduction on HVAC 
+systems, reduction in the cost of window coverings, and the tax and building permit 
+savings associated with Leadership in Energy Efficient Design (LEED) certification. 
+Thermal Management of Spacecraft 
+The three laws of thermodynamics, in their simplest form, are (1) you cannot win, (2) 
+you cannot break even, and (3) you cannot quit the game. Energy is never free, and 
+nanostructured dynamic materials are of course subject to the same laws as natural 
+materials. However, while energy can neither be created nor be destroyed, it can be 
+moved around, changed in form, and also stored. Thus, for thermal management of 
+spacecraft, dynamic materials have much more to offer than simply regulating solar 
+heat gain. 
+One example is active heat transport. A Peltier junction is a solid-state heat pump 
+made from two dissimilar semiconductors. When a current is passed through the 
+junction, one face grows hot while the other grows cold. 
+UNCLASSIF I ED/ /P'91l err1e1s11t l!l&E 8Hk¥ 
+9

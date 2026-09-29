@@ -1,0 +1,221 @@
+{
+  "corpus": {
+    "official_records": 450,
+    "fragments": 583,
+    "canonical_events": 575,
+    "western_us_events": 21,
+    "audio": 16,
+    "local_accepted_r2_r6": 203,
+    "corpus_qa_verdict": "CORPUS_QA_COMPLETE",
+    "overmerge_unresolved": 0,
+    "underlink_high_confidence_unresolved": 0,
+    "extraction_failed": 0,
+    "colorado_springs_pass": true,
+    "western_us_pass": true,
+    "reviewed_mismatches": {}
+  },
+  "tests": [
+    {
+      "module": "pipeline.tests.test_validation",
+      "returncode": 0,
+      "tail": "ator says: NOT FOUND IN SOURCE \u2014 likely hallucinated\n    Excerpt: \"Three small humanoid bodies were recovered from the Roswell crash site and transported to Wright-Patterson AFB for autop...\"\n\n[5] \u2717 DROP \u2014 Paraphrased borderline case\n    Validator says: NOT FOUND IN SOURCE \u2014 likely hallucinated\n    Excerpt: \"The sensor centered on a contrasting region shaped like a football with three radiating extensions: one going vertically...\"\n\n======================================================================\nRESULT\n======================================================================\nPassed validation (kept): 3\nFailed validation (dropped): 2\n\nExpected vs actual:\n----------------------------------------------------------------------\n\u2713 Football-shaped object near Japan, INDOPACOM 2024       expected=KEEP actual=KEEP (real verbatim quote)\n\u2713 Misshapen ball of white light, CENTCOM 2024             expected=KEEP actual=KEEP (real verbatim quote with embedded quotes)\n\u2713 Diamond-shaped UAP at 434 knots, CENTCOM SWIR           expected=KEEP actual=KEEP (real verbatim quote)\n\u2713 Roswell crash recovery, FBI 1947 (FABRICATED FOR TEST)  expected=DROP actual=DROP (fabricated, MUST be caught)\n\u2713 Paraphrased borderline case                             expected=DROP actual=DROP (paraphrased not verbatim, should be caught)\n\n\u2713 VALIDATION LOGIC WORKS AS INTENDED\n  - Real verbatim quotes are preserved\n  - Fabricated quotes are caught and dropped\n  - Paraphrased (non-verbatim) quotes are caught and dropped\n"
+    },
+    {
+      "module": "pipeline.tests.test_quote_normalization",
+      "returncode": 0,
+      "tail": ".dropping incident in x.pdf: raw_excerpt not found in source. excerpt='Three small humanoid bodies were recovered from the Roswell crash site.'\n.......dropping incident in x.pdf: raw_excerpt not found in source. excerpt='They exited their office building. The object vanished.'\n.\n----------------------------------------------------------------------\nRan 9 tests in 0.006s\n\nOK\n"
+    },
+    {
+      "module": "pipeline.tests.test_evidence_sufficiency",
+      "returncode": 0,
+      "tail": "..\n----------------------------------------------------------------------\nRan 2 tests in 0.000s\n\nOK\n"
+    },
+    {
+      "module": "pipeline.tests.test_extraction_truncation",
+      "returncode": 0,
+      "tail": ".haiku returned invalid JSON for TEST.pdf: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)\nretrying JSON once for TEST.pdf (malformed, not truncated)\n..extraction_failed for TEST.pdf at depth=0 pages=1 (truncated, cannot split further)\n...\n----------------------------------------------------------------------\nRan 6 tests in 0.005s\n\nOK\n"
+    },
+    {
+      "module": "pipeline.tests.test_classify_document",
+      "returncode": 0,
+      "tail": "............\n----------------------------------------------------------------------\nRan 12 tests in 0.001s\n\nOK\n"
+    },
+    {
+      "module": "pipeline.tests.test_r2_smoke_classifier_fixtures",
+      "returncode": 0,
+      "tail": ".\n----------------------------------------------------------------------\nRan 1 test in 0.010s\n\nOK\n"
+    },
+    {
+      "module": "pipeline.tests.test_r3_classifier_fixtures",
+      "returncode": 0,
+      "tail": ".\n----------------------------------------------------------------------\nRan 1 test in 0.009s\n\nOK\n"
+    },
+    {
+      "module": "pipeline.tests.test_r6_classifier_fixtures",
+      "returncode": 0,
+      "tail": ".\n----------------------------------------------------------------------\nRan 1 test in 0.012s\n\nOK\n"
+    },
+    {
+      "module": "pipeline.tests.linker.test_linker_v1",
+      "returncode": 0,
+      "tail": "...........\n----------------------------------------------------------------------\nRan 11 tests in 0.030s\n\nOK\n"
+    },
+    {
+      "module": "pipeline.tests.test_rag_citations",
+      "returncode": 0,
+      "tail": "......\n----------------------------------------------------------------------\nRan 6 tests in 0.001s\n\nOK\n"
+    },
+    {
+      "module": "pipeline.tests.test_rag_scoring",
+      "returncode": 0,
+      "tail": ""
+    }
+  ],
+  "rag": {
+    "present": true,
+    "prompt_version": "rag-v2.0",
+    "scoring_version": "grounding_v2",
+    "retrieval_note": "Frozen lexical evidence plus linker context. Production match_incidents was not changed.",
+    "sonnet_5_5_model_id": "claude-sonnet-5-5",
+    "gpt_6_sol_model_id": "gpt-6-sol",
+    "blocked_arms": [],
+    "arms": [
+      {
+        "arm": "sonnet-4.5",
+        "provider": "anthropic",
+        "model": "claude-sonnet-4-5-20250929",
+        "reasoning_effort": null,
+        "hard_gate_pass": true,
+        "fake_citations": 0,
+        "citations_outside_retrieval": 0,
+        "unsupported_claims": 0,
+        "hard_abstention_failures": 0,
+        "abstention_checked": 10,
+        "grounded_correct": 60,
+        "grounded_checked": 60,
+        "semantic_grounded_correct": 60,
+        "semantic_grounded_checked": 60,
+        "epistemic_correct": 60,
+        "epistemic_checked": 60,
+        "completeness_correct": 60,
+        "completeness_checked": 60,
+        "acceptable_paraphrases": 0,
+        "overstated": 0,
+        "citation_precision_mean": 0.9833333333333333,
+        "citation_recall_mean": 0.9833333333333333,
+        "canonical_correct": 4,
+        "canonical_checked": 4,
+        "retrieval_failures": 0,
+        "api_errors": 0,
+        "estimated_cost_usd": 0.694986,
+        "latency_ms_mean": 5494,
+        "input_tokens": 171052,
+        "output_tokens": 12122
+      },
+      {
+        "arm": "sonnet-5.5",
+        "provider": "anthropic",
+        "model": "claude-sonnet-5-5",
+        "reasoning_effort": null,
+        "hard_gate_pass": true,
+        "fake_citations": 0,
+        "citations_outside_retrieval": 0,
+        "unsupported_claims": 0,
+        "hard_abstention_failures": 0,
+        "abstention_checked": 10,
+        "grounded_correct": 60,
+        "grounded_checked": 60,
+        "semantic_grounded_correct": 60,
+        "semantic_grounded_checked": 60,
+        "epistemic_correct": 60,
+        "epistemic_checked": 60,
+        "completeness_correct": 60,
+        "completeness_checked": 60,
+        "acceptable_paraphrases": 0,
+        "overstated": 0,
+        "citation_precision_mean": 0.9833333333333333,
+        "citation_recall_mean": 0.9833333333333333,
+        "canonical_correct": 4,
+        "canonical_checked": 4,
+        "retrieval_failures": 0,
+        "api_errors": 0,
+        "estimated_cost_usd": 0.833444,
+        "latency_ms_mean": 5090,
+        "input_tokens": 243532,
+        "output_tokens": 34638
+      },
+      {
+        "arm": "gpt-6-sol-low",
+        "provider": "openai",
+        "model": "gpt-6-sol",
+        "reasoning_effort": "low",
+        "hard_gate_pass": true,
+        "fake_citations": 0,
+        "citations_outside_retrieval": 0,
+        "unsupported_claims": 0,
+        "hard_abstention_failures": 0,
+        "abstention_checked": 10,
+        "grounded_correct": 60,
+        "grounded_checked": 60,
+        "semantic_grounded_correct": 60,
+        "semantic_grounded_checked": 60,
+        "epistemic_correct": 60,
+        "epistemic_checked": 60,
+        "completeness_correct": 60,
+        "completeness_checked": 60,
+        "acceptable_paraphrases": 2,
+        "overstated": 0,
+        "citation_precision_mean": 1.0,
+        "citation_recall_mean": 1.0,
+        "canonical_correct": 4,
+        "canonical_checked": 4,
+        "retrieval_failures": 0,
+        "api_errors": 0,
+        "estimated_cost_usd": 0.364806,
+        "latency_ms_mean": 3978,
+        "input_tokens": 149853,
+        "output_tokens": 6510
+      },
+      {
+        "arm": "gpt-6-sol-medium",
+        "provider": "openai",
+        "model": "gpt-6-sol",
+        "reasoning_effort": "medium",
+        "hard_gate_pass": true,
+        "fake_citations": 0,
+        "citations_outside_retrieval": 0,
+        "unsupported_claims": 0,
+        "hard_abstention_failures": 0,
+        "abstention_checked": 10,
+        "grounded_correct": 60,
+        "grounded_checked": 60,
+        "semantic_grounded_correct": 60,
+        "semantic_grounded_checked": 60,
+        "epistemic_correct": 60,
+        "epistemic_checked": 60,
+        "completeness_correct": 60,
+        "completeness_checked": 60,
+        "acceptable_paraphrases": 1,
+        "overstated": 0,
+        "citation_precision_mean": 1.0,
+        "citation_recall_mean": 1.0,
+        "canonical_correct": 4,
+        "canonical_checked": 4,
+        "retrieval_failures": 0,
+        "api_errors": 0,
+        "estimated_cost_usd": 0.386646,
+        "latency_ms_mean": 3508,
+        "input_tokens": 149853,
+        "output_tokens": 8694
+      }
+    ],
+    "decision": {
+      "primary": "gpt-6-sol-medium",
+      "fallback": "gpt-6-sol-low",
+      "reason": "unsupported claims, citation correctness, abstention, semantic grounding, epistemic fidelity, completeness, canonical events, latency, then cost"
+    },
+    "scoring_note": "Rescored saved answers with grounding_v2. Models were not called again. Attribution paraphrases such as said and says count as supported. Certainty inflation is scored separately from the old hedge-word list."
+  },
+  "production_writes": 0,
+  "deploy": 0
+}

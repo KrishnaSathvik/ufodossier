@@ -1,0 +1,42 @@
+UNCLASSIFIED/ /POK orr1e1At tt!I!! er~LY 
+Metallic Spintroni ·cs 
+1. Introduction 
+The rapid pace of progress in the computer industry over the past 40 
+years has been based on the miniaturization of chips and other 
+computer components. Further miniaturization, however, faces 
+serious challenges-for example, increasingly high power dissipation. 
+To continue on pace, the industry must g,o beyond incremental 
+improvements and embrace radically new technologies. A promising 
+nanoscale technology known as spintronics (a neologism for "spin­
+based electronics"} has emerged. Spintronics refers to the role an 
+electron spin plays in solid-state physics. Spintronics researchers 
+aim to develop a revolutionary new class of electronic devices based 
+on the spin of electrons in addition to the charge. In spintronic 
+devices, information is carried not by the electron's charge, as in 
+conventional microchips, but by the electron's intrinsic spin. 
+Changing the spin of an electron is faster and requires less power 
+than moving it. Therefore, if a reliable way could be found to control 
+and manipulate spins, spintronic devices could offer higher data 
+processing speeds, lower electricity consumption, and many other 
+advantages over conventional chips, perhaps including the ability to 
+carry out radically new quantum computations. 
+Spintronics in ferromagnetic systems is built on a complementary 
+set of phenomena in which the magnetic configuration of the system 
+influences its transport properties and vice versa. Giant 
+magnetoresistance (GMR} (Reference 1, 2} and spin-transfer-torque 
+(STT} (Reference 3-5} phenomena exemplify such interconnections 
+in multilayers composed of ferromagnetic (F} and nonmagnetic (N) 
+layers. The physics and applications of metallic spintronics are 
+discussed in this report from the perspec :tive of these two 
+phenomena. GMR, research on which was awarded the Nobel Prize in 
+Physics in 2007, refers to a large change in resistance of magnetic 
+multilayers when the relative orientation of magnetic moments in 
+their constituent ferromagnetic layers is altered by an applied 
+magnetic field. The inverse effect, STT, in which a large electrical 
+current density j can perturb the magnetic state of a multilayer, has 
+also been predicted (Reference 3, 4} and observed in experiments on 
+current-induced reversal and precession of magnetization 
+(Reference 5-9} and magnetic domain wall motion (Reference 10, 
+11}. 
+UNCLASSIFIED/ }FOR OFFICiI.ALi !9&i ODIL;¥ 
+iv

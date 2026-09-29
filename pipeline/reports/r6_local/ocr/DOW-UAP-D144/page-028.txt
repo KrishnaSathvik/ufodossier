@@ -1,0 +1,44 @@
+UNCLASSIFIED/ ,'FOR OFFI@IAL WSE QptLY 
+look for information rather than being proficient at remembering a sequence of steps 
+from which to retrieve information. 
+In systems having different operating modes, a common error is for an operator to 
+execute a command sequence that is inappropriate for the mode they are currently 
+using but entirely correct for a different mode. 33 This type of error is called a "mode 
+error." An example of this is when a pilot enters a new heading for the autopilot to 
+follow when the plane is not in autopilot mode. To prevent this error, it is advised to 
+have the most critical operating modes as fixed, physical displays. 
+Other Distractions 
+It is important to remember that the cockpit might not always offer a smooth, 
+distraction-free ride. Buffeting can cause a finger to press the wrong button (or a 
+gesture-based command to misdirect), or the eyes might not be able to resolve a 
+particular value. Excessive use of audible alarms and blinking lights can saturate the 
+pilot. Other activities or distractions available to the pilot must be taken into account so 
+that the most critical functions are easy to find and operate, including sufficiently large 
+buttons and text. 
+Alarms and Responses 
+Traditionally, physical enunciator panels combined with audible alarms and blinking 
+lights were used to highlight malfunctions. In addition to fixed enunciator panels, more 
+complex systems can now computationally analyze a number of variables and only 
+present the most pertinent values and alarm states. 
+DEVICES TO CONVEY IN FORMATION 
+Observation and interpretation of displays is always secondary to the primary task of 
+actually operating the system. Thus, it is important that displays be designed to first 
+serve the user and to take on as much of the information-processing burden as 
+possible. Also, it is suggested that the displays and control input devices should be 
+designed according to the operator's preferences, as opposed to the more common 
+practice of designing based on the system engineer's expectations. The following 
+paragraphs describe lessons learned regarding various methods of conveying 
+information to the pilot. 34 
+Fixed and Adaptive Displays 
+Fixed displays, such as the gauges of older aircraft, do not change the type of 
+information they display nor do they morph their format. These can be dials, bar 
+graphs, an artificial horizon, or simple indicator lights. Such fixed displays can be 
+projected with computerized screens where several interrelated values can be combined 
+into a single, computed value. Adaptive displays, on the other hand, can change their 
+formats or change the topics displayed to fit operational situations or individuals. Both 
+have their respective optimum uses. 
+During the advent of adaptive displays (circa 1990s), they tended to be overused. The 
+advantage is that the information can be tailored to minimize the volume of information 
+displayed at any one time. The disadvantages are that such systems require more 
+UNCLASSIFIED/fFOA: OFFICIO la Plili Oralla¥ 
+23

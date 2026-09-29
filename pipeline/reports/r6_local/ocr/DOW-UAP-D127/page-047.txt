@@ -1,0 +1,112 @@
+UNCLASSIFIED / / FOR-OFFEGHH-USE-OA
+
+Let us go back to equation (104). Since N is
+now a random variable (obeying the lognormal
+distribution), it follows that the ET_Distance must
+be a random variable as well. Hence it must have
+some unknown probability density function that
+we denote by
+
+f ET Distane (1) (106)
+
+where r is the new independent variable of such a
+probability distribution (it is denoted by r to
+remind the reader that it expresses the three-
+dimensional radial distance separating us from the
+nearest ET civilization in a full spherical symmetry
+of the space around us).
+
+The question then is: what is the unknown
+probability distribution (106) of the ET_Distance?
+We can answer this question upon making the two
+formal substitutions
+
+N->>
+a (107)
+
+ET_distance > y
+
+into the transformation law (8) for random
+variables. As a consequence, (104) takes form
+
+C 1
+VX
+
+In order to find the unknown probability density
+SET Distane(") , We now to apply the rule (9) to
+(108). First, notice that (108), when inverted to
+yield the various roots x;(y), yields a single real
+root only
+3
+x(y)= in (109)
+
+3
+y
+
+Then, the summation in (9) reduces to one term
+only.
+Second, differentiating (108) one finds
+
+(110)
+
+Thus, the relevant absolute value reads
+
+47
+
+at
+3, (111)
+
+Cc
+—:+Xx
+3
+
+Upon replacing (111) into (9), we then find
+
+.
+| aloes a ce)? _clcy__»
+Pn 3 3] y3 3 | y 30
+
+...(112)
+
+This is the denominator of (9). The numerator
+simply is the lognormal probability density
+function (56) where the old independent variable x
+must now be re-written in terms of the new
+independent variable y by virtue of (109). By
+doing so, we finally arrive at the new probability
+density function f,(y)
+
+y
+3C° 1 1 9
+fy()=——- ae”
+r 4 CC JQro
+3
+;
+
+is:
+
+Now, just replace C in (113) by virtue of (105).
+Then:
+
+We have discovered the probability density
+function yielding the probability of finding the
+nearest ExtraTerrestrial Civilization in the
+Galaxy in the spherical shell between the
+distances r and r+dr from Earth:
+
+2
+: ! RGataxy heata |
++a
+r
+
+20°
+
+far Distane (r)
+
+(114)
+holding for r>0.
+
+STATISTICAL PROPERTIES OF THIS
+DISTRIBUTION
+
+UNCLASSIFIED/ -@R-OFFL6244-U55-O21L%.

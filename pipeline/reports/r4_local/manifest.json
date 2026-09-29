@@ -1,0 +1,26 @@
+{
+  "generated_at": "2026-09-28T17:29:03.205706+00:00",
+  "csv": "/Users/krishnasathvikmantripragada/Webapps/ufo-dossier/pipeline/snapshots/pursue/2026-09-18-official/uap-data.csv",
+  "release": "04",
+  "pdf_ids": [
+    "CIA-UAP-D020",
+    "CIA-UAP-D021",
+    "DOE-UAP-D004",
+    "DOE-UAP-D005",
+    "DOW-UAP-D089",
+    "DOW-UAP-D090",
+    "DOW-UAP-D091",
+    "DOW-UAP-D092",
+    "DOW-UAP-D093",
+    "DOW-UAP-D094",
+    "DOW-UAP-D095",
+    "DOW-UAP-D096",
+    "DOW-UAP-D097",
+    "FBI-UAP-D014"
+  ],
+  "media_ids": [
+    "NASA-UAP-D030",
+    "NASA-UAP-D031",
+    "NASA-UAP-D032"
+  ]
+}

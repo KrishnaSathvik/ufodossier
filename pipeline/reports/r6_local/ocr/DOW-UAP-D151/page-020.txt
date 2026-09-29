@@ -1,0 +1,41 @@
+UNCLASSIFIED/ }FOR 8FFI@IAL tt91!! Dfltt 
+MODELING THE AIR TRAFFIC CONTROL TASK 
+Like any profession, ATC personnel experience day-to-day variation in performance, 
+and there are nat ural variations between controllers. In order to study these differences, 
+mentioned in most of the studies detailed above, a model needs to be built of the 
+controller, the environment, and the task, with the goal of locating where the majority 
+of changes may be occurring, and where any augmentation may be best suited to assist 
+in performance. 
+Specific to the air traffic controllers, the major variation source found when study ing 
+large var iations in performance was disruption of the circadian rhythm leading to a 
+disequ ilibrium condit ion described as a biological instab ility. Fortunately, no fancy 
+technology system was required to solve this particular problem, just proper human 
+resource management to avoid frequent shift switching. 35 
+Loft proposed that model ing the ATC task complexity and workload is insuffic ient to 
+predict performance due to the overriding effect of operator decision strategy . ATC 
+operators can select priorit ies, manage the ir own cognitive resources, and thus regulate 
+their own performance . The primary relief for the ATC operator is handing off traffic to 
+another local operator. 36 Our overall top ic is concerned with a single pilot in a space 
+environment, where no room full of colleagues exists to take up the slack; therefore, 
+such group modeling techn iques are outside the scope of the current treat ise. 
+We do note that Loft develops excellent single -task descriptions of time pressure, 
+conflict detection, conflict resolut ion, etc. 
+As shown multip le times in the preceding section, single-task processing time and 
+intensity (difficu lty or complexity) are the primary drivers of workload. Developing a 
+model connect ing time, intensity, and effort, Hendy shows how decision time connects 
+a time-intensity-effort loop {Figure 5). Hendy contends decision time is the single 
+variable dominant in workload. Within this loop model, increasing the event rate is akin 
+to increasing task difficulty . The adaptation strateg ies are developed with traini ng and 
+experience, a possible explanation of the difference in junior and senior performance 
+with augmentat ion aids. 
+Averty contends that ATC work load cannot be directly measured, but must be inferred 
+from a quant ifiable mixture of includ ing object ive and subjective measures . He breaks 
+down the controller task into monitoring, vectoring, and conflict solving, and develops a 
+refinement of the NASA-TLX called TU. Averty's Traffic Load Index is based on number 
+of aircraft, but each aircraft is given additional weight according to processing 
+requirements on the controller, including both cognitive and emotional weight: for 
+example, aircraft with path confl icts to resolve are given the highest weight, while 
+isolated flyover traffic is given low weight. The authors conclude that TLI needs to 
+include physiological inputs as well to fully model the task-controller i nteract ion. 
+UNCLASSIFIED/ /FOR QfifilGilJ.k YSI!! f>Ht'I" 
+15

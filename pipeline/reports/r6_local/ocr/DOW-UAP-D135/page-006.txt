@@ -1,0 +1,50 @@
+UNCLASSIFIED/ fFOA OFFIEIA~ W&li QPI~¥ 
+I. Introduction 
+Gravity is the bane of aerospace transportation. The force of the Earth's gravitational 
+field acts to pull all objects, whether in motion or at rest, downward towards the Earth's 
+surface. Because aerospace transportation involves the motion of vehicles through the 
+atmosphere and/or into space, propulsion engineers are always faced with the 
+requirement that aerospace vehicles will have to carry enough propellant and 
+associated tankage in order to provide enough propulsive thrust to overcome the 
+downward pull of gravity and achieve rectilinear motion. Energy has to be expended by 
+a propulsion system to overcome the force of gravity in addition to providing for 
+rectilinear motion, and the majority of propulsive energy is dedicated to overcome 
+gravity. The aerospace propulsion engineer is faced with two choices for the control of 
+gravity in this regard: passive control and active control. Modern aerospace propulsion 
+technology, which is based on accumulated scientific knowledge since recorded history, 
+can only achieve the passive control of gravity whereby a given propulsion device must 
+develop a thrust that will passively counteract the Earth's gravitational pull, lift a 
+vehicle off the surface, and propel it through the air or into space. Newton's laws of 
+motion and gravity require that the fuel fraction of any aerospace vehicle can never be 
+less than that given by a simple function of the ratio of the vehicle's maximum speed to 
+the speed of its rocket plume, jet, fan, or propeller wake. For example, this limit implies 
+that a single-stage rocket that accelerates to escape velocity must be composed of 
+more than 93 percent fuel. That is because a rocket must accelerate its working fluid 
+from rest (relative to the rocket) up to its exhaust speed. Thus, exhaust speeds for 
+aircraft and chemical rockets are limited by material science, chemical reaction rates, 
+and engineering factors to only a few thousand meters per second. 
+To date, there is no technology that can achieve the active control of gravity. If one 
+could eliminate or otherwise control the Earth's gravity field, then one has the ability to 
+dramatically reduce the amount of propellant, its tankage, and the overall structural 
+size and mass of an aircraft or rocket because there will no longer be any need for 
+these to overcome the pull of Earth's gravity while transporting a payload across the 
+globe or into space. Instead, aerospace vehicles will only need to have the propellant 
+mass and infrastructure necessary to change their kinetic energy from rest to a final 
+velocity necessary to achieve atmospheric flight or space orbit. The Earth's gravitational 
+well will no longer have any impact on aircraft, launch vehicle, or spaceflight dynamics 
+if one were to achieve active gravity control. Aerospace vehicles would merely "levitate" 
+in air and their propulsion systems would be optimized for change-in-velocity missions. 
+However, it is possible to envision a form of active gravity control propulsion that would 
+not require a change in kinetic energy. 
+One of the primary concepts for the goal of affecting gravity is "antigravity," which is a 
+colloquial expression that specifically means the negation or repulsion of the force of 
+gravity . A more general term that encompasses this notion and other possibilities is 
+"gravity control." 
+If antigrav ity exists, it can be exploited to counteract or nullify the gravitational pull, or 
+attraction, of a planetary (or stellar) body that acts upon a much smaller body. 
+Einstein's General Theory of Relativity gives a prescription for a variety of different 
+antigravity generators. Even Newton's law of gravity offers several different classical 
+prescriptions. Newton's law of gravity can be used to simply nullify the gravity field of 
+one body acting on another body by using a clever arrangement of masses. The 
+UNCLASSIFIED/ /FOA OFFI€1.t.k YS& 0,.k\f 
+1

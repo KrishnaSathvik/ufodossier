@@ -1,0 +1,42 @@
+UNCLASSIFIED//POR. Offl@IAI:: ~S& Qptk\f 
+e - p r 
+¢ (r) = </J;,,;,;,,1-2 B(µ r) (1.18)4 Tr r 
+The radiation flux is inversely proportional to the square of the distance from a point 
+source of radiation, such as a nuclear rocket engine. It also decreases through any 
+intervening radiation shielding material. The last term in equation 1.18, B(µr), is called 
+the "buildup factor"; it represents the process of reradiation following atomic collision 
+with shielding mater ial, thus contributing to the tota l radiation dose. This secondary 
+radiation is a problem for all spacecraft since cosmic radiation impacting the spacecraft 
+structural material can produce a cascade of secondary particles that can irradiate the 
+crew . 
+A standard technique to decrease the radiation exposure to the crew on a spacecraft 
+using nuclear fusion as an energy source will be to locate the crew as far away from the 
+engine as possible and place as much liquid hydrogen or other light shielding materia l 
+between the crew and the engine as designs allow. A simpler solution would be to use 
+nuclear fusion schemes that do not generate neutrons. These are the so-called 
+"aneutronic fusion" propulsion techniques. 
+SUBATOMIC PARTICLE MASS, VELOCITY, AND ENERGY 
+Atoms are composed of a small nucleus containing neutrons and protons, along with 
+electrons orbiting the nucleus in shells. The atomic number (Z) is equivalent to the 
+number of protons or electrons in a stable atom. 8 The atomic mass number (A) is the 
+total number of neutrons and protons in the nucleus. The number of neutrons (N) can 
+be found by subtracting Z from A. Atoms or nuclei are represented by a standard 
+nomenclature based on A and Z. 
+; Atom 
+Since chemical properties are governed by how many electrons circle the nucleus, Z 
+defines the element and atoms with the same value of Z, but differing numbers of 
+neutrons are referred to as "isotopes" of the same element. Some common isotopes of 
+hydrogen are shown below: 
+hydrogen I 
+IH 
+deuterium ~H , or :D 
+tritium iH , or ~T 
+Subatomic particles, such as a, /3, and neutrons, have a mass described in atomic mass 
+units (amu). One amu is defined as the mass of one atom of carbon-12, and it roughly 
+represents the mass of one neutron or proton. In terms of amu, the mass of various 
+particles are included in Table 2. Due to relativistic effects, particle mass increases as 
+the velocity of the particle approaches the speed of light, and because of special 
+relativity, the mass of particles listed in the table is the "rest" mass corresponding to a 
+particle that is not moving. 
+UNCLASSIFIED/fF&A &FFI&I:.l.k W&& Qptk\f 
+9

@@ -1,0 +1,45 @@
+UNCLASSIFIED/ /1'9R 81'1'!@1!illt lt!iE 8Hl::Y 
+In addition, sharp temperature discontinuities can be an energy source. A Peltier 
+junction can be run in reverse so that heating one side of it and cooling the other 
+produces a voltage. This seems quite straightforward at the sunlight terminator of a 
+spacecraft-the line dividing the sunward and shadowed faces. Here, although there 
+exists very little direct solar energy, the temperature gradient can be quite steep, 
+indicating a potentially quite large amount of harvestable energy that would otherwise 
+go to waste. 
+Still another way to harvest energy is through the piezoelectric effect-a voltage 
+generated when certain materials are under pressure. Because the atmosphere within 
+the spacecraft exerts a constant outward pressure on the hull, this seems a good 
+candidate for energy scavenging as well. In addition, for areas of the spacecraft interior 
+that are expected to receive intermittent pressure (for example, because crew 
+members bump up against them), this energy can be harvested as well. The total 
+energy of these interactions may not be very large, but for programmable materials 
+that would otherwise be sitting idle, energy scavenging is an excellent activity even at 
+very low efficiency. 
+Smart materials can also be used to store the energy they generate. A capacitor is 
+simply a pair of conductors with an insulator between them, which can separate 
+charges under the influence of a voltage, sending electrons to one side and holes to the 
+other. This separation of charges, like the separation of chemical ions in a battery, 
+stores energy. Automotive ultracapacitors have a bright future, and replacing their 
+"holey carbon" with nanostructured programmable materials may allow storage of even 
+more concentrated charges. 
+Superconducting loop batteries are another possible storage mechanism, particularly on 
+the shadowed side of the spacecraft, where cryogenic temperatures are easily achieved. 
+Advanced Concepts in Programmable Materials 
+Programmable materials can assume novel, unnatural configurations, but their primary 
+advantage is that their properties can be changed on demand. Thus, it becomes 
+possible, for example, to reconfigure a single spacecraft attitude sensor to operate as a 
+sun sensor, horizon sensor, or star sensor, as required. The same technology can 
+convert any black-and-white imaging sensor into a multispectral sensor-at low cost 
+and with no moving parts. In fact, a single device could be a receiver for optical or 
+infrared signals, a tunable optical or infrared filter, or a precision light source for 
+calibrating other sensors. In addition, when not in use, the device can serve as a 
+photovoltaic cell, converting sunlight into additional electricity. 
+In fact, the inherent re-programmability of the material properties means devices 
+incorporating dynamic materials can be adapted to novel purposes that were not 
+anticipated at the time of manufacture. In the future, dynamic materials may serve in 
+such applications as polarizers, magnetic and electric field sensors, and color-changing 
+solar sail controllers for station keeping. This open-ended flexibility has the potential to 
+dramatically improve the value and performance of spacecraft that lie beyond our 
+current capabilities. 
+UNCLASSIFIED//F8R 8FF1G'IO! 1155 AN! Y 
+12

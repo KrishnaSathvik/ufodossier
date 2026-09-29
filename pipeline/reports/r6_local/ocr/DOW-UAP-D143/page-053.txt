@@ -1,0 +1,37 @@
+UNCLASSIFIED/;'POR: OPPICIAE USE 014Lf 
+achieved by laser weapons with 25 kW or 50 kW beam power, provided the energy is 
+transmitted with good beam quality. Laser propulsion requires megawatt-class lasers 
+which are only developed in directed energy weapons (DEW) programs. However, 
+BSSSL beam power can be scaled up further by improving presently known gain media 
+and doping combinations, inventing new gain media and doping combinations, by 
+combining the beams of several lower-power devices, or a combination of all these until 
+the ultimate optical/thermal/mechanical limit of slab gain materials is reached. BSSSL 
+beam output power is projected to reach the multi-megawatt level within three to five 
+years from the time of this writing (P. Zarubin, J. Albertine, and V. Hasson, private 
+communications, 2010). 
+Figure 20 shows DARPA's High Energy Liquid Laser Area Defense System (HELLADS) as 
+an example of a liquid-cooled bulk slab solid-state (ceramic) laser. HELLADS is 
+designed to be light and compact enough to fit on a jet fighter or drone aircraft, and yet 
+powerful enough to fire a 150 kW beam of energy. HELLADS makes use of a unique 
+cooling technique to save weight and size. The high-power laser uses a liquid that has 
+the same index of refraction as the mirrors inside the laser. That way, the laser can 
+fire away, even while it's being cooled. The HELLADS program will deliver a 150 kW 
+laser weapon at 2 m 3 of system volume and 600 kg of system mass (not including the 
+prime power and cooling systems) to achieve the low specific mass (5 kg/kW) and 
+compact size need to be mounted on small tactical airborne platforms like the C-130 
+transport, jet fighters, or Predator-class UAVs. The device will be built by General 
+Atomics and the tracking system will be built by Lockheed-Martin. 
+A bulk solid-state laser is based on a bulk piece of doped crystal, disordered or 
+amorphous material (such as glass), glass ceramic (which is a combination of 
+crystalline-ordered structure and glassy phases disordered structure), or mixed crystals 
+as the laser gain medium. In most cases, the gain medium is doped either with rare­
+earth ions or transition metal ions. Typically, these ions replace a small percentage of 
+other ions of similar size in the host medium. The laser-active ions have suitable 
+optical transitions for pumping and laser emission at wavelengths where the host 
+medium is transparent. A bulk laser resonator is often formed with laser mirrors placed 
+around the gain medium. However, there are also laser gain media with a highly 
+reflective dielectric mirror coating on one side, which serves as a resonator end mirror. 
+Also, there are monolithic solid-state lasers where the beam path is entirely inside the 
+gain medium. See Reference 30 for additional technical details. 
+UNCLASSIFIED-'I i'FAA: 061i1Clali.k W&& 8PtLY 
+49

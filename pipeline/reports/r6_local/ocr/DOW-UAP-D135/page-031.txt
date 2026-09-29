@@ -1,0 +1,50 @@
+UNCLASSIFIED/ fFOA OFFIEIAk W&i 0Pilk¥ 
+(Reference 14) reported that a rough estimate indicates there is a very small 
+difference between 11 and 170. It is thus necessary to implement a coordinated 
+theoretical program to determine the value of 11 for all known forms of matter and 
+an experimental program to find materials that might possess anomalously large or 
+nonlinear properties that can be used to intensify time-varying gravitational fields. 
+Forward (Reference 14) also described an unsuccessful experimental attempt to find 
+materials that have the property of converting time-varying electromagnetic fields 
+into time-varying gravitational fields. This speculative property exploits the fact that 
+the magnetic and inertial moments are combined in an atom via the usual quantum 
+angular and spin momentum coupling. Other theoretical and experimental concepts 
+incorporating the use of rotating superconductors are reviewed by Hathaway 
+(Reference 69). Note in particular that Hathaway reviews the emerging 
+experimental observations of Martin Tajmar in which an apparent frame-dragging 
+effect is observed near super-cooled rotating rings as measured by ring laser gyros 
+and accelerometers. At the time of this writing these effects were being reported but 
+not yet independently confirmed. 
+• Antigravity via Negative Energy: The assessment provided in Reference 70 
+concludes that small amounts of negative energy are already made in the lab, but 
+one does not yet know there is access to larger amounts for extended periods of 
+time over extended spatial distributions for the purpose of producing antigravity. In 
+this regard, the following options for further exploration are proposed: 
+- Squeezed quantum vacuum generators (see Appendix A): A dedicated research 
+program to develop the two negative energy generator concepts described in 
+Reference 70 will need to be established in order to evolve state-of-the-art 
+quantum optics technology towards producing higher magnitudes of negative 
+energy as well as special techniques required to separate out any positive energy 
+fluxes that accompany the negative energy fluxes. Specifically, the Rabeau et al. 
+(Reference 71, 72) and Ries et al. (Reference 73) experimental programs should 
+be followed as a template toward this goal. Quantum optics technology via high 
+power fiber lasers, resonators, amplifier stages, beam conditioning stages, and 
+so forth are rapidly advancing. So research should be conducted in parallel to 
+invent additional ways to produce negative energy via innovative quantum optics. 
+- Casimir effect: Even though the standard electromagnetic Casimir effect is feeble, 
+and thus not likely to contribute to an antigravity engineering program, there are 
+still a number of other electromagnetic and non-electromagnetic Casimir effects 
+described in Appendix A that require further study. These other Casimir effects 
+have not been explored with an eye toward testing them in the lab, and so there 
+could be important new information yet to be discovered. 
+- Moving Mirrors (a.k.a. the dynamical Casimir effect; see Appendix A): Even 
+though this concept is too feeble to produce any useful flux of negative energy, 
+the observable effects due to the change in the boundary conditions (for 
+example, moving mirrors/cavity walls) of quantum fields provide crucial 
+information on the quantum vacuum at the macroscopic level. Theoretical and 
+laboratory efforts are underway to understand the dissipative effects of vacuum 
+fluctuations (Reference 74,75). This dissipation mechanism should induce 
+irradiation of photons, a phenomenon also known as the dynamical Casimir 
+effect. This can be understood both as the creation of particles under non-
+UNCLASSIFIED/ /FOA OFFI&IAb Yi&: 8,.bY 
+26

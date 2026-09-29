@@ -1,0 +1,27 @@
+UNCLASSIFIED/ /P'OR: OP'P'l@IAL WS& 0Nk¥ 
+BRAIN-MACHINE INTERFACES 
+A specific development in MEMS based neuroengineering has been the brain-machine 
+interface (BMI). These devices use computers to interpret brain signals from implanted 
+neural arrays and then use the information to control machines and setup an 
+automated environment. 
+The development of such devices can have a profound impact on the quality of life for 
+those individuals practically isolated because of their disabilities. Connected machines 
+will enable them to enjoy the everyday things we take for granted . 
+For example, a visual prosthesis could potentially restore partial vision to a blind patient 
+by stimulating neurons in the visual cortex using an input BMI. Signals could be 
+recorded from the motor cortex using an output BMI in order to bypass a neural injury 
+and restore some movement to a paralyzed patient. Even a simpler device that would 
+allow a patient to move a cursor on a screen would make a significant impact. 
+It is generally recognized that clinical applications of such BMis may require the 
+activities of hundreds or thousands of neurons to be simultaneously sampled. Figure 21 
+is an SEM photograph of a dense array of electrodes directed towards BMI applications. 
+Figure 21. Scanning Electron Micrograph of a 1141 Electrode Array Made to Be Inserted Into the 
+Surface of the Human Brain (University of Utah) 
+A significant problem with these devices is that when they get too densely disposed, 
+blood flow and disruption of the natural wiring of the brain causes decline of tissue 
+function. 
+Another very important issue is the biocompatibility of the material that the implants 
+are coated with. The more biocompatible these materials are the less tissue reaction 
+they will cause thus resulting less implant risk and longer implant period. 
+UNCLASSIFIED/ {FOR OFFICIO! !PEii QDlk¥ 
+25

@@ -1,0 +1,48 @@
+UNCLASSIFIED/ /POil OFFIEiIAk Ulilii QPIL¥ 
+Figure 14 compares the glide ranges and L/D ratios of selected hypersonic gliders. The 
+shuttle would be in the area of the nominal wing body on the righthand chart. From 
+Figure 13, the no-waiting cross range (lateral range) is 3,600 to 4,400 nautical miles. 
+That means the hypersonic L/D ratio needs to be in the 2.7 to 3.2 range. Appendix D 
+has down and lateral ranges shown as landing ellipses. The key to a successful landing 
+is a subsonic L/D ratio that is in the 4.5-or-greater range. The NASA round-bottom 
+configurations were not capable of that subsonic L/D ratio. The X-24B was in that 
+category and was therefore easily landed compared with the X-24A or Prime vehicles. 
+These high-performance gliders were unique to the AFFDL. The intent in case of a fire 
+would be to immediately evacuate to the hypersonic gliders and then depressurize the 
+station to control any fire (remember that Mercury and Gemini could be depressurized). 
+A crew could then be launched to recover the operation and repair the station. 
+j ·e 
+<O 
+a 
+::i.S 
+~ 
+-~ 
+§(I,) 
+~ 
+ij ~ >­o::: IC 
+ei a 
+30000 
+•· 
+20,0CJ0 1----+---+--- ,..,,...--i1----i1---1 
+Nominal 
+Lifting 
+Body 
+10,000 1----1■ --------+-----I 
+0 .....,___..___.___...___..____..____ 
+4.0 
+T MDC data 
+2.0 t---t----t--::: ~ -t-'---+- --1 
+1.0 ~ =--....-. 
+1----1- -- Apollo + Par 
+0 
+0 2,000 4,000 6,000 2.0 3.0 4.0 5.0 6.0 7.0 
+Lateral Ran e (nautical miles) Su sonic UD 
+Figure 14. Hypersonic Glider Characteristics 
+There is always the question about landing these blended bodies. Figure 15 shows the 
+blended body handling qualities to be very good, and therefore a pilot's fear factor is 
+less than with the X-15. Bill Dana said the X-24A was difficult to handle when landing 
+but that he could land the X-24B almost with no hands as it flared automatically . To 
+the author's knowledge, all of the wind tunnel tests showed inherent static and dynamic 
+stability over the entire speed range. 
+UNCLASSIFIED/ /FOR AEEJCJOL flilii QPIL¥ 
+15

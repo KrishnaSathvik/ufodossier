@@ -1,0 +1,36 @@
+UNCLASSIFIED/ ,'FOR OFFI@IAI:: WSE ONl::Y 
+Interactive Assist 
+This is a further automated augmentation of the prior flight mode. In th is case, 
+following commands from the pilot (voice, gesture, or thought), the pilot can request 
+for the flight assistant to fly the vehicle as desired. In this mode, it is most likely that 
+the pilot will not be touching the joysticks, but rather issuing "drive to" commands to 
+the automated system . 
+Fully Autonomous 
+In the event that t he pilot is incapacitated or perfo rming non-flight tasks, the fully 
+auto nomous mode flies the vehicle in whatever flight command mode was last entered. 
+This means that the system follows t hrough with previously entered comma nds, 
+including a selection of preset emergency responses, such as "returning to base" or 
+"flying to t he nearest medical facil ity." These emergency response functions may have 
+a dedicated physical panel. 
+PHYSICAL DISPLAYS 
+In keeping with human-factors lessons, part icularly the use of physical analogies of 
+human perception, the critica l displays and controls will be anchored in physical 
+hardware in fixed locatio ns. The primary reason for providing an actua l physical set of 
+displays and controls is to minimize errors during stressful situat ions. This includes 
+tunne l vision, mode errors, and keyho le errors. The controls also include tactile 
+feedback. 
+Following the precedents of modern flight decks and human-factors lessons, each of the 
+panels will have a dominant function as identified in Figure 14. Altho ugh t he look and 
+feel of these panels has not yet been conjectured, t heir likely funct ions and features 
+can be estimated. 
+Vector Motion Flight Assist Navigation Displays E InteractiveDisplay E R Display 
+Survival EmergencyFlight Mode Enunciator Response 
+Cabin Comm. 
+Control ControlVehicle Status 
+External Pullout Internal 
+Sensing ConditionsKeyboard 
+Dual Six-Degree Joysticks 
+Figure 14. Functional Designation of Physical Cockpit Panels. Basic layout of the physical displays and 
+controls . The function of each is described in the text. [Credit: M. Millis] 
+UNCLASSIFIED/fFOA. OFFICIO ls. Plili ONls.¥ 
+34

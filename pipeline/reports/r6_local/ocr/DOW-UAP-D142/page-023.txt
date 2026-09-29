@@ -1,0 +1,50 @@
+UNCLASSIFIED/ /FOR OFFIEIAk WS&i OPtkY 
+transpare nt state rather than in the reflective state. The experiment tested this for 
+plate separations of 70 - 400 nm. 
+Iannuzzi et al. 's experimental results showed that t he Casimir force did not noticeably 
+decrease after filling the experimental apparatus with hydrogen. This may have 
+occurred for two reasons. First, the dielectric properties of the HSMs used in the 
+experiment are only known only in a lim ited range of wavelengths spanning 0.3 - 2.5 
+µm, while the exper iment measured the transparency of the HSMs over a wavelength 
+range of 0.5 - 3 µm. This narrower wavelength span excludes the rest of the 
+electromagnet ic ZPF modes having wavelengths shorter than 0.5 µm and longer than 3 
+µm. The ZPF modes lying outside this narrow wavelength span were not affected by the 
+hydrogenat ion- induced transparency of the HSMs, hence thei r contribution to the tota l 
+Casimir force acting between the HSMs was not included. One would expect to see a 
+significant decrease of the Casimir force if the hydrogenation- induced transparency of 
+the HSMs had affected all of the ZPF mode wavelengths ranging from IR to UV (ZPF 
+modes with 1c >> 2.5 µm will not give rise to large contributions to the force). Second, 
+the experiment demonstrated a property of the Lifshitz theory (see Reference 33 for 
+more detail), that in order to significantly change the Casimir force between surfaces at 
+separations on the order of 100 nm it is not sufficient just to change their optical (IR 
+and visible) reflectivity, but it is necessary to modify their dielectric functions over a 
+much wider spectral range. This comports with the first reason, and indicates that more 
+theoretical and experimental work is needed to overcome the shortcomings of this 
+experiment, and allow for the design and testing of new experiments that can achieve 
+Casimir plate transparency over a wider spectral range. 
+A notion similar to the tunable Casimir Effect involves changing the dimensions of a 
+rectangular "Casimir box." Forward (Reference 34) proposed a paradox in which energy 
+could be extracted by altering the aspect ratio of a conductive rectangular Casimir 
+cavity over a specific cycle of dimension changes (for example, varying width while 
+holding length constant). It was subsequently shown by Maclay (Reference 26, 35), 
+that the Casimir energy inside the box is not isotropic, varying in such a way that more 
+work is expended in cycling the box dimensions than can be extracted. It appears that 
+no net gain of energy is theoretically possible in this scheme. Whether such 
+considerations apply to the tunable Casimir cavity concept remains to be assessed. 
+EV PHENOMENON 
+Shoulders (Reference 36) developed an experimental program to explore the physics of 
+microscopic plasma vortices (aka force-free plasmoids), which are thought to be a form 
+of ball lightning (Reference 37). This study was motivated by the earlier experimental 
+work of Wells at the Princeton University Plasma Physics Laboratory, Bostick and Nardi 
+at the Stevens Inst. of Technology, and their collaborators (Reference 38-45). 
+Shoulders became interested in the possibility of stable, quantized force-free structures 
+that could be taken apart by some process to yield a net energy gain for power 
+generation. The foundation for this speculation was Nardi et al.'s (Reference 45) 
+observation of strange electron concentrations they called vortex filaments that formed 
+in an electron beam made by plasma focus or relativistic electron beam machines, 
+which exhibited electron concentrations that appeared to violate the space charge law. 
+Furthermore, Nardi et al. observed that the vortex filaments were striking exposed 
+materials (for example, metals, dielectrics, ceramics, glass), boring smooth channels 
+straight through them, and sometimes exploding with such a large force that they 
+17 
+UNCLASSIFIED/ /FOR OFFICIO~ P Pili QIII.¥

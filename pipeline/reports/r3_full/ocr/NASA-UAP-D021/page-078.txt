@@ -1,0 +1,23 @@
+68 
+• fend up in two pulses o ti bump, II "b tiump, th ta ldwou dten to 
+yaw left and roll left. And the natural tendency of 
+the spacecraft to yaw left due to water boiler venting, 
+I guess, and perhaps ECS venting, was aggravated by this 
+added impulse of two blips when we shut down the ACME. 
+How about the selector controls and switches i n the 
+cockpit? 
+Lovell No comments t here. 
+Borman I don't have any either. The attitude controller, I thought, 
+was fine. No problems. Maneuver controllers were fine. 
+Lovell The right hand maneuver controller was a very nice operating 
+controller and it was very handy. Very easy to operate. 
+Borman As far as inflight malfunctions or irregularities, we lost 
+aut hority on thrusters 3 and 4. We got some of our yaw 
+righ t capability back by turning off the circuit breaker for 
+Thruster 12 and then thrusting backwards with the maneuver 
+controller in order to give us yaw right. This wor~ed very 
+well and enabled us to check yaw right drift rates and 
+enabled us to make yaw right maneuvers. The only thing-­
+you couldn't get very small control inputs with this mode. 
+Lovell And you used a lot of gas. 
+Borman And you used a lot of gas. I was very happy when we finally

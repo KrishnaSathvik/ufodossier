@@ -1,0 +1,138 @@
+{
+  "filename": "DOW-UAP-D101.pdf",
+  "generated_at": "2026-09-28T19:29:37.994148+00:00",
+  "page_count": 7,
+  "usable_text_chars": 13995,
+  "stats": {
+    "native_good": 3,
+    "native_thin": 3,
+    "needs_ocr": 1,
+    "ocr_failed": 0,
+    "ocr_succeeded": 1,
+    "pages_ocrd": 1,
+    "ocr_unrecoverable_thumbnail": 0
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "native_quality": {
+        "page_number": 1,
+        "native_char_count": 1541,
+        "printable_ratio": 0.998,
+        "alpha_ratio": 0.58,
+        "word_count": 173,
+        "replacement_char_count": 0,
+        "category": "native_thin",
+        "reason": "thin but printable native text (caption/short page)"
+      },
+      "final_category": "native_thin",
+      "text_method": "native",
+      "char_count": 1541,
+      "text": ""
+    },
+    {
+      "page_number": 2,
+      "native_quality": {
+        "page_number": 2,
+        "native_char_count": 3794,
+        "printable_ratio": 0.998,
+        "alpha_ratio": 0.713,
+        "word_count": 533,
+        "replacement_char_count": 0,
+        "category": "native_thin",
+        "reason": "thin but printable native text (caption/short page)"
+      },
+      "final_category": "native_thin",
+      "text_method": "native",
+      "char_count": 3794,
+      "text": ""
+    },
+    {
+      "page_number": 3,
+      "native_quality": {
+        "page_number": 3,
+        "native_char_count": 1731,
+        "printable_ratio": 1.0,
+        "alpha_ratio": 0.708,
+        "word_count": 271,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "sufficient clean native text"
+      },
+      "final_category": "native_good",
+      "text_method": "native",
+      "char_count": 1731,
+      "text": ""
+    },
+    {
+      "page_number": 4,
+      "native_quality": {
+        "page_number": 4,
+        "native_char_count": 1938,
+        "printable_ratio": 0.999,
+        "alpha_ratio": 0.707,
+        "word_count": 259,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "sufficient clean native text"
+      },
+      "final_category": "native_good",
+      "text_method": "native",
+      "char_count": 1938,
+      "text": ""
+    },
+    {
+      "page_number": 5,
+      "native_quality": {
+        "page_number": 5,
+        "native_char_count": 3411,
+        "printable_ratio": 0.999,
+        "alpha_ratio": 0.734,
+        "word_count": 483,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "sufficient clean native text"
+      },
+      "final_category": "native_good",
+      "text_method": "native",
+      "char_count": 3411,
+      "text": ""
+    },
+    {
+      "page_number": 6,
+      "native_quality": {
+        "page_number": 6,
+        "native_char_count": 1720,
+        "printable_ratio": 0.978,
+        "alpha_ratio": 0.572,
+        "word_count": 194,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.09, clean=0.54))"
+      },
+      "final_category": "native_good",
+      "text_method": "tesseract",
+      "char_count": 1290,
+      "text": ""
+    },
+    {
+      "page_number": 7,
+      "native_quality": {
+        "page_number": 7,
+        "native_char_count": 173,
+        "printable_ratio": 1.0,
+        "alpha_ratio": 0.474,
+        "word_count": 22,
+        "replacement_char_count": 0,
+        "category": "native_thin",
+        "reason": "thin but printable native text (caption/short page)"
+      },
+      "final_category": "native_thin",
+      "text_method": "native",
+      "char_count": 173,
+      "text": ""
+    }
+  ],
+  "combined_path": "/Users/krishnasathvikmantripragada/Webapps/ufo-dossier/pipeline/reports/r5_local/ocr/DOW-UAP-D101/combined.txt",
+  "production_writes": false
+}

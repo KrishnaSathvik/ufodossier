@@ -1,0 +1,45 @@
+UNCLASSIFIED/ ,'FOR OFFI@IAI:: WSE ONl::Y 
+DEVICES FOR RECEIVING PILOT COMMANDS 
+In much the same way that displays are configured to match the dominant norms of 
+human behavior, so too are the command functions. As evidenced by the gaming 
+industry, the motions of the pilot's hands-whether by a joystick or a Wii controller 42 -
+mimic the intended physical motions of the object under control. Some of these control 
+technologies are described below. 
+Physical Controls 
+Devices such as joysticks, toggle switches, thumb wheels, rotary switches, and even 
+keyboards will still be mandatory in cockpits of the future. This is based on needing 
+fixed locations for the most critical displays and controls. Additionally, tactile feedback 
+helps the pilot know that their command has been entered. In moments of crisis, a 
+human can react quickly to reach for just the right switch and detect the sensation 
+when that switch is flipped. 
+Joysticks take advantage of human nature, where hand motions mimic the intended 
+motions of the object under control. Joysticks and pedals with force-feedback or 
+vibration feedback add another element of informatio n that humans can process in 
+parallel-feedback that would not be possible with virtual controls .43 
+Despite advances in other data-input technologies (e.g., voice), it is likely that there 
+will be times when a keyboard is required, but its routine use is not expected. 
+Keyboards are an efficient way to accurately enter alphanumeric data and especially 
+narrative text. Conversely, keyboard use is time consuming, physically requires a large 
+space (can be stowed, however), and is subject to errors during vibration or buffeting. 
+Such errors are reduced when having some physical support to help anchor the hands. 
+Gesture-Based Inputs 
+By the time that propulsion breakthroughs become viable, it is likely that gesture-based 
+commands will have evolved past the current systems' problems of misinterpreting 
+wayward motions and will have become an effective way to replace the mouse for 
+cursor control. In addition, it is expected that more options will be available through 
+gestures than through existing mouse buttons (right click, left click, and scrolling). 44 
+When used in combination with a voice-command system, it is expected to be an 
+effective tool for the more complex and varied instruction sets, such as navigat ion. For 
+example, the notion of being able to point to a locati on on an expansive virtual map 
+and say, "go there," seems an ideal implementation. 
+Furthermore, the use of gesture-based inputs in analyzing new data seems appropriate, 
+provided that the lessons from adaptive displays are heeded. Although fascinating, 
+gesture-based commands are dependent on how well the informat ion that they are 
+manipulating is organized. Therefore, these inputs might be prone to the same keyhole 
+errors and mode errors of adaptive displays. 
+Prior lessons regarding quick emergency commands should also be heeded, specifically 
+where all critical commands have dedicated physical controls. Gesture-based 
+commands can be redund ant, but again, the physical control should be the dominant 
+source of critical inputs . Consider the event of buffeting, where the posit ion of an 
+UNCLASSIFIED/fFOA. OFFICIO ls. Plili ONls.¥ 
+27

@@ -1,0 +1,41 @@
+UNCLASSIFIED/ /PO" orr1e11tt U.!I! l>flt I 
+pulse ceases. This mode requires much less optical power. Finally, PCSS switches may 
+also be designed to operate in the avalanche mode. Switches operating in this mode 
+are designed for higher voltages, and above some critical electric field, the switch 
+remains closed even without optical energy. Carrier multiplication occurs because of the 
+electric field, and the switching process sustains conduction. Optical energy required for 
+avalanche mode PCSS switches is about l-l0pJ/cm 2 • Lock-on mode GaAs is the most 
+commonly used PCSS switch for high-voltage applications. PCSS research at the 
+University of Texas at Dallas (UTD) has resulted in promising techniques for improving 
+the longevity of switches. High current densities in PCSS switches normally result in 
+damage at the metal-semiconductor interface. Research at UTD using amorphic 
+diamond coatings at the meta l-semiconductor interface has resulted in significant 
+lifetime improvement for the switches. The process uses a conformal coating with the 
+hardness of natural diamond and extremely high electron emissivity originally called 
+amorphous ceramic diamond and later shortened to simply amorphic diamond. Used in 
+stacked Blumlein pulser configurations, these switches have demonstrated 150-ps 
+switching speed at 100 kV and 105-shot lifetimes. 
+High-Voltage Pulse Sources 
+HPM sources have three basic components: 
+• Electrical or explosive prime power. 
+• RF generator. 
+• Antenna. 
+The prime power is supplied by means of pulsed-electrical-circuit Marx generators and 
+transformer-based generators or by single-event explosively driven means. 
+MARX GENERATORS 
+Marx generators have been used for several decades now and have seen many 
+improvements in their reliability and repetition rate capabilities. In a Marx generator, 
+some number of capacitors, referred to as the number of stages, are charged in 
+parallel. After the charge cycle is complete, gas switches located between each stage 
+are triggered to conduction, and the capacitor configuration is changed to a series 
+connection. The result is that the charge on each capacitor is multiplied by the number 
+of stages, and the effective capacity is the stage capacitance divided by the number of 
+stages. Because all inductances are also in series, the equivalent inductance is the sum 
+of all circuit, switch, and capacitor inductances. One problem with Marx generator 
+circuits is that approximately half the energy used is lost as heat in the charging 
+resistance for each stage. Using inductive charging can lessen this problem, but care 
+must be taken, since several LC loops can be formed, all of which resonate at different 
+frequencies. The result can be extremely high voltages in circuit locations where these 
+are not expected. This can be especially troublesome in high-repetition-rate circuits. 
+UNCLASSIFIED/ fFOA QFFICiIOls. H&'li Qlslls.\' 
+15

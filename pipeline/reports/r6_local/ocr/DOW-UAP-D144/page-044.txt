@@ -1,0 +1,38 @@
+UNCLASSIFIED/ ,'FOR OFFI@IAI:: ~SE OPtl::Y 
+Both side panels are deliberately not in the tun nel vision zone, since they provide 
+addit ional functions that are less time critical. Each side panel is a m ix of fixed and 
+adapt ive displays. The convention is that the panel on the left (consistent with the 
+navigat ion panel on the left) is for displays and controls related to the envi ronment 
+outside the craft, while the panel on the right is associated with the function of the craft 
+itself. 
+Only some of the sensors and functions are known at this time, and it is expected that 
+further advances in sensor technology might provide other abilities that are not yet 
+foreseeable . Following the requirements from Chapter 1, this panel will at least have 
+controls for the fol lowing : 
+• Externa l visible spectrum cameras that prov ide input to the virtual surround display . 
+• Augmented spectrum cameras (e.g., infrared or ultraviolet). 
+• Star tracker. 
+• Cosmic microwave background sensors. 
+• Inertial sensors and their related integrations for velocity and position. 
+• Object detection and trajectory determination. 
+Internal Conditions Panel 
+The right panel flanking the pilot seat has more detailed displays and controls regarding 
+the vehicle's functions, such as energy, propulsion, and computation. Similar to the left 
+side panel, it is a mix of fixed and adaptive displays. 
+This panel provides deeper levels of detail for the elements displayed on the vehicle 
+status panel, along with control settings for the same. The functions of this panel are 
+closely integrated with the flight-assist system, especially in regard to recommending 
+corrective actions to vehicle malfunctions. 
+Absent the technology for the vehicle's breakthrough propulsion and power systems, 
+further details of this panel cannot be suggested at this time. 
+Periphery Motion Displays 
+The last two physical panels are the periphery motion displays, which are located on 
+either side of the cockpit in the pilot's periphery vision. They are a physical back-up to 
+the virtual surround display, where each offers more intense moving grid lines. 
+The panels simply display a grid whose motion is synced with the motion of the craft 
+relative to the surrounding space. In this way, the pilot gets subtle cues to motions 
+that can be mentally processed in parallel with the other displays. Such an additional 
+motion display is expected to become necessary because of the added degrees of 
+freedom available for the vehicle's motion. This can be particularly useful during hover, 
+UNCLASSIFIED/,<FOA. OFFICIO ls Plili ONI.¥ 
+39

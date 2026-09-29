@@ -1,0 +1,27 @@
+UNCLASSIFIED/ /FOR OFFICIO~ Uilii QptL\f 
+p 
+I 
+t 0 t 0 
+Figure 15. Balanced Homodyne Detector with a Local Oscillator. (courtesy of P. 
+Marecki) The setup is arranged so that the electric field F of the LO at positi on ! has a 
+reversed direction with respect to that at position y . 
+If (1)5 vanishes, then the variance of the BHD-output is (12 \ which provides a 
+character ization of the two-point function of the state S. The var iance is [5, 6] : 
+(15) 
+where .E{_0 Elo is the power of the LO field. This expression shows that ( 12)5 scales 
+quadrat ically with the amplitude of the electric field of the quantum state Sunder study 
+and thus linearly with the power of the LO field. The two-point functions can be 
+quantitatively estimated by performing measurements with different powers of the LO. 
+Therefore, BHDs with local oscillators are amplifiers that are capable of measuring the 
+one- and two-point functions of arbitrary states of quantum fields ( even for the 
+vacuum). 
+For an experimenta l study of the vacuum state inside a Casimir cavity, the stationary 
+state is specified to be the ground state (Grd) and thus the one-po int function ( l)S=Grd 
+vanishes. For stat ionary states the (12) is related to the spectral density
+Grd 
+1 1
+a;;(w ,x, y) which is defined as the Fourier transform of the two-point function 
+(E/i.t0 )E,;(},t 0 )\ with respect to time; therefore, we have for ground states [5, 6]: 
+2(J ?)- Grd = a el 2 (.£Lo )2f d&ku( 8ir,>X,rrly) g " (6io--(j)) 1, (16) 
+UNCLASSIFIED// fl01t OPPlelJcL Y:!H!! 9HLY 
+38

@@ -1,0 +1,27 @@
+UNCLASSIFIED/ /POI\ OPPICIAL t,!I! or•t I 
+move to high power IEC operations which are non-electrical. Deep space propulsion is 
+used as an example. 
+SPACE PROPULSION 
+The IEC can be used for both near-term electrically driven thrusters for satellite 
+operations (using the jet mode discussed earlier) and for fusion-powered deep space 
+propulsion. The latter is illustrated in Reference 5.3 where a D-3He reactor was utilized . 
+This design concept is briefly summar ized here. 
+Figure S.S. Image of a Fusion II Spaceship, a 7S0-MWe IEC Fusion-Powered Manned Spacecraft With 
+Ion Thruster Propulsion 
+The IEC Spaceship "Fusion Ship II" is shown in Figures 5.5 and 5.6. (Note: Fusion Ship 
+II represents an upgrade to high power of an earlier design termed "Fusion Ship I"). 
+The overall spaceship length is 300 meters and the initial mass at mission start is 500 
+metr ic tons. Crew and avionics/computers are located in the central compartment at 
+the forward end of the veh icle. The crew compartment uses 12-m diameter chamber 
+and could contain a rotating centrifuge for sleep and exercise. A steerable antenna 
+located on the side of this module provides communication. Twin 175-meter long 
+assemblies, comprised of 5 D-3He spherical IEC reactors and Traveling Wave Direct 
+Energy Converters (TWDECs) each, generate 1394 MW of 14.7- MeV proton flux and 
+469-MW of thermal heat which is converted to 1197 MWe of RF electric power. 242 MW 
+of the electrical power, then, re-circulates to run the reactors while 750 MWe is used to 
+drive ion thrusters while the remainder of the energy is rejected as waste heat. A fusion 
+fuel re-circulat ion and separation system is operated continuously to remove the fusion 
+product 4 He from the D-3He reactants. Any unburned fuel is collected via the TWDEC 
+energy convertors and recirculated back to the IEC reactors. This conserves the 
+UNCLASSIFIED/ /FOR 8ffIOIAk WSE 8Nk\f 
+54

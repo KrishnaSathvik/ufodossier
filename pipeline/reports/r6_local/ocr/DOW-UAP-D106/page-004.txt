@@ -1,0 +1,39 @@
+Declassified by MG Richard A. Hiimson 
+"C"5( EJ\;1COM C luet ot \taff 
+Decl,1ss1fied on ~o Jtme :?016 
+FOCO Pm dcy Act applies 
+• Data Link: 
+• Gentext : 
+Timeline 
+Takeoff 
+• Callsign :I 1.4a 
+• Number of Aircraft:,[1 
+• Asset Type (Aircraft): ,...'1-.4a- ,-1-.4g-l 
+• Aircraft Tail Number(s) : I 1.4g 
+• Takeoff Location (ICAO Code): ,...!_1_.4g_--. 
+• Takeoff Time DTG: 050614:00ZMAY22 
+• Mode 3 (IFF Codes) : 2232 
+• Gentext/Additional Details: ,__--:.:.1.4-=-=a'---_,IDELAYED TAKEOFF DUE TO WX AT THE 
+LRE. 
+• Mission Canceled : 
+On Station 
+• Time On Station DTG: 050624:00ZMAY22 
+• Callsign: f 1.4a I 
+• JTARNumber: 
+• Killbox (Location): 91AS5 
+• Mission Type: RECONNAISSANCE 
+• JTAC Callsign: 
+• Gentext/Additional Details: 
+• Did not Arrive On Station: 
+OffStation 
+• Time Off Station DTG: 060014:00 ZMAY22 
+• Total Time On Station: 17 hours 50 minute s 
+• Gentext/Additional Details : 
+Landing 
+• Last Land Location (ICAO Code): ! 1.4g 
+• Last Land Time: 060039:00ZMAY22 
+• Last Engine Shutdown Time: 060049 :00ZMAY22 
+• Total Mission Time: 18 hours 25 minutes 
+• Gentext/Additional Details: 
+3.5c1 (b)(6) 
+USCENTCOM MDR 26-0084 to 26-0095 Approved for Release to AARO - FOUO I PA applies 06/30/26 034

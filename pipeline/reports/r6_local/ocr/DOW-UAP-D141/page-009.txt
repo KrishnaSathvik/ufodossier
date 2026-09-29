@@ -1,0 +1,47 @@
+UNCLASSIFIED/
+
+Wavelength (jm)
+
+Figure 4. Recent Optical Metamaterials for Telecommunication Wavelength A = 1.5 um (Left and
+Middle) and Mid-Infrared IPM. The multi-layer fishnet is made of silver films separated by a dielectric spacer. A
+focused ion beam was used to produce the prism-shaped fishnet. The IPM was obtained by depositing interleaved
+80 nm layers of Ino.s3Gao.47As and Alo.zsIno.s2As. The layers, approximately 8.1 um thick, grown by molecular beam
+epitaxy on lattice-matched InP substrates. The InGaAs layers were uniformly doped to create different values of
+permittivity in alternating layers. (Reference 10 and 11)
+
+That is not to say that there is not ongoing theoretical and experimental work on
+designing optical metamaterials for practical applications. The author’s research group
+at UT- Austin, has designed the first Plasmonic Negative Index Metamaterials (P-NIM)
+super-lens (Reference 14), developed novel techniques for analyzing optical properties
+of plasmonic nanostructures, (including band-structure calculations of periodic
+nanostructures) (Reference 15) and quasi-static calculations of plasmonic resonances
+(Reference 16). The UT-Austin group has also designed a number of unique sub-
+wavelength P-NIMs in the optical part of the spectrum (References 14, 17, 18), and has
+recently published a review of optical P-NIMs (Reference 12). The group has also
+contributed to developing and experimentally implementing the concept of the “perfect
+lens” (Reference 19) based on plasmonic/polaritonic materials. A perfect lens enables
+imaging of sub-wavelength objects in the infrared part of the spectrum, including
+objects buried under the surface. Also developed is a Wide-Angle “Perfect” Absorber of
+Mid-Infrared Radiation (WAPAMIR) (Reference 20) based on the negative index
+metamaterial whose impedance is perfectly matched to vacuum.
+
+Below is a concise summary of various topics/applications that are especially suitable
+for the aerospace industry. This study concentrates on the facility of metamaterials to
+miniaturize various optical and microwave components. Metamaterials can also be used
+for imaging very small (sub-wavelength) objects without resorting to costly and space-
+consuming near-field scanning optical microscopy. Also described are the ongoing
+efforts in the field to make extremely compact metamaterials-based lasers. Smaller
+lasers mean smaller weight and more room for other diagnostic devices and useful
+payload within the confines of a space vehicle. Applications of metamaterials to photon
+harvesting is especially fitting for advanced aerospace platforms because of the
+necessity to collect electromagnetic energy for battery recharging, diagnostic
+spectroscopy, and other vital functions of a space vehicle.
+
+e Complementary Metamaterials for Energy Harvesting. Development of ultra-
+thin photovoltaic and thermo-photovoltaic cells is hampered by weak photon
+absorption in semiconductors. Metamaterials can modify absorption making it
+wavelength-selective (tunable), highly efficient, and, if desired, wide-angle. Recently
+a way has been found for creating quarter-wavelength resonators backed by leaky
+mirrors made out of CMMs.
+
+UNCLASSIFIED/ LEQBOEELGId=tSE-ONTY

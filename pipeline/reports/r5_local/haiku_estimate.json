@@ -1,0 +1,73 @@
+{
+  "generated_at": "2026-09-28T19:30:12.447216+00:00",
+  "extract_documents": 9,
+  "fixed_chunk_docs": 9,
+  "cue_routed_docs": 0,
+  "estimated_haiku_calls_if_no_retry": 9,
+  "estimated_cost_usd": 0.18,
+  "plans": [
+    {
+      "filename": "CIA-UAP-D023.pdf",
+      "strategy": "fixed",
+      "sections": 1,
+      "chars": 1281,
+      "page_count": 2
+    },
+    {
+      "filename": "DOS-UAP-D002.pdf",
+      "strategy": "fixed",
+      "sections": 1,
+      "chars": 2336,
+      "page_count": 2
+    },
+    {
+      "filename": "DOW-UAP-D099.pdf",
+      "strategy": "fixed",
+      "sections": 1,
+      "chars": 9239,
+      "page_count": 8
+    },
+    {
+      "filename": "DOW-UAP-D101.pdf",
+      "strategy": "fixed",
+      "sections": 1,
+      "chars": 13996,
+      "page_count": 7
+    },
+    {
+      "filename": "FBI-UAP-D024.pdf",
+      "strategy": "fixed",
+      "sections": 1,
+      "chars": 5233,
+      "page_count": 3
+    },
+    {
+      "filename": "FBI-UAP-D026.pdf",
+      "strategy": "fixed",
+      "sections": 1,
+      "chars": 4527,
+      "page_count": 3
+    },
+    {
+      "filename": "FBI-UAP-D028.pdf",
+      "strategy": "fixed",
+      "sections": 1,
+      "chars": 3316,
+      "page_count": 3
+    },
+    {
+      "filename": "FBI-UAP-D030.pdf",
+      "strategy": "fixed",
+      "sections": 1,
+      "chars": 3936,
+      "page_count": 3
+    },
+    {
+      "filename": "FBI-UAP-D033.pdf",
+      "strategy": "fixed",
+      "sections": 1,
+      "chars": 2604,
+      "page_count": 2
+    }
+  ]
+}

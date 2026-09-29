@@ -1,0 +1,36 @@
+{
+  "filename": "CIA-UAP-009.pdf",
+  "generated_at": "2026-09-25T20:52:48.627186+00:00",
+  "page_count": 1,
+  "usable_text_chars": 126,
+  "stats": {
+    "native_good": 0,
+    "native_thin": 0,
+    "needs_ocr": 1,
+    "ocr_failed": 1,
+    "ocr_succeeded": 0,
+    "pages_ocrd": 0,
+    "ocr_unrecoverable_thumbnail": 1
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "native_quality": {
+        "page_number": 1,
+        "native_char_count": 111,
+        "printable_ratio": 0.919,
+        "alpha_ratio": 0.063,
+        "word_count": 1,
+        "replacement_char_count": 0,
+        "category": "ocr_failed",
+        "reason": "unrecoverable thumbnail page (short side 67pt); OCR cannot recover text from a postage-stamp render"
+      },
+      "final_category": "ocr_failed",
+      "text_method": "native",
+      "char_count": 111,
+      "text": ""
+    }
+  ],
+  "combined_path": "pipeline/reports/r3_readiness/ocr/CIA-UAP-009/combined.txt",
+  "production_writes": false
+}

@@ -1,0 +1,46 @@
+UNCLASSIFIED/ /FOA OFFl&il.t.k Wili Ql"lk¥ 
+These studies did not yet include different ial pumping so that number of recirculation 
+passes by an ion , ~, was low, roughly 2, due to major charge exchange losses. The 
+injected ion current, I, with one gun was only~ 50 mA. Sti ll, based on measurements 
+of neutrons emitted using deuterium fuel, the Q (fusion energy gain/energy in) was 
+order of 10-6 which is remarkable for such a small device. These results, plus supporting 
+computer simulation studies, show that the scale-up of this device to 12 injector guns 
+plus adding strong differential pumping, could potent ially achieve breakeven. 
+The proposed ion injected IEC device 
+with 12 guns is shown schematically in 
+Figure 6.3. The key to achieving 
+breakeven conditions in this device is to 
+inject ions with good focus and the 
+desired angular momentum. The RF ion 
+gun has a unique magneti,c nozzle to 
+achieve that . Electrons are 
+simulateously introduced in a measured 
+fashion. This eliminates the need for a 
+grid by formation of a deep potential 
+well (ion trap) . Also, differential 
+pumping between the guns and the 
+main chamber provides the high 
+vacuum needed to avoid charge 
+exchange. This configurat'ion is highly Figure 6.2. IEC system With Radio Frequency Ion 
+non-Maxwellian due to the beam Gun 
+dominated nature of the trapped ions. 
+(Although, as pointed out in the disuccion of L. Chacon's work, therma lized ions build 
+up and additiona l quasi- Maxwell ian distriution in the trap) . Still, detailed analysis such 
+as done by Momota and Kim (discussed earlier) shows that the beam ion momentum 
+provided sufficient "stiffness" to the system to maintain stability. This assumes, 
+however, very precise control is maintained over the energy and angular momentum of 
+injected ions and a balanced supply of electrons is provided. An RF ion injector capable 
+of such operation has been demonstrated at UIUC as discussed earlier. 
+mapctic ~utm1 lem 
+coufal ~,pcrr1ti0 111tot : OOIJaw c:ybndrtcl.l 
+.,1,mi..,, ..1111,.,. 
+I 
+pot 1C l\ew111 lL HIJt 1k dJl'P.1 1'tt1u.1 l colb 
+ptrt ol ,'::.1 cui..Lmck.ntbe:r - b,li<ol aa,.nm j p,s lli>• 
+Rl'r"""t°' 
+Figure 6.4. Differentially Pumped RF-Driven Ion 
+Gun. Six guns shown for simplicity, but t welve are 
+proposed for the breakeven study . 
+UNCLASSIFIED/ }FOlil OFFICJO, 11SF ON! X 
+Figure 6.3. Multiple Ion Gun Concept 
+63

@@ -1,0 +1,199 @@
+--- PAGE 1 ---
+UNCLASSIFIED / / F@R-OFFEGEAL-USE-ONE
+
+Defense
+Intelligence
+Reference
+Document
+r—Cri(<‘aséisYr Acquisition Threat Support
+
+6 April 2010
+
+ICOD: 1 December 2009
+
+DIA-08-1004-005
+
+High-Frequency Gravitational
+Wave Communications
+
+UNCLASSIFIED / /5032..O05516044-U55-OR4=—=
+
+--- PAGE 2 ---
+UNCLASSIFIED//&O11 Oli&iliCili0 L Pl&li Qtll¥ 
+High-Frequency Gravitational Wave Communications 
+Prepared by: 
+Acquisition Support Division (DW0-3) 
+Defense Warning Office 
+Directorate for Analysis 
+Defense Intelligence Agen cy 
+Author: 
+AAP Person 77 
+Administrative Note 
+COPYRIGHT WARNING: Further dissemination of the phot ographs in this publication is not authorized. 
+This product is one in a series of advanced technology reports produced in FY 2009 
+under the Defense Intelligence Agency, Defense Warning Office's Advanced Aerospace 
+Weapon System Applications (AAWSA Pro ram. Comments or uestions pertaining to 
+this document should be addressed t AAP Person 1 AAWSA Program 
+Manager, Defense Intelligence Agency, ATTN: CLAR/ DWO-3, Bldg 6000, Washington, 
+DC 20340-5100 . 
+UNCLASSIFIED/ /fQB OFFICI0L 1al&li 8HLY 
+ii
+
+--- PAGE 3 ---
+Contents
+SUIMIMNALY iviese eva eaieiste ieess seca ciinaeaaeeae aeenewava aatee deena ea ewea eae ie dean ie deaueie alan epee auneueueNNi pias Vv
+LOE OCU CEG einisciceee erence eIEY 1
+LT INtrOGUCEIGON cc .censenesnecrecsensnsenenneexeeueneneeneaneneesuansneeneenaeenuerenenesernentaenacecasernenens 1
+1.2 Definition of High-Frequency Gravitational Wave ........ccccscsesseensnseensescenesenes 1
+2.0 HFGW Communications ........... auadennnaeaes sncsesdsecctareaens sedeienadsecusncseraiorensne deneresatensi 2
+2.1 HFGW Generators (Transmitters) .....ccccccsceeececseeseeeeeeeeneeneeeaueeseeeeeneneueesesauonens 2
+2.1.1 HFGW Generator Concepts ......:ccccceneeeeeeeeeeeeeeeneaeeeenenseeneneeesenneanseeeansenees 2
+2.1.2 Alternative Approaches ........cccccscececeeceececenssaueneeeeceaceneeeuenseeeeusecuaneceneeneen 6
+21:3 Pléezoclectric Approach niin 6
+2.1.4 Infrared-Excited Molecules Approach. ....sccsssscscenscscseceeseeeececccnsuceeesusnensnes 7
+2.2 HFGW Detectors (RECECIVErS) ....ccsccsecscseeecseneceeeeeeeeeeneeeueneeeeeueueneneaneeueneneaneen 12
+2.2.1 Alternative Approaches ......cccccscceeseeeseseeeeeeeeeeseeeeeneeneneseneneusueueneneuensnanar 12
+2.2.2 Concept (Li-EffeCt) .....c.cccscscecececeeeeeeeeeeeeceeeaeeeeeeeeeeeeaesenenenseceseseseseeeenener 14
+2.2.3 QuantuM Back-Action Limit .......ccccscscccccccececeecesesceeeeseeeeceneeseseueeseeseeeeans 16
+2.2.4 Li-Baker HFGW Detector.......sssscesssscccesssccenenecececececeseueueueceneneceesueneuouauas 20
+3.0 Operational CONCEFNS .....cccccccececeecsceeesevececueeeeueceeeeeeaeeeeeueeeaueseeueeueneneaseeuenenuaneen 22
+3.1 LINK BUCGECE ....cccceeececececececececeeeeueeeueeeeeeeauauauauececusasecueuaeasueueueueuauauaueneneneneauans 22
+3.1.1 Signal-tO-NOise Ratio .......ccsceceneceneeeeeeueeeceeeeueeauceaeeeueueueueueueusususnenenenuans 22
+3.1.2 Link Budget Considerations ........c.cccsesceeceeeeseeeeuseceeeeeuaueueususeeeuseaensnanaes 23
+B22 Banc wiht ih cece we cecceecssensaeeeweeedacceeentuveccseceurenes ane sceweaade ee depterunaus nau seaeeeeueavi ze 25
+3.3 Frequency and Time Standard ......ccccccscccsscccesccceceseeceecesceseseeceusesesesaeaeesesoees 25
+3.3.1 Improvements Accruing from a HFGW Time Standard........scsessssnsseneees 27
+3.3.2 Search Space Improvement Accruing From HFGW FTS.....ccsccescuensseseees 28
+3.3.3 The Impact of Phase Noise Improvements on Phase Shift Encoding ... 29
+3.3.4 The Impact of Frequency Noise Improvements on FDMA and FHSS..... 30
+3.4 Possible Future Upgrades to the FTS DeviCeS .........c:scseseesesseseeneeeeseseeneeensees 30
+3.4.1 Propagating Signals From Optical Lattice Clocks for Timing ............0+5: 31
+3.4.2 In Navigating and Mapping Interplanetary GeOids ..........cccceesnsnenseseenes 31
+4.0 Future Potential ........cccccccssseseeeeeceeesesneveeseesusneueneeeuaueeeeeeeueneusneeeeeseeueusuanaeasasuga 32
+4.1 Developmental ROadMAP......ccccccseseeeecececeeaueeeeeueusaueueueueeseuaueueususeuuaeaenensnanes 32
+4.2 HFGW Communications Predictions to 2050. .......scsccscseseseseeeeueeseneeeeeeeeneneees 33
+4.3 Interplanetary Navigation and Geoid Mapping to 2050 .......ccscsecssessesnenseeues 34
+4.4 Other Possible HFGW Applications. ........ccccccsccccecscscesccscenscensessensesnensesnensesaes 36
+
+UNCLASSIFIED / / BOR-O5EILGLAL-USE-Oh—
+
+UNCLASSIFIED/ /EQR.O5ELGidGSE-ONTY—
+
+--- PAGE 4 ---
+UNCLASSIFIED//iiOlil OiiiilCI0L Llili QPIL¥ 
+4.5 2050 and Beyond ............... ......... .................................... ........................... 37 
+5.0 Acknowledgements ............ ............................................................................ 37 
+6.0 References ..................................................................................................... 37 
+Appendix A: Nomenclature ................................................................................... 44 
+Appendix B: Li-Baker HFGW Detector ................................................................... 45 
+Appendix C: Perturbative Photon Fluxes Generated By High-Frequency 
+Gravitational Waves and Their Physical Effects .................................... 52 
+Figures 
+Figure 1. Communication Link Block Diagram ........................................................ 2 
+Figure 2. Change in Centrifugal Force of Orbiting Masses, Afct, Replaced by Change 
+Figure 13. Quantum Back Action as a Mechanism for Creating the Standard 
+Figure 15. Fractal Membrane Component of Li-Baker Detector Exhibited in Planar 
+Figure 24. HFGW Com Space Application Development Roadmap, Estimated 
+Figure 27. A GW Pair on Earth and on Mars for an Outer Planetary Reference 
+in Tangential Force, '1ft, to Achieve HFGW Radiation ............................... 3 
+Figure 3. Circular Resonator Geometry Using Infrared Excitation .......................... 8 
+Figure 4. Radiation Pattern Calculated by Landau and Lifshitz (1975) ................... 8 
+Figure 5. GW Flux Growth Analogous to Stack of N Orbital Planes ......................... 9 
+Figure 6. Stack of Circular-Wave-Guide Plates With Typical Molecule Jerks, Af's ... 9 
+Figure 7. Omni-Directional Nature of the HFGW Radiation Pattern ....................... 10 
+Figure 8. Predicted Relic GW Energy Density as a Function of Frequency ............. 11 
+Figure 9. Birmingham University HFGW Detector ................................................. 13 
+Figure 10. INFN Genoa HFGW Detector ................................................................ 13 
+Figure 11. The National Astronomical Observatory of Japan 100 MHz Detector ... 14 
+Figure 12. Detection Photons Sent to Locations that are Less Affected by Noise .. 15 
+Quantum Limit ..................................................................................... 17 
+Figure 14. Schematic of Ultra-Sensitive HFGW Detector ....................................... 21 
+Form .................................................................................................... 21 
+Figure 16. Conceptual SNR Fill Factors: Signal and Noise Components ................ 23 
+Figure 17. A Block Diagram of a Typical Link Budget ............................................ 24 
+Figure 18. A Proposed Near Earth Distribution of Frequency Time Standard ........ 26 
+Figure 19. HFGW Supplemented Remote Terminal Design .................................... 27 
+Figure 20. Acquisition Search Space Improvement Accruing From HFGW FTS ...... 28 
+Figure 21. The Impact of Phase Noise Improvements on Phase Shift Encoding ... 29 
+Figure 22. The Impact of Frequency Noise Improvements on FDMA and FHSS ..... 30 
+Figure 23. The Earth's Associated Lagrangian Points ........................................... 31 
+Timeline .............................................................................................. 32 
+Figure 25. A GW Pair on Earth as Used by a Lunar Mission ................................... 34 
+Figure 26. A GW Pair on Earth and on the Moon, as Used by a Mission to Mars .... 35 
+Pair ...................................................................................................... 35 
+UNCLASSIFIED/ /FOR OiiiilCl.t.k HSI!! eflti 
+iv
+
+--- PAGE 5 ---
+UNCLASSIFIED / / BOR-O5EILGLAL-USE-Oh—
+
+High-Frequency Gravitational Wave Communications
+
+Summary
+
+Fourteen laboratory high-frequency gravitational wave (HFGW) generators
+(or transmitters) have been proposed in the past 45 years in peer-reviewed
+journal articles.
+
+The most promising laboratory HFGW generators are those that utilize very
+large numbers of sub-microscopic radiation elements.
+
+The Piezoelectric Approach to HFGW generation is best for the proof-of-
+concept test and the proposed IR-excited Molecules Approach is best for an
+operational communications HFGW transmitter.
+
+Ten different HFGW detectors (or receivers) have been proposed since
+1978 and reported in peer-reviewed journal articles.
+
+Several different HFGW receivers can be utilized for communication, but the
+proposed Li-Baker detector (plans & specification development in Appendix
+B) shows the most promise (underlying concept in Appendix C). The Li-
+effect, upon which the Li-Baker detector is based, is not so new that it is
+untested in the literature. At least nine peer-reviewed research publications
+concerning the theory have appeared following the initial peer-reviewed
+article by Li, Tang and Zhao (1992),
+
+Because HFGW communications are carried on an extremely narrow beam
+directly through the Earth, there is a very low probability of interception.
+
+Theoretical results confirm that the Li-Baker detector is photon-signal
+limited, not quantum-noise limited—that is, the Standard Quantum Limit is
+so low that a properly designed Li-Baker detector can have sufficient
+sensitivity to observe HFGWs of amplitude A ~ 10-32 m/m.
+
+Utilizing the IR-excited Molecules HFGW generator approach and the Li-
+Baker detector, the theoretical information-transfer rate over 7,000 km of
+distance, beamed directly through the Earth, is about 1.9 x 10° bits per
+second.
+
+A means of propagating a Frequency Time Standard may be one viable
+early low-bandwidth application for HEFGW communications.
+
+HFGW sources on the Earth, the Moon, and Mars may act as reference
+standards for interplanetary navigation, with the advantage that they
+cannot be shielded or shadowed by planetary masses. Plasma interference
+seen at planetary entry would be eliminated, and precise charting of
+Lagrangian points would be possible.
+
+UNCLASSIFIED/ /EQR.O5ELGidGSE-ONTY—
+
+--- PAGE 6 ---
+UNCLASSIFIED//&Olil OiiiilCI0L Llili QPIL¥ 
+1.0 Introduction 
+1.1 INTRODUCTION 
+Of the applications of high-frequency gravitational waves (HFGWs), communication 
+appears to be the most important and most immediate. Gravitational waves have a 
+very low cross section for absorption by normal matter, so high-frequency waves could, 
+in principle, carry significant information content with effectively no absorption unlike 
+electromagnetic (EM) waves. Multi-channel HFGW communications can be both point­
+to -point (for example, to deeply submerged submarines) and point-to-multipoint, like 
+cell phones. HFGWs pass through all ordinary material things without attenuation and 
+represent the ultimate wireless system. One could communicate directly through t he 
+Earth from Moscow in Russia to Caracas in Venezuela-without the need for fiber optic 
+cables, microwave relays, or satellite transponders. Antennas, cables, and phone lines 
+would be things of the past. A timing standard alone, provided by HFGW stations 
+around the globe, could result in a multi-billion dollar savings in conventional telecom 
+systems over ten years, according to the recent analysis of Harper and Stephenson 
+(2007). The communication and navigation needs of future magneto hydrodynamic 
+(MHD) aerospace vehicles, such as the MHD aerodyne (www .mhdprospects.com), which 
+is high in electromagnetic interference, similar to plasma interfe rence seen at

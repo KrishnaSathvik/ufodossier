@@ -1,0 +1,47 @@
+[
+  {
+    "external_id": "DOW-UAP-D088",
+    "accepted": 67,
+    "distinct_dates": 30,
+    "episode_count": 67,
+    "input_rows": 67,
+    "disposition": "explained",
+    "reading": "Post-truncation compilation. Many rows, distinct dates. True multi-event document, not one sighting split into duplicates."
+  },
+  {
+    "external_id": "DOW-UAP-D082",
+    "accepted": 12,
+    "distinct_dates": 0,
+    "episode_count": 5,
+    "input_rows": 12,
+    "disposition": "explained",
+    "reading": "Western US witness packet. Linker V1 collapsed phase rows via continuity cues and kept the file inside the series, not one merged event."
+  },
+  {
+    "external_id": "FBI-UAP-D012",
+    "accepted": 14,
+    "distinct_dates": 8,
+    "episode_count": 14,
+    "input_rows": 14,
+    "disposition": "explained",
+    "reading": "Multi-incident FBI compilation. Rows stay separate unless an explicit continuity cue groups a phase."
+  },
+  {
+    "external_id": "DOW-UAP-D154",
+    "accepted": 9,
+    "distinct_dates": 1,
+    "episode_count": 9,
+    "input_rows": 9,
+    "disposition": "explained",
+    "reading": "Ruppelt presentation transcript. Multiple historical cases named in one talk; high yield is expected."
+  },
+  {
+    "external_id": "DOE-UAP-D004",
+    "accepted": 10,
+    "distinct_dates": 2,
+    "episode_count": 10,
+    "input_rows": 10,
+    "disposition": "explained",
+    "reading": "Green-fireball / meteorite file with distinct dates and places. High-yield alarm only; not a linker overmerge."
+  }
+]

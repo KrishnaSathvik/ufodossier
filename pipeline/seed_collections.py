@@ -104,12 +104,98 @@ COLLECTIONS = [
             "limit": None,
         },
     },
+    {
+        "slug": "western-us-2023",
+        "title": "Western US 2023 Series",
+        "standfirst": "The linked series of western United States reports from DOW-UAP-D078 through D083. These are separate events in one series, not one sighting.",
+        "sort_order": 8,
+        "query": {
+            "case_ids": [
+                "UNDATED-FBI-42C272",
+                "UNDATED-FBI-B8A3AB",
+                "UNDATED-FBI-C98A18",
+                "UNDATED-FBI-C390B7",
+                "UNDATED-FBI-031A45",
+                "UNDATED-FBI-CD3613",
+                "UNDATED-FBI-63F44E",
+                "UNDATED-OTHER-7258F0",
+                "UNDATED-OTHER-F8E57A",
+                "UNDATED-OTHER-B40E2C",
+                "UNDATED-OTHER-C1D19C",
+                "UNDATED-FBI-82CCDD",
+                "UNDATED-FBI-F4CE38",
+                "UNDATED-FBI-AF6C31",
+                "UNDATED-FBI-15D04A",
+                "UNDATED-FBI-FEDFE7",
+                "UNDATED-FBI-4557DC",
+                "UNDATED-FBI-2EAE94",
+                "UNDATED-FBI-42FC0E",
+                "UNDATED-FBI-578E28",
+                "UNDATED-FBI-4FF3BA",
+                "UNDATED-FBI-09122D",
+                "UNDATED-FBI-C4AD20",
+                "UNDATED-DOW-03C815",
+                "UNDATED-DOW-8BB3D1",
+                "UNDATED-DOW-0AF53F",
+                "UNDATED-DOW-75EF1D",
+                "UNDATED-DOW-94EB50",
+            ],
+        },
+    },
+    {
+        "slug": "green-fireballs",
+        "title": "Green Fireball Reports",
+        "standfirst": "Excerpts that name green fireballs, mostly over New Mexico in the late 1940s, drawn from the later PURSUE releases.",
+        "sort_order": 9,
+        "query": {
+            "case_ids": [
+                "1949-USAF-9D1046",
+                "1949-USAF-5C0132",
+                "1948-USAF-DDD5CA",
+                "1948-USAF-BFA2CC",
+                "UNDATED-DOE-80EBE8",
+                "UNDATED-DOE-BBFEBB",
+                "1946-USAF-380402",
+                "UNDATED-DOE-A60A48",
+                "UNDATED-DOE-5FC004",
+                "UNDATED-DOE-DA531C",
+                "UNDATED-USAF-B32231",
+            ],
+        },
+    },
+    {
+        "slug": "odni-test-range-narrative",
+        "title": "ODNI Test Range Narrative",
+        "standfirst": "Four excerpts from the senior intelligence official's account of orb encounters on a mountain test range.",
+        "sort_order": 10,
+        "query": {
+            "case_ids": [
+                "UNDATED-USAF-668927",
+                "UNDATED-USAF-8AFE60",
+                "UNDATED-USAF-B4E651",
+                "UNDATED-USAF-61107E",
+            ],
+        },
+    },
 ]
 
 
 def _run_query(sb, spec: dict) -> list[str]:
     """Run a collection query spec and return matching incident IDs."""
-    q = sb.table(spec["table"]).select("id")
+    case_ids = spec.get("case_ids")
+    if case_ids:
+        result = (
+            sb.table("incidents")
+            .select("id, case_id")
+            .in_("case_id", case_ids)
+            .eq("flagged", False)
+            .execute()
+        )
+        order = {case_id: index for index, case_id in enumerate(case_ids)}
+        rows = sorted(result.data or [], key=lambda row: order.get(row["case_id"], 10_000))
+        return [row["id"] for row in rows]
+
+    q = sb.table(spec["table"]).select("id").eq("flagged", False)
 
     if "or_filters" in spec:
         q = q.or_(spec["or_filters"])
@@ -134,24 +220,26 @@ def seed():
     for coll in COLLECTIONS:
         slug = coll["slug"]
 
-        # Idempotent: skip if slug exists
         existing = sb.table("collections").select("id").eq("slug", slug).execute()
-        if existing.data:
-            log.info("SKIP  %s (already exists)", slug)
-            continue
-
-        # Find matching incidents
         incident_ids = _run_query(sb, coll["query"])
         log.info("%-30s  %d incidents matched", slug, len(incident_ids))
 
-        # Insert collection
-        row = sb.table("collections").insert({
-            "slug": slug,
-            "title": coll["title"],
-            "standfirst": coll["standfirst"],
-            "sort_order": coll["sort_order"],
-        }).execute()
-        collection_id = row.data[0]["id"]
+        if existing.data:
+            collection_id = existing.data[0]["id"]
+            sb.table("collection_incidents").delete().eq("collection_id", collection_id).execute()
+            sb.table("collections").update({
+                "title": coll["title"],
+                "standfirst": coll["standfirst"],
+                "sort_order": coll["sort_order"],
+            }).eq("id", collection_id).execute()
+        else:
+            row = sb.table("collections").insert({
+                "slug": slug,
+                "title": coll["title"],
+                "standfirst": coll["standfirst"],
+                "sort_order": coll["sort_order"],
+            }).execute()
+            collection_id = row.data[0]["id"]
 
         # Insert junction rows
         if incident_ids:

@@ -1,0 +1,45 @@
+UNCLASSIFIED/ fFOA OFFIEIA~ W&li QPI~¥ 
+However, this isn't the entire story because there are many interesting quantum field 
+theoretic phenomenon that exist outside of that which arises in quantum corrections to 
+Newtonian gravity. In what follows, the recent discovery of antigravity forces that arise 
+within both QED vacuum fluctuation and nonretarded quantum interatomic dispersion 
+force theories in curved spacetime are reviewed. 
+ANTIGRAVITY VIA QUANTUM VACUUM ZERO-POINT FLUCTUATION 
+FORCE 
+Calloni et al. (Reference 61,62) explored the possibility of verifying the equivalence 
+principle for the zero-point energy of quantum electrodynamics (QED). They used semi­
+classical quantum grav ity theory to evaluate the net force produced by quantum 
+vacuum zero-point fluctuations (ZPF) acting on a rigid Casimir cavity in a weak 
+gravitational field. Their analysis assumed the rigid Casimir cavity to be a non-isolated 
+system at rest in the Earth's gravitational field, which is modeled using the standard 
+Schwarzschild spacetime metric geometry, so that they could evaluate the regularized 
+(or renormalized) stress-energy tensor, ('r,,:: I..,., 11 of the quantized vacuum 
+electromagnetic field between two plane-parallel ideal metallic plates lying in a 
+horizontal plane. (r.:::J .. encodes the Casimir Effect which has a negative energy 
+density and a negative pressure along the vertical (acceleration) axis between the 
+plates. {See Appendix A for more information about the Casimir Effect.) Their results 
+agreed with the equivalence principle because they showed that quantum vacuum ZPF 
+(that is, virtual quanta) do gravitate because the energy of each ZPF mode is redshifted 
+by the factor (-g00 )"' =[1-(2cM tc'r)J'" even though the modes remain unchanged. In 
+other words, the electromagnetic vacuum state in a weak gravitational field is 
+redshifted. This effect remains true for strong gravitational fields. 
+The resulting antigravity force (Fc asGrav) derived by Calloni et al. is (Reference 62): 
+F. _ 11:2A hg 
+CasGrav - 180cd3 
+(24) 
+:::; ( 1.89x 10-43); I 
+in Newtons (N), where A is the area of the plates and dis their separation. Equation 
+(24) states that a Casimir device in a weak gravitational field will experience a tiny 
+push in the upwards direction (that is, the opposite direction with respect to the Earth's 
+gravitational acceleration). This is consistent with the interpretation that the negative 
+Casimir energy in a gravitational field behaves like a negative mass (Reference 63) . 
+F ca,arnv is actually the sum of two separate force terms: the first term arises from the 
+Casimir energy encoded in (r.,: ),,. which is interpreted as the Newtonian repulsive force 
+on an object with negative energy, and the second term arises from the pressure along 
+the vertical (acceleration) axis which is interpreted as the mass contribution of the 
+spatial part of the stress-energy tensor. To evaluate F casGrav for the case of any 
+gravitating body of interest, one must replace gin Equation (24) with Equation (2). 
+11 The angular brackets denote the quantum (vacuum state) expectation value of the stress-energy tensor P ". Also 
+note that stress-energy is synonymous with energy-momentum. 
+UNCLASSIFIED/ /FOA OFFI&IAk Yi& 8,.k\f 
+19

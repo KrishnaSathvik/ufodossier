@@ -3,8 +3,10 @@ supabase>=2.5.0
 httpx>=0.27.0
 pypdf>=4.0.0
 playwright>=1.40.0
+curl_cffi>=0.7.0
+pymupdf>=1.24.0
+pytesseract>=0.3.10
+Pillow>=10.0.0
 
-# Only needed for tranches 2+ where we OCR locally instead of importing
-# pre-OCR'd text from the UFO-USA mirror. Leave commented for Release 01.
+# Optional alternate renderer (poppler). Prefer PyMuPDF for local OCR.
 # pdf2image>=1.17.0
-# pytesseract>=0.3.10

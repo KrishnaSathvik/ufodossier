@@ -1,0 +1,48 @@
+UNCLASSIFIED/ j FOR OFFICiltt tJ.!l! 8HLY 
+they are extremely vulnerable to quantum decoherence. Quantum decoherence is 
+caused by linear losses, and it is the main reason why the extremely strange quantum 
+phenomena allowed in quantum theory are very difficult to observe in practice. 
+However, the good news is that investigators have successfully controlled or 
+suppressed quantum decoherence to such a high degree that Schrodinger cat states 
+were experimentally observed and measured using optical homodyne tomography [55, 
+56]. Figure 7 shows the experimentally reconstructed Wigner functions for two 
+Schrodinger cat states that have different amplitude values ±qo. The observed peaks at 
+±qo seen in the figure are of small magnitude, so investigators euphemistically call 
+these "Schrodinger kitten states." As seen in the figure, the interference structure 
+halfway between the peaks displays the quantum superposition of both amplitudes, 
+showing rapid oscillations with a frequency given by the distance 2lqol of the 
+superimposed amplitudes. Also seen in the figure is that the two reconstructed Wigner 
+functions become negative (i.e., negative "probabilities"), indicating the nonclassical 
+behavior of Schrodinger cat/kitten states. 
+Beam Splitters 
+A very important device that is used to demonstrate the quantum nature of light is the 
+simple optical beam splitter. A large number of strange quantum effects have been 
+experimentally observed by splitting or recombining photons using a small cube of 
+glass. The beam splitter also serves as a theoretical model for other linear optical 
+devices such as interferometers, semitransparent mirrors, dielectric interfaces, wave­
+guide couplers, and polarizers. The beam splitter model can also be used to account for 
+the effect of absorption, mode mismatch, and other linear losses. 
+An ideal beam splitter is a reversible, lossless device in which two incident beams of 
+light may interfe re to produce two emerging beams [38]. For example, a dielectric 
+interface inside a cube or plate of glass splits a light beam into two. This situation may 
+be reversed by sending the two beams back to the cube (or plate) where they interfere 
+constructively to restore the original beam. However, if the phases of the two beams 
+are changed, then their mutual interference generates two emerging beams in general. 
+So four beams might be involved, two incident light modes and two outgoing light 
+modes, and the splitting of just one beam is a special case. Therefore, the most 
+general theoretical beam splitter model is a four-port device, which is simply a "black 
+box" with two input and two output ports having certain mathematical and physical 
+properties [38). See Figure 8 for a schematic of an ideal lossless four-port beam 
+splitter. 
+The beam splitter is quant um mechanically described by a simple unitary 
+transformation operator (or matrix), based on an analog transformation matrix in 
+classical optics, **** which mathematically transforms the two input light modes into the 
+two output light modes. This operator is unitary, which reflects the fact that a lossless 
+beam splitter conserves energy and that the total light mode intens ity at cii +ai a2 is an 
+invariant quantity. Since the incoming and the outgo ing light modes are both 
+independent bosonic modes, their annihilation operators must satisfy the follow ing 
+·•·• In classical optics, the components of the transformation matrix of a real beam splitter are simply the 
+transmissivity and reflectivity, which account for the transmission and reflection probabilities of photons passing 
+through the glass cube or plate. 
+UNCLASSIFIED/ {FOR OFFICIO ls Ulilii 8PU:¥ 
+24

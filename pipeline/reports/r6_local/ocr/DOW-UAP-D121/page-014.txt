@@ -1,0 +1,49 @@
+UNCLASSIFIED/ /POlt OFFl@IAL lel§li 8PUs:lf 
+LAMINATED 
+Laminated insulation has been used in some very demanding applications in which size 
+is of primary importance and very small repeating structures are required, including 
+high-energy -density capacitors, high-voltage transformers, and high-voltage 
+transmission lines or pulse-forming lines. Laminated insulation schemes make use of 
+the nonlinearity of electrical breakdown strength with thickness mentioned earlier for 
+plastics . Such schemes offer the possibility of significant improvements in state-of-the­
+art insulation, including a reduction in the size and an increase in the energy density of 
+high-voltage pulsed systems. As new and improved materials become available, the 
+possibilities for such improvements will become more substantial. 
+PLASTIC - PAPER-OIL 
+With appropriate attention to process details, very high dielectric strength is routinely 
+achieved using this lamination scheme. This is in fact the insulation method used in 
+most high-voltage and high -energy-density capacitors, with the addition of foil layers 
+on either side of the plastic (usually biaxially oriented polypropylene) to form the 
+capacitor. Use of corona-processed oil dramatically improves the utility of this insulating 
+scheme. The plastic is frosted on at least one side and, together with the very thin ( 1 
+mil or less) paper layer, allows the oil to penetrate throughout the volume during the 
+impregnation process. Without the oil, the tightly wound plastic layers can become 
+sealed around small volumes of air that will not be filled with oil, and breakdowns will 
+occur. Once the paper is impregnated with the oil, tests have shown that it attains 
+essentially the same dielectric strength as the oil. Often, vacuum and pressure are 
+alternately applied to ensure full penetration of the oil into the full volume. It is vitally 
+important that no bubbles or voids be left in the insulation volume. For this reason, 
+once the insulating volume is ready for impregnation, it should be left under vacuum at 
+slightly elevated temperature for at least 24 hours. This not only ensures air pockets 
+are removed but also allows the removal of surface moisture from the plastic and 
+paper, which will also contribute to voltage breakdown. The paper not only aids 
+impregnation but also serves as a path for residual charge to dissipate between voltage 
+applications. The plastic has a very high surface resistiv ity, and some residua l charge 
+can become trapped on the surface after each discharge, resulting in charged regions of 
+different magnitudes and even polarit ies, which can eventually lead to dielectric failure. 
+Using this insulation scheme with biaxially oriented polypropylene as the plastic and 
+Shell Diala AX as the impregnating oil, average dielectric strength of more than 2.1 
+kV/mil and operating voltages higher than 1.3 MV have been attained in large volumes. 
+PLASTIC - PAPER - EPOXY 
+Since the oil is the weakest dielectric medium in the preceding insulation scheme, it is 
+reasonable to assume that replacing it with a stronger dielectric medium can improve 
+the overall dielectric strength. Another advantage of this scheme is that in the end we 
+would have a solid insulated volume with the advantages ment ioned earlier. Thus far, 
+only smaller volumes (1-2 gallons) have been successfully insulated with this scheme . 
+The problem is that the increase in viscosity over the oil, although small, makes it more 
+difficult to ensure that fu ll impregnation is achieved. Meanwhile, the programs for which 
+this scheme is desired insist on near ly 100-percent certainty of success. The most 
+successful process to date involves using quarter-inch sections of 1-mil paper followed 
+by quarter-inch open sections for each layer. This is a tedious task in large volumes but 
+UNCLASSIFIED/ fFOA OFFICiIAk Wlilii 0PUs:¥ 
+6

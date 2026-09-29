@@ -1,0 +1,45 @@
+UNCLASSIFIED/ /FOR OFFl@IAL ~81: 8HLY 
+3.2 STT EXPERIMENTS 
+Section 3.1 introduced the physics of STT in magnetic nanosystems. We have seen that 
+a high-density electrical current can result in torques on magnetic elements of the 
+system . These torques may be used to control and manipulate the system's magnetic 
+state . However, the resulting behavior of the system can differ significantly from case 
+to case, depending on particular conditions of observation. For instance, in modest 
+external magnetic fields, magnetization of a small element can be repeatedly reversed 
+between two stable configurations, while at higher fields, where the reversal is 
+energet ically unfavorable, the moment can be set into precession at a very high... 
+frequency . To understand details of what happens with a magnetic moment S in a 
+particular situation, one can use Newton's Second Law. 
+... ... 
+For S this would be the Landau-Lifshitz-Gilbert equation, where the rate of change of S... 
+is set equal to the net torque acting on S : 
+Equation 1: 
+Here the first term on the right is the... 
+torque on a magnetic moment S in an 
+~ 
+effect ive magnetic field B eff, (including 
+applied, demagneti zing, anisotropy, and 
+other fields), with y the gyromagnetic STT 
+• • 
+ratio; the second term is a 
+phenomenological damping term 
+introduced by Gilbert, with a. the Gilbert 
+damping parameter; ~e thir~ term is 
+the SST where small s· and * are unit Damping 
+vectors along and the polarizer ' *, I 
+is the current, µs is the Bohr magneton, 
+e is the electron charge, and 11 is the 
+spin-polarization factor. 
+The diagram in Figure 6 shows the 
+directions of the three torques from 
+Equation 1. Note that, depending on the 
+polarity of applied current, the STT Figure 6. liorques on a Magnetic Moment in a 
+torque can be either in the same or Magnetic Field and Subject to an Electrical Current 
+opposite direction as the damping 
+torque . In the former case, STT will effectively result in an increased damp~ng for any 
+magnitude of the applie~ current and suppress any possible excitations of from its 
+equilibrium state along B eff. If, however, the STT torque is opposite to the damping, 
+we can distinguish two situations . For currents below a critical current, where STT is... ~ 
+small compared with damping, S spirals toward B eff (red traj ectory in Figure 6). For 
+UNCLASSIFIED/ /&Olil OfifilCI\L: Wii OPIL:¥ 
+7

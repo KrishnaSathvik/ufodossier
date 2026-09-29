@@ -1,0 +1,46 @@
+UNCLASSIFIED/ f FOA OFFiliCili11JL W&li O~ILY 
+Chapter One: Definition of Topic and Domain of this Study 
+The objective of the overall program for which this paper has been prepared is to 
+understand the physics and the engineering of advanced aerospace weapons system 
+applications ...into the future, e.g., from now through the year 2050. This study 
+addresses the clinical medical signs and symptoms and biophysics of injury known and 
+expected from unintended exposure to anomalous systems. 
+A. WHAT IS ADDRESSED IN THIS REVIEW 
+Advanced aerospace technologies, as with current technologies, often involve exposure 
+of humans to exceptionally strong, and in the future to likely exotic, fields. This review 
+is meant to cover the clinical medical injurious effects, including harmful psychiatric/ 
+psychological effects on the human organism that may be induced. Specifically, we are 
+interested both in the more narrow scope of certain near-field heating and burn effects 
+on "bio logical tissues" [usually human] and also systemic or internal medical/ 
+neuro logica l / psychiatric inj ury or sequelae, usually modulated by neural tissue. 
+"Near Field" is a term we inte ntionally leave as subjective. That is, we include effects of 
+possible exposures that are within sight of the injured, and which are acute [within 
+hours ] or subacute [within days], but not longer chronic effects. Our work ing distance 
+from the putative emitter is '!Os of meters, and injury times are less than 10 minutes. 
+We thus focus on the acute and subacute high-level, not chronic low-level exposures 
+and effects. The most important bandwidth of interest is the range with tissue effects 
+on humans: from about 300 kHz to 300 GHz; that is, from about 1 km to 1 mm wave 
+lengths . 
+In particular, we note that many of the effects on tissues {as currently with all 
+environmental exposures of Non-Ionizing Electromagnetic Radiation (NIEMR), toxic 
+effluents, and noise/ thermal effects} are initia lly incorrectly adduced to be 
+"subclinical" until chronic effects of low-level effects and/or accumulative doses are 
+recognized . We will be particularly cognizant to not miss this subtlety in determining 
+harm to persons in the near-field of possible advanced aerospace systems. We will not 
+(except by reference) discuss ionizing radiation tissue effects, unless they are adduced 
+to be "Mixed Field", e.g. the Cash-Landrum case, vide infra) . 
+Therefore, since the potential deployment of advanced weapons technology is 
+subsumed under this topic, of interest are not only side effects associated with possible 
+lift/propulsion field mechanisms of advanced craft architectures, but also effects from 
+advanced weapons systems as well. These include but are not limited to beam 
+weapons, and active denial systems (ADS), including high powered microwaves (HPM). 
+B. WHAT IS NOT ADDRESSED IN THIS REVIEW 
+We are aware of claims that some new and emergent systems may be intended to 
+cause harm, and thus even be an intended weapon system. We make no attempt 
+herein to validate any claims. There is ample precedent in US history for utilizing a 
+separate analytic framework for Verification and Compliance issues, as in the lag in our 
+recognizing Former Soviet Union and Chinese systems utilizing infrasonic, laser­
+blinding, and NIEMR weapons that went unappreciated by our intelligence agencies for 
+two decades. Historically, the IC (Intelligence Community) adduces verification first, 
+UNCLASSIFIED/fFOA OFFICIAL W&li ONLY 
+1

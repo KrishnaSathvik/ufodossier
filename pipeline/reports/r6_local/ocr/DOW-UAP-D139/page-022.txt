@@ -1,0 +1,39 @@
+• • 
+UNCLASSIFIED/ fFOA OFFI&il.t..k Y&& 8Ptk\f 
+through an opt ical cavity resonator made of a lithium niobate (LiNbQ3) crystal that is 
+shaped like a cylinder with rounded silvered ends to reflect light. The resonator will act 
+to produce a secondary lower frequency light beam in which the pattern of photons is 
+rearranged into pairs. The squeezed light beam emerg ing from the resonator will 
+contain pulses of negative energy interspersed with pulses of positive energy. 
+In this concept both the negative and positive energy pulses are ~10-15 second 
+duration. In princ iple a set of rapidly rotat ing mirrors could be arranged to separate the 
+positive and negative energy pulses from each other. The light beam would be set to 
+strike each mirror surface at a very shallow angle while the rotat ion would ensure that 
+the negative energy pulses would be reflected at a slight ly different angle from the 
+positive energy pulses. A small spatial separation of the two different energy pulses 
+would occur at some distance from the rotat ing mirror . Another system of mirrors 
+would be needed to redirect the negative energy pulses to an isolated location and 
+concentrate them there. See Figure 9 for an illustration of this concept. 
++ 
++ ). 
++ 
+Positive Energy + r, 
++ PulsesRotating Redirector +
+Mirror Sy&.em 
+Laser & -+-+-+-
+LiNl:DJ •IIIIJ 
+Resonator Alternating Pulses of 
+Negative& Positive 
+Energy 
+Negative Energy Concentrated 
+Pulses Negative Energy 
+Figure 9. Conceptual Squeezed Light Negative Energy Generator 
+The rotating mirror system can actually be implemented via non-mecha nical means. A 
+chamber of sodium gas is placed within the squeezing cavity and a laser beam is 
+directed through the gas. The beam is reflected back on itself by a mirror to form a 
+standing wave within the sodium chamber. This wave causes rapid variations in the 
+optical properties of the sodium thus causing rapid variat ions in the squeezed light so 
+that one can induce rapid reflections of pulses by careful design (Reference 41). An 
+illustration of this is shown in Figure 10. 
+UNCLASSIFIEQ { {FOR OFFICIAL Y&& 8HLY 
+14

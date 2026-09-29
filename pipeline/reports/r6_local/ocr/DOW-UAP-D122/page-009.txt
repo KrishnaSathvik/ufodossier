@@ -1,0 +1,43 @@
+-----
+UNCLASSIFIED/ /FOR OFFl@IAL YSE OHL¥ 
+direction from the propagation. The clearest and most advanced form of this concept is 
+the comp lementary media invisibility cloak.3 Here, an optical antiobject is placed beside 
+the object one wishes to make disappear. The antiobject should be m ade of a 
+negatively refrac t ive materia l that exactly compensates the opt ical appearance of t he 
+object. An image is cont ained in the deformatio ns of light-wave fro nts caused by the 
+imaged object . If these deformatio ns are reversed, the image disappears, and t he 
+object becomes tra nsparent - that is, invisib le. The optica l ant iobject must be tailored to 
+the object and placed precisely at t he correct distance-that is, the distance where it is 
+made to cancel the image of t he object. The more comp lex t he object is, the more 
+complex t he antiobject must be for reversing all the scatterings of light. Such cloaking 
+at the distance cannot be instantaneous, as the light scattere d by both object and 
+antiobject must settle to a stationary state where it becomes synchronized. A stat ionary 
+light field has only one color. So, in pract ice, these forms of tra nsparency will work only 
+for small objects and for small parts of the spectrum and not for large objects in many 
+colors. 
+a) b) 
+µ 1mob' 
+-L 0 L -L 0 L 
+c) d) ..,, 
+. ,, 
+• 
+I 
+, ,
+I , , ,I 
+II I I 
+I I ' 
+I 
+I 
+,
+I 
+I ,I ,I ' I 
+I,, ., 'µob ,
+- ____ ,,,. -·· --· 
+Figure 5. Complementary Media Invisibilit y Cloak: (a) The slab of empty space x with O < x < Lis optically 
+canceled by a slab of negat ive-index material in -L < x < 0. (b) The same cancellation effect works with an object 
+in O < x < L if the negative-index slab contains an antiobject . (c) A spherical shell b < r < c is optically canceled by 
+a negative -index s hell a < r < b. If the corer< a is optically equivalent to a sphere of radius c, then this device ls 
+invisible. (d) The same as (c), but with an object in the canceled shell b < r < c. The object is cloaked: both it and 
+the cloaking sphere are invisible . 
+UNCLASSIFIED/ /POlt orrlCIJ!!tt 05E: 014[ I 
+4

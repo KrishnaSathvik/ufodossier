@@ -1,0 +1,30 @@
+UNCLASSIFIED/fFOR. QFFIEIA.L: Ulii Qt!! X 
+Re = viscous forces= VD (3)
+inertial forces v 
+In this expression, V is the velocity of the projectile, D is its effective diameter, and v is the 
+kinematic viscosity of the fluid. As flow passes over the projectile in Figure 1, viscous forces 
+are especially strong near the surface where the velocity changes from zero at the surface of 
+the projectile to the free stream velocity. 
+Direction of Flow 
+.---- Streamlines 
+<- _ ___ ____ Velocity D ibution within 
+Boundary Layer -- - - - - - the Bounda ayer 
+-------,, , 
+' ' ' ' 
+\ 
+\ 
+\ 
+\ 
+I 
+I 
+Figure 1. Boundary Layer Development in Subsonic Flow About a Projectile. 
+The region where this transition in velocity occurs is called a "boundary layer," which grows 
+in thickness as flow moves along the surface from the nose to the rear of the projectile. 
+The boundary layer forms around the surface of the projectile and "separates" from the 
+surface at the back end of the projectile. Pockets of fluid spill off of the back end of the 
+projectile and form rotating pockets of fluid called Strauhal eddies or vortices. These eddies 
+"shed" from the surface at a rate that is strongly dependent upon the Reynolds number in 
+the flow. Figure 2 demonstrates that these eddies form a "wake" downstream of the 
+projectile that can extend far into the flu id. 
+UNCLASSIFIED//EQA: QlililEl.t.L: W&&: O,.L'l 
+4

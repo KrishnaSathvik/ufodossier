@@ -1,0 +1,53 @@
+UNCLASSIFIED/ /FOR. 8FFI@IAL l::181: 8HL'I 
+E 
+C 
+11 
+IUo2Ll 
+u 
+<l-........, 
+V 
+I I 
+II 
+I 10 11 loll 
+- R 0 R r 
+Figure 3. Left; Energy diagram for quantum dot in single-layer graphene. Right; Bound state 
+levels as function of dot radius . 
+Graphene Disc in Single-Layer Graphene 
+Single layer graphene is attracting attention because its charge carriers are massless, 
+relativistic particles (56). The relativistic effects result from a unique, zero-gap band 
+structure that leads to quantum states described by the two-component Dirac-Weyl equation. 
+This allows relativistic physics to be explored in a solid state system and has many potential 
+applications ranging from high frequency electronics (57) to quantum computing (58). 
+Graphene dots can be formed from external potentials or nanocrystals but this work is only 
+concerned with external potentials. The physics of nanocrystals has been discussed recently 
+(59) (60) and is different from the situation treated here. The quantum states, in external 
+potentials are quasi-bound: they have a low amplitude oscillatory tail and are similar to the 
+scattering resonances stud ied in undergraduate physics. A perpendicular magnetic field 
+enhances the localization of these states (61) and true bound states can occur in graphene 
+dots defined by a spatially non-un iform field (62). So a magnetic vector potential has a 
+localizing effect that tends to cancel the delocalizing effect of a scalar potential. 
+(a) 
+800 
+5' 
+E 
+-
+-::.";l, 
+550 
+500 
+450 
+400 
+dl/dVg1(nS) /[pA](b)
+0 0 , ◄ 0.8 
+1900 
+1880 
+>E 
+- 1860 
+>~ 
+1&40 
+1820 
+300 400 500 600 1380 1400 1420 1440 1460 1480 
+V91 [mV] V91 [mV] 
+Figure 4. (a) Color scale plot of the transconductance. (b) One of the vertices of the honeycomb 
+structure at Vsd = 800 1,1V: Charge stability diagrams for series-coupled quantum dots. 
+UNCLASSIFIED/ /POft. orr1e1s11t l::181: 8,.LY 
+16

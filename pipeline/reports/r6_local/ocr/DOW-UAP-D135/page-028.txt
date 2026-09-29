@@ -1,0 +1,45 @@
+UNCLASSIFIED/ fFOA OFFIEIAk W&i 0Pilk¥ 
+( 6q; ai )( g) (29)= - - 4nc:0 r6 c2 
+2 
+~ ( 2.44 X 10-57 ) q: 
+r 
+in Newtons, where ao is the Bohr radius (5.292 x 10-11 m), r is the radial distance 
+between two atoms, and u:;,~ is the flat spacetime van der Waals (interatom ic potential) 
+interaction energy to second-order in quantum perturbation theory. Pinto used Equation 
+(29) to estimate the gravity-induced self-acceleration ( a1;fl) for the case of two hydrogen 
+atoms in their ground state at r = 20ao, and found that a lir1.H = F vdworavl2 mtt z 4 x 10-15 m/s2 
+(mH = mass of hydrogen atom). For the case of two positronium (Ps) atoms, he found 
+that GJift,Ps z 8 X 10- 12 m/s2 . 
+Pinto's strategy is to dramatically magnify F vdWGrav to a large enough magnitude that it 
+becomes viable for propulsion applications. He claims that this can be done by 
+manipulating u:;:v ,which depends on the atomic polarizability and is strongly affected 
+by the quantum state in which the atoms are prepared. Interatomic forces can also be 
+manipulated by means of external electromagnetic fields that can transform van der 
+Waals forces into a first-order interaction. He evaluated a number of schemes and 
+settled on the following techniques for manipulating dispersion forces: 1) excitation of 
+polarizable atoms to Rydberg states in external time-dependent electric fields, 2) 
+polarizability resonant enhancement by laser radiation, and 3) laser-induced near-zone 
+orientational average of the dispersion force. Also, in order to generate a macroscop ic 
+self-lifting force, it will be necessary to apply these techniques to a cluster of trapped 
+atoms because the total self-lifting force acting on the center-of-mass of a trapped gas 
+composed of N. ident ical polarizable atoms is N.2 times the self-lifting force acting on a 
+single pair of interacting atomic dipoles. Item 1 has a two-part contribution to the 
+magnification of the self-l ifting force: 1) one part from a2(ro)E2 due to the effect of 
+external time-dependent electric fields on atomic polarization, where a(ro) is the atomic 
+polarizability as a function of the electric field frequency ro and Eis the electric field 
+intensity; 2) another part from using highly-excited Rydberg atoms (with principal 
+quantum number nr >> 1 and Bohr radius an= np2ao ) whose polarizability scales as n p7, 
+Item 2 leads to a magnification by factors of a(ro) /ao z 103 - 105 (ao is the static value of 
+the polarizability) via detuning of the (laser) excitation radiation frequency from the 
+nearest atomic transition resonance of the atoms in the trapped cluster. Item 3 leads to 
+a further magnification due to the effect of the incident laser radiat ion on the dispersion 
+force being averaged over all directions, which changes the interatomic potentia l (cx: 
+l/r6) into a gravity-like 1/r potential. 
+Pinto's study suggests that the combined effect of items 1 - 3 will magnify the self­
+lifting force to the point where a cluster of trapped atoms will not only hover 
+unsupported in the Earth's gravitational field, but will also generate an additional 
+upward thrust. On the basis of extensive theoretical and empir ical studies, along with 
+the typical parameters for laboratory laser and optical atomic matter trap technologies, 
+he estimates that a1ir1 ~ 1.5- g (in the upward direction). Trapped atom gravimeters can 
+UNCLASSIFIED/ /FOA OFFI&IAb Yi&: 8,.bY 
+23

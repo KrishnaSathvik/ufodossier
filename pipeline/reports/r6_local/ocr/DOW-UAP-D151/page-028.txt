@@ -1,0 +1,19 @@
+UNCLASSIFIED/ j FOR OFFICIAL tt.!I!! 8HLY 
+Chapter 6: Conclusions 
+There is a lack of research in the area of cognitive limits on the number of spacecraft 
+one pilot could control given any mission scenario. Two models for examining what are 
+similar activities are air traffic control and remote piloting of multiple unmanned 
+vehicles. We have shown the research progress in both areas, and the cognitive limits 
+on the number of craft that can be simultaneously controlled are 16 for simple 
+destination selection, 7 for moderately complex piloting and/or mission task completion, 
+and 4 for complex heterogeneous craft. Future research may increase the automation 
+component of aircraft and mission control, but there is no evidence to date that a 
+complete mental picture can be maintained, even with external working memory 
+augmentation, for more than about 16 objects at one time. 
+We have additionally shown that physiological variables can be objectively employed to 
+indicate overload. Nominal success has been achieved in classifying physiological states 
+near high workload and thus able to predict and thus possibly prevent overload. We 
+expect this classification will be achieved with near perfect accuracy within five years of 
+specific studies being commenced. 
+UNCLASSIFIED/ /EAR OFFJCJ0~ U&& 8HL'I 
+23

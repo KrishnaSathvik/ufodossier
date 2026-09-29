@@ -1,0 +1,51 @@
+UNCLASSIFIED11FOR. 8FFl@IAL tt.!! e"t I 
+of some CNT types. Carbon nanotubes have been a rich area of study for many 
+applications, which has translated to a broad understanding of synthesis techniques to 
+produce CNTs with tailorable properties. 
+Graphene can be thought of as a sheet of graphite, either a single layer or a few layers 
+thick. The two-dimensional nature of graphene leads to extremely high electron 
+transport across the surface, interesting magnetic properties, high strength, and a large 
+accessible surface area.18 Graphene is generally made by exfoliation/separation of 
+graphite or grown by CVD processes. Derivations from both of these methods can 
+produce single-layer graphene or few-layer graphene. These methods include, but are 
+not limited to, CVD methods, epitaxia l growth, solvothermal synthesis, micromechanica l 
+exfoliation, and colloidal synthesis. 19 Graphene has generated an enormous amount of 
+attention due to its potential for transforming electronics. A number of approaches to 
+graphene synthesis are being used that consider purity, scalability, and cost. 
+Carbide-derived carbons are a unique class of porous carbons with extremely fine 
+control over pore size. 20 These porous carbons are derived by chlorination of metal 
+carbides at very high temperatures. At temperatures of 500-1000°C, metals and 
+metallo ids are removed as chlorides, leaving behind a finely tunable nanoporous carbon. 
+These porous carbons have a pore-size distribution that is tunable within 
+0.05 nm. The extremely accurate tunability has allowed these systems to serve as a 
+model for the relationsh ip of pore size and capacitance, thereby allowing for design of 
+materials to be tailored for maximum capacitance within a specific system. The local 
+maximum in capacitance is dependent on the ion salvation sphere, which is a product of 
+the electrolyte ion, solvent, and interaction with the pores of the electrode. These 
+findings will lead to new electrode materia ls and designs. 
+Activated carbon and other porous carbon derivatives are commonly used for 
+symmetric ultracapacitors. Metal oxides such as ruthenium oxide and conductive 
+polymers replace one of the electrodes to create an asymmetric system. Asymmetric 
+electrodes greatly increase the storage capacity of ultracapacitors. These are a different 
+class of capacitor, as they store their charge both in the electrica l double layer and 
+using a surface redox (faradaic) reaction (in the same manner as a battery). While 
+these undergo electron transfer reactions, they behave in a capacitive fashion. Often 
+termed pseudocapacitor, this class of materials includes a variety of metal oxides and 
+conductive polymers. The capacitance of an asymmetric electrode is twice that of a 
+symmetric design. The electron transfer electrode essentially has a fixed potential, 
+whereas the potential of the carbon electrode changes with state of charge. Additional 
+storage capacity arises from the higher working voltage, due to the different rest 
+potentials of the different electrodes. 
+Asymmetric electrodes are becoming increasingly common due to the increased energy­
+storage capability. As energy is proportional to the voltage squared, the higher 
+operating voltage has profound effects on the capacity. Ruthenium oxide (RuO2) has 
+been shown to give capacitance of as high as 1300 F/cm3• By comparison, 
+carbonaceous materials in an aqueous electrolyte have a capacitance of 110-125 F/cm 3. 
+There are many additional metal oxides being investigated for insertion into the 
+ultracapacitor system. Many of these have their roots in lithium ion battery cathode 
+materials. As ultracaps gain wider acceptance, market size is increasing rapidly and is 
+expected to grow at an increasing pace. Investigations are being conducted into 
+alternative metal oxide systems to ensure that cost, supply, and performance can be 
+met on a global scale. Manganese oxide (MnO2) and nickel metal oxides/hydroxides are 
+UNCLASSIFIEO/;LFOA OFFI&il:.l.b YS& OrtLY 
+11

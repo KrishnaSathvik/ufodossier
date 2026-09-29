@@ -1,0 +1,47 @@
+UNCLASSIFIED/ /FOR. OFFI@IAL l:181: 8HLY 
+Appendix A: Historical Perspective 
+The four reports listed below and summarized in this paper are as applicable today as 
+they were when they were released in 1964 and 1965: 
+• Robert R. Stephens; "Mission Requirements of Lifting Systems-Engineering Aspects"; 
+Volume I Condensed Summary; McDonnell Aircraft Company Report B831 for NASA 
+Manned Spacecraft Center; contract NAS-9-3562; August 1965. 
+• Robert R. Stephens; "Mission Requirements of Lifting Systems-Engineering Aspects"; 
+Volume II Mission Analysis - Spacecraft Selection - Performance Analysis; 
+McDonnell Aircraft Company Report B831 for NASA Manned Spacecraft Center; 
+contract NAS-9-3562; August 1965. 
+• Robert R. Stephens; "Study of the Engineer ing Aspects, Mission Requirements of 
+Lifting Systems"; Summary of Significant Results and Figures from Report MAC­
+B831; McDonnell Aircraft Company Report B947 for NASA Manned Spacecraft Center; 
+contract NAS-9-3562; August 1965. 
+• "Manned Hyperson ic Test Vehicle Study"; McDonnell Aircraft Company Report A9727 
+for United States Force; contract AF(33)600-2751; August 1964. 
+These reports describe an operational space station with an operationa l spacecraft fleet 
+to support the orbita l station in space. The term operational is used because the 
+concept was not for a research and development spacecraft like an X-15 but a 
+transportation system that moved resources to and from space, much like an 
+operat ional FedEx or UPS operation . The work in the mid 1960s by a number of 
+aerospace companies set the stage for t he discussion of the development of the 
+spacecraft configurat ions based on requirements and the propulsion systems that 
+emerge to meet those requirements. These four reports are representative of the 
+approach and designs that were prevalent in that period. Those involved with 
+developing the orbital station and its supporting fleets of operat ional spacecraft were 
+fully convinced that the industrial capability, mater ials, and resources perm itted 
+successful accompl ishment of the task in 1962. The space station goals and the 
+spacecraft required to meet those goals are especially interesting in light of today's 
+discussion about crew rescue vehicles and the crew complement that should staff the 
+International Space Station . What is different was that the station was a rotating 
+station to provide a fraction of the Earth's gravity and was fabricated primarily from 
+empty Saturn rocket components sent to orbit that were fitted wit h provis ions to make 
+them habitable. 
+The purpose of the study was to establish the operational requirements, spacecraft 
+configuration, and requirements. The principal support mission was designed around a 
+rotat ing space stat ion constructed from Saturn 1B components and Saturn 1B lifted 
+components. The station was designed for 20 to 27 persons, each on the stat ion for a 
+6-month period . The nominal life of a given research program was assumed to be as 
+long as 5 years. The spacecraft that supported the orbital station wou ld be designed to 
+carry 9 to 12 persons or materials to resupply the station. For that goal, a 7-metric ton 
+payload (15,435 lb) was deemed sufficient. The study identified that each replacement 
+person would have a 994-lb (450-kg) resource supply payload to accompany each 
+crewmember. For a 12-person crew-replacement mission, the crew-replacement 
+UNCLASSIFIED/ ,,roA. OlililCI aIs. flili Qllls.¥ 
+43

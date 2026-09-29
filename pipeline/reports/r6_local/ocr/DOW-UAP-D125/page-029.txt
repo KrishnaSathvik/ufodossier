@@ -1,0 +1,38 @@
+UNCLASSIFIED/ /FOR OFFl@IAL ~81: 8HLY 
+a) b) 
+~ I 
+Reflector / 
+Figure 3.1. Two Types of Cylindrical IECs. The hollow cathode on the left (often termed the C-Device) and the 
+2-D gridded version on the right, often just called "the" cylindr ical IEC. 
+The hollow cathode "C-Device" of Figure 3.1 has an insulated vacuum chamber with an 
+alternating series of hollow cylindrical cathodes and anodes spaced along a common 
+longitudinal axis. Biased end plates serve as charged particles "reflectors" . The anodes, 
+cathodes and end plates are biased to steady state and/or pulsed voltages, depending 
+on the operational mode. This configuration is used to initiate a plasma discharge, 
+resulting in electrostatic confinement of fusion fuel ions in both the axial and radial 
+directions (Reference 3.4). Present operation produces about 107 n/s (D-D) steady 
+state while for pulsed output 109 n/s (D-D) is obtained. 
+In "the" cylindrical version 2-D IEC (Figure 3.1), a cylindrical cathode grid is placed with 
+its axis concentric with the axis of the surrounding vacuum vessel. This is then, in 
+effect, a 2-D version of the spherical IEC. It operates by convergence of ions created 
+between the grid and wall onto a small volume along the axis, hence has sometimes 
+been called the "Radia l Converging IEC (RC-IEC)". As already noted, the basic physics 
+of this version was originally studied in pioneering work by T. Dolan in 1970. However, 
+the concept lay dormant until revised and upgraded several decades later with 
+improved grid designs for neutron production by UIUC workers . 
+ELECTRICALLY - DRIVEN IEC JET THRUSTER 
+The use of an !EC design for space propulsion was originally proposed by R.W. Bussard 
+(Reference 3.6) . (His concept was for a high thrust scram jet device. While very 
+attractive, this concept (and Miley et al.'s "Spaceship I & II concepts discussed later) 
+are for far-term use. Here we discuss near-t erm electronically driven IEC designed for 
+space applications. In this case, electrical power would come from a solar panel. 
+The IEC jet thruster is intended as an ultra-maneuverable space thruster for satellite 
+and small probe thrust operations . The IEC Jet design potential offers a unique 
+capability to cover a wide range of powers (few Watts to Kilowatts) with good efficiency 
+while providing a plasma jet that can start with a large diameter but be narrowed 
+directionally to focus on targets. The IEC thruster uses a spherica l configuration, 
+wherein ions are generated and accelerated towards the center of a spherical vacuum 
+chamber. A virtual cathode forms in the high-density central core region, and combined 
+with a locally distorted cathode grid potential field, extracts accelerated ions into an 
+UNCLASSIFIED/ /5i0A OFFIQlal.k W&E or•tY 
+22

@@ -1,0 +1,55 @@
+UNCLASSIFIED / /F6R-OFFECEAL USE ONET
+
+and in devices such as the gliding arc, the plasma evolves from near-equilibrium
+to highly nonequilibrium during each of the periodically repeating cycles. In
+shock and boundary layers during reentry, the plasma is near thermal
+equilibrium while being diffuse. The primary reason for this behavior is that the
+ionization in those shock and boundary layers exists without any electric field
+and thus is not subject to arcing instabilities.
+
+Plasma Features
+
+What features or properties make weakly ionized plasmas interesting for
+propulsion and aerodynamic applications? The most obvious feature is heating—a
+consequence of Joule dissipation in an electrically conducting medium placed in
+an electric field. As a heating element, plasma has important advantages
+compared with conventional heaters. For example, even a surface electric
+discharge can effectively heat the gas flow much farther from the wall than a
+wall-imbedded conventional heater would. Microwave and laser beams can
+create plasmas and heat the gas even far from any surfaces, and the volume and
+shape of the heated region can, in principle, be adjusted. Since heated regions
+can significantly alter the flow by making the gas flow mostly around them,
+plasmas can form switchable, controllable, and tunable virtual bodies or
+surfaces. Such virtual surfaces can be deployed on demand for drag reduction,
+aerodynamic control (when applied asymmetrically), and optimization of engine
+inlet performance, to name a few. It is the localized and transient deployment of
+plasma virtual surfaces that results in the most interesting and complex
+interactions with gas flows while saving energy compared with large-volume,
+steady-state plasma utilization, and thus is especially promising for applications.
+
+Another useful application of plasma heating is ignition. This may seem trivial;
+after all, spark plugs in conventional internal combustion engines are well-
+developed thermal plasma devices. However, thermal plasma ignition for
+scramjet engines is not that simple, since the ignition system would have to
+prevent the plasma from being easily blown away by the supersonic flow, and
+even if this problem is resolved, if not properly (and quite ingeniously) designed,
+the igniter would cause an unacceptably strong perturbation to the flow and loss
+of the stagnation pressure and would require extremely high power. As an
+example, plasma igniters based on subcritical microwave discharges are quite
+sophisticated.
+
+Besides heating, the presence of charged particles is another obvious, and very
+important, feature of plasmas. Charged particles can be acted upon by electric
+and magnetic fields, and this action can be transferred to the bulk gas by ion-
+molecule collisions. Thus, magnetohydrodynamic (MHD) and
+electrohydrodynamic (EHD) interactions can be utilized to exert forces and to
+decelerate or accelerate the gas in both inviscid core flows and viscous boundary
+layers. The magnitude of such interactions depends on the ionization fraction and
+the magnetic or electric field strength.
+
+MHD Interactions
+
+The ionization fraction can be quite high in shock and boundary layers at very
+high Mach numbers (such as those in reentry flight), or just downstream of
+
+UNCLASSIFIED (POR OPPICTAL USE ONE

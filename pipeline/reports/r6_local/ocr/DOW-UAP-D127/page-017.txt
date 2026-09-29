@@ -1,0 +1,30 @@
+UNCLASSIFIED/ /FOR OFFI&IAk Wlii QPU,¥ 
+(]'' 
+surprised to find out that it equals (N) = e11 e2 ::::: 4589 .559 ~4590 communicating 
+civilizations now in the galaxy. This is the important number, and it is HIGHER than the 
+3500 provided by the classical Drake equation. Thus, in conclusion, THE STATISTICAL 
+EXTENSION of the classical Drake equation INCREASES OUR HOPES to find an 
+extraterrestria I civi Iization ! 
+PROBABILITY DENSITY FUNCTION OF N 
+1000 2000 3000 4000 
+N =Number of ET Civilizations in Galaxy 
+Figure 2. Comparing the Two Probability Density Functions of the Random Variable N Found (1) 
+Without Resorting to the CLT at All (thick curve) and (2) Using the CLT and the Relevant Lognormal 
+Approximation (thin curve). 
+Even more so our hopes are increased when we go on to consider the standard 
+deviation associated with the mean value 4590. In fact, the standard deviation is given ,,., 
+by equation (97) of Appendix B. This yields er"' = e11 e2 ✓ e" 2 -1 =11195 and so the 
+expected number of N may actually be even much higher than the 4590 provided by 
+the mean value alone! The "upper limit of the one-sigma confidence interval" (as 
+statisticians call it), i.e. the sum 4590+11195 = 15,785, yields a higher number still! 
+(Note: the "lower limit of the one-sigma confidence interval is ZERO because the 
+lognormal distribution is POSITIVE (or, more correctly, non-negative)). Finally, the 
+reader should note that the thick curve depicted in Figure 2 is just the NUMERICAL 
+solution of the statistical Drake equation for a FINITE number of 7 input factors. Figure 
+2 actually shows that this curve "is well interpolated" by the lognormal distribution (thin 
+curve), i.e., by the neat analytical expression provided by the Central Limit Theorem for 
+an INFINITE number of factors in the Drake equation. That is, in conclusion, Figure 2 
+visually shows that taking 7 factors or an infinity of factors "is almost the same thing" 
+already for a value as small as 7. 
+UNCLASSIFIED/ /FOil OFFI@IAb W&i QNI.¥ 
+17

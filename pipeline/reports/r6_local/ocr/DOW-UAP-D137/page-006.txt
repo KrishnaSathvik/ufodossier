@@ -1,0 +1,46 @@
+UNCLASSIFIED/ fFOA OFFl&I.t.k YSE &P•tv 
+Introduction 
+The purpose of this report is to provide an overview of the current state-of-the-art and 
+potential evolution of megawatt (MW) class high-energy laser (HEL) weapons. 
+Implications for space vehicles in or beyond earth orbit will be addressed. 
+It is rare today to find an individual who doesn't have some concept of a laser weapon. 
+From Orson Wells's Martian invaders in War of the Worlds, who used them with chilling 
+efficiency, to the now-classic Star Wars movies, the capabilities attributed to such 
+devices have grown with time and with writers' imagination. While most fictional 
+depictions of laser weapons (and many news stories) are without sound basis, these 
+devices do offer the potential for a whole new class of weapons and capabilities which 
+may complement (but not replace) existing kinetic energy (KE) weapons and electronic 
+warfare. 
+BASIC ATTRIBUTES OF KINETIC ENERGY AND HEL WEAPONS 
+KE weapons (bullets, shells, missiles, bombs, and so forth) require a finite period of 
+time to reach the target but are then able to destroy it instantly. They can deliver 
+immense quantities of explosive energy and destroy large areas. This makes KE 
+weapons most effective at engaging hardened, large, or stationary targets. Collateral 
+damage concerns, such as a desired target next to a hospital, enemy forces near 
+friendly forces, or a sniper target in a crowd can significantly limit the opportunity to 
+use KE weapons. Randomly moving targets also present a challenge for KE weapons 
+due to difficulties in predicting the target's location at the future time of arrival or in 
+tracking the target with sufficient accuracy. 
+High Energy Laser (HEL) weapons, by contrast, begin delivering the laser beam's 
+energy to the target at the speed of light. However, they require a finite dwell time to 
+accumulate enough thermal energy (heat) on the aim point to achieve the desired 
+effect (similar to a blowtorch). The strength of an HEL weapon is its ability to precisely 
+deliver a limited quantity of energy to a small spot with litt le collateral damage to 
+nearby objects or people. The instantaneous measure of a focused laser beam's 
+effectiveness is called "irradiance" and is measured in power per unit area over the 
+laser spot (typically watts/cm 2). The beam's ability to inflict damage, by heating during 
+a time interval, is called "fluence" and is typically measured in joules/cm 2. Fluence is 
+simply irradiance x time and one joule is equal to one watt for one second. 
+Speed-of-light energy transfe r, coupled with precisio n tracking, allows HEL weapons to 
+efficiently engage softer targets which are highly maneuverable, only visible for short 
+periods of time, or at extremely long range. Although the initial cost of a laser weapon 
+might be high, the logistics trail is short and the cost per shot is comparatively 
+inexpe nsive since the only major expendables are laser chemicals or electricity. 
+Figure 1 compares the relative strengths and weaknesses of KE & HEL weapons for 
+different classes of potential targets. Just as there is a wide variety of KE weapons 
+(ranging from bullets to precision guided munitions to nuclear weapons) for different 
+types of applications, one could envision a range of future HEL weapons at different 
+power levels, wavelengths, weights, volumes, and costs which would be best suited for 
+specific applications. 
+UNCLASSIFIED/ fFOA QFFI&I.t.k YSE 8,.L\f 
+1

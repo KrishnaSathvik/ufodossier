@@ -1,0 +1,46 @@
+UNCLASSIFIED//rOR: orrlCIAE USE 014Lf 
+pushbroom scanning mode for complete Earth coverage rather than only sampling 
+coverage. 
+The constellation/array implementation is similar to that of the preceding concept (High 
+Resolution Surface Sampling Radiometry section), except that tethers hold a receiving 
+array that must be 2 km long to obtain the 1,200 km instantaneous swath width with a 
+resolution of 100 m. It consists of a 2 km long focal surface with 12,000 printed 
+dipoles, shaped into a focal surface by gravity gradient forces balanced against 
+magnetic forces from a superconducting conductor around its periphery, acting on a 
+piezoelectric, electron beam-shaped, adaptive membrane substrate. The large antenna 
+is formed by a swarm of tiny elements making up the lens of a space-fed array. 
+The antenna is a 4 km x 6 km diameter, sparse, self-cohering array formed from 
+12,000 picosats weighing 23 grams each, rotating in relative coordinates in a plane 
+around a central orbit point. The picosats are similar to those of the preceding concept 
+(High Resolution Surface Sampling Radiometry section). Their locations are initially 
+selected to lie in a plane, and their spacings are pseudorandom to minimize the 
+sidelobe levels, with each picosat designed to loosely stationkeep inside a box 10 m on 
+a side. The relative positions of these picosat elements changes slowly, and only small 
+and infrequent stationkeep ing propulsive maneuvers are needed for constellation 
+maintenance. 
+The effective collecting aperture of the array is the sum of those of the picosats, and in 
+this concept, equal to that of an equivalent 6 m diameter antenna at 2 GHz. However, 
+the coverage spot diameter is set by the total aperture diameter of 4 km x 6 km, and 
+thus is 100 m at 2 GHz from a 4,000 km orbit . Five constellation/arrays would produce 
+100% global coverage with 5 hour revisit for time critical measurements. The entire 
+constellation weighs 3,000 kg, but that could be reduced in the future to 30 kg if 
+Buckytubes are used to construct the system. 
+ROTATING NANOSAT SWARM DISTRIBUTED RADAR 
+An extremely powerful space-based radar, this concept would allow detection of most 
+air, land, sea, and space targets, as well as many "low observable" targets anywhere, 
+with one or a few constellations in GEO. A large, sparse array antenna using a swarm 
+of nanosats creates a space-based radar system. The constellat ion/array 
+implementation is similar to that of the preceding rotating swarm concepts, except that 
+it generates and radiates extremely large peak and average powers, and given the 
+generally high angles of viewing can detect and track many air, space, and surface 
+targets from GEO. 
+The constellation is composed of 10,000 nanosats that are self-contained repeater 
+spacecraft weighing about 1 kg each. Each nanosat receives the ground signal, 
+digitizes, delays, and retransmits it, causing it to arrive at the feeds at the same time 
+as a direct ray through the center of the array. The time delay of each nanosat is self 
+computed based on its location in the swarm, as measured by a local DGPS-like 
+navigat ion signal, to compensate for its deviation from its assigned ideal location. 
+Commands for beam sweep delays are superimposed on the time delays of each 
+nanosat. Each nanosat generates 10 W of average power and 10 kW peak power at 
+UNCLASSIFIED//FOR 061ilCl.li.k W&& 8Ptl'l 
+39

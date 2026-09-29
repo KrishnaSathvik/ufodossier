@@ -1,0 +1,305 @@
+{
+  "generated_at": "2026-09-28T17:24:36.113049+00:00",
+  "rejected": [
+    {
+      "decision_id": "rej-0001",
+      "relationship": "unrelated",
+      "status": "rejected",
+      "left": "UNDATED-USAF-9CCC64",
+      "right": "UNDATED-FBI-C390B7",
+      "evidence": [
+        "generic location alone is not linking evidence",
+        "left_location=None",
+        "right_location='western United States, valley area'"
+      ],
+      "score_band": "weak",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "rej-0002",
+      "relationship": "unrelated",
+      "status": "rejected",
+      "left": "UNDATED-USAF-9CCC64",
+      "right": "UNDATED-FBI-031A45",
+      "evidence": [
+        "generic location alone is not linking evidence",
+        "left_location=None",
+        "right_location='western United States, over hillside'"
+      ],
+      "score_band": "weak",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "rej-0003",
+      "relationship": "unrelated",
+      "status": "rejected",
+      "left": "UNDATED-USAF-9CCC64",
+      "right": "UNDATED-FBI-CD3613",
+      "evidence": [
+        "generic location alone is not linking evidence",
+        "left_location=None",
+        "right_location='western United States'"
+      ],
+      "score_band": "weak",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "rej-0004",
+      "relationship": "unrelated",
+      "status": "rejected",
+      "left": "UNDATED-USAF-9CCC64",
+      "right": "UNDATED-FBI-63F44E",
+      "evidence": [
+        "generic location alone is not linking evidence",
+        "left_location=None",
+        "right_location='western United States, on road'"
+      ],
+      "score_band": "weak",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "rej-0005",
+      "relationship": "unrelated",
+      "status": "rejected",
+      "left": "UNDATED-USAF-9CCC64",
+      "right": "1958-FBI-6DD6C7",
+      "evidence": [
+        "generic location alone is not linking evidence",
+        "left_location=None",
+        "right_location=None"
+      ],
+      "score_band": "weak",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "rej-0006",
+      "relationship": "unrelated",
+      "status": "rejected",
+      "left": "UNDATED-USAF-9CCC64",
+      "right": "UNDATED-FBI-42C272",
+      "evidence": [
+        "generic location alone is not linking evidence",
+        "left_location=None",
+        "right_location='western United States'"
+      ],
+      "score_band": "weak",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "rej-0007",
+      "relationship": "unrelated",
+      "status": "rejected",
+      "left": "UNDATED-USAF-9CCC64",
+      "right": "UNDATED-FBI-B8A3AB",
+      "evidence": [
+        "generic location alone is not linking evidence",
+        "left_location=None",
+        "right_location='western United States'"
+      ],
+      "score_band": "weak",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "rej-0008",
+      "relationship": "unrelated",
+      "status": "rejected",
+      "left": "UNDATED-USAF-9CCC64",
+      "right": "UNDATED-FBI-C98A18",
+      "evidence": [
+        "generic location alone is not linking evidence",
+        "left_location=None",
+        "right_location='western United States'"
+      ],
+      "score_band": "weak",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "rej-0009",
+      "relationship": "unrelated",
+      "status": "rejected",
+      "left": "UNDATED-USAF-9CCC64",
+      "right": "UNDATED-OTHER-C1D19C",
+      "evidence": [
+        "generic location alone is not linking evidence",
+        "left_location=None",
+        "right_location='western United States, near an airfield'"
+      ],
+      "score_band": "weak",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "rej-0010",
+      "relationship": "unrelated",
+      "status": "rejected",
+      "left": "UNDATED-USAF-9CCC64",
+      "right": "UNDATED-FBI-82CCDD",
+      "evidence": [
+        "generic location alone is not linking evidence",
+        "left_location=None",
+        "right_location='western United States'"
+      ],
+      "score_band": "weak",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "rej-0011",
+      "relationship": "unrelated",
+      "status": "rejected",
+      "left": "UNDATED-USAF-9CCC64",
+      "right": "UNDATED-FBI-F4CE38",
+      "evidence": [
+        "generic location alone is not linking evidence",
+        "left_location=None",
+        "right_location='western United States'"
+      ],
+      "score_band": "weak",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "rej-0012",
+      "relationship": "unrelated",
+      "status": "rejected",
+      "left": "UNDATED-USAF-9CCC64",
+      "right": "UNDATED-FBI-AF6C31",
+      "evidence": [
+        "generic location alone is not linking evidence",
+        "left_location=None",
+        "right_location='western United States'"
+      ],
+      "score_band": "weak",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "rej-0013",
+      "relationship": "unrelated",
+      "status": "rejected",
+      "left": "UNDATED-USAF-9CCC64",
+      "right": "UNDATED-FBI-15D04A",
+      "evidence": [
+        "generic location alone is not linking evidence",
+        "left_location=None",
+        "right_location='western United States'"
+      ],
+      "score_band": "weak",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "rej-0014",
+      "relationship": "unrelated",
+      "status": "rejected",
+      "left": "UNDATED-USAF-9CCC64",
+      "right": "UNDATED-FBI-FEDFE7",
+      "evidence": [
+        "generic location alone is not linking evidence",
+        "left_location=None",
+        "right_location='western United States'"
+      ],
+      "score_band": "weak",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "rej-0015",
+      "relationship": "unrelated",
+      "status": "rejected",
+      "left": "UNDATED-USAF-9CCC64",
+      "right": "UNDATED-FBI-4557DC",
+      "evidence": [
+        "generic location alone is not linking evidence",
+        "left_location=None",
+        "right_location='western United States'"
+      ],
+      "score_band": "weak",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "rej-0016",
+      "relationship": "unrelated",
+      "status": "rejected",
+      "left": "UNDATED-USAF-9CCC64",
+      "right": "UNDATED-FBI-2EAE94",
+      "evidence": [
+        "generic location alone is not linking evidence",
+        "left_location=None",
+        "right_location='western United States'"
+      ],
+      "score_band": "weak",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "rej-0017",
+      "relationship": "unrelated",
+      "status": "rejected",
+      "left": "UNDATED-USAF-9CCC64",
+      "right": "UNDATED-FBI-42FC0E",
+      "evidence": [
+        "generic location alone is not linking evidence",
+        "left_location=None",
+        "right_location='western United States'"
+      ],
+      "score_band": "weak",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "rej-0018",
+      "relationship": "unrelated",
+      "status": "rejected",
+      "left": "UNDATED-USAF-9CCC64",
+      "right": "UNDATED-FBI-578E28",
+      "evidence": [
+        "generic location alone is not linking evidence",
+        "left_location=None",
+        "right_location='western United States'"
+      ],
+      "score_band": "weak",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "rej-0019",
+      "relationship": "unrelated",
+      "status": "rejected",
+      "left": "UNDATED-USAF-9CCC64",
+      "right": "UNDATED-FBI-4FF3BA",
+      "evidence": [
+        "generic location alone is not linking evidence",
+        "left_location=None",
+        "right_location='western United States'"
+      ],
+      "score_band": "weak",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "rej-0020",
+      "relationship": "unrelated",
+      "status": "rejected",
+      "left": "UNDATED-USAF-9CCC64",
+      "right": "UNDATED-FBI-09122D",
+      "evidence": [
+        "generic location alone is not linking evidence",
+        "left_location=None",
+        "right_location='western United States'"
+      ],
+      "score_band": "weak",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    }
+  ]
+}

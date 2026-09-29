@@ -1,0 +1,56 @@
+UNCLASSIFIED / FOTO FFECGEAL-USE-OA*Y
+
+III. Nonlocality Versus Special Relativity?
+
+If nonlocal communication is possible, would it be in conflict with special relativity, with
+its well-known prohibition against faster-than-light signals? The answer is no.
+
+The prohibition of signals with superluminal speeds by Einstein’s theory of special
+relativity is related to the fact that the definite simultaneity of two separated space-
+time points is not Lorentz invariant. Since some hypothetical superluminal signal could
+be used to establish a fixed simultaneity relation between two such points—for
+example, by clock synchronization—this would imply a preferred inertial frame and
+would be inconsistent with Lorentz invariance and special relativity. In other words, it
+would be inconsistent with the even-handed treatment of all inertial reference frames in
+special relativity.
+
+However, if a nonlocal signal could be transmitted through measurements at separated
+locations performed on two entangled photons, the signal would be “sent” at the time
+of the arrival of the photon in one location and “received” at the time of arrival of the
+other photon. By varying path lengths to the two locations, these events could be made
+to occur in any order and time separation in any reference frame. Therefore, nonlocal
+signals (even superluminal and retrocausal ones) could not be used to establish a fixed
+simultaneity relation between two separated space-time points, because the sending
+and receiving of such signals do not have fixed time relations. The transmission and
+arrival instants of a nonlocal signal cannot be used for synchronization because the
+transmission and reception instants are path- and delay-dependent variables.
+
+To put it another way, the nonlocal connections of entangled photons lie along
+segmented lightlike world lines that transform properly under Lorentz transformations.
+Therefore, there is no conflict between nonlocal signaling and the Lorentz invariance of
+special relativity. On the other hand, the principle of causality (cause must precede
+effect in all reference frames) appears very likely to be violated (or at least violate-
+able) if nonlocal signaling is possible.
+
+Is it possible that the universe does have some preferred reference frame, perhaps that
+laid down by the cosmic microwave background or implied by Mach’s Principle?
+Perhaps, but if such a preferred frame existed, its existence could not be established by
+nonlocal communication.
+
+IV. Momentum Domain Entanglement and EPR
+Experiments
+
+Einstein’s original objection (Reference 4) that quantum mechanics appeared to be
+nonlocal was made with arguments based on a gedankenexperiment in the momentum
+domain. However, almost all of the modern EPR experiments testing the Bell Inequality
+and demonstrating quantum nonlocality have been performed in the polarization (that
+is, angular momentum) domain, usually with linearly polarized photons. Interestingly, it
+appears that if nonlocal quantum communication is possible at all, it may be more
+easily achieved in the momentum domain of Einstein’s original focus.
+
+The optical process of spontaneous parametric down-conversion (Reference 15) turns
+out to be a very useful way of generating photon pairs entangled in either the
+polarization or the momentum domains. In this process, a photon from a “pump laser”
+
+5
+UNCLASSIFIED / /F@R-OFFEGH-USE-ONEY

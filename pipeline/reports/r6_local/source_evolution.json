@@ -1,0 +1,143 @@
+{
+  "generated_at": "2026-09-28T21:04:26.812380+00:00",
+  "note": "Hints only. No automatic merges. No production writes.",
+  "hint_count": 12,
+  "by_kind": {
+    "later_media_for_prior_event": 5,
+    "reissued_source": 1,
+    "superseding_source": 1,
+    "same_release_media_for_event": 5
+  },
+  "hints": [
+    {
+      "kind": "later_media_for_prior_event",
+      "later_id": "DOW-UAP-D102",
+      "later_release": "06",
+      "prior_id": "DOW-UAP-D098",
+      "prior_release": "05",
+      "evidence": [
+        "catalog_pairing"
+      ],
+      "auto_merged": false
+    },
+    {
+      "kind": "later_media_for_prior_event",
+      "later_id": "DOW-UAP-PR159",
+      "later_release": "06",
+      "prior_id": "DOW-UAP-D098",
+      "prior_release": "05",
+      "evidence": [
+        "catalog_pairing"
+      ],
+      "auto_merged": false
+    },
+    {
+      "kind": "later_media_for_prior_event",
+      "later_id": "DOW-UAP-D103",
+      "later_release": "06",
+      "prior_id": "DOW-UAP-D098",
+      "prior_release": "05",
+      "evidence": [
+        "catalog_pairing"
+      ],
+      "auto_merged": false
+    },
+    {
+      "kind": "later_media_for_prior_event",
+      "later_id": "DOW-UAP-D104",
+      "later_release": "06",
+      "prior_id": "DOW-UAP-D098",
+      "prior_release": "05",
+      "evidence": [
+        "catalog_pairing"
+      ],
+      "auto_merged": false
+    },
+    {
+      "kind": "later_media_for_prior_event",
+      "later_id": "DOW-UAP-D105",
+      "later_release": "06",
+      "prior_id": "DOW-UAP-D098",
+      "prior_release": "05",
+      "evidence": [
+        "catalog_pairing"
+      ],
+      "auto_merged": false
+    },
+    {
+      "kind": "reissued_source",
+      "external_id": "FBI-UAP-D014",
+      "releases": [
+        "03",
+        "04"
+      ],
+      "occurrences": [
+        {
+          "release": "04",
+          "type": "PDF",
+          "title": "FBI-UAP-D014, Correspondence Relating to UFO Sightings, 1967, 1974 "
+        },
+        {
+          "release": "03",
+          "type": "IMG",
+          "title": "FBI-UAP-D014,\u00a0Digital Rendering,\u00a0Narrative\u00a0Statement\u00a01-1, Western United States "
+        }
+      ],
+      "auto_merged": false
+    },
+    {
+      "kind": "superseding_source",
+      "external_id": "FBI-UAP-D014",
+      "types": [
+        "IMG",
+        "PDF"
+      ],
+      "releases": [
+        "03",
+        "04"
+      ],
+      "note": "same external_id, different media type \u2014 package evolution, not event merge",
+      "auto_merged": false
+    },
+    {
+      "kind": "same_release_media_for_event",
+      "media_id": "DOW-UAP-PR159",
+      "media_type": "VID",
+      "paired_source": "DOW-UAP-D102",
+      "paired_release": "06",
+      "auto_merged": false
+    },
+    {
+      "kind": "same_release_media_for_event",
+      "media_id": "DOW-UAP-PR159",
+      "media_type": "VID",
+      "paired_source": "DOW-UAP-D103",
+      "paired_release": "06",
+      "auto_merged": false
+    },
+    {
+      "kind": "same_release_media_for_event",
+      "media_id": "LLE-UAP-PR001",
+      "media_type": "VID",
+      "paired_source": "LLE-UAP-D001",
+      "paired_release": "06",
+      "auto_merged": false
+    },
+    {
+      "kind": "same_release_media_for_event",
+      "media_id": "LLE-UAP-PR003",
+      "media_type": "VID",
+      "paired_source": "LLE-UAP-D003",
+      "paired_release": "06",
+      "auto_merged": false
+    },
+    {
+      "kind": "same_release_media_for_event",
+      "media_id": "LLE-UAP-PR004",
+      "media_type": "VID",
+      "paired_source": "LLE-UAP-D004",
+      "paired_release": "06",
+      "auto_merged": false
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+UNCLASSIFIED//P61t 6PPICIIIIL tt!I!! 6HLY 
+must be abandoned for more erudite mathematical constructions which are better 
+suited at describing the building blocks of nature (Reference 18-20). 
+If one takes the Fourier transform of a free quantum field,5 each mode of a fixed 
+wavelength behaves like a simple harmonic oscillator. A quantum mechanical property 
+of a simple harmonic oscillator is that the ground state exhibits zero-point fluctuations 
+as a consequence of the Heisenberg Uncertainty Principle. One way to understand these 
+zero-point fluctuations is to imagine releasing a pendulum and watching as dissipative 
+forces slowly try to bring the pendulum to a stop. The uncertainty principle would 
+ensure that the pendulum was never able to come to a complete rest, but instead 
+would exhibit microscopic oscillations around the equilibrium position indefinitely. Of 
+course, for a real macroscopic pendulum, these fluctuations would be miniscule and all 
+but impossible to detect; however, the analogy with a quantum harmonic oscillator 
+holds well. The expectation value of the energy associated with the ground state energy 
+of a quantum oscillator is: 
+(4.1) 
+In this formula c and n are the speed of light and Planck's reduced constant (1.055 x 
+10-34 J.s), respectively, and k is the wave-vector related to the momentum of the 
+quantum field. One of the features of this ground state energy is that the wave vector 
+has an infinite degree of freedom. Clearly this sum is divergent; however, this is a 
+common feature of quantum field theory, and an array of mathematical techniques 
+known as renormalization exists to deal with the infinities that arise. 
+4 .1 THE CASIMIR EFFECT 
+The quantum fluctuations of the vacuum fields give rise to a number of phenomena; 
+however, one is particularly striking. The Casimir Effect, which will be explored in more 
+detail in this paper, is arguably the most salient manifestation of the quantum vacuum. 
+In 1948, H. Casimir published a profound paper where he explained the van der Waals 
+interaction in terms of the zero-point energy of a quantized field (Reference 19). In its 
+most basic form, the Casimir Effect it is realized through the interaction of a pair of 
+neutral parallel conducting plates (with separation distanced). The presence of the 
+plates modifies the quantum vacuum, and this modification causes the plates to be 
+pulled toward each other with a force: 
+2 
+F = - flCJZ" (4.2)
+240d 4 
+This is a profound result in the sense that the origin of this force cannot be traced back 
+to one of the four fundamental forces of nature (gravity, electromagnetism, and the two 
+nuclear forces), but is a force that is entirely due to a modification of the quantum 
+vacuum. 
+5 By "free" we mean that the field does not interact with other fields. 
+UNCLASSIFIED/ f FOR 9FFl611'1L W&lii &••LY 
+6

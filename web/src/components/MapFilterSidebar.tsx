@@ -21,6 +21,7 @@ export const EMPTY_FILTERS: MapFilters = {
 interface Props {
   incidents: any[];
   filteredCount: number;
+  unplottedCount: number;
   filters: MapFilters;
   onFiltersChange: (f: MapFilters) => void;
 }
@@ -64,7 +65,7 @@ function normBranch(branch: string | null | undefined): string {
   return branch;
 }
 
-export function MapFilterSidebar({ incidents, filteredCount, filters, onFiltersChange }: Props) {
+export function MapFilterSidebar({ incidents, filteredCount, unplottedCount, filters, onFiltersChange }: Props) {
   const decades = useMemo(() => {
     const entries = countBy(incidents, (i) => getDecade(i.occurred_at));
 
@@ -125,7 +126,8 @@ export function MapFilterSidebar({ incidents, filteredCount, filters, onFiltersC
 
       {/* Honesty line */}
       <p className="text-xs text-ink-faint">
-        Showing {filteredCount} of {incidents.length} geolocated.
+        Showing {filteredCount} of {incidents.length} plotted.
+        {unplottedCount > 0 ? ` ${unplottedCount.toLocaleString()} published cases name a place and have no map point.` : ""}
         {hasActiveFilters ? (
           <button onClick={clearAll} className="text-accent hover:underline ml-1">
             Clear

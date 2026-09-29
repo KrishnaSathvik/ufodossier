@@ -1,0 +1,38 @@
+UNCLASSIFIED/;'FOR OFFI@IAL l:ISE OHL¥ 
+Contents 
+Introduction ............................................................................................................ v 
+Propulsion Perspective ........................................................................................... 1 
+Hypersonic Configuration Concepts ........................................................................ 2 
+Thermodynamics and Materials ............................................................................ 16 
+The Qu Tube ......................................................................................................... 23 
+Rocket Propulsion ................................................................................................ 25 
+Up-and-Down Operations ..................................................................................... 30 
+Launch Options .................................................................................................... 33 
+Atmospheric Variations ........................................................................................ 35 
+Conclusion ............................................................................................................ 37 
+Appendix A: Historical Perspective ....................................................................... 43 
+Appendix B: Aeropropulsion Integrated Vehicle ................................................. .. 46 
+Appendix C: TAV Operational Costs ............. ......................................................... 47 
+Appendix D: Landing Ellipses for Hypersonic Gliders ..... ........................... ............ 48 
+Figures 
+Figure 1. Hardware Flow ........... ............................................................................. vi 
+Figure 7. Detailed Design Analyses Show the Weight Trends are as Much a 
+Figure 9. NASA Langley Wing-Body Configuration WB-004 with Critical Areas for 
+Figure 15. Both Delta Planform Lifting Body (Dynasoar) and Model 176 Offer 
+Figure 2. Impact of Air-Breathing Rocket ................................................................ 1 
+Figure 3. HSVS Hypersonic Cruise Aircraft Showing True Skin Temperature ........... 3 
+Figure 4. Hypersonic Rocket -Powered Glider Hypersonic Air - Breathing Cruiser ...... 4 
+Figure 5. Delta-Lifting Body Designs ....................................................................... 5 
+Figure 6. Martin Marietta X-24 A & B Research Gliders ............................................ 7 
+Function of Configuration Family as Lift-to-Drag Ratio ............................ 9 
+Figure 8. High-Performance Hypersonic Glide Aircraft .......................................... 10 
+Wing Bodies Identified ........................................................................... 11 
+Figure 10. FDL-7C/D and FDL-7MC Lifting-Body Configuration .............................. 12 
+Figure 11. FDL-7C/D with a DuPont Retractable Inward-Turning Inlet .............. ... 12 
+Figure 12. Comparison of FDL-7C/D and Model 176 .............................................. 13 
+Figure 13. Sufficient Cross Range (L/D) Means There is No Waiting to Return .... . 14 
+Figure 14. Hypersonic Glider Characteristics ......................................................... 15 
+Superior Landing Performance ............................................................. 16 
+Figure 16. McDonnell Aircraft Company Roll-Bonded Titanium Structure .............. 17 
+UNCLASSIFIED/ /FOR OFFICIO! 1155 ON! X 
+iii

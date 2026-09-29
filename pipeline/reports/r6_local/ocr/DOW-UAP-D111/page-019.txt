@@ -1,0 +1,89 @@
+"Data qualifier" means a specified character (or string of characters) that immediately precedes a
+data field that defines the general category or intended use of the data that follows.
+
+"DoD recognized unique identification equivalent" means a unique identification method that
+is in commercial use and has been recognized by DoD. All DoD recognized unique identification
+equivalents are listed at http://www.acq.osd.mil/dpap/pdi/uid/iuid_equivalents.html.
+
+"DoD unique item identification" means a system of marking items delivered to DoD with unique
+item identifiers that have machine-readable data elements to distinguish an item from all other
+like and unlike items. For items that are serialized within the enterprise identifier, the unique
+item identifier shall include the data elements of the enterprise identifier, and a unique serial
+number. For items that are serialized within the part, lot, or batch number within the enterprise
+identifier, the unique item identifier shall include the data elements of the enterprise identifier,
+the original part, lot, or batch number, and the serial number.
+
+"Enterprise identifier" means a code that is uniquely assigned to an enterprise by an issuing
+agency.
+
+"Government ‘s unit acquisition cost" means--
+
+(1) For fixed-price type line, subline, or exhibit line items, the unit price identified in the
+contract at the time of delivery;
+
+(2) For cost-type or undefinitized line, subline, or exhibit line items, the Contractor’s
+estimated fully burdened unit cost to the Government for each item at the time of delivery; and
+
+(3) For items produced under a time-and-materials contract, the Contractor’s estimated fully
+burdened unit cost to the Government at the time of delivery.
+
+"Machine-readable" means an automatic identification technology media, such as bar codes, contact
+memory buttons, radio frequency identification, or optical memory cards.
+
+"Issuing agency" means an organization responsible for assigning a non-repeatable identifier to
+an enterprise (i.e., Dun & Bradstreet ’s Data Universal Numbering System (DUNS) Number, GS1 Company
+Prefix, or Defense Logistics Information System (DLIS) Commercial and Government Entity (CAGE)
+Code).
+
+"Issuing agency code" means a code that designates the registration (or controlling) authority for
+the enterprise identifier.
+
+"Ttem" means a single hardware article or a single unit formed by a grouping of subassemblies,
+components, or constituent parts.
+
+"Lot or batch number" means an identifying number assigned by the enterprise to a designated group
+of items, usually referred to as either a lot or a batch, all of which were manufactured under
+identical conditions.
+
+"Original part number" means a combination of numbers or letters assigned by the enterprise at item
+creation to a class of items with the same form, fit, function, and interface.
+
+"Parent item" means the item assembly, intermediate component, or subassembly that has an embedded
+item with a unique item identifier or DoD recognized unique identificationi equivalent.
+
+“Serial number within the enterprise identifier" or "unique serial number" means a combination
+of numbers, letters, or symbols assigned by the enterprise to an item that provides for the
+differentiation of that item from any other like and unlike item and is never used again within the
+enterprise.
+
+"Serial number within the part, lot, or batch number" means a combination of numbers or letters
+assigned by the enterprise to an item that provides for the differentiation of that item from any
+other like item within a part, lot, or batch number assignment.
+
+"Serialization within the enterprise identifier" means each item produced is assigned a serial
+number that is unique among all the tangible items produced by the enterprise and is never used
+again. The enterprise is responsible for ensuring unique serialization within the enterprise
+identifier.
+
+"Serialization within the part, lot, or batch number" means each item of a particular part, lot, or
+batch number is assigned a unique serial number within that part, lot, or batch number assignment.
+The enterprise is responsible for ensuring unique serialization within the part, lot, or batch
+number within the enterprise identifier.
+
+"Unique item identifier" means a set of data elements marked on items that is globally unique and
+unambiguous. The term includes a concatenated unique item identifier of a DoD recognized unique
+identification equivalent.
+
+"Unique item identifier type" means a designator to indicate which method of uniquely identifying
+a part has been used. The current list of accepted unique item identifier types is maintained at
+http: //www.acq.osd.mil/dpap/pdi/uid/uii_types.html.
+
+(c) Unique item identifier.
+
+(b) The Contractor shall deliver all items under a contract line, subline, or exhibit line item.
+
+(1) The Contractor shall provide a unique item identifier for the following:
+(i) All delivered items for which the Government ’s unit acquisition cost is $5,000 or more.
+(ii) The following items for which the Government ’s unit acquisition cost is less than $5,000:
+
+PAGE 19 OF 59 HHM402-08-C-0072

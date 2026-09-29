@@ -1,0 +1,48 @@
+UNCLASSIFIED/ /EOR OlifilEIAk W&li (UtLY 
+The brain activity mentioned above is a complex chain of ionic motion within the central 
+nervous system. Ionic production, release, and movement within and between cells all 
+consume energy. This energy is supplied by the conversion of blood-borne 
+oxyhemoglobin to deoxyhemoglobin. The rate of oxygen consumption in a localized 
+volume varies based on local neural activity. The circulatory system compensates for 
+changes in energy demand by increasing or decreasing both the flow rate and volume 
+of blood, regionally and locally. Local energy demand, expressed in the capillary beds, 
+will alter the rate at which oxygen is metabolized, called the cerebral rate of oxygen 
+metabolism, abbreviated CMRO2. When brai n activity increases in a region, the 
+circulatory response, called the hemodynamic response, will be increases in flow and 
+volume, while the local areas increase CMRO2. 
+The hemodynamic response consistently provides an excess of oxygen over what is 
+required, and this results in some oxyhemoglobin traveling through the capillary bed 
+and local venous structure without being converted into deoxyhemoglobin. Oxy- and 
+deoxyhemoglobin have different magnetic susceptibilities, and different infrared 
+spectra. The hemodynamic response, by changing the net ratio of oxy- to 
+deoxyhemoglobin in the local venous structure, thus changes the local magnetic 
+susceptib ility and local infrared resonance spectra around focused brain activity. This 
+complex chain reaction is called the Blood Oxygen Level Dependent, or BOLD effect 
+(Reference 8). The BOLD effect leads to a method to indirect ly measure the local brain 
+activity by monitoring the hemodynamic response using Magnetic Resonance Imaging 
+(MRI) or Near Infrared Spectroscopy (NIRS). 
+The BOLD response to any event peaks about 4-6 seconds a~er the event occurs, 
+lim iti ng the applications for which monitoring these signals and their associated delay 
+may be useful, given the BMI operating parameters defined above Furthermore, person 
+to person variation in distributed signals show significant differences in regions 
+activated (Reference 9), though there is evidence that these inter-subject variations are 
+stable intra-subject over time (Reference 10). 
+Control of External Devices 
+In general, there are two types of BMI design called open-loop and closed-loop. Open 
+loop designs, those either detecting activity or providing stimulation, are important for 
+BMI research and application other than the practical control of an external device. 
+Closed-loop systems include both output signals from the brain to effect a change in the 
+state of a device, and a stimulation channel, which can be used as feedback. In some 
+system designs, the feedback can be via visual cues such as watching a display 
+(Reference 11). Open- loop systems are important for BMI research and have 
+application in sense replacement such as artificial hearing, or when extensive output 
+signal processing is combined with external device state feedback (see remote robot 
+operatio n below). For learning and fine, efficient control of external devices without 
+significant external processing, closed-loop systems are typically needed . 
+Several components constitute a general BMI system for control of an external device 
+(Figure 2). As mentioned in the previous section, the interfaces where the inform ation 
+signal makes the jump between biological and physical pathways are the most 
+challenging part of the system. These connections can be placed to stimulate or read 
+peripheral or cerebral neurons . The processing step could be as simple as amplification 
+UNCLASSIFIED/ /FOR OFFl@IAL Y!H! 8HL1/ 
+4

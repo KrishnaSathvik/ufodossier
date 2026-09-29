@@ -1,0 +1,39 @@
+UNCLASSIFIED//POlt Offl@IAL WS& &NkY 
+Appendix B: Aneutronic Fusion Rocket 
+For travel to the stars, aneutronic fusion combines a high specific impulse of l sp/c = 
+0.119 (ideal), compared to a maximum possible of 1.0, with minimal radiation to the 
+crew . The Bussard fusion propulsion system is an examp le of this design and uses the 
+Farnsworth/Hirsch electrostatic confinement method to initiate fusion of hydrogen and 
+boron-11. 23 The specific impulse of this design is reported from 1,500 to 6,000 seconds 
+requir ing 4.5 to 8 gigawatts of power from the fusion reactor. In th is design, 0.078% 
+of the mass converted into energy actually goes into thrust with the remaining energy 
+converted into heat and gamma rays. For a long-duration space flight, the specific 
+impulse of the fuel source must be very high since a great deal of fuel is consumed over 
+time, but the thrust required is relatively small. 
+To explore the needs for high lsp, we can envision a flight to Proxima Centauri, a 
+distance of 4.22 light-years. The maximum acceleration t hat the crew can survive is 
+assumed to be 1 g (earth gravity). As the vehicle accelerates away from Earth, 
+relativistic effects described through equations A.5 to A.10 become important. The 
+clocks on the rocket appear to be moving slower than the clocks on Earth, the rest 
+mass frame. During this mission, the rocket is assumed to accelerate for the first 2.11 
+light-years to its maximum velocity. At this midpoint in its journey, the rocket turns 
+around and decelerates at the same rate unti l it reaches Proxima Centauri. 
+Typical questions about t he mission: 
+• How long will the journey take (in terms of both Earth clocks and rocket clocks)? 
+• How much fuel is consumed? 
+• What maximum velocity is achieved? 
+The answers to these questions are dependent upon: 
+• The distance to the star. 
+• The mass of the rocket payload, engine, and fuel. 
+• The effective specific impulse of the engine, when all inefficiencies are included. 
+For the trip to Proxima Centauri, the minimum duration flight is affected by how close 
+to the speed of light the ship can travel. Unfortunately, the higher the maximum speed, 
+the greater mass fraction of fuel required. This is shown in Figure 13. If the fuel is 
+assumed to be no more than 50% of the initial mass of the rocket, for example, the 
+maximum speed that could be attained is limited to 8% of the speed of light for the 
+ideal fusion drive (lsp/c = 0.119). 
+The following equation is used in the figure: 
+~ mx im 11 m = tanh ( - J .,P In (1 - !::i.m JJ (B.14) 
+C C m i11itial 
+UNCLASSIFIED/fF&A &FFI&I:.l.k W&li &NkY 
+32

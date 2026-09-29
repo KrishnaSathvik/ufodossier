@@ -1,0 +1,42 @@
+UNCLASSIFIED/ /FOR orr1e1At 1:1§1: QPIL¥ 
+These mechanisms include: 
+• Thermionic emission (apply heat - 1,000 °Celsius) 
+• Secondary emission ( electron bombardment; > 100 eV) 
+• Field emission (apply a very strong electric field; 107 V/cm) 
+• Explosive emission (form a plasma on the surface; i;., = 0) 
+The emission mechanisms of major importance for HPM at present are thermionic 
+emission and explosive electron emission; however, field emission shows some hope 
+with the advancements in nanostructures. Explosive emission, creating a dense plasma 
+at the cathode surface, is of primary importance at this point. A review of pure metals 
+reveals a direct correlation between the work function (ea,) and melting temperatures. 
+When cathodes are made from meta ls with low work funct ions, there are problems with 
+metal deposition onto other components. Most cathodes of use in HPM tubes depend on 
+a surface flashover at a dielectr ic-metal interface. The surface flashover generates 
+plasma, typically at tens-of-kilovo lts-per-cent imeter electric fields. The thresho ld and 
+nature of the plasma depend greatly on the cathode materials. Therefore, the choice of 
+cathode materia l is of critical importance in the design and operation of any HPM tube. 
+No discussion of HPM diodes could be complete without mention ing space charge 
+limited current flow. This stems from the fact that at some magn itude of current 
+density, the density of electrons in the anode-cathode gap begins to shield the cathode 
+from further emission owing to their cumu lative effect on the electr ic field at the 
+cathode surface. The current density at which this happens is given by the Child­
+Langmuir law : 
+Jsc(kA/cm 2) = 2.33 x 10-6 (V(MV)312 /d(cm)2) 
+and is dependent on the diode voltage and the anode-cathode spacing. So, if we could 
+have the ideal cathode material, what would its characteristics be? The response has 
+not changed much in more than 60 years, as can be seen in the following extract ion 
+from a textbook on the subject. 
+Primary Characteristics of an Ideal Cathode (J. R. Pierce, 1946) : 
+• Emits electrons freely, without any form of persuasion such as heating or 
+bombardment (electrons would leak off from it into vacuum as easily as they pass 
+from one metal to another). 
+• Emits copiously, supply ing an unlimited current density . 
+• Lasts forever, its electron emission continuing unimpaired as long as it is needed. 
+• Emits electrons uniformly, traveling at pract ically zero velocity. 
+Efforts are still under way to increase the output power, pulsed emission duration, 
+repetit ion rate, and emission uniformity by investigat ing new and existing cathode 
+materials in an effort to draw closer to the ideal cathode. Some of the mater ials 
+currently being investigated are ceramic cloth and felt, carbon structures including 
+nanotubes and microfibers, and carbon structures coated with cesium iodide. 
+UNCLASSIFIED/ /EOA: OlililCil.\k W&li 8HLY 
+8

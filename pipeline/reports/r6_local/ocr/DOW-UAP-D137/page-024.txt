@@ -1,0 +1,21 @@
+UNCLASSIFIED / -502-O5626EA1-USE-ONE
+
+Figure 16. MDA Airborne Laser in a Boeing 747-400F
+
+Also in the mid-1990s, the Navy concluded that the DF laser wavelengths would not
+propagate adequately for use as weapons at-sea and began the development of free-
+electron laser technology to open more favorable propagation opportunities in the near-
+infrared wavelength region. To-date, FEL technology has been demonstrated at the 10
+kW average power level and Navy-funded scale up continues with an ultimate goal at
+the MW-class.
+
+Currently, all three services are developing solid-state slab and fiber laser technologies
+to support modest size, near-term, 100 kW-class weapons. These should be capable of
+engaging short range tactical targets such as UAVs, rockets, artillery, mortars, and
+swarming boats. The Air Force and the Special Operations Command (SOCOM)
+installed and are testing a chemical laser weapon system test-bed in a C-130, called the
+Advance Tactical Laser, to evaluate the utility of a laser addition to the AC-130) gunship
+(Figure 17).
+
+19
+UNCLASSIFIED / -2OR-OFFL6H-USE-ONEY—

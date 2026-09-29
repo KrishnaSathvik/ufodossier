@@ -1,0 +1,29 @@
+UNCLASSIFIED/ (EAR OFEICJ0k W&E 8Htt 
+Because the exploited resonance has a quadrupole nature, it is slightly red-shifted. For 
+that reason, the length of the "dark" antenna is 100 nm. When the two antennas are 
+brought together, the radiative antenna polarizes the dark antenna, which, in turn, 
+depolarizes the radiative antenna. As a result, the dipole moment of the coupled system 
+is drastically reduced, the reflection drops and transmission increases to almost 100 
+percent (limited only by losses). Most of the energy is now stored inside the non­
+radiative (dark) antenna. 
+If multiple layers of dark/bright antennas are employed as shown in Figure 16, then 
+one can achieve one of the most important manifestations of EIT; "slow" light. Slow 
+light can have many interesting technological applications because (a) slow light is easy 
+to manipulate by changing the structure's parameters (as described in the section on 
+tunable metamaterials), and (b) slow light has a high field intensity (enhanced by the 
+ratio of the free-space propagation speed to the slow propagation speed), therefore, all 
+nonlinear processes are enhanced for slow light. Such nonlinear processes may include 
+harmonics generation, optical diode action (see the section on non-reciprocal optical 
+elements), and many others. 
+(a) 
+Figure 17. True Multi-Layer Metamaterial With a Unit Cell Shown in Figure 15: radiative antenna (single 
+metal strip) coupled to a dark antenna (two perpend icu lar metal bars). Such metamaterial exhibits "slow" light 
+propagation along the incidence direction (slowed down by a factor 30 or more). (Reference 32) 
+It is important to realize that the geometry suggested in Reference 32 is not unique. 
+For example, the dark and radiative antennas need not reside in the same plane. Nor is 
+the effect of EIT (and the related phenomenon of slow light) limited to the optical 
+domain. Both infrared and microwave-range designs have started emerging. These 
+frequency domains are likely to be of greater use for advanced aerospace platforms 
+than the visible range targeted by most studies. 
+UNCLASSIFIED/ {EAR OFEICll.k W8I!! eNti 
+19

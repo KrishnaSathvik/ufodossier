@@ -1,0 +1,50 @@
+UNCLASSIFIED/ /FOA QFFI@IAL l::ISI!!! er~t I 
+Gravity Waves 
+A distinction should be made between gravitational waves, the gravitational "force," 
+and anomalous forces. Currently, work on gravitational waves is divided into two more 
+or less distinct realms: low frequency (less than a few hundred Hz) and high frequency 
+(greater than ~several tens of kHz). The existence of gravitational waves of any 
+frequency is a natural outcome of Einstein's theory of general relativity (GR). The 
+search for low-frequency gravitational waves currently utilizes large, heavy, and long 
+metal bars as detectors together with interferometers, strain gauges, and 
+accelerometers in an attempt to detect quadrupolar gravitational waves from 
+cosmological sources, such as binary stars. The general idea is that if a large mass of 
+precisely known dimensions is effectively isolated from the surrounding environment 
+(such as Earth) by means of special vibration and other isolators, the masses will 
+interact with the small-amplitude gravity waves emitted by large masses in the cosmos 
+and their lengths will change, but by extremely small amounts. UGO, LISA, VIRGO, 
+DECIGO (Japan), and CEGO {China) are some of the acronyms given to these 
+experiments. They are primarily attempts to verify the existence of these waves to 
+further solidify the understanding that GR gives us about the nature of space and 
+matter. Several researchers consider that high-frequency gravitational waves (HFGW) 
+will be produced in the laboratory under certain conditions in the near future (Reference 
+1). These researchers have a considerably more ambitious view of the future than the 
+low-frequency gravitational wave researchers, including the use of HFGW for 
+communications, telescopy, microscopy, and possibly propulsion. Some consider that 
+the production and detection of these waves will be mediated, or at least assisted, by 
+superconductors (References 2, 3). Current research on the link between HFGW and the 
+manipulation of gravity for propulsion is at present only theoretical. If gravitational 
+waves can interact with and be converted into forces in laboratory-scale matter, it is 
+hoped that those forces would be manifest not as gravitational forces per se, as these 
+gravitational forces would be exceedingly small and difficult to unequivocally detect in 
+the laboratory, but rather as electromagnetic or ponderable nongravitational forces, 
+thus making them more amenable to detection by electromagnetic means. 
+Gravitoel ectromag netism 
+The gravitational "force" arises from the tendency of one body to accelerate toward 
+another. (Force is in quotation marks here merely for simplicity and ease of use when 
+comparing gravity with other forces, as many other gravity-like forces can be easily 
+confused in the laboratory with actual gravitational attraction.) The physical explanat ion 
+for gravitational attraction has been elusive at best. Several notable attempts at novel 
+explanations have recently been published. Puthoff (Reference 4) developed an idea 
+originally put forward by Sakharov (Reference 5) that posits gravity as a Casimir-like 
+attraction arising within the universal sea of fluctuating electromagnetic interactions, 
+sometimes called zero-point fluctuations. Alzofon (Reference 6) presented an 
+engineering approach to interacting with gravity by means of altering nuclear entropy 
+using a technique associated with electron paramagnetic resonance called dynamic 
+nuclear orientation-that is, enhanced polarization of the magnetic moments of 
+nucleons by interaction with pulsed polarized electron spins. Hughes (Reference 7) 
+analyzed the Kopernicky Conjecture, which holds that gravity is nothing other than the 
+slight difference between forces of coulomb attraction and repulsion. However, none of 
+these researchers appealed to the special form of matter constituting superconductors. 
+UNCLASSIFIED/ /P"91l 9P"P"l@IAL l::ISI!! 8HLY 
+1

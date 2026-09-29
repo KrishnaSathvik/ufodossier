@@ -1,0 +1,46 @@
+UNCLASSIFIED/ /fOR. 8FFI61Ak U&F QJsll.¥ 
+• Weight: 0.25 kg. 
+• Input data rate: 2 kbits/sec. 
+• Output data rate: 100 kbits/sec. 
+• Data storage: 2 Gbits. 
+• Encoding: advanced convolutional. 
+• Processing speed: 12 MIPS. 
+• Radiation tolerance: > 100 krads total dose. 
+In order to develop a low mass C&DH, a lightweight and low power electronics 
+packaging method must be used. The packaging method that will be chosen must have 
+a small volume and small footprint (6 cm x 6 cm x variable height). The packaging 
+technique must provide data on programmable substrates and data on a compliant 
+inte rconnects for space use. A multi-chip module (MCM) has been successfully 
+produced by Pico Systems Inc. 
+A combined effort to reduce mass, power, size and cost led to the development of the 
+CMOS Ultra Low Power Radiation Tolerant (CULPRiT) system on a chip, and "C&DH in 
+your Palm" are technologies that enable the power reduction required for nanosats. 
+The goals of these technologies are a 20: 1 power reduction over current 5-volt 
+technology, foundry independence of die production, and radiat ion tolerance. 
+Another technology enabling a decrease in volume is the RHrFPGA, which reduces 
+volume by replacing many logic functions/circuits with one die. The RHrFPGA also 
+allows concurrent design by decoupl ing the logic design from the modu le, shortens the 
+design schedule, lowers the part count, and eases rework. 
+The above technologies allow for higher levels of electronic integration, effectively 
+combining spacecraft subsystem electronics and instrument electronics into the 
+smallest possible mass, power, and volume. 
+POWER SYSTEMS 
+Total spacecraft power is limited by the small satellite size. The Sun's power density is 
+1.35 kW/m 2. Assuming 15% conversion efficiency for a 0.3 m x 0.1 m disk shaped 
+nanosat (cross section of 0.03 m2), with a 67% area coverage, this results in a total 
+electric power of only 4.0 watts. Lightweight, efficient solar array panels that minimize 
+the effective array mounting area are needed. Dual or triple junction GaAs solar cells 
+that give 18% conversion efficiency at end of life (EOL), and assuming a more 
+optimistic area factor of 85%, will result in only 6.2 Wat EOL. Small satellites that do 
+not have extended solar panels simply do not intercept a large solar power density and 
+must use the available power very efficiently. For a small spinning satellite, it is 
+expected that three solar cells will be connected in series along the spin axis, and 
+groups of three will be connected in parallel around the circumference. Each section 
+will generate 3.3 volts and rotate into and out of sunlight as a unit. Voltage drops at 
+3.3 volts, bus regulation, circuit protection (e.g., fuse or circuit breaker) and Lithium 
+ion battery discharge characteristics are being studied. 
+Highly elliptical orbits in the ecliptic plane where the apogee velocity is very low will 
+cause a several hour eclipse during part of the year. Spacecraft batteries to cover this 
+eclipse period presents a significant mass impact. However, only a 10° orbit plane 
+UNCLASSIFIED//FOR 061ilCl.li.k U&& 8Ptl'l 
+5

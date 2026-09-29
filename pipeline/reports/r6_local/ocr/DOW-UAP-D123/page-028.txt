@@ -1,0 +1,58 @@
+UNCLASSIFIED/ fFOA OFFIEIAL U&li QNkY 
+Assuming that 1016 positrons/sec can be realized in the next 10 years, then 150 
+micrograms could be produced in 6 months to enable a globe-encircling flight of a small 
+air-breathing turbojet UAV as discussed earlier. 
+Positron Costs 
+An independent study has been done to determine future costs of positrons and, for 
+comparison, antiprotons as well. The results, shown in Table 6, are based on data for 
+existing sources and proposals for future sources. 60 , 61, 62 
+Table 6. Positron and Antiproton Expected Costs in the Next 10 Years 
+Source 
+CERNA 
+Fermilab 
+Trap Injection 
+Ener 
+0.01 - 0.1 
+<0.002 
+0.1 
+Filling Rate 
+sec1 
+4 X 10 
+2.8 X 10 
+When 
+Now 
+Now 
+2011 /1 9 
+$/JOULE 
+annihilation 
+? 
+333* 
+0.4/0.004** 
+* $100 mill ion/year (est . op. cost).
+** $5 million/yea r (est . op. cost, adjusted for inflation )/$100 million/year (est . op. cost). 
+Two clear results of the study should be noted . 
+First, measured on a scale of dollars per joule of annihilation energy, positrons cost less 
+than antiprotons by a factor of 1,000-100,000. Because each antiproton produces 1,836 
+times more energy per annihilation than a positron, this result appears to defy logic. 
+However, the laboratory energy threshold for produc ing antiprotons is 6,000 times 
+greater than for positrons, requir ing a relatively complex proton synchrotron that is 
+costly to construct and run. In addition, antiprotons are made at much higher 
+laboratory energy than positrons and require costly apparatuses to decelerate them to 
+trapping energies. 
+On the other hand, because electrons and positrons are relativistic at very low energy, 
+their electron production and secondary systems are comparatively simple and less 
+costly to operate and maintain than proton systems . These factors, combined with the 
+absence of radioactive residue associated with positron annihilation, make positrons the 
+obvious choice over antiprotons. 
+Second, the cost of positrons is projected to be $0 .004/J x 180 MJ/µg = $720K/µg. 
+Hence, the cost of 1 gram is $0 .72T, or 5 percent of the 2008 U.S. gross domestic 
+product (GDP). A 2000 NASA study 63 on which this author collaborated placed the cost 
+of ant iprotons at $64T/g, consistent with the $333/J figure in the second line of Table 
+5, and roughly six times the 2000 GDP. Unfortunately, this is still being quoted in U.S. 
+scient ific and government communit ies. The dramatic reduction in the unit cost of 
+antimatter since 2000 is due to a new emphasis on positrons by the physics 
+community, and hopefully this paper will help spread that good news. 
+Earlier, a nonstop flight around the globe by a small positron UAV was described as 
+equivalent to the 1927 Spirit of St. Louis transatlantic flight of Charles Lindbergh. From 
+UNCLASSIFIED/ /EAR OEEJCJO! 1!Sli ODIL¥ 
+23

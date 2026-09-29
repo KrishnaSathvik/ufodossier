@@ -1,0 +1,34 @@
+UNCLASSIFIED/ /FAR OFFICI CIs. W&i e .. tv 
+thrust (Fth) is produced from each mass unit of propellant. The thrust efficiency 
+(ll ) is a measure of how much of the power/energy tha t is available results in 
+directed kinet ic energy (thrust power) in the flow. The thrust density is a 
+measure of how much thrust is produced per unit cross-sectional area, Ac (area 
+perpendicular to the flow direct ion). Although the thrust density is a packaging 
+issue for spacecraft, it is critical for air vehicles where drag is present. The 
+thrust -to-power measures the accelerat ion efficiency. Traditiona lly a trade exists 
+between fuel/propellant efficiency and thrust-to-power (speed vs. economy). The 
+fina l parameter is the specific mass or weight (mass)-to-power ratio. In most 
+cases the efficiencies improve with the size of the system (economy of scale). 
+Measures of performance are fundamenta lly d ifferent between air-breathing and 
+rocket systems due to the inlet on the air-breathing system . 
+Rocket Air-Breathing 
+FIB = m, ue - m(/ u + A e (Pe - panil ) 
+= ,,;J(l +f)u.- u] + A. (P. - P anti ) 
+= Thrust I = _ F....=lh'--Thrust l sp - ---------- SP -
+fuel weight flow rate pro peJlant weight flo w r ate 
+F,h u cq 
+= = 
+0 
+m, go o o fuel mass flow rate __ mJTSFC = ------
+Thrust F111 
+. 
+p jel = 1/2 m, u;q = 1/2 F,1, ISP 8 0 
+. p 1/2 ( ,,;, u;q _,,;au2) 
+1] = ½ ·er = F,h l sp 8 0 _ 112 m, u;q 1] =___!!!_ = ---'----- -'--
+P,,/ect 2 P,,, ,cr P ,/ec, P e,ec/ P,,,c, 
+Above, m0 is the mass flow rate of the air, mI is the mass flow rate of the fuel, 
+m, is the exit flow rate, go is the accelerat ion of gravity (reference point, Earth), 
+Ue is the nozzle exit velocity, u is the flight/vehicle velocity, Ueq is the equivalent 
+exit velocity, Ae is the nozzle exit cross-sectional area, Pe is the nozzle exit 
+UNCLASSIFIED/Peft. err1e1111t ~9E 8,.L?/ 
+6

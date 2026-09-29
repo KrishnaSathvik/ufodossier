@@ -1,0 +1,40 @@
+UNCLASSIFIED/ J'FOR OFFI@IAl W&liii 9PU.Y 
+design of a cryopump potentially can benefit from these new materials and from 
+abandoning the use of notched strength as a design paradigm . 
+The combustion chamber of a rocket engine is made from a copper alloy and is cooled 
+by passing liquid hydrogen through channels in the outer wall. The space shuttle main 
+engine combustion chamber is made of NARloy-Z, a Cu-3%Ag-0.5%Zr alloy that has 
+excellent thermal conductivity and better strength than the commercially available Cu-
+0.15%Zr alloy known as AMZIRC. While a lighter combustion chamber would be 
+welcome, developing hydrogen-resistant turbine materials would be a much better use 
+of available rocket engine alloy development resources. 
+SUMMARY AND RECOMMENDATIONS 
+This document has attempted to review a range of materials that may have promise for 
+all aspects of aerospace platforms. Because of the breadth of this topic, discussion has 
+focused on opportunities and associated risks, but with little technical detail. Practical 
+issues such as manufacturing capabilities and costs and the availability of materials also 
+have been addressed where appropriate. Another recurring issue is the ability to 
+achieve better design efficiency through a design synthesis process that concurrently 
+treats form, fit and function, manufacturing capability, and materials capability as 
+equally important design constraints. Although this approach has yet to be successfully 
+used for a major high-performance structure project, engineering is nearing a state of 
+development where it may now be feasible. 
+If the space shuttle is used as a benchmark, it is clear that numerous opportunities will 
+exist to improve structural efficiency. This possibility reflects the progress made since 
+the shuttle and its engine were designed. Improved durability and reduced operating 
+cost also are possible. The issue of long lead time holding back these improved design 
+methods is most often one of timely availability of new, attractive materials that are 
+mature enough to be used in a system without increasing the risk of failure. The 
+materials community is actively developing and using computational models and 
+simulation methods to address this concern. Despite some progress, further advances 
+are required to bring computational materials engineering to the desired level of 
+maturity. 
+1. Hatch, J. ed . Aluminum, Propert ies and Physical Metallurgy . American Society for Metals, 1984 . 
+2. Chawla K. Composite Materials, Science and Engineering 2nd edition. Springer, 1998 . 
+3. Baker, A., Dutton, S. and Kelly, D. Composite Materials for Aircrah Structures 2nd edit ion. AIAA, 2002. 
+4. Lutjering, G and Williams, J. Titanium, 2nd edition . Springer, 2007. 
+5. Sims, C. and Hagel, W. The Superalloys. Wiley, 1972. 
+6. Mishra, R. and Ma, Z. Friction Stir Welding and Processing, Materials Science and Engineering. v.50, pp. 1-78, 
+2005. 
+22 
+UNCLASSIFIED/fFOR: OFFIQl.\k Uili Qfslk¥

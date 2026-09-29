@@ -1,0 +1,104 @@
+{
+  "filename": "FBI-UAP-D014.pdf",
+  "generated_at": "2026-09-28T18:57:13.771910+00:00",
+  "page_count": 5,
+  "usable_text_chars": 3620,
+  "stats": {
+    "native_good": 0,
+    "native_thin": 1,
+    "needs_ocr": 4,
+    "ocr_failed": 0,
+    "ocr_succeeded": 4,
+    "pages_ocrd": 4,
+    "ocr_unrecoverable_thumbnail": 0
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "native_quality": {
+        "page_number": 1,
+        "native_char_count": 516,
+        "printable_ratio": 0.981,
+        "alpha_ratio": 0.413,
+        "word_count": 42,
+        "replacement_char_count": 0,
+        "category": "native_thin",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.16, clean=0.43))"
+      },
+      "final_category": "native_thin",
+      "text_method": "tesseract",
+      "char_count": 329,
+      "text": ""
+    },
+    {
+      "page_number": 2,
+      "native_quality": {
+        "page_number": 2,
+        "native_char_count": 877,
+        "printable_ratio": 0.998,
+        "alpha_ratio": 0.641,
+        "word_count": 116,
+        "replacement_char_count": 0,
+        "category": "native_thin",
+        "reason": "thin but printable native text (caption/short page)"
+      },
+      "final_category": "native_thin",
+      "text_method": "native",
+      "char_count": 877,
+      "text": ""
+    },
+    {
+      "page_number": 3,
+      "native_quality": {
+        "page_number": 3,
+        "native_char_count": 894,
+        "printable_ratio": 0.979,
+        "alpha_ratio": 0.221,
+        "word_count": 31,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.24, clean=0.13))"
+      },
+      "final_category": "native_good",
+      "text_method": "tesseract",
+      "char_count": 231,
+      "text": ""
+    },
+    {
+      "page_number": 4,
+      "native_quality": {
+        "page_number": 4,
+        "native_char_count": 1533,
+        "printable_ratio": 0.993,
+        "alpha_ratio": 0.653,
+        "word_count": 206,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.09, clean=0.55))"
+      },
+      "final_category": "native_good",
+      "text_method": "tesseract",
+      "char_count": 975,
+      "text": ""
+    },
+    {
+      "page_number": 5,
+      "native_quality": {
+        "page_number": 5,
+        "native_char_count": 1174,
+        "printable_ratio": 0.989,
+        "alpha_ratio": 0.637,
+        "word_count": 143,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "ocr_replaced_native (garbled OCR tokens (ratio=0.12, clean=0.58))"
+      },
+      "final_category": "native_good",
+      "text_method": "tesseract",
+      "char_count": 1125,
+      "text": ""
+    }
+  ],
+  "combined_path": "/Users/krishnasathvikmantripragada/Webapps/ufo-dossier/pipeline/reports/r4_local/ocr/FBI-UAP-D014/combined.txt",
+  "production_writes": false
+}

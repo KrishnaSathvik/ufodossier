@@ -1,0 +1,325 @@
+{
+  "generated_at": "2026-09-25T21:01:08.815525+00:00",
+  "filename": "FBI-UAP-D012.pdf",
+  "production_writes": false,
+  "page_count": 66,
+  "route_counts": {
+    "uncertain": 13,
+    "skip_routing": 4,
+    "skip_empty": 19,
+    "skip_press": 10,
+    "narrative": 20
+  },
+  "strategies": [
+    {
+      "name": "fixed",
+      "strategy_used": "fixed",
+      "sections": 3,
+      "section_chars": [
+        59896,
+        59092,
+        2769
+      ],
+      "candidates": 0,
+      "quote_valid": 0,
+      "quote_rejected": 0,
+      "evidence_insufficient": 0,
+      "accepted": 0,
+      "estimated_haiku_calls": 5,
+      "accepted_incidents": [],
+      "quote_rejected_titles": [],
+      "evidence_insufficient_titles": []
+    },
+    {
+      "name": "page_grouped",
+      "strategy_used": "page_grouped",
+      "sections": 19,
+      "section_chars": [
+        604,
+        1052,
+        435,
+        2391,
+        647,
+        14259,
+        2356,
+        7774,
+        6281,
+        1095,
+        576,
+        1396,
+        13271,
+        6622,
+        12487,
+        14719,
+        24607,
+        10131,
+        497
+      ],
+      "candidates": 39,
+      "quote_valid": 21,
+      "quote_rejected": 18,
+      "evidence_insufficient": 3,
+      "accepted": 18,
+      "estimated_haiku_calls": 20,
+      "accepted_incidents": [
+        {
+          "title": "Glen Ridge, N.J. cylindrical object observation November 1957",
+          "occurred_at": "1957-11-05",
+          "location_text": "Glen Ridge, N.J.",
+          "raw_excerpt": "From a southwesterly rection they observed a long, cylindrical, dark silver object th no wings but fins on the rear, moving along toward the n.ortheas There were no marki.rtgs on the,i object, it was not flying high nor aet and they could n"
+        },
+        {
+          "title": "Clifton, N.J. underwater demolition bomb-shaped object August 1957",
+          "occurred_at": "1957-08-27",
+          "location_text": "due west of Clifton, N.J.",
+          "raw_excerpt": "SCHEY state4 that he observed a object in the sky due west of Clifton,\u00b7 N. J. According SCHEY, the object had a shape reaeabliag that of an underwater deaolition boab and light, in the shape of a croas, waa colling fro\u2022 within this UFO. SCH"
+        },
+        {
+          "title": "UFO observed from kitchen window, Union NJ",
+          "occurred_at": "1958-02-11",
+          "location_text": "2630 Vauxhall Road, Union, N.J.",
+          "raw_excerpt": "at 12:25 p.m., 2/11/58, she observed an unidentified flying object from the kitchen window of her home, She described this UFO as bullet-shaped, silver, no wings, flying south at a very high altitude with vapor trail."
+        },
+        {
+          "title": "Flaming rocket-like object over Jersey City",
+          "occurred_at": "1958-02-14",
+          "location_text": "Jersey City, near Raritan River Bridge",
+          "raw_excerpt": "she and her-hu\u25a0 band observed th\u2022 eu ect object lltlich appeared aa a flaming rocket coming down :rrom the 1k7. They were in their_ car at the tilft\u2022 coming home(\"1orth) tram the aho:ee on RT. JS aTid were passing over a small bridge just b"
+        },
+        {
+          "title": "High-speed object with brilliant flame observed by Jersey City detectives",
+          "occurred_at": "1958-12-14",
+          "location_text": "Communipaw and Pacific Ave., Jersey City, N.J.",
+          "raw_excerpt": "at 12:13 AM on this date he and his partner, Det. Edward Sherry viewed in the sky the exhaust of an object which Det. Langrehr stated traveled at a speed of 300 or 4,00 miles an hour at an altitude of 1,000 to 3,000 feet. He described this "
+        },
+        {
+          "title": "Object over Curtiss-Wright Plant, Woodbridge NJ",
+          "occurred_at": "1958-12-14",
+          "location_text": "Helm Ave., Woodbridge, N.J., above Curtiss-Wright Plant",
+          "raw_excerpt": "Mr. Herman Taubman, whe stated that he had viewed an object which he described as a metorite or comet in the sky above Woodbridge, N.Je, on Helm Ave., in that city. They stated ( He and his wife Betty) that they were on a hill above the Cur"
+        },
+        {
+          "title": "White hot point of light with orange tail, West Orange NJ",
+          "occurred_at": "1958-12-14",
+          "location_text": "8 Garvard Terrace, West Orange, N.J.",
+          "raw_excerpt": "She informed the writer that ah\u2022 and her husband had seen a UFO that had paaaed over her reaidenc\u2022 in a South to North d1reot18nJ that it had laated tor only two or three aeoondaJ that to her it appeared to be a white hot point ot l.lght. w"
+        },
+        {
+          "title": "Orange object approximately six feet long",
+          "occurred_at": "1958-12-14",
+          "location_text": null,
+          "raw_excerpt": "This individual stated he and wife saw object, approximately six foot long, orange in color, aoe cienaerig east Pte debe Sa from oe front oe _ house that fon a  eoene. oF ete cea tn ea dicseiton at Piers appeared to be two objects flying si"
+        },
+        {
+          "title": "Bright object with twinkling lights and vapor trail",
+          "occurred_at": "1959-10-28",
+          "location_text": "Hamilton area, N.J. (near Trenton)",
+          "raw_excerpt": "Between 5:0 and 6:15 PM on this date, this office was in receipt of some seven calls in regard to captioned matter, The object sighted was generally described as a very bright object with a number of twinkling lights around it; wA&ssurround"
+        },
+        {
+          "title": "UFO sighted over NYC area at 5:45 PM",
+          "occurred_at": "1960-01-16",
+          "location_text": "N.Y.C.",
+          "raw_excerpt": "At epprox'metely 5:5 PM this dete, he. and others heerd sounded life e roer of pe jet. On going out end leokiae Be. the sky they sw e pright object in the sky with oe outline eround ee at Raggett bie be stationery pee ve mit pe: ing overh\u00e9e"
+        },
+        {
+          "title": "UFO sighting with explosion near West Paterson, NJ",
+          "occurred_at": "1960-01-16",
+          "location_text": "West Paterson, N.J. / vieinity ef N.Y.C.",
+          "raw_excerpt": "At 6100 PM, RALPI VELLA, 10 Hillerest ie West Paterson, N.J., telepho seco advised that at about 5:5 PM he had seen a jet } flying SE, heard an ex- plosion, saw an object leave plane and move in an easterly direction. A bright light emanate"
+        },
+        {
+          "title": "Vapor trail and bright object sighting in Springfield, NJ",
+          "occurred_at": "1960-01-16",
+          "location_text": "Springfield, N.J.",
+          "raw_excerpt": "A DOUGLAS, 202 Morris Avenue, Berieetisid, N.J., DR 6-3997 vised thet at 5:5 PM, while sitting in his cer in e suvermerket et Spring- field, N.J., he hed observed a vepor trril wktshxendedt in the Southern sky. At the end of it there wes \u00a9 "
+        },
+        {
+          "title": "UFO sighted over Bloomfield, NJ",
+          "occurred_at": "1960-02-27",
+          "location_text": "Bloomfield, N.J.",
+          "raw_excerpt": "He advised a group or aeighbQrs and himsel had seen an UFO and reported the details concerning"
+        },
+        {
+          "title": "Unidentified object observed from Garden State Parkway",
+          "occurred_at": null,
+          "location_text": "Paterson; Garden State Parkway",
+          "raw_excerpt": "object in the sky ar ' Paterson, } She daid she has not believe it is a star since she 16V een sme to viewing the stafs. band, CARL, 2 : and advised he first saw this object. 'this. evening white driving from on | the Garden S ate Parkway ;"
+        },
+        {
+          "title": "Three white objects observed over West Orange, N.J.",
+          "occurred_at": "1966-07-11",
+          "location_text": "West Orange, N.J.",
+          "raw_excerpt": "At 10:18pm, 7/11/66, UCH l Old Short Hille Rd., West Orange, NJ., telephone , advised that she and. her girl friend saw three white in the sky a,t about 10:00PM. Two planes ca.me towards the ob ote from two opposite directions \u2022\u2022 it they we"
+        },
+        {
+          "title": "Hillsdale College UFO sighting March 1966",
+          "occurred_at": null,
+          "location_text": "Hillsdale College, Michigan",
+          "raw_excerpt": "Willer Vai Hern, wie said he end #4 coods at Bilisdale College watched wn unidentified fiyoy: object hover outside' a"
+        },
+        {
+          "title": "Three Rivets constables pursue luminous object",
+          "occurred_at": "1966-03-28",
+          "location_text": "Three Rivets, near Pointe du Lac, St. Lawrence River",
+          "raw_excerpt": "At 2 am. thig morning two constables at Three Rivets reported to. Headquarters that iikey were, cbisting \u2014 laminous | aphevieal abject, Constables Jacques Marcette jand Ronald Gagnier, said the object was moving \"250 fest | above the ground"
+        },
+        {
+          "title": "Dr. Daniel Fry UFO photographs near Merlin, Oregon and Joshua Tree, California",
+          "occurred_at": null,
+          "location_text": "Merlin, Oregon and Joshua Tree, California",
+          "raw_excerpt": "NEW SAUCER PHOTOS: These remarkable photos of Flying Saucers were 2 taken by Dr. Daniel W. Fry, President of Understanding, Inc., of P.O. Box 76, Merlin, Oregon 97532. Your editor enlarged them from the original 16mm color movie film. Of sp"
+        }
+      ],
+      "quote_rejected_titles": [
+        "Bright round object observed near Newark, NJ",
+        "King fires at object near Garland, California",
+        "Airliner chases UFO through eastern Ohio",
+        "Montreal truck driver pursued by luminous fireball",
+        "University of Toronto engineering students observe whirling object",
+        "Oakland Airship Sightings",
+        "Gary Wilcox Farm Encounter",
+        "Michigan Swamp Object Sightings",
+        "Ravenna, Ohio Sheriff Chase",
+        "Marty Michigan University Dormitory Sighting",
+        "Flying Object Sighted in Illinois",
+        "Blinking Lights Over San Gabriel Valley",
+        "Wanaque Reservoir UFO Sighting",
+        "Revolving Object Over Kettle Point, Ontario",
+        "Sarnia Object High-Speed Flight",
+        "North Queensland Saucer Sighting",
+        "Sacramento-area Green Fireball",
+        "Griffith Park Object Observation"
+      ],
+      "evidence_insufficient_titles": [
+        "Series of objects changing color and dividing, Fanwood NJ",
+        "Flying objects observed over Lodi, New Jersey",
+        "Brewer Maine UFO sightings"
+      ]
+    },
+    {
+      "name": "cue_routed",
+      "strategy_used": "cue_routed",
+      "sections": 10,
+      "section_chars": [
+        1041,
+        871,
+        5457,
+        4887,
+        1766,
+        2375,
+        1559,
+        1275,
+        1095,
+        930
+      ],
+      "candidates": 20,
+      "quote_valid": 19,
+      "quote_rejected": 1,
+      "evidence_insufficient": 4,
+      "accepted": 15,
+      "estimated_haiku_calls": 10,
+      "accepted_incidents": [
+        {
+          "title": "Glen Ridge, NJ cylindrical object November 1957",
+          "occurred_at": "1957-11-05",
+          "location_text": "Glen Ridge, N.J.",
+          "raw_excerpt": "From a southwesterly rection they observed a long, cylindrical, dark silver object th no wings but fins on the rear, moving along toward the n.ortheas There were no marki.rtgs on the,i object, it was not flying high nor aet and they could n"
+        },
+        {
+          "title": "UFO sighting near Clifton, New Jersey",
+          "occurred_at": "1957-08-27",
+          "location_text": "due west of Clifton, N. J.",
+          "raw_excerpt": "he had seen an unidenti-fied flying object ) at 8:30 p.a., 8/27/57. SCHEY state4 that he observed a object in the sky due west of Clifton,\u00b7 N. J. According SCHEY, the object had a shape reaeabliag that of an underwater deaolition boab and l"
+        },
+        {
+          "title": "Bullet-shaped UFO observed in Union, New Jersey",
+          "occurred_at": "1958-02-11",
+          "location_text": "2630 Vauxhall Road, Union, N.J.",
+          "raw_excerpt": "at 12:25 p.m., 2/11/58, she observed an unidentified flying object from the kitchen window of her home, She described this UFO as bullet-shaped, silver, no wings, flying south at a very high altitude with vapor trail. She stated it flew muc"
+        },
+        {
+          "title": "Flaming rocket-like object over Jersey City",
+          "occurred_at": "1958-02-05",
+          "location_text": "232 Dwight St., Jersey City, bridge near Perth Amboy, New Jersey",
+          "raw_excerpt": "she and her-hu\u25a0band observed th\u2022 eu ect object lltlich appeared aa a flaming rocket coming down :rrom the 1k7. They were in their_ car at the tilft\u2022 coming home(\"1orth) tram the aho:ee on RT. JS aTid were passing over a small bridge just be"
+        },
+        {
+          "title": "High-speed object with blue-white exhaust observed by Jersey City detectives",
+          "occurred_at": "1958-02-14",
+          "location_text": "Communipaw and Pacific Ave.'s in Jersey City, New Jersey",
+          "raw_excerpt": "Det. Langrghr informed the writer that at 12:13 AM on this date he and his partner, Det. Edward Sherry viewed in the sky the exhaust of an object which Det. Langrehr stated traveled at a speed of 300 or 4,00 miles an hour at an altitude of "
+        },
+        {
+          "title": "Meteor-like object over Woodbridge, New Jersey",
+          "occurred_at": "1958-02-14",
+          "location_text": "Helm Ave., Woodbridge, New Jersey, above Curtiss-Wright Plant",
+          "raw_excerpt": "Mr. Herman Taubman, whe stated that he had viewed an object which he described as a metorite or comet in the sky above Woodbridge, N.Je, on Helm Ave., in that city. They stated ( He and his wife Betty) that they were on a hill above the Cur"
+        },
+        {
+          "title": "White hot point of light with orange tail over West Orange",
+          "occurred_at": "1958-02-14",
+          "location_text": "8 arYard Terrace, Weat Orange, N.J.",
+          "raw_excerpt": "She informed the writer that ah\u2022 and her husband had seen a UFO that had paaaed over her reaidenc\u2022 in a South to North d1reot18nJ that it had laated tor only two or three aeoondaJ that to her it appeared to be a white hot point ot l.lght. w"
+        },
+        {
+          "title": "Orange objects observed flying side by side",
+          "occurred_at": "1958-02-14",
+          "location_text": null,
+          "raw_excerpt": "This individual stated he and wife saw object, approximately six foot long, orange in color, aoe cienaerig east Pte debe Sa from oe front oe _ house that fon a  eoene. oF ete cea tn ea dicseiton at Piers appeared to be two objects flying si"
+        },
+        {
+          "title": "UFO sighted on 10/28/59 in New Jersey",
+          "occurred_at": "1959-10-28",
+          "location_text": "Hamilton area, N.J. (near Trenton)",
+          "raw_excerpt": "Between 5:0 and 6:15 PM on this date, this office was in receipt of some seven calls in regard to captioned matter, The object sighted was generally described as a very bright object with a number of twinkling lights around it; wA&ssurround"
+        },
+        {
+          "title": "UFO observed near Bronx, New York on 1/16/60",
+          "occurred_at": "1960-01-16",
+          "location_text": "First Presbyterian Church, Bronx, N.Y.C.",
+          "raw_excerpt": "At epprox'metely 5, 50 PM this bete, he. and others heerd sounded life e roer of pe jet. On going out end leokiae Be. the sky they sw e pright object in the sky with oe outline eround ee at Raggett bie be stationery pee ve mit pe: ing overh"
+        },
+        {
+          "title": "UFO sighted near West Paterson, N.J. on 1/16/60",
+          "occurred_at": "1960-01-16",
+          "location_text": "West Paterson, N.J.",
+          "raw_excerpt": "At 6100 PM, RALPI VELLA, 10 Hillerest ie West Paterson, N.J., telepho seco advised that at about 5:5 PM he had seen a jet } flying SE, heard an ex- plosion, saw an object leave plane and move in an easterly direction. A bright light emanate"
+        },
+        {
+          "title": "UFO sighting over Springfield, N.J. on 1/16/60",
+          "occurred_at": "1960-01-16",
+          "location_text": "Springfield, N.J.",
+          "raw_excerpt": "At 6:27 PM A DOUGLAS, 202 Morris Avenue, Berieetisid, N.J., DR 6-3997 vised thet at 5:5 PM, while sitting in his cer in e suvermerket et Spring- field, N.J., he hed observed a vepor trril wktshxendedt in the Southern sky. At the end of it t"
+        },
+        {
+          "title": "UFO sighted over Bloomfield, N.J. on 2/27/60",
+          "occurred_at": "1960-02-27",
+          "location_text": "Bloomfield, N.J.",
+          "raw_excerpt": "The writer received a telephonic contact trom MR. S. M. . PLAN, 19 Al:fred Lane, Bloomfield, I.J.1 ...., at 6:35 PM his date. He advised a group or aeighbQrs and himsel had seen an UFO and reported the details concerning"
+        },
+        {
+          "title": "Multiple objects with changing shape observed over New Jersey",
+          "occurred_at": null,
+          "location_text": "Northwest, West, and North of his residence",
+          "raw_excerpt": "He stated that tonight there were three similar type objects in the sky. He stated that one object appeered to be Northwest of his residence; one to the West and the other to the North of his residence. He stated that these objects, however"
+        },
+        {
+          "title": "Three white objects observed over West Orange, NJ",
+          "occurred_at": "1966-07-11",
+          "location_text": "West Orange, N.J.",
+          "raw_excerpt": "At 10:18pm, 7/11/66, UCH l Old Short Hille Rd., West Orange, NJ., telephone , advised that she and. her girl friend saw three white in the sky a,t about 10:00PM. Two planes ca.me towards the ob ote from two opposite directions \u2022\u2022 it they we"
+        }
+      ],
+      "quote_rejected_titles": [
+        "Bright round object observed over New Jersey residence"
+      ],
+      "evidence_insufficient_titles": [
+        "Objects sighted over Fanwood, N.J.",
+        "Unidentified objects in the sky reported by complainant",
+        "UFO sighting recalled from 1938 or 1939 in connection with Boulder Dam",
+        "Flying objects observed over Lodi, New Jersey"
+      ]
+    }
+  ]
+}

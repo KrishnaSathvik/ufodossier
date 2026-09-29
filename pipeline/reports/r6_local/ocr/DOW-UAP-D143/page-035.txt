@@ -1,0 +1,38 @@
+UNCLASSIFIED F/P OR OPPICTAL USE ONLY
+
+Table 2. Performance and Estimated Weights for a Hybrid Rocket and
+Lightcraft [2°],
+
+Hybrid Rocket Expendible Launch Vehicle ~ Assumed Performance and Estimated Weights
+
+Payload Mass (kg)
+3”™ Stage Wt. (kg)
+3™ Stage Isp (s)
+Propellant Fraction
+
+Impulsive Velocity (km/s)
+
+2™ Stage Wt. (kg)
+
+2™ Stage Isp (s)
+Propellant Fraction
+Impulsive Velocity (km/s)
+1* Stage Wt. (kg)
+
+1* Stage Isp (s)
+Propellant Fraction
+Impulsive Velocity (km/s)
+Total Velocity (km/s)
+
+Total Weight (kg)
+
+Lightcraft Expendable Launch Vehicle—Assumed Performance and Estimated Weights
+
+Payload Mass (kg)
+Stage Wt (kg)
+Effective Isp (s)
+Propellant Fraction
+
+Impusive Velocity (km/s)
+
+UNCLASSIFIED L4502.055160i-USE-ONEY

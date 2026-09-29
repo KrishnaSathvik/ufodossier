@@ -1,0 +1,41 @@
+UNCLASSIFIED//EOR OEEICI0L Llili QI\IL¥ 
+beam is much greater than the stored magnetic field energy, and it follows that E::; ERF 
+= 1011 J to a reasonable approximation. 
+Sources of Quality Factor and Effect on SOL 
+To calculate the SQL, hdet, we also need the value of the detector quality factor Q (not 
+the same as the cavity quality factor). Anything that concentrates or enhances the 
+signal preferentially over noise, in any measurement dimension, can be considered a 
+contributor to the quality factor Q. The quality factor can therefore be understood as 
+the "signal selectivity" in each dimension, so that 
+Qtot = ( Qspatial) (Qt) = QrQsolid angle Qt . (9) 
+The temporal quality factor in the Li-Baker detector arises from averaging the signal 
+over time, so that at 10 GHz, Qt= nt;nt = (10 x109 Hz) x 1000s = 1013. 
+There is a contribution to Q arising from the fractal membranes that focus and 
+concentrate the signal photon energy - but not the background photons - along the 
+radial dimension. The radial selectivity arising from the general relativity solution, in 
+conjunction with fractal membranes, is calculated by Li et al. (2008). Their table III 
+gives Qr= SNRrr =J7cmJ/SNRrr=J.scmJ = 3.4 x1021 . 
+This is mostly due to the effective Q contribution arising from the synchro-resonance 
+solution to the Einstein field equations that limit the PPF signal to a radiation pattern in 
+certain directions, whereas noise is distributed uniformly. By utilizing directional 
+antennas, the Li-Baker detector can capitalize upon this gain due to the focusing power 
+of fractal membranes as a contribution to Q in angular space as well. This is calculated 
+in detail, octant by octant, by Li et al. (2008). Page 24 of Li et al. summarizes this in 
+terms of angular concentration onto the detector. A non-directional antenna 
+corresponds roughly to solid angle 21r steradians (one hemisphere), so that the effective 
+antenna gain is estimated as (Qsolidangle) = 2n sr/10 -4sr = 6.3 x104 . Therefore, the 
+predicted maximum quality factor will be Qtotal = QrQsolidang1eQt = 2.1 x1039 . This finally 
+gives the Standard Quantum Limit (SQL) for stochastic GW detection at 10 GHz: 
+hdet = (1/Q) 112cncv/E) 112 = 1.Sxl0-37 m/m . (10) 
+Comparison of SOL With Predicted Sensitivity 
+As noted in the previous section, hdet = 1.Sxl0-37 m/m represents the lowest possible 
+GW amplitude detectable by each RF receiver in the Li-Baker HFGW detector, limited by 
+quantum back-action. An additional (1/ ✓ 2) factor applies if the separate outputs from 
+the two RF receivers are averaged, rather than used independently for false alarm 
+reduction, resulting in a minimum hdet = 1.2x10-37 . Since the predicted best sensitivity 
+of the Li-Baker detector in its currently proposed configuration is A = 10-32 m/m, these 
+results confirm that the Li-Baker Detector is photon-signal limited, not quantum noise 
+limited; that is, the Standard Quantum Limit is so low that a properly designed Li-Baker 
+detector can have sufficient sensitivity to observe HFRGW of amplitude A ~ 10-32 m/m. 
+UNCLASSIFIED/ /FOR OEEICIJ.b HSI!! Dflti 
+19

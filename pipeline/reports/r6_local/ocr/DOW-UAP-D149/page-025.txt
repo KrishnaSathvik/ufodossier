@@ -1,0 +1,30 @@
+UNCLASSIFIED/ /FOR OFFICIAL USE ONLY 
+the temperature range, a moderate seeding with NaK (sodium-potassium) 
+mixture would be sufficient to produce an electrical conductivity from > 100 
+mho/m to as high as 1,000-3,000 mho/m. With this level of conductivity, very 
+modest magnetic field B~0.1-0.2 Tesla would suffice for a strong MHD 
+performance (Figure 10). 
+Modeling shows that MW-scale power can be generated in these conditions by a 
+surface-integrated MHD system from 1 square meter of vehicle surface. 
+Interestingly, calculations show that the additional weight of the system, 
+assuming a 1,000-second mission, is determined mostly by the water required to 
+cool the copper-wire electromagnet and that the additional weight is quite 
+acceptable, increasing the practicality of the system. 37, 38, 39 , 40 
+a for virtual 
+lining and 
+crease 
+Figure 10. Reentry Vehicle With Surface-Integrated MHD Device and Plasma­
+Enabled Virtual Streamlining and L/D Increase. 
+One good use of such hig h power would be to create a plasma in front of the 
+vehicle in order to reduce drag (Figure 10). Nonoptimized analysis shows that 
+the "return" (i.e., the drag power saved divided by the power spent on creating 
+the plasma) can easily be as high as 40-50 (i.e., the drag power saved is 
+40-50 times greater than the power spent on the plasma). 41 There are 
+theoretical and experimental indications that with proper shaping of the plasma 
+region (specifically, making it long and thin), the "return" can be > 100. Thus, 
+this "reverse energy bypass" would result in substantial reduction in drag and 
+increase in L/D (lift-to-drag ratio) by tens of percent. The increase in L/D would 
+directly translate in increased downrange for an unpowered hypersonic global 
+"glider" and in increased cross-range for a de-orbiting space asset. Note that off-
+UNCLASSIFIEDfFQR &FFIEilslll ~91: 8Hl'I 
+21

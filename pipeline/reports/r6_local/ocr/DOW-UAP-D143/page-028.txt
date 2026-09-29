@@ -1,0 +1,64 @@
+6 
+1s = ..= 
+~
+--= e.o 4 
+~ 
+>, 
+,l:l 
+] 3 
+::I 
+Q. -= u 2.. 
+41 
+t 1.. 
+GI.. = ~ 
+0 
+UNCLASSIFIED/,'rOR: orrlCIJ!tL USE 014Lf 
+•Radiated Laser 
+Power= 10 MW Laser Beam 50• 60° 70° Angle from 
+75" the Vertical 
+I 
+i
+II I
+IEnd ofLaser1 
+(Airbreathingl 1.62 ·micronPropulsion : Laser Wavelength 
+I 
+I 
+I 
+I 
+I •Ligbtcraft Lightcraftll 
+I Capture Dia. Achievement of: 
+of30 cm Orbital Speed I 
+i 
+I 
+11.2 micron : .04 
+Laser Wavelength \ I MW 
+I __j 
+100 200 300 400 soo 
+Ligbtcraft Slant Range from Laser (km) 
+Figure 13. Influence of Lightcraft Range and Pointing Angles on Captured Power C26 1. 
+The physics and technology of FELs will allow beam power to be scaled up to 1 MW or 
+higher as long as thermal loading of the beam opt ics and electron losses in the electron 
+beam recirculat ion loop can be mitigated using engineering solutions. Beam combining 
+of several 1 MW (or higher) FELs can achieve a total combined beam output power of 
+10 MW (or higher). Other newly emerging high-power laser techno logy that show 
+promise for achieving megawatt-class beam power include bulk slab solid-state and 
+high-power fiber lasers; t he former has already achieved over 100 kW of beam power 
+whi le the latter is getting close to it. Present megawatt -class lasers that are based on 
+avai lable proven techno logy include a proposal for a 5-beam, 2.5 MW per beam, 
+electron gun-driven CO2/gas mixture laser which combines five laser beams to achieve 
+10 MW of total beam output power . These systems will be described further in Chapter 
+4. 
+LIFE CYCLE OF LIGHTCRAFT SYSTEM 
+Froning and Davis [26] found that ground-based laser costs comprised the major 
+port ion of a Lightcraft ETO transportation system - with ground-based laser costs 
+comprising about 80% of the total laser Lightcraft system life-cycle cost (LCC). The 
+LCC of a laser Lightcraft ETO transportation system was estimated using Lightcraft 
+vehicle and ground-based laser cost inputs from AFRL/PRSP together with 
+programmat ic cost inputs from anot her cost database. Table 1 shows the 
+programmatic assumptions together with the system acquisition and operation costs for 
+the various Lightcraft vehicle and ground-based laser system elements . Laser 
+acquisition and operation costs were assumed to be shared with another user and all 
+operations costs are reduced to one-half those values estimated from historical data. 
+Launch costs are seen to be extremely low (only $74,141 per flight) with laser-
+UNCLASSIFI ED{fFOA 9FFH31AL ~8! 8HLY 
+24

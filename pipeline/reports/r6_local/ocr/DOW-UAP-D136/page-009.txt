@@ -1,0 +1,38 @@
+UNCLASSIFIED/ /P'OR: OP'P'l@IAL WS& 0Nk¥ 
+to gain federal approval there may be biocompatibility issues to resolve, clinical trials to 
+perform, and Food and Drug Administration (FDA) requirements to satisfy. 
+CATEGORIES OF BIOMEMS 
+We divide the BioMEMS field into several subcategories. Some devices are targeted to 
+be implanted into the human body or are applied to the body. Many of these are being 
+developed as alternatives to drugs which therapeutically treat illness or disease. There 
+is also activity in using microscale stimulation devices to treat neurological disorders 
+such as epilepsy and Parkinson's disease and to treat neuro logical injuries such as 
+stroke or trauma to the spinal cord. 
+Another promising field of research is directed towards integration of the human brain 
+with microelectrical components. For example implants are being developed which allow 
+volitional (thought) control of machines. Most of this effort is targeted towards 
+rehabilitation of individuals who are quadriplegics in order to allow them some control 
+over their environment. 
+Then there are devices being developed for clinical applications such as rapid blood 
+analysis, and there are those targeted for benchtop biological research. I n this review, 
+the focus is on specific microscale and MEMS-based devices t hat are used in medicine 
+and biology. 
+These include: 
+• Micromachines that interface to brain electrodes. 
+• Blood glucose sensors. 
+• Microfluidics. 
+• Neural Interfaces. 
+• Neurostimulators. 
+• Microbeam sensors. 
+Several of these technologies have been the subject of research by the present author 
+and by colleagues at Arizona State University. 
+BioMEMS Micromachines 
+Micromachines made by photol ithography are among the most complex and 
+sophisticated of all MEMS devices. They have seen some application in various forms of 
+biomedical devices where motion must be achieved with an implantable device. Motion 
+within the human body by a device is difficult since it implies sliding surfaces, a need 
+for electrical power, and long term reliability and stability. Biomedical implants are 
+usually introduced by surgery and so once implanted cannot be easily removed for 
+servicing. 
+UNCLASSIFIED/ (FOR OFFICIO! P!Sli Qllk¥ 
+3

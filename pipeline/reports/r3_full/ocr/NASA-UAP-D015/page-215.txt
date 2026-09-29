@@ -1,0 +1,47 @@
+Meteor ionization in the E-region 117 
+now the electron density. For small particles, where the number of electrons 
+formed per centimetre of path is small, the diffusion term is predominant, and the 
+train quickly decreases to the equilibrium electron density , which is thus given by 
+°'n2 = rate of production of electrons . 
+The effective recombination coefficient for the E-region is e<(O2 ) '.::::'. 5. 10- s 
+cm3 sec- 1 , when 0 2 is present , and e<(O) '.::::'. 4 X 10- 9 cm 3 sec- 1 if oxygen has been 
+dissociated. Thus n is approximately equal to 7 . 104 and 2 . 104 in the upper and 
+lower E-region, respectively. 
+3. Co cLusrn s 
+The above is app ·cable to three effects in the E-layers. First, the diurnal variation 
+of the E-layer is found to agree fairly well with the (cos x)t law for the variation 
+of the simple Ch pman region (xis -the zenith angle of the sun) . The variation is 
+found to be alm~st symmetrical with reference to the maximum at noon (MITRA, 
+1952). However , with the accepted value of the recombination coefficient, the 
+E-layer ionization at night should fall to a very low value. The residual ionization 
+density as observed is much greater than it hould be. It is therefore suggested 
+that this night-time value results from the bombardment of micrometeorites . 
+Secondly, measurements of effective electron density obtained by rockets 
+(LIEN et al., 1953) indicated that a bifurcation , or two maxima , in electron density 
+were present in the B-region. It is suggested that one maximum results from solar 
+radiation , the other from micrometeoric bombardment. 
+And finally , it is proposed that the sporadic E-clouds of ionization result from 
+micrometeorites. Although some correlation with meteor showers is found, the 
+major portion of the ionization results from micrometeorites with a fine structure 
+undetectable by radio probing. The cloud -like structure of the E-layer very 
+possibly re ults from clouds of micrometeorit es. The amount of micrometeorites, 
+the penetration depth , the ionization efficiency , and the distribution of the micro­
+meteorite s are all con. istent with the conditions required for such an explanation. 
+Granted the laboratory evidence for the ionization process is not adequate, but 
+the general physical reasoning based on ionization density measurements by radio 
+methods of lower visual magnitude meteorites leads to an order of magnitude that• 
+seems very promising. 
+In conclusion, it may be possible also to relate the meteoric bombardment of 
+the upper atmosphere to the high-latitude magnetic storms and aurorae. For this 
+proces s it is necessary that sufficient photo electric effect from solar ultraviolet 
+radiation be ,Present to charge the micrometeorites and thereby allow some control 
+by the earth 's magnetic field. This investigation will be described elsewhere. 
+REFEREN CES 
+ARNOT, F. L., a nd I ILLIGA , J. C. (1936) Proc. Roy. S oc. A 156, 538 
+BERRY, H. W. (1942) Phy s. R ev. 62, 378 
+BERRY, H. W. , VARNEY , R.H., and NEWBERRY, S. (1942) Phy s. Rev. 61, 63 
+GRE E NHOW , J. S., and HAWKINS, G . S. (1952) Natur e, Lond . 170, 355 
+HEALE A, M. and HoU TERMAN S , C. (1940) Phys. Rev. 58, 608 
+liERLOF SON, N. (1948) Phy s. oc. R ep. Prog. Phy s. 11, 444 
+LIEN , J . R. , MARCOU, R. J., ULWICK, J. C., McMORROW, D. R., BLUNDFORD, L., and HAYCO K, 0. C. 
+(1953) Phys. Rev. 92, 508

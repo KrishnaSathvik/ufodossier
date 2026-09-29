@@ -1,0 +1,12 @@
+UNCLASSIFIED/;'POR: OPPICIAE USE 014Lf 
+1,000 nanosats attached to the tether. Each nanosat is a self-contained optical sensor 
+spacecraft, integrated into a 0.1 kg package. The sensor thus detects 1,000 
+wavelengths simultaneously. The sensor has a resolution as small as 40 cm on the 
+ground from GEO. Its field of view can be scanned over an area by tilting the ensemble 
+using MEMS FEEP thrusters on the nanosats, or libration modes can be excited in the 
+tether so that the field of view scans across a 2,000 km coverage area in a quasi­
+random mode, eventually covering the entire area. These thrusters also serve for 
+stationkeeping. Its total weight is less than 900 kg in orbit, which can be reduced in 
+the future to 9 kg if Buckytubes are used to construct the system. 
+UNCLASSIFIED'I i'FAA: 061i1Clali.k W&& 8PtLY 
+41

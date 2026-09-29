@@ -1,0 +1,41 @@
+UNCLASSIFIED / / F@R-OFFTGHH-USE-OL
+
+Appendix A: Proof of Shannon’s 1948 Theorem Stating
+That the Uniform Distribution is the “Most Uncertain” One
+Over a Finite Range of Values
+
+Information Theory was initiated by Claude Shannon (1916-2001) in his well-known
+1948 two papers:
+
+Reprinted with corrections from The Bell System Technical Journal,
+Vol. 27, pp. 379-423, 623-656, July, October, 1943.
+
+A Mathematical Theory of Communication
+By C. E. SHANNON
+
+In this Appendix, we wish to draw attention to a couple of theorems that Shannon
+proves on pages 36 and 37 of his work, and read, respectively (note that Shannon
+omits the upper and lower limits of all integrals in the first theorem: they are minus
+infinity and plus infinity, respectively):
+
+5. Let p(x) be a one-dimensional distibution. The form of p(x) giving a maximum entropy subject to the
+condition that the standard deviation of x be fixed at o is Gaussian. To show this we must maximize
+
+H(x)=- [pe log p(x) dx
+with
+= [poe dx and 1= [peiax
+as constraints. This requires, by the calculus of variations, maximizing
+| [-Pe)togpix) + Ap(x)x* + up(x)] dx.
+
+The condition for this is
+~1—logp(x) +A +p =0
+and consequently (adjusting the constants to satisfy the constraints)
+
+P(x) =
+
+2ra
+
+and
+
+25
+UNCLASSIFIED / /F@R-OFFL62AL-USE-OALLY

@@ -1,0 +1,1806 @@
+{
+  "generated_at": "2026-09-25T04:22:21.686664+00:00",
+  "provider": "pursue",
+  "release": 1,
+  "dry_run": false,
+  "summary": {
+    "canonical": 158,
+    "production": 176,
+    "exact": 127,
+    "normalized": 28,
+    "missing_locally": 3,
+    "local_only": 21,
+    "ambiguous": 0
+  },
+  "exact": [
+    {
+      "identity_key": "pursue:h:435cb24c1eef68228c3a0205",
+      "external_id": null,
+      "title": "18_100754_ General 1946-7_Vol_2",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/18_100754_ general 1946-7_vol_2.pdf",
+      "agency": "DoW",
+      "source_file_id": "284b35fb-55bc-4861-8fd4-a45aa90e9716",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:86395fa28c2db646478aec56",
+      "external_id": null,
+      "title": "18_6369445_General_1948_Vol_1",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/18_6369445_general_1948_vol_1.pdf",
+      "agency": "DoW",
+      "source_file_id": "bcbea1dc-7847-4ee6-ba22-aaf038d99a3b",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:6e5d000e8fb5d84c92321f06",
+      "external_id": null,
+      "title": "255_413270_UFO's_and_Defense_What_Should_we_Prepare_For",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/255_413270_ufo's_and_defense_what_should_we_prepare_for.pdf",
+      "agency": "NASA",
+      "source_file_id": "065040e8-ecd9-4e1a-9e87-1ee68f21d524",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:06ffb7ac7877b8501083b7c8",
+      "external_id": null,
+      "title": "331_120752_Numeric_Files_1944\u20131945_37153_German_Armament_Equipment_Documents",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/331_120752_numeric_files_1944\u20131945_37153_german_armament_equipment_documents.pdf",
+      "agency": "DoW",
+      "source_file_id": "604f7167-3221-4f1a-8419-5a8e683b4515",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:a451a78f0aa3a0a7e438837a",
+      "external_id": null,
+      "title": "341_110448_Records_Relating_to_the_Collection_and_Dissemination_of_Intelligence_1948-1955-TS_CONT_No.2_2-5300-2-5399",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/341_110448_records_relating_to_the_collection_and_dissemination_of_intelligence_1948-1955-ts_cont_no.2_2-5300-2-5399.pdf",
+      "agency": "DoW",
+      "source_file_id": "06eed368-1866-4d9f-81ee-4abdc0be9a26",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:20de5538516a276b72a2ce85",
+      "external_id": null,
+      "title": "341_110677_Numerical_File,_5-2500",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/341_110677_numerical_file_5-2500.pdf",
+      "agency": "DoW",
+      "source_file_id": "808fbb04-c8e3-46f0-a820-424e380346a5",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:0ab04a1f97e38e3567780227",
+      "external_id": null,
+      "title": "342_HS1-416511228_319.1 Flying Discs 1949",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/342_hs1-416511228_box186_319.1-flying-discs-1949.pdf",
+      "agency": "DoW",
+      "source_file_id": "de29704c-5e33-4333-aab4-cf87f0697cb7",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:3acc5062e175f1db4aca32da",
+      "external_id": null,
+      "title": "38_143685_box_Incident_Summaries_101-172",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/38_143685_box7_incident_summaries_101-172.pdf",
+      "agency": "DoW",
+      "source_file_id": "bb0fed89-778d-4ddf-9edd-d686bc865ae0",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:5a4c4190e3c9ef4fa178c64c",
+      "external_id": null,
+      "title": "38_143685_box_Incident_Summaries_173-233",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/38_143685_box7_incident_summaries_173-233.pdf",
+      "agency": "DoW",
+      "source_file_id": "02fa149e-782e-4124-a5b1-7b81935a2a77",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:cda24bc4b9b48ec288942875",
+      "external_id": null,
+      "title": "38_143685_box7_Incident_Summaries_1-100",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/38_143685_box7_incident_summaries_1-100.pdf",
+      "agency": "DoW",
+      "source_file_id": "13c400cb-f563-4a61-84bc-e346fa11ac67",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:3a8de741f75900b34de520eb",
+      "external_id": null,
+      "title": "59_214434_SP 16 [7.18.1963]",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/59_214434_sp_16_[7.18.1963].pdf",
+      "agency": "State",
+      "source_file_id": "0010654b-801b-4b46-a7e7-594bbd3f08c9",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:7dd391f0e2c40e6c20874fb2",
+      "external_id": null,
+      "title": "65_HS1-101634279_100-DE-18221_Serial_844",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-101634279_100-de-18221_serial_844.pdf",
+      "agency": "FBI",
+      "source_file_id": "a4407b8d-8a89-469c-aed7-94608f4208b9",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:d9dd8eb8851ad9dbeae796a5",
+      "external_id": null,
+      "title": "65_HS1-101634279_100-DE-26505",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-101634279_100-de-26505.pdf",
+      "agency": "FBI",
+      "source_file_id": "9ba9da92-b5a4-473b-a1d5-f31a0113831b",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:13459f17d39acbc8e8a22611",
+      "external_id": null,
+      "title": "65_HS1-834228961_62-HQ-83894_Section_001",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_1.pdf",
+      "agency": "FBI",
+      "source_file_id": "6d48773d-61d8-4fc8-b0a3-e7cbf4dfda0d",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:ed6da6422388504023deae2b",
+      "external_id": null,
+      "title": "65_HS1-834228961_62-HQ-83894_Section_002",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_2.pdf",
+      "agency": "FBI",
+      "source_file_id": "1281cafb-9dbe-4588-8b6d-599e5e785994",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:d0ab79dd1070367fe8c676ec",
+      "external_id": null,
+      "title": "65_HS1-834228961_62-HQ-83894_Section_003",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_3.pdf",
+      "agency": "FBI",
+      "source_file_id": "49720553-a00f-4fd5-bda3-a2670c81a3a2",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:de92f70a6cd9f0d752739612",
+      "external_id": null,
+      "title": "65_HS1-834228961_62-HQ-83894_Section_004",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_4.pdf",
+      "agency": "FBI",
+      "source_file_id": "95cb71ab-7ffd-48ec-8988-ee4538bf5c28",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:b3aa6bba09e4b468454faf8d",
+      "external_id": null,
+      "title": "65_HS1-834228961_62-HQ-83894_Section_005",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_5.pdf",
+      "agency": "FBI",
+      "source_file_id": "7444f796-a37e-4dcd-865e-e7b08f11b51b",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:d86112375ce6e000fe42483e",
+      "external_id": null,
+      "title": "65_HS1-834228961_62-HQ-83894_Section_006",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_6.pdf",
+      "agency": "FBI",
+      "source_file_id": "2273d2b1-b87a-40a9-b68d-d112256ed5ed",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:48ae348c7142d394dce21c99",
+      "external_id": null,
+      "title": "65_HS1-834228961_62-HQ-83894_Section_007",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_7.pdf",
+      "agency": "FBI",
+      "source_file_id": "6d0f6427-f1fc-4d4e-ab77-03dedc5f7f3d",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:d9baca53fb8db592366ff9b8",
+      "external_id": null,
+      "title": "65_HS1-834228961_62-HQ-83894_Section_008",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_8.pdf",
+      "agency": "FBI",
+      "source_file_id": "81a50bc3-f1f8-4947-a10a-a2f25ac86e69",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:f83e5a8e151f05f8d416b8a0",
+      "external_id": null,
+      "title": "65_HS1-834228961_62-HQ-83894_Section_009",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_9.pdf",
+      "agency": "FBI",
+      "source_file_id": "50989c3f-f14b-49f1-a0a4-c3ed438a21bc",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:09105e14df5a605f85c70fa8",
+      "external_id": null,
+      "title": "65_HS1-834228961_62-HQ-83894_Section_010",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf",
+      "agency": "FBI",
+      "source_file_id": "6e706302-d97e-4ecd-8e05-76a76a10c334",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:979aafdb3ba0dc6fa8dffc9f",
+      "external_id": null,
+      "title": "65_HS1-834228961_62-HQ-83894_Serial_130",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_130.pdf",
+      "agency": "FBI",
+      "source_file_id": "98d01f10-c571-4c56-b92f-3e3d9a43a70b",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:4ed5c730aa6f2d5b7e7745fa",
+      "external_id": null,
+      "title": "65_HS1-834228961_62-HQ-83894_Serial_164",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_164.pdf",
+      "agency": "FBI",
+      "source_file_id": "abdb578c-c518-4762-88b7-187aa76a1e7d",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:50b74a3259bbf505df987cdc",
+      "external_id": null,
+      "title": "65_HS1-834228961_62-HQ-83894_Serial_220",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_220.pdf",
+      "agency": "FBI",
+      "source_file_id": "6d76e77a-56c1-462b-ba1e-91966a7e5034",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:205808bb01cd1d134249d1a9",
+      "external_id": null,
+      "title": "65_HS1-834228961_62-HQ-83894_Serial_403",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_403.pdf",
+      "agency": "FBI",
+      "source_file_id": "f2ba71bc-4947-4c7a-bde0-92f21491dacf",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:1862d176b934913011b2915c",
+      "external_id": null,
+      "title": "65_HS1-834228961_62-HQ-83894_Serial_438",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_438.pdf",
+      "agency": "FBI",
+      "source_file_id": "1da5c3bd-7f7b-4cfa-a45f-90c6362c5cf4",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:95765684e8af06f7aa4196eb",
+      "external_id": null,
+      "title": "65_HS1-834228961_62-HQ-83894_Serial_449",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_449.pdf",
+      "agency": "FBI",
+      "source_file_id": "0744ff58-b4c1-48a2-b483-a84eaf8b920c",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:020a675ea9b395d4186f5e19",
+      "external_id": null,
+      "title": "65_HS1-834228961_62-HQ-83894_SUB_A",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_sub_a.pdf",
+      "agency": "FBI",
+      "source_file_id": "61a0d919-6e37-42fe-be87-1146c1350c23",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-D003",
+      "external_id": "DOW-UAP-D003",
+      "title": "DOW-UAP-D003, Mission Report, Arabian Gulf, 2020",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d3-mission-report-arabian-gulf-2020.pdf",
+      "agency": "DoW",
+      "source_file_id": "48162c05-9fb3-431d-8a63-15e4dadec20f",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-D004",
+      "external_id": "DOW-UAP-D004",
+      "title": "DOW-UAP-D004, Mission Report, Arabian Gulf, 2020",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d4-mission-report-arabian-gulf-2020.pdf",
+      "agency": "DoW",
+      "source_file_id": "79081e82-c530-47c5-a878-72d67fdc4352",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-D005",
+      "external_id": "DOW-UAP-D005",
+      "title": "DOW-UAP-D005, Mission Report, Arabian Gulf, 2020",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d5-mission-report-arabian-gulf-2020.pdf",
+      "agency": "DoW",
+      "source_file_id": "38fdbc3a-08a0-4163-87b0-333f310bdbed",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-D006",
+      "external_id": "DOW-UAP-D006",
+      "title": "DOW-UAP-D006, Mission Report, Arabian Gulf, 2020",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d6-mission-report-arabian-gulf-2020.pdf",
+      "agency": "DoW",
+      "source_file_id": "0c0491c1-68a3-441c-8fce-949514764a99",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-D007",
+      "external_id": "DOW-UAP-D007",
+      "title": "DOW-UAP-D007, Mission Report, Arabian Gulf, 2020",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d7-mission-report-arabian-gulf-2020.pdf",
+      "agency": "DoW",
+      "source_file_id": "1d8bf749-57d5-4bbc-a12a-6872768e61cf",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-D008",
+      "external_id": "DOW-UAP-D008",
+      "title": "DOW-UAP-D008, Mission Report, Djibouti, 2025",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d8-mission-report-djibouti-2025.pdf",
+      "agency": "DoW",
+      "source_file_id": "11e0016a-ca1b-4607-a070-172a64880303",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-D010",
+      "external_id": "DOW-UAP-D010",
+      "title": "DOW-UAP-D010, Mission Report, Middle East, May 2022",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d10-mission-report-middle-east-may-2022.pdf",
+      "agency": "DoW",
+      "source_file_id": "80c85b50-b179-4289-bb37-08490616195c",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-D012",
+      "external_id": "DOW-UAP-D012",
+      "title": "DOW-UAP-D012, Mission Report, Iraq, May 2022",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d12-mission-report-iraq-may-2022.pdf",
+      "agency": "DoW",
+      "source_file_id": "8f2f5f61-c7e6-4b24-b49f-ecd37dc49f21",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-D014",
+      "external_id": "DOW-UAP-D014",
+      "title": "DOW-UAP-D014, Mission Report, Iraq, May 2022",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d14-mission-report-iraq-may-2022.pdf",
+      "agency": "DoW",
+      "source_file_id": "7c2d8b14-1410-4aad-97f8-90f693f8b936",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-D016",
+      "external_id": "DOW-UAP-D016",
+      "title": "DOW-UAP-D016, Mission Report, Syria, July 2022",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d16-mission-report-syria-july-2022.pdf",
+      "agency": "DoW",
+      "source_file_id": "dab82870-580e-49b2-b0a5-27a97f237a66",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-D018",
+      "external_id": "DOW-UAP-D018",
+      "title": "DOW-UAP-D018, Mission Report, Iraq, December 2022",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d18-mission-report-iraq-december-2022.pdf",
+      "agency": "DoW",
+      "source_file_id": "2e0f9415-e859-4c86-b184-ff676b287dcb",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-D019",
+      "external_id": "DOW-UAP-D019",
+      "title": "DOW-UAP-D019, Mission Report, Syria, February 21, 2023",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d19-mission-report-syria-february-21-2023.pdf",
+      "agency": "DoW",
+      "source_file_id": "1c098c6d-74f4-45d5-8c0c-f1dc39953dd3",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-D023",
+      "external_id": "DOW-UAP-D023",
+      "title": "DOW-UAP-D023, Mission Report, United Arab Emirates, October 2023",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d23-mission-report-united-arab-emirates-october-2023.pdf",
+      "agency": "DoW",
+      "source_file_id": "e4e60476-cfe4-40eb-ae7f-764b43cf0548",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-D025",
+      "external_id": "DOW-UAP-D025",
+      "title": "DOW-UAP-D025, Mission Report, Greece, January 2024",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d25-mission-report-greece-january-2024.pdf",
+      "agency": "DoW",
+      "source_file_id": "a9c698f2-7b7d-4495-b40f-233e372cff9d",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-D027",
+      "external_id": "DOW-UAP-D027",
+      "title": "DOW-UAP-D027, Mission Report, United Arab Emirates, October 2023",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d27-mission-report-united-arab-emirates-october-2023.pdf",
+      "agency": "DoW",
+      "source_file_id": "691c4fd3-c283-4e6a-bd6c-53f7cb423569",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-D028",
+      "external_id": "DOW-UAP-D028",
+      "title": "DOW-UAP-D028, Mission Report, Iraq, September 2024",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d28-mission-report-east-china-sea-2024.pdf",
+      "agency": "DoW",
+      "source_file_id": "708db9ca-27e2-4dfe-bc01-ebd845316bee",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-D032",
+      "external_id": "DOW-UAP-D032",
+      "title": "DOW-UAP-D032, Mission Report, Syria, October 2024",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d32-mission-report,-syria-october-2024.pdf",
+      "agency": "DoW",
+      "source_file_id": "31eebb87-7a77-48ad-8955-c42088ed058f",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-D033",
+      "external_id": "DOW-UAP-D033",
+      "title": "DOW-UAP-D033, Mission Report, Greece, October 2023",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d33-mission-report-greece-october-2023.pdf",
+      "agency": "DoW",
+      "source_file_id": "155e1043-91b3-4da0-8d3d-45c2450d59ac",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-D035",
+      "external_id": "DOW-UAP-D035",
+      "title": "DOW-UAP-D035, Mission Report, Greece, October 2023",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d35-mission-report-greece-october-2023.pdf",
+      "agency": "DoW",
+      "source_file_id": "1f7faec8-cdc5-4e06-879e-941f227c4f91",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-D038",
+      "external_id": "DOW-UAP-D038",
+      "title": "DOW-UAP-D038, Range Fouler Debrief, Middle East, May 2020",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d38-range-fouler-debrief-middle-east-may-2020.pdf",
+      "agency": "DoW",
+      "source_file_id": "cbe95e49-6c02-4a2e-98dd-493d6ec7cfb1",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-D042",
+      "external_id": "DOW-UAP-D042",
+      "title": "DOW-UAP-D042, Range Fouler Debrief, Japan, 2023",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d42-range-fouler-debrief-japan-2023.pdf",
+      "agency": "DoW",
+      "source_file_id": "9d03e359-ba07-4496-9365-69a4834b0307",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-D044",
+      "external_id": "DOW-UAP-D044",
+      "title": "DOW-UAP-D044, Range Fouler Reporting Form, Gulf of Aden, October 2020",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d44-range-fouler-arabian-sea-october-2020.pdf",
+      "agency": "DoW",
+      "source_file_id": "e522cb0e-70ae-4470-a191-41a933e0844a",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-D048",
+      "external_id": "DOW-UAP-D048",
+      "title": "DOW-UAP-D048, Department of the Air Force Report, 1996",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d48-report-september-1996.pdf",
+      "agency": "DoW",
+      "source_file_id": "a304c921-6aea-442d-a3c7-4c26557c4924",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-D049",
+      "external_id": "DOW-UAP-D049",
+      "title": "DOW-UAP-D049, Launch Summary, Vandenberg AFB, 2000",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d49-launch-summary-february-2000.pdf",
+      "agency": "DoW",
+      "source_file_id": "8eebd74d-2fe3-424a-83c0-804c14d641c2",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-D050",
+      "external_id": "DOW-UAP-D050",
+      "title": "DOW-UAP-D050, Email Correspondence, INDOPACOM, April 2025",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d50-email-correspondence-indopacom-april-2025.pdf",
+      "agency": "DoW",
+      "source_file_id": "a0e22cd9-2ccf-48e1-9d51-c510df73cd45",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-D051",
+      "external_id": "DOW-UAP-D051",
+      "title": "DOW-UAP-D051, Email Correspondence, Pacific Time Zone, March 2023",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d51-email-correspondence-pacific-time-zone-march-2023.pdf",
+      "agency": "DoW",
+      "source_file_id": "04ef6ebb-2d04-4ead-a877-6a3259d1bebd",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-D052",
+      "external_id": "DOW-UAP-D052",
+      "title": "DOW-UAP-D052, Email Correspondence, NA, August 2024",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d52-email-correspondance-na-august-2024.pdf",
+      "agency": "DoW",
+      "source_file_id": "9d97f28f-4b03-426d-847a-1f515768b773",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-D054",
+      "external_id": "DOW-UAP-D054",
+      "title": "DOW-UAP-D054, Mission Report, Mediterranean Sea, NA",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d54-mission-report-mediterranean-sea-na.pdf",
+      "agency": "DoW",
+      "source_file_id": "3554b122-2ff8-4be8-9bb7-51e5615e75dc",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-D055",
+      "external_id": "DOW-UAP-D055",
+      "title": "DOW-UAP-D055, Mission Report, Syria, November 2016",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d55-mission-report-syria-november-2016.pdf",
+      "agency": "DoW",
+      "source_file_id": "095980a2-c4d1-43e3-8492-b9e5b12c49f0",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-D056",
+      "external_id": "DOW-UAP-D056",
+      "title": "DOW-UAP-D056, Range Fouler Debrief, Arabian Sea, August 2020",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d56-range-fouler-debrief-arabian-sea-august-2020.pdf",
+      "agency": "DoW",
+      "source_file_id": "bfdf02ed-cabe-4a39-b510-1f9b0ad35ad7",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-D057",
+      "external_id": "DOW-UAP-D057",
+      "title": "DOW-UAP-D057, Range Fouler Reporting Form, Gulf of Aden, September 2020",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d57-mission-report-gulf-of-aden-september-2020.pdf",
+      "agency": "DoW",
+      "source_file_id": "2eab854f-7804-4a76-a524-c2254cfaa4ff",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-D058",
+      "external_id": "DOW-UAP-D058",
+      "title": "DOW-UAP-D058, Range Fouler Debrief, NA, October 2020",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d58-range-fouler-debrief-na-october-2020.pdf",
+      "agency": "DoW",
+      "source_file_id": "693a6129-e16d-403c-974f-f6f0c385ca06",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-D060",
+      "external_id": "DOW-UAP-D060",
+      "title": "DOW-UAP-D060, Mission Report, Arabian Gulf, August 2020",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d60-mission-report-persian-gulf-august-2020.pdf",
+      "agency": "DoW",
+      "source_file_id": "f60b74a8-6dba-4646-9d29-de9469cadb7f",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-D061",
+      "external_id": "DOW-UAP-D061",
+      "title": "DOW-UAP-D061, Mission Report, Arabian Gulf, August 2020",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d61-mission-report-persian-gulf-august-2020.pdf",
+      "agency": "DoW",
+      "source_file_id": "0ab59904-56a6-4cf1-8e41-c6c9b5a20882",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-D062",
+      "external_id": "DOW-UAP-D062",
+      "title": "DOW-UAP-D062, Mission Report, Strait of Hormuz, September 2020",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d62-mission-report-strait-of-hormuz-september-2020.pdf",
+      "agency": "DoW",
+      "source_file_id": "8a348513-20fd-414f-bfee-386e9833179a",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-D063",
+      "external_id": "DOW-UAP-D063",
+      "title": "DOW-UAP-D063, Mission Report, Strait of Hormuz, October 2020",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d63-mission-report-strait-of-hormuz-october-2020.pdf",
+      "agency": "DoW",
+      "source_file_id": "32e3a8da-1e19-4548-822f-04b004c03a65",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-D064",
+      "external_id": "DOW-UAP-D064",
+      "title": "DOW-UAP-D064, Mission Report, Iran, November 2020",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d64-mission-report-iran-november-2020.pdf",
+      "agency": "DoW",
+      "source_file_id": "1e923a36-e18f-4d2d-87d6-a9340741b2e5",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-D065",
+      "external_id": "DOW-UAP-D065",
+      "title": "DOW-UAP-D065, Mission Report, Arabian Gulf, July 2020",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d65-mission-report-persian-gulf-july-2020.pdf",
+      "agency": "DoW",
+      "source_file_id": "dc8d12cc-afe0-41df-8f93-b75cde92c4ec",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-D074",
+      "external_id": "DOW-UAP-D074",
+      "title": "DOW-UAP-D074, Mission Report, Syria, November 2023",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d74-mission-report-syria-november-2023.pdf",
+      "agency": "DoW",
+      "source_file_id": "419d9fce-ce13-45f8-ba73-22bf5d2e6315",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-D075",
+      "external_id": "DOW-UAP-D075",
+      "title": "DOW-UAP-D075, Mission Report, Gulf of Aden, July 2024",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d75-mission-report-gulf-of-aden-july-2024.pdf",
+      "agency": "DoW",
+      "source_file_id": "96360e20-9a56-49fd-a2ac-943acaa10833",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-PR020",
+      "external_id": "DOW-UAP-PR020",
+      "title": "DOW-UAP-PR020, Unresolved UAP Report, Kuwait, May 2022",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-pr20.pdf",
+      "agency": "DoW",
+      "source_file_id": "4735b00c-128c-4cc8-b767-82bc8e813b6a",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:8059a6f3c38234390c03f77d",
+      "external_id": null,
+      "title": "FBI Photo A001",
+      "source_type": "image",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-a1.png",
+      "agency": "FBI",
+      "source_file_id": "7d8c16fd-fe19-4b6a-a7c4-9a479986db27",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:d0e07c831d5eb2822c1c8287",
+      "external_id": null,
+      "title": "FBI Photo A002",
+      "source_type": "image",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-a2.png",
+      "agency": "FBI",
+      "source_file_id": "bd7a35f7-1b2d-4985-a346-b2c0051bba77",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:814071b22d5df5821436b207",
+      "external_id": null,
+      "title": "FBI Photo A003",
+      "source_type": "image",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-a3.png",
+      "agency": "FBI",
+      "source_file_id": "92598f6b-470e-46f3-afcc-464216977466",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:fbb4184c28653caf2d359397",
+      "external_id": null,
+      "title": "FBI Photo A004",
+      "source_type": "image",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-a4.png",
+      "agency": "FBI",
+      "source_file_id": "a06a2c9f-54d8-4fb4-8d47-5f1c2d15a801",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:b9edd81dfc13f9fecd0fb44f",
+      "external_id": null,
+      "title": "FBI Photo A005",
+      "source_type": "image",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-a5.png",
+      "agency": "FBI",
+      "source_file_id": "0747a5ea-ef78-4808-a9db-819168559121",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:e329dafc8afa823b29bd8440",
+      "external_id": null,
+      "title": "FBI Photo A006",
+      "source_type": "image",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-a6.png",
+      "agency": "FBI",
+      "source_file_id": "cd57695a-902c-41b1-a51d-4aa547b852c9",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:30efda8a99886d66709daf06",
+      "external_id": null,
+      "title": "FBI Photo A007",
+      "source_type": "image",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-a7.png",
+      "agency": "FBI",
+      "source_file_id": "84af6af0-1eca-4760-aac1-740d0eb9ef38",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:c178f786a17d5c8282bb5002",
+      "external_id": null,
+      "title": "FBI Photo A008",
+      "source_type": "image",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-a8.png",
+      "agency": "FBI",
+      "source_file_id": "d5cd4db1-2eb0-43fc-ad10-0341a2c264d0",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:2e7f88a3fb7bebb7a8f1f442",
+      "external_id": null,
+      "title": "FBI Photo B001",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b1.pdf",
+      "agency": "FBI",
+      "source_file_id": "49566538-470c-4370-b272-5655d014d0ec",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:b43694b35265a0043beb690b",
+      "external_id": null,
+      "title": "FBI Photo B002",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b2.pdf",
+      "agency": "FBI",
+      "source_file_id": "ce846f4a-a47b-43b1-bc8c-9ee4589359de",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:91f05e7e2e1c72cee4f1ba14",
+      "external_id": null,
+      "title": "FBI Photo B003",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b3.pdf",
+      "agency": "FBI",
+      "source_file_id": "7196f303-477c-4879-8ed9-e4dd04dc35b0",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:288cbe3b0cb5a1979c500e59",
+      "external_id": null,
+      "title": "FBI Photo B004",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b4.pdf",
+      "agency": "FBI",
+      "source_file_id": "e234fcd1-34a6-4d41-bad8-52fd63fa95b8",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:8cb9199966a6a3df09d7d0c3",
+      "external_id": null,
+      "title": "FBI Photo B005",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b5.pdf",
+      "agency": "FBI",
+      "source_file_id": "ccdb0b62-ce93-4b11-87aa-01cc1a840c18",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:06b3adc7fe4d3e87e9263573",
+      "external_id": null,
+      "title": "FBI Photo B006",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b6.pdf",
+      "agency": "FBI",
+      "source_file_id": "bb0627b0-f9f2-4674-beff-d5e58624acd9",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:252cec4a1e7da76326a168fc",
+      "external_id": null,
+      "title": "FBI Photo B007",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b7.pdf",
+      "agency": "FBI",
+      "source_file_id": "be049aab-af8b-4b7a-a1a4-50a66422b451",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:f635e22addeccca1df46bd6d",
+      "external_id": null,
+      "title": "FBI Photo B008",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b8.pdf",
+      "agency": "FBI",
+      "source_file_id": "48d0a6f0-e07d-4a40-8d15-fbdb4e298952",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:6d93b6f5bd845661e8a87902",
+      "external_id": null,
+      "title": "FBI Photo B009",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b9.pdf",
+      "agency": "FBI",
+      "source_file_id": "f172e51f-a0b1-46f6-954a-a0cbd2646753",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:2537b3d7c50d0eeef55d6669",
+      "external_id": null,
+      "title": "FBI Photo B010",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b10.pdf",
+      "agency": "FBI",
+      "source_file_id": "43195343-6b4d-4774-afb7-0ebcabc23fe2",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:2e3afc21601758ec20892519",
+      "external_id": null,
+      "title": "FBI Photo B011",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b11.pdf",
+      "agency": "FBI",
+      "source_file_id": "e9e9fca2-7d24-4af8-a735-5ddf46f2846c",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:44bc0216acb7797e73e5f97b",
+      "external_id": null,
+      "title": "FBI Photo B012",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b12.pdf",
+      "agency": "FBI",
+      "source_file_id": "70843df3-7a2e-4c03-ac16-56ee7ce7dda2",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:d063d1e9346bc38406ca3531",
+      "external_id": null,
+      "title": "FBI Photo B013",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b13.pdf",
+      "agency": "FBI",
+      "source_file_id": "6b227e7f-f37e-45ed-baa5-5593fdb89b66",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:bf6ebcd3a12c614e9c21d520",
+      "external_id": null,
+      "title": "FBI Photo B014",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b14.pdf",
+      "agency": "FBI",
+      "source_file_id": "47cb3fcc-9171-4da5-a40d-5e86e2bd72c8",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:005989a337880ec0776ee018",
+      "external_id": null,
+      "title": "FBI Photo B015",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b15.pdf",
+      "agency": "FBI",
+      "source_file_id": "87bc49f9-aaaa-4ac5-bf0d-980b7e42b0e9",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:ff9075e3e7ba5dc7f13cd559",
+      "external_id": null,
+      "title": "FBI Photo B016",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b16.pdf",
+      "agency": "FBI",
+      "source_file_id": "e6894240-8963-4b3f-9623-27df32d7aadf",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:fb1534f03e50b590862f4873",
+      "external_id": null,
+      "title": "FBI Photo B017",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b17.pdf",
+      "agency": "FBI",
+      "source_file_id": "5654526b-9c25-4e31-a528-dbd2384364d9",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:f7bbba49ce36d38f98d5326a",
+      "external_id": null,
+      "title": "FBI Photo B018",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b18.pdf",
+      "agency": "FBI",
+      "source_file_id": "443a80b8-2f25-4ebe-8cb2-35819ab3d241",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:3aa52adca1798c35708bd3ff",
+      "external_id": null,
+      "title": "FBI Photo B019",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b19.pdf",
+      "agency": "FBI",
+      "source_file_id": "61b5a772-ccce-4815-a29a-481a1269a696",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:92566b5660646f79ae25c194",
+      "external_id": null,
+      "title": "FBI Photo B020",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b20.pdf",
+      "agency": "FBI",
+      "source_file_id": "0dbce3a7-e35a-4c6b-8869-2aa635ad1788",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:4638f6ab296e2f137269c21f",
+      "external_id": null,
+      "title": "FBI Photo B021",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b21.pdf",
+      "agency": "FBI",
+      "source_file_id": "504e9204-ad90-4d8b-a768-44210dad1ec8",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:ab8050c397cd35c4d761b4c3",
+      "external_id": null,
+      "title": "FBI Photo B022",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b22.pdf",
+      "agency": "FBI",
+      "source_file_id": "29fec5a3-25ef-4c5a-9477-1d16932a51a1",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:399f7993165a4ffff59bcaa5",
+      "external_id": null,
+      "title": "FBI Photo B023",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b23.pdf",
+      "agency": "FBI",
+      "source_file_id": "4e600eff-b84e-4370-be80-1d3dcdf97d23",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:a4b454ef5d90d5486fb7d069",
+      "external_id": null,
+      "title": "FBI Photo B024",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b24.pdf",
+      "agency": "FBI",
+      "source_file_id": "1eb7ecbf-2c60-4155-bf57-423278e1c181",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:c2b36355c5dd5d8ed12407fb",
+      "external_id": null,
+      "title": "FBI September 2023 Sighting - Composite Sketch",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/2024-04-30-composite-sketch.pdf",
+      "agency": "FBI",
+      "source_file_id": "c537d618-8b4f-4dc1-8112-1a3806809b96",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:74aea1a805bd4eeb65ffab27",
+      "external_id": null,
+      "title": "FBI September 2023 Sighting - Serial 003",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/serial 5 redacted_redacted.pdf",
+      "agency": "FBI",
+      "source_file_id": "a14524be-707a-4c09-bb09-a485c663af64",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:2fdd534b5919eaef7d4e32a6",
+      "external_id": null,
+      "title": "FBI September 2023 Sighting - Serial 004",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/serial-3_redacted.pdf",
+      "agency": "FBI",
+      "source_file_id": "56cbdcbe-e40c-46d5-beb4-9b03add89cc2",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:20df026a17d292151eaffd60",
+      "external_id": null,
+      "title": "FBI September 2023 Sighting - Serial 005",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/serial-4-redacted_redacted.pdf",
+      "agency": "FBI",
+      "source_file_id": "e10c81cd-6b7b-4d06-a84d-404c615dec37",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:NASA-UAP-D001",
+      "external_id": "NASA-UAP-D001",
+      "title": "NASA-UAP-D001, Apollo 12 Transcript, 1969",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/nasa-uap-d1-apollo-12-transcript-1969.pdf",
+      "agency": "NASA",
+      "source_file_id": "af00f698-9997-481b-b103-075d6f27a978",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:NASA-UAP-D002",
+      "external_id": "NASA-UAP-D002",
+      "title": "NASA-UAP-D002, Apollo 17 Transcript, 1972",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/nasa-uap-d2-apollo-17-transcript-1972.pdf",
+      "agency": "NASA",
+      "source_file_id": "4c4c1fb9-7af7-4d40-8d7e-fb673b690d90",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:NASA-UAP-D003",
+      "external_id": "NASA-UAP-D003",
+      "title": "NASA-UAP-D003, Gemini 7 Transcript, 1965",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/255_t_763_r1b_transcripts.pdf",
+      "agency": "NASA",
+      "source_file_id": "0032cb31-cc3a-47bc-a276-9cbffe364975",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:NASA-UAP-D004",
+      "external_id": "NASA-UAP-D004",
+      "title": "NASA-UAP-D004, Apollo 11 Technical Crew Debriefing, 1969",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.pdf",
+      "agency": "NASA",
+      "source_file_id": "4919d6d3-490c-4a20-9bfa-d8dc481b3cc5",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:NASA-UAP-D005",
+      "external_id": "NASA-UAP-D005",
+      "title": "NASA-UAP-D005, Apollo 17 Crew Debriefing for Science, 1973",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973.pdf",
+      "agency": "NASA",
+      "source_file_id": "f36562ba-c437-4ec5-9398-9e9093df30b2",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:NASA-UAP-D006",
+      "external_id": "NASA-UAP-D006",
+      "title": "NASA-UAP-D006, Apollo 17 Technical Crew Debriefing, 1973",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/nasa-uap-d6-apollo-17-technical-crew-debriefing-1973.pdf",
+      "agency": "NASA",
+      "source_file_id": "4d6ad77a-9bd1-412e-b05d-3edf8225f30e",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:NASA-UAP-D007",
+      "external_id": "NASA-UAP-D007",
+      "title": "NASA-UAP-D007, Skylab Technical Crew Debriefing 1973",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/nasa-uap-d7-skylab-technical-crew-debriefing-1973.pdf",
+      "agency": "NASA",
+      "source_file_id": "c4a2399a-9fe7-455f-95fb-4b101e0e4276",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:a75247614fb9518b2fa321ad",
+      "external_id": null,
+      "title": "NASA-UAP-VM001, Apollo 12, 1969",
+      "source_type": "image",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/nasa-uap-vm1-apollo-12-1969.jpg",
+      "agency": "NASA",
+      "source_file_id": "7d2d86ec-b638-4770-b4f3-f1a2026cb487",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:85d51dd1fc5925fdc09e8885",
+      "external_id": null,
+      "title": "NASA-UAP-VM002, Apollo 12, 1969",
+      "source_type": "image",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/nasa-uap-vm2-apollo-12-1969.jpg",
+      "agency": "NASA",
+      "source_file_id": "b01b8cca-8712-475e-ad1b-d714139743b7",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:b9e328bb436308ee4edbddce",
+      "external_id": null,
+      "title": "NASA-UAP-VM003, Apollo 12, 1969",
+      "source_type": "image",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/nasa-uap-vm3-apollo-12-1969.jpg",
+      "agency": "NASA",
+      "source_file_id": "11ed1d59-5c3e-4096-a5b1-99d6ba724b02",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:b0afbc3feed4cfe5636592f4",
+      "external_id": null,
+      "title": "NASA-UAP-VM004, Apollo 12, 1969",
+      "source_type": "image",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/nasa-uap-vm4-apollo-12-1969.jpg",
+      "agency": "NASA",
+      "source_file_id": "77f4ed48-2f7b-446e-a3d2-e9c195f7b88c",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:6476a6791240453ce39b44dd",
+      "external_id": null,
+      "title": "NASA-UAP-VM005, Apollo 12, 1969",
+      "source_type": "image",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/nasa-uap-vm5-apollo-12-1969.jpg",
+      "agency": "NASA",
+      "source_file_id": "74e5be23-c1ff-422d-970a-1e312c492906",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:6fb31a73293472ecf6f21a79",
+      "external_id": null,
+      "title": "NASA-UAP-VM006, Apollo 17, 1972",
+      "source_type": "image",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/nasa-uap-vm6-apollo-17-1972.jpg",
+      "agency": "NASA",
+      "source_file_id": "2946c261-3cc1-4396-b6a9-f1795a40b09a",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:DOS-UAP-D1",
+      "external_id": "DOS-UAP-D1",
+      "title": "State Department UAP Cable 001, Papua New Guinea, January 28, 1985",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/dos-uap-d1-cable-1-papua-new-guinea-january-1985.pdf",
+      "agency": "State",
+      "source_file_id": "a71647db-18b4-46fa-8bf9-02dada805104",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:DOS-UAP-D2",
+      "external_id": "DOS-UAP-D2",
+      "title": "State Department UAP Cable 002, Kazakhstan, January 31, 1994",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/dos-uap-d2-cable-2-kazakhstan-january-1994.pdf",
+      "agency": "State",
+      "source_file_id": "9ad1d4a7-2b88-47dd-970d-5c2f51eaf36d",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:53f2aa475ad749d3c785c93d",
+      "external_id": null,
+      "title": "State Department UAP Cable 003, Tbilisi, Georgia, October 30, 2001",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/059uap00011.pdf",
+      "agency": "State",
+      "source_file_id": "c0f99388-4ca5-42fd-9b74-4b77dc624889",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:a147d391d410c791399bf129",
+      "external_id": null,
+      "title": "State Department UAP Cable 004, Ashgabat, Turkmenistan, November 5, 2004",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/059uap00012.pdf",
+      "agency": "State",
+      "source_file_id": "3858358b-3a67-44a1-9807-5ccf9f435f0d",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:2fd3773d5b92a3af0799b8a0",
+      "external_id": null,
+      "title": "State Department UAP Cable 005, Mexico, September 16, 2003",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/059uap00013.pdf",
+      "agency": "State",
+      "source_file_id": "c96201bd-e261-44c6-acc8-a9bce38cca24",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:b1c1f5db427be0b832e40446",
+      "external_id": null,
+      "title": "USPER Statement about UAP Sighting",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/usper-statement-redacted.pdf",
+      "agency": "FBI",
+      "source_file_id": "b7c3fa49-d7f8-45ec-90cb-22a8e2436c00",
+      "match": "exact"
+    },
+    {
+      "identity_key": "pursue:h:710165f7000af90d8989202d",
+      "external_id": null,
+      "title": "Western US Event",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/western_us_event_slides_5.08.2026.pdf",
+      "agency": "DoW",
+      "source_file_id": "1515196d-5d48-415c-9dc9-d4d52d95224c",
+      "match": "exact"
+    }
+  ],
+  "normalized": [
+    {
+      "identity_key": "pursue:DOW-UAP-PR019",
+      "external_id": "DOW-UAP-PR019",
+      "title": "DOW-UAP-PR019, Unresolved UAP Report, Middle East, May 2022",
+      "source_type": "video",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d10-mission-report-middle-east-may-2022.pdf",
+      "agency": "DoW",
+      "source_file_id": "3ce3f7dc-d6e2-4f37-a4f8-bc2ba738a7c7",
+      "match": "dvids_id",
+      "dvids_video_id": "1006056",
+      "production_url": "https://www.dvidshub.net/video/1006056"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-PR021",
+      "external_id": "DOW-UAP-PR021",
+      "title": "DOW-UAP-PR021, Unresolved UAP Report, Iraq, May 2022",
+      "source_type": "video",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d14-mission-report-iraq-may-2022.pdf",
+      "agency": "DoW",
+      "source_file_id": "4bbb69a1-0109-43c9-9abc-35b1e364fdac",
+      "match": "dvids_id",
+      "dvids_video_id": "1006059",
+      "production_url": "https://www.dvidshub.net/video/1006059"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-PR022",
+      "external_id": "DOW-UAP-PR022",
+      "title": "DOW-UAP-PR022, Unresolved UAP Report, Syria, July 2022",
+      "source_type": "video",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d16-mission-report-syria-july-2022.pdf",
+      "agency": "DoW",
+      "source_file_id": "49a0717d-bb3d-49af-9383-02503249042b",
+      "match": "dvids_id",
+      "dvids_video_id": "1006060",
+      "production_url": "https://www.dvidshub.net/video/1006060"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-PR023",
+      "external_id": "DOW-UAP-PR023",
+      "title": "DOW-UAP-PR023, Unresolved UAP Report, Iraq, December 2022",
+      "source_type": "video",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d18-mission-report-iraq-december-2022.pdf",
+      "agency": "DoW",
+      "source_file_id": "9c9e7ec5-fe6b-4fa2-8656-6b0643943a32",
+      "match": "dvids_id",
+      "dvids_video_id": "1006062",
+      "production_url": "https://www.dvidshub.net/video/1006062"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-PR026",
+      "external_id": "DOW-UAP-PR026",
+      "title": "DOW-UAP-PR026, Unresolved UAP Report, United Arab Emirates, October 2023",
+      "source_type": "video",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d23-mission-report-united-arab-emirates-october-2023.pdf",
+      "agency": "DoW",
+      "source_file_id": "4308ed76-0a0d-4db8-96b2-de2a322e17ee",
+      "match": "dvids_id",
+      "dvids_video_id": "1006063",
+      "production_url": "https://www.dvidshub.net/video/1006063"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-PR027",
+      "external_id": "DOW-UAP-PR027",
+      "title": "DOW-UAP-PR027, Unresolved UAP Report, United Arab Emirates, October 2023",
+      "source_type": "video",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d23-mission-report-united-arab-emirates-october-2023.pdf",
+      "agency": "DoW",
+      "source_file_id": "c305e4fc-220d-4310-ad15-840fc2384fac",
+      "match": "dvids_id",
+      "dvids_video_id": "1006067",
+      "production_url": "https://www.dvidshub.net/video/1006067"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-PR028",
+      "external_id": "DOW-UAP-PR028",
+      "title": "DOW-UAP-PR028, Unresolved UAP Report, Greece, January 2024",
+      "source_type": "video",
+      "original_url": "",
+      "agency": "DoW",
+      "source_file_id": "20c55efa-f37a-44ea-ac55-070c095e3446",
+      "match": "dvids_id",
+      "dvids_video_id": "1006073",
+      "production_url": "https://www.dvidshub.net/video/1006073"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-PR029",
+      "external_id": "DOW-UAP-PR029",
+      "title": "DOW-UAP-PR029, Unresolved UAP Report, United Arab Emirates, June 2024",
+      "source_type": "video",
+      "original_url": "",
+      "agency": "DoW",
+      "source_file_id": "c531c966-6d98-4cb5-acc3-6216dfbdacbd",
+      "match": "dvids_id",
+      "dvids_video_id": "1006074",
+      "production_url": "https://www.dvidshub.net/video/1006074"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-PR031",
+      "external_id": "DOW-UAP-PR031",
+      "title": "DOW-UAP-PR031, Unresolved UAP Report, Syria, October 2024",
+      "source_type": "video",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d32-mission-report,-syria-october-2024.pdf",
+      "agency": "DoW",
+      "source_file_id": "dd728f7b-df88-4c79-9487-b59f4ce005e1",
+      "match": "dvids_id",
+      "dvids_video_id": "1006076",
+      "production_url": "https://www.dvidshub.net/video/1006076"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-PR032",
+      "external_id": "DOW-UAP-PR032",
+      "title": "DOW-UAP-PR032, Unresolved UAP Report, Syria, October 2024",
+      "source_type": "video",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d32-mission-report,-syria-october-2024.pdf",
+      "agency": "DoW",
+      "source_file_id": "d5b01831-053b-4a77-b74a-5e2a01423b52",
+      "match": "dvids_id",
+      "dvids_video_id": "1006078",
+      "production_url": "https://www.dvidshub.net/video/1006078"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-PR033",
+      "external_id": "DOW-UAP-PR033",
+      "title": "DOW-UAP-PR033, Unresolved UAP Report, Syria, October 2024",
+      "source_type": "video",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d32-mission-report,-syria-october-2024.pdf",
+      "agency": "DoW",
+      "source_file_id": "0bd0b220-3905-4bd9-8189-71f34c607f8d",
+      "match": "dvids_id",
+      "dvids_video_id": "1006079",
+      "production_url": "https://www.dvidshub.net/video/1006079"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-PR034",
+      "external_id": "DOW-UAP-PR034",
+      "title": "DOW-UAP-PR034, Unresolved UAP Report, Greece, October 2023",
+      "source_type": "video",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d33-mission-report-greece-october-2023.pdf",
+      "agency": "DoW",
+      "source_file_id": "2454b90e-e226-4753-b94d-e8e015336943",
+      "match": "dvids_id",
+      "dvids_video_id": "1006080",
+      "production_url": "https://www.dvidshub.net/video/1006080"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-PR035",
+      "external_id": "DOW-UAP-PR035",
+      "title": "DOW-UAP-PR035, Unresolved UAP Report, Greece, October 2023",
+      "source_type": "video",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d35-mission-report-greece-october-2023.pdf",
+      "agency": "DoW",
+      "source_file_id": "9a859376-8367-469c-b7dc-4480b589da15",
+      "match": "dvids_id",
+      "dvids_video_id": "1006082",
+      "production_url": "https://www.dvidshub.net/video/1006082"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-PR036",
+      "external_id": "DOW-UAP-PR036",
+      "title": "DOW-UAP-PR036, Unresolved UAP Report, Middle East, May 2020",
+      "source_type": "video",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d38-range-fouler-debrief-middle-east-may-2020.pdf",
+      "agency": "DoW",
+      "source_file_id": "7d9289bf-8937-4f7a-b3d6-67ac73f4e967",
+      "match": "dvids_id",
+      "dvids_video_id": "1006083",
+      "production_url": "https://www.dvidshub.net/video/1006083"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-PR037",
+      "external_id": "DOW-UAP-PR037",
+      "title": "DOW-UAP-PR037, Unresolved UAP Report, Middle East, 2020",
+      "source_type": "video",
+      "original_url": "",
+      "agency": "DoW",
+      "source_file_id": "46b3a862-baf8-4bbf-b09c-0e5d36852146",
+      "match": "dvids_id",
+      "dvids_video_id": "1006087",
+      "production_url": "https://www.dvidshub.net/video/1006087"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-PR038",
+      "external_id": "DOW-UAP-PR038",
+      "title": "DOW-UAP-PR038, Unresolved UAP Report, Middle East, 2013",
+      "source_type": "video",
+      "original_url": "",
+      "agency": "DoW",
+      "source_file_id": "387281db-7d68-45b3-a5b5-8bbd2f06b8bb",
+      "match": "dvids_id",
+      "dvids_video_id": "1006088",
+      "production_url": "https://www.dvidshub.net/video/1006088"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-PR039",
+      "external_id": "DOW-UAP-PR039",
+      "title": "DOW-UAP-PR039, Unresolved UAP Report, Middle East, 2020",
+      "source_type": "video",
+      "original_url": "",
+      "agency": "DoW",
+      "source_file_id": "97f1fa18-f420-40d3-bac4-8944709dd08f",
+      "match": "dvids_id",
+      "dvids_video_id": "1006089",
+      "production_url": "https://www.dvidshub.net/video/1006089"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-PR040",
+      "external_id": "DOW-UAP-PR040",
+      "title": "DOW-UAP-PR040, Unresolved UAP Report, Middle East, 2020",
+      "source_type": "video",
+      "original_url": "",
+      "agency": "DoW",
+      "source_file_id": "464b3bf4-47eb-49fa-97b3-333118ad33e8",
+      "match": "dvids_id",
+      "dvids_video_id": "1006093",
+      "production_url": "https://www.dvidshub.net/video/1006093"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-PR041",
+      "external_id": "DOW-UAP-PR041",
+      "title": "DOW-UAP-PR041, Unresolved UAP Report, Middle East, 2020",
+      "source_type": "video",
+      "original_url": "",
+      "agency": "DoW",
+      "source_file_id": "6328e24b-8e00-4513-b766-cdeb069786ab",
+      "match": "dvids_id",
+      "dvids_video_id": "1006094",
+      "production_url": "https://www.dvidshub.net/video/1006094"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-PR042",
+      "external_id": "DOW-UAP-PR042",
+      "title": "DOW-UAP-PR042, Unresolved UAP Report, Middle East, 2020",
+      "source_type": "video",
+      "original_url": "",
+      "agency": "DoW",
+      "source_file_id": "2e5b856d-8db7-4d8a-b026-9cf56d5a416c",
+      "match": "dvids_id",
+      "dvids_video_id": "1006097",
+      "production_url": "https://www.dvidshub.net/video/1006097"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-PR043",
+      "external_id": "DOW-UAP-PR043",
+      "title": "DOW-UAP-PR043, Unresolved UAP Report, Africa, 2025",
+      "source_type": "video",
+      "original_url": "",
+      "agency": "DoW",
+      "source_file_id": "faee3c24-de5b-44eb-8510-8c679787dbe9",
+      "match": "dvids_id",
+      "dvids_video_id": "1006159",
+      "production_url": "https://www.dvidshub.net/video/1006159"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-PR044",
+      "external_id": "DOW-UAP-PR044",
+      "title": "DOW-UAP-PR044, Unresolved UAP Report, Middle East, 2020",
+      "source_type": "video",
+      "original_url": "",
+      "agency": "DoW",
+      "source_file_id": "603d1f69-cc8d-4820-836e-fab1339610f3",
+      "match": "dvids_id",
+      "dvids_video_id": "1006104",
+      "production_url": "https://www.dvidshub.net/video/1006104"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-PR045",
+      "external_id": "DOW-UAP-PR045",
+      "title": "DOW-UAP-PR045, Unresolved UAP Report, Middle East, 2020",
+      "source_type": "video",
+      "original_url": "",
+      "agency": "DoW",
+      "source_file_id": "1e9acf41-c267-498f-b2fe-f30b3ec1b8ce",
+      "match": "dvids_id",
+      "dvids_video_id": "1006105",
+      "production_url": "https://www.dvidshub.net/video/1006105"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-PR046",
+      "external_id": "DOW-UAP-PR046",
+      "title": "DOW-UAP-PR046, Unresolved UAP Report, INDOPACOM, 2024",
+      "source_type": "video",
+      "original_url": "",
+      "agency": "DoW",
+      "source_file_id": "bef03070-4f25-4c56-af29-5e63f51eb2c1",
+      "match": "dvids_id",
+      "dvids_video_id": "1006106",
+      "production_url": "https://www.dvidshub.net/video/1006106"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-PR047",
+      "external_id": "DOW-UAP-PR047",
+      "title": "DOW-UAP-PR047, Unresolved UAP Report, INDOPACOM, 2023",
+      "source_type": "video",
+      "original_url": "",
+      "agency": "DoW",
+      "source_file_id": "0824a6b8-51af-4965-974d-a4828c5338af",
+      "match": "dvids_id",
+      "dvids_video_id": "1006107",
+      "production_url": "https://www.dvidshub.net/video/1006107"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-PR048",
+      "external_id": "DOW-UAP-PR048",
+      "title": "DOW-UAP-PR048, Unresolved UAP Report, INDOPACOM, 2024",
+      "source_type": "video",
+      "original_url": "",
+      "agency": "DoW",
+      "source_file_id": "e7030966-aef1-489f-ab42-e32bd2a944a5",
+      "match": "dvids_id",
+      "dvids_video_id": "1006110",
+      "production_url": "https://www.dvidshub.net/video/1006110"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-PR049",
+      "external_id": "DOW-UAP-PR049",
+      "title": "DOW-UAP-PR049, Unresolved UAP Report, Department of the Army, 2026",
+      "source_type": "video",
+      "original_url": "",
+      "agency": "DoW",
+      "source_file_id": "4f4a2e44-32d0-46e7-beab-a0773aaa2a25",
+      "match": "dvids_id",
+      "dvids_video_id": "1006111",
+      "production_url": "https://www.dvidshub.net/video/1006111"
+    },
+    {
+      "identity_key": "pursue:NASA-UAP-D003A",
+      "external_id": "NASA-UAP-D003A",
+      "title": "NASA-UAP-D003A, Gemini 7 Audio Excerpt, 1965",
+      "source_type": "audio",
+      "original_url": "",
+      "agency": "NASA",
+      "source_file_id": "ca524f87-c959-494e-87a2-24446440e0fc",
+      "match": "dvids_id",
+      "dvids_video_id": "1006119",
+      "production_url": "https://www.dvidshub.net/video/1006119"
+    }
+  ],
+  "ambiguous": [],
+  "missing_locally": [
+    {
+      "identity_key": "pursue:h:de137120ce699271546cb2a9",
+      "external_id": null,
+      "title": "59_64634_711.5612[7-2852",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/59_64634_711.5612[7-2852.pdf",
+      "agency": "State"
+    },
+    {
+      "identity_key": "pursue:h:467aa993d9261d92e418d529",
+      "external_id": null,
+      "title": "65_HS1-834228961_62-HQ-83894_Serial_153",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_153.pdf",
+      "agency": "FBI"
+    },
+    {
+      "identity_key": "pursue:DOW-UAP-D020",
+      "external_id": "DOW-UAP-D020",
+      "title": "DOW-UAP-D020, Mission Report, Iraq, 2023",
+      "source_type": "pdf",
+      "original_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d20-mission-report-iraq-2023.pdf",
+      "agency": "DoW"
+    }
+  ],
+  "local_only": [
+    {
+      "source_file_id": "cf211df5-d179-4fe1-95aa-de95affbdf85",
+      "url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d20-mission-report-southern-united-states-2020.pdf",
+      "filename": "DOW-UAP-D20, Mission Report, Southern United States, 2020",
+      "file_type": "pdf",
+      "agency": "DEPARTMENT OF WAR"
+    },
+    {
+      "source_file_id": "fa00c9ee-dda7-4007-bfe0-e78a9e3a4529",
+      "url": "https://www.war.gov/medialink/ufo/release_1/59_214434_sp_16_7.18.1963.pdf",
+      "filename": "59_64634_711.5612[7-2852",
+      "file_type": "pdf",
+      "agency": "DEPARTMENT OF STATE"
+    },
+    {
+      "source_file_id": "8bba6a83-cd36-446c-8ab7-662be4bf904b",
+      "url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-8342289+M5+M11",
+      "filename": "65_HS1-834228961_62-HQ-83894_Serial_153",
+      "file_type": "pdf",
+      "agency": "FBI"
+    },
+    {
+      "source_file_id": "876936f9-f1cb-4d72-bbd5-72239df2643a",
+      "url": "https://www.war.gov/medialink/ufo/release_1/nasa-uap-d3-gemini-7-transcript-1965.pdf",
+      "filename": "NASA-UAP-D3, Gemini 7 Transcript, 1965",
+      "file_type": "pdf",
+      "agency": "NASA"
+    },
+    {
+      "source_file_id": "afeec03f-7223-4ed4-9a22-1d15379da043",
+      "url": "https://www.war.gov/portals/1/Interactive/2026/UFO/Slideshow/FBI-Photo-1.jpg",
+      "filename": "FBI-Photo-1.jpg",
+      "file_type": "jpg",
+      "agency": "FBI"
+    },
+    {
+      "source_file_id": "0afda8db-8274-4619-9d15-368061bda4f6",
+      "url": "https://www.war.gov/portals/1/Interactive/2026/UFO/Slideshow/FBI-Photo-A5.jpg",
+      "filename": "FBI-Photo-A5.jpg",
+      "file_type": "jpg",
+      "agency": "FBI"
+    },
+    {
+      "source_file_id": "6b3c8b92-e476-41eb-8473-dda2e3da1682",
+      "url": "https://www.war.gov/portals/1/Interactive/2026/UFO/Slideshow/FBI-Photo-B2.jpg",
+      "filename": "FBI-Photo-B2.jpg",
+      "file_type": "jpg",
+      "agency": "FBI"
+    },
+    {
+      "source_file_id": "329726a4-9e3b-4c28-b8f9-ebaa1f60b117",
+      "url": "https://www.war.gov/portals/1/Interactive/2026/UFO/Slideshow/FBI-Photo-B7-.jpg",
+      "filename": "FBI-Photo-B7-.jpg",
+      "file_type": "jpg",
+      "agency": "FBI"
+    },
+    {
+      "source_file_id": "112a5b61-b634-4fd8-9ee5-610d67788e45",
+      "url": "https://www.war.gov/portals/1/Interactive/2026/UFO/Slideshow/FBI-Photo-B18.jpg",
+      "filename": "FBI-Photo-B18.jpg",
+      "file_type": "jpg",
+      "agency": "FBI"
+    },
+    {
+      "source_file_id": "fa6b4e5f-156e-4902-a7e3-2893540d6e4f",
+      "url": "https://www.war.gov/portals/1/Interactive/2026/UFO/Slideshow/NASA-UAP-VM6-Apollo-17-1972.jpg",
+      "filename": "NASA-UAP-VM6-Apollo-17-1972.jpg",
+      "file_type": "jpg",
+      "agency": "NASA"
+    },
+    {
+      "source_file_id": "19b95792-62af-48db-8abd-f503eb5b1e59",
+      "url": "https://www.war.gov/portals/1/Interactive/2026/UFO/Slideshow/DOW-UAP-PR26-Unresolved-UAP-Report-United-Arab-Emirates-October-2023.jpg",
+      "filename": "DOW-UAP-PR26-Unresolved-UAP-Report-United-Arab-Emirates-October-2023.jpg",
+      "file_type": "jpg",
+      "agency": "DoD"
+    },
+    {
+      "source_file_id": "2af1e66e-43da-4680-a613-c5604065f9f4",
+      "url": "https://www.war.gov/portals/1/Interactive/2026/UFO/Slideshow/DOW-UAP-PR35-Unresolved-UAP-Report-Greece-October-2023.jpg",
+      "filename": "DOW-UAP-PR35-Unresolved-UAP-Report-Greece-October-2023.jpg",
+      "file_type": "jpg",
+      "agency": "DoD"
+    },
+    {
+      "source_file_id": "8b67c26c-a74e-4e96-877f-c47066a53335",
+      "url": "https://www.war.gov/portals/1/Interactive/2026/UFO/Slideshow/DOW-UAP-PR38-Unresolved-UAP-Report-Middle-East-2013.jpg",
+      "filename": "DOW-UAP-PR38-Unresolved-UAP-Report-Middle-East-2013.jpg",
+      "file_type": "jpg",
+      "agency": "DoD"
+    },
+    {
+      "source_file_id": "651263f6-c019-4d3a-b8b0-b6a0173029ca",
+      "url": "https://www.war.gov/portals/1/Interactive/2026/UFO/Slideshow/DOW-UAP-PR45-Unresolved-UAP-Report-Middle-East-2020.jpg",
+      "filename": "DOW-UAP-PR45-Unresolved-UAP-Report-Middle-East-2020.jpg",
+      "file_type": "jpg",
+      "agency": "DoD"
+    },
+    {
+      "source_file_id": "8331de53-460b-4ff2-9328-beec92acb9d8",
+      "url": "https://www.war.gov/portals/1/Interactive/2026/UFO/Slideshow/DOW-UAP-PR46-Unresolved-UAP-Report-INDOPACOM-2024.jpg",
+      "filename": "DOW-UAP-PR46-Unresolved-UAP-Report-INDOPACOM-2024.jpg",
+      "file_type": "jpg",
+      "agency": "DoD"
+    },
+    {
+      "source_file_id": "be86856b-26ba-4307-acfb-b9d4a1bdfbca",
+      "url": "https://www.war.gov/portals/1/Interactive/2026/UFO/Slideshow/FBI-Photo-B20.jpg",
+      "filename": "FBI-Photo-B20.jpg",
+      "file_type": "jpg",
+      "agency": "FBI"
+    },
+    {
+      "source_file_id": "02c6ce0a-7691-401d-b9b5-3d0549876060",
+      "url": "https://www.war.gov/portals/1/Interactive/2026/UFO/Slideshow/DOW-UAP-PR19-Unresolved-UAP-Report-Middle-East-May-2022.jpg",
+      "filename": "DOW-UAP-PR19-Unresolved-UAP-Report-Middle-East-May-2022.jpg",
+      "file_type": "jpg",
+      "agency": "DoD"
+    },
+    {
+      "source_file_id": "ecf3aa39-3f0d-414c-a986-0fb3245986ef",
+      "url": "https://www.war.gov/portals/1/Interactive/2026/UFO/Slideshow/DOW-UAP-PR34-Unresolved-UAP-Report-Greece-October-2023.jpg",
+      "filename": "DOW-UAP-PR34-Unresolved-UAP-Report-Greece-October-2023.jpg",
+      "file_type": "jpg",
+      "agency": "DoD"
+    },
+    {
+      "source_file_id": "fff34728-7365-4702-af55-be0f71488649",
+      "url": "https://www.war.gov/portals/1/Interactive/2026/UFO/Slideshow/DOW-UAP-PR43-Unresolved-UAP-Report-Africa-2025.jpg",
+      "filename": "DOW-UAP-PR43-Unresolved-UAP-Report-Africa-2025.jpg",
+      "file_type": "jpg",
+      "agency": "DoD"
+    },
+    {
+      "source_file_id": "93e43e55-ec3d-4968-b568-531d1fe6ce7b",
+      "url": "https://www.war.gov/portals/1/Interactive/2026/UFO/Slideshow/DOW-UAP-PR49-Unresolved-UAP-Report-Department-of-the-Army-2026.jpg",
+      "filename": "DOW-UAP-PR49-Unresolved-UAP-Report-Department-of-the-Army-2026.jpg",
+      "file_type": "jpg",
+      "agency": "DoD"
+    },
+    {
+      "source_file_id": "7f70a650-a48f-422e-a0f5-bc0b58a767ec",
+      "url": "https://www.war.gov/portals/1/Interactive/2026/UFO/Slideshow/2024-04-30-Composite-Sketch.jpg",
+      "filename": "2024-04-30-Composite-Sketch.jpg",
+      "file_type": "jpg",
+      "agency": "FBI"
+    }
+  ],
+  "writes": {
+    "source_records_upserted": 158,
+    "source_files_linked": 155,
+    "incident_sources_created": 476
+  }
+}

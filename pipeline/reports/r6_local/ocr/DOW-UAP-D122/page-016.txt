@@ -1,0 +1,57 @@
+UNCLASSIFIED/ /FOR: OFFl@IAL l!ISI!!! 9HL'f 
+converted into the electromagnetic oscillation of the gold part icle in much the same way 
+a tun ing fork responds to sound of the right frequency . 
+However, the electromagnetic oscillation 
+is damped out by the electric resistance 
+in the metal, and its energy is absorbed 
+and ultimately turned into heat . The 
+color of light corresponds to the 
+frequency or wavelength . If one of the 
+frequencies is absorbed, the 
+correspond ing color is missing in the 
+spectrum. For the gold part icles in the 
+Lycurgus Cup, th is color is green; a 
+spectrum with green missing appears 
+red, which produces the cup's exquisite 
+color . (Light is also scattered in the 
+material , and this scattering is enhanced 
+near the green of the resonance; hence 
+the greenish color of the cup seen in 
+daylig ht.) 
+What is new about metamateria ls is the 
+degree of control on the ir struc tures 
+achieved by apply ing modern technology 
+and the level of theoret ical 
+Figure 12. Lycurgus Cup (British Museum; fourth 
+century AD). This Roman cup is made of ruby glass. 
+When viewed in reflect ed light - for examp le, in daylight­
+it appea rs green. However, when a light is shone into t he 
+cup and transmitted through the glass, it a ppears red. 
+The cup illustrat es the myth of King Lycurgus. He is seen 
+being dragged into the underworld by the Greek nymph 
+Ambrosia, who is disguised as a vine. 
+understand ing of their work ings. The Romans most probab ly never understood why 
+ruby glass is neither golde n like gold nor transparent like glass, its ingred ients, but 
+ruby . They did not know that light is an electromagnetic wave, nor did they know the 
+basic laws of electromagnet ism. And they would not have had the technolog ical tools to 
+use this knowledge in the design of novel optical metamaterials . 
+Optical Metamaterials 
+As light is simply an electromagnetic wave with shorter wavelengths than microwave 
+radiation , one could imagine an optica l cloaking device as the microwave cloak but with 
+much smaller cells, fitted to the smaller wavelength. However, this simple idea is too 
+simple, for two different reasons. One is that metals like the copper of the circuit board 
+or the gold of ruby glass are more electrically resistant to currents oscillat ing with the 
+frequency of visible light than to currents in the microwave range of the spectrum. 
+Second, and more important, the cells of a metamaterial also emit electromagnetic 
+radiation in an incoherent way, not just as a coherent response to the incoming 
+electromagnet ic wave, similar to the spontaneous emission of light by atoms and 
+molecules. The spontaneous emission is significant ly stronger in the optical range of the 
+spectrum. In short, metamater ials do not scale; they must be designed differently for 
+visible light, and the loss of light by absorption and incoherent scatte ring usually is 
+greater for visible light than for microwaves. Figure 13 below illustrates the idea19 for 
+an optical cloaking metamaterial. Instead of split -ring resonators, nano-scale metal 
+wires are embedded in a transparent host mater ial, for example glass. The wires 
+replace the split -ring resonators on the circuit board of the microwave -cloaking device . 
+They act similarly to the gold particles embedded in ruby glass; their optica l propert ies 
+UNCLASSIFIED/ /EAR OFFICIO! I 155 ODIL¥ 
+11

@@ -1,0 +1,28 @@
+UNCLASSIFIED//POR. Offl@IAI:: ~S& Qptk\f 
+Long-duration spaceflights will require copious amounts of water for the crew, and 
+water can be used to provide some shielding from neutrons for the astronauts. 
+Shielding material for gamma rays presents a weight problem. Lead is one of the best 
+shielding materials for gamma, but at a cost of about $10,000/lb to launch material into 
+space, lead shielding is expensive to use. 
+The International Space Station and other spacecra~ designed for long-term human 
+habitation usually have a small area that is heavily shielded to prevent excessive 
+radiation exposure to the crew during solar events. 
+In addition to the dangers of natural sources of radiation in space that can endanger 
+human health and safety, the propulsion techniques of nuclear fusion and fission 
+generate large fluxes of radiat ion. Neutron production is of special concern because 
+neutrons can penetrate metals and the structural material of space habitats. 
+The general equations that govern radiation shielding can help develop spacecraft 
+designs that will minimize radiation exposure. The intensity of gamma rays will 
+attenuate according to the following equat ion: 
+A..()-A.. - µI' ( 1.17) 'f-' r - 'f-'i11irial e 
+In equation 1.17, the flux of gamma rays or neutrons, given in particles per unit area 
+per unit time, is represented by <P(r); ¢ 1n1t1a1 represents the initial flux without the 
+shielding; and µ is the linear attenuation coefficient, a function of the gamma ray or 
+neutron energy and the type of shielding material. The thickness of the material is 
+represented by r. The radiation flux decreases with distance since photons or 
+radioactive particles typically expand outward through a spherical area of 4rcr2 as shown 
+in Figure 3. Equation 1.18 shows the relationship between total attenuation, particle 
+flux, and radiation exposure . 
+Figure 3. Spherical Radiation Shield Surrounding a Point Source. 
+UNCLASSIFIED/fF&A &FFI€il.t.k W&& Qptk\f 
+8

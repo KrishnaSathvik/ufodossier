@@ -1,0 +1,48 @@
+UNCLASSIFIED/ /P(Ht err1e1s1tt l!ISI!!! 9HL'I 
+Technological Approaches to Controlling External Devices 
+in the Absence of Limb-Operated Interfaces 
+Introduction 
+Since the advent of modern interactive control of computers, technologies 
+have been sought to directly connect the biological and the physical to form a 
+seamless entity. While science fiction explores the possibilities of shared 
+consciousness between brains and mainframes, real-life scientists work 
+toward an equally fantastic but more pedestrian goal of eliminating required 
+electromechanical human-machine interfaces (HMis). Such technologies 
+promise integration of thought and computer-controlled action, without the 
+need for a limb-operated device to translate intent from physiological 
+networks to physical circuits. 
+This paper first briefly reviews underlying neural structure, function, and 
+activity to provide background on the type of signals and the scale of temporal 
+changes that arise from conscious control within the nervous system. A short 
+primer on brain-machine interfaces (BMis) is included at the end of the 
+background material. This is followed by a survey of the state-of-the-art 
+detection and stimulation technologies available utilizing noninvasive and 
+invasive methods, including several studies that exemplify research paths 
+currently being undertaken. Discussion brings together elements of the 
+technology survey, application limitations, a timeline for useful commercial 
+deployment, and predicted future research directions. Two technology 
+research paths are highlighted as the most probable to produce functionally 
+useful devices (defined as nearly equal or even superior to the control 
+capabilities of current HMis) in the near and far term. 
+The technology endpoint this paper seeks is thought-based operation of 
+remote machinery during normal human activities without mechanical device 
+interaction-that is, control of external devices without the need to go to a 
+specified location, such as a shielded room; without the need to remain 
+perfectly motionless to reduce signal noise; and without the need for 
+interaction with a normal electro-mechanical device, such as an i-Phone or 
+other handheld device with buttons and trackballs. Data transfer rates are 
+sought to exceed 5-10 bits/second to be useful for operation of complex 
+devices; this rate range and above is referred to as high-bandwidth BMis. 
+Response time for a 1-of-N selection of commands is targeted at 300 
+milliseconds or less. These are the operational parameters assumed for final 
+implementation unless some limitation or supercapability is described. 
+The paper concludes that noninvasive electrical monitoring of neural activity, 
+primarily reading combined action of muscles and neurons, is the most 
+promising commercial technology in the near term. Inherent limitations in the 
+noninvasive electrical approach require future development of different 
+research paths. The paper argues, mainly by eliminating other approaches, 
+that the most probable technology in the long term involves invasive single­
+neuron-based direct cortical connections to form a network of high-bandwidth 
+duplex communication pathways. Currently the most promising technologies 
+UNCLASSIFIED/ /FOR. OFFIGIAk Uii QPlk¥ 
+V

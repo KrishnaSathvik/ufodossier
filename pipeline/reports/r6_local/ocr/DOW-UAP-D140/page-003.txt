@@ -1,0 +1,38 @@
+Contents
+SUIMIMNALY iviese eva eaieiste ieess seca ciinaeaaeeae aeenewava aatee deena ea ewea eae ie dean ie deaueie alan epee auneueueNNi pias Vv
+LOE OCU CEG einisciceee erence eIEY 1
+LT INtrOGUCEIGON cc .censenesnecrecsensnsenenneexeeueneneeneaneneesuansneeneenaeenuerenenesernentaenacecasernenens 1
+1.2 Definition of High-Frequency Gravitational Wave ........ccccscsesseensnseensescenesenes 1
+2.0 HFGW Communications ........... auadennnaeaes sncsesdsecctareaens sedeienadsecusncseraiorensne deneresatensi 2
+2.1 HFGW Generators (Transmitters) .....ccccccsceeececseeseeeeeeeeneeneeeaueeseeeeeneneueesesauonens 2
+2.1.1 HFGW Generator Concepts ......:ccccceneeeeeeeeeeeeeeeneaeeeenenseeneneeesenneanseeeansenees 2
+2.1.2 Alternative Approaches ........cccccscececeeceececenssaueneeeeceaceneeeuenseeeeusecuaneceneeneen 6
+21:3 Pléezoclectric Approach niin 6
+2.1.4 Infrared-Excited Molecules Approach. ....sccsssscscenscscseceeseeeececccnsuceeesusnensnes 7
+2.2 HFGW Detectors (RECECIVErS) ....ccsccsecscseeecseneceeeeeeeeeeneeeueneeeeeueueneneaneeueneneaneen 12
+2.2.1 Alternative Approaches ......cccccscceeseeeseseeeeeeeeeeseeeeeneeneneseneneusueueneneuensnanar 12
+2.2.2 Concept (Li-EffeCt) .....c.cccscscecececeeeeeeeeeeeeceeeaeeeeeeeeeeeeaesenenenseceseseseseeeenener 14
+2.2.3 QuantuM Back-Action Limit .......ccccscscccccccececeecesesceeeeseeeeceneeseseueeseeseeeeans 16
+2.2.4 Li-Baker HFGW Detector.......sssscesssscccesssccenenecececececeseueueueceneneceesueneuouauas 20
+3.0 Operational CONCEFNS .....cccccccececeecsceeesevececueeeeueceeeeeeaeeeeeueeeaueseeueeueneneaseeuenenuaneen 22
+3.1 LINK BUCGECE ....cccceeececececececececeeeeueeeueeeeeeeauauauauececusasecueuaeasueueueueuauauaueneneneneauans 22
+3.1.1 Signal-tO-NOise Ratio .......ccsceceneceneeeeeeueeeceeeeueeauceaeeeueueueueueueusususnenenenuans 22
+3.1.2 Link Budget Considerations ........c.cccsesceeceeeeseeeeuseceeeeeuaueueususeeeuseaensnanaes 23
+B22 Banc wiht ih cece we cecceecssensaeeeweeedacceeentuveccseceurenes ane sceweaade ee depterunaus nau seaeeeeueavi ze 25
+3.3 Frequency and Time Standard ......ccccccscccsscccesccceceseeceecesceseseeceusesesesaeaeesesoees 25
+3.3.1 Improvements Accruing from a HFGW Time Standard........scsessssnsseneees 27
+3.3.2 Search Space Improvement Accruing From HFGW FTS.....ccsccescuensseseees 28
+3.3.3 The Impact of Phase Noise Improvements on Phase Shift Encoding ... 29
+3.3.4 The Impact of Frequency Noise Improvements on FDMA and FHSS..... 30
+3.4 Possible Future Upgrades to the FTS DeviCeS .........c:scseseesesseseeneeeeseseeneeensees 30
+3.4.1 Propagating Signals From Optical Lattice Clocks for Timing ............0+5: 31
+3.4.2 In Navigating and Mapping Interplanetary GeOids ..........cccceesnsnenseseenes 31
+4.0 Future Potential ........cccccccssseseeeeeceeesesneveeseesusneueneeeuaueeeeeeeueneusneeeeeseeueusuanaeasasuga 32
+4.1 Developmental ROadMAP......ccccccseseeeecececeeaueeeeeueusaueueueueeseuaueueususeuuaeaenensnanes 32
+4.2 HFGW Communications Predictions to 2050. .......scsccscseseseseeeeueeseneeeeeeeeneneees 33
+4.3 Interplanetary Navigation and Geoid Mapping to 2050 .......ccscsecssessesnenseeues 34
+4.4 Other Possible HFGW Applications. ........ccccccsccccecscscesccscenscensessensesnensesnensesaes 36
+
+UNCLASSIFIED / / BOR-O5EILGLAL-USE-Oh—
+
+UNCLASSIFIED/ /EQR.O5ELGidGSE-ONTY—

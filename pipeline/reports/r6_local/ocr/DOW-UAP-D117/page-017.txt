@@ -1,0 +1,62 @@
+UNCLASSIFIED//50A OFFIEJIAL ~!! e..c, 
+The subject of stress-corrosion cracking of metallic glasses, despite its obvious 
+importan ce for structural applications, has received scant attention in the literature. 
+What little work that has been done has focused on zirco nium -based glasses, with the 
+observation that these alloys are very susceptible to stress-corrosion cracking in 
+aqueous environm ents containing chloride ions, likely owing to the fact that they do not 
+form protective oxide surface layers. 22 
+Mechanical Behavior at Elevated Temperature 
+The discussion above relates to mechanical behavior at temperatures well below the 
+glass transition temperature. At elevated temperatures, the strength drops and plastic 
+deformation transitions to a homogeneous mode, occurring throug hout the specimen 
+instead of being localized into shear bands (Figure 6). Above the glass transit ion 
+temperature, the alloy becomes a fluid, with a viscosity that drops exponentially with 
+increasing temperature. Because the strength of the material is low, temperatures 
+either above or below the glass transition may be useful for processing, as discussed 
+above. However, the decrease in strength and the tendency for crystallization at 
+elevated temperat ures preclude use of metallic glasses from structural applications at 
+temperatures approaching the glass transition temperature. 
+::i 
+1:-' -
+<I) 
+Q) 
+b 
+-c, 
+Q) 
+-·-
+e 
+~ 
+z 
+io•I .------------------------------, 
+lnh 
+C/) 
+::r 
+ell 
+I 
+I I 
+11 1m11 'l'I\ ·ou 
+J •fi111na1i11n 
+' I 
+t!wtonian 
+I I 
+I I 
+I I 
+1. 1 
+~ 
+cn 
+~ cn en l0-2 l),'l
+.... 
+:,i:: 
+la ti 
+C>negl igible fl ow "O l),'l0.1 
+lO" 
+0.4 0. 0. 0.7 1.2 
+Trrl/. 
+Figure 6. Deformation Map for Metallic Glasses. As a funct ion of temperature (normalized to the glass 
+transition temperatur e) and applied shear stress 1 (norm alized to the shear modulus, µ). At high stresses, plastic 
+deformation occurs inhomogeneously, being localized into shear bands. At high temperatures, plastic deformation 
+becomes homogeneous. The dashed lines represent different strai n rates. The absolute stresses given are 
+representative of the well-studied bulk metallic glass Zr41.2Ti13.8Cu12 .5Ni10Be22.5, but the general features of 
+the map are expected to apply to all metallic glasses.23 
+11 
+UNCLASSIFIED/ /iiOA OFFI&iIAt 1!18! 8flt I

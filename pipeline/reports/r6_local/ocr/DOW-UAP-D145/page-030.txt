@@ -1,0 +1,42 @@
+UNCLASSIFIED//POlt Offl@IAL WS& &NkY 
+using D-Li6 fuel pellets. The estimated travel time of this system to Alpha Centauri was 
+100 years at an average velocity of about 0.5% of the speed of light. 
+OTHER ANEUTRONIC ROCKET DESIGNS 
+Anti matter-Catalyzed Fusion 
+In the 1990s, Pennsylvania State University worked on a fusion rocket design that 
+employed antimatter to catalyze fission reactions in uranium. As a comparison, in 
+order to make a nuclear fission bomb for space propulsion, approximately 12 kg of 
+uranium-235 is required to generate the three critical masses required. Using 
+antimatter, this can be achieved with gram-quantities of uranium. 
+Magnetized Target Fusion 
+Plasma guns are used instead of lasers to generate heat in a low-density fusion fuel 
+mixture confined by magnetic fields. The fuel is rapidly compressed to ignite fusion. 
+The NASA/MSFC HOPE (Human Outer Planets Exploration) Group estimates that this 
+propulsion system could transport payloads to Jupiter within about 300 days. 
+Ion Drives 
+The VASMIR engine is a highly efficient ion thruster that uses an RF resonant cavity to 
+accelerate ionized argon or xenon gas as a propellant. One concept is to generate 
+electricity from aneutronic fusion by captur ing the energy of the emitted ions in a 
+magnetohydrodynamic generator. The electricity would then be used to power the 
+VISMIR ion drive. 
+This direct convers ion drive could capture useful energy from aneutronic fusion or from 
+D-T fusion which is easy to ignite, but loses about 80% of its energy to neutrons. The 
+neutrons can be used to generate secondary ions through impact on a target and the 
+ion energy can be collected in the MHD generator. 
+COMMERCIAL DEVELOPMENT 
+In addition to teams from universities and national laboratories, several compan ies 
+have been formed to develop aneutronic fusion propulsion systems. Several are 
+discussed below . 
+1. EMC2 Fusion Development Corporat ion 
+A prolific designer and aut hor, Dr. Robert Bussard has explored inertial 
+electrostatic confinement fusion as used in the Farnsworth-H irsh Fusor .13, 14 , 15, 16, 
+17 He and his colleagues formed EMC2, a private company based in Santa Fe, 
+New Mexico, to test compone nts of a pract ical fusion drive. Their work has been 
+funded by DARPA, NASA, and the U.S. Navy. 
+Outlined in Figure 11, his QED (charged particle electric discharge engine) is 
+based on t he Farnsworth -Hirsch Fusor, an ion accelerator patented in 1968. This 
+accelerator works throug h the use of spherical electrodes that force ions toward 
+the center of a spherical chamber by Lorentz forces. By injecting preheated ions 
+of deuter ium and helium-3 or boron-11 into t he fusor core, the resulting fusion 
+UNCLASSIFIED/fF&A &FFI&I:.l.k W&li &NkY 
+22

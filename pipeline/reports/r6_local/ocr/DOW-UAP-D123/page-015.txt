@@ -1,0 +1,30 @@
+UNCLASSIFIED/ /FOR. errl@IAL YSI: e .. tv 
+1000 
+-E ::.:.
+-
+0.1 
+t = 1530 sec 
+v = 7600 m/sec,140 km 
+1= 1200 sec 
+l= 146 sec 
+M = 1.8, 10000m 
+M =8, 38 km 
+I= 1650sec 
+300km 
+0 500 sec 1000sec 1500sec 
+Time 
+Figure 9. Positron SSRV Flight Profile (courtesy Positronics Research LLC)23 
+The SSRV takes off horizontally (Figure 9) from Edwards Air Force Base, accelerates to 
+mach 1.8 as a turbojet, and then goes to the ramjet mode . At mach 8 the rocket is 
+ignited and takes the vehicle into LEO. 24 The positron mass budget for a 60,500-kg dry 
+mass for ascension to LEO is 86 .9 mg (Table 3) . 
+Table 3. Total Positron Requirement for SSRV With a Dry Mass of 60,500 kg25 
+Mission Mode Mass Of e! 
+Turbojet - Launch 2.5 mg 
+Ramjet 76.5 mg 
+10% margin (turbojet mode upon 7.9 mg 
+landing, inclination changes, etc. ) 
+TOTAL 86.9 mg 
+An artist's rendition of the SSRV is provided in Figure 10. 
+UNCLASSIFIED/ /FOR 8FFI@IAL YSI!! er•tY 
+10

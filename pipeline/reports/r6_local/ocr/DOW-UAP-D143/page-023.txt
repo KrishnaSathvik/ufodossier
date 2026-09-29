@@ -1,0 +1,41 @@
+UNCLASSIFIED/,'rOR: orrlCIJ!tL USE 014Lf 
+Zenith 
+Ligbtcraft 
+Earth-to-Orbit 
+Maxim um 
+(Cut-Ofl) 
+Velocity 
+Ground 
+Based 
+Laser(Not to Scale) 
+Figure 8. Lightcraft Trajectory and Associated Pointing Angles 1261. 
+The low vehicle propellant fraction for laser powered Lightcraft ( ~0.5 of vehicle takeoff 
+mass) resulted in vehicle takeoff masses that were approximately 45, 80, and 360 
+times less than those of conventional rockets for placing masses of 10 kg, 5.0 kg, and 
+1.0 kg into low Earth orbit (LEO). And preliminary life-cycle cost estimates made 
+during the AFRL study by Froning and Davis [26] indicated that transportation system 
+costs for placing 10 kg, 5.0 kg, and 1.0 kg of mass into orbit using Lightcraft and 
+ground-based lasers would be approximately 3, 5, and 15 times less than with 
+conventional rockets. 
+One of the two most important findings from the Froning and Davis study is the 
+significant influence of Lightcraft drag on airbreathing laser propulsion performance, 
+and the consequence of this on laser rocket propulsion performance during the latter 
+phase of Lightcraft flight. As indicated in Figure 9, a significant reduction in both 
+Lightcraft size and drag coefficient (Co) - as compared to that of the initial government 
+baseline design - was needed for acceptable airbreath ing thrusting acceleration during 
+atmospheric flight. Figure 9 shows that both size and drag coefficient reduction were 
+accomplished in several steps - with both size and Co reduction accomplished during 
+the first step, and further Co reduction (by increased forebody fineness ratio) during the 
+second step. 
+It was also found that sufficient Lightcraft airbreathing thrust required thrust variation 
+with altitude, somewhat comparable to that achievable by contemporary airbreathing 
+propulsion systems - whose flight dynamic pressure (q) and thrust remain constant 
+with increasing vehicle altitude and speed until constant q can no longer be maintained. 
+Here, acceptable airbreathing thrust minus drag performance was needed to reach 
+maximum airbreathing speed (Mach 10) within acceptably short flight times and 
+distances. And such short times and distances were required to ensure adequate 
+receipt of beamed power by the Lightcraft out to the longest ranges associated with 
+laser rocket propulsion flight; where beamed power would travel the longest distances 
+through the atmosphere and space, and collected power would drop to lowest values. 
+UNCLASSIFIED//FOR 061ilCl.li.k W&& 8Ptl'l 
+19

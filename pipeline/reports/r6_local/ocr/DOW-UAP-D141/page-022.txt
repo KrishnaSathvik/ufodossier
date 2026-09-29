@@ -1,0 +1,49 @@
+UNCLASSIFIED/fFOA OFFI€1.t.k W&i ONkY 
+slowed down and/or stopped light, the schematic shown in Figure 13 provides some key 
+ideas. Moreover, the prospect of producing a low-loss negative index material in the 
+optical domain still remains somewhat distant. Therefore, it may be worthwhile to 
+examine other approaches to slowing down light that have emerged in the past few 
+years. 
+Stopping and/or slowing down light is an old idea originating from the atomic concept of 
+Electromagnetically Induced Transparency (EIT). The phenomenon has been considered 
+to be purely quantum mechanical until several groups have demonstrated that it has 
+some classical analogies (Reference 31). Remarkably, at least one group has 
+demonstrated in the past year that EIT can be achieved using plasmonic meta materials 
+(Reference 32). The idea is to create a plasmonic "molecule" consisting of a radiative 
+element coupled with a subradiant (dark) element. The plasmonic molecule showed 
+electromagnetic response that closely resembles the electromagnetically induced 
+transparency in an atomic system. Because of its subwavelength dimens ion, this 
+electromagnetically induced transparency-like molecule was shown to be suitable as a 
+building block to construct a "slow light" plasmonic metamaterial. The specific design of 
+the plasmonic molecule is shown in Figure 15. 
+10.0 
+36.5 
+33.3 
+30°0 
+26.7 
+23.5 
+20.2 
+16-9 
+13-7 
+10.1 
+7. 11 
+3.88 
+0 
+Figure 16. "Plasmonic Molecule" Exhibiting EIT. Lelt: Radiative element (metal strip) by itself gets strong ly 
+polarized by the incident EM wave, resulting in weak transm ission/str ong reflection. Right: Radiative element 
+coupled to the "dark" element (two strips) . Dark element possesses a non-radiat ive quadrupole resonance which is 
+excited by the radiative element and de-po larizes the radiative element . The result: vanishing reflection, high 
+transmission. Color bar: IEInormalized to the incident laser field at>. = 700 nm. (Reference 32) 
+This specific plasmonic molecule consists of the "dark state" (two parallel plasmonic 
+antennas oriented perpendicular to the incident vertical electric field) and the "radiative 
+state" (single plasmonic antenna oriented parallel to the electric field). The quality 
+factor of the "dark antenna" state is an order of magnitude higher than that of the 
+"radiative" antenna. When the "radiative" antenna is spatially separated from the "dark" 
+antenna (or when the dark antennas are not present at all), all or most of the incident 
+radiation is reflected from an array of "radiative" antennas whenever the resonance 
+frequency of the antenna coincides with that of the laser. In this example, the long 
+antenna is 128 nm long, and the resonance wavelength is at>-. = 700 nm. The key 
+effect here is that the resonance of the "dark" antenna should be at the same 
+wavelength. 
+UNCLASSIFIED/ {EAR OFEICl.t.ls: Y81!! 8flti 
+18

@@ -1,0 +1,46 @@
+UNCLASSIFIED/ ,'FOR OFFI@IAL WSE QptLY 
+where careful changes in position are required that are difficult to infer from just 
+looking at external landmarks. 
+VIRTUAL SURROUND DISPLAY 
+Responding to the likelihood that direct visual contact to the outside environment will 
+not be available, images of the outside will have to be relayed to the pilot via exterior 
+cameras and interior displays. Taking advantage of foreseeable advances, such images 
+are likely to be in the form of virtual displays. This also allows the most critical motion 
+and orientation cues, along with augmented reality functions, to be superimposed on 
+these images. At this point, the method of virtual display is not important (e.g., helmet 
+mounted, projected on screen, or contact lens). The issues addressed here discuss what 
+is required rather than the details of how those functions are provided. 
+Exterior Visuals 
+Since direct visual contact to the outside environment will not be available, images of 
+the outside will have to be relayed to the pilot. A system of cameras that can see the 
+external environment are required, plus whatever processing is required to seamlessly 
+merge these images for projection on the virtual surround display. 
+Additionally, it would be advantageous to be able to focus in on and magnify the view of 
+any particular area of the display. 
+Points of Interest 
+Taking advantage of the technology for augmented reality, 50 where objects of interest 
+can be highlighted on a display, this function will be included in the virtual surround 
+display to flag such things as points of interest, objects, and the trajectories of objects. 
+Overlays 
+Ideally, it would be advantageous to be able to superimpose false-color images 
+representing light spectra beyond normal human perception, such as infrared or 
+ultraviolet light. 
+Data Call Up 
+With such a large projection area available, 
+physical panels can also be projected onto 
+manipulated with gesture-based commands. 
+techniques of visual information display .51 
+any 
+the 
+This feature 
+of the adaptive displays from the 
+virtual surround display and then 
+can employ ever-evolving 
+Sound Augmentation 
+Audio cues shall be included so that the location of objects of interest and alarm states 
+can be spatially inferred, and redundant information to their locations can be projected 
+by visual displays. In addition, the vehicle's flight-assist system can speak information 
+to the pilot. Techniques of using different sounds, as well as the manipulation of a given 
+sound (i.e., changing the repetition rate of a given beeping tone), will be used. 
+UNCLASSIFIED/fFOA: OFFICIO la Plili Oralla¥ 
+40

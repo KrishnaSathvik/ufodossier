@@ -1,0 +1,50 @@
+UNCLASSIFIED/ ,'FOR OFFIElIAk WSE OPtkY 
+transistor switching can be reduced dramatically, the thermal load associated with 40 
+MW/cm2 will exceed that in a rocket nozzle. The failure of thermal management on a 
+chip might end the continued progress of the semiconductor industry well before 2035. 
+The International Technology Roadmap for Semiconductors (http://www. itrs.net) has 
+termed this imminent collapse the "Red Brick Wall," where "Red" indicates no "known 
+manufacturable solutions" (of reasonable confidence) exist for continued scaling in 
+some aspect of the semiconductor technology. 
+The scenario above motivates the search for signal-processing devices that dissipate 
+very little energy when they switch . The emerging spintronic technology might offer 
+such devices where information is carried by spin-in contrast to CMOS transistors, 
+where it is carried by charge-since spin has an inherent advantage over charge when it 
+comes to energy dissipation. Therefore, if a reliable way can be found to control and 
+manipulate spins, spintronic devices could offer higher data processing speeds, lower 
+electricity consumption, and many other advantages over conventional chips, perhaps 
+including the ability to carry out radically new quantum computations . 
+A spintronic device calls for efficient methods to generate, conduct, process, and detect 
+spin-encoded signals. We have reviewed the physics and emerg ing applications of two 
+principal spintronic phenomena-giant magnetoresistance and spin-transfer-torque­
+that provide means to detect (GMR) and manipulate (STT) the spin signals. GMR has 
+already spawned major technological change in the information storage industry with 
+the usage of GMR sensors and read heads and, along with tunneling magnetoresistance 
+(TMR), is expected to continue to dominate the detection of spin-encoded signals. STT 
+is a more recent development in spintronics that provides an efficient means of 
+controlling and manipulating spin distrib utions on the nanometer length scale and the 
+picosecond-time scale, thus positioning STT as the method of choice for fast processing 
+of spin signals in nanodevices. 
+What is the future of spintronic applications? A number of new spintronic devices based 
+on GMR and STT have been proposed. These include high-frequency (GHz) oscillators, 
+sources, and detectors, as well as magnetic field sensors-for example, in nonvolatile 
+memories such as racetrack and STT magnetic random access memory (STT-MRAM) . 
+However, much fundamental work remains to be done before we see commercial 
+applications of these devices. For the memory industry, development of these spintronlc 
+applications may lead to a universal memory that would combine cost benefits of 
+DRAM, speed of SRAM, and nonvolatility of flash RAM. Potentially all logic operations on 
+a chip could be carried out by manipulating spins in metallic systems instead of 
+manipulating charges in semiconductor transistors, as in conventional microchips. 
+Moreover, such operations could be combined on a chip with a universal memory. This 
+would result in a new scalable and radiation-res istarnt electronics, computers, and so 
+forth . The radiation resistance would be of part icular interest for aerospace applications 
+because the radiation in space is known to severely damage conventional electronics by 
+building up a destructive charge in transistors. Long space trips that would expose 
+onboard electronics to years of radiation would benefit from the radiation resistance 
+and reduced power consumption (for example, like a nonvolatile memory that can 
+retain the stored information even when not powered) of metallic spintronic devices. 
+More generally, the impact of reduced power consumption in electronic devices is hard 
+to overest imate, as we rely on such devices in almost every aspect of our everyday 
+lives. 
+UNCLASSIFIED/ IFOR OFFIElIAk WSE OPtklf 
+17

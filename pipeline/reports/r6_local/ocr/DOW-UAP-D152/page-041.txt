@@ -1,0 +1,30 @@
+UNCLASSIFIED/ /P'OR. 8FFIEil1'1.k lellii Ql'II.¥ 
+make a critical assembly) released. For a 10 kiloton fission explosion the shatter radius 
+computed from (110) is ~ 20 m. With a tunnel radius ro ~ 10 m one would have 
+(rs/ r0 ) ~ 2and from (118) that 
+1-(!_) ~ 29( / ) (121)R - Po Pmax • 
+Putting for the depth of the tunnel (if measured from the surface of the moon) 
+8=R - r, with 
+(122) 
+or that 8 ~ 10km . 
+For a depth < 10 km the nuclear explosion with a yield < 10 kiloton would suffice, a 
+yield which is uneconomical. It is for this reason suggested that one uses altogether 
+thermonuclear explosive devices where the cost per yield is much lower. To penetrate 
+and shatter the rocks more efficiently, jet-generating thermonuclear explosive lenses 
+could be used. The thermonuclear detonation wave ignited at one point is there shaped 
+into a jet-producing conical explosion by placing obstacles in the path of the wave. The 
+ignition can be done by a fission explosive, but conceivably also by a powerful laser 
+beam, with the laser beam projected down the tunnel shaft, trigger ing the 
+thermonuclear explosive positioned at the lower end. 
+With the above-given estimate of ~ 50 Megaton needed to dig the tunnel shaft, the 
+number of thermonuclear explosive devices making use of the detonation wave lens 
+technique could for this reason be quite reasonable, and certainly much less than the 
+number of required fission explosives. 
+After nuclear explos ions have crushed the rocks and the heat is removed, the tunnel 
+wall has to be made from some kind of ceramic material, since water with which to 
+make concrete is only sparsely available on the moon. But for the wall to last, its 
+temperature must be kept low. The low heat conductivity of rocks, requiring little 
+cooling, is there of considerable help. For the crushed rocks the heat conduction 
+coefficient should not be very different than for solid rocks. According to eqn (112) the 
+UNCLASSIFIED/fFOA OFFI&il.t.k lellii OJi,k¥ 
+37

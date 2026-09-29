@@ -34,7 +34,7 @@ export function IncidentList({ incidents, showSearch = false, paginated = false 
   if (incidents.length === 0) {
     return (
       <p className="py-12 text-center text-ink-faint">
-        No incidents yet. Pipeline pending.
+        No incidents are listed yet.
       </p>
     );
   }

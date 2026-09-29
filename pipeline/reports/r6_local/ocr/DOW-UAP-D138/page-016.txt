@@ -1,0 +1,46 @@
+UNCLASSIFIED//FOR 8FFIOIJIIL l:t!II!! e••t I 
+(5.1) 
+where the Greek indices run from O to 3 (0 represents the time coordinate and 1...3 the 
+space coordinates), and where the higher dimension is expressed using y. The powers 
+of ¢ are selected for later convenience. Upon solving Einstein's equation in this higher 
+dimensional space using this metric, Kaluza was able to accurately reproduce both GR 
+and electromagnetic theory. However, the theory made an additional prediction which 
+was not consistent with observat ion and was somewhat of an embarrassment for 
+Kaluza. 
+The main failure of Kaluza's idea, and an 
+issue that caused Einstein to delay his 
+endorsement of the paper by two years, 
+was the very obvious fact that we clearly 
+exist in three spatial dimensions and not 
+four. This issue was tackled in 1926 by 
+Oskar Klein (Reference 28), who 
+suggested that the 5th dimension 
+compactifies, so as to have the geometry 
+of a circle of extremely small radius. One 
+way to envisage this additional dimension 
+is to imagine a garden hose. It is only 
+when one magnifies the image the 
+toroidal structure is visible. From a long 
+distance it looks like a 1-dimensional line, 
+but a closer inspection reveals that every 
+point on the line is, in fact, a circle (see 
+Figure 3. Internal Structure of a Seemingly One­Figure 3 for an illustrat ion). Dimensional Object 
+While Kaluza-Klein (KK) theory is considered elegant in its simplicity, it is not without 
+problems. One obvious criticism is that the theory is non-predictive, in that it does not 
+extend Einstein's or Maxwell's theories, but merely synthesizes the formalism within a 
+new mathematical framework. A more serious criticism regards the introduction of the 
+5th dimension, which was, and still is, seen as an artificial construct since our universe 
+is apparently 4-dimensional. 8 
+KK theory remained largely ignored and was considered somewhat obscure for the first 
+half of the twentieth century, as were the speculations regarding additional spatial 
+dimens ions. However, the birth of string theory generated a renewed interest in the 
+idea, largely due to string theory's promise of being a quantum theory of gravity. 9 
+Unification is one of the main themes in the history of science and is a guiding principle 
+in theoretical physics. Countless examples exist where diverse and seemingly unrelated 
+phenomena have been understood in terms of a small number of underlying principles. 
+In the 1940s, it was demonstrated that quantum mechanics and electromagnetism 
+could be accurately described by quantum field theory, and by the 1970s the weak and 
+8 Including time , of course. 
+9 Quantum grav ity is considered somewhat of a " holy grai l" within the theoret ical physics community. 
+9 
+UNCLASSIFIED/ /FOR 8FFl611'1L W&lii &••LY

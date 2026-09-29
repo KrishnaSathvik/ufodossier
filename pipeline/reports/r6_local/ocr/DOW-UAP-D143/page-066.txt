@@ -1,0 +1,50 @@
+UNCLASSIFIED S/F OR OPPICTALT USE ONLY
+
+which usually result in mirror tilts (~ 0 to 400 micro-radians) and drastically
+reduced beam power, thus maintaining beam power output at maximum design
+value.
+
+*. S=16m *.
+
+w=2.6cm Zp=2cm
+
+L=0.6m
+W,=0.1mm
+
+Figure 32. High-Power FEL Optical Resonator (courtesy of the Naval Post-Graduate School
+FEL Lab).
+
+ESTIMATED PAYLOAD COST FOR LIGHTCRAFT LAUNCH USING A 10
+MW BSSSL, HPFL, OR RBFEL SYSTEM
+
+No detailed Lightcraft nano- or pico-satellite payload launch cost estimates can be
+performed at this time because the high-power solid-state and FEL laser devices are
+emergent technologies still under development and testing; operational deployment is
+expected to take place within the next two to five years depending on near-future
+funding and programmatics. However, Table 1 shows that the average cost to launch a
+laser-propelled Lightcraft (including payload) to LEO is $3,052 per kg. This figure was
+based on operations, life-cycle, and maintenance costs plus the cost of using a high-
+power bulk solid-state laser system that is 50% shared with another user.
+
+The cost estimates shown in Table 1 were compiled in 2003, so this (average) launch
+cost estimate will likely go down significantly at present (possibly by 20% or more) due
+to significantly increased system efficiencies realized within each of these emergent
+advanced laser technologies, reduced system costs due to widespread acceptance,
+operational deployment along with dual-use commercialization, and system costs that
+trend downward as technology matures over time, etc. IPG Photonics sells their
+industrial HPFL systems (e.g., see Figure 27) for prices ranging from $50,000 to
+$500,000 depending on the beam power (higher beam power = higher price) and
+system application. Based on these factors, a simple back-of-the-envelope cost
+estimate for Lightcraft launch of a payload to LEO is approximately $100 to $300 per
+kg," while the average cost to launch a laser-propelled Lightcraft (including payload) to
+LEO will be approximately $800 to $2,000 per kg which includes the operations, life-
+cycle, maintenance, and laser system costs. An in-depth study will be needed to obtain
+more precise cost estimates for Lightcraft launch using BSSSL, HPFL, and RBFEL
+systems.
+
+HIGH ENERGY LASER BEAM CONTROL
+
+“Costs could be reduced to as low as $20 per kg of payload if Buckytubes are used to construct the Lightcraft.
+
+62
+UNCLASSIFIED &450R-OFF26EAEUSE-ONET

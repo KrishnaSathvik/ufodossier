@@ -1,0 +1,42 @@
+UNCLASSIFIED / / FORO FFECEAEUSE-ONEY
+
+One of the difficulties with silicon carbide (SiC) is that it is ridged fibers, like very-small-
+diameter rods. When the NASP team visited Japan in 1988, one of the very interesting
+
+products of the UBE Corporation was Tyranno® cloth (see Figure 23). Composed of
+strong, flexible fibers from natural Feldspar, Tyranno cloth handled and felt like tweed
+cloth. The cloth could be wetted by liquid aluminum or titanium, and the NASP team
+saw examples of both aluminum and titanium metal matrix composite (MMC) products.
+For example, an aluminum MMC piston and connecting rod was being used in Kawasaki
+racing engines. And a powder form of aluminum MMC was being used as a dry pigment
+that was fused onto the surface of Kawasaki motorcycle mufflers. The MDC NASP team
+foresaw many applications for Tyranno cloth for its NASP aircraft.
+
+Figure 22. This 1988 SEP Bordeaux SiC/SiC Panel Figure 23. UBE Corporation’s Tyranno Cloth. The
+Could Sustain Temperatures of up to 3,000 °F. cloth was used industrially in Japan.
+
+With SEP having subsequently closed, little of this
+
+capability remains,
+
+The FDL-7 and Model 176 configurations
+always elicit comments that their sharpness
+and the associated high heating rates make
+them nonviable concepts. However, that is
+not the case. Figure 24 shows a 1-inch-
+diameter, sintered-nickel nose tip attached
+to a 1,000-psi water tank that sweats
+water. The result is a functional sharp,
+low-drag nose with a minimum-thickness
+entropy boundary layer.!* This tip was
+flight-tested on a hypersonic glider (BGRV
+flight in 1966) beginning at about 22,000
+feet/second. Today, Aerojet Sacramento’s
+platelet diffusion-bonding technique would — — ;
+experimental evidence from the BGRV flight eater cathode—not the nose tip—failed.
+indicates the water vapor film in the
+
+boundary did act to reduce the heat transfer to the body aft of the nose.
+
+21
+UNCLASSIFIED/ /FOR UFFICTALUSE-ONEY

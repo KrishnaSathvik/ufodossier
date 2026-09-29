@@ -1,0 +1,119 @@
+MARCH 5, 1948
+
+* 279 ©
+The Biology of the Flying Saucer—II
+
+THE AEROPLANE
+
+By A. R. Weyl, A.F.R.Ae.S.
+
+In this series of articles the history of low-aspect-ratio aircraft is recounted and
+technical aspects of their design discussed, leading up to their use for supersonic flight.
+
+(Continued from page 185, February 13 last.)
+
+HE SECRET-CIRCLE “CONSPIRACY,” mentioned pre-
+
+viously in connection with circular-aerofoil aeroplanes, did
+not lack congenially inventive spirits. Early in 1913 an engineer
+in Dijon, M. Bourgoin, made experiments with an annular-
+wing aeroplane. The tests were unsatisfactory. One feature
+of this design was the provision made for varying the wing
+incidence in flight.
+
+More recently, a similar idea was suggested by N. H. Warren
+and Th. R. Young (Fig. 8). In -1937 they secured a patent
+(Brit. Pat. Spec. No. 508,022 of December, 1937) for a non-
+stallable monoplane of rhomboidal shape (i.¢e., leading wing
+swept back and trailing wing swept forwards with the wing tips
+merged together). This was provided with a conventional tail
+at the stern of a long fuselage and a number of advantages
+
+Fig. 8.—Project by Warren and Young for a light twin-
+engined two-seater of 90 h.p. (1937). The elevator is
+fitted between fin and fuselage. There is no tailplane.
+
+were claimed. In 1943 a model for a two-seater fighter with
+tail turret showed the separate tail omitted; special emphasis
+was laid on the triangular shape of each wing and the effect of
+sweep was relied upon, Nothing more has become known
+since, however, but it is worth noting that. the project had
+been based on sound aerodynamic considerations.
+
+In 1933, the annular wing of the German sculptor Antes
+created a mild sensation because of the good performance of
+models made to this — bt 9). ; -
+
+So hat uliar was the aerodynamic conception of the
+rhomboidal anetar aeroplane of P, Nesbitt Willoughby, a
+
+Fig. 9.—Model of the “annular wing” of Antes, 1933.
+NND 927545
+
+qualified aeronautical engineer (Fig. 10). The Willoughby
+Delta Co. of London had taken up the development of this
+idea in 1931 and sufficient means were available to make rather
+extensive tests.
+
+The principle is best described as a tandem monoplane with
+two aerofoil-shaped parts connecting the leading wing with the
+trailing wing near the tips. ‘The “side wings” had aerofoil
+shape not only in their longitudinal cross-section (i.e., in the
+direction of flight), but also laterally. This was considered a
+characteristic feature and subject to patents. It was claimed
+that the vortex distribution induced by such shape gave an
+unusually high aerodynamic efficiency in spite of the small span
+of the aeroplane. In addition, it was pointed out that the
+maximum lift was shifted to very high incidences. Moreover.
+the “side wings” should reduce the drag of engine nacelles
+fitted underneath them.
+
+All this was said to be proved by extensive wind-tunnel
+experimentation here and abroad. Designs of passenger trans-
+eo aircraft reaching weights of 40,000 Ib. were prepared on the
+
+asis of model tests made at the National Physical Laboratory
+and elsewhere. The results must have been so encouraging
+that an experimental monoplane with two 125 b.h.p. Menasco
+engines and weighing 2,540 lb. was constructed late in 1938
+(Fig. 11). This aeroplane flew indeed and was even publicly
+demonstrated (including one-engine flight) at a Garden Party
+in May, 1939. Shortly afterwards the experimenter was killed
+in an unexplained crash during a flight test.
+
+From pressure plots over the “ side planes” which have been
+published, apparently trim changes could be expected at various
+incidences. These components were thus capable of producing
+longitudinal instability and it is not improbable that this and
+
+oor control efficiency may have contributed to the accident.
+
+ere was also evidence of a stall at normal incidences,
+although of a very mild character and with little apparent
+decrease in the lift coefficient (which, however, would not
+exclude the presence of fluctuating lift forces).
+
+Fig. 10.—Principle of the Willoughby Delta design.
+
+Another suggestion for an annular wing was made by L.
+Peel, in 1944. This, however, was concerned less with the
+aerodynamic properties of such wing systems than with the
+arrangement of two engines facing each other with their air-
+screws, in order to overcome the torque reaction.
+
+A phenomenon of which aerodynamic experimenters were
+always well aware, but which aircraft designers failed to
+utilize, was that wind-tunnel tests clearly proved good-natured
+Stalling properties of wings having very small aspect ratios.
+Yet even in the very early days when centres of gravity were far
+too far back on the old box-kites, the square shape of tailplanes,
+then unaccountably in vogue, may have saved the pilot's bacon
+more than once by its refusal to stall under extreme provocation.
+Later on science came and proved that a tailplane of “* good ”
+aspect ratio was more efficient. It was, but it made the stall
+worse when the centre of gravity happened to be rather aft.
+
+The interesting thing is that aerofoils of circular or square
+shape were tested in the early days at incidences up to 90
+degrees, while on normal acrofoils tests were restricted to rather
+small incidences only, generally excluding the range of stall.

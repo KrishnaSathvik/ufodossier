@@ -1,0 +1,31 @@
+UNCLASSIFIED/ /FOR OFFICIAL 031! BHLY 
+the complementary binding of the Watson-Crick base pairs that correspond to each sticky 
+end. In this way, a lattice structure can be built upon the base structure by synthesizing 
+additional DX motifs to construct what is known as a "DNA tile." These tiles can be further 
+utilized as a scaffold for additional molecular structures. 
+In order to envision the aTAM tiling process, it is easy to picture various tiles with different 
+numbers written on the sides, indicat ing matching rules where two tiles would stick only if 
+their contacts matched. Additional matching interactions can be arranged in a manner that 
+adjacent tiles can strongly hold the next one in place, but a single interaction creates a weak 
+bond. Figure 12 illust rates an instant iation of the algorithmic self assembly process, in which 
+sets of four species tiles that represents XOR ( exclusive OR) function to create a Sierpinski 
+triangle pattern. The so called seed structure is used to input the initial values that 
+commence the algorithmic self assembly process. However, it must be noted that random 
+nucleat ion events may occur. Nevertheless, algorithmic self-assembly has created a means 
+to emulate cellular automata. 
+A 
+l = 2 : 
+I = 0 : 
+z = xEBy 
+output - z z ~ 
+~ ~ inputs - x y 
+D * 
+E - - -
+y 
+.... ..... 
+........ ~-~ ---
+--·-- -
+Figure 12. (top a-e) The XOR Cellular Automaton and Its Implementation by Tile -Ba sed Self-Assembly . 
+(bottom a-e) AFM Images of Algorithmic Self-assembly of Sierpinski Triangle Crystals. 
+UNCLASSIFIED/ /FOA QFFl&IAL Y!H! 8Ht, 
+27

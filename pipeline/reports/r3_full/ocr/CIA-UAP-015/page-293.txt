@@ -1,0 +1,62 @@
+I I 
+QQDE 43 OBSERVATION METHOD CODE 44 SOUND 
+X Variable X Variable y y 
+0 Naked eye 0 Motors 
+1 Eye glasses 1 Jet or rockets 
+2 Window 2 Explosion 
+3 Windshield 3 Unlike aircraft 
+4 Binocular 4 Hiss, swishing, whining 
+5 Telescope 5 Rumbling 
+6 Theodolite 6 Humming or buzzing 
+7 Radar 7 None 
+8 Photographic 8 Not stated 
+9 Other 9 Other 
+CODE 45 COLOR CODE 46 NUMBER CODE 47 LIGHT-COLOR 
+X Variable X X Variable 
+y y y 
+0 Metallic 0 - 1 0 White 
+1 Light-glow-luminous 1 - 2 1 Black 
+2 Red 2 - 3 2 Grey 
+3 Orange 3 - 4 3 Red 
+4 Yellow 4 - 5 4 Orange 
+5 Green 5 - 6 5 Yellow 
+6 Blue 6 - 7 - 10 6 Green 
+7 Violet 7 - 11 - 20 7 Blue 
+8 Black 8 - 20 - 30 8 Violet 
+9 White 9 - 31 or more 9 Other 
+CODE 48 SPEED CODE 49 SHAPE 
+X Variable X Variable 
+y • y 
+0 Hovering, stationary 0 Ellipse 
+l Less than 100 m.p.h. l Rocket 
+2 100-400 m.p.h. 2 Conventional aircraft 
+3 More than 400 m.p.h. 3 Unconventional aircraft 
+4 Meteor like 4 Meteor, comet 
+5 Not stated 5 Lenticular 
+6 6 Conical 
+7 7 Tear drop 
+8 8 Flame, tails, fire 
+9 Other 9 Other 
+292 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I

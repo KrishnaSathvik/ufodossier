@@ -1,0 +1,75 @@
+UNCLASSIFIED F/P OR OPPICTAL USE ONLY
+
+An outline of the conceptual design features of the proposed 10 MW electron gun-driven
+CO2/gas mixture laser is [29]:
+
+Scalability of total beam output power, beam combining concept.
+
+Power oscillator or master oscillator-power amplifier (MOPA) design.
+
+Unstable optical resonator cavity with grating and rotating mirrors beam-combine
+techniques.
+
+Flow and gas handling system with blow down and exhaust to the atmosphere.
+Acoustics suppression with expansion horn downstream and anode muffler.
+
+In this concept there are four separate laser transmitters each generating 2.5 MW
+output beams that are combined into a single 10 MW output beam. The oscillator
+parameters for each beam transmitter are [29]:
+
+Energy loading, Ep: Ep = 300 J (higher loadings at reduced gas temperature);
+gain volume = 0.27 m? (x 4 lasers); A to K = 0.3 m; gain length = 3 m.
+Specific laser output = 65 J/I.
+
+Estimated extraction efficiency = 20%.
+
+Pulse repetition rate: 125 Hz @ 20us.
+
+Laser power, P = 2.5 MW/beam x 4 beams = 10 MW.
+
+Laser energy per pulse = 18 kJ/beam x 4 beams = 72 kJ.
+
+Output wavelengths: 10.6 um, 10.2 um, 9.6 um, and 9.3 um (mixed).
+Gas mixture ratio (for N2:CO2:H2): 3:1:0.08.
+
+Gas pressure = 1.013 x 10° Pa (or 1 atmosphere).
+
+Flash factor = 1.3.
+
+The optical resonator cavity and optical components specifications are [29]:
+
+Resonator type: confocal unstable with rotating mirrors beam combining.
+Magnification, M = 4.
+
+Cavity length, L = 36.5 m.
+
+Equivalent Fresnel number = 3.4.
+
+Cavity end mirrors radius of curvature: Rwirrori = 97.3 m (Concave), Rmirror2 = 24.3
+m (convex).
+
+Gain cell: volume = 0.3 x 0.3 x 3.0 m, length = 3 m.
+
+Beam combine mirrors: 75 x 75 cm? flat (30 x 30 cm? apertures) @ 4 = 10.59
+um.
+
+Low pressure hot cell: 0.3 to 0.5 GHz suppression near line center.
+
+Output scraper mirror: D = 0.075 m (taped).
+
+See Figure 16 and Figure 17 for schematics of the power oscillator optics and the MOPA.
+The laser operation requirements for the gas flow system are (see Figure 18) [29]:
+
+Flow System: blow down.
+Gain Section
+
+e Cross-section, A = 0.3m x 3.0m =0.9 m2.
+Volume, V = 0.3 m x 0.3 m x 3.0 m = 0.27 m3,
+Flow speed, u = 50 m/sec (@ 125 Hz & flash factor = 1.3).
+Dynamic pressure, AP = 2000 Pa (or 0.02 atmospheres).
+Mass flow rate, Q = 60 kg/sec per module (45 m3/sec std).
+Run time, t = 300 seconds
+
+43
+
+UNCLASSIFIED L4502.055160i-USE-ONEY

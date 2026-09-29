@@ -1,0 +1,26 @@
+UNCLASSIFIED/ /POI\ OPPICIIIIL tt!I! 8HL\S 
+Figure 2. The Interior Region of Parallel Conducting Plates. The region experiences a reduced quantum 
+vacuum energy density owing to the boundary condition the plates impose on the fields. This generates a 
+measurable attractive force that pushes the plates together. 
+For many years, the paper remained unknown (Reference 22), but from the 1970s 
+onward the Casimir effect received increasing attention, and over the last decade it has 
+become very popular (Reference 23). The Casim ir effect is a purely quantum effect. In 
+classical electrodynamics the force between the plates is zero. The ideal scenario occurs 
+at zero temperature when there are no real photons (only virtual photons) between the 
+plates; thus, it is the ground state of the quantum electrodynamic vacuum which 
+causes the attraction. The most important feature of the Casimir effect is that even 
+though it is purely quantum in nature, it manifests itself macroscopically. For example, 
+for two parallel plates of area A = 1 cm2 separated by a distance of d = 1 µm the force 
+of attraction is F ~ 1.3 x 10-7 N. This force is certainly with in the range of laboratory 
+force-measuring techniques. 
+Typically, the calculations of the expectation value of the vacuum are divergent, 6 so 
+some form of renormalization must be performed. A full review of the experimental 
+verifications of the Casimir effect are beyond the scope of this paper, but it is certainly 
+worth mentioning that exper iments at Washington University using ultra-sensitive 
+Atomic Force Microscopes have experimentally verified the theoretical predictions of the 
+Casimir force to within 1 percent accuracy (Reference 24, 25). Needless to say, many 
+physicists consider this to be a real and well established phenomenon. 
+6 Divergent meaning the equation predicts an infinite result. Divergences are typ ical in many calculations using 
+quantum field theory, and an array of ingenious tools is used by physicists to extract fi nite and meaningfu l results. 
+UNCLASSIFIED//f8R 8fFl611'1L W&i O~lkY 
+7

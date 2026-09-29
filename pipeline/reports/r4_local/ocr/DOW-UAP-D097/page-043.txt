@@ -1,0 +1,138 @@
+MARCH 19, 1948
+
+337 , THE AEROPLANE
+
+The Biology of the Flying Saucer—III
+
+By A. R. Weyl, A.F.R.Ae.S.
+
+Previous articles in this series appeared in “ The Aeroplane” for February 13 and March 5
+
+IND-TUNNEL TESTS were made in Turin and at Rome
+
+of five Canova projects (described in the previous instal-
+ment of this article). It is interesting to note that the Canova
+disc-wing types did not make use of reflexed-camber acrofoils.
+Stability and trim could, therefore, be secured only by an
+upwards deflection of enlarged clevators.
+
+Early in 1935, an‘open glider of the “ Zoegling” type was
+constructed by a Milan firm and M. A. Garbell made fairly
+successful flights with it. He reported that the longitudinal
+Stability (with the enlarged elevator) was good and that
+parachute-like landings could be performed. The lateral
+stability characteristic, however, proved deficient, since a
+“ Dutch-roll " motion was experienced; turns were of question-
+able steadiness. In this respect, insufficient damping in foll
+and yaw are mentioned. With winch-launching, this glider
+reached altitudes of 600 ft.
+
+On the basis of this design, a light aeroplane was developed
+and the Italian Government financed the construction of two
+larger experimental aeroplanes, including one with 130 b.h.p.
+Gipsy engine. A fatal accident described as “ not necessarily
+reflecting on the technical merits of the design,” caused the
+authorities to change their minds and to terminate this
+development. ’
+
+A Return to Childish Things
+
+Aeroplanes with a long, deep tail affixed to a small-span
+wing form a development of the low-aspect wing in another
+direction. Although the overall aspect ratio is low with such
+an arrangement, the wing system is not that of a dise. It is
+more akin to primitive kites or, better, to the paper dart of
+our school days which, as we may be able to remember with
+some mental effort, exhibited quite remarkable flying qualities
+and made better use of our school books than we ever expected.
+
+A representative of this aboriginal type is shown in Fig. 19.
+It crashed during the first tests (which would not seem very
+surprising in view of the arrangement of engines and airscrews).
+
+Another less eccentric arrangement was the French Payen
+single-seat racer of 1935. This was a daring experimental
+type with a 400 b.h.p. radial engine. An improved type, this
+time more reasonable—a 70 b.h.p. light aeroplane—was
+constructed in 1936. To a very small, conventionally tapered
+wing, a large triangular tail was fitted; the wing alone had
+dihedral, and the overall aspect ratio was about 1.76. No
+flights have been reported of one of these Payen aeroplanes,
+but take-off attempts with the second type seem to have
+suggested that with the small span the torque reaction of the
+airscrew cannot be adequately dealt with.
+
+100)
+oe
+
+o
+100 }
+
+&
+
+LIFT COEFFICIENT ( x
+LIFT COEFFICIENT /
+
+Fig. 19.—An American “ Flying Flapjack "’ with two engines
+It crashed while under test (1938).
+
+A third design (in 1938) the “ Fléchair” single-seat fighter
+project, therefore, incorporated two coaxial counter-rotating
+airscrews driven by two 100 b.h.p. engines mounted in tandem
+in the long fuselage. The pilot's cockpit was located at the
+root of the fin, and a single-track undercarriage was adopted.
+There were, however, far too many untried features in this
+unusual design to make it a serious proposition. Nothing
+more has been heard of Payen's efforts,
+
+The modern phase of the Flying Saucer aeroplane is
+characterized by two distinct developments. One is the
+helicopter-aeroplane, the other is the trans-sonic or supersonic
+aeroplane. Both have become—unfortunately—essentially
+military developments; the progress is hence shrouded in the
+usual pretentious secrecy (which implies that the potential
+enemy knows everything) while the work is gravely hampered
+by elaborate security precautions.
+
+The helicopter-acroplane is not a novel idea. Many years
+ago, for instance, Nicola Tesla (famous for his electrical
+experiments with high-frequency phenomena) secured a patent
+for a tailless aeroplane equipped with a large lifting airscrew
+permitting a vertical ascent,
+
+In 1921 Claud Dornier secured a patent for a conventional
+
+| |
+
+Fig. 20.—Lift and
+drag of wings of
+different aspect
+ratio. (Left) Wind-
+tunnel results
+obtained at
+Goettingen, in
+1920; Goettingen
+389 aerofoil with
+a See | me US 4 10 per cent. thick-
+ASPECT RATIO ness and square
+| 1 SQUARE WING wing tips. (Right)
+
+| A reduction of the
+results to an
+aspect ratio of
+five, by the
+Prandtl Aerofoil
+Theory of the
+induced drag,
+shows that a
+square aerofoil
+(aspect ratio of
+one) does not
+follow the theory.
+Its induced drag is
+less than pre-
+dicted by the
+“horse-shoe
+vortex’’ assump-
+
+tion.

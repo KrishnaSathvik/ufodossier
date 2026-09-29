@@ -1,0 +1,47 @@
+UNCLASSIFIED/ f FOR 8FFl@IAL ~!II! 8HLY 
+exponents greater than 2. The first suggestion of th ils was By R. W. Bussard based on 
+theoret ical arguments (see Section 1). Later, PIC studies by M. Ohnishi at Kyoto 
+University (now at Kansai University) also showed such strong scaling (not covered 
+here- but see M. Ohnishi in Proceedings of 16th IEEE/NPSS, vol. 2, pp. 1468-1471). The 
+unanswered question is at what current level this occurs. Future simulations should 
+address that issue and also examine low angular momentum spread and higher ion 
+inject ion energies. 
+In summary, this study by Tzonev et al. is very encouraging for format ion of deep wells 
+in IEC devices designed for reactors using beam-beam dominated fusion. However, 
+much more work needs to be done along these lines to fully identify the optima l ion 
+injection strategy for deep wells with minimum power input. As stressed earlier, the 
+potential well parameters must also be combined with a consistent calculation of the 
+energy gain (Q) following the methods of L. Chacon et al. to establish a complete 
+picture of energy gain possible in a power type IEC. 
+MOMOTA ET AL. - STUDY OF VIRTUAL ELECTRODE STRUCTURE 
+In another related study, Momota and Miley (Reference 4.5) used an analytic solution 
+to examine the angular momentum effects. "Double-we ll" potential structure (virtual 
+cathode formation) was studied in a stationary spherical IEC using the nonlinear 
+Poison's equations and particle densities derived from kinetic theory. A novel method to 
+obtain a spherica lly symmetric stationary distribution function is introduced and an 
+integral-differential equation is simplified by apply ing a relevant approximated formu la 
+for an integral. Electron and ion beams are collision-free, and their velocities are 
+roughly aligned toward the spherical center, but with a slight divergence. Analyses 
+show that the angular momentum of ions and the smaller one of the electrons create a 
+virtual cathode, i.e., a double -well structure, of the electrostatic potential on a potentia l 
+hill near the center. The density limit of an !EC well was found and the conditions 
+relevant to form a deep potential well was presented. 
+These results show trends roughly similar to the numerical studies of Tzonev, et al., 
+and may be useful to persons wanting to study the effects analytically. 
+KIM - STABILITY ANALYSIS 
+In addition to achieving adequate potential well trapping for net energy production, the 
+question of stability of the non-Maxwellian plasma in the well must be considered. 
+(Note that "stabi lity " is a separate question from the therma lization of the beam-like 
+distribution in the IEC discussed earlier. However, they are coupled nonlinear problems 
+due to the fact that the distribution function used for both calculations should be 
+consistent). N. Krall did some earlier studies to show that the distribution in the R.W. 
+Bussard type Polywell IEC are stable against key instabi lit ies such as two -stream. These 
+studies however, were internal company reports and not openly published . Some 
+informat ion is given, however, in Reference 1.7. More recently, H.J. Kim, in his thesis 
+done with G. Miley, did an in-depth study of two stream -li ke instabilities in the ion­
+injected type IEC (see Reference 4.6). His work is very encouraging in that he identifies 
+a possible "window of stability" which depends on the injected energy distribution and 
+angular velocity spread. This result is summarized in Figure 4.10. The analysis is briefly 
+described as follows. 
+UNCLASSIFIED/ /&OA: O&&ICIAL !!ii ODt11 X 
+41

@@ -1,0 +1,23 @@
+UNCLASSIFIED/ ,'FOR OFFI@IAL WSE QptLY 
+Figure 11. Contemporary Primary Flight Display . 
+Source: < http://www.freshgasflow.com/physics/aviation_and_anesthesia/aviation_comparison .html> 
+An analogous display will be required for the breakthrough-era craft, but with 
+modifications to accommodate the full six degrees of freedom and the additional flight 
+regimes of orbit and deep space. For example, the artificial horizon and altimeter have 
+meaning near the surface of a gravitating body, but it is not clear how effective such 
+references will be in flight regimes of orbit or in deep-space flight. 
+These orientat ion cues as well as compass headings are Earth dependent. Far from 
+Earth, the value of maintaining these cues is unknown, and substitute cues have not 
+been identified . Other orientation standards will have to be developed for 
+breakthrough-era craft that will still be consistent with this aircraft convention when 
+operating near the surface of a gravitating body . 
+Navigation Display 
+The next most significant display is for navigation. Near Earth, this takes the form of a 
+map that can be augmented to show terra in and weather . Due to its importance, it has 
+a prominent place on the flight deck. Numerous related controls and displays are 
+avai lable for allowing the entry of destinations and waypoints into the system to 
+augment this one display screen . 
+Breakthrough-era craft will require additiona l navigation cues; these may include those 
+that will direct pilots into orbits and those for navigating in deep space. 
+UNCLASSIFIED/fFOA: OFFICIO la Plili Oralla¥ 
+30

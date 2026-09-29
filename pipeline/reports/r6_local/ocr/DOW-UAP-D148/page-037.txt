@@ -1,0 +1,25 @@
+UNCLASSIFIED/fFOR. QFFIEl.t.L: U&i QD:I! X 
+Appendix A: MathCad Program Used To Estimate Hypersonic 
+Vehicle Surface Temperature 
+Modeling of the Thermodynam ic Properties 
+Of Airflow about Hyperson ic Vehicles 
+I Purpose: Compute the properties across the bow shock of a hypersonic vehicle moving 
+through the earth's atmosphere. 
+A. Define the Aircraft Velocity 
+.- 3300· .fi>H,Wv Vehicle Velocity. 
+H := 10-km Vehicle Altitute. 
+NW 
+Note that the Karman Level corresponds to 100 km altitude 
+where the atmosphere essentially ends. 
+8 . Compute the Mach number for the Vehicle 
+Tatm(H) = 222.986K 
+a = 2993:16~ 
+s 
+C. Compute the Stagnation Properties Upstream of the Bow Shock 
+I I = -21.986K 
+I ot = l-~'06 103K 
+P1 := Pa1In(H) Pt = 0.l6t -a1m 
+1 
+Pol :=p1 {t + 1= ·- i2) i - l Pot = l.26.9 ·atrn 
+UNCLASSIFIED//FQlil QlifilEIAL: Wlili O,.L'l 
+33

@@ -1,0 +1,100 @@
+UNCLASSIFIED / / FOR-OFFEGHH-USE-OA
+
+Table 2. Summary of the Properties of the Probability Distribution That Applies
+to the Random Variable ET_Distance Yielding the (average) Distance Between
+Any Two Neighboring Communicating Civilizations in the Galaxy
+
+Random variable
+
+Probability distribution
+
+ET_Distance between any two neighboring
+ET civilizations in galaxy assuming they are
+UNIFORMLY distributed throughout the
+whole galaxy volume.
+
+Unnamed
+
+Probability density function
+
+Numerical constant C related to the Milky
+Way size
+
+3
+
+SET_Distane ( r) _
+
+C= V6 RGataxy NGataxy = 28,845 light years
+
+Mean value
+
+Variance
+
+Standard deviation
+
+m
+ho
+
+(ET_Distance) =Ce 3 e!8
+
+uo
+
+we le
+9)
+
+_ 3 p18
+Orr pistane =Ce ~ e'* Ve
+
+All the moments, i.e. k-th moment
+
+i"
+; k ye
+(ET_Distance jae e
+
+Mode (= abscissa of the lognormal peak)
+
+Value of the Mode Peak
+
+2
+Ho
+
+Thode = Teak =Ce * e if
+
+Peak Value of Ser pistane (7) a
+7
+
+3 3
+
+*@~ -@
+CV220
+
+= Ser pistane (Tae ) =
+
+Median (= fifty-fifty probability value for N) H
+median = m=Ce 3
+
+Skewness o 5a? o
+e “le? -3¢ 18 +2¢6
+K,
+3 ra 3
+(K,)2 80° 5c° 4c? o 207 \2
+Cle ® -4e 9 -3e 9 +12e3 -6e °
+Kurtosis K 4a? o 20
+4_=e 9 +2¢€3+3e°9 -6
+(K,)
+Expression of “in terms of the lower (ai) ; 1 p,{in(b, )—1]—a;{In(a; )—1]
+and upper (bi) limits of the Drake uniform “= >%)=>)
+
+input random variables Di
+
+Expression of °° in terms of the lower (ai)
+and upper (bi) limits of the Drake uniform
+input random variables Di
+
+Pi Yo? 25 yi = a,b [in(b,)-In(a,)P
+
+(, —a; p
+
+20
+
+UNCLASSIFIED/ 4-@R-OF5L60LAL-USE-ONLY

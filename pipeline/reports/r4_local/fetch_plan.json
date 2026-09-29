@@ -1,0 +1,27 @@
+{
+  "generated_at": "2026-09-28T17:29:03.205703+00:00",
+  "out_dir": "/Users/krishnasathvikmantripragada/Webapps/ufo-dossier/.cache/files/pursue/r4",
+  "pdf_ids": [
+    "CIA-UAP-D020",
+    "CIA-UAP-D021",
+    "DOE-UAP-D004",
+    "DOE-UAP-D005",
+    "DOW-UAP-D089",
+    "DOW-UAP-D090",
+    "DOW-UAP-D091",
+    "DOW-UAP-D092",
+    "DOW-UAP-D093",
+    "DOW-UAP-D094",
+    "DOW-UAP-D095",
+    "DOW-UAP-D096",
+    "DOW-UAP-D097",
+    "FBI-UAP-D014"
+  ],
+  "skip_media_deep_processing": true,
+  "media_ids": [
+    "NASA-UAP-D030",
+    "NASA-UAP-D031",
+    "NASA-UAP-D032"
+  ],
+  "note": "Images/videos: metadata + pairing only. No full media AI analysis in R4 local."
+}

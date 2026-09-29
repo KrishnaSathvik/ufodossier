@@ -1,0 +1,595 @@
+{
+  "generated_at": "2026-09-28T20:55:17.103054+00:00",
+  "documents": [
+    {
+      "filename": "DOW-UAP-D102.pdf",
+      "page_count": 156,
+      "usable_text_chars": 167593,
+      "native_good_pages": 33,
+      "native_thin_pages": 14,
+      "pages_ocrd": 109,
+      "ocr_succeeded": 105,
+      "ocr_failed": 4
+    },
+    {
+      "filename": "DOW-UAP-D103.pdf",
+      "page_count": 5,
+      "usable_text_chars": 797,
+      "native_good_pages": 1,
+      "native_thin_pages": 1,
+      "pages_ocrd": 3,
+      "ocr_succeeded": 3,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "DOW-UAP-D104.pdf",
+      "page_count": 585,
+      "usable_text_chars": 1041214,
+      "native_good_pages": 148,
+      "native_thin_pages": 59,
+      "pages_ocrd": 378,
+      "ocr_succeeded": 378,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "DOW-UAP-D105.pdf",
+      "page_count": 253,
+      "usable_text_chars": 228421,
+      "native_good_pages": 38,
+      "native_thin_pages": 38,
+      "pages_ocrd": 177,
+      "ocr_succeeded": 166,
+      "ocr_failed": 11
+    },
+    {
+      "filename": "DOW-UAP-D106.pdf",
+      "page_count": 6,
+      "usable_text_chars": 7232,
+      "native_good_pages": 4,
+      "native_thin_pages": 1,
+      "pages_ocrd": 1,
+      "ocr_succeeded": 1,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "DOW-UAP-D107.pdf",
+      "page_count": 8,
+      "usable_text_chars": 10106,
+      "native_good_pages": 7,
+      "native_thin_pages": 0,
+      "pages_ocrd": 1,
+      "ocr_succeeded": 1,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "DOW-UAP-D108.pdf",
+      "page_count": 8,
+      "usable_text_chars": 9765,
+      "native_good_pages": 6,
+      "native_thin_pages": 0,
+      "pages_ocrd": 2,
+      "ocr_succeeded": 2,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "DOW-UAP-D109.pdf",
+      "page_count": 6,
+      "usable_text_chars": 7405,
+      "native_good_pages": 6,
+      "native_thin_pages": 0,
+      "pages_ocrd": 0,
+      "ocr_succeeded": 0,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "DOW-UAP-D110.pdf",
+      "page_count": 4,
+      "usable_text_chars": 10088,
+      "native_good_pages": 3,
+      "native_thin_pages": 0,
+      "pages_ocrd": 1,
+      "ocr_succeeded": 1,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "DOW-UAP-D111.pdf",
+      "page_count": 59,
+      "usable_text_chars": 259395,
+      "native_good_pages": 41,
+      "native_thin_pages": 2,
+      "pages_ocrd": 16,
+      "ocr_succeeded": 16,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "DOW-UAP-D112.pdf",
+      "page_count": 4,
+      "usable_text_chars": 6793,
+      "native_good_pages": 3,
+      "native_thin_pages": 0,
+      "pages_ocrd": 1,
+      "ocr_succeeded": 1,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "DOW-UAP-D113.pdf",
+      "page_count": 5,
+      "usable_text_chars": 11958,
+      "native_good_pages": 2,
+      "native_thin_pages": 0,
+      "pages_ocrd": 3,
+      "ocr_succeeded": 3,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "DOW-UAP-D114.pdf",
+      "page_count": 3,
+      "usable_text_chars": 5105,
+      "native_good_pages": 1,
+      "native_thin_pages": 1,
+      "pages_ocrd": 1,
+      "ocr_succeeded": 1,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "DOW-UAP-D115.pdf",
+      "page_count": 1,
+      "usable_text_chars": 849,
+      "native_good_pages": 0,
+      "native_thin_pages": 0,
+      "pages_ocrd": 1,
+      "ocr_succeeded": 1,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "DOW-UAP-D116.pdf",
+      "page_count": 5,
+      "usable_text_chars": 7088,
+      "native_good_pages": 0,
+      "native_thin_pages": 1,
+      "pages_ocrd": 4,
+      "ocr_succeeded": 4,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "DOW-UAP-D117.pdf",
+      "page_count": 30,
+      "usable_text_chars": 73107,
+      "native_good_pages": 23,
+      "native_thin_pages": 4,
+      "pages_ocrd": 3,
+      "ocr_succeeded": 3,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "DOW-UAP-D118.pdf",
+      "page_count": 20,
+      "usable_text_chars": 50314,
+      "native_good_pages": 16,
+      "native_thin_pages": 0,
+      "pages_ocrd": 4,
+      "ocr_succeeded": 4,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "DOW-UAP-D119.pdf",
+      "page_count": 32,
+      "usable_text_chars": 67519,
+      "native_good_pages": 27,
+      "native_thin_pages": 2,
+      "pages_ocrd": 3,
+      "ocr_succeeded": 3,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "DOW-UAP-D120.pdf",
+      "page_count": 27,
+      "usable_text_chars": 81437,
+      "native_good_pages": 21,
+      "native_thin_pages": 2,
+      "pages_ocrd": 4,
+      "ocr_succeeded": 4,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "DOW-UAP-D121.pdf",
+      "page_count": 37,
+      "usable_text_chars": 102578,
+      "native_good_pages": 30,
+      "native_thin_pages": 2,
+      "pages_ocrd": 5,
+      "ocr_succeeded": 5,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "DOW-UAP-D122.pdf",
+      "page_count": 29,
+      "usable_text_chars": 56030,
+      "native_good_pages": 21,
+      "native_thin_pages": 2,
+      "pages_ocrd": 6,
+      "ocr_succeeded": 6,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "DOW-UAP-D123.pdf",
+      "page_count": 35,
+      "usable_text_chars": 67901,
+      "native_good_pages": 26,
+      "native_thin_pages": 5,
+      "pages_ocrd": 4,
+      "ocr_succeeded": 4,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "DOW-UAP-D124.pdf",
+      "page_count": 56,
+      "usable_text_chars": 132986,
+      "native_good_pages": 45,
+      "native_thin_pages": 4,
+      "pages_ocrd": 7,
+      "ocr_succeeded": 7,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "DOW-UAP-D125.pdf",
+      "page_count": 72,
+      "usable_text_chars": 194806,
+      "native_good_pages": 64,
+      "native_thin_pages": 3,
+      "pages_ocrd": 5,
+      "ocr_succeeded": 5,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "DOW-UAP-D126.pdf",
+      "page_count": 37,
+      "usable_text_chars": 82649,
+      "native_good_pages": 29,
+      "native_thin_pages": 4,
+      "pages_ocrd": 4,
+      "ocr_succeeded": 4,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "DOW-UAP-D127.pdf",
+      "page_count": 55,
+      "usable_text_chars": 122063,
+      "native_good_pages": 35,
+      "native_thin_pages": 4,
+      "pages_ocrd": 16,
+      "ocr_succeeded": 16,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "DOW-UAP-D128.pdf",
+      "page_count": 38,
+      "usable_text_chars": 89713,
+      "native_good_pages": 24,
+      "native_thin_pages": 3,
+      "pages_ocrd": 11,
+      "ocr_succeeded": 11,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "DOW-UAP-D129.pdf",
+      "page_count": 27,
+      "usable_text_chars": 73608,
+      "native_good_pages": 16,
+      "native_thin_pages": 2,
+      "pages_ocrd": 9,
+      "ocr_succeeded": 9,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "DOW-UAP-D130.pdf",
+      "page_count": 36,
+      "usable_text_chars": 108518,
+      "native_good_pages": 29,
+      "native_thin_pages": 2,
+      "pages_ocrd": 5,
+      "ocr_succeeded": 5,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "DOW-UAP-D131.pdf",
+      "page_count": 16,
+      "usable_text_chars": 52218,
+      "native_good_pages": 11,
+      "native_thin_pages": 1,
+      "pages_ocrd": 4,
+      "ocr_succeeded": 4,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "DOW-UAP-D132.pdf",
+      "page_count": 17,
+      "usable_text_chars": 41032,
+      "native_good_pages": 16,
+      "native_thin_pages": 1,
+      "pages_ocrd": 0,
+      "ocr_succeeded": 0,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "DOW-UAP-D133.pdf",
+      "page_count": 32,
+      "usable_text_chars": 82907,
+      "native_good_pages": 25,
+      "native_thin_pages": 4,
+      "pages_ocrd": 3,
+      "ocr_succeeded": 3,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "DOW-UAP-D134.pdf",
+      "page_count": 19,
+      "usable_text_chars": 52430,
+      "native_good_pages": 17,
+      "native_thin_pages": 2,
+      "pages_ocrd": 0,
+      "ocr_succeeded": 0,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "DOW-UAP-D135.pdf",
+      "page_count": 44,
+      "usable_text_chars": 123152,
+      "native_good_pages": 37,
+      "native_thin_pages": 2,
+      "pages_ocrd": 5,
+      "ocr_succeeded": 5,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "DOW-UAP-D136.pdf",
+      "page_count": 45,
+      "usable_text_chars": 91391,
+      "native_good_pages": 42,
+      "native_thin_pages": 2,
+      "pages_ocrd": 1,
+      "ocr_succeeded": 1,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "DOW-UAP-D137.pdf",
+      "page_count": 31,
+      "usable_text_chars": 66456,
+      "native_good_pages": 25,
+      "native_thin_pages": 3,
+      "pages_ocrd": 3,
+      "ocr_succeeded": 3,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "DOW-UAP-D138.pdf",
+      "page_count": 33,
+      "usable_text_chars": 89109,
+      "native_good_pages": 29,
+      "native_thin_pages": 4,
+      "pages_ocrd": 0,
+      "ocr_succeeded": 0,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "DOW-UAP-D139.pdf",
+      "page_count": 42,
+      "usable_text_chars": 109491,
+      "native_good_pages": 36,
+      "native_thin_pages": 1,
+      "pages_ocrd": 5,
+      "ocr_succeeded": 5,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "DOW-UAP-D140.pdf",
+      "page_count": 57,
+      "usable_text_chars": 143723,
+      "native_good_pages": 40,
+      "native_thin_pages": 0,
+      "pages_ocrd": 17,
+      "ocr_succeeded": 17,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "DOW-UAP-D141.pdf",
+      "page_count": 38,
+      "usable_text_chars": 90616,
+      "native_good_pages": 25,
+      "native_thin_pages": 1,
+      "pages_ocrd": 12,
+      "ocr_succeeded": 12,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "DOW-UAP-D142.pdf",
+      "page_count": 57,
+      "usable_text_chars": 156580,
+      "native_good_pages": 46,
+      "native_thin_pages": 2,
+      "pages_ocrd": 9,
+      "ocr_succeeded": 9,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "DOW-UAP-D143.pdf",
+      "page_count": 77,
+      "usable_text_chars": 162295,
+      "native_good_pages": 50,
+      "native_thin_pages": 6,
+      "pages_ocrd": 21,
+      "ocr_succeeded": 21,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "DOW-UAP-D144.pdf",
+      "page_count": 57,
+      "usable_text_chars": 142906,
+      "native_good_pages": 47,
+      "native_thin_pages": 2,
+      "pages_ocrd": 8,
+      "ocr_succeeded": 8,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "DOW-UAP-D145.pdf",
+      "page_count": 50,
+      "usable_text_chars": 98760,
+      "native_good_pages": 36,
+      "native_thin_pages": 3,
+      "pages_ocrd": 11,
+      "ocr_succeeded": 10,
+      "ocr_failed": 1
+    },
+    {
+      "filename": "DOW-UAP-D146.pdf",
+      "page_count": 36,
+      "usable_text_chars": 74923,
+      "native_good_pages": 26,
+      "native_thin_pages": 3,
+      "pages_ocrd": 7,
+      "ocr_succeeded": 7,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "DOW-UAP-D147.pdf",
+      "page_count": 34,
+      "usable_text_chars": 82332,
+      "native_good_pages": 24,
+      "native_thin_pages": 3,
+      "pages_ocrd": 7,
+      "ocr_succeeded": 7,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "DOW-UAP-D148.pdf",
+      "page_count": 46,
+      "usable_text_chars": 93005,
+      "native_good_pages": 29,
+      "native_thin_pages": 6,
+      "pages_ocrd": 11,
+      "ocr_succeeded": 11,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "DOW-UAP-D149.pdf",
+      "page_count": 32,
+      "usable_text_chars": 82726,
+      "native_good_pages": 19,
+      "native_thin_pages": 5,
+      "pages_ocrd": 8,
+      "ocr_succeeded": 8,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "DOW-UAP-D150.pdf",
+      "page_count": 54,
+      "usable_text_chars": 131835,
+      "native_good_pages": 36,
+      "native_thin_pages": 6,
+      "pages_ocrd": 12,
+      "ocr_succeeded": 12,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "DOW-UAP-D151.pdf",
+      "page_count": 31,
+      "usable_text_chars": 74949,
+      "native_good_pages": 25,
+      "native_thin_pages": 2,
+      "pages_ocrd": 4,
+      "ocr_succeeded": 3,
+      "ocr_failed": 1
+    },
+    {
+      "filename": "DOW-UAP-D152.pdf",
+      "page_count": 43,
+      "usable_text_chars": 59137,
+      "native_good_pages": 33,
+      "native_thin_pages": 1,
+      "pages_ocrd": 9,
+      "ocr_succeeded": 8,
+      "ocr_failed": 1
+    },
+    {
+      "filename": "DOW-UAP-D153.pdf",
+      "page_count": 51,
+      "usable_text_chars": 121934,
+      "native_good_pages": 44,
+      "native_thin_pages": 2,
+      "pages_ocrd": 5,
+      "ocr_succeeded": 5,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "DOW-UAP-D154.pdf",
+      "page_count": 19,
+      "usable_text_chars": 64131,
+      "native_good_pages": 19,
+      "native_thin_pages": 0,
+      "pages_ocrd": 0,
+      "ocr_succeeded": 0,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "DOW-UAP-PR130.pdf",
+      "page_count": 1,
+      "usable_text_chars": 25,
+      "native_good_pages": 0,
+      "native_thin_pages": 0,
+      "pages_ocrd": 1,
+      "ocr_succeeded": 1,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "DOW-UAP-PR131.pdf",
+      "page_count": 1,
+      "usable_text_chars": 25,
+      "native_good_pages": 0,
+      "native_thin_pages": 0,
+      "pages_ocrd": 1,
+      "ocr_succeeded": 1,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "LLE-UAP-D001.pdf",
+      "page_count": 1,
+      "usable_text_chars": 1192,
+      "native_good_pages": 1,
+      "native_thin_pages": 0,
+      "pages_ocrd": 0,
+      "ocr_succeeded": 0,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "LLE-UAP-D002.pdf",
+      "page_count": 2,
+      "usable_text_chars": 3158,
+      "native_good_pages": 2,
+      "native_thin_pages": 0,
+      "pages_ocrd": 0,
+      "ocr_succeeded": 0,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "LLE-UAP-D003.pdf",
+      "page_count": 1,
+      "usable_text_chars": 1183,
+      "native_good_pages": 1,
+      "native_thin_pages": 0,
+      "pages_ocrd": 0,
+      "ocr_succeeded": 0,
+      "ocr_failed": 0
+    },
+    {
+      "filename": "LLE-UAP-D004.pdf",
+      "page_count": 1,
+      "usable_text_chars": 1720,
+      "native_good_pages": 1,
+      "native_thin_pages": 0,
+      "pages_ocrd": 0,
+      "ocr_succeeded": 0,
+      "ocr_failed": 0
+    }
+  ]
+}

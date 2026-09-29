@@ -1,0 +1,28 @@
+UNCLASSIFIED/ /P'OR: OP'P'l@IAL WS& 0Nk¥ 
+Figure 24. A Representation of the Retinal 
+Prosthesis: (A) camera in the glass frame, (B) 
+wireless transmitter, (C) extraocular electronic case 
+(receiver), and (D) intraocular implant electrode array 
+(http ://b iomed .brown .edu/Cou rses/BI108/2006 -
+108websites/group03retinal implants/ interoccular . htm) 
+Figure 25. A BioMEMS-Fabricated 4x4 Microelectrode 
+Retinal Array 
+(http ://biomed.brown.edu/Courses/BI 108/2006-
+10Swebsites/ group03retinalimplants/interoccular .htm) 
+A retinal based neuroprost hesis is designed to use electrical pulse stimulation of the 
+remaining viable retinal cells to evoke the sensation of light at discrete points within the 
+visual field. These apparent points of light are called phosphenes. 
+The strategy is to pulse the retina with sufficiently close-spaced electrodes such that 
+the phosphenes would combine to present an organized pattern to the patient's 
+perceptions. A completely implanted device is desired that has the electrode array 
+connected to a pulse driver circuit, power, and signal processing. All of these 
+components must be miniaturized as much as possible so the entire device can be 
+implanted. 
+Microimplantable devices based on BioMEMS structures are being developed that 
+capture their power from outside the body by wireless techniques. Bidirectional 
+communication is often needed to provide feedback on device function. Some 
+communication links need a wide bandwidth for real-time data transm ission and this is 
+challenging since such types of communicat ion are inherently of a high power drain . 
+Figure 26 is an artist's conception of the ret inal implant designed by the Boston group. 
+UNCLASSIFIED/ {FOR OFFICIO! !PEii QDlk¥ 
+28

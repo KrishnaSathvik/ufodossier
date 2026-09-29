@@ -1,0 +1,41 @@
+UNCLASSIFIED/ ,'FOlt err1e1At YSI!! 8,.LY 
+a PRR is applied such that there is insufficient time for thermal diffusion 
+between pulses (about 1 millisecond), then there will be an overall constant 
+rise in temperature. For this reason, the PRR capability is of extreme 
+importance for any HPM source. 
+As a matter of course, assets to be tested include those of friend and foe alike, 
+the goal being to find vulnerabilities in both and correcting those found in our 
+own assets. Several techniques are employed to mitigate vulnerabilities found 
+in assets, including filtering of conductor lines, using metallic enclosures, 
+eliminating any unnecessary openings in the outer enclosure, and using ferrite 
+or other magnetic materials. Any electronics inside a completely sealed 
+metallic container (Faraday cage) would have no vulnerability to HPM of any 
+variety; however, such a scenario is also of little or no use, since there could 
+be no communication to or from the enclosure. Assets therefore must include 
+some openings for communications, instruments, air flow, and sensors, 
+sometimes as a matter of fulfilling their function. 
+From the HPM source perspective, care must be taken to prevent fratricide and 
+harm to friendly assets. To prevent fratricide, all connections to the source 
+must be filtered to prevent fast transients from returning to the control unit. 
+Some signals can be transmitted using fiber-optic cable; however, there is 
+usually a piece of equipment at the source end that must be filtered. Some 
+connections, such as the high-voltage power supplies, can make good use of 
+high inductance filtering to eliminate fast transients, while others, such as 
+trigger lines, must make use of other filtering means, such as transformer 
+coupling, lightning arrestors, transorbs, and fast-acting, high-voltage diodes. 
+Preventing harm to friendly assets is difficult and is a major reason why HPM 
+has rarely been employed in actual battlefield settings. To ensure there is no 
+harm to friendly assets, all assets would have to be tested for vulnerabilities, 
+something that is not done at present. The antenna is a major factor in this 
+matter. Unfocused antennas radiate a pattern that spreads as it progresses 
+outward and, thus, the area subjected to the EM fields increases with distance. 
+It is then harder to separate one's own assets from the radiated fields. 
+In addition, it is very difficult to detect these sort of pulsed sources, since the 
+pulses are very short (typically 1-500 nanoseconds), and even in burst mode, 
+the bursts are usually less than 10 seconds. The short burst mode operation is 
+necessary because of the high peak powers and subsequent heating of key 
+components such as switches. The UWB sources would be the most difficult to 
+detect, since they have nearly zero energy at any one frequency and so would 
+not be detected at all by instruments such as spectrum analyzers. 
+UNCLASSIFIED/ ,creR 8FFl@IAL U:!I! ()fl[ I 
+viii

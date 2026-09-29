@@ -1,0 +1,31 @@
+LOS ALAMOS SCIENTIFIC LABORATORY
+UNIVERSITY OF CALIFORNIA
+LOS ALAMOS, NEW MEXICO
+
+TO: Dr. Jocelyn Gill DATE: July 13, 1962
+
+Assuming that Y = 7 km in an absorbing layer, we note that a surface observer
+
+viewing a layer at an altitude near 100 km will have available the ratio
+
+Ny
+e555 (12)
+
+An astronaut viewing along path No. 3 would have a mich greater thickness, as
+
+(13)
+
+Viewing thru the layer to a point near the surface and out again the enhancement
+
+would be mich less,
+
+Bg oe oe
+7 or 11 (14)
+
+Light received by an observer from a "point source" in space is attenuated by
+
+oN
+
+a factor e where o is the absorption plus scattering cross section, giving
+
+(15a)

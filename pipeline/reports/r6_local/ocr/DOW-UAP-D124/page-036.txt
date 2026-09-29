@@ -1,0 +1,47 @@
+UNCLASSIFIED/ j'POlt OfFI@IAL WSliii 9Pn.Y 
+300 ~ ----~----~----~----~----~---~ 
+Propellant Weight 
+250 
+en 
+C: 
+0 
+~o:E - LACE Constant OWE 
+-~ ---0-- LACE Actua l O W E 
+<:_ ---a- Rocke t Constant O WE 
+~--~----~----~~--~~~=~~~ 
+'k-----+-----+-----+------t 
+~o ~~-~~~~~~ 
+Et 
+a3 a. 
+£00 +-----+--- .........=-' 
+0 5,000 10,000 15,000 20 ,000 25 ,000 30 ,000 
+Flight Speed Along Trajectory (ft/sec) 
+Figure 31. LACE Air-Breathing Rocket Reduces Gross Liftoff Weight by 150 Metric Tons and Uses 
+Existing Rocket Engines 
+The LACE or deeply cooled cycle could 
+also be adapted to operate in the FDL-
+7 /Mode l 176 if it were a first stage to a 
+two -stage-to -orbit system, 25 as shown in 
+Figure 32 with a retractable, inward-
+turning inlet .26 In this case, there is 
+another version of the precooled air­
+breathing engine concept, called the 
+KUN cycle, that was invented by V. V. 
+Balapin. 27 Like the LACE and deeply 
+cooled systems, the KUN cycle can 
+significantly reduce the size and weight 
+Inlet Healof a launcher. The KUN™ Deeply Cooled Exchanger 
+Turbojet/Rocket Cycle incorporates a 
+heat exchanger upstream of the Figure 32. The FDL-7 Class of Vehicles With An 
+compressor to thermally control the air Anthony DuPont Variable Capture and a Retractable 
+Inlet Tested to Mach 5 Employing an Air-Breathingto the compressor so a lower corrected KLIN Cycle Rocket
+speed of the compressor can be 
+maintained with the increasing mach number. The cycle also thermally integrates an 
+expander cycle rocket engine, one in which rejected therma l energy is used to drive the 
+turbopumps and accessories. The initial cycle calculations have shown good results for 
+hyperson ic vehicle space launcher applications. For mach numbers less than mach 5.5, 
+the turbojet and rocket operate as a single system prov iding the required total thrust 
+for accelerat ion . 
+Turbojet 
+UNCLASSIFIED/ /fOlt orr1e1J1ct U91!! er•t I 
+29

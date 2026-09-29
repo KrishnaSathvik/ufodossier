@@ -1,0 +1,32 @@
+UNCLASSIFIED/ /P91t 9ffl@IAL l:ISI: &PU.¥ 
+Al Draper assembled the ASSET (Aerothermodynamic Structural and System 
+Environmental Test) experimental flight-test program to evaluate current U.S. Air Force 
+and NASA materials for hypersonic entry vehicles. The intent was to launch a test 
+vehicle from an Air Force Thor IRBM in the 18,000 to 20,000 feet/second range and 
+recover the vehicle. The ASSET glider was approximately the forward portion of the X-
+20 Dynasoar vehicle and is shown in Figure 25 after recovery. Except for the carbon 
+leading edges, the materials generally performed as required. As a result, a small team 
+of McDonnell Douglas Astronautics Company engineers and model builders began 
+working on an alternative approach for the leading edges. This team's efforts resulted 
+in the heat pipe leading edge shown in Figure 26, a series of formed stainless steel 
+tubes brazed together to form a leading edge based on NASA space shuttle 
+requirements. The tubes contained a stainless steel mesh wick and were filled with 
+metallic sodium. 
+figure 25. FOL ASSET flight -Tested From Orbital Figure 26. Heat Pipe Shuttle Leading Edge 
+Speeds To Evaluate 1960s' Materials. Carbon Designed and Built by McDonnell Douglas 
+leading edges proved the least durable. Astronautics. Tested extensively at McDonnell 
+Douglas Corporation, St. Louis, and NASA Langley, it 
+never failed . 
+The leading edge was tested in NASA Langley's 8-foot High-Temperature Structures 
+Tunnel, the NASA Langley Radiation Thermal Test Facility and the McDonnell Douglas 
+Graphite Thermal-Altitude Test Facility (graphite radiation heaters within a vacuum 
+altitude chamber). All of these tests showed the installed leading edge to be durable, 
+robust, and lightweight (equaled the installed NASA carbon-carbon leading edges). 
+Starts from cold tubes showed the sodium melts and began the heat pump process 
+without any difficulties . Because this leading edge was made by the engineers and 
+mechanics as a one of a kind, the tubes developed thermal shorts and other problems 
+over the span of the testing, all of which were rectified before the test continued. 
+Although brittle and difficult to manufacture, this leading edge met the 
+thermodynamacists' solution of a simple radiation structure, not a heat pump. 13 
+UNCLASSIFIED/ /FOR OFFICIO ls. !lili QPlls.¥ 
+22

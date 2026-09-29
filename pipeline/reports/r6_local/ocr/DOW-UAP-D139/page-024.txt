@@ -1,0 +1,44 @@
+UNCLASSIFIED/ fFOA OFFl&I.t.k Y&li &PtLY 
+Finally, Ries et al. (Reference SO) exper imenta lly demonstrated the very first simple, 
+scalable squeezed vacuum source in the laboratory that consisted of a continuous -wave 
+diode laser and an atom ic rubidium vapor cell. The experimenta l tools one needs to 
+begin exploring the generation of negative energy for the purpose of creating 
+traversable worm holes are just now becoming available. 
+3. Gravitationally Squeezed Electromagnetic ZPF 
+A natural source of negat ive energy comes from th e effect that grav itational fields (of 
+astronom ical bodies) in space have upon the surround ing quantum vacuum. For 
+example, the gravitat ional field of the Earth produces a zone of negative energy around 
+it by dragging some of the virtua l quanta (a.k.a. vacuum ZPF) downward. This concept 
+was initially developed in the 1970s as a byproduct of studies on quantum field theory 
+in curved space (Reference 25). However, Hochberg and Kephart (Reference 21) 
+derived an important application of th is concept to the problem of creating and 
+stabilizing traversable wormholes. They showed that one can utilize the negative energy 
+densities, which arise from distortion of the vacuum ZPF due to the interaction with a 
+prescribed gravitational background, for providing a violation of the energy conditions. 
+The squeezed quantum states of quantum optics provide a natural form of matter 
+having negative energy density. 
+The analysis, via quantum optics, showed that gravitation itself provides the 
+mechanism for generating the squeezed vacuum states needed to support stable 
+traversable wormholes. The production of negative energy densities via a squeezed 
+vacuum is a necessary and unavoidable consequence of the interaction or coupling 
+between ordinary matter and gravity, and this defines what is meant by gravitationally 
+squeezed vacuum states. The magnitude of the gravitational squeezing of the vacuum 
+can be estimated from the quantum optics squeezing condition for given transverse 
+momentum and (equivalent) energy eigenvalues, j, of two electromagnetic ZPF field 
+modes, such that this condition is subject toj ➔ 0, and it is defined as (Reference 21): 
+(6) 
+where ,l is the ZPF mode wavelength, r is the radial distance from the center of the 
+astronomical body in question, Ro is the radius of the Earth (6.378 x 106 m), Mo is the 
+mass of the Earth (5,972 x 1024 kg), Mis the mass of the astronomical body, and rs is 
+the Schwarzschild radius of the astronomical body. 8 Note that rs is only a convenient 
+radial distance parameter for any object under examination and so there is no black 
+hole collapse involved in this analysis. Any radial distance from the body in question 
+can be chosen to perform this analysis, but using rs makes the equation simpler in 
+form. Also note that Equation (6) contains an extra factor of two (compared to the j 
+derived in Reference 21) in order to account for the photon spin. The squeezing 
+condition plus Equation (6) simply states that substantial gravitational squeezing of the 
+vacuum occurs for those ZPF field modes with A~ Bnrs of the mass in question (whose 
+8 r, = 2GM/c2. According to general relativity theory, this is the critical radius at which a spherically symmetric 
+massive body becomes a black hole, i.e., at which light is unable to escape from the body's surface. 
+16 
+UNCLASSIFIEQ { {FOR OFFICIAL Y&li 8HLY

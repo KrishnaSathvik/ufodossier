@@ -1,0 +1,27 @@
+55 
+Nordberg - I am curious if you ha<l a chance to observe variations 
+of brightness around the horizon; around as far as possible 
+(during) both in day and nighto 
+Schirra - Again, the field of view isn't that big o I know just 
+what you are asking faro I didn ' t take the liberty of making 
+these, what would amount toi large yaw changes. I did no t have 
+the opportunity to observe that transition. The field of view I 
+had did not show these various changes . 
+O'Keefe - You see, this is like 30 degr ees, that's half a radius. I don't 
+t hink he could see much more than you could see overhe ad at ni ght. 
+Schirra - Yes. 
+ovKeefe - It means that if he doesn't see patterns in the airglo w 
+from a single place at night, unless he has the freedom to yaw al l 
+around, he doesn't have the opportunity of tracing out the rather 
+large patterns which must be in the airglow. They are of the orde r o f 
+a thousand miles in diameter . 
+Nordberg - I was also curious about daytime, because of the 
+forward scattering and backscattering and 90° to the sun and 
+actually, in daytime if your turnaround maneuvers arep s ay , t hey 
+don 9 t go around in a plane tangential to the surface of the earth ? 
+They go around in a radial plane, don 9 t they? 
+Schirra - Well, this is the awful thing about our vehicle. All 
+the thrusters are not aligned through the body axis, thereforep 
+you get two and three axes when you ask for one. If you were 
+trying to track the horizon, using the yaw input, say the horizon 
+being like an arc here, you go like this. Then you ' ve got to roll p

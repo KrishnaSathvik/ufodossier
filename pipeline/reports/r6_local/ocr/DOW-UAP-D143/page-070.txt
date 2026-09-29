@@ -1,0 +1,34 @@
+----
+UNCLASSIFIED//rOR: orrlCIAL USE 014Lf 
+and are controlled by a single FSM which is also the primary mirror and DM. This 
+eliminates the traditional split between local and target loop stabilization, 
+combining both into a single controller. This is accomplished so that the high­
+power path is minimized to its fundamental limit of six mirrors, which are 
+necessary to get the beam from the HEL module through the coude path and out 
+through the exit aperture of the telescope. 
+• Eliminating the BILL (see Figure 36): The BILL is a solid-state, kilowatt-class laser 
+that measures atmospher ic conditions, allowing the beam and fire contro l 
+systems to compensate for atmospheric turbulence that the HEL beam would 
+encounter in its path to a target. The beam from the BILL bounces off the target 
+and returns to the HEL source, where optical and software equipment measures 
+the amount of distortion in the atmosphere between the HEL source and the 
+target. The HEL adaptive optics system compensates for the distortion using a 
+deformable mirror. Thus, elim inating the BILL was a very importa nt innovation 
+towards decreasing t he number of high-power components requ ired in the coude 
+path. 
+Basic Shared Aperture Beam 
+Control System 
+Sources of Noise & Jitter 
+• Platform vibration 
+•Target Scintlllation 
+• Wind and platform induced 
+vibration on director 
+• Atmospheric Turbulence 
+Gimba ls • Excess Mechanical TolerancesC41 SystemControl • l atencies & Inadequate 
+bandwidth in tracker loop 
+~ Overcomes many of the alignment issues with a dual aperturE;system I 
+Figure 35. Basic Shared Aperture Beam Contro l System (TILL = Track Illuminato r Laser; C4I 
+= Command, Control, Computing, Communication & Intelligence equipment} (courtesy of 
+the Directed Energy Professional Society}. 
+UNCLASSIFIED{fFOA QFFIEiIAL ~81!! 8HLY 
+66

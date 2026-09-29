@@ -1,0 +1,46 @@
+UNCLASSIFIED/ /FOR OFF!e!IIIL lt!iE 8Hl:Y 
+shady side, avoiding direct sunlight. The station has absorbed and stored all the heat 
+and electricity it will need to get through the orbital "night" of Earth's shadow and is 
+becoming stingy about accepting more energy. 
+Soon, the station has converted almost its entire exterior into a mirror, keeping only a 
+small solar collector for maintenance voltage and a few shaded portholes for light and 
+aesthetics. The central computer idly browses its library and encyclopedia and the 
+Internet, finding news, entertainment, and educational material it knows the astronauts 
+will want to see, With the power of quantum computing, it is even able to analyze this 
+information. 
+Halfway through its hour-long orbital "day," despite every precaution, the station is in 
+danger of becoming too hot. Peltier junctions begin to appear in the hull, their 
+radiators-colored black and yellow and covered in HOT SURFACE warnings-swelling 
+on the station's shadowed side. At the same time, a solar storm-predicted days ago­
+finally begins to kick up. The hull compensates by generating a strong magnetic field to 
+deflect the charged particles. This could be troublesome to the people and equipment 
+inside the station, but the fields are deflected outside by sheets of superconducting 
+material, cooled by still more Peltier junctions. The shields are up; the station is circling 
+the Earth in its own little magnetic bubble. 
+Soon enough, though, the station's orbit carries it back into the planet's shadow. 
+Sunset is brief and spectacular; the solar heat and solar wind vanish. Now the station is 
+living on stored charge and stored heat, Windows look down on Earth-a warm object 
+that radiates brightly in the infrared-but not in the cold vacuum of space, The hull 
+becomes thermally conductive for a few seconds to ease any temperature imbalances 
+that have developed and then switches to an insulative, low-emissivity mode to 
+conserve heat. 
+Now the astronauts are followed around by electroluminescent task lighting, The station 
+seems to relax and to take things a little slower until "dawn" breaks again and the cycle 
+repeats itself. 
+Hours later, the crew dines in the same galley where they breakfasted. As the sun sets, 
+the station's interior lights come up dimmer than before, This is the astronauts' cue to 
+begin getting ready for bed, so after a bit of conversation, they shuffle off to their 
+respective cabins. At 2130 Houston time, the lights and portholes slide into an even 
+dimmer setting, and the crew drifts off to sleep. 
+Directions for Future Research 
+Although the aerospace industry has traditionally been a source of spinoff technologies 
+that are later adopted by consumers, in recent years the reverse trend has been 
+equally prevalent, For example, although GPS technology was developed by and for the 
+military, and integrated circuits were developed for the Apollo lunar missions, today the 
+military o~en employs low-cost civilian GPS receivers, and Space Shuttle astronauts 
+use laptop computers made for home and office use. This makes economic sense, as 
+mass production for large consumer markets offers not only economies of scale but also 
+vast potential for user feedback, design iteration, and direct measurement of the 
+popularity (and, indirectly, the usefulness) of different designs, Thus, consumer 
+UNCLASSIFIED/ /F9A 8FFUiiili,1k Wili tUILY 
+14

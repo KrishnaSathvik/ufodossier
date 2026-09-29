@@ -1,0 +1,63 @@
+UNCLASSIFIED ¢-FOR-OFFECTAL USE ONET
+
+0.20F 4284A-pad 01, Cp
+—eAC-iVvims, OVde
+
+Frequency vs Capacitance
+ACS00mV,. DCOV to 40
+
+me No.1_41A_(N
+
+180000 —=AC-1Vims, 1Vde oe
+160000 —t#—AC-1Vims, 3Vde 4.0
+140000 we AC-1Vims, 5Vde 35
+wo 120000 E50
+oi
+= 100000 Eas
+a pi)
+2 0000 82.0
+60000 15
+40000 1.0
+20000 05
+0 0.0
+
+0.01 0.1 1 10 100 mae e + Frequency flaiey “°° = 1
+
+Frequency [kHz]
+Figure 13. Preliminary MCap Test Results. These graphs demonstrate NLSC capabilities: MCap microstructure
+tested at different VDC (by Taiyo Yuden) (left) and single nanocell tests (right).
+
+<6 tl a lt vir aaa “<9 -7 tee aaa "7 1E+12 —
+é 1E+11 Bs
+3 300 1EHO02 c
+Or rr i ee Pe i) ol Ol ee eee Fi xt
+Cs 1E+09 9S
+© -—290 Qo
+co 1E+08 =
+Qo TZ
+% Q200 1E+07 9 &
+25 1E+06 2 o
+re 50 1E+05 € ‘<
+az 1E+04 05
+£ <100 Few Mcap-nanocells with ! ‘
+a7] MC due to processing 8 1E+03 2 @
+a 7 equipment issues 5
+50 1E+02= —
+
+1E+01
+1E+00
+
+L 1 Tf
+
+Qi Q2 Q3 Q4 QI Q2 Q3 Q4 QI Q2 Q3
+2007 2008 2009
+
+Figure 14. Summary Chart of MCap Results to Date. Right Axis: High-Low value lines in red, Median value in
+black dot. Left Axis: number of nanocells exhibiting GMC phenomenon in blue bar.
+
+Figure 15 shows an estimate that has been made by NLSC of the potential specific
+energies and projected manufacturing costs of the MCap for comparison to current
+energy storage devices.
+
+23
+UNCLASSIFIED -4602-OFFIGHAL-USE-ONE

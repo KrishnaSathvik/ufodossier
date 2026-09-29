@@ -1,0 +1,35 @@
+UNCLASSIFIED / (F6teOFFTCGEAE USE ONES
+
+There are several advantages of the dipole-assisted IEC. By applying the desired
+voltage to the cathode grid, high-energy ions are easily obtained, hence plasma heating
+is straightforward. Indeed in this case fusion is dominated by beam-beam (non-
+Maxwellian reactions). Also, the dipole magnet at the center of the device produces
+field lines that trap ions and compresses them within the inner radius of the dipole.
+Thus, a very high ion density can be achieved leading to high reaction rates via beam-
+beam fusion. Biasing the dipole magnet to the same potential as the cathode grid
+solves the problem of space charge build-up due to the high ion density at the center of
+DalEC.
+
+DAIEC EXPERIMENTS
+
+The purpose of current experiments is to investigate the focusing effect of a dipole
+magnetic field in a spherical IEC. In particular, the primary goal is to measure the
+increase in plasma densities achieved by a dipole-assisted IEC. In theory, the
+introduction of a current ring or dipole coil into the base configuration would focus
+particles into the center of the dipole, increasing the plasma density at the core of the
+device. A schematic of the current experimental setup is shown in Figure 3.5.
+
+Figure 3.5. (a) Dipole Magnetic Field and (b) Layout of Devices
+
+This experiment employs two split spherical grids as shown in Figure 3.5. Ions are
+created in the discharge between these grids and the vessel wall. They are extracted
+and accelerated by the grid potential so they pass through the dipole field of Figure
+3.5a. Experiments have confirmed that an order of magnitude density increase (vs. no
+dipole present) can be achieved in the center region. A double Langmuir probe is
+inserted at various positions throughout the center region.
+
+The use of a bias on the dipole magnet structure to control space charge build-up was
+also studied. In an ion-injected IEC partial space-charge neutralization at the core
+
+30
+UNCLASSIFIED / /-4OR-OFEL6LAL-USE-OR

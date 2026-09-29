@@ -1,0 +1,28 @@
+UNCLASSIFIED//&Olil OiiiilCI0L Llili QPIL¥ 
+of the ground stations, shown in Figure 18 where their latitude and longitude are given 
+in parentheses . 
+Figure 18. A Proposed Near-Earth Distribution of Frequency Time Standard 
+The large transmitter ground stations would provide the signals used as both the 
+frequency and time standards . All FTS ground stations would be synchronized such that 
+they emit signals exactly in phase with each other, all tied to a common frequency time 
+source, such as the US Naval Observatory. Each station would use a different frequency 
+such that the remote terminal (RT) user set could easily differentiate signals, and any 
+phase or time difference observed would be due to either the relative position of the 
+remote terminal with respect to each ground station, or the relative velocity of the 
+remote terminal with respect to each ground station. Each ground station would 
+transmit both a carrier wave (CW) signal for a frequency reference and a periodic pulse 
+signal (PPS) for a time reference. At least 3 ground stations would be needed for self­
+triangulation by the remote terminals, at least 4 with redundancy. HFGWs will 
+propagate through the Earth with little modification, but very slight HFGW phase 
+modification may be observed in surveillance applications (Baker, 2007.) 
+The counterpart to the fixed ground infrastructure would be the remote terminal side or 
+user side of the FTS infrastructure. Each remote terminal would need to be equipped 
+with a small HFGW receiver, which could pickup all 3 or 4 ground stations 
+simultaneously. The arrival times of the received PPS signals could be compared via 
+time difference of arrival, or TDOA, and used to develop a position estimate. The CW 
+signal phases could be compared to determine the Doppler velocity of the remote 
+terminal with respect to an Earth Centered Inertial (ECI) coordinate system. Thus, the 
+HFGW FTS system could be used as a navigationa l aid, akin to the GPS system. This 
+end of the infrastructure would be receive only and could therefore be a very low power 
+UNCLASSIFIED/ /FOR OiiiilCl.t.k HSI!! eflti 
+26

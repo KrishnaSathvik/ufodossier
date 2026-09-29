@@ -1,0 +1,47 @@
+UNCLASSIFIED/ /fOR. 8FFI61Ak U&F QJsll.¥ 
+plasma, creating downward thrust expansion. Multiple laser pulses and an atmospheric 
+refresh of breakdown air generate the flight. This airbreathing pulsed-detonation 
+engine concept owes its origins to the German V-1 "Buzz Bomb" of WW II which ran on 
+aviation fuel. 
+For the purpose of this report, we envision a Lightcraft Earth-to-Orb it (ETO) 
+transportation system that operates according to the following scenario. The 
+airbreathing engine mode develops quasi-steady thrust by pulsing at a variable rate 
+that depends on the Mach number and altitude flown along the flight trajectory to orbit. 
+Once the Lightcraft reaches very high altitude and climbs above the atmosphere, it 
+begins to operate in the thermal rocket mode using onboard propellant to convert and 
+expand the laser energy for propulsion. The Lightcraft is spin-stabilized and can be 
+launched vertically upward or on a slant upward trajectory, hover in mid-air, and 
+undergo powered descent and landing. The ground-based laser beam generator 
+system consists of the following: 1) power supply; 2) high-power (megawatt-class) 
+laser beam generator/transm itter using novel beam optics; and 3) automated tracking, 
+hand-off and safety systems. 
+HISTORY OF THE LIGHTCRAFT TECHNOLOGY DEMONSTRATION 
+PROGRAM 
+The laser Lightcraft project originally grew out of the Lightcraft Technology 
+Demonstration Program funded by the Strategic Defense Initiative Organization (SDIO) 
+Laser Propulsion Program in the late 1980's. In the 1990's, a joint program involving 
+the NASA-Marshall Space Flight Center and the Propulsion Sciences and Advanced 
+Concepts Division of the AFRL Propulsion Directorate developed and tested an 
+experiment to determine the feasibility of using high-power pulsed lasers to launch a 
+spacecraft into orbit. Successful tests at the White Sands Missile Range (WSMR) High 
+Energy Laser Systems Test Facility (HELSTF) demonstrated the first passively controlled 
+vertical free flight of an object that was propelled by the U.S. Army's 10 kW Pulsed 
+Laser Vulnerability Test System (PLVTS) infrared CO2 laser. Laser boost capability was 
+demonstrated at the HELSTF with a Lightcraft reaching 43 m vertically in 2-second 
+gyroscopically stabilized free flights, which was followed by horizontal guide-wire flights 
+of 121.9 m lasting 10 to 20 seconds (see Figure 2 through Figure 6). A subsequent 
+series of test flights achieved an altitude of 38. 7 m. L. Myrabo (private communication, 
+Rensselaer Polytechnic Inst., Troy , NY, 2009) recently reported vertical Lightcraft test 
+flights achieving 68 m altitude. 
+This achievement can be compared to the first successful flights of Robert Goddard's 
+liquid propellant chemical rocket, which attained a height of 12.5 m after a 2.5 second 
+burn in March 1926. In sharp contrast with Goddard's rockets, there is absolutely no 
+fuel on board the prototype Lightcraft, which has a diameter of 10 cm, mass of 20 to 40 
+g, and is machined from a solid block of 6061-T6 aluminum. Five different Lightcraft 
+designs have been flight-tested using the pointing and tracking system on the PLVTS 
+laser. Current Lightcraft designs are lim ited to about 60 g mass and 15 cm in diameter 
+by the PLVTS laser. A megawatt -class laser will be necessary for a larger kilo-class 
+Lightcraft to reach orbit and components for these lasers exist, which would 
+demonstrate the feasibility of this technology for low cost access to space. 
+UNCLASSIFIED//FOR O61ilCl.li.k U&& 8Ptl'l 
+13

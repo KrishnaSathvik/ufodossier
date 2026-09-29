@@ -1,0 +1,27 @@
+213 
+FCSD REP 
+Conrad 
+Why don ' t we wait? 
+We did that portion of D- 1 that was.. . . Then the 
+next D- 1 we did was Mode 2. This was done on Venus 
+at 02 days 13 hours 00 minutes . We took 4 pictures 
+of Venus at l / 30th of a second on magazine 11 which 
+was the 8443 IR Film . It was taken through the 
+Questar lens visually with reticle tracking . Let 
+me che ck the book to see if that is all . D- 1 , 
+Mode 2 we did at 02 days 13 hours 20 minutes, on 
+Alpha Centauri using magazine 9 which was 3401 Film . 
+We used the Questar lens , took 4 pictures and that 
+completed the D-1 Experiments. Let ' s run through 
+the updating techniques and communications procedures 
+that ar e used with the other experiments and I ' ll 
+only cover them once and that ' s this time . We send 
+up the title of the experiment , the GMT of the 
+experim ent , the sequence number if required , a 
+Mode number if required and then any other require ­
+ments went in the remarks section . Things such 
+as pitch , yaw, up , down, filmspe eds , and delta 
+times or anything else went in remarks . I think 
+that this procedure worked extremely well . Ther e 
+was never any confusion on our part as to what 
+Gelat,JOENltAt

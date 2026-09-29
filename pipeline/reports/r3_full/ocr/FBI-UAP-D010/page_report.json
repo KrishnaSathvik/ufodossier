@@ -1,0 +1,53 @@
+{
+  "filename": "FBI-UAP-D010.pdf",
+  "generated_at": "2026-09-25T22:03:52.800932+00:00",
+  "page_count": 2,
+  "usable_text_chars": 2599,
+  "stats": {
+    "native_good": 1,
+    "native_thin": 1,
+    "needs_ocr": 0,
+    "ocr_failed": 0,
+    "ocr_succeeded": 0,
+    "pages_ocrd": 0,
+    "ocr_unrecoverable_thumbnail": 0
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "native_quality": {
+        "page_number": 1,
+        "native_char_count": 2172,
+        "printable_ratio": 0.982,
+        "alpha_ratio": 0.704,
+        "word_count": 325,
+        "replacement_char_count": 0,
+        "category": "native_good",
+        "reason": "sufficient clean native text"
+      },
+      "final_category": "native_good",
+      "text_method": "native",
+      "char_count": 2172,
+      "text": ""
+    },
+    {
+      "page_number": 2,
+      "native_quality": {
+        "page_number": 2,
+        "native_char_count": 395,
+        "printable_ratio": 0.995,
+        "alpha_ratio": 0.567,
+        "word_count": 55,
+        "replacement_char_count": 0,
+        "category": "native_thin",
+        "reason": "thin but printable native text (caption/short page)"
+      },
+      "final_category": "native_thin",
+      "text_method": "native",
+      "char_count": 395,
+      "text": ""
+    }
+  ],
+  "combined_path": "/Users/krishnasathvikmantripragada/Webapps/ufo-dossier/pipeline/reports/r3_full/ocr/FBI-UAP-D010/combined.txt",
+  "production_writes": false
+}

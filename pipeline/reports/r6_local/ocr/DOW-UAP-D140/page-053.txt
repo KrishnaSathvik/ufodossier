@@ -1,0 +1,49 @@
+UNCLASSIFIED//EOR OEEICI0L Llili QI\IL¥ 
+DDl.4.3 Selection of appropriate microwave absorbing material at around 10GHz; 
+design of the interior baffles around the Gaussian beam, and a "tunnel" between 
+fractal-membrane reflectors and receivers (Baker, Stephenson and Li, 2008). A 
+computer program for ray tracing of the PPF and the BFF will be developed and utilized 
+for the baffle design. An analysis will be made of the latest technology reported by 
+Chan et al. (2006), Landy et al. (2008), and Yang et al. (2008), and these will be 
+compared with those available from established suppliers of current technology high 
+performance microwave absorb ing materials including ARC Technologies, Inc. (San 
+Diego, California), Millimeter Wave Technology Inc. (Passaic, New Jersey), Cuming 
+Microwave (Avon, Massachusetts), and many others . 
+DDl.5 Detection Receivers 
+Design of the microwave receivers (for the PPF) at each end of the detector 
+containment vessel, tunable around 10GHz: G.V. Stephenson (TSC), Dr. R.C. Woods 
+(LSU) + graduate student, Dr. R. M L Baker (TSC). Three possibilities have already 
+been identified for the technology to be used here, and specifications will be developed 
+for each option found suitable for use in the final design so as to enable a final choice to 
+be made. 
+DDl.5.1 Off-the-shelf microwave horn plus HEMT receiver: if tens to hundreds of 
+photons per sample are available then standard microwave horns may be used, coupled 
+to high electron mobility transistor (HEMT) amplifiers. This task will include a sensitivity 
+analysis of this receiver type to determine the suitability of this approach, and a 
+conceptual design will be developed using off-the-shelf components. Now highly 
+developed, HEMT technology has previously been found reliable enough to use in the 
+receivers for differential microwave radiometers (DMRs) flown in the NASA cosmic 
+Background Explorer (COBE) satellite mission. 
+DDl.5.2 Rydberg-Cavity Receiver as developed at Kyoto University (Yamamoto et 
+al., 2000): Rydberg atoms are excited atoms with one or more electrons that have a 
+much higher principa l quantum number than ground state, usually conditioned via laser 
+pumping. The low binding energy of the excited electrons leads to very low 
+photoionization energy; therefore, Rydberg atoms are sensitive to low-energy 
+microwave photons, and allow a microwave device somewhat analogous to a 
+conventional photomultiplier tube to be constructed. When a microwave photon strikes 
+a high cross-section Rydberg atom, it causes the electron to be ejected and the atom is 
+ionized. If a large electric field is established within the container, the electron is 
+accelerated, causing cascading impact ionization. The advantage of this receiver is that 
+it is sensitive to low-energy single-photon events, and has very good time resolution . 
+The disadvantage is its cost and complexity. This task will include a conceptual design 
+of an alternative Rydberg atom receiver apparatus suitable for the PPF arising from 
+HFRGW, and will also include a sensitivity calculation of the proposed apparatus. 
+DDl.5.3 Circuit QED microwave receiver as developed at Yale University (Schuster 
+et al.,2007): a third option will also be explored, the Circuit QED microwave photon 
+receiver. A resonant co-planar waveguide, containing a Cooper Pair Box (CPB) in the 
+center and delineated by Josephson junctions, define a photo-sensitive area in the 
+center of the cavity. The cavity qubit energy levels shift when the cavity encounters a 
+microwave photon. The advantage of this type of receiver is that it is very sensitive to 
+individual photons and can integrate multiple photons over t ime. It has the 
+UNCLASSIFIED/ /FOR OEEICIJ.b HSI!! Dflti 
+48

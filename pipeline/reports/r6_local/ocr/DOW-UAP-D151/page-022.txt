@@ -1,0 +1,44 @@
+UNCLASSIFIED / /FOROPPICTALT USE ONES
+
+In an essential foundation study for introducing forms of augmentation to the ATC task,
+Wickens modeled the dual task environment of pilot traffic avoidance using alarms to
+augment detection of conflicts. The primary task was maintaining aircraft flightpath
+using a simulated cockpit display of a crosshair inside a box: the crosshair indicated
+aircraft direction and drifted toward the sides of the box if not corrected by the pilot
+using a joystick control. The drift rate was variable and could increase or decrease the
+difficulty of the primary task. The computer monitored for potential collisions and
+warned pilots if another aircraft was within 3 miles.
+
+Pilots were instructed to maintain their own aircraft flightpath first, and then detect
+conflicts. Upon alarm, the pilot was to examine an ATC display and recommend re-
+routing of the conflicting aircraft. Pilots were informed that the automated detection
+system may erroneously label some situations as conflicts; therefore the pilot needed to
+actually perform several ATC cognitive task functions to confirm the conflict before
+recommending action. Participants in the study were 12 student pilots.
+
+The results of this experiment showed that when augmentation was correct more than
+about 80% of the time, performance decreased due to decreased vigilance in
+confirming alarms properly on the ATC display. Additionally, with a high accuracy in the
+alarm rate, pilots did not regularly check the ATC display to ensure that the
+augmentation didn’t miss possible conflicts. Auditory and visual binary alarms were
+presented and the auditory alarms were more effective and did not interfere with the
+primary task (visual tracking). The authors concluded that a 20-25% false alarm rate
+was optimal" when it is intended for the pilot to work alongside the automation rather
+than rely on it.42
+
+The Wickens study was undertaken with the plan of moving ATC to a shared
+responsibility of the controller and pilot: the goal being to increase airspace capacity by
+removing some of the more mundane functions like en-route course correction and en-
+route conflict detection to primarily cockpit control. This situation would be analogous to
+a spacecraft pilot operating their primary vehicle manually while attending many semi-
+automated ancillary vehicles. Although not exactly the same,
+
+Landsdown studied TLX workload measures on drivers performing multiple in-vehicle
+tasks. The authors here concluded that secondary tasks significantly increased
+perceived workload in this arrangement of task control.*?
+
+" This noise in the signal is analogous to adjusting the squelch level on a CB radio: too high a setting and you miss
+traffic; too low a setting and all you hear is random noise.
+
+Af
+UNCLASSIFIED / EQORWO5EIGIAt=tSE-O NY

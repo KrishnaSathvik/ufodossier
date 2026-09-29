@@ -1,0 +1,51 @@
+UNCLASSIFIED/ fFOA OFFI&il.t..k Y&& 8Ptk\f 
+Figure 2 shows two diagrams 
+representing the embedded space 
+(Flamm diagram) representation of 
+Equation (1), which depicts the 
+geometry of an equatorial ( 0 = rc/2) 
+slice through space at a specific 
+moment of time (t = const). The top of 
+Figure 2 shows the embedding diagram 
+for a traversable wormhole that 
+connects two different universes (i.e., 
+an inter-universe wormhole). The 
+bottom diagram in the figure is an intra-
+universe wormhole with a throat that 
+connects two distant regions of our own 
+universe. These diagrams serve to aide 
+in visualizing traversable wormhole 
+geometry and are merely a geometrical 
+exaggeration. 
+There was originally one other criterion 
+for defining a traversable wormhole, 
+which was that it must be embedded 
+Figure 2. Inter-Universe Wormhole (top) and Intra­within the surround ing (asymptotically) 
+Universe Wormhole (bottom).flat spacetime. However, Hochberg and 
+Visser (Reference 4) proved that it is only the behavior near the wormhole throat that is 
+critical to understanding the physics, and that a generic throat can be defined without 
+having to make all the symmetry assumpt ions and without assuming the existence of 
+an asymptotically flat spacetime in which to embed the wormhole. Therefore, one only 
+needs to know the generic features of the geometry near the throat in order to 
+guarantee violations of the Null Energy Condition (NEC; see Section III for further 
+detail) for certain open regions near the throat. So one is free to place our wormhole 
+anywhere in spacetime because it is only the geometry and physics near the throat that 
+matters for any analysis . This fact led to the development of a number of different 
+traversable wormhole throat designs that are cubic shaped, polyhedral shaped, flat-face 
+shaped, generic shaped, etc. The reader should consult (Reference 3) for a complete 
+technical review of the various types (and shapes) of traversable wormhole solutions 
+found in general relativity theory . 
+One knows that one needs exot ic or negative energy to create and thread open a 
+traversable wormhole. So in this regard, one asks what kind of wormhole one can make 
+with less effort. To answer this question one can relate the local wormhole geometry to 
+the global topo logical invariant of the spacetime via the Gauss-Bonnet Theorem 
+(Reference 5). In the Gauss-Bonnet Theorem the local wormhole geometry is quantified 
+by the energy density, U (in geometrodynamic units, TJ = G = c = 1), threading the 
+wormhole throat plus a spatial curvature constant (for the throat). The global 
+topological invariant of spacetime is quant ified by the Euler Number, xe, which is itself 
+defined in terms of the genus, g, representing the number of handles (or throats or 
+tunnels) a wormhole can be assigned. These two topological quantities are related via 
+xe = 2(1 - g). Therefore, the (static) wormhole Gauss-Bonnet relation is given by U :;; 
+xe/4 or U :;; (1 - g)/2 (Reference 5). (The case for dynamic traversable wormholes has 
+UNCLASSIFIEQ { {FOR OFFICIAL Y&& 8HLY 
+3

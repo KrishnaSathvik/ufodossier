@@ -1,0 +1,56 @@
+For machine manipulation, it was desirable to be able to select the
+sample of cards (all reports, all sightings, or all phenomena) to be in-
+cluded in a particular study, The concept of a SIGHTING IDENTIFICATION
+NUMBER was evolved to fill this desire. Using one column of the IBM
+card, and the correlated working papers, the code for this function was
+developed. Multiple punching eliminated the need to use several columns
+for discrete expression of the variations. Selection of the proper number
+in this column thus permitted selection of the desired sample of cards.
+
+Evaluation of Individual Reports
+
+Evaluation of sighting reports was recognized as a crucial step in the
+preparation of data for statistical treatment; inconsistent evaluations would
+have invalidated any conclusions to be derived from this study. A method
+of evaluation was, therefore, determined simultaneously with the develop-
+ment of the questionnaire, the coding system, and the work sheet. Itis
+emphasized that all phases of evaluation, even including the tedious prep-
+aration of the original data for statistical treatment, were entrusted only
+to selected, specially qualified scientists and engineers.
+
+Evaluation consisted of a standardized procedure to be followed for:
+(1) the deduction of discrete facts from data which depended on human im- |
+pressions rather than scientific measurements, (2) the rating of the ob-
+server and his report as determined from available information, and (3) the |
+determination of the probable identification of the phenomenon observed.
+Categories of identification, established upon the basis of previous experi- _
+ence, were as follows: |
+
+Balloon
+
+Astronomical
+
+Aircraft
+
+Light phenomenon
+
+Birds
+
+Clouds, dust, etc.
+Insufficient information
+Psychological manifestations
+Unknown
+
+Other
+
+The first step in evaluation, the deduction of discrete facts from
+subjective data, required certain calculations based on the information
+available in the sighting report. An example was the finding of the approxi-
+mate angular velocity and acceleration of the object or objects sighted.
+Care was taken during this phase of the work to insure against the deduc-
+tion of discrete facts not warranted by the original data. Thus, even
+though there was a complete lack of any valid evidence consisting of
+
+10
+
+aa

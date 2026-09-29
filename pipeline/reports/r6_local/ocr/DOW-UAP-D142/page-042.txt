@@ -1,0 +1,54 @@
+UNCLASSIFIED/ /FOR OFFIEIAk WS& OPtkY 
+elementary particles (for example, hadrons), and which behaves like the dielectric 
+vacuum of electrodynam ics. In this second vacuum structu re, particles that have a 
+strong charge (such as quarks or gluons) can move free ly, but are confined by the 
+frozen vacuum that is everywhere else. This is called the perturbative, or gluon, or 
+"melted" vacuum, which can also be pictured as a quark-gluon plasma. They estimate 
+that there is a "latent heat" of~ 1 GeV/fm 3 (or 1035 J/m 3) 2 2 associated with the phase 
+change of transform ing from one vacuum structure to another when the gluonic 
+structures of the perturbative vacuum are melted. It is important to point out here that 
+this is a degradable vacuum structure. 
+This unusua l dual vacuum structure led Rafelski and Muller to speculate on a 
+mechanism for the "burni ng of matter" as the ultimate source of energy in which it 
+might be possible that the energy conta ined within baryons could be converted into 
+useful energy. Their idea is to remove or destroy the three quarks residing inside a 
+baryon in order to gain energy, the latent heat, from the melted vacuum inside the 
+baryo n. This process also entails the decay of the quarks via lepton-quark interact ions, 
+which is a topic that is beyond the scope of this chapter. They suggest that it might be 
+possible that producing a quark-gluon plasma in high energy nuclear collisions could be 
+a very efficient source of energy. In this process atom ic nuclei would be collided at high 
+energy in order to form a compressed high density zone in the region where the two 
+nuclei overlap. This would lead to the melting of the vacuum and the subsequent direct 
+conversion of matter into radiation, thus releasing ~ 1035 J/m 3 of energy density. This 
+magnitude of energy density would be very useful as a source of energy for space 
+propulsion applications . 
+Rafelski and Muller point out that the commonly held view that the centers of neutron 
+stars are dead and cold, due to the ir nuclear fuel having burnt out and the energy of 
+gravitational collapse having been expended for the conversion of the collapsed star 
+into a gigantic atomic nucleus, is not the complete story. They hold open the possibility 
+that the entire rest-mass of all the baryons inside neutron stars might become available 
+and converted into heat. In their scenario, the core of a neutron star is actually 
+composed of condensed quark matter, and the rest-mass of baryons is burnt up into 
+radiation inside the quark core. They also point out that supernovae explosions, gamma 
+ray bursts, positron emission from the center of our galaxy, quasars, and galactic nuclei 
+have been observed to emit extreme amounts of thermal energy, the mechanisms of 
+which are still not understood today. 
+Gogohia (Reference 107, 108) modeled Rafelski and Muller's idea by using an effective 
+potential approach for compos ite condensate 23 operators to formulate a general 
+method of calculating the non-perturbative (NPC) Yang-Mills vacuum energy density 
+(aka the QCD bag model constant, B9) 24 in the covar iant gauge QCD vacuum-ground 
+state. His result that B 9 = 1.84 GeV/fm 3 (or 2.95 x 1035 J/m 3) found very good 
+agreement with its phenomenological value and with Rafelski and Muller's naive 
+estimate. Gogohia also calculated the contribution of the gluon condensate energy 
+density to B (o.sr /rc) = 1.82 GeV/fm (or 2.92 x 10
+3 
+J/m where as is the strong 
+2 3 5 3 
+: ),
+9 
+22 1 GeV = 109 eV; 1 fm = 10-15 m. 
+23 In quantum field theory, the vacuum expectation value (of a quantum operato r) is also called a "condensate," 
+and this is denoted by placing angular brackets around the quant um operato r. 
+24 See Appendix A for a detailed explanat ion of the QCD bag model. 
+36 
+UNCLASSIFIED/ /FOR OFFICIO! P!ili QIU.,¥

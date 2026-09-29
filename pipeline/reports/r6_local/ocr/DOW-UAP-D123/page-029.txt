@@ -1,0 +1,20 @@
+UNCLASSIFIED/, POI\ OPPICIJllt tlSI: 8HLY 
+Table 5, the required 150 µg for this epic flight could be manufactured in 6 months for 
+$96 million, or 0.0007 percent of U.S. GDP. 
+Positron Storage 
+Confinement of antimatter has been reviewed extensively in the literature. 64 
+Historically, the first approach was the Penning trap. 65 Stores of 109 positrons for 1 
+hour have been achieved .66 Electric potentials are required to overcome space charge 
+forces. 67 To illustrate, confinement of 1015 positrons in a 10-cm-rad ius sphere in a 
+perfect vacuum requires an electric potential of 240 kilovolts. Laboratory control of such 
+large potentials restricts stores to < 1 picogram (10 15 ) . 
+Figure 19. Penning Trap With Trapping Volume of 1,000 Cubic Centimeters (center), Injection 
+Apparatus (left) and Controls (right) (courtesy Positronics Research LLC) 68 
+In addition, with a magnetic field there are magnetic energy density restrictions on 
+confinement of positron plasmas. The Brillouin Density Limit is: 
+2 
+n =EB /2m (1)B o e. 
+For a practica l magnetic field of 1 Tesla, ns = 9.7 x 1012/cubic centimeters. In a 10-cm 
+rad ius sphere, the Brillouin Number Limit is 4 x 1016 (40 picograms). Therefore, by 
+UNCLASSIFIED//fOR 8ffl@IAl Y&lii 8rtllf 
+24

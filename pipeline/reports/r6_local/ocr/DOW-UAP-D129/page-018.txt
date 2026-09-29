@@ -1,0 +1,45 @@
+UNCLASSIFIED/ /FOA OFFICIAk Wili 0ralk¥ 
+similar to conventional HDDs; but the racetrack memory would have much higher 
+read/write performance than HDD. 
+4 . Antiferromagnetic Metal Spintronics 
+Recently, MacDonald and coworkers (Reference 84) predicted that effects similar to 
+GMR and STT observed with ferromagnets ought to occur in multilayer systems where 
+the ferromagnet ic (F) components are replaced by antiferromagnets (AFM). First, they 
+predicted that the resistance of an AFM spin valve - where two AFM layers are 
+separated by an N spacer- could depend on the relative orientations of the magnetic 
+moments in the two AFM layers (antiferromagnetic GMR = AGMR). Second, they 
+predicted that injecting a sufficiently strong current density into an AFM should affect 
+its magnetic state via current -induced spin torque. These new AFM effects could lead to 
+new all-AFM spintronics where AFMs are used in place of Fs. 
+Replacing F metals with AFM metals in a spintronic device has several advantages. 
+While AGMR of an AFM spin valve was predicted (Reference 84) to be similar in 
+magnitude to GMR in standard F spin valves, the critical current needed to alter the 
+magnetic order in AFMs can be smaller than for Fs, partly because spin torques can act 
+through the entire AFM volume. The estimate of the necessary current density j 109N 
+A/m 2 (Reference 84) was less than the typical j "' 1011 A/m 2 needed to reverse the 
+magnetic order in F/N/F multilayers (Reference 5-9, 40-43, 48-51). Finally, using AFM 
+metals in spintronic devices in place of F metals would eliminate unwanted effects of 
+shape anisotropy on the magnetic stability of small elements, thus potentially offering 
+better control of the magnetic state in nanoscale systems and easing fabrication 
+requirements. 
+Following the original predictions of MacDonald and coworkers (Reference 84), Xu et al. 
+(Reference 85) calculated the AGMR for a simple AFIM/N/AFM/N = FeMn/Cu/FeMn/Cu 
+multilayer, and Gomonay and Loktev (Reference 86) provided additional theoretical 
+evidence that polarized current can destabilize the equilibrium state of an AFM. Note, 
+however, that all calculations to date are for perfect samples and depend on quantum 
+coherence. It is known that disorder can reduce the predicted effects. Experiments are 
+thus crucial to see if any such effects are visible in real samples. 
+4 .1 ANTIFERROMAGNETIC GMR 
+To the author's knowledge, the only experimental study searching for AGMR was 
+performed by Wei et al. (Reference 87). They have measured current-in-plane {CIP) 
+and current -perpendicular-to -plane (CPP) magnetoresistances (MR) of magnet 1ic 
+multilayers containing two antiferromagnetic layers separated by a nonmagnet ic layer. 
+Such an antiferromagnetic spin valve, AFM/N/AFM, was predicted (Reference 84) to 
+exhibit AGMR similar to GMR seen in ferromagnetic spin valves, F/N/F, containiing two 
+ferromagnetic layers separated by a nonmagnetic layer. Note, however, that 
+calculations (Reference 84) assumed ballistic transport in samples with perfect layers 
+and interfaces where AGMR is a consequence of quantum interference effects. Thus, 
+any disorder that produces diffusive scattering and weakens quantum interference will 
+weaken any such AGMR . 
+13 
+UNCLASSIFIED/ /FOA OFFICIAk Wili 0ralk¥

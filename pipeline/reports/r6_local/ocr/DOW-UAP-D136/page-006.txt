@@ -1,0 +1,19 @@
+UNCLASSIFIED/ /P'OR: OP'P'l@IAL WS& 0Nk¥ 
+Biosensors and BioMEMS: A Survey of the Present Field 
+Introduction 
+Biomedical sensors and implantable devices employing micro­
+electromechanical technology will be important to the future of biomedicine. 
+Once just science fiction, the notion of a bionic man is now becoming a reality 
+through the application of microscale technologies. Today it is not unusual to 
+have a friend or family member who has an implantable device, such as a 
+pacemaker, defibrillator, cochlear implant, biosensor, neurostimulator, or 
+insulin pump. 
+We have only seen the beginning of this technology development, and today's 
+state-of-the-art implantable devices will be seen as crude and cumbersome 
+tomorrow. With the rapid pace of development, it is probable that within the 
+next two decades we will have as many medical treatments based on 
+microdevices as there are pharmaceutical solutions today. This paper 
+examines some of the most recent advances in the field, as well as the 
+technologies that are likely to appear in the next few years. 
+UNCLASSIFIED/ {FOR OFFICIO! !PEii QDlk¥ 
+vi

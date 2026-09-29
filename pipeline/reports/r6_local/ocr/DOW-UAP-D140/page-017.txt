@@ -1,0 +1,37 @@
+UNCLASSIFIED//iiOlil OiiiilCI0L Llili QPIL¥ 
+2.2 HFGW DETECTORS (RECEIVERS) 
+2.2.1 Alternative Approaches 
+One of the first suggested means for the detection of HFGWs concerns electromagnetic 
+detectors (Braginsky, et al. 1974 and Braginsky and Rudenko, V, 1978). Then 
+Pegoraro, et al. (1978) suggested the use of tuned resonant chamber HFGW detectors. 
+Rudenko and Sazhin in 1980 proposed a Laser interferometer as a gravitational wave 
+detector (somewhat similar to the current Japanese approach). In 1995 Tobar 
+characterized multi-mode resonant-mass HFGW detectors and three years later in 1998 
+(Ottaway, et al.) proposed a compact injection-locked Nd :YAG laser for HFGW 
+detection. And in 1999 Tobar suggested, microwave parametric transducers for the 
+next generation of resonant-mass gravitational wave HFGW detectors. 
+In the past few years, HFGW detectors have been fabricated at Birmingham University, 
+England, INFN Genoa, Italy and in Japan. These types of detectors may be promising 
+for the detect ion of the HFGWs in the GHz band (MHz band for the Japanese) in the 
+future , but currently, their sensitivit ies are orders of magnitude less than what is 
+required for the detection of high-frequency relic gravitatio nal waves (HFRGWs) from 
+the big bang. Such a detect ion capability is to be expected, utilizing the Li-Baker 
+detector (please see Append ix B for Plans & Specificat ions development). Nevertheless , 
+all four candidate detecto rs; plus, possibly , the use of superconductors (Li and Baker, 
+2007) should be analyzed for possible military applications. The Li-Baker HFGW 
+detector was invented by R. M L Baker, Jr. of Transportation Sciences Corporation, 
+California and patented in P. R. China (Baker, 2001). Based upon the theory of Li, Tang 
+and Zhao (1992) termed the Li-effect, the detector was proposed by Baker during the 
+period 1999-2000, a patent for it was filed in 2001, subsequently granted (Baker, 
+2001), and preliminary details were published later by Baker, Stephenson and Li 
+(2008a). This detector was conceived to be sensitive to relic HFGWs (HFRGWs) having 
+amplitudes as small as 10-32 to 10-30 . 
+The Birmingham University HFGW detector measures changes in the polarizat ion state 
+of a microwave beam (indicating the presence of a GW) moving in a waveguide about 
+one meter across (see Figure 9). Also see Cruise (2000), Ingley and Cruise (2001) and 
+Cruise and Ingley (2005). It is expected to be sensitive to HFGWs having spacetime 
+strai ns of A ~2 x 10-13 (Hz)·½, where Hz is the GW frequency, and as usual A is a 
+measure of the strain or fractiona l deformation in the spacetime continuum 
+(dimension less m/m). 
+UNCLASSIFIED/ /FOR OiiiilCl.t.k HSI!! eflti 
+12

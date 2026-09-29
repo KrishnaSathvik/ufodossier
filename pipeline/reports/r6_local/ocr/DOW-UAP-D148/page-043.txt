@@ -1,0 +1,26 @@
+UNCLASSIFIED &-F@R-OFF262AL-US5-O11LY
+
+temp erature, = cspline(height, temp erature)
+
+dens ity’, = cspline(height, dens ity)
+
+3. These functions provide atmospheric pressure, temperature, and density for the U.S.
+Standard Atmosphere from 0 to 100 km in height.
+
+Patm(h) = interp(press ures, height, press ure, h) Pressure (Pa).
+Tatm) = interp(temp eratureg,, height, temp erature, h) Temperature (K).
+
+Patm(h) = interp(dens ity¢,, height, dens ity,h) Density (kg/m‘3).
+
+bdo
+
+8x10"
+
+6x10"
+Patm( height)
+4x10"
+2x10"
+0
+39
+
+UNCLASSIFIED £4502.-05516241-USE-ONEE-

@@ -1,0 +1,51 @@
+UNCLASSIFIED/ ;re" orr1e1J1tt YSI!! 8,.LY 
+Our own version of the Podkletnov spinning disk experiment was completed in late 
+2001 and published in 2003 (Reference 35) showing a null result. It represented-and 
+still represents-the closest published replication of the original Podkletnov experiment. 
+It contains a discussion of the experimental difficulties arising from the nature of the 
+experiment itself and highlights the inabilit y of the experimentalist (Podkletnov) to 
+supply critical data on his alleged prior experiments. Such a lack would have seriously 
+hampered our replication had not Podkletnov been actively involved in the experimental 
+setup, at least from the standpoint of the construction of the ceramic disk. In fact, we 
+sent to Podkletnov in Finland one of our bi-layered disks that he pronounced acceptable 
+for experimentation. Unfortunately, neither Podkletnov's 1992 publication nor 
+subsequent discussions with Podkletnov allowed a complete understanding of how the 
+original experiment was carried out . 
+In 2001, Tajmar and De Matos began publishing a set of theoretical and experimental 
+papers (Reference 36) that essentially carried on and incorporated Li and Torr's earlier 
+work while also providing additional insights. Martin Tajmar was a newly minted post­
+doc working at the European Space Research & Technology Centre, Holland. The paper 
+condensed the previous work, including that of Li and Torr, to show that every 
+electromagnetic field is coupled to a gravitoelectric and gravitomagnetic field and that 
+the coupling "is generally valid and does not require special properties like 
+superconductivity." The authors acknowledged the criticisms of Li and Torr by Kowitt 
+and Harris and noted that the simple coupling coefficient they derive is exceedingly 
+small. However, it can be increased by using massive ion currents (for example, 
+moving/rotat ing mass or dense plasmas) and by aligning electron and nuclear spins. In 
+a roughly concurrent publication (Reference 37), De Matos and Tajmar, now at the 
+Austrian Research Centres, extended their previous ideas and used a Barnett Effect 
+analog to show that "any substance set into rotation becomes the seat of a uniform 
+intrinsic gravitomagnetic field ." 
+Some experimentalists were still not willing to give up on superconductor-mediated 
+gravity effects, in spite of the failure of our replication and the null results of NASA and 
+others. In 2002, a few researchers at Boeing Phantom Works in California attempted to 
+interest their management in replicat ing the Podkletnov high-voltage impulse gravity 
+beam experiment but were turned down in part because of the publicity resulting from 
+a leaked copy of the internal proposal getting to the media. That same year, Chiao in 
+California proposed (Reference 38) using superconductors as gravitational wave 
+transducers into RF radiation and vice versa and attempted an experiment that 
+apparently failed. Harris (Reference 39) later rebutted Chiao by stating that neither 
+gravitoelectric nor gravitomagnetic fields accompany gravitational waves. 
+In his 1950 book on superfluids, London (Reference 40) derived an expression for the 
+magnetic field produced by a rotating superconductor or superfluid that was 
+proportional to the Cooper pair mass-to-charge ratio and the angular velocity . This is 
+also called the London moment, and its value had been measured in the laboratory by 
+Tate et al. (Reference 41). A genera l expression of the London moment can be used to 
+determine the Cooper pair mass. In a 2003 paper, Tajmar et al. (Reference 42) noted 
+that the Tate experiments showed that the Cooper pair mass, which had been predicted 
+to be slightly smaller than twice that of the electron, was actually slightly larger. 
+Intrigued that there had been no published solution to this disagreement, Tajmar asked 
+if a gravitational effect might be at work. By applying his previous work to this "Cooper 
+Pair Mass Anomaly," he found that a relatively huge internal gravitomagnetic field 
+UNCLASSIFIED/ /FOA OFFitl.t.k W&lii &P•kY 
+9

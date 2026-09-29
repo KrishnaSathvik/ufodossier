@@ -1,0 +1,55 @@
+UNCLASSIFIED / /FOfOFFTCEALUSE-ONE
+
+nontrivial) of the coupled physical and chemical processes in those plasmas can
+potentially lead to their better understanding and help them become practical.
+
+ELECTRIC PROPULSION SYSTEMS
+
+Electric propulsion thrusters can be divided into three categories: electrothermal,
+electrostatic, and electromagnetic. First, electrothermal thrusters use electric
+energy to directly heat the propellant and add enthalpy. The heated gas is then
+accelerated using a conventional converging-diverging gas-dynamic nozzle.
+Second, electrostatic thrusters use applied static electric fields to accelerate
+propellant ions via body forces. Third, electromagnetic thrusters use
+electromagnetic body forces (ExB) to accelerate a plasma (positive and negative
+charges). An electric propulsion system consists of a power source (e.g., solar or
+nuclear), power conditioning electronics, engine/thruster (including inlet for air-
+breathing systems), and fuel/propellant storage and feed subsystem.
+
+Energy can be obtained from sunlight, a nuclear reactor, or chemical sources. In
+the case of solar electric propulsion (SEP), solar photons are converted into
+electricity by solar cells. The energy could also be beamed to the vehicle using
+laser or microwave sources. Beaming the power allows for higher power
+densities but with the added complications of needing a power station and a
+means of getting the power to the vehicle (direct illumination or via a relay
+system). In nuclear electric propulsion (NEP), thermal energy from the nuclear
+reactor is converted into electricity by either a static or dynamic thermal-to-
+electric power conversion system. Static systems have the advantage of no
+moving parts for high reliability, but they have low efficiency; dynamic systems
+have moving parts (e.g., turbines and generators) and do not scale well for small
+systems, but they do have higher efficiency. Other onboard energy storage
+systems such as high-density capacitors, flywheels, or fuel cells could be used.
+
+Power conditioning systems are required to convert the power system voltage to
+the form required by the electric thruster. For example, an SEP power system
+produces low-voltage DC (typically ~100V); this would need to be converted (via
+transformers, etc.) to kilovolt levels for use in an ion thruster. The power-
+conditioning system is often referred to as the power processing unit (PPU); this
+is, in turn, part of the vehicle’s overall power management and distribution
+(PMAD) subsystem.
+
+Various combinations of thruster and propellant are possible, depending on the
+specific application. The propellant or working fluid can be either stored on board
+and used in a rocket mode or collected from the atmosphere in an air-breathing
+mode. The natural system-level trade between these propellant methods is
+fuel/propellant mass versus power system mass. Air-breathing systems require
+less propellant mass but require higher energies to perform similar missions.
+Although rockets will operate in a space or air environment, their thrust
+durations are limited by the amount of propellant that can be carried.
+
+Key performance parameters determine the relative strengths and weaknesses
+of different propulsion technologies. The fuel/propellant efficiency is
+characterized by the specific impulse (Isp) for rockets and by the thrust-specific-
+fuel-consumption (TSFC) for air-breathing systems. It is a measure of how much
+
+UNCLASSIFIED /5O2-OFF26E-USE-ONET

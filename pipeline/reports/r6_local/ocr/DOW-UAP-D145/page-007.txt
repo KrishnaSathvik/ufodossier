@@ -1,0 +1,49 @@
+UNCLASSIFIED//POlt Offl@IAL WS& 9Nk¥ 
+Aneutronic Fusion Propulsion 
+Introduction 
+Space exploration is limited by existing propulsion technology. Up to now, chemical 
+rockets have been used to reach low-Earth orbit, the Moon, and the outer regions of the 
+solar system. Chemical rockets can use either solid or liquid fuel. Regardless of the 
+type of fuel, their design is similar to that shown in Figure 1. Oxygen is combined with 
+hydrogen or a hydrocarbon fuel in a combustion chamber where high temperatures and 
+pressures cause the exhaust to be ejected through a supersonic nozzle to provide 
+thrust to the rocket. The momentum of the fuel ejected through the nozzle provides 
+the force or thrust that accelerates the rocket forward. 
+There are many variations of chemical rockets, but they all suffer from the need to 
+carry copious amounts of fuel. Other methods have been proposed to decrease the 
+need to carry such a significant mass of fuel into space. Ion drives, for example, are 
+used to provide the very low thrust required to mainta in satellites in Earth orbit. The 
+"fuel" that they carry is xenon gas accelerated by electric fields. 
+Nuclear fission propuls ion has been proposed for space missions, and therma l nuclear 
+fission reactor rockets were constructed and tested at the Nevada Test Site through 
+Project Rover between 1956 and 1971. 1 In these rockets, a nuclear reactor provides 
+heat to liquid hydrogen through nuclear fission and ejects the hydrogen gas through a 
+Laval nozzle to generate thrust. While these rockets must still carry hydrogen fuel as a 
+propellant, these rockets can provide more than twice the performance of chemical 
+rockets by using heat through fission rather than reactive chemicals. The results of the 
+72 reactor tests conducted under Project Rover were very promising and culminated in 
+the successful 12-minute test of the Phoebus-2A NERVA (Nuclear Engine for Rocket 
+Vehicle Application) reactor that generated over 4 gigawatts of thermal power. One 
+problem associated with nuclear fission rockets is radioactive contaminants. These 
+contaminants in the exhaust make this technology impossible to use in launching 
+payloads from Earth. Additio nally, for applications in space, radiat ion protect ion must 
+be provided for the crew by adding heavy shielding materials or by locating the crew as 
+far as possible from the reactor propulsion system. 
+Nuclear fusion, as opposed to fission, provides another potential propulsion technology. 
+In a fusion propulsion system, isotopes of light elements are fused together under 
+extreme conditions to form heavier elements, releasing large amounts of thermal 
+energy. This thermal energy can be used to heat liquid hydrogen to high temperatures 
+and expand it through a Laval nozzle to provide thrust in a manner similar to that 
+shown in Figure 1. Typically, isotopes of hydrogen and helium would be used in fusion 
+propulsion systems. Deuterium is an isotope of hydrogen and can be separated from 
+the hydrogen in water. Fusion reactions are difficult to initiate due to the high 
+temperatu res and pressures required. Thermonuclear bombs, for example, combine a 
+fusion device with a nuclear fission bomb to provide the high temperatures required to 
+initiate the fusion reaction. Regardless of the conditions required to induce nuclear 
+fusion, the energy release is large. From propulsion standpoint, an advantage of fusion 
+over fission is that for a given amount of thrust, the fusion reaction requires less fuel 
+than either fission or chemical propulsion systems. 
+Fusion reactors using deuterium or trit ium fuels are easiest to initiate; however, they 
+generate significant amounts of neutron radiation. This is a hazard for the crew on a 
+UNCLASSIFIED/fF9A 9FFI&I:.l.k W&li 9Nk¥ 
+V

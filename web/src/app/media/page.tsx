@@ -1,8 +1,9 @@
-import { TopBar } from "@/components/TopBar";
+import { HeaderShell } from "@/components/HeaderShell";
 import { Footer } from "@/components/Footer";
 import { JsonLd } from "@/components/JsonLd";
 import { getMediaIncidents, getVideosForMedia, getDocumentsForMedia } from "@/lib/incidents";
 import { MediaGrid } from "./MediaGrid";
+import Link from "next/link";
 import type { Metadata } from "next";
 
 export const revalidate = 600;
@@ -30,11 +31,13 @@ export default async function MediaPage() {
         url: "https://www.ufodossier.com/media",
         isPartOf: { "@type": "WebSite", name: "UFO Dossier", url: "https://www.ufodossier.com" },
       }} />
-      <TopBar active="media" />
+      <HeaderShell active="media" />
       <main className="max-w-content mx-auto px-4 md:px-6 py-10 md:py-14">
         <h1 className="font-serif text-2xl md:text-3xl font-medium mb-2">Source media</h1>
         <p className="text-ink-dim mb-8 max-w-prose">
-          Images, videos, and document covers from the declassified source documents. Each links to its corresponding incident case file.
+          Images, videos, and document covers from the released files.{" "}
+          <Link href="/audio" className="text-accent hover:underline">Official audio</Link>{" "}
+          has its own page. A photo or video belongs to a sighting. It is not a second case by itself.
         </p>
 
         <MediaGrid images={images} videos={videos} documents={documents} />

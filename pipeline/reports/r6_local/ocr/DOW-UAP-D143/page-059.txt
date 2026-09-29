@@ -1,0 +1,35 @@
+UNCLASSIFIED/;'POR: OPPICIAE USE 014Lf 
+Typical HPFLs that use fiber optical oscillators or amplifiers as an alternative to bulk 
+rods and slabs have the following technical features [31]: 
+• Active Gain Medium: 
+- Common host glasses and their combinations: Silicates; silicates and 
+phosphates; silicates, phosphates, and fluorides; silicates, germanates, and 
+fluorides; silicates and fluorides. 
+- Impurity lasing ions deposited (or doped) in host: Neodymium (Nd 3+ ), 
+Ytterbium (Yb3+), Erbium (Er3+), Thulium (Tm3+), Holmium (HoH), 
+Praseodymium (Pr3+). 
+- Range of beam wavelengths (11.) produced: 0.48 µm to 2. 9 µm. 
+- Stretched doped rod into a long thin fiber. 
+- Simplifies heat removal (large surface area per unit volume). 
+• Pump (see Figure 24): 
+- Surround lasing fiber with optically transparent jacket. 
+- End pump opt ical jacket with diode lasers. 
+- Single diodes or diode bars are coupled into undoped pump fibers 
+• Pump fibers are spliced or drawn together with the doped lasing fiber. 
+• Pump light is coupled to the outer, undoped outer fiber. 
+- Active medium pumped along entire length 
+• Pump light then couples into the lasing fiber all along its length. 
+- Resonator optics are coupled to the ends of the doped fiber. 
+• Large Diameter Fibers (see Figure 25): 
+- Handle more power. 
+- Larger divergence with less beam quality. 
+- Longer output fibers before limits are hit. 
+• Small Diameter Fibers (see Figure 25): 
+- Better divergence with greater beam quality. 
+- Handle less power before limits: 
+• Material limits - melt. 
+• Stimulated Brillion Scattering (SBS). 
+• Stimulated Raman Scattering (SRS). 
+- Shorter output fibers. 
+UNCLASSIFIED'I i'FAA: 061i1Clali.k W&& 8PtLY 
+55

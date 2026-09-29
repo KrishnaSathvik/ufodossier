@@ -1,0 +1,33 @@
+Figure 5.6. Scale Schematic of Fusion Ship II, a 750-MWe IEC Fusion Spacecraft 
+UNCLASSIFIED/ /FOA OFFI&iIAk Wli& ONkY 
+valuable fuels, especially t he 3 He. The ion thrusters run on Argon propellant at a 
+specific impulse of 35,000 sec and an efficiency of 90 percent. The thrust is produced 
+4370 Newtons, probably an initia l acceleration of .0087 m/s 2. A typical trip time for an 
+out-and-back mission to Jupiter is 210 days out and 153 days to return. This is 
+comparable to or faster than that predicted in prior fusion studies. 
+B • vi w 
+The initial spaceship mass at mission is 500 metric tons start; 222 metric tons are the 
+Argon propellant needed for a Jupiter round trip with /:::,,.V of 220 km/s. The IEC reactor, 
+direct energy converters and ion thrusters contribute 178 metric tons. The remaining 
+100 metric tons includes 20 metric tons for the crew areas, 15 metric tons for the 
+electronics/computers, 20 metric tons for food and life support, 15 tons for crew 
+shielding and 1.2 metric tons for the antenna. Inclusion of a contingency of 30 percent 
+of the dry mass adds 60 metric tons and provides a 30-day "safety factor" to the round 
+trip flight time. 
+Human factors have not been fully evaluated in this design, but are thought to be 
+acceptable with the short mission time achieved. Fusion Ship II would be one of the 
+largest propelled vehicles ever built, although its mass would be ¼ that of the Space 
+Shuttle at liftoff. 
+Table 5.2 compares IEC Fusion Ship I and II designs with a concept based on an 
+"advanced" spherical Tokamak reactor "scaled up" from the spherical Tokamak 
+experiment at Princeton's Plasma Physics Laboratory as reported in an NASA-GLENN 
+Laboratory study in 2001. The Tokama k has a shorter trip time by employing a power 
+level that is six times the IEC units. Further, it is designed for D-T use (D- 3He is difficult 
+to burn in such Tokomaks), but tritium handling, radiation damage, and radioactivity 
+Issues are not addressed. Thus, if the IEC and Tokamak were compared on the same 
+operational basis (i.e., same fuels and power levels), the IEC would clearly show a 
+distinct advantage. Note that this is even true with the Tokamak using a very 
+"advanced" conceptual design well beyond reach of ITER (originally International 
+Thermonuclear Experimental Reactor) technology. 
+UNCLASSIFIED/ /FOR OFFIEiIAk lel&& 0Nk¥ 
+55

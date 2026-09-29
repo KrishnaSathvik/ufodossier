@@ -1,0 +1,47 @@
+UNCLASSIFIED/ /FOR OFFI@IAk WSE 9Ptk\f 
+Gravitational Squeezing of the Vacuum 
+In their study of traversable wormholes, Hochberg and Kephart (Reference 84) 
+discove red that the gravitational field of any astronom ical body produces a zone of 
+negat ive energy around it by "dragging" some of the virtual quanta (a.k.a . vacuum 
+ZPF) downward. They applied their discovery to the problem of creati ng and stabilizing 
+traversable worm holes. Their quantum optics analysis showed that there is a distortion 
+of the vacuum electromagnet ic ZPF due to the interaction with a prescribed 
+gravitational background, which results in "squeezed" vacuum states that possess a 
+negat ive energy density. Squeezing of the vacuum is a quantum process that is roughly 
+analogous to the compression of an ordinary fluid. This means that as the vacuum field 
+is cont inuously being squeezed by the gravitat ional field of a body, its energy is 
+cont inuously being degraded with respect to the undisturbed remote vacuum field. 
+The magnitude of the gravitat ional squeezing of the vacuum can be estimated from the 
+quantum optics squeezing condit ion for given transverse (to the direction of 
+gravitational acceleration) momentum and (equivalent) energy eigenvalues, j = 
+8rrrs/ 1 13 of two electromagnetic ZPF field modes, subject to the squeezing condit ion j,1 
+➔ 0, where ).. is the ZPF mode wavelength and rs is the Schwarzschild radius of the 
+astronomical body under study (Reference 84). 14 This condition simply states that 
+substantial gravitational squeezing of the vacuum occurs for ZPF field modes with "A, z 
+8rrrs. The corresponding local vacuum state energy density that this effect produces is 
+pE-gsvac = -2n 2ric/A.4 . 
+It is not clear whether th is mechanism can be exploited to extract energy from the 
+vacuum. Conservation of energy suggests one of two possible outcomes: 1) the lost 
+energy is injected into the gravitat ional energy of the body, or 2) the lost energy 
+reappears as an accumulation of positive energy density ZPF modes elsewhere in the 
+universe. Further research will be needed to address this question. 
+Redshifting the Vacuum 
+Calloni et al. (Reference 85, 86) explored the possibility of verifying the equivalence 
+principle for the zero-point energy of QED. They used semi-class ical quantum gravity 
+theory to evaluate the net force produced by the quantum vacuum ZPF acting on a r igid 
+Casimir cavity in a weak gravitational field which is mode led using the standard 
+Schwarzschild spacetime metric geometry. 15 They evaluated the regularized (or 
+renormalized) stress-energy tensor (r:c') of the quantized vacuum electromagnetic field 
+between two plane-parallel ideal metallic plates lying in a horizontal plane. (r,i;,) 
+encodes the Casimir effect, which has a negative energy density and a negative 
+pressure along the vertical (gravitational acceleration) axis between the plates. Bimonte 
+13 Note that j conta ins an extra factor of two ( compared to the j derived in Reference 84) in order to account for 
+the photon spin. 
+14 rs = 2GM/c2 is the critical radius at which a body of mass M collapses into a black hole. It is used here as a 
+convenient distance parameter to simplify the inequal ity, but there is no actual black hole collapse involved in this 
+mechanism. G is Newton's universal gravitation constant {6.673 x 10-11 Nm2/kg 2). 
+15 A spacetime metric is a Lorentz-invariant distance function between any two points in spacetime, which is 
+defined in terms of a metric tensor, g µv , that encodes the geometry of spacetime (Greek indices p,v = 0.. .3 denote 
+spacetime coordinates, x:'...x3 , such that x1... x3 = space coordinates and ><°= time coordinate). 
+UNCLASSIFIED/ /FOR OFFICI0L: 11ili QIU.,¥ 
+29

@@ -1,0 +1,36 @@
+UNCLASSIFIED/ ,'FOR OFFI@IAI:: WSE ONl::Y 
+• Limit the number of alarms. 
+• Display alarms in a dedicated, predictable location. 
+• Link alarms to a pictorial representation of the system to help recognize root causes, 
+causal relations, and where to focus corrective action. 
+• Provide a means to acknowledge the attention-getting aspect of the alarm without 
+turning off its alert status indication. 
+• In the case of multiple triggered alarms, the system's most prominent display 
+should be the highest hierarchical alarm, the highest causal alarm, or the location 
+on which to focus corrective action. 
+• Link the alarm clearly to the control response options. 
+Checklists 
+Checklists are a standard and useful tool in the operation of vehicle systems. They can 
+be displayed on adaptive displays where the list corresponds to the vehicle's current 
+status (e.g., preflight readiness or postflight checks). Recommended features of a 
+checklist should include the following :41 
+• Display the desired and current value with each checklist item. 
+• Require that buttons/switches have to be touched to acknowledge t hat each item 
+has been checked off. This helps avoid skipping items and helps the user keep a 
+sense of involvement in the process. 
+• Include a completion call at the end of the checklist. 
+• For long lists, subdivide using the following guides: 
+- List critical items first. 
+- Use geographical (i.e., physical location) flow or pictorial flow to help users 
+retain relation between the model of the system and the procedures being 
+performed in the checklist. 
+- Use parallel tasks between the onboard operation and the ground operations 
+to maintain fluency between pilot and mission control communications. 
+- Include buffers in checklists to provide recovery time for anomalies. Decouple 
+tasks if possible so that the failure to meet a given checklist item does not 
+leave a parallel item in an open state. 
+- Standardize checklists within the system (assuming nested, hierarchical, or 
+multiple checklists) to minimize the mental burden necessary to extract 
+informatio n when going from one format to another. 
+UNCLASSIFIED/fFOA. OFFICIO ls. Plili ONls.¥ 
+26

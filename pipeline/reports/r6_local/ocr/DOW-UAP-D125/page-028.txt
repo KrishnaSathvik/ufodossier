@@ -1,0 +1,42 @@
+UNCLASSIFIED/ fFOA OFFl&ilAL W&& 8PtLY 
+2.7 T. Takamatsu, T. Kyunai, S. Ogawa, K. Masuda, H. Toku, and K. Yoshikawa, "A 
+Magnetron Discharge Ion Source for an Inertial Electrostatic Confinement Fusion 
+Device" 7th U.S.-Japan IEC Workshop , Los Alamos National Laboratory, NM, March 
+14-16, (2005). 
+2.8 G. R. Piefer, J. F. Santarius, R. P. Ashley, G.L. Kulcinski "Progress in the 
+Development of a 3He Ion Source for IEC Fusion", 7th U.S.-Japan IEC Workshop, Los 
+Alamos National Laboratory,, NM, March 14-16, (2005). 
+Section III. Other Geometries 
+A unique feature of the IEC is the ability to vary its geometry to adapt to a number of 
+important near term and future applications. Here we consider cylindrical IEC 
+geometries, the IEC Jet extraction geometry, dipole assisted, and magnetically-coupled 
+IEC unit which add flexibility for use in some power applications. Other important 
+configurations, which are quasi-spherical, include the magnetic assisted HEPS (Polywell) 
+configuration, the Penning trap IEC, and the POPS oscillating IEC. These concepts are 
+discussed briefly elsewhere in this report so will not be included here. 
+CYLINDRICAL IECS 
+The prime alternate geometry studied for IECs is cylindrical. While originally developed 
+at the UIUC, the configuration has spread to other labs including the University of 
+Wisconsin, Kyoto University, and the Tokyo Institute of Technology. The objective is to 
+obtain a dense core region extending along the axis of the cylinder. This is especially 
+important for neutron sources since it offers a very long source that can be used for 
+broad area coverage of large objects such as container boxes. Other conventional 
+sources would require multiple "ganged" sources to do the same. A downside however, 
+is the high power input required for such configurations. Thus the advantage of source 
+length must be weighed against the alternative of moving a smaller point source over 
+the surface of interest. 
+It is not clear that the cylinder is useful for scaling to a power reactor. It can be viewed 
+as a 2-D version of the spherical unit. As such, the beam convergence (compression) is 
+limited to lower values, hence lower core denslt ies (an important effect for beam -beam 
+fusion desired for power reactors, but less so for beam-background reactions used in 
+most current neutron sources). 
+Two types of cylindrical sources (References 3.1-3.5), shown schematically in Figure 
+3.1, have been studied - a gridded type which is essentially the spherical unit 
+converted into a cylinder, and a quite different hollow cathode design. The gridded 
+design was a natural variation of the original Farnsworth device and was first studied 
+experimentally in the 1970s by T. Dolan at the UIUC who used laser diagnostics with a 
+noble gas discharge to study density -temperature and species profiles. The hollow 
+cathode design was later proposed by G. Miley as an attempt to retain the long axial 
+reaction region but do away with grids. 
+UNCLASSIFIED/ /FOA 8FFl&i1Ak W&& 8Ptllf 
+21

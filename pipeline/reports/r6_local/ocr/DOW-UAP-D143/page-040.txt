@@ -1,0 +1,44 @@
+UNCLASSIFIED/,'rOR: orrlCIAL USE O14Lf 
+that has runways of reasonable length. An air-launched Lightcraft launch vehicle 
+mission, involving the transport of lasers and Lightcraft on medium-sized bombers or 
+transport aircraft, is also recommended if additional funding would become available. 
+FUTURE NANO-/PICO-SATELLITE MISSION CONCEPTS 
+Coherently cooperating "swarms" are a novel innovation for replaci ng structures with 
+information by placing many formation-flown small satellites into a loose "swarm" and 
+cause them to cooperate coherently. This is very different from the so-called 
+distributed small satellite LEO constellations currently pursued in which individua l small 
+spacecraft perform essentially the same functions as larger satellites but at lower 
+spacecraft mass (or weight) and cost. These smaller spacecraft can be proliferated to 
+provide greater geographical coverage for the same cost. The lower mass also saves 
+launch costs, so the total system costs less for the same function performed with larger 
+spacecraft. 
+In contrast, the swarms, as described in the following sections, cooperate coherently 
+and form a real distributed system in which the whole is more than the sum of the 
+parts. A generic description would be a constellation of small spacecraft each 
+performing its separate function, but these functions combine to create at a central 
+location a much larger virtual spacecraft, or sensor aperture, that exists solely because 
+of the cooperation of the spacecraft. The following sections provide several examples 
+of the implementation of such systems in which each of a large number of small 
+satellites in a swarm or other constellation will radiate or receive signals and combine 
+them in phase, or coherently, regardless of their actual location in orbit. This creates 
+coherent RF or optical apertures that are essentially unlimited in size. 
+Each satellite's position is only crudely station kept, and the satellites adjust the time 
+delay or phase delay of the signals they repeat to compensate for their position errors, 
+causing their repeated signals to add coherently at a collection point. This technique 
+can be easily applied to RF transmitters and receivers, and with more demanding 
+accuracy to optical transmitters and receivers. The result in either case is a large 
+"swarm" or loose constellation of satellites that act as one large antenna or optical 
+array, even though they are separate and their positions are neit her constant nor lie 
+along a parabola or plane in space. The individual satellites can be as simple as one­
+element flying chips or as complex as today's self-contained sensing spacecraft of 
+various sizes. 
+The advantage of coherently cooperating distributed systems is that they can form 
+sparse RF antennas and optica l sensors with diameters so large that they would be 
+impossible to implement with filled apertures even if formed with adaptive membranes; 
+and have orders of magnitude smaller mass. The relative locations of individual 
+spacecraft in the swarm can be controlled by MEMS FEEP propulsion, tethers, or by 
+cleverly conceived orbits in which the elements of the array appear to orbit a common 
+center within it, thus eliminating the need to use propulsion at least for first order 
+station keeping. 
+UNCLASSIFIED,<,<FOA QFFISIAL HSI!! 8HLY 
+36

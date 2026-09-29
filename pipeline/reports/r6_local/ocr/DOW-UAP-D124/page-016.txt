@@ -1,0 +1,32 @@
+UNCLASSIFIED/ ;'FOR: OFFIEiIAk W&lii &Pn.Y 
+designed, weighed, and performed using the same industrial fabrication capability. The 
+result was a curve representing each configuration family, as shown in Figure 7. The 
+three families are represented by the three parallel straight lines. 
+SV FAMILY 
+1.5 
+10 • 
+w 
+0.5 
+W - W •(1 L/DJ 
+- 0 +11 .1 
+- - -~-----
+MRS FAMILY 
+0 1 2 3 
+Hypersonic LID 
+Figure 7. Detailed Design Analyses Show the Weight Trends are as Much a Function of Configuration 
+Family as Lift-to-Drag Ratio 
+W/W0 = K{l+0.090l!(L/D)] 
+K =1.000 for the SV Family (3)
+K =0.9297 for the FDL Family 
+K =0.7622 for the MRS Family 
+This illustrates that the configuration and its individual wetted area to planform area 
+can vary as much in their spacecraft weight as they can in their L/D ratio. The high 
+L/D-ratio configurations had weights comparable to same-payload ballistic capsules of : 
+sv = 1.9 FOL= 1.7 MRS =1.4 
+So the penalty for having a lifting-body configuration is less than expected if the 
+configuration characteristics are taken into consideration in the design and weighing of 
+the spacecraft. In addition, the reason the lifting spacecraft with high performance was 
+considered was to eliminate the need for sea recovery and therefore the cost of a 
+recovery fleet and the damage incurred by the spacecraft in a saltwater landing. The 
+9 
+UNCLASSIFIED/ /iOA: OiilCI0ls. !lili QPlls.V

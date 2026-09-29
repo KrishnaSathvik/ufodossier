@@ -1,0 +1,48 @@
+UNCLASSIFIED/ /F8R 8FFICIJIIL tt!I! 6HLY 
+(5 .3) 
+MP, is the Planck mass12 (in our usual 4-dimensional spacetime) and r is the size of the 
+extra space dimens ions. This remarkable result indicates that the Planck scale is, in 
+fact, a quantity that is derived from a more fundamental quantum gravity scale and 
+also the volume of the extra dimensions . Physically, this implies that the graviton is 
+diluted across the bulk with a dim inished intersection with the familiar 3+1 dimensional 
+brane. 
+In this type of model the size of the internal space is of order 1/M and the effect ive 
+10:
+2
+cosmological constant is on the order A,11 ~ 8nM;; x (Reference 36, 37). Setting 
+a 
+the value of the corresponding energy density equal to the known density of dark 
+energy, one finds that the extra -dimensional radius is r ~10-3cm. Similar results are 
+found in models with more complicated internal spaces. This is an important result in 
+the context of dimensional manipulation. 
+Note that extra dimensions that are accessible to all the Standard Model fields can also 
+be realized. These models are known as Universal Extra Dimensions (UED). In the case 
+of recent experimental constraints, a compactification scale as low as 1 TeV is allowed. 
+5.3 RANDALL SUNDRUM BRANE MODELS 
+The idea that the universe can be modeled as a (mem)brane existing in a higher 
+dimensional bulk spacetime has received a huge amount of attention in recent years 
+(Reference 38-46). It is possible that the brane energy density affects the spacetime 
+curvature, and an approximation can be achieved by first considering a model where 
+branes are located at the two ends of a periodic 5th dimension . To ensure stability of the 
+model two branes are required to balance the bulk energy. To get a stable metric, the 
+effects of the brane on the spacetime must be compensated by a negative cosmological 
+constant in the bulk. Thus, the 5th dimension can be considered a slice of Anti-deSitter 
+(AdS) 13 space bounded by flat branes, and the price of keeping the branes flat is to 
+introduce curvature into the 5th dimension. Such models are termed warped extra 
+dimensions. 
+The Randall-Sundrum (RSl) model (Reference 47, 48) proposes a novel geometrical 
+solution to the hierarchy problem. The hierarchy problem questions why gravity is so 
+much weaker than the weak force (which is 1032 times stronger), and why the Higgs 
+boson is so much lighter than the Planck mass. In the RSl setup, the Standard Model 
+fields are now confined to one of two 3-branes which lie at the endpoints (i.e., fixed 
+points) of an S1 /Z2 orbifold, 14 except for the Higgs field. One of the branes physically 
+corresponds to "our" universe and is sometimes referred to as the IR or "visible" brane. 
+The closer a Standard Model field is to the visible brane, the greater its coupling to the 
+12 2.18 x 10-s kg. 
+13 Anti-deSitter space is a Lorentzian man ifold with a constant negative scalar curvature . In terms of General 
+Relativity, this is a solution to Einstein's field equation with an attractive cosmological constant . 
+14 An 51/22 corresponds to a circular extra dimension with an additional symmetry. This type of projection is 
+popular in a number of higher dimen sional models due to its ability to mathematically "project " out certain 
+phenomenologically undesirable fields . 
+11 
+UNCLASSIFIED/ /FOR 9FFl611'1L W&lii &••LY

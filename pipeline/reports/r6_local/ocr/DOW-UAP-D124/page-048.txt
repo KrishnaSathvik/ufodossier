@@ -1,0 +1,64 @@
+UNCLASSIFIED/fFOR 8FFI@IAL l:ISI! er\tt I 
+Table 2. Elements of the Space Infrastructure Shown in Figure 44 
+Orbital System Function Orbit 
+L Sustained Use Launcher 
+High frequency , modest 
+payloads 
+LEO/MEO 
+2 Expendable Launcher 
+Low frequency , heavy 
+payloads 
+LEO 
+3 Point -to-Point Transfer Points on Earth or orbit 
+4 
+Operations Center /Space 
+Station 
+Operations 
+Coordination/Research 
+LEO/MEO 
+5 Orbital Servicing Vehicle Maintains in-orbit vehicles All 
+6 Fuel Station Spaceport Refuels orb ital vehicles LEO 
+7 Spacebased Manufacturing 
+Human based low "g" 
+manufacturing 
+LEO 
+8 
+Man-Tended 
+Manufacturing 
+Robot based micro 
+"g" 
+manufacturing 
+LEO/GEO 
+9 Orbital Sweep Vehicle Orbital clean-up vehicle All 
+LO 
+Waste Storage and 
+Processing Vehicles 
+Processe s & disposes human 
+and manufacturing wastes 
+HEO 
+LI Navigation/Weather Supports travel network LEO/MEO 
+12 Orbital Mapping Vehicl 
+Measures resources & 
+geography 
+LEO/MEO 
+L3 Space Based Warning 
+Military and Asteroid 
+warning 
+HEO /GEO 
+L4 Spacebased Hotel Space tourist facilities LEO/MO 
+15 SpaceCruiser vehic le 
+Human Transport and 
+Rescue 
+LEO 
+16 
+Communication Satellite 
+Constellations 
+Supports telecommunication 
+systems 
+All 
+L7 Orbital Transfer Vehicle 
+Orbital Altitude /Plane 
+Change 
+All 
+UNCLASSIFIED/ {EAR CEEICIAk ld81!! 8HL I 
+41

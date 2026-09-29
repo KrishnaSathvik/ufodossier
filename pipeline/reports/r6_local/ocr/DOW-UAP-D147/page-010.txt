@@ -1,0 +1,45 @@
+UNCLASSIFIED1/FOR 8ffl@IAL tt91! e"t I 
+1000 
+....... ,...s 
+C') 
+~ 
+100 Con~entmnal.c -
+battene s ~ 1 hour 1 second 
+10C' "cii 
+C: _,I
+I_________10 hours 
+(I) 
+"C 1 
+I>, 
+...Cl I 0.03 second 
+(I) 0.1 -- '---------C: 
+w 
+0.01 .__ ______________ __, 
+10 100 1000 10000 
+Power density (W/kg) 
+Figure 3. Ragone Plot. The graph illustrates the areas where ultracaps and batteries dominate in the power 
+density versus energy density relationship. 
+HISTORY 
+The concept of storing electrical energy in the electric double layer that is formed at the 
+interface between an electrolyte and a solid has been known since the late 1800s. In 
+1966, Standard Oil Company of Ohio (SOHIO) invented the device in the format now 
+commonly used, which forms the basis for hundreds of patents and t housands of 
+journal articles. Figure 4 shows a drawi ng from the electrochemical double-layer device 
+invented by SOHIO. NEC introduced the SuperCapacitor™ in 1978 under license from 
+SOHIO. 
+CO UC. 0'2 Ole. 
+SA . Alt(S04 3 50 10 
+lO PEQ.MEABLI:' 
+Mct.162At-.lc-
+Figure 4. Electrolytic Capacitor as Designed and Patented by SOHIO. 
+From this point on, ultracaps have rapidly evolved through several generat ions of 
+designs. In the 1980s, Matsushita Electric Company developed a method of 
+manufactur ing ultracapacitors with improved electrodes. Initia lly, they were used as 
+backup power devices for volati le clock chips and complementa ry meta l-oxide­
+semiconductor (CMOS) compute r memories . As the technology became more 
+understood, more and more applications were developed for ultracaps. Many other 
+applications have emerged over the past 30 years, including wire less communication, 
+power quality, and improved energy efficiency through regenerat ive energy capture 
+processes, as found in hybrid electric vehicles .10 
+UNCLASSIFIEO/fFOA OFFI&I:.l.b YS& ONLY 
+5

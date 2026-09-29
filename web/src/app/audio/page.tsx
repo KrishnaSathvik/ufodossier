@@ -1,0 +1,61 @@
+import { HeaderShell } from "@/components/HeaderShell";
+import { Footer } from "@/components/Footer";
+import { JsonLd } from "@/components/JsonLd";
+import { listAudio } from "@/lib/corpus/catalog";
+import { VideoCard } from "@/components/VideoCard";
+import type { Metadata } from "next";
+
+export const dynamic = "force-dynamic";
+
+export const metadata: Metadata = {
+  title: "Audio Records",
+  description: "Official audio from the PURSUE releases, played from the same DVIDS recordings.",
+  alternates: { canonical: "/audio" },
+};
+
+export default function AudioPage() {
+  const records = listAudio();
+
+  return (
+    <>
+      <JsonLd data={{
+        "@context": "https://schema.org",
+        "@type": "CollectionPage",
+        name: "Audio Records — UFO Dossier",
+        description: "Official audio source records from the PURSUE releases.",
+        url: "https://www.ufodossier.com/audio",
+      }} />
+      <HeaderShell active="audio" />
+      <main className="max-w-content mx-auto px-4 md:px-6 py-10 md:py-14">
+        <h1 className="font-serif text-2xl md:text-4xl font-medium mb-3">Audio</h1>
+        <p className="text-ink-dim max-w-prose mb-8">
+          {records.length.toLocaleString()} official audio recordings from the government releases.
+          Press play to hear the same recording published on DVIDS. The text under the title is the government description, not a transcript.
+        </p>
+        {records.length === 0 ? (
+          <p className="text-ink-faint">No audio recordings are listed yet.</p>
+        ) : (
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+            {records.map((record) => (
+              <VideoCard
+                key={record.externalId}
+                video={{
+                  id: record.externalId,
+                  filename: record.title,
+                  url: record.dvidsId ? `https://www.dvidshub.net/video/${record.dvidsId}` : `/source/${record.externalId}`,
+                  embed_url: record.dvidsId ? `https://www.dvidshub.net/video/embed/${record.dvidsId}` : "",
+                  thumbnail_url: null,
+                  agency: record.agency,
+                  blurb: record.dvidsId ? null : "No playable file is published for this recording.",
+                  release: record.release,
+                  href: `/source/${record.externalId}`,
+                }}
+              />
+            ))}
+          </div>
+        )}
+      </main>
+      <Footer />
+    </>
+  );
+}

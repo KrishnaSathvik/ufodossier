@@ -1,0 +1,23 @@
+UNCLASSIFIED/ /FOR OFFICl"L U.!I! er•tY 
+signal 
+a 
+detector 
+vacuum 
+I vacuum 
+"V~ I b1 
+detector 
+local 
+oscillator 
+(aw) 
+Figure 11. Balanced Homodyne Detector Using Fictitious 
+Beam Splitters to Account for Detection Losses. (courtesy 
+of Ulf Leonhardt) 
+Equation (12) provides an additional model for detection losses. Similar to direct 
+photon counting, a fictitious vacuum field has to be added to the attenuated signal in 
+homodyne detection. This means that we can replace the arrangement of two fictitious 
+beam splitters in front of the photodetectors with just one effective beam splitter in 
+front of an ideal homodyne detector (see Figure 12). This effective beam splitter 
+accounts for other kinds of losses includ ing mode mismatch, whereby the quantum 
+effects of both detection losses and mode mismatch are comprised in an effective TJ. 
+UNCLASSIFIED/ /FOA OFFI@IAL li!II! er•t I 
+31

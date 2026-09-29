@@ -1,0 +1,74 @@
+[
+  {
+    "filename": "CIA-UAP-004.pdf",
+    "alarm": "extract_zero_candidates",
+    "needs_review": true
+  },
+  {
+    "filename": "CIA-UAP-005.pdf",
+    "alarm": "extract_zero_candidates",
+    "needs_review": true
+  },
+  {
+    "filename": "CIA-UAP-007.pdf",
+    "alarm": "extract_zero_candidates",
+    "needs_review": true
+  },
+  {
+    "filename": "CIA-UAP-009.pdf",
+    "alarm": "unrecoverable_thumbnail",
+    "needs_review": true,
+    "note": "Provenance case. Do not substitute catalog metadata for source text."
+  },
+  {
+    "filename": "CIA-UAP-015.pdf",
+    "alarm": "extract_zero_candidates",
+    "needs_review": true
+  },
+  {
+    "filename": "CIA-UAP-019.pdf",
+    "alarm": "extract_zero_candidates",
+    "needs_review": true
+  },
+  {
+    "filename": "DOW-UAP-D082.pdf",
+    "alarm": "high_yield",
+    "accepted": 12,
+    "candidates": 12,
+    "needs_review": true
+  },
+  {
+    "filename": "DOW-UAP-D084.pdf",
+    "alarm": "extract_zero_candidates",
+    "needs_review": true
+  },
+  {
+    "filename": "DOW-UAP-D084.pdf",
+    "alarm": "high_ocr_failure",
+    "ocr_failure_rate": 0.6,
+    "needs_review": true
+  },
+  {
+    "filename": "DOW-UAP-D085.pdf",
+    "alarm": "high_ocr_failure",
+    "ocr_failure_rate": 0.714,
+    "needs_review": true
+  },
+  {
+    "filename": "DOW-UAP-D088.pdf",
+    "alarm": "extract_zero_candidates",
+    "needs_review": true
+  },
+  {
+    "filename": "FBI-UAP-D012.pdf",
+    "alarm": "high_yield",
+    "accepted": 14,
+    "candidates": 20,
+    "needs_review": true
+  },
+  {
+    "filename": "FBI-UAP-D013.pdf",
+    "alarm": "extract_zero_candidates",
+    "needs_review": true
+  }
+]

@@ -1,0 +1,28 @@
+UNCLASSIFIED/ /FOR. orrl@IAL YSE 8PtLlf 
+For a conductor with a radius of A- ~10m = 103 cm, an example for a small starsh ip 
+configuration, one can reach a voltage on the order of E).. ~ 6 x 109 volts. 
+INDUCTIVE CHARGING 
+To charge the spacecraft to the required gigavolt potentia ls, we choose for its 
+architecture a large but hollow cylinder, which at the same time acts as a large 
+magnetic field coil. If thermionic electron emitte rs are placed inside this coil and the 
+magnetic field of the coil rises in t ime, Maxwell's equation V x E=---{11 c)aBjat induces 
+an azimuthal electr ic field inside the coil: 
+r _• 
+£ ¢ = --B , (2)2c 
+where B = Bz is directed along the z-ax is, with r the radial distance from the axis of the 
+coil. In combinat ion with the axial magnetic field, the electrons from the therm ionic 
+emitters make a radia l inward -directed motion 
+(3) 
+By Maxwell's equation div E=4mie'!P, th is leads to the buildup of an electron cloud inside 
+the cylinder, result ing in the radial electric field 
+E, = 2nner (4) 
+This radial electric field leads to an additiona l azimuthal drift motion 
+(5) 
+super imposed on the radially directed inward drift motion vr. 
+For the newly formed electron cloud to be stable, its max imum electron number density 
+must be below t he Brillouin limit: 
+n < n max = B2/ 4n mc2 (6) 
+where mc2 = 8.2 x 10-7 erg is the electron rest mass energy. For B = 2x 104G, one 
+finds that n max ~ 4 x 1013 cm-3 . To reach with a cylindrical electron cloud of radius R a 
+UNCLASSIFIED/ /POil orrl@IAL Y!H! OHL¥ 
+4

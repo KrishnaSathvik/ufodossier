@@ -1,0 +1,49 @@
+UNCLASSIFIED/ /iOR QFFl&IAL l:ISI!!! Brit I 
+REVIEW OF NEGATIVE (or SUB-VACUUM) ENERGY 
+Overview 
+The implementation of faster-than-light (FTL) interstellar travel via traversable 
+wormholes or warp drives or other antigravity forces for propulsion, generally requires 
+the engineering of spacetime into very specialized local geometries surrounding the 
+immediate vicinity of the aerospace vehicle undergoing this type of motion. The 
+analysis of these via the general relativistic field equation plus the resultant source 
+matter equations of state demonstrates that such geometries require the use of 
+"exotic" matter in order to produce the requisite FTL or antigravity spacetime 
+modification . Exotic matter is generally defined by general relativity physics to be 
+matter that possesses (renormalized) negative energy density (sometimes negative 
+stress-tension = outward pressure, a.k.a. gravitational repulsion or antigravity), and 
+this is a very misunderstood and misapplied term by the non-general relativity 
+community. We clear up this misconception by defining what negative energy is, where 
+it can be found in nature, and we also review the two primary experimental concepts 
+that are known to produce negative energy in the laboratory. Also, it has been claimed 
+that FTL and antigravity spacetimes are not plausible because exotic matter violates the 
+general relativistic energy conditions. However, it has been shown that this is a 
+spurious issue. The identification, magnitude, and production of exotic matter is seen 
+to be a key technical challenge, however. FTL and antigravity spacetimes also possess 
+features that challenge the notions of causality and there are alleged constraints placed 
+upon them by quantum effects. Reference [1] reviews and summarizes these issues 
+with an assessment on the present state of their resolution. 
+What exactly is "exotic" matter? In classical physics the energy density of all observed 
+forms of matter (fields) is non-negat ive. What is exotic about the type of matter that 
+must be used to produce traversab le wormhole, warp drive, or antigravity spacetimes is 
+that it must have negative energy density and/or negat ive flux [7]. The energy density 
+is "negative" in the sense that the configuration of matter fields we must deploy to 
+produce a traversable wormhole, warp drive, or antigravity effect must have an energy 
+density, PE (= pc2, where pis the rest-mass density), that is less t han or equal to its 
+pressures/tensions, pi [8, 9]. * In many cases, these equations of state are also known 
+to possess an energy density that is algebraically negative, i.e., the energy density and 
+flux are less than zero. It is on the basis of these conditions that we call this material 
+property "exotic." The condition for ordinary, classical (non-exotic) forms of matter 
+that we are all familiar with in nature is that PE> pi and/or PE;:::,: 0. These conditions 
+represent two examples of what are variously called the "standard" energy conditions 
+which are computed from the trace of the matter stress-energy tensor t : Weak Energy 
+Condition (WEC: PE;:::,: 0, PE+ Pi;:::,: 0), Null Energy Condition (NEC: PE+ Pi;:::,: 0), 
+Dominant Energy Condition (DEC), and Strong Energy Condition (SEC). These energy 
+conditions forbid negative energy density between material objects to occur in nature, 
+but they are mere hypot heses. Hawking and Ellis [10] formulated the energy conditions 
+in order to establish a series of mathemat ical hypotheses govern ing the behavior of 
+• From this point forward, all Latin letters (e.g ., i, j, k = 1...3) that appear as indices on physical quantit ies denote 
+the usual 3-dimensional space coordinates, x• ...x3, indicating the spatial components of vector or tensor quantit ies. 
+t The stress-energy-momentum tensor is a matrix quantity that encodes the density and flux of energy and 
+momentum for any type of matter under study . 
+UNCLASSIFIED/ ;<fQA OFFI@IAL l:ISf! 9Htl' 
+3

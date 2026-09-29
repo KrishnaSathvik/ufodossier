@@ -1,0 +1,62 @@
+Mavrice DusrIn
+
+Since the velocity distribution of meteors is over the range from 10 to 70
+km/sec, for the purpose of computation an average velocity of 40 km/sec was used.
+Pmax and Nmax were determined accordingly.
+
+From equation (1) and Warson’s (1941) estimate for the number and size
+distribution of meteors entering the earth’s atmosphere Table I was computed.
+The computation has been made for three altitudes, 85 km, 100 km, and 115 km,
+using the following rocket pressures:
+
+Altitude (km) | Pressure (mm of Hg) | Reiarps et pac
+| | sules (¢
+
+85 | 4
+100 | 4
+115 4
+
+x 16=* 1014
+x Fo 1018
+Ge I gt Li
+
+Thus equation (1) becomes
+
+Gi hi snk : ( ] p )
+= NK prn2{1 — —
+44x 10 34x 10-7,
+
+1 .\3
+LO2s;* (1 — )
+307,
+
+l 2
+4 Lo*..2 (1 — —
+: ox 107.
+
+(8 saat
+(10% tbh > —___ fF ,
+: ts 3) ‘aie
+
+The number of electrons per cm of path becomes, from Hrrtorson (1948),
+|
+MX 10-8 se ALOTF
+n, cm-! = — a ee i,
+e ; 7
+
+|
+|
+|
+
+From Table I it is evident that the number of electrons for a shell of 1 em
+thickness over the surface of the earth, resulting from meteors, is 10?° electrons
+per day at 85km produced mainly from meteors of visual magnitudes 1 to 4,
+about 102° electrons per day at 100 km with the major contribution for visual
+magnitudes 6 to 15, and again about 10?° electrons per day at 115.km from mag.
+7 to 20. The number of electrons produced per cm of path per cm? per sec at these
+three altitudes is thus 10?79/(4.4 x 1073) = 2 x 1074 electrons per cm? per
+second.
+
+Now according to HERLOFSON, the kinetic energy of a typical meteor is divided
+in the ratio 104: 10? : 1 for the production of heat, light, and ionization, respec-
+tively. These values were used in the computation of Table I. However, from

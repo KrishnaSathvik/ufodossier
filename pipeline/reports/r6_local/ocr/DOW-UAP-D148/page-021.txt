@@ -1,0 +1,45 @@
+UNCLASSIFIED/fFOR. QFFIEIA.L: Ulii Qt!! X 
+European Fireball Network 16 uses cameras at severa l stations separated by distances of 
+about 100 km and covering an area of about 1,000,000 km 2 . Fisheye lenses allow each 
+station to observe the sky every night to monitor meteors and other nebular objects. The 
+network is operated by the German Aerospace Center (DLR) and the Institute of Planetary 
+Research in Prague.17 Other networks include the Meteorite Observat ion and Recovery 
+Project (MORP) in Canada and the Prairie Network in the United States; all have been in 
+operation since the 1960s and 70s. 
+Another recent meteorite recovery was made when asteroid 2008 TC3 entered the Earth's 
+atmosphere on 7 October 2008 over Sudan .18 The meteor's path left a wake that was visible 
+through dawn. A total of 280 fragments weighing 11 pounds were collected in the Sudanese 
+desert. The photographic evidence of this hypersonic reentry was interesting. The 4.2-
+meter William Herschel Telescope in the Canary Islands optically recorded the spectrum of 
+this asteroid 2 hours before it burned up in the Earth's atmosphere. This informat ion can be 
+used to identify the chemical makeup of the surface of the object or of the vaporized 
+products in its wake. A sequence of photographs taken at 4-second interva ls over a period 
+of about 50 seconds provided information on its velocity as it reentered the atmosphere and 
+its brightness as a funct ion of time. 
+Although these photographic methods have been applied to meteors, data from the European 
+Fireball Network and similar camera systems can be used to monitor the flig ht of hypersonic 
+aircraft that produce a v isible wake through the ionizat ion of air. The photog raphic methods 
+described here are limited to nighttime use. Multiple stat ions recording the same event have 
+been used to measure both position and velocity of objects moving at hyperson ic velocities 
+through the Earth's atmosphere and the computed trajectories have been used to 
+successfully predict meteorite impact points on at least two occasions. 
+Optical systems are constantly monitoring the Earth for possible missile launches. Two KH -11 
+satellites are constantly in orbit 250 to 500 km above the Earth's surface with multispectral 
+cameras that resolve objects to within 2 to 3 meters. Big-Bird, at an orbit 160 to 280 km 
+above the Earth, can take video or photographs with a resolution of 250 mm. The photos 
+must be sent back to Earth for processing. Close-Look, operating from 130 to 300 km, has 
+a resolution of 50 to 150 mm. Landsat, with an orbit of 800 km, can transmit multispectral 
+video of the Earth with a resolution of 20 to 30 meters. The space shuttle, the U-2 aircraft, 
+and the SR-71 have all been used to provide high-resolution images of objects from high 
+altitude. 
+Infrared Detection 
+Infrared detection of reentry vehicles and ICBMs by satellites has been available since the 
+early 1960s, with the United States leading the effort through detection of possible missile 
+launches from the Soviet Union. In addition to RADAR, infrared detection is one of the best 
+techniques for the detection of hypersonic vehicles. 
+Theory of Infrared Detection Systems. 
+All objects emit radiation that is a function of their temperature according to equation 17, the 
+Stefan-Boltzmann Law: 19 
+q=BCY AT4 (17) 
+UNCLASSIFIED//FOR QliliiliEili.t.L: W&li ONL'l 
+17

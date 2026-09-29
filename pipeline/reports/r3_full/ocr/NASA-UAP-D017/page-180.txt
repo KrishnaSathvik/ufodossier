@@ -1,0 +1,25 @@
+172 
+rates . We used the Direct Control Mode. It ' s 
+just pret ty straightforward . It ' s identical 
+to the simulato r . We didn ' t learn anything new 
+from this check except tha t the s imulator was 
+indeed correct . Do you have anything to add ? 
+White No . Tha t it was pretty straight forward . 
+9.4 Horizo n Scanner Track Check 
+McDivitt Hori zon Scanner Track Check is next . The 
+horizon scanner ignor e light came on as expecte d 
+excep t t he attitu de band ~hrough which the horizon 
+scanner operated was consid erably broader than 
+we had expecte d . The scanner ignore light went 
+off agai n at the prop er attitud8 , considering the f ac t 
+that the scanner ignore circui t keeps the 
+scanner ignore light on 7 seco nds after the 
+scanner has relocked . So, we always had the 
+scanner ignor e light go out at a different 
+attitude than where it came on bec ause of the 
+fixed rates we were using . We went through the 
+zero bank angle ,pitch -up and pitch - down. We 
+went throug h the zero pitch,bank-lef t and bank­
+r ight . We then got to the r0E -..,ith pi tch,i.ng. 
+Here , I only bank ed to t he right and pitched up 
+and down. I didn ' t bank t o the left and pitch - up

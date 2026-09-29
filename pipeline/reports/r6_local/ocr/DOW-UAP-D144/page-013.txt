@@ -1,0 +1,24 @@
+UNCLASSIFIED/ ,'FOR OFFI@IAI:: ~SE OPtl::Y 
+Figure 4. Warp Drive. Taken directly from the Frontiers book, this image has become the iconic representation 
+for a warp drive : the "York Extrinsic Time Plot." 
+In theory, the outer shell is presumed to create the propulsive effect of warping space­
+time outside the craft without affecting the inside. In short, the Alcubierre warp drive 
+creates a separation of space-time environments inside and outside of the craft, 
+although the exact details remain uncertain. 
+Although there is no explicit function for the inner hull in this situation, this Alcubierre 
+warp drive at least illustrates the concept of separation of these outer and inner 
+environments. When planning future cockpits, the outer and inner inertial frames need 
+to be treated as two distinct zones. The physics related to such considerations is still 
+evolving 4 and beyond the scope of this report. 
+Why Double Hull Needed: Example 2 {Field Space Drive) 
+Another class of conceptual propulsion is a "field drive"-a subset of "space drives" 
+where a spacecraft is propelled " ... using only the interactions between the spacecraft 
+and its surrounding space ... "5 Instead of using the Riemannian geometry of Einstein's 
+general relativity, these approaches use the physics of fields and scalar potentials. 6 
+While several variants exist, the "Bias Drive" concept is selected here to illustrate the 
+relevance of the double-hull configuration, specifically in the context of modifying the 
+scalar potential that defines an inertial frame. By altering the properties of the 
+surrounding inertial scalar, a gradient in that scalar is induced which, in turn, induces 
+gravitational-like forces on matter located in that gradient. 
+UNCLASSIFIED/fFOA. OFFICIO ls. Plili ONls.¥ 
+8

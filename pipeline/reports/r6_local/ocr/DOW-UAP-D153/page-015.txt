@@ -1,0 +1,42 @@
+UNCLASSIFIED/ /FOA QFFIEJIAL YSI!! f>Ht'I" 
+are physically similar to vacuum states, but instead they have only some quantum 
+noise properties in common. It is a well known result in the quantum field theory of 
+light that the vacuum wave function is a simple Gaussian function of the quadratures 
+(in either q or jJ representation), and thus coherent states are also Gaussian [38]. 
+Furthermore, a proof of Heisenberg's Uncertainty Principle in conjunction with the 
+application of S(~) and D(a) on the quadrature variances and wave functions showed 
+that all minimum uncertainty states are displaced Gaussian states such that they have 
+displaced rescaled vacuum wave functions. Consequently, all minimum uncertainty 
+states are displaced squeezed vacua [18, 38]: 
+I\jf) = fJ ca) scs) Io) . (7) 
+The squeezing interaction Hi"' is realized by the degenerate parametric amplification of 
+the spatial-temporal mode. A crystal such as potassium titanyl phosphate (KTP) or 
+lithium niobate (LiNbQ3) is pumped by another laser beam with amplitude band twice 
+the frequency of the spatial-temporal mode (with amplitude a) of interest. According to 
+H ;m , the "B" photons (corresponding to b) of the pump beam are converted into pairs 
+of "A" signal photons (corresponding to a.2 and a,t2) with a probability that depends on 
+the coupling constant X· The KTP or LiNb03 crystal acts like an electromagnetic swing, 
+and the pump modulates the oscillation of the "A" mode at twice its frequency. The 
+pump amplifies the signal parametrically much as a swing is amplified by changing the 
+effective length at twice the frequency of the swing. A classical swing relies on tiny 
+initial fluctuations (or "wobbles") that are in-phase with respect to the parametric 
+pump. In this way, the tiny fluctuations are amplified; the swing starts to oscillate. A 
+quantum swing like the degenerate parametric amplifier experiences at least the 
+vacuum fluctuations from the very beginning. Vacuum fluctuations that are in-phase 
+with respect to the pump are amplified, whereas out-of-phase fluctuations get de­
+amplified or, in other words, squeezed. 
+A squeezed vacuum requires a pump for generation, and, hence, when produced it 
+carries energy. The nonlinear crystal KTP or LiNb0 3 is a resonator that is shaped like a 
+cylinder with rounded silvered ends to reflect light. This resonator acts to produce a 
+secondary lower frequency light beam in which the pattern of photons is rearranged 
+into pairs. The squeezed light emerging from the resonator will contain pulses of 
+negative energy interspersed with pulses of positive energy. To quantify the amount of 
+squeezing energy we 1) apply S(~) to the quadratures and find that it scales their 
+eigenfunctions; *** 2) we then substitute for aits quadrature decomposition (given in 
+Sect. IIB-1) and substitute that result into the scaled quadratures; and then 3) do 
+further algebra to derive how S(~) changes a: stcs)aS(s) =Gcoshs - atsinhs. We 
+substitute this last result into Eq. (1) and use Eq. (7) to calculate the quantum 
+expectation value in order to express the mean energy of a squeezed state, and obtain 
+,.. i.e., q gets squeezed and p gets stretched . 
+UNCLASSIFIED// FOR OFFICIAL H.!l! 8PU:.lf 
+11

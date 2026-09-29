@@ -1,0 +1,50 @@
+UNCLASSIFIED//FOA OFFl€1Ak Wiili 0NLY 
+current effects. There was no independent confirmat ion that th is experiment actually 
+took place. Vuorinen and Levit had disappeared from the scene when this autho r asked 
+Podkletnov whether they were available to discuss the experiment. Nevertheless, this 
+author arranged for Podkletnov to visit the Toronto laboratory for preliminary 
+consultation on the experimental design to replicate his 1992 Physica C results. 
+Meanwhile, a 1997 University of South Carolina press announcement declared that 
+investo rs were being sought for a "Gravity Generator" technology based on 
+confirmatory experiments apparently underway at the university involving nonrotating 
+high-temperature superconductors and RF coils. This machine would "rep lace the 
+wheels of a car...lift and propel aircraft, drive generators more efficiently and produce 
+gravity-free environments on Earth." Evidently, the work of Douglas Torr, who had 
+recent ly taken up a post there, was the basis for the announcement. Unfortunately, the 
+excitement was short-lived, as a subsequent announcement was issued stating that the 
+previous announcement was " premature ." 
+In preliminary experiments at NASA, Kaczor, Li, et al. failed to see expected shielding 
+effect in a Podkletnov -li ke exper iment (Reference 29). However, they were using a 
+small, commercially available disk levitated above permane nt magnets at LN2 
+temperatures. Undeterred, they pressed on, buoyed by the Internet publication of 
+Podkletnov 's previously rejected paper and discussions with Podkletnov himse lf. The 
+following year, Noever and Kaczor (Reference 30) published the results of their 
+investigat ions into nonrotating superconducto r disks irradiated by radiofrequencies from 
+1 to 15 MHz and detected a very weak grav ity increase. This finding was later shown by 
+the same authors to be t he likely result of an instrumentat ion artifact (Refere nce 31) . 
+In 1999, this author was asked to present the state of the Toronto experimental 
+replication to the assembled physicists and engineers at the April 1999 Turin Politecnico 
+meeting. Gonnell i and others presented their init ial find ings of a tiny possible weight 
+change in test samples suspended above a disk as it passed through Tc. Also 
+presenting was G. Modanese, who had been formulating his own theoret ical 
+explanat ions for the Podkletnov results. Podkletnov described how the "grav ity 
+shielding" effect was discovered . Apparently his group had made large sputtering target 
+disks of YBCO for the aforementioned single-crystal processing, and to ensure the 
+correct uniformity and porosity, the disk was set into rotat ion (presumably 
+mechanically) while being levitated over a "support ing solenoid." This allowed quick and 
+complete scanning of the target's surface by means of a small, movab le test magnet 
+suspended above the rotat ing disk and connected to an analytical chemical balance. 
+When the smoke from a technician's pipe inexplicably appeared to rise above the 
+apparatus, they considered the possibil ity of gravitational shielding and subst ituted a 
+nonmagnetic , nonconducting test mass for the small suspended magnet . Note that the 
+normal rotational speeds for magnetron sputtering are in the tens, not thousands, of 
+rpm . 
+Podkletnov went on to describe his first experiments with the so-called high-voltage 
+"gravity beam" apparatus. An array of single-crystal whiskers of YBCO was grown on a 
+small (few cm2 in area) substrate using a technique later commercialized by mater ials 
+scient ists (Professors Kettunen and Tiainen) at the Tampere University of Technology. 
+This plate was placed upright in a small LN2 dewar and electr ically attached to a small 
+(~200-kilovolt) van de Graaff machine . A grounded metal annular disk was placed a 
+few centimeters laterally away. The whole assembly was placed in a large bell jar that 
+UNCLASSIFIED/ /FOA QFFIEiIAL Y!H! 9HLY 
+7

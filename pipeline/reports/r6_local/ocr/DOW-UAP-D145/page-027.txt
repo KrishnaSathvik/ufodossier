@@ -1,0 +1,23 @@
+UNCLASSIFIED/ /PO lt Of f l@IA L WS& &NkY 
+are 800 keV and 300 keV, r espectively, much higher t han the 50 keV required for D-T 
+neutro nic fusion. 
+/H 0 m /He 
+~ 0 / ffi /H e 
+/1 B @ / ~ m /He 
+3x /He+8.7MeV 
+Figure 10. The Fusion of Hydrogen-1 and Boron-11 Produces Three Alpha Particles 
+Fortunately, both lithium-6 and boron-11 are readily available, while tritium must be 
+manufactured due to its 12.6-year halflife. Lithium-6 represents 7.5% of all lith ium on 
+Earth. Lithium is mined at Silverpeak, Nevada. 
+Another concern in choosing an effective aneutronic fusion scheme is bremmstrahlung, 
+or "braking radiation." This term refers to the x-rays emitted as electrons pass through 
+metals and interact with electrons in the outer shells of the meta l atoms. In order to 
+ignite a fusion reaction, the gases must be heated to the point where they ionize and 
+form a plasma. Electrons stripped from the ions in the plasma will interact with the 
+walls of the chamber that house the plasma and bremmstrahlung x-rays will result. 
+Bremmstrahlung is a parasitic process that decreases the temperature of the plasma 
+and reduces the chance of fusion. While the two favored fusion schemes, p-Li6 and p­
+B11, can generate significant bremmstrahlung losses, there are techniques proposed 
+using electromagnets to direct both electrons and ions to minimize x-ray production. 
+UNCLASSIFIED/fF&A &FFI&I:.l.k W&li &NkY 
+19

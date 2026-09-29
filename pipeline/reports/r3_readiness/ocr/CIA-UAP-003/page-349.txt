@@ -1,0 +1,32 @@
+—Seeret NOFORA—
+
+Appendix C
+
+336
+
+unit was manufactured by the Granger Company. One of these de-
+vices was aboard Gary Powers’ U-2 when he was shot down.
+
+System-X was a modification of the HRB’s System-VII that was
+specially built in 1962 for a mission over the Soviet Union that never
+took place. Systems-XI through XV were ECM devices used by U-2s
+overflying China and North Vietnam during the Vietnam war.
+System-XVI was a passive ELINT collector.
+
+System-XVII was built by HRB-Singer as a result of an October
+1963 USIB requirement for the collection of antiballistic-missile
+(ABM) data from Saryshagan. The system was to be deployed in a
+U-2 that would fly over western China, along the Sino-Soviet border,
+collecting data on the ABMs being tested at Saryshagan. By the time
+the unit was completed in 1965, however, the tipoff time before test
+launches had been reduced from almost 24 hours to less than an hour,
+making it impossible to stage U-2 missions in time to collect the data.
+
+In the late 1960s, additional ECM systems were needed to coun-
+ter the increasing threats posed by more accurate SAMs and higher
+flying aircraft. System-XX was specifically designed to counter the
+acquisition and guidance radars used by MIG aircraft, and
+System-XXII was an infrared jammer to counter air-to-air missiles.
+System-XXI, a COMINT package that replaced the much older
+System-IfI, was originally developed for the OXCART program and
+was later adapted for use aboard the follow-on U-2, the U-2R.

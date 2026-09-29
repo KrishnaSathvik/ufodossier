@@ -1,0 +1,168 @@
+[
+  {
+    "id": "cia_d020_d021",
+    "refs": [
+      "CIA-UAP-D020",
+      "CIA-UAP-D021"
+    ],
+    "disposition": "explained",
+    "note": "Catalog-paired. D020 quote-rejected; D021 accepted independently. No manufactured member.",
+    "accepted": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "doe_d005_d001",
+    "refs": [
+      "DOE-UAP-D005",
+      "DOE-UAP-D001"
+    ],
+    "disposition": "explained",
+    "note": "Cross-release correspondence versus earlier Pantex source. No synthetic incident.",
+    "accepted": [
+      0,
+      0
+    ]
+  },
+  {
+    "id": "nasa_d030_032",
+    "refs": [
+      "NASA-UAP-D030",
+      "NASA-UAP-D031",
+      "NASA-UAP-D032"
+    ],
+    "disposition": "explained",
+    "note": "Images are metadata-only. Zero synthetic incidents.",
+    "buckets": [
+      "image_metadata_only",
+      "image_metadata_only",
+      "image_metadata_only"
+    ]
+  },
+  {
+    "id": "dow_d089_d090",
+    "refs": [
+      "DOW-UAP-D089",
+      "DOW-UAP-D090",
+      "DOW-UAP-D091"
+    ],
+    "disposition": "explained",
+    "note": "D090 stayed source_only while sibling transcripts extracted. Conservative; no fabricated incidents. Classifier left frozen.",
+    "classes": [
+      "transcript",
+      "other",
+      "transcript"
+    ],
+    "actions": [
+      "extract",
+      "source_only",
+      "extract"
+    ]
+  },
+  {
+    "id": "r5_fd302_siblings",
+    "refs": [
+      "FBI-UAP-D024",
+      "FBI-UAP-D032",
+      "FBI-UAP-D037",
+      "FBI-UAP-D040"
+    ],
+    "disposition": "explained",
+    "note": "FD-302 cluster mixes extract and source_only. Observed, not retuned. Accepted rows still passed quote and evidence gates.",
+    "actions": {
+      "FBI-UAP-D024": "extract",
+      "FBI-UAP-D026": "extract",
+      "FBI-UAP-D032": "source_only",
+      "FBI-UAP-D037": "source_only",
+      "FBI-UAP-D040": "source_only"
+    }
+  },
+  {
+    "id": "fbi_d014_reissue",
+    "refs": [
+      "FBI-UAP-D014"
+    ],
+    "disposition": "explained",
+    "note": "Same external_id is an R3 image and an R4 PDF. Identity keys were disambiguated. Not an event merge.",
+    "rows": [
+      {
+        "provider": "pursue",
+        "release": 4,
+        "external_id": "FBI-UAP-D014",
+        "identity_key": "pursue:FBI-UAP-D014",
+        "agency": "FBI",
+        "type": "pdf",
+        "status": "active",
+        "title": "FBI-UAP-D014, Correspondence Relating to UFO Sightings, 1967, 1974",
+        "local_asset_present": true,
+        "text_ready": true,
+        "classification": "correspondence",
+        "extract_or_source_only": "extract",
+        "accepted_incident_count": 2,
+        "media_only": false,
+        "unrecoverable": false,
+        "unrecoverable_reason": null,
+        "paired_source_count": 0,
+        "qa_bucket": "pdf_processed",
+        "production_source_record_ids": [
+          "02247ac8-0677-4d48-b86a-4370ca6b9b16"
+        ],
+        "production_incident_count": 0,
+        "production_unflagged_count": 0,
+        "production_flagged_count": 0
+      },
+      {
+        "provider": "pursue",
+        "release": 3,
+        "external_id": "FBI-UAP-D014",
+        "identity_key": "pursue:FBI-UAP-D014:image",
+        "agency": "FBI",
+        "type": "image",
+        "status": "active",
+        "title": "FBI-UAP-D014, Digital Rendering, Narrative Statement 1-1, Western United States Event, 2023",
+        "local_asset_present": false,
+        "text_ready": true,
+        "classification": "correspondence",
+        "extract_or_source_only": "metadata_only",
+        "accepted_incident_count": 0,
+        "media_only": true,
+        "unrecoverable": false,
+        "unrecoverable_reason": null,
+        "paired_source_count": 2,
+        "qa_bucket": "image_metadata_only",
+        "production_source_record_ids": [
+          "1407575b-6ef7-4d5f-b76d-c5e49b98e58d"
+        ],
+        "production_incident_count": 0,
+        "production_unflagged_count": 0,
+        "production_flagged_count": 0
+      }
+    ]
+  },
+  {
+    "id": "colorado_springs",
+    "disposition": "explained",
+    "note": "Linker V1 fixture on the full R1\u2013R6 corpus."
+  },
+  {
+    "id": "western_us_series",
+    "disposition": "explained",
+    "note": "Series, not one merged event."
+  },
+  {
+    "id": "tremonton_package",
+    "refs": [
+      "DOW-UAP-D102",
+      "DOW-UAP-D098",
+      "DOW-UAP-D103"
+    ],
+    "disposition": "explained",
+    "note": "R6 Blue Book file plus later media/analysis pairings. Hints only; no auto-merge across releases.",
+    "accepted": {
+      "DOW-UAP-D102": 2,
+      "DOW-UAP-D098": 0,
+      "DOW-UAP-D103": 1
+    }
+  }
+]

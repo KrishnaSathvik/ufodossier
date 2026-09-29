@@ -1,0 +1,137 @@
+{
+  "generated_at": "2026-09-28T17:29:03.194713+00:00",
+  "ok": 14,
+  "err": 0,
+  "total_bytes": 234090892,
+  "runtime_seconds": 0.1,
+  "results": [
+    {
+      "external_id": "CIA-UAP-D020",
+      "status": "exists",
+      "path": "/Users/krishnasathvikmantripragada/Webapps/ufo-dossier/.cache/files/pursue/r4/CIA-UAP-D020.pdf",
+      "byte_size": 368172,
+      "sha256": "973be877f06b55373da6c7a1022ca25345fdeb7864414fe4ae29d83ef963b7e9",
+      "url": "https://www.war.gov/medialink/ufo/071026/release_04/documents/CIA-UAP-D020_Memorandum-on-Unconventional-Aircraft-Sightings_1955.pdf",
+      "title": "CIA-UAP-D020, Memorandum on Unconventional Aircraft Sightings, 1955"
+    },
+    {
+      "external_id": "CIA-UAP-D021",
+      "status": "exists",
+      "path": "/Users/krishnasathvikmantripragada/Webapps/ufo-dossier/.cache/files/pursue/r4/CIA-UAP-D021.pdf",
+      "byte_size": 414564,
+      "sha256": "e2640e79f3733d5ed3e8aebd510f130f5601555f306eefee5e1c08a24d002ad0",
+      "url": "https://www.war.gov/medialink/ufo/071026/release_04/documents/CIA-UAP-D021_Analysis-of-Unconventional-Aircraft-Sightings_1955.pdf",
+      "title": "CIA-UAP-D021, Analysis of Unconventional Aircraft Sightings, 1955"
+    },
+    {
+      "external_id": "DOE-UAP-D004",
+      "status": "exists",
+      "path": "/Users/krishnasathvikmantripragada/Webapps/ufo-dossier/.cache/files/pursue/r4/DOE-UAP-D004.pdf",
+      "byte_size": 5192634,
+      "sha256": "64f70db72f3747cfdc512f78f16b0ac33a0876b39dbf7dddf07ab870ba1b1a47",
+      "url": "https://www.war.gov/medialink/ufo/071026/release_04/documents/DOE-UAP-D004_Los-Alamos-Conference-on-Aerial-Phenomena_1949.pdf",
+      "title": "DOE-UAP-D004, Los Alamos Conference on Aerial Phenomena, 1949"
+    },
+    {
+      "external_id": "DOE-UAP-D005",
+      "status": "exists",
+      "path": "/Users/krishnasathvikmantripragada/Webapps/ufo-dossier/.cache/files/pursue/r4/DOE-UAP-D005.pdf",
+      "byte_size": 1244028,
+      "sha256": "249cd9f5b85c4a92dc819d65e1dad180744479d1c8a68ebbc202ade66facbcbb",
+      "url": "https://www.war.gov/medialink/ufo/071026/release_04/documents/DOE-UAP-D005_Pantex-Unidentified-Object-Incident-Report_2015.pdf",
+      "title": "DOE-UAP-D005, Pantex Unidentified Object Incident Report, 2015"
+    },
+    {
+      "external_id": "DOW-UAP-D089",
+      "status": "exists",
+      "path": "/Users/krishnasathvikmantripragada/Webapps/ufo-dossier/.cache/files/pursue/r4/DOW-UAP-D089.pdf",
+      "byte_size": 1931453,
+      "sha256": "3ad2058e00a44e2bb5453648be0eac0dd1a2ff40deeeb2707a19cc59b11ee685",
+      "url": "https://www.war.gov/medialink/ufo/071026/release_04/documents/DOW-UAP-D089_Range-Fouler-Debrief_Eastern-US_2020.pdf",
+      "title": "DOW-UAP-D089, Range Fouler Debrief, Eastern United States, 2020"
+    },
+    {
+      "external_id": "DOW-UAP-D090",
+      "status": "exists",
+      "path": "/Users/krishnasathvikmantripragada/Webapps/ufo-dossier/.cache/files/pursue/r4/DOW-UAP-D090.pdf",
+      "byte_size": 1449537,
+      "sha256": "1bd82107a638e44f4f6011aaf6fb323bcdd36334a59980a5c19a5aad9ff69b52",
+      "url": "https://www.war.gov/medialink/ufo/071026/release_04/documents/DOW-UAP-D090_Range-Fouler-Debrief_Eastern-US_2019.pdf",
+      "title": "DOW-UAP-D090, Range Fouler Debrief, Eastern United States, 2019"
+    },
+    {
+      "external_id": "DOW-UAP-D091",
+      "status": "exists",
+      "path": "/Users/krishnasathvikmantripragada/Webapps/ufo-dossier/.cache/files/pursue/r4/DOW-UAP-D091.pdf",
+      "byte_size": 1761587,
+      "sha256": "d13ab718a436af2d13d1e3060e49239528b174829ba4ea89003f27da3ea3d7be",
+      "url": "https://www.war.gov/medialink/ufo/071026/release_04/documents/DOW-UAP-D091_Range-Fouler-Debrief_Atlantic-Ocean_2020.pdf",
+      "title": "DOW-UAP-D091, Range Fouler Debrief, Atlantic Ocean, 2020"
+    },
+    {
+      "external_id": "DOW-UAP-D092",
+      "status": "exists",
+      "path": "/Users/krishnasathvikmantripragada/Webapps/ufo-dossier/.cache/files/pursue/r4/DOW-UAP-D092.pdf",
+      "byte_size": 24142323,
+      "sha256": "9c774fcb34ca56cf1b8da8bfe0413f42c6014c096215966c0fd919be5d77ec52",
+      "url": "https://www.war.gov/medialink/ufo/071026/release_04/documents/DOW-UAP-D092_DAF-Committee-to-Review-Project-Bluebook_1966-1967.pdf",
+      "title": "DOW-UAP-D092, Department of the Air Force Committee to Review Project Bluebook, 1966-1967"
+    },
+    {
+      "external_id": "DOW-UAP-D093",
+      "status": "exists",
+      "path": "/Users/krishnasathvikmantripragada/Webapps/ufo-dossier/.cache/files/pursue/r4/DOW-UAP-D093.pdf",
+      "byte_size": 13574715,
+      "sha256": "6a94a4548eac7933948fad4706e161c6a251bf5eaa9d05d70981b40cb1e80745",
+      "url": "https://www.war.gov/medialink/ufo/071026/release_04/documents/DOW-UAP-D093_Analysis-of-Flying-Object-Incidents-in-the-US_1948.pdf",
+      "title": "DOW-UAP-D093, Analysis of Flying Object Incidents in the United States, 1948"
+    },
+    {
+      "external_id": "DOW-UAP-D094",
+      "status": "exists",
+      "path": "/Users/krishnasathvikmantripragada/Webapps/ufo-dossier/.cache/files/pursue/r4/DOW-UAP-D094.pdf",
+      "byte_size": 15099002,
+      "sha256": "59a30983288868000d7c82bf863a2af475834ad14b984fbe9e4b8bd521aaa1cb",
+      "url": "https://www.war.gov/medialink/ufo/071026/release_04/documents/DOW-UAP-D094_Analysis-of-Flying-Object-Incidents-in-the-US_1949.pdf",
+      "title": "DOW-UAP-D094, Analysis of Flying Object Incidents in the United States, 1949"
+    },
+    {
+      "external_id": "DOW-UAP-D095",
+      "status": "exists",
+      "path": "/Users/krishnasathvikmantripragada/Webapps/ufo-dossier/.cache/files/pursue/r4/DOW-UAP-D095.pdf",
+      "byte_size": 32221008,
+      "sha256": "9c7629703ed55608b29000e490ac91be260e6088587f9048d7412593233878f9",
+      "url": "https://www.war.gov/medialink/ufo/071026/release_04/documents/DOW-UAP-D095_Joint-US-Canadian-Aviation-Projects-and-UFO-Sighting-Reports_1954-1955.pdf",
+      "title": "DOW-UAP-D095, Joint U.S.-Canadian Aviation Projects and UFO Sighting Reports, 1954-1955"
+    },
+    {
+      "external_id": "DOW-UAP-D096",
+      "status": "exists",
+      "path": "/Users/krishnasathvikmantripragada/Webapps/ufo-dossier/.cache/files/pursue/r4/DOW-UAP-D096.pdf",
+      "byte_size": 126111298,
+      "sha256": "2c64dc1cd88ac9717cad81ecee9518af9310bebf5fc51596b85737374e2bf4cf",
+      "url": "https://www.war.gov/medialink/ufo/071026/release_04/documents/DOW-UAP-D096_Correspondence-Relating-to-Project-Blue-Book_1955.pdf",
+      "title": "DOW-UAP-D096, Correspondence Relating to Project Blue Book, 1955"
+    },
+    {
+      "external_id": "DOW-UAP-D097",
+      "status": "exists",
+      "path": "/Users/krishnasathvikmantripragada/Webapps/ufo-dossier/.cache/files/pursue/r4/DOW-UAP-D097.pdf",
+      "byte_size": 10240953,
+      "sha256": "4e191615a53faf81a49721ec594aee5f8c909026348a830025329d847a857e60",
+      "url": "https://www.war.gov/medialink/ufo/071026/release_04/documents/DOW-UAP-D097_Project-Sign-Progress-Report_1948.pdf",
+      "title": "DOW-UAP-D097, Project Sign Progress Report, 1948"
+    },
+    {
+      "external_id": "FBI-UAP-D014",
+      "status": "exists",
+      "path": "/Users/krishnasathvikmantripragada/Webapps/ufo-dossier/.cache/files/pursue/r4/FBI-UAP-D014.pdf",
+      "byte_size": 339618,
+      "sha256": "e91344aaa3cae8760bb695db30416048d94d333d3cf8e616dfd878ef60731379",
+      "url": "https://www.war.gov/medialink/ufo/071026/release_04/documents/FBI-UAP-D014_Correspondence-Relating-to-UFO-Sightings_1967_1974.pdf",
+      "title": "FBI-UAP-D014, Correspondence Relating to UFO Sightings, 1967, 1974 "
+    }
+  ],
+  "errors": [],
+  "production_writes": false
+}

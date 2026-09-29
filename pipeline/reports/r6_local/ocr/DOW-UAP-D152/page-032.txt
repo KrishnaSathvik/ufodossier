@@ -1,0 +1,29 @@
+UNCLASSIFIED/ /fOR. 8FFI61.t..k W&i QJsll,¥ 
+5:' e z ucp = - - Htrr r<Rhe 
+r>R. (99) 
+As noted by Aharonov and Bohm [11], there is a phase shift for r > R, even though for 
+r > R, H = O (because for r > R, curl A = 0). 
+Expressing A by (84) through v, the hypothetical circular aether velocity, one has 
+e v = - --Hr r<R 
+,p 2mc 
+e HR2 
+V = ----- r>R. (100) 
+,p 2mc r 
+One sees that inside the coil the velocity profile is the same as in a rotating frame of 
+reference, having outside the coil the form of potential vortex. If expressed in terms of 
+the aether velocity the phase shift becomes 
+lJ<p = -- v • ds (101) 
+I 
+the same as (97) for the vector potential created by a gravitational field, and hence the 
+same as in the Sagnac experiment and neutron interference exper iment. But for the 
+magnetic vector potential the aether velocity can easily become much larger than in 
+any rotating platform experiment. According to (102), the velocity reaches a maximum 
+at r = R, where it is 
+2 • (102) 
+C 2mc 
+For electrons this is lvmaxl/c=3xl0-4 HR, where H is measured in Gauss. For H = 104 G, 
+this would mean that vmax ;?: c for R > 0.3 cm. If this would be same aether velocity felt 
+on a rotating platform, it would lead to an enormous centrifugal and Coriolis field inside 
+the coil, obviously not observed. 
+28 
+UNCLASSIFIED//POlt orr1e11tt tt!II!! or~LY

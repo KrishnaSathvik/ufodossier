@@ -1,0 +1,56 @@
+UNCLASSIFIED/ /FOR 8FFl@IAL li!H!! 8HL I 
+crash any planes in any of the scenarios - this required approximately 6 hours of 
+practice per participant before the experiment was conducted . 
+Only one of the eight controllers in the Brookings study rated the overload condit ion as 
+a loss of situational awareness. The results compared the TLX, primary task 
+performance, and physiological measures to low, medium, and high workload conditions, 
+as well as the max or over load condition. Primary task perfo rmance is represented in 
+Figure 4 (this chart was recreated visually from the source chart to accurately represent 
+all trends), showing a trending effect for complexity but not volume. Additional results 
+showed that changes in task difficulty (volume or complexity) produced changes in TLX, 
+eye blink rate, respiration rate, and the EEG power spectra. The EEG power spectra 
+were different for changes in volume versus changes in complexity. There were no 
+observed significant correlations with heart rate or heart rate var iability. The authors 
+conclude that psychophysiological data can be used to accurately measure work load in 
+real-time, an observation they note confirms earlier work on F4 crew members 
+performing flight tasks of modu lated complexity. 32 
+The Brookings data was reanalyzed by Wilson in 2003 using an artificial neura l network 
+approach as well as a stepwise discriminate analys is to classify a physiological state as 
+either operational or overloaded. Wilson successfully classified the overload condition 
+consistently in more than 98% of the cases. The authors admit an issue with 
+psychophys iological variation (day -to -day) that would need to be normalized and 
+further research is required. 33 
+100 
+□ Volume 
+■ Complexity 
+80 □ Overload 
+Ill
+-C 
+·o a. 
+G) 
+60(J 
+C 
+ca 
+E 
+~ 
+0
+-
+~ 
+G) 
+40C.
+-C 
+G) 
+(J 
+~ 
+G) 
+C. 
+20 
+Low Medium High Max 
+Workload 
+Figure 4. Representation of Performance Results from Brookings Study. 30 Shown are the three scenarios 
+with modulat ion of traffi c volume , complexity, and the overload condition . Note that the Low workload entry for 
+the volume modulation performance (6 planes) was already 80% and this was similar to the 12-plane medium 
+complexity performance . Only the low complexity, 12-plane scenario showed near 100% primary task 
+performance . 
+UNCLASSIFIED/ JFOR OFFICIAL 091! er•tY 
+13

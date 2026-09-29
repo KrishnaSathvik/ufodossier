@@ -1,0 +1,22 @@
+191 
+the numbers in the flight plan, and the SIM-NETS with 
+the entire network. 
+14.2 DCPS ( Launch abort simulator) 
+Borman We used it and it was very effective. It never worked 
+closed loop as well as i t was supposed to. 
+We did not have any visual with it, but nevertheless 
+the runs that we got there I thought were invaluableJ 
+we certainly could not do without them. The noise 
+and the sensations seemed as close as you could get 
+to them without running on centrifuge . It was a good 
+program, the tapes were good. 
+Lovell I think it is a very necessa .ry simulator. It was not 
+working completely like we wanted it to work, but it 
+was just being put into operation when we were at 
+Houston. We did not have much of an opportunity to 
+use it. 
+14.3 MAC Engineering Simulator 
+Borman We ran a whole week at MAC, two days on reentries and 
+three days on station keeping, and that was a very 
+worthwhile week. It was concentrated effort, and the 
+station keeping simulation was as close to what we saw

@@ -1,0 +1,45 @@
+UNCLASSIFIED/ j FOR OFFICIAL tJ.!I!! 6HL'f 
+directly observe quantum states, and so the true nature of an individual quantum 
+system is hidden. However, no principal obstacle exists to observing all complementary 
+aspects in a series of distinct experiments on identically prepared quantum objects. 
+In the sections that follow, we briefly review the several parts that comprise the 
+tomography machinery, and then put the whole picture together to understand what 
+the entire process is. No effort will be made for completeness because the subject of 
+quantum tomography takes up volumes of books. The reader will be referred to the 
+key literature of importance. 
+Wigner Functions 
+In classical optics the state of an electromagnetic oscillator is perfectly described by the 
+statistics of the classical amplitude a. The amplitude may be completely fixed (then 
+the field is coherent), or a may fluctuate (then the field is partially coherent or 
+incoherent). In classical opt ics as well as in classical mechanics, we can characterize 
+the statistics of the complex amplitude a or, equivalently, the statistics of the 
+component position q and momentum p by introd ucing a phase space distribution called 
+the Wigner function, W(q,p). "*" W(q,p) quantifies the probability of finding a particular 
+pair of q and p values in their simultaneous measurement. Knowing W(q,p) for a 
+particular quantum state that is under study, all statistical quantities of the 
+electromagnetic oscillator can be predicted by calculation. In this sense W(q,p) 
+describes the state in classical physics. The motivation for introduc ing the Wigner 
+function was the desire to find a quantum mechanical description similar to that in 
+classical statistical physics. However, in quantum mechanics Heisenberg's Uncertainty 
+Principle prevents one from observing position and momentum simultaneously and 
+precisely. In addition to this, we also cannot directly observe quantum states either. 
+Nevertheless, we are perfectly entitled to use the concept of quantum states as if they 
+were existing entities. We use their properties to predict the statistics of observations. 
+It is well known that the quantum mechanical wave function depends exclusively on 
+either the position or the momentum and contains nevertheless a// the informat ion 
+about the quantum system under study. However , E. Wigner showed that it is possible 
+to define a formal quantum mechanical analog to the classical distribution function. He 
+showed that we could use W(q,p) as a quantum phase space distribution exclusively to 
+calculate observables in a classical-like fashion. Wigner discovered that W(q,p) is a 
+real-valued function, but it is usually not just positive; it can also become negative. 
+This is a very nonclassical behavior for a probability distribution. It is for this reason 
+that W(q,p) came to be called a quasiprobability distribution. 
+W(q,p) has several properties and mathematical postulates, but it turns out that just 
+one postulate is sufficient for the purposes of quantum tomography [38). Using this 
+postulate, it is assumed that W(q,p) behaves like a joint probability distribution for q 
+and p without ever mentioning any simultaneous observation of position and 
+momentum. The reduced, or marginal, distributions J: W(q , p)dp or J: W(q , p)dq 
+*" Recall in Sect. IIB -1 that the real and the imaginary parts of the complex amplitude o. can be regarded as the 
+position and the momentum of the electromagnetic oscillator. 
+UNCLASSIFIED/ ifOR Offlf:!IAL Y.!I!! er•t I 
+17

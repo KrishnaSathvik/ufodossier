@@ -1,0 +1,47 @@
+UNCLASSIFIED//P91t 9PPl@IAL l!ISI!!! 9HL'I 
+INTRODUCTION 
+Computers today are not what they used to be. In the 17th century, a computer was merely a 
+person who performs computations. In this sense, the first computers were universally 
+programmable and were ultimately utilizing organic (DNA) hardware architecture. The 
+modern sense of a computer as a machine that manipulates input to produce deterministic 
+output emerged from the work of Turing in the 1930s. A Turing machine consists of four 
+parts: tape containing cells of symbols, read head, action table, and state register. In 
+operation, the state register is initialized, the first cell of the tape is read by the head, the 
+table translates the symbol into an action in the state register, and the tape is advanced to 
+read the next symbol. The read, action, advance tape loop is repeated until the program 
+ends.(1) Any calculation a modern digital computer can perform can be accomplished using a 
+Turing machine .a 
+Modern digital processing hardware, first used in the ENIAC in the 1950s, is based on logic 
+gates. All functions of a computer consist of the basic logic elements AND, OR, NOT, etc. 
+These are accomplished electronically by producing logic gates, combinations of transistors 
+that perform the logic function on input data. A common exercise in didactic digital logic 
+pedagogy is to design all of the basic logic gates using only NANO or NOR gates; thus, any 
+hardware element that can execute the NAND function can build a complete computer.b 
+Optimum designs are regularly more elegant than combining a single two-input gate, but it is 
+sufficient as proof of principle for any architecture to be able to produce an inverter and a 
+simple logic gate (AND/OR). 
+The quest for faster computing can be accomplished by making current hardware 
+architecture faster, or by designing new hardware based on different architecture that solves 
+the calculation in fewer steps. The current treatise concentrates on the latter, dramatically 
+changing the architecture of modern computers to perform calculations in a different manner. 
+Two methods are explored: that of creating logic gates, and that of creating a general Turing 
+machine. The second of these is explored in the context of quantum computing with an 
+emphasis on organ ic molecules as a core technology. Designs of logic gates utilizing DNA are 
+covered. Background on all these areas of research is included first. Finally, DNA machines 
+that can assemble and repair DNA technology are outlined. 
+ULTRAFAST COMPUTING POWER IN AEROSPACE 
+APPLICATIONS 
+The history of manned spaceflight does not include powerful computers as integrated 
+companions; space-borne supercomputers have so far been reserved to the world of science 
+fiction. The main issue on space stations has been radiation hardness, while the main issue 
+on vehicles such as the space shuttle has been safety. The amount of testing required for a 
+microprocessor to be certified for space precludes the most current technology from 
+becoming astro-worthy. Indeed, the most powerful general purpose computers riding in the 
+shuttle are the laptops the astronauts bring with them. 
+• The complete history of computers up unt il the 1950s is a fascinating story. A good summary of this history is available 
+in the Wikipedia entries for "computer " and "Turing machine " among other places. The mode l of a Turing machine 
+presented is simplified . 
+b The didactic exercise is usually followed by a laboratory exercise on breadboards and measurement of the truth table . 
+NAND gates are popular because they are particularly simple to manufactu re with current technology . 
+UNCLASSIFIED/ lfQB OFFICIO! I !Si OPIL¥ 
+7

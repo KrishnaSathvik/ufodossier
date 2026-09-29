@@ -1,0 +1,46 @@
+UNCLASSIFIED/fFOR. QFFIEl.t.L: Uii QD:I! X 
+Chapter 4: Vision of Progress Over the Next 30 Years 
+While there are several methods that can be used to sense high-speed supersonic objects, 
+technology changes in aircraft will generate the need for newer detect ion and tracking 
+techniques. Listed below are five important categor ies of objects capable of hypersonic 
+speeds. Over the next 30 years, the ability to reliably and accurately detect them will be 
+critical. 
+• Space Debris - Technology is currently available to detect space debris using RADAR and 
+cameras. Novel methods using coronographs 28 during daylight have been shown to 
+detect the reflected light from millimeter-size debris part icles in orbit, and existing 
+telescopes are capable of detecting meteors that pose a risk to Earth . Space debris 
+reentering the Earth's atmosphere can reach speeds of over 17,000 miles per hour or 
+Mach 23. 
+• Reentry Craft - The highest recorded speed for any manmade vehicle was the Apollo 10 
+reentry capsule in 1969. It reached a velocity of 24,790 mph, or Mach 36. Reentry 
+vehicles are currently monitored by ground-based telescopes and RADAR and through 
+satellite imagery. 
+• Meteors - The systems used to monitor missiles and satellites based on RADAR and 
+optical devices can currently detect and track meteors entering the Earth's atmosphere. 
+Further development of acoustic and radio detection techniques should be pursued over 
+the next 30 years. 
+• Missiles - The Cold War generated the need for equipment to monitor hostile missile 
+launches, to track their path, and to estimate the location of their targets based on 
+ballistic trajectories. The United States Space Surveillance Network, for example, is 
+composed of a worldwide collection of RADAR, electro-opt ical detectors, and passive RF 
+devices that can track satell ites, missiles, and aircraft. They maintain an inventory of 
+satellites in Earth orbit and, through the Space Surveillance Telescope program (SST), 
+asteroids and other faint objects in space are detected and tracked. GEODSS (Ground­
+Based Electro-Optica l Deep Space Surveillance) telescopes monitor space at 3 different 
+locations around the globe with high enough resolut ion to detect a basketball 20,000 
+miles from the Earth. Continued vigilance from governments around the world will likely 
+increase the development of technology to detect and track high-speed objects in the 
+atmosphere and in space over the next 30 years with an emphasis on RADAR and optical 
+detection. 
+• Hypersonic Aircraft - Over the next three decades, hyperson ic aircraft development will 
+likely spur an increased need for new technology to detect their presence. While the X-15 
+rocket plane exceeded Mach 6 (4,520 mph) as early as 1967, continued development of 
+high-speed aircraft will continue to meet needs in the following areas: 
+o SSTO (Single Stage to Orbit) - Long the dream of NASA and space exploration 
+enthusiasts, technology has been under development to replace the Space Shuttle 
+using aircraft that can take off from a conventional runway and attain low-Earth 
+orbit. The X-43A scram jet, part of NASA's Hyper X Program and fueled by 
+hydrogen fuel was successfully tested in 2004. This aircraft is capable of 7,000 
+mph or Mach 9.8 flight. 
+UNCLASSIFIED//EQA: QlililEl.t.L: W&&: O,.L'l 
+28

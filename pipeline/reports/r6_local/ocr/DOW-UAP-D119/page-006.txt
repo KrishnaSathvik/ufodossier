@@ -1,0 +1,42 @@
+UNCLASSIFIED// FOR OFFICl"L l:191!!! 9HLY 
+laboratory, in processing biomolecules in biotechnology, for fertility regulation 
+implants in cattle, in diagnostic gene arrays, in the aquaculture of oysters, and 
+for investigational cell-silicon "biochips." The common thread in these 
+applications is the interaction between biological systems and synthetic or 
+modified natural materials. 
+Biomimetic materials, in contrast, are not made by living organisms but have 
+compositions and properties similar to materials made by living organisms. 
+For example, the calcium hydroxyapatite coating found on many artificial 
+hips-used as metal-bone interface cement to make it easier to attach 
+implants to bone-is similar to the coating found in mollusk shells. 
+IMPORTANCE OF BIOCOMPATIBILITY 
+Biocompatibility is an important issue in biomedical implants and sensors. A 
+material-tissue interaction that results from implanting a foreign object in the 
+body is a major obstacle to developing stable and long-term implantable 
+devices and sensors. 
+The processes that occur when sensors are placed in the complex living 
+environment of the human body are sometimes known as biofouling. In 
+biofouling, the physical or chemically sensitive portion of the sensor interface 
+becomes coated with proteins, blood-formed elements, adherent 
+immunological cells, and sometimes forms of scar tissue that tend to isolate 
+the sensor from the rest of the body environment. This response of tissue is a 
+foreign body reaction to any object introduced in tissue that does not express 
+surface characteristics that identify it as part of the host tissues. 
+Experiences of many investigators (more than 600 reported studies since 1996) 
+with the biocompatibility of biomaterials related to the function of implanted 
+biosensors have been poor such that many companies have abandoned 
+implantable sensor devices altogether. Rather, the recent trend in medical 
+biosensors is toward placing them outside the body. Newer sensors are often 
+based on optical principles in an effort to obviate the biocompatibility and 
+biomaterial issues of placing sensors inside the human body. 
+SCIENCE OF BIOMATERIALS 
+The study and use of biomaterials bring together researchers from diverse 
+academic backgrounds who must communicate clearly. Professions that 
+intersect in the development, study, and application of biomaterials include 
+bioengineer, chemist, chemical engineer, electrical engineer, mechanical 
+engineer, materials scientist, biologist, microbiologist, physician, veterinarian, 
+ethicist, nurse, lawyer, regulatory specialist, and venture capitalist. 
+The number of medical devices used each year in humans is very large. Figure 
+2 estimates usage for common devices, all of which employ biomaterials. 
+UNCLASSIFIED/ /FOlil OFFICiI>~ U&ili Qt11 X 
+vii

@@ -1,0 +1,48 @@
+UNCLASSIFIED/ /FOR OFFIEIAk WS&i OPtkY 
+smaller than that of the initial B = 0 vacuum state made by virtual fermions fully filling 
+its negative energy spectrum, then the vacuum state gains energy and must decay 
+from the initial vacuum state to the final vacuum state by quantum field fluctuations. 
+The difference in vacuum energies between the two vacuum states must be released. 
+Xue makes all the usual vacuum expectation value renormalization calculations upon s F 
+and u, and found that the energetic difference between the vacuum states B = 0 and B 
+-:1= 0 is negative, indicating that the vacuum energy of the B * 0 state is smaller than the 
+vacuum energy of the B = 0 state; that is, the vacuum state gains energy when the 
+external magnetic field is applied to it. He shows that this effect occurs because in a 
+finite volume of space and with a finite momentum cutoff at the Planck scale M, the 
+total number of fermion states in the vacua of negative energy spectra BF and 1>L are 
+finite and all these fermion states of negative energy levels from -J\p to -mc2 are fully 
+filled. The negative energy spectrum s F is not degenerate, while the negative energy 
+spectrum sL is degenerate, and the total numbers of fermion states in both cases are 
+the same. On the basis of quantum field fluctuations toward the lowest energy state 
+and the Pauli principle, when the external magnetic field is applied upon the vacuum, 
+the vacuum reorganizes itself by fully filling all fermion states according to the 
+degenerate negative energy spectrum EL, instead of the nondegenerate c f. As a 
+consequence, the vacuum makes its total energy lower. The energy released by this 
+decay process is: Lill = - 8aB 2V I 3n , where V is the volume of space occupied by the 
+external magnetic field, and a is the electromagnetic fine structure constant. 
+In principle, this effect can occur for any value of the applied magnetic field, and in this 
+particular decay process a non-critical magnetic field is required. Xue predicts possibly 
+observable effects such as the vacuum acting like a paramagnetic medium that 
+effectively screens the strength of the external magnetic field to a smaller magnitude; 
+the associated ZPF could lead to the emission of neutrino-antineutrino pairs from the 
+vacuum; and photons will be spontaneously emitted. He estimated that the released 
+vacuum energy (6E) will be about 1 percent of the total energy stored in the external 
+magnetic field, so it is not yet clear whether this vacuum decay mechanism will lead to 
+any beneficial energy extraction. 
+Melting the QCD Vacuum 
+The idea of supercriticality as discussed in Section V also has applications in other field 
+theories, such as those of pion fields, gluon fields (quantum chromodynamics or QCD), 
+and grav itational fields (general relativity). Static fields that are strong enough to cause 
+the normal vacuum, which is devoid of real particles, to break down into a new vacuum 
+in which real particles exist is also predicted for these fields. A review a vacuum decay 
+concept that is different from supercriticality in QCD theory follows. 
+In their study of the structured vacuum, Rafelski and Muller (Reference 54) and Rafel ski 
+(Reference 55) analyze the nature of the strongly interacting (QCD) vacuum and 
+elucidate its character from the Standard Model of particle physics and high energy 
+particle accelerator data. They concluded that in addition to the electroweak vacuum 
+(that is, the unified electromagnetic and weak force vacua) there exists a dual QCD 
+vacuum structure: one vacuum structure that is everywhere in space and consists of a 
+complicated soup of interacting gluons which confine the quarks - this is called the 
+ordinary or "frozen" vacuum; and another vacuum structure that is found inside 
+UNCLASSIFIED/ /FOR OFFICI0L: 11ili QIU.,¥ 
+35

@@ -1,0 +1,43 @@
+UNCLASSIFIED/ /FOR OFFICl"L tJ.!l!!! 8HL¥ 
+oi [ hro hco]p(ro)dro = - ----- + - dco 
+rc2c3 exp(hco/ k8 T) - 1 2 
+(2)
+3 = - hro-2 3 coth ( --hro Jdro, 
+2n c 2k8 T 
+where kp, is Boltzmann's constant (1. 3807 x 10-23 J/K) and Tis the absolute 
+temperature. The factor outside the square brackets in the first line of Eq. (2) is the 
+density of mode (or photon) states (i.e., the number of states per unit frequency 
+interval per unit volume); the first term inside the square brackets is the standard 
+Planck blackbody radiation energy per mode; and the second term inside the square 
+brackets is the quantum zero-point energy per mode. Equation (2) is called the Zero­
+Point Planck (ZPP) spectral radiation energy density. Planck first added the ZPE term to 
+the classical blackbody spectral radiation energy density in 1912, although it was 
+Einstein, Hopf, and Stern who actually recognized the physical significance of th is term 
+in 1913 [25]. Direct spectroscopic evidence for the reality of ZPE was provided by 
+Mulliken's boron monoxide spectral band experiments in 1924, several months before 
+Heisenberg first derived the ZPE for a harmonic oscillator from his new quantum matrix 
+mechanics theory [39]. 
+Following this line of reasoning, quantum physics predicts that all of space must be 
+filled with quantum electromagnet ic ZPF creating a universal sea of zero-point energy. 
+The other quantum forces of nature also have their own vacuum ZPF which contributes 
+to the universal sea of zero-point energy. But that is beyond the scope of this report. 
+Negative (Sub-Vacuum) Energy in Squeezed Light 
+Substantial theoretical and exper imental work has shown that in many quantum 
+systems the limits to measurement precision imposed by the quantum vacuum ZPF can 
+be breached by decreasing the noise in one observable (or measurable quantity) at the 
+expense of increasing the noise in the conjugate observable; at the same time the 
+variations in the first observable, say the energy, are reduced below the ZPF such that 
+the energy becomes "negative." "Squeezing" is thus the control of quantum 
+fluctuations and corresponding uncertainties, whereby one can squeeze/reduce the 
+variance of one (physically important) observable quantity provided the variance in the 
+(physically unimportant) conjugate variab le is stretched/increased. The squeezed 
+quantity possesses an unusually low variance, meaning less variance than would be 
+expected on the basis of the equipartition theorem . One can in principle exploit 
+quantum squeezing to extract energy from one place in the ordinary vacuum at the 
+expense of accumulating excess energy elsewhere [8]. 
+The squeezed state of the electromagnetic field is a primary example of a quant um field 
+that has negat ive energy density and negative energy flux. Such a state became a 
+physical reality in the laboratory as a result of the nonlinear-optics techn ique of 
+"squeezing," i.e., of moving some of the quantum-fluctuations of laser light out of the 
+UNCLASSIFIED/ /FOA OFFI&iIAL YSIE 8HLY 
+8

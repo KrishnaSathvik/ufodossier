@@ -1,0 +1,53 @@
+UNCLASSIFIED / /#@R-05E56i=U6E-OFHe
+
+The greatest challenge, however, is temperature. The resistance of an electrical wire
+varies with temperature, and while we scarcely notice the difference with the fat copper
+wiring in our houses, the delicate films and nanowires of Programmable Matter smart
+materials feel it very strongly. Other critical properties, such as the bandgaps of
+semiconductors, the optical spacing of photonic crystals, and the internal symmetries of
+liquid crystals, are also temperature sensitive and must be managed carefully to avoid
+overwhelming the control signals passing through the material.
+
+Early attempts at programmable quantum dot materials were so temperature sensitive
+that researchers found that altering temperature, rather than the electric field, was
+actually the easiest way to control the response of the materials. In fact, by selecting
+materials with higher temperature sensitivity, we were able to enhance these effects to
+produce thermally activated smart materials with no need for electric controls at all.
+
+Of course, materials that respond to temperature are not new. Thermochromic (color-
+changing} liquid-crystal thermometers are well known, and in the mid-1990s, Chinese
+researchers developed a thermochromic paint that turns a cool-blue shade when warm,
+a warm-red shade when cool, and pale green at room temperature. This was done
+mainly for thermal regulation—the paint allegedly could increase the temperature of a
+building by about 4°C in winter and decrease it by about 89°C in summer—although the
+researchers also claimed an aesthetic benefit to having a home’s color match the
+season. Even more impressive effects could be achieved if black and white (or clear and
+silver) were available color choices.
+
+Although thermochromic building materials were very rare until recently, a number of
+other mechanisms—including electrochromics, photochromics, and automatic
+mechanical blinds—have been used to create “dynamic windows” that actively control
+solar heat gain in buildings and display many of the properties (if not the principles) of
+a true smart material. Buildings account for 40 percent of all energy consumed in the
+United States, including 71 percent of all electricity and 38 percent of all carbon dioxide
+emissions. Managing solar heat gain and controlling the building’s thermal envelope are
+the most effective ways of reducing energy use. The same principles apply, of course,
+to spacecraft, for which solar heat is even more intense and nighttime (in the shadow of
+the Earth) is colder.
+
+In 2003, the U.S. Department of Energy’s Lawrence Berkeley National Laboratory
+(LBNL), on behalf of the American Society of Heating, Refrigeration, and Air
+Conditioning Engineers (ASHRAE), performed a study focused on dynamic window
+systems capable of darkening or shading automatically such that the solar heat gain
+coefficient (SHGC} varied between 0.26 and 0.40. Analyses were performed for eight
+U.S. cities: Boston, Denver, Jacksonville, Kansas City, Phoenix, Sacramento, Seattle,
+and Washington, D.C.
+
+The ASHRAE study found that across all eight climate zones, buildings with low-
+emissivity (“low-E”) glass saved an average of 8-15 percent on their total annual
+energy (heating, cooling, and ventilation) costs, whereas the addition of dynamic
+window systems saved an additional 6-19 percent. In other words, the savings
+associated with a dynamic window are approximately as large as the savings associated
+with low-E. Furthermore, because dynamic windows and low-E coatings save energy
+
+UNCLASSIFIED / / 52.05 516i SE-ORY

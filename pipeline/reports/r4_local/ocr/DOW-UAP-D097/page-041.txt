@@ -1,0 +1,134 @@
+MARCH 5, 1948
+
+Fig. .14.—A Russian ‘ parabola’ glider of 1924.
+
+extensive wind-tunnel investigation and the published reports
+still form the basis of present development. In_ places,
+the results confirm, qualitatively, the experiments made 20 years
+before. But, as mentioned earlier, these experiments had been
+practically forgotten.
+
+Zimmermann’s target has been the development of a really
+fool-proof aeroplane for amateur pilots. It is no use hiding
+the fact that in nearly all accidents in which blame is attributed
+to an “error of judgment” on the part of the pilot, the
+aeroplane is actually at fault. The most common causes are
+the consequences of inadvertent stalling. Once this is
+completely remedied, the overwhelming majority of accidents
+will become mere incidents or just fun, and instead of coroners
+and hospitals, aircraft manufacturers and repair shops will
+have the benefit.
+
+On such very sound lines (which seem to be generally
+acknowledged, but still far too often ignored), Zimmermann
+directed his main attention to the stalling problem. He
+proved that small variations in the aspect ratio made profound
+differences and that the shape of the wing tips also had a great
+influence.
+
+At the same time he confirmed that the induced drag of
+circular or square wings is by no means as prohibitive as the
+simple theory of the “ horseshoe” vortex line would indicate.
+He also proved that it was simply the induced drag due to the
+predominant influence of the marginal vortices which brought
+about the behaviour at high incidences; the idea that the
+ee of oblique slots might help in this connection proved,
+owever, abortive.
+
+An advantage which Zimmermann’s research brought to
+light was that disc wings gave less profile drag at small
+incidences (high-speed flight), because of the reduction of the
+relative thickness of the aerofoil sections. This drag reduction
+has indeed become one of the main reasons for disc wings
+being adopted for aeroplanes capable of flying at speeds at
+which the compressibility of the air needs to be considered.
+For supersonic flight disc wings seem, at present, to be a
+necessity. Alternatively, for a given aerofoil thickness ratio,
+the height available for structure and storage (power plants)
+is greatest within a disc wing; this makes for light and stiff
+
+Fig. 15.—A ‘parabola’ aircraft by B. |. Tscheranowsky.
+
+*
+
+wing structures as well as for the possibility of housing every-
+thing within a wing.
+
+Hence there are very real design reasons for the preference
+of disc wings, quite apart from the eased accommodation of
+short-span aeroplanes.
+
+Some Remarkable Results
+
+Zimmermann established that the optimum aspect ratio was
+found between the values of 0.75 and 1.5. These values
+include both square and circular wing shapes. For a given
+wing section (Clark Y) the latter gave the highest lift coefficient,
+1.85 at 45 degrees incidence, compared with a value of 1.24
+at 14 degrees incidence for an aspect ratio of six.
+
+Furthermore, an important result was evidence that at an
+aspect ratio of unity (square or elliptical wings), and at an
+aspect ratio of 0.9 (wing with faired tips), no tendency to
+autorotation. could be found. A circular wing (aspect ratio
+of 1.27) indicated the possibility of autorotation (i.e. spinning)
+at incidences below that of maximum lift. The possibility of
+spinning before the actual stall is reached is, indeed, extra-
+ordinary. All these results refer to tests with the Clark Y
+aerofoil section.
+
+Less established was the contention that disc wings would
+give improved lateral and longitudinal stability at low incidences
+This seems still to be a moot point of the Flying Saucer.
+
+In Fig. 16, Fig. 17, and Fig. 18 some characteristic results of
+
+c
+SS —F r +
+C,H. ZIMMERMANN'S TESTS
+
+(NACA TECHN REP No 431)/
+
+THE AEROPLANE
+
+Fig. 16.—N.A.C.A. tests by C. H. Zimmermann which prove
+the extraordinary stalling qualities of disc wings.
+
+Zimmermann’s wind-tunnel experiments of 1932 are given. It
+is seen from Fig. 18 that the difference between the incidence
+of maximum lift and the gliding angle at maximum lift
+(@max~ a max) remains fairly independent of aspect ratio, and
+of the order of 9 to 13 degrees. This would mean that
+the attitude of the disc-type aeroplane, when flattening out,
+would not greatly differ from that of conventional aeroplanes.
+In particular, there would be no need to provide high under-
+carriages for disc aeroplanes as their gliding path is steep.
+Bes is an important difference from wings with leading-edge
+slots.
+_In practice, however, the landing of disc-wing aeroplanes
+gives rise to undercarriage problems. As the induced drag
+increases rapidly with the reduction of flying speed, when the
+aeroplane flattens out prior to touching-down, the pliding angle
+steepens abruptly. This is particularly true of tailless designs.
+and the result is a strong tendency to pancake to the ground
+as soon as the pilot flattens out. Thus to avoid the necessity
+of fitting undercarriages able to stand the strain of abnormally
+high sinking speeds, it has been found practical to land with
+power on.
+
+For a tailless aeroplane with an aspect
+M. B. Morgan found that. without flaps, the trimmed gliding
+angle at 160 m.p.h. was three degrees; it increased to 17 degrees
+at 126 m.p.h.. while the stalling speed was 115 m.p.h. This
+
+ronounced steepening of the gliding angle makes a merger
+
+etween the aeroplane and the helicopter an attractive
+proposition.
+
+»,snother oeculiarity of the disc wing established by
+Zimmermann was its sensitivity to the shape of the wing-tips
+
+ratio of three,
+
+NND 927545

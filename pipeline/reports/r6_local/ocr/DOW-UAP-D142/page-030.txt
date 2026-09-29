@@ -1,0 +1,61 @@
+UNCLASSIFIED / /F@R-OFFTGEAL-USE-ONE—
+
+CASIMIR EFFECT REVISITED
+
+The most-quoted quintessential configuration for the conversion of vacuum energy to
+other forms of energy is the Casimir effect. As previously discussed, when parallel
+conducting plates are placed in a vacuum, they attract one another by a very weak
+force that varies inversely as the fourth power of the distance between them. First
+computed by Casimir in terms of van der Waals forces (a matter-fields approach - see
+below), he soon realized that, because the force turns out to be independent of the
+molecular details of the conductors, it could be computed as a problem in vacuum
+energy, and that is the way it is now generally presented in the literature (the “plenum
+approach”) (Reference 5, 62).
+
+Casimir Effect in the Plenum Picture
+
+One begins with the free quantum vacuum electromagnetic field fluctuations, and then
+determines their modification due to the insertion of two parallel plane conductors (that
+is, plates) as additional boundary conditions, which constrain a discrete set of intra-
+cavity modes of integer half-wavelengths. Aside from an unobservable, high-frequency-
+cutoff-dependent, free-field term that remains from the mathematical regularization
+
+procedure, the resulting (renormalized) vacuum stress-energy tensor? is given by
+ed =(n°he/ 720d" ) diag(-1, 1,1,-3), where the angular brackets denote the quantum
+
+(vacuum state) expectation value of the tensor T'”
+
+vac
+
+d is the plate separation, and
+diag(-1,1,1,-3) denotes the diagonal elements of a 4x4 matrix (Reference 1-3, 62).1°
+(rT) represents the real physical stress carried by the vacuum field fluctuations in the
+
+presence of the parallel plane conductors, and it encodes the Casimir effect in terms of
+(1) an interaction energy per unit area, E/ A=-—n’hc/720d’, and (2) a corresponding
+
+force per unit area, F / A=—n°hc/ 240d". If free to move in response to the attractive
+Casimir force, the motion of the plates toward each other is understood in the plenum
+approach to progressively eliminate intra-cavity modes, converting their associated
+ground-state energies first into kinetic energy, and then, upon collision of the plates,
+into heat. Section II described the Casimir-force-driven collapse of Forward’s charged
+slinky as a Casimir-type configuration for building up an electric field to charge a
+battery, and how such processes were shown not to violate either conservation of
+energy or thermodynamic constraints.
+
+Casimir Effect in the Fluctuating Matter Fields Picture
+
+Complementary to the vacuum mode description (plenum approach), the Casimir effect
+can be described, like van der Waals attraction, as arising from correlations in the state
+of electrons in the two plates through the intermediary of their coupled fields. From this
+standpoint (matter-fields approach) there is no requirement for the high energy density
+vacuum field of the plenum approach to reside throughout all space.
+
+° The stress-energy-momentum tensor, 7"’, is a matrix quantity that encodes the density and flux of a matter
+source’s energy and momentum. Greek indices denote the matrix components over the spacetime coordinates.
+
+10 For this derivation, the vacuum fluctuations of other quantum fields are essentially undisturbed by the presence
+of the conductors or are affected only in the immediate vicinity of the atomic nuclei that they contain.
+
+24
+UNCLASSIFIED/ AEQR_OEEICIALUS EO ble ven

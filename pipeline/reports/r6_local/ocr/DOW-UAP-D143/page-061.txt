@@ -1,0 +1,48 @@
+UNCLASSIFIED S/F OR OPPICTAL USE ONLY
+
+Figure 26 and Figure 27 show examples of very portable, compact single mode and
+multimode HPFLs used for industrial applications.
+
+Compact, Lightweight SM Modules
+
+Pout up to 1,100 W
+A=1070 nm
+BPP = 0.34 mm x mrad
+( M? < 1.05 )
+WxHxD=60x 33x 4.7cm
+DC wall-plug efficiency > 35 %
+Weight ~ 12kg
+12kg/kW
+Figure 26. Single Mode Fiber Laser Modules (courtesy of IPG Photonics).
+
+Multimode Fiber Lasers
+
+50kW Multimode
+
+* Output beam quality BPP~10
+M‘*2~33
+
+* DC EOE ~ 33%
+
+* Output fiber core diameter 200um
+
+* Output NA ~ 0.09
+
+* Output fiber length 15m
+
+* Raman level at full power expected
+to be ~ -35dB
+
+*  Linewidth (FWHM) ~5nm
+
+* Weight ~ 2,500kg
+
+* Size (HxWxD): 1.8m x 2.7m x 0.8m
+* Delivered August, 2008
+
+Courtesy of IPG Photonics
+
+Figure 27. Multimode HPFLs.
+
+57
+UNCLASSIFIED L4502.05516041-USE-ONEY

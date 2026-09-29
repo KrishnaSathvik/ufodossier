@@ -1,0 +1,41 @@
+258
+
+Conrad
+
+Conrad
+
+Conrad
+
+ONABENHAL |
+
+do it. Although experiments worked sut relatively
+well, we could have used a little more time on them.
+Concerning mission planning. I wouli avoid wiring
+experiments such as MSC-1. They cloober up very
+critical time phasing in the mission. For instance,
+arming the Bus Arm Switch at SECO added an unneces-—
+sary step at an extremely time-critical time, which
+is just pure lousy engineering planning. That door
+could have been blown by any number of circuits.
+
+It didn't have to put it on that one.
+
+The next thing is the laying out of the flight plan.
+It became obvious that we were crowd2d. So, I think
+they should take a more objective look at the se-
+quential aspects of flight planning, particularly
+in terms of how long it takes to complete one ex-
+periment. This business of being pitched all the
+way to the nadir, going backward, then having to
+pitch forward again to pick up the next target, is
+time consuming. Neither the flight plan people,
+
+the crew, nor anybody else for that matter picked
+this up until we were flying.
+
+Sleep cycles. On the long flights you have to plan
+for dual sleep cycles. Stations should monitor and
+
+not transmit. The crew should sleep at the same
+
+ee

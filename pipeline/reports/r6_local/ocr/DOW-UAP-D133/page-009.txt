@@ -1,0 +1,49 @@
+UNCLASSIFIED/ /POK OFFICIAL tt.!I!! 8HL'f 
+Do these EPR experiments constitute a demonstration of the existence of quantum 
+nonlocality? There is more than one way of interpreting the implications of the 
+experimental results (Reference 1, 2), and one can find much discussion in the 
+literature as to whether it is locality or "realism" (the objective observer- independent 
+reality of external events) that has been refuted by these EPR measurements. 
+Noble Laureate Anthony Leggett of the University of Illinois recently pushed this issue 
+somewhat further (Reference 10). He demonstrated that by focusing on the falloff of 
+correlations with elliptical polarization rather than the linear polarization used in the Bell 
+Inequality EPR experiments, one can compare the predictions of quantum mechanics 
+with a class of nonlocal realistic theories that he constructed. The resulting Leggett 
+Inequalit ies can be used in the same way as the Bell Inequalities, but to test theories 
+incorporating nonlocal realism instead of local realism. Anton Zeilinger's group at the 
+Institute for Quantum Optics and Quantum Information (IQOQI) in Vienna performed a 
+definitive test of the Leggett Inequalities (Reference 11). The results show that using 
+elliptically polar ized entangled photons, the Leggett Inequalities in two observables are 
+violated by 3.6 and by 9 standard deviations. This is interpreted as a statistically 
+significant falsification of the whole class of nonlocal realistic theories constructed by 
+Leggett. The IQOQI group summarizes its results with the statement "We believe that 
+our results lend strong support to the view that any future extension of quantum theory 
+that is in agreement with experiments must abandon certain features of realistic 
+descriptions ." 
+It is our view, however, that this is mainly an exercise in demolishing a "strawman." 
+Leggett's nonlocal realistic theories assume that when entangled photons emerge from 
+their emission source, they are in a definite state of polarization. It is well known that 
+when that assumption (and no others) is made, one does not observe the quantum 
+mechanical prediction of Malus's Law for the correlations of the photon pair . 
+However, Leggett solves that problem by assuming an unspecified nonlocal connection 
+mechanism between the detection systems that fixes the discrepancy. In effect, the two 
+measurements talk to each other nonlocally in such a way that the detected linearly 
+polarized photons obey Malus's Law and produce the same linear polarization 
+correlations predicted by quantum mechanics calculations. Leggett then shows that this 
+nonlocal "fix" cannot be extended into the realm of elliptical polarization, and that 
+quantum mechanics and this type of nonlocal realistic theories give differing predictions 
+for the elliptic polarization correlations. In other words, the "reality" that is being tested 
+is whether the photon source is initially emitting the entangled photons in a definite 
+state of polarization. It is this version of "reality" that has been falsified by the IQOQI 
+measurements. 
+It is our view that this assumption, clearly inconsistent with the formalism of quantum 
+mechanics, is invalid, and that nature is both nonlocal and unrealistic, if by realism one 
+means that when entangled photons emerge from their emission source, they are in a 
+definite state of polarization. This very restricted definition of realism is not required, 
+and it is assumed that the intrinsic nonlocality of standard quantum mechanics is a 
+physical fact. 
+It is noted that the several polarization bases used in t hese ki nds of polarization EPR 
+experiments make demonstrating the quantum nonlocal connections straightforward 
+but also make it effectively impossible to use those connections for observer-to-
+UNCLASSIFIED/ /FOR: OFFI&il.t.k W&liii OP•k¥ 
+3

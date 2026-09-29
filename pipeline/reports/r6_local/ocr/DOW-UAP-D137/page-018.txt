@@ -1,0 +1,42 @@
+UNCLASSIFIED/ fFOA. OFFICIAL WSE er•tv 
+completely in the vacuum of space, there is obviously no need for target loop adaptive 
+optics. 
+The measure of a beam control system's performance is its ability to maximize the HEL 
+beam's average irradiance (watts/cm 2) in the focused spot on the aim point and 
+maintain it there while sufficient fluence (watts/cm 2 x time or joules/cm 2) is 
+accumulated. The total power in this focused spot is typically about one-half of the 
+laser's output power further reduced by losses in the beam control system's optical 
+train and the atmosphere. 
+The laser beam's spot size on the target has many contributors. Optical diffraction 
+establishes the spot's minimum area at approximately (RA/D)2 where R is the range to 
+the target, 'A, is the laser beam's wavelength and D is the diameter of the pointing 
+telescope. Improvement can be only achieved by reducing the range to the target, 
+using a laser with shorter wavelength or increasing the pointing telescope's size. This 
+ideal (diffraction limited) spot area, is unachievable in a real system. Additional 
+contributors to the actual spot area include a less-than-perfect laser beam (beam 
+quality greater than one), mechanical jitter of the beam control system from the 
+tracker, the alignment systems, or base motion disturbance and atmospheric distortions 
+from turbulence or thermal blooming. Each of these contributors to the laser beam 
+spot's area serve to reduce the irradiance by spreading the laser power over a larger 
+area. 
+Figure 10 is a cartoon of the gimbaled portion of a beam control system and is used to 
+illustrate basic servo control functions. A tracking telescope and optical sensor are 
+mounted on the elevation over azimuth gimbal. Their purpose is to generate an 
+electronic image of the target and send it to the tracker. This tracker is a special­
+purpose computer which then processes the target image, identifies the desired aim 
+point and measures the angle between it and the optical boresight of the telescope. Its 
+output is a command to the gimbals to rotate until the optical axis of the tracking 
+telescope is following the target and pointing at the aim point. If the gimbals are 
+mounted on a moving or vibrating platform, these disturbances introduce additional 
+tracking errors. Unlike target motion, this base motion disturbance can be directly 
+measured using gyros and accelerometers which are attached to the telescope. This 
+package, called an Inertial Reference Unit (IRU), provides an additional command to 
+the gimbals which stabilizes the telescope and improves the tracker's ability to measure 
+target motion errors. The HEL, shown simply in this cartoon as a box, provides the 
+weapon beam to a pointing telescope which is then mechanically boresighted (optical 
+axis made parallel) to the tracking telescope. Finally, the range to the target must be 
+measured so that a parallax correction can be applied to the pointing telescope. This 
+slightly tilts its optical axis to intersect the tracking telescope's optical axis at the range 
+of the target and thus place the HEL beam on the aim point. 
+UNCLASSIFIED/ fFOA QFFl€1AL WSE 8NLY 
+13

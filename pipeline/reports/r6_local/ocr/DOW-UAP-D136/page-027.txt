@@ -1,0 +1,25 @@
+UNCLASSIFIED/ /P'OR: OP'Pl@IAL WS& 0NI.¥ 
+Bioelectrical events are generated in tissues when there is an electrochemical change in 
+the membranes of specialized cells of the brain and nervous systems. 
+Neuroelectrical devices interface to the brain and nervous systems through electrodes 
+that touch excitable cell membrane and convert ionic current flows to electron flow in a 
+wire. Conversely current flows in a wire are converted by electrodes to ionic flows in 
+tissue. 
+The function of the entire human body is under control of the brain and the nervous 
+system. So the use of electrodes of various types as a method of monitoring and 
+controlling the function of the nervous system through bioelectrical currents and 
+electrodes is potentially a very powerful method of treating in therapeutic ways. Figure 
+18 suggests the idea of an excitable cell of the brain having many tendrils or dendr ites 
+that extend outward to interconnect with other cells. Essentially these cells are the 
+relay points of the bioelectrical wiring of the human body. 
+Figure 18. A Neural Cell Showing Dendritic Inter-Connections That are Electrically Active With Other 
+Cells (artist's illustration) 
+An electrical interface to body tissues typically occurs through the use of microelectrode 
+systems. These electrodes are often on the order of tens of microns to millimeter-order 
+in sizes depending on their function. For example electrodes that simply measure 
+bioelectrical activity of the nervous system can resemble needles insulated along their 
+length having micron order tips both because they carry only small electrical currents 
+and also because they need to be placed in very specific places and they contact just a 
+single or few cells that control specific functions. 
+UNCLASSIFIED/ {FOR OFFICIO! !PEii ODIi.¥ 
+21

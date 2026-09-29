@@ -1,0 +1,48 @@
+UNCLASSIFIED/ /FOR: 8Ffl@IJltt t:191!! er•t I 
+of a spiking train to trigger a switch, or as complex as decoding signal from noise 
+utiliz ing a 300-channel EEG cap. 
+~-------------------------, 
+: Additional sensory : 
+I ---1 -------------------' 
+~ 
+Brain 
+Output 
+interface 
+,----1 Input 
+interface 
+Output 
+signal 
+processing 
+Components of a 
+Closed-loop BMI 
+Control System 
+Input 
+signal 
+processing 
+External 
+Device 
+Figure 2. The General Layout of a Closed-Loop Control Interface. The input and output interfaces can attach 
+to read or affect activity of cerebra l or peripheral neurons . Additional sensory feedback channels such as visual 
+displays, audio tones, or haptic feedback are possible. In some system designs, especially noninvasive types, these 
+sensory feedback channels replace stimulat ion inputs. In an open-loop interface, either the input or output signal 
+paths are absent. 
+One consideration in developing a BMI control system is the utility of the application: 
+does it make sense to directly tie these controls to neural activity? The bulk of research 
+in direct neural interfaces is toward the goal of restoring mechanical capabilities to 
+those individuals who have either lost limbs or lost control of limbs through central 
+nervous system injury or disease. In these cases it is of obvious utility to produce a 
+system that moves a cursor across screen to select an item over the course of several 
+seconds; however, for a healthy individual, it is far more practical to execute a hand 
+movement to control a mechanical device4 to achieve the same goal. 
+An exception to consider is the case of applications where the subject's hands or feet 
+are already occupied with other essential tasks in the overall application. A research 
+question for any such application is whether training a subject to uti lize a BMI is 
+advantageous over a more complex mechanical interface. Furthermore, whether 
+training on a new BMI affects learning/retaining proficiency with similar BMis is an 
+additional concern. 
+Moreover, for any BMI, one can quantitatively describe the informat ion transfer in 
+controlling the magnitude of human motor action (Reference 12). Since the advent of 
+digital control of external devices, this information is expressed in equivalent bits per 
+4 Mechanical device as used here represents any limb-operated interface, such as a mouse or touchscreen. 
+UNCLASSIFIED/ /FOR OFFI&IAk W&E 8Ptk¥ 
+5

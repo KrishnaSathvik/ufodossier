@@ -1,0 +1,46 @@
+UNCLASSIFIED/ /P'OR: OP'Pl@IAL WS& 0NI.¥ 
+An enzyme-gel is applied in a thin layer over a electrically biased metal electrode. An 
+electrical current flows through the electrode when the hydrogen peroxide produced by 
+the glucose reaction is decomposed and causes an electrical current to flow. If there is 
+a fixed concentrat ion of glucose present, a corresponding amount of peroxide will be 
+produced, and this can be measured by the electrical current flow. The amount of 
+peroxide measured is an indicator of the glucose concentration. The actual amount of 
+analyte consumed by a small BioMEMS sensor is exceedingly small and has no 
+significant effect on the local concentration. 
+Figure 11 shows a MEMS implementation of a blood glucose sensor using this kind of 
+approach (Advanced Biosensors Inc). The fine needle geometry is generally meant for 
+insertion into tissue. This device is comprised of multiple independent small sensors and 
+is actually a system of components that adds signal processing and interface electronics 
+to allow its communication with insulin pumps for automated delivery of insulin based 
+on patient need. 
+Adva nced BioSe nsors blood glucose sensor 
+- Flip chip asse mbly 
+AS ICs , power sources and circui componen s 
+Sepa ra e sensors, moun wi h electrical 
+connec ions, add he bioco mpa ible polymer, 
+asse mble he sensor pa ch. 
+Th e sensor base d on glucose oxidase reaction 
+wi h blood plasma from capillaries in h e dermis. 
+- b iochemical coa ing - sensor in place 3 - 7 days 
+- Dock ing par for elec ronics asse mbly wi h 
+amplifier, ADC , wireless transceiver, power source 
+- e ncryp ed digi al da a to wristwa ch-sized 
+morn or/reco rder module 
+In fu ure combine the CG S wi h an insulin pump long x 200 u Ide o produce a close d-loop sys em-a n artificial 
+pancreas . 
+. • - ' • 
+•· -~-s
+. . -• - - - 2-
+Figure 11. An Experimental MEMS Blood Glucose Sensor 
+Glucose sensors based on electrical measurement of hydrogen peroxide products have 
+been found to have the significant problem of a drifting baseline over time. It is difficult 
+to maintain calibration of the sensors, and the electrode is affected by proteins and 
+other substances in the blood stream. Although this sensing approach has had some 
+success, its longevity in the body is much less than desired; sensors based on this 
+approach decay alter a few days of use. 
+THERMOPILE IMPLANTABLE GLUCOSE SENSORS 
+Towe et al. at Arizona State University have been working on an improved approach to 
+blood glucose sensing. It depends on the fact that the glucose oxidase reaction 
+generates a small amount of heat as indicated in the above chemical reaction. The 
+UNCLASSIFIED/ (EAR OFFICIO! !Pfli 0111.¥ 
+15

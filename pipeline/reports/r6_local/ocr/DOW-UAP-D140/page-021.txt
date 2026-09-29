@@ -1,0 +1,45 @@
+UNCLASSIFIED/ /iiOR OiiiilCI O L lallili QPIL¥ 
+same frequency, direction and phase. This situation is termed "synchro-resonance." 
+These PPF detection photons a are generated as the EM wave propagates along its z­
+axis path, which is also the path of the GWs, as shown in Figure 12. 
+The magnetic field is in the y-direction. According to the Li-Effect, the PPF detection 
+photon flux (also called the "Poynting Vector") moves out along the x-axis in both 
+directions. 
+The signal (the PPF) and the noise, or background photon flux (BPF) from the Gaussian 
+beam have very different physical behaviors. The BPF (background noise photons) are 
+from the synchro -resonant EM Gaussian beam and move in the z-direction, whereas the 
+PPF (signal photons) move out in the x-direction along the x-axis. 
+The PPF signal can be intercepted by electromagnetic-interference-shielded microwave 
+receivers located on the x-axis (isolated from the synchro-resonance Gaussian EM field, 
+which is along the z-axis). In addition, isolation is further improved by cooling the 
+microwave receiver apparatus to greatly reduce thermal noise background (Baker, 
+Stephenson and Li, 2008a). 
+The resultant efficiency of detection of HFGWs is very much greater than from the 
+inverse Gertsenshtein effect, which has been exploited in some previously proposed 
+HFGW detectors and found to have insufficient sensitivity to HFGWs (Eardley, et al., 
+2008). The amplitude of the PPF has space accumulation dependence-that is, it is 
+proportional to the length of the wave overlap . This is because the GWs (gravitons) and 
+EM waves (photons) have identical propagation velocities, so that the two waves 
+overlap synchronously and coherently throughout and their interaction is cumulative 
+(Boccaletti et al., 1970; Delogi and Mickelson, 1977). This is the synchro-resonant 
+condition or Li-effect. This means that for maximum signal, the interaction overlap 
+coupling must be as long as possible . It should be noted that the identification of this 
+coupling or Li-effect, upon which the Li-Baker HFGW detector is based, is not so new 
+that it is untested in the literature. At least nine peer-reviewed research publications 
+concerning the theory have appeared following Li, Tang and Zhao (1992), including 
+those by Li and Tang (1997), Li et al. (2000), Li, Tang and Shi (2003), Li and Yang 
+(2004), Li and Li (2006), Li and Baker (2007), Li, Baker and Fang (2007), Baker, 
+Stephenson and Li (2008a), and Li et al. (2008). 
+2.2.3 Quantum Back-Action Limit 
+The Standard Quantum Limit (SQL) will be introduced and reviewed in this section 
+(Stephenson, 2009b), and design of the Li-Baker HFGW Detection System will also be 
+reviewed to understand how the SQL might limit the sensitivity of this new type of GW 
+detector. 
+Review of the Standard Quantum Limit 
+The Standard Quantum Limit (SQL) is often defined as "The limit on measurement 
+accuracy at quantum scales due to back-action effects." But what is "back-action"? (See 
+Kippenberg and Vahala, 2008.) From Clerk (2008) the Heisenberg Uncertainty Principle 
+is 
+(&') X (Lip) > fl/2 (3) 
+UNCLASSIFIED/ /FOR CiiiilCl.t..k 1!191!!! tJfltf 
+16

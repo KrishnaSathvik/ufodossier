@@ -1,0 +1,42 @@
+UNCLASSIFIED1/FOR 8ffl@IAL tt91! e"t I 
+Ult truck opercrtl ng profile 
+35 ~ ::.::.-=--=--=--=--=---------- ~~===--=--~ 
+f ~ JJI - - -'~ ~~~ J [~~ J1L 
+J! l 0 Fuel-<.ell output 
+5 
+0 t--""ffltTft''Mt---itlr--"'fflltM----,-m-rimr,,,_"'""rrm--tt-,-i 
+- 5 
+- 100 l 2 
+Scuru : G IHydrogen lime (hr) 
+Figure 6. Ultracapacitor Use in a Forklift. Ultracaps provide energy storage upon descent of a load and deliver 
+peak power to lift heavy loads in fuel cell powered forklifts. 23 
+Grid storage management is gaining more visibility as energy conservation and 
+efficiency are becoming increasingly important. Many utility power sources generate a 
+relatively continuous supply of electr icity. The generated power is matched to expected 
+use statistics. Daytime use and nighttime rest periods can cause power shortages or 
+generate unused power if not managed efficiently. This is especially true during the hot 
+summer months or heat waves, where air conditioning loads can tax a system. 
+Ultracapacitors can store excess power generated in the night, which can then be 
+delivered when insuffic ient power is available to match the daytime needs. Distributed 
+power sources such as wind and solar require a higher level of operational efficiency 
+with a fluctuating power supply. Wind farms experience power fluctuations due to wind 
+shear or lack thereof. These spikes in power generation may be wasted on a system ill­
+equipped to handle the burst of power delivered. During periods where wind may be 
+lacking, ultracapacitors can be used to help create a more stabilized power supply. 
+TRANSPORTATION 
+Earliest uses of ultracapacitors were in motor startup for tanks and submarines. Early 
+adoption by the military led to cost reductions, which was a critical enabler for 
+incorporation into diesel trucks and railroad locomotives . Ultracapacitors are find ing use 
+in transportation in engine startup, braking systems, acceleration, and waste-energy 
+harvest ing. Ultracaps have been placed in rail cars to generate power for acceleration 
+and recapture it during braking. In some cases, they are placed alongside the tracks, 
+and t he power management is hosted by the rail stations. 
+The ability to absorb and discharge energy rapidly makes ultracapacitors far better than 
+batteries for regenerative braking schemes. Most of these applications have been in 
+public transportation. Regenerative braking can recuperate as much as 38% of the 
+propulsion energy when used in an ultracap/battery hybrid configuration. Electric hybrid 
+public buses were some of the first adopters of ult racapacitors for automotive 
+transportation. These buses also use ult racaps for acceleration, which enables a much 
+faster acceleration. 
+UNCLASSIFIEO/fFOA OFFI&I:.l.b YS& ONLY 
+14

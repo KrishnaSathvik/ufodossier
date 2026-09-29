@@ -1,0 +1,42 @@
+UNCLASSIFIED/ /P81t errl@IAL ~SI! 8HL'I 
+VIII. Superluminal and Retrocausal Nonlocal 
+Communication 
+As mentioned in the previous section, we will assume for the sake of discussion that 
+nonlocal signaling is possible and will consider its implications for the speed of 
+transmission of signals. For definiteness, schemes for doing this are based on the slit­
+imaging coincidence-free version of the Ghost Interference experiment described above 
+and shown in Figure 7. In that system, the instant at which a nonlocal signal is sent is 
+the arrival of the VLP photon at the fiber-optic system on the left, and the instant at 
+which the signal is received is the arrival of the HLP photon at the camera at the 
+bottom of the diagram. Assuming the workability of this scheme, both the instants of 
+sending and of receiving can be delayed, in principle, by the introduction of delay 
+paths-for example, runs of fiber-optic cables-in the system. 
+In particular, the "send" instant could be made to occur well after the "receive" instant 
+in the system, constituting a direct demonstration of retrocausal signaling. This is 
+shown in Figure 10. Here the cleanup two-slit system S2 becomes the entrance for two 
+10-km-long runs of fiber-optics that are carefully matched to have identical exit phases 
+at SJ, the end of the fiber runs where the light enters the optical switching arrangement 
+described above. If the index of refraction of the fiber is 1.5, light transiting the 10-km 
+path requires about 50 µs. In the presence of detection noise or the degradation of 
+pattern visibility because of compromises between entanglement and coherence, 
+considerably more photon detection events-say 100-might be required. 
+10km 
+Apertures 10km 
+Image Slits 
+Path lo Lens =f 
+IR Pass 
+Filler 
+HIJ> 
+702 nm 
+0!¥ctSlits 
+BBO 
+VLP 
+JSI nm 
+Path to Lens= f S1 
+Camera 
+u 1 n 
+[/SJ 
+Figure 10. Slit-Imaging Coincidence-Free Version of the Ghost Interference Experiment Demonstrating 
+Superluminal and Retrocausal Signaling 
+UNCLASSIFIED/ /FOlil OFFI&il.t.k W&lii 8Nk¥ 
+17

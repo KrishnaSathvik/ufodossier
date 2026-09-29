@@ -1,0 +1,49 @@
+UNCLASSIFIED/ /FOR OFFI&iIAk W&li OPlklf 
+I. Quantum Entanglement , Nonlocality , and EPR 
+Experiments 
+In the quantum mechanical description of elementary entities like photons, there is a 
+duality between the description as a particle and as a wave. Photons can be thought of 
+as traveling through space as waves but delivering energy (and other conserved 
+quantities) at detection as particles. By choosing the kinds of measurements made on 
+such objects, one can force wave-like or particle-like behavior to be exhibited in the 
+measurements results. Between the entangled parts of a quantum system (for 
+example, the emission of a pair of entangled photons), this wave-like or particle-like 
+behavior in a measurement on one part of the system may force similar behavior in the 
+other part. This is considered further in Section IV below. 
+The quantum entanglement condition is usually a consequence of some conservation 
+law acting within the system, so that the subsystems are connected by the conserved 
+quantities. For example, if two photons are emitted back to back in a joint state that 
+has zero angular momentum and positive parity, then whatever linear or circular 
+polarization state one photon is measured to have, the other photon must have an 
+identical polarization if measured in the same basis (linear or circular). This condition 
+must exist to ensure that the net angular momentum of the two photon states is zero. 
+In this situation, if the photons are measured for circular polarization, they must both 
+be in states of right circular polarization or in states of left circular polarization. Because 
+linear polarization is a coherent superposition of circular polarization states, if measured 
+in the vertical/horizontal linear polarization basis, they must be in the same vertical or 
+horizontal polarization state, and in the 45° left or right linear polarization basis, they 
+must be in the same 45° left/r ight polarization state. 
+Classically, such a polarization correlation condition could in principle exist in some 
+particular polarization basis but not in all of the many possible polarization bases 
+simultaneously. This is the underlying physics of the Bell Inequalities (Reference 8), 
+which deal with the falloff rate of the correlations as the polarization basis of one of the 
+measurements is rotated in angle. The Bell Inequalities demonstrate mathematically 
+that the predictions of semi-classical local hidden-variable theories are inconsistent with 
+those of standard quantum mechanics. Tests of such polarization correlations have 
+been the basis for a number of Bell-Inequality tests (or so-called EPR experiments), in 
+which the validity of the predictions of quantum mechanics and the inadequacies of 
+semi-classical local hidden-variable theories have been demonstrated to high statistical 
+precision (Reference 1, 2) . 
+It was later demonstrated (Reference 5, 6) that the issues surrounding a violation of 
+the Bell Inequalities could be separated into violations of either parameter 
+independence (the outcome probability of a measurement on one of a pair of entangled 
+particles is independent of the choice of parameters of a measurement performed on 
+the other member of the entangled pair) and violations of outcome independence (the 
+outcome probability of a measurement on one of a pair of entangled particles is 
+independent of the outcome of a measurement performed on the other member of the 
+entangled pair). The observation of a violation of the Bell Inequalities indicates a 
+violation of either parameter independence or outcome independence (or both). 
+Outcome independence is fairly evident in the quantum formalism, while parameter 
+independence is more elusive and depends on specific assumptions. Below, the 
+UNCLASSIFIED/ /rOR. 0rr1e11et U:!I! OHL I 
+1

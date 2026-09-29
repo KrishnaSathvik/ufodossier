@@ -1,4 +1,5 @@
 import Image from "next/image";
+import { releaseLabel } from "@/lib/labels";
 
 interface DocumentCardProps {
   document: {
@@ -8,6 +9,7 @@ interface DocumentCardProps {
     cover_image_url: string;
     page_count: number | null;
     agency: string | null;
+    release?: number | null;
   };
 }
 
@@ -22,6 +24,7 @@ export function DocumentCard({ document: doc }: DocumentCardProps) {
       <div className="relative overflow-hidden bg-bg-quiet" style={{ height: "280px" }}>
         <Image
           src={doc.cover_image_url}
+          unoptimized={doc.cover_image_url.includes("war.gov")}
           alt={`Cover of ${doc.filename}`}
           fill
           sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
@@ -41,6 +44,7 @@ export function DocumentCard({ document: doc }: DocumentCardProps) {
           {truncateFilename(doc.filename)}
         </h3>
         <div className="mt-1 flex items-center gap-3 text-xs text-ink-faint">
+          {doc.release ? <span className="font-mono">{releaseLabel(doc.release)}</span> : null}
           {doc.page_count && <span>{doc.page_count} pages</span>}
           {doc.agency && <span className="font-mono uppercase">{doc.agency}</span>}
         </div>

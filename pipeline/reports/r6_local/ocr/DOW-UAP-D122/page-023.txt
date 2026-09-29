@@ -1,0 +1,33 @@
+UNCLASSIFIED/ /POROPPICTAT USE ONLY
+
+dimensional plane, one can use the stereographic projection, the central ingredient of
+the Mercator projection in cartography that is used to map the surface of a round
+object, the Earth, onto a flat sheet of paper.
+
+A line drawn from the North Pole of the sphere through a point on the surface intersects
+the equatorial plane at one point. This point is the stereographic projection of the point
+on the sphere. Figure 19 shows that the stereographic projection of a circle on the
+sphere is a circle on the plane with a different radius. The stereographic projection
+distorts the measure of space, but the distortion around any given point is the same in
+all directions, because otherwise circles would be deformed. Therefore, an optical
+material that implements the geometry of the sphere via the stereographic projection
+must be isotropic. One can read off the required refractive index from the drawing as
+follows: in virtual space, on the sphere, light propagates at the speed of light in vacuum
+from a point to its infinitesimally close neighbor; in physical space the distance between
+the two infinitesimal neighbors is modified—the speed of light is changed by the
+refractive index that is given by the ratio between infinitesimal distances in virtual
+space and the corresponding distances in physical space. For the stereographic
+projection, the refractive index is smaller than 1 for points on the northern hemisphere
+and larger than 1 on the southern hemisphere. This device is known as Maxwell's fish-
+eye lens.33 In this lens, light follows the great circles, light goes around in circles, and
+light rays meet at antipodal points; the fish-eye makes a perfect lens (although a fairly
+near-sighted one). It is possible to extend these ideas to three-dimensional curved
+spaces. For example, the surface of the four-dimensional sphere is a three-dimensional
+curved space, and the device implementing this hyperspace object is just a three-
+dimensional fish-eye. Hyperspace is not out of this world; it can be built, and it turns
+out to be practically useful for invisibility.34
+
+Figure 19. Stereographic Projection
+
+18
+UNCLASSIFIED/ /

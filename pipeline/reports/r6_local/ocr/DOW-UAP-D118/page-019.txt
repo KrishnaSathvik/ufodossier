@@ -1,0 +1,48 @@
+UNCLASSIFIED/ /FOA QFFl&IAb 1!181!! OHtV 
+products may be both cheaper than, and of superior quality to, those produced by the 
+aerospace industry. 
+Assuming this trend holds true across the next four decades and applies even to exotic 
+technologies such as programmable materials, it is logical to suppose that consumer 
+applications such as smart windows and multispectral night-vision sensors are more 
+likely to spin off to the aerospace industry than the reverse. Therefore, advancement of 
+smart materials technology for aerospace applications will likely depend on research 
+and development for consumer applications. In addition, the "low-hanging fruit" 
+applications, with the largest markets and thus the highest profit potential, will have 
+the greatest accelerant effect on the technology. 
+Therefore, near-term applications such as smart windows and energy-saving 
+metapolarizers, which offer direct and immediate economic advantages (namely energy 
+savings) and which dovetail neatly with existing infrastructure, should be considered 
+the most promising for research over the next 5 years. 
+Over the longer term, a number of problems must be overcome for fully programmable 
+material devices to be constructed. In the case of metamaterials, the primary challenge 
+is fabrication. Numerous nanopatterning techniques have been developed for producing 
+regular patterns on a surface, including grids, gratings, and patterns of dots or holes. 
+However, the resonant properties of metamaterials typically require more complex 
+structures that are not easily mass produced on the scales necessary for optical 
+wavelengths-typically 100 nanometers or less, and often as little as 10 nanometers. 
+Promising candidate technologies include nanoindentation lithography, extreme 
+ultraviolet photolithography, and photolithography using metamaterials-based 
+"superlenses." Liquid crystal technology is more mature, but to survive in the harsh 
+environment of outer space, it may need to evolve higher resistance to ultraviolet and 
+other forms of ionizing radiation, 
+Perhaps the most promising long-term technology is the addressable quantum dot 
+array. However, for broadly programmable applications-particularly in aerospace-the 
+issue of temperature sensitivity must be brought under control. This may involve direct 
+temperature control of the active surfaces or development of high-bandgap material 
+systems for which the coefficient of thermal expansion and bandgap versus 
+temperature slope are both small, In addition, shielding the metallic nanostructures 
+against interference from stray electric or magnetic fields will be very important and 
+may rely on as-yet-undeveloped techniques or materials (for example, high­
+temperature superconductors), 
+However, the vast potential of programmable materials and devices, as well as the 
+clear advantages they hold in certain earthly and aerospace applications where 
+traditional material limitations clearly constrain functionality, should not be 
+underestimated. Building and vehicle skins, sensors, and windows are three areas that 
+particularly lend themselves to enhancement with multifunctional materials, and the 
+commercial advantages of developing these will be considerable. As with transistors, 
+LEDs, LCDs, integrated circuits and other late 20th century technologies, the economic 
+imperatives are likely to overcome many significant technological barriers, and by 2050 
+it seems likely that our grandchildren will have difficulty imagining a world where these 
+objects are made from traditional, inert materials. Their relationship to material objects 
+UNCLASSIFIED//liQA QFFIGIAk Wlii a,...v 
+15

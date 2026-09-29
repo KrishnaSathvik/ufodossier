@@ -1,0 +1,57 @@
+8 
+'1 00 
+000 
+o 
+- 0 
+2 I .u.) 
+UNCLASSIFIED/? FOR. OPPl@IAL YSI: e ..tv 
+Lifetime shortening owing to cyclotron 
+extremely low density and excellent 
+thermal insulating properties. It is 
+composed of strands of SiO2 (silica) 
+grains suspended in a gel that has been 
+dried and expanded by injection of gases 5-Tesla Magnetic Field and 100 V/ cm Electric Field 
+(1 a.u. = 0.052 nm) {courtesy University ofto a very-low-density configuration of 
+Bielefeld, Germany) 74
+large voids within an irregular lattice of 
+silica strands (Figure 22). Silica aerogel is 
+available commercially with typically 20-nanometer average voids. Recent research has 
+produced silica aerogel with up to 1-micrometer void sizes. 
+Experiments in Japan and at Positronics 
+Research LLC33 with low-energy positrons 
+in silica aerogel show a high efficiency 
+(~35 percent) for making Ps through the 
+interaction of the positron with silica 
+grains. High radiation exposure from 
+positrons implanted in the material result 
+in it becoming "paramagnetic," 
+permanently at low temperatures, with a 
+high density of "dangling bonds" 
+containing very loosely bound electrons 
+that explains the high efficiency for Ps 
+formation. It therefore serves a dual role 
+as source and storage medium for Ps. 
+What lifetimes might be expected working Figure 22. TEM of Silica Aerogel {courtesy 
+with this material? Lawrence Berkeley Laboratory) 
+The Ps decay rate in a porous material is given by: 75 
+'A = k'/(R - r') + 'A + 11 T q (2) 
+Figure 21. Computer Simulation of Ps Atoms in a 
+radiation of the electron and positron 
+gyrating in the magnetic field are not 
+included in this model. Because this 
+process is proportional to B2, magnetic 
+fields should be small-less than 0.1 Tesla 
+based on our computations of the effect. 
+This, in turn, renders the atom very large, 
+with up to 1-micrometer elongation. If 
+this can be verified in the laboratory, the 
+first of the two conditions laid out in the 
+previous section will be satisfied. 
+Next, it is important to identify a storage 
+medium with the largest possible voids. 
+Silica aerogel is a promising material that 
+was developed by NASA because of its 
+E X( .u. 
+2000 
+UNCLASSIFIED/fFOA QFFICIOls. H&'li Qlslls.\' 
+26

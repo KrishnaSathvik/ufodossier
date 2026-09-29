@@ -1,0 +1,36 @@
+UNCLASSIFIED/ ;'FOR: OFFI&IAk W&lii 8Pn.Y 
+Appendix C: TAV Operational Costs 
+Art Robinson was the deputy program manager for the MDC Manned Aerospace Vehicle 
+Group at MDC Astronautics, Huntington Beach. Working with Art, the St. Louis part of 
+the team prepared a work breakdown structure for servicing and maintaining an Air 
+Force transatmospheric vehicle (TAV) based on a B-52 squadron. Larry Fogel of 
+Decision Sciences visited several B-52 bases and discussed the operational concept and 
+repair/maintenance work structure with the B-52 crews and maintenance personnel. 
+The result was an estimate of the costs for operating a squadron of TAVs that had the 
+same flight frequency as the B-52 squadron. The result for the one-and-a-half-stage 
+TAV is shown in Figure 45. As might be expected, orbital operations are substantially 
+more costly than atmospheric operations (aerodynamic cruise of hypersonic long-range 
+glide). With an operational range greater than a refueled B-52, the TAV has a lower 
+cost than the once-refueled B-52. The orbital cannot be compared directly with a B-52 
+since in achieving orbit the TAV has essentially infinite cruise range and duration limited 
+only by the crew. The concept of operations was essentially that shown in Figure 37 
+installed on a U.S. Air Force SAC base. Although the SAC flight crews concentrated on 
+potential nuclear missions, the presentat ion focused on a wide spectrum of kinetic 
+penetrators installed in a rocket-accelerated entry nose cone. The terminal speed of 
+the entry nose cone was in the 12,000 to 14,000 feet/second range. At that speed the 
+energy delivered per unit weight was much greater than a spherical charge of HBX-6 
+because the kinetic energy was directly delivered to the target. The weapons spectrum 
+could address a very wide range of targets that could be disabled or made 
+nonfunctional or be destroyed with minimal collateral damage. 
+Cost $97,000,000 tmospheric Cmise 
+$251,000,000 Orbital 
+Cost $71,000,000 B-52 only* 
+140 000,000 Refueled B-52 
+Larry Fogel 
+Decision Sciences 
+*annual costs per DAA (14 vehicles) 
+Titan Corporation 
+Spring 1984 
+Figure 45. McDonnell Douglas Astronautics (Huntington Beach)-Funded Study of TAV Operational Costs 
+UNCLASSIFIED/;CFOR: OFFI&IAk W&lii 8Ptklf 
+47

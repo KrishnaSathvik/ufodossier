@@ -1,0 +1,41 @@
+UNCLASSIFIED/ /P'OR: OP'P'l@IAL WS& 8NI.¥ 
+Silver chloride 
+electrodes (0.8 mm) 
+encapsulation 
+Diode piezoelectric polymer 
+(0.9mm) (variable length 1-5 mm) 
+Figure 29. Illustration of the Internal Construction of the Ultrasound Powered Neurostimulator 
+Developed at ASU. Platinum ball electrodes at either end are the contacts to the tissue . (Towe et al.) 
+This device has been implanted in rats and shown effective in neurostimulation under a 
+wide variety of conditions. It appears suited to near-surface neurost imulations for relief 
+of pain, and in the potential treatment of a variety of nervous system disorders. 
+MEMS in Microfluidics 
+Another major area of applicat ion of BioMEMS is the control of flu ids on very small 
+scales and quantities. This capability is important in rapidly testing blood chemistry 
+from single drops of whole blood, in the laboratory for clinical chemistry, and in working 
+with very small amounts of DNA derived from cellular extracts. 
+Manufacturing small channels that 
+conduct fluids is relatively straight 
+forward using photolithography. A 
+computer generated optical mask is used 
+to expose patterns onto photoresists, 
+then a process of etching by plasma or 
+chemicals is used to carve out parts of 
+the substrate. 
+Substrates are often glass since it is 
+cheap, easily formed, and is a reasonably 
+inert and biocompat ible surface. Figure 30 
+shows some of these kinds of 
+configurations. Glass is easily etched by 
+hydrofluor ic acid, but also forms of 
+sandblasting with a fine grit have recently 
+been developed to cut holes in glass. 
+Finely carved capillaries in glass can allow 
+nanoliters or even picoliters of fluid to 
+UNCLASSIFIED/ {FOR OFFICIO! !Pfli ODIi.¥ 
+Figure 30. Microfluidics in Glass. Microfluidics In 
+glass take advantage of MEMS to produce microscale 
+devices that can do complex chemical analysis. 
+(http://www. i- micronews. com/interviews/M icronit ­
+Microfluldics-d iscusses-product -diversificatio n. html) 
+32

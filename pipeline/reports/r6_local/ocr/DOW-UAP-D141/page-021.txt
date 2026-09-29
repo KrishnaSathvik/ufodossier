@@ -1,0 +1,39 @@
+UNCLASSIFIED/ (FOR OFEICI0k YSE 8Htt 
+devices may not be appropriate in the aerospace context because of their large size, 
+power requirements, large magnetic coils, and so forth. 
+Fortunately, metamateria ls offer some exciting opportunities for slowing down 
+electromagnetic waves as has been recently recognized (Reference 30). Specifically, 
+the authors have theoretically demonstrated that an axially varying heterostructure 
+with a metamaterial core of negative refractive index can be used to efficiently and 
+coherently bring light to a complete standstill. One of the most remarkable aspects of 
+the approach is that it works for relatively broadband pulses. The broadband capability 
+is achieved through "tapering" (or axial variation) of a metamaterial's parameters such 
+as the effective e andµ. Due to tapering, each frequency component of the wave 
+packet is stopped at a different guide thickness, leading to the spatial separation of its 
+spectrum and the formation of a 'trapped rainbow'. In Reference 30, the authors have 
+actually opted for a physical tapering of the waveguide (that is, reducing the thickness 
+of the NIM waveguide along the length of the waveguide), although other approaches 
+such as varying e and p will also work. 
+Guided electromagnetic wave 
+a 
+ERHH > 0 uRHH > 0r3 , , r3 f LHH > 0 ,1LHH > 0 r3 t r3 ------! 
+)___ __ 
+f'RHH > 0 uRHH > 0r2 , , r2 l HH > o llLHH > O r2 ' ' r2 
+--+ /3 r 
+Ordinary waveguide Negative refractive index tapered waveguide 
+-+- [3 
+Figure 15. Trapped Rainbow: A Waveguide with Negative Index Core Can Stop Light. A guided wave 
+packet is efficiently injected from the ordinary waveguide to the left-handed heterostructure LHH (see also Figure 
+4 ), inside which it propagates smoothly owing to the slow (adiabatic) reduction in the thickness of the core. The 
+smallest (red) frequency components of the wave are stopped at the smallest core thicknesses of the LHH, while 
+the largest (blue) components stop at correspondingly larger core thicknesses . (Reference 30) 
+The schematic of the light-stopping structure based on the waveguide with a negative 
+index core (dubbed left-handed heterostructure, or LHH, in Reference 30 is shown in 
+Figure 14. Although light stopping is possible in other guided configurations that do not 
+necessarily requireµ to be negative (for example, a metal-dielectric-metal waveguide 
+would suffice), the key here is that perfect impedance matching can be achieved for the 
+metamaterials-based waveguides with the negative index core. That is very important 
+for maximizing the coupling efficiency from the regular waveguide to the LHH. Although 
+Reference 30 does not present any specific ideas as to what could be done with the 
+UNCLASSIFIED/ {EAR OFFICI.IJ.k Y81!!! tJflti 
+17

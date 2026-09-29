@@ -1,0 +1,120 @@
+UNCLASSIFIED / / FOR-OFFEGHH-USE-OA
+
+ourselves to the simpler uniform distribution instead,
+as shown in the nest section.
+
+4. STEP 4; ASSUMING THE EASIEST
+INPUT DISTRIBUTION FOR EACH D;:
+THE UNIFORM DISTRIBUTION
+
+Let us now suppose that each of the seven D; is
+distributed UNIFORMLY in the interval ranging
+from the lower limit a; 20 to the upper limit
+b; = a;.
+
+This is the same as saying that the probability
+density function of each of the seven Drake random
+variables D, has the equation
+
+Fonitormp, (x)= with 0< a; <x<b, (10)
+
+i 4;
+
+as it follows at once from the normalization condition
+b;
+FonitemD, (x) dx=1. (11)
+
+ay
+
+Let us now consider the mean value of such
+uniform D; defined by
+
+; b, 1 b,
+(uniform_D,) = } x FunitiemD, (x) dx = 5 } x dx
+
+a; 3 — a; 4;
+
+By words (as it is intuitively obvious): the mean
+value of the uniform distribution simply is the mean
+of the lower plus upper limit of the variable range
+
+a; +b;
+2,
+
+(uniform_D;) = (12)
+
+In order to find the variance of the uniform
+distribution, we first need finding the second moment
+
+3 by
+(uniform_D,”) = [ = Fuatsineg 0, (x) dx
+
+b,
+1 b 4 f lee b? —a}
+= } x” dx= —| =—-
+b; — a; 4a; b;-a;| 3 a 2 (b; -a;)
+
+be
+
+_(b,-a,)(a2 +0;b, +62) a? +a,b, +B?
+7 3 (b; a; ) 7 3
+
+The second moment of the uniform distribution is
+thus
+
+2 2
+_at a,b; +b;
+
+13
+3 (13)
+
+(uniform_D,*)
+
+From (12 and (13) we may now derive the variance
+of the uniform distribution
+
+2 ve 2 “6 2
+OunitormD, = (uniform_D, )- (uniform_D; )
+
+2 2 2 2
+Gi +a;,b; + bj _ (a, +5;)) _ (6-4) (14)
+3 4 12
+Upon taking the square root of both sides of (14), we
+finally obtain the standard deviation of the uniform
+distribution:
+
+b; - a;
+O uniform_D, ea a3 i
+
+(15)
+
+We now wish to perform a calculation that is
+mathematically trivial, but rather unexpected from
+the intuitive point of view, and very important for our
+applications to the statistical Drake equation. Just
+consider the two simultaneous equations (12) and
+(15)
+
+(uniform_D, ) =i a
+
+_ 5-4; (16)
+© uniform D, ~ 2/3 :
+
+Upon inverting this trivial linear system, one finds
+
+a; = (uniform_D;) - 3 O uniform D,
+
+, 17
+b= (uniform_D, ) +3 Suniform_D, a
+
+This is of paramount importance for our application
+the Statistical Drake equation inasmuch as it shows
+that:
+
+if one (scientifically) assigns the mean value and
+standard deviation of a certain Drake random
+variable Dj, then the lower and upper limits of the
+relevant uniform distribution are given by the two
+equations (17), respectively.
+
+UNCLASSIFIED/ (POR "OFFECEAEUSE-ONEY

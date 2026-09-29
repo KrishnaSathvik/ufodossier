@@ -1,0 +1,48 @@
+UNCLASSIFIED/ fFOA OFFIEIA~ W&li QPI~¥ 
+gravitational squeezing of the vacuum in the laboratory for the purpose of inducing an 
+antigravity effect for propulsion applications. 
+QUANTUM VACUUM FIELD STRESS: NEGATIVE ENERGY FROM THE 
+CASIMIR EFFECT 
+The Casimir effect is by far the easiest 
+and most well known way to generate 
+negative energy in the lab. The Casimir 
+effect that is familiar to most people is 
+the force that is associated with the 
+electromagnetic quantum vacuum 
+(Reference 85). This is an attractive 
+force that must exist between any two 
+neutral (uncharged), parallel, flat, 
+conducting surfaces (for example, 
+metallic plates) in a vacuum . This force 
+has been well measured and it can be 
+attributed to a minute imbalance in the 
+vacuum electromagnetic zero-point 
+energy density inside the cavity between 
+the conducting surfaces versus the 
+vacuum electromagnetic zero-point 
+energy density in the free-space region 
+outside of the cavity (Reference 86-88). 
+See Figure 4 for an illustration of this Fi ure 4. Illustration of the Casimir Effect 
+effect . 
+It turns out that there are many different types of Casimir effects found in quantum 
+field theory (Reference 34-36,40,89). For example, if one introduces a single infinite 
+plane conductor into the Minkowski (flat spacetime) vacuum by bringing it adiabatically 
+from infi nity so that whatever quantum fields are present suffer no excitation but 
+remain in their ground states, then the vacuum (electromagnetic) stresses induced by 
+the presence of the infinite plane conductor produces a Casimir effect. This result holds 
+equally well when two parallel plane conductors (with separation distance d) are 
+present, which gives rise to the familiar Casimir effect inside a cavity. Note that in both 
+cases, the spacetime manifold is made incomp lete by the introduction of the plane 
+conductor boundary condition(s). The vacuum region put under stress by the presence 
+of the plane conductor(s) is called the Casimir vacuum. The generic expression for the 
+energy density of the Casimir effect is PcE =- Ahc / d 4 , where A= ~(D)/8rc2 in spacetimes of 
+arbitrary dimens ion D (Reference 34-36). The appearance of the zeta-function ~(D) is 
+characteristic of expressions for vacuum stress-energy tensors, r:~; .In our familiar 4-
+dimensional spacetime (D = 4) the equation exists A= rc2/720. To calculate r.,~; for a 
+given quantum field is to calculate its associated Casimir effect. 
+Analogs of the Casimir effect also exist for fields other than the electromagnetic field. 
+When considering the vacuum state of othe r fields, one must consider boundary 
+conditions that are analogous to the perfect-conductor boundary conditions for the 
+electromagnetic field at the surfaces of the plates (Reference 34-36,40). Other fields 
+UNCLASSIFIED/ /FOA OFFI&IAk Yi& 8,.k\f 
+31

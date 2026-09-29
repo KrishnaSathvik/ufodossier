@@ -1,0 +1,43 @@
+UNCLASSIFIED/ fFOA OFFIEIA~ W&li QPI~¥ 
+theoretical possibility of antigravity also appears in quantum gravity theories, 
+cosmological vacuum or dark energy, and quantum field theory. This report reviews all 
+of these top ics. The report will also review the topics of grav ity control that include the 
+production of antigravity (self-lifting) forces induced by quantum vacuum zero-point 
+energy and by nonretarded quantum interatomic dispersion forces in a curved 
+spacetime (that is, in a background gravitational field). The reader should bear in mind 
+that many of these concepts are nowhere near having any form of practicable 
+engineering imp lementat ion. However, the report will provide theoretical estimates to 
+guide the way toward technologica l implementation of antigravity. 
+II. Concepts for Antigravity Within Newtonian Physics 
+The basic form of Newton's law of gravity is given by the standard expression for the 
+gravitational force {Fgrav) that mutually acts between two masses (Reference 1): 
+(1) 
+where the negat ive sign indicates t hat Fgrn" is a (mutual) force of attraction, G is 
+Newton's universal gravitation constant (6.673 x 10-11 Nm2/kg 2), m 1 and m 2 are two 
+interacting masses, and r is the radial distance between the two masses (note: MKS 
+units are used throughout). Observe in Equation (1) that the force of gravity acting on 
+a small test mass becomes stronger when the other (gravitating) mass is larger in 
+magnitude or when the distance between them is very small, or both. Also recall that 
+Equation (1) and Newton's second law of motion (F = ma) to define the magnitude of the 
+gravitational acceleration a8 that acts on a small test mass m due to a larger 
+(gravitating) mass M (Reference 1): 
+GM 
+a g = - ?­ (2)r-
+If Earth is chosen to be the larger gravitat ing mass so that M = M@ (5.972 x 1024 kg), 
+then according to Equation (2) a small test mass m placed near the Earth's surface, 
+whereby r~ R @ (6.378 x 106 m), will experience a downward grav itational acceleration 
+of a g = g = 9.81 m/s 2 . 
+NEGATING NEWTONIAN GRAVITY 
+It is possible to design an antigravity machine that can nullify Earth's gravity field using 
+Newton's law of gravity . One way to use Equation (1) to nullify the Earth's gravitational 
+pull at a particular location would be to locate another planet of equal mass above that 
+location (Reference 2,3). The forces from the two Earth masses will cancel each other 
+out over a broad region between them . Everything within this broad region will be in 
+free fall. However, this is not a practical solution for aerospace flight since there is no 
+way to manipulate and control another planetary sized body. 
+Along similar lines, Forward (Reference 2,3) suggested to consider using a ball of 
+ultradense compact matter, corresponding to dwarf star or neutron star matter (~ 1011 
+- 1018 kg/m 3 ), having a diameter of 32 cm and a mass of 4 million metric tons. This 
+ultradense ball will have a surface gravitational (attractive) force of 1-g. This small 
+UNCLASSIFIED/ /FOA OFFI&il.t.k Y&li 8,.LY 
+2

@@ -1,0 +1,32 @@
+UNCLASSIFIED/ fFOA: OFFI€1.t.k YSE &P•tv 
+Helium 
+Refrigerator 
+Controls 
+I ◄ tom-.{ 
+Figure 9. Elements of the 2 kW FEL at Thomas Jefferson National Accelerator Facility 
+Like chemical lasers, FELs have the potential to produce megawatt class average 
+power. Unlike chemical lasers, FELs do not rely on potentially hazardous chemical 
+reactions to generate a beam but they do require an electrically powered RF linear 
+accelerator which is cooled to superconducting temperatures by a large refrigerator. 
+Precise control of many megawatts of circulating relativistic electron beam is also 
+needed. Many large RF linear accelerators have been built around the world for 
+research purposes but all are laboratory devices. A small particle accelerator has been 
+ruggedized and flown in space but never used operationally in a military environment. 
+It remains to be seen if the significant technical issues associated with average power 
+scale-up can be resolved in the laboratory and then engineered to function in a military 
+environment such as on-board a ship. 
+Beam Control and Atmospheric Propagation of Laser 
+Devices 
+Referring back to Figure 2, the beam control system includes that portion of the 
+weapon system which generates the HEL beam inside the laser gain generator, relays 
+and aligns it through the optical train, expands it using the pointing telescope, and then 
+focuses it at the range of the target. It also contains the sensors and trackers which 
+acquire the target and hold it stably in the field of view. Since the HEL beam's spot on 
+the target is generally much smaller than the target, the beam control system must 
+identify the desired aim point on the target and place the HEL beam there for a 
+sufficient duration to inflict damage . If wavefront sensors and deformable mirrors are 
+used to improve the laser's beam quality (referred to as "local loop" adaptive optics) or 
+to compensate for atmosphere distortion (referred to as "target loop" adaptive optics), 
+then they are also part of the beam control system. If the propagat ion path is 
+UNCLASSIFIED/ fFOA OFFI€l.t.k YSE 8,.L\f 
+12

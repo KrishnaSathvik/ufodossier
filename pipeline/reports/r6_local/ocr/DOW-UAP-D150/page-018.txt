@@ -1,0 +1,36 @@
+UNCLASSIFIED/ /FOR. OFFI@IAI: l48E OHi:¥ 
+Graphene Disc in Bilayer Graphene 
+Bilayer graphene is the two-layer analog of the single layer. The two sublattices are coupled 
+by the so-called Bernal stacking. A voltage V between the two layers breaks inversion 
+symmetry (like the mass term ti in the single layer) and opens a gap proportional to the 
+voltage. In addition, the combination of a top gate and a back gate allows tuning the gap and 
+the average potential U(r) independently. 
+A central issue, from a computational electronics perspective, is to quantitatively study the 
+condensed state. In materials-based device models, one has an underlying Hamiltonian, such 
+as an ab initio Hamilton ian .m 
+In principle, the excitonic condensate emerges from the interacting particles described by the 
+Hamiltonian. It is shown that both true bound states and quasi-bound states occur, 
+depending on the form of the potentials. In addition, there is a third and most interesting 
+possibility where the character of the states depends on the parameters of the potentials and 
+can be controlled at will. A confinement-de-confinement transition then occurs in which the 
+character of the states changes from oscillatory to exponential as in the Klein paradox for 
+particles with mass. This gives a way of probing the Klein paradox experimentally in a solid 
+state system and numerical studies of the quantum states in a realistic dot model show it is 
+feasible. Further, the same effect could be used to fabricate a graphene dot which has true 
+bound states. This only requires a uniform magnetic field and a gate which can be made 
+lithographically, a geometry that is much easier to fabr icate than the non-uniform magnetic 
+field geometry. 
+The relativ istic nature of the transmission, exactly 100%, does not depend on E and Vo is a 
+consequence of the zero mass. If the particles had mass mo, the energy-momentum relation 
+would be (E - V)2 - p2c2 = mo2c4 and the amplitudes of the wave function components in 
+equat ions of mot ion would depend on k or k' and mo. Then the right side amplitude in 
+equations would be different from the left side amplitude, so a reflected wave would have to 
+be introduced to satisfy the boundary condit ion at x = 0 and the transmission coefficient 
+would not be 100%. 
+bilayer aph · ne op gat 
+f 
++ + + + + + + + 
+Figure 5. Quantum dot in bilayer graphene . 
+m Ab initi o Hamiltonian is one derived from first principles. 
+UNCLASSIFIED/ ;'FOR. 8FFl@IAL U9I!! eHt I 
+17

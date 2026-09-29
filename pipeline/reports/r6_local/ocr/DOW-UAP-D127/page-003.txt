@@ -1,0 +1,23 @@
+UNCLASSIFIED/ /POil OFFl@IAL WSli 0Nk¥ 
+Contents 
+1. Introduction ....................................................................................................... iv 
+2. The Key Question: How Far are They ? .............................................................. 4 
+3. Computing N By Virtue of the Drake Equation (1961) ........................................ 7 
+4. The Drake Equation is Over-Simplified ............................................................. 10 
+5. The Statistical Drake Equation ......................................................................... 11 
+6. Solving the Statistical Drake Equation By Virtue of the Central Limit Theorem 
+(CLT) of Statistics .......................................................... , .................................... 13 
+7. An Example Explaining the Statistical Drake Equation ..................................... 15 
+8. Finding the Probability Distribution of the Et-Distance By Virtue of the Statistical 
+Drake Equation ................................................................................................. 18 
+9. The "Data Enrichment Principle" as the Best CLT Consequence Upon the 
+Statistical Drake Equation (Any Number of Factors Allowed) ........................... 23 
+10. Conclusions .................................................................................................... 23 
+Appendix A: Proof of Shannon's 1948 Theorem Stating That the Uniform 
+Distribution is the "Most Uncertain" One Over a Finite Range of 
+Appendix B: Original Text of the Author's Paper #IAC-08-A4.1.4 Entitled the 
+Values ............................................................................................. 25 
+Statistical Drake Equation ............................................................... 28 
+References ........................................................................................................... 55 
+UNCLASSIFIED/ fEOR OFFICIO! 11SF ON! X 
+iii

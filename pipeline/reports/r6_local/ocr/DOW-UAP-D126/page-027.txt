@@ -1,0 +1,40 @@
+UNCLASSIFIED/ ,<FOA QFFl&I.t.k WSli 8,.kV 
+enough to entrap the charged DD fusion products within the target. Only then is the 
+condition for a propagating thermonuclear burn fulfilled. 
++ 
+V Input 
+Figure 7. Ordinary Marx Generator. In an "ordinary" Marx generator n capacitors C charged up to the voltage v, 
+and are over spark gaps switched into series, adding up their voltages to the voltage V = nv. 
+s~~s,.;i h-,s s~ h--os 
+ourdr l. I I l. l.11 l. o- -- -o l. I I l. o--o•Su1>4rHII 
+~ r.a Tij ~ r.a .. 
+I 
+rIRf I 
+rIRf 
+.. 
+' 
+rI·f 
+I I I I I I 
+Fast Capacitors as 
+Fusion Target Chamber .........__ 
+Coaxial Transmission Lines 
+Figure 8. Super Marx Generator. In a Super Marx 
+generator, N Marx generators charge up N fast 
+capacitors FC to the voltage V, which switched into 
+series add up their voltages to the voltage NV. 
+Figure 9. Artist's Conception of a 1.5-km-Long 
+Super Marx Generator. Composed of 100 x 15-meter­
+long high-voltage capacito rs, each designed as a 
+magnetically insulated coaxial transmission line. The 
+coaxial capacitors/ transmission lines are placed inside a 
+high-vacuum vessel. Each capacitor/transmission line is 
+charged up by two conventional Marx generators 
+symmetrically to 10 MV (± 5 MV). After charge-up is 
+completed, the Marx generators are electrically 
+decoupled from the capacitors/transmission lines. The 
+individual capacitors/transmission lines are 
+subsequently connected in series via spark gap switches 
+(that is, the "Super Marx" generator), producing a 
+potential of 1 GV. 
+UNCLASSIFIED/ /FOR OFFl@IAL Y!H! OHL'/ 
+21

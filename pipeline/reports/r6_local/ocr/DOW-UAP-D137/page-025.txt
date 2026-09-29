@@ -1,0 +1,27 @@
+UNCLASSIFIED/ fFOA OFFl&I.t.k YSE &P•tv 
+Figure 17. The Advanced Tactical Laser C-130 Aircraft 
+Laser-Material Interaction 
+Laser radiation, with the exception of ultra-short pulse, damages materials by rapidly 
+depositing heat on the target's surface. The field of laser effects/lethality studies this 
+interaction at levels ranging from basic energy transfer physics to how specific military 
+targets (such as missiles or mortar shells) could be defeated. The interaction of a laser 
+beam with typical target materials such as metal, ceramic or fiberglass can vary 
+significantly with parameters such as laser wavelength, irradiance level, material 
+surface preparation and airflow. A material's hardness to laser radiation is frequently 
+described using the parameter "W" in units of joules/cm 3. This is a measure of the total 
+energy (in joules) required to melt or remove one cubic cm of material under the 
+specific conditions of the test. Over the past three decades, a wide variety of materials 
+have been tested using a CO2, DF and (more recent ly) Nd:YAG lasers. Although 
+specific results are usually classified, general observations can be offered about typical 
+material classes used in aircraft and spacecraft. 
+A wide variety of metals are used for applications such as missile skins, pressurized fuel 
+tanks, electronics enclosures, and structural members. Laser coupling can vary quite 
+widely, from a few percent to almost 100 percent, depending on the laser wavelength, 
+type of metal, surface preparation, and temperature. If not under structural load, 
+failure is usually from complete melt-through. If the metal piece is under aerodynamic 
+load or is part of a pressure vessel, failure will typically occur from crack initiation and 
+propagat ion well before complete burn-through. Airflow is beneficial, providing melt 
+removal and aerodynamic loads. The total energy which would cause a metal plate or 
+pressure vessel to fail is thickness dependent in a fairly linear fashion. 
+UNCLASSIFIED/ fFOA OFFI&I.t.k YSE 8,.L\f 
+20

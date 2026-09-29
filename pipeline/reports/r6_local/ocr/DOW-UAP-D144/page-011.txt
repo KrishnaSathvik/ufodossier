@@ -1,0 +1,26 @@
+UNCLASSIFIED/ ,'FOR OFFI@IAL WSE QptLY 
+To make t his easier to gras p and to provi de a prov isional concept , imagi ne tha t the 
+vehi cle is part it ioned into concent ric sections as shown in Figure 3. The central volume 
+is for the crew, where it is required that t he grav itat ional and inert ial forces be 
+sustai ned wit hin survivab le levels . The inner shell, o r inner h ull, surround ing that region 
+conta ins whatever devices provide that safe environment. The outer shell conta ins the 
+propuls ion devices that induce the desired mot ion of the craft relative to the externa l 
+space. The region betwee n the two hull shells is a provis ional separation for analyzing 
+the interact ion between those two functions. 
+Coordinate system of the Crew cabin where inertial 
+externa l environment and gravitational forces 
+are maintaine d at normal, 
+safe conditions 
+Outer shell whose 
+propulsion interacts with provi des a safe internal 
+externa l environment force environment 
+Figure 3. Necessary Distinction Between External and Internal Force Environments. [Graphic: A. Szames] 
+For analytica l purposes, it is advan tageous to consider these volumes and control 
+surfaces (the hull shells) as separate and t hen use them to define bounda ry conditions . 
+I n addit ion to its utility for assessing future cockpit designs, t his multisect ioned vehicle 
+baseline is valuable for gedanke n experiments about revolut ionary propuls ion concepts . 
+Why This Is Odd 
+Conventionally, grav itationa l and inertial effects permeate through everyth ing, so the 
+notion of having different conditions inside and outside of the craft runs contrary to 
+UNCLASSIFIED/fFOA: OFFICIO la Plili Oralla¥ 
+6

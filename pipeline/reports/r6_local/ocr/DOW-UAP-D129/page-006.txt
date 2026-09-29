@@ -1,0 +1,61 @@
+UNCLASSIFIED/ /fOlt Offl@IAL ~91! OHL¥ 
+2. Giant Magnetoresistance 
+2.1 GMR BASICS 
+This section discusses the phenomenon of giant magnetoresistance (GMR). Excellent 
+reviews of GMR are available elsewhere (Reference 12-22). The focus on physical 
+concepts important for the sections to follow are discussed. 
+GMR in magnetic multilayers refers to a dramatic reduction in the resistance of the 
+multilayers when subjected to an external magnetic field. GMR's size is usually defined 
+as the resistance change in magnetic field relative to its peak value. The effect can be 
+distinguished from the ordinary magnetoresistance (MR) coming from the direct action 
+of the magnetic field on the electron trajectories via the Lorentz force (Reference 23), 
+and from the anisotropic MR, which comes from dependence of the resistivity on the 
+relative orientation of magnetic moment to the current (Reference 24 ). 
+To prepare the magnetic multilayers, 
+where several atomic layers of one 
+(ferromagnetic) material alternate by 
+layers of another (nonmagnetic) 
+material (see Figure 1), a wide variety 
+of deposition methods have been used, 
+such as electrochemical deposition 
+techniques (Reference 25, 26) and 
+various vacuum deposition techniques 
+(Reference 27, 28). The latter shares 
+mainly between two methods using 
+either sputter deposition or molecular 
+beam epitaxy (MBE) systems. Sputter 
+deposition involves knocking off the 
+atoms of the material of interest from a 
+target by particle bombardment, 
+followed by the deposition of high­
+energetic atoms (N2-30 electronvolts 
+[eV]) onto the substrate. A principal 
+advantage of sputter deposition is the 
+ease with which many different 
+materials can be deposited at relatively 
+high deposition rates. In contrast, 
+deposition rates in MBE systems are 
+usually much lower than for sputtering 
+systems, but much lower energies 
+(~0.1 eV) of the evaporated material 
+Current 
+In 
+the Plane 
+Current 
+Perpendicular 
+to the Plane 
+Figure 1. In a Magnetic Multilayer, Several Atomic 
+Layers of Magnetic Material (shown In grey) 
+Alternate With Layers of Nonmagnetic Material 
+(shown in white). GMR occurs in one of two different 
+geometries : (1) when the current flows in the plane (CIP 
+geometry) of the layers or (2) when the current flows 
+perpendicular (CPP geometry) to the layers. 
+make this technique favorable for growth of highly oriented single-crystalline films. 
+The original observation of GMR (Reference 1) was made on MBE grown iron-chromium 
+(Fe/Cr) multilayers with nearly perfect crystal linity. Subsequently, by using sputtered 
+samples that are grown much more rapidly than MBE samples, it was possible not only 
+to reproduce these results but also to observe oscillations in the magnetoresistance as 
+the th ickness of the nonmagnetic spacer layers was varied (Reference 29). Subsequent 
+UNCLASSIFIED/ /FOR OFFIGI.t.b W&& &PtblJ 
+1

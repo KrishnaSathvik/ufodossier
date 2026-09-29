@@ -1,0 +1,43 @@
+UNCLASSIFIED/ /&OR OFFIQlal.ls: W&& 8rtLY 
+Metallic glass foams (see above) also provide intriguing possibilities for structural 
+applications. It has recently been shown that metall ic glass foams with outstanding 
+strength can be formed by controlling the size of the ligaments between pores. 40 This is 
+a new development, and these foams have not been fully characterized, but it seems 
+likely that optimized foams will have a specific stiffness (E/p) superior to that of 
+polymer foams, along with high strength and acoustic damping. Such structural foams 
+could be useful in applications requiring strength and stiffness under compressive loads, 
+such as structural panels for extraterrestrial buildings. Conceivably, such structural 
+foams might even be produced on site (from raw feedstock), reducing the volume of 
+material that needs to be launched. 
+A final possibility is that metallic glasses might be combined with polymer composites 
+into metal-fiber laminate materials. Similar laminates (with crystalline aluminum alloys) 
+are being employed in large quantities on the new Airbus 380 and are likely to find 
+increased application in the future. 41 The use of metallic glasses in these laminates is 
+appealing because of their high specific strength (although the specific stiffness is lower 
+than that of aluminum). Furthermore, the individual layers in the laminat e are 
+sufficiently thin that a wide range of glass-forming alloys might be considered (in 
+contrast to thicker structural sections, which will be limited by the glass-forming ability 
+of the alloy). 
+OTHER APPLICATIONS 
+Monolithic metallic glasses are unique among metallic materials in having no 
+microstructure at length scales of more than a few atomic spacings. In principle then, 
+metallic glasses should be capable of replicating features down to this scale. This 
+possibility is facilitated by the ability of metallic glasses to be formed in the supercooled 
+liquid temperature range with controllable viscosity . Indeed, superplastic forming of 
+metallic glass surfaces with features as small as 13 nanometers has been 
+demonstrated. 42 This ability could be exploited for direct embossing of nanostructures 
+in polymers or other materials. Structures on this length scale are also potentially 
+useful as diffraction gratings for ultraviolet and so~ x-ray radiation. 
+In a related area, metallic glasses have a variety of useful properties for application in 
+micro-electromechanical system (MEMS) actuators, including large elastic strains and 
+high resilience (elastic strain energy storage), good corrosion and wear resistance, and 
+an excellent surface finish. 43 The scale of these devices is smaller than the plastic zone 
+size (Equation 1 above), making brittle fracture unlikely. Furthermore, a much wider 
+variety of amorphous alloys can be made in thin film form (by vapor deposition) than is 
+possible by casting. 
+Finally, the magnetic properties of certain amorphous alloys have long been exploited. 
+For instance, their low coercivity and high electrical resistivity make ferromagnetic 
+amorphous alloys attractive as high-efficiency electrical transformers, particularly at 
+high frequencies. Such applications are likely to continue well into the future. 
+19 
+UNCLASSIFIED/ /F8R 8ffl@IAL 1?181: 8,.LY

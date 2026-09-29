@@ -1,0 +1,41 @@
+UNCLASSIFIED/ /FOR OFFICIAL 031! er•tv 
+dB 
+I 
+4 I\ \ 
+2 
+,,._ 
+-2 
+I 
+I 
+8 10 12 
+..... ..... ..... ..... 
+-J 
+-4 
+Figure 20. Predicted Suppression of Vacuum Fluctuations in dB. (courtesy 
+of P. Marecki) Vacuum fluctuations in the ground state (for field operators 
+restricted to the frequency ro ) relative to vacuum fluctuations (in the absence of 
+the plates) for a BHD at x = 0.25 ~tm (solid line) and x = 0.5 pm (dashed line) 
+with in the cavity . The frequency range is ro e [0, 4rrc/a]. 
+The predicted spectral density pattern shown in Figure 19 is stat ic, i.e., it is 
+independent of the LO phase and in some regions corresponds to the suppression of 
+vacuum fluctuat ions by at least 3 dB. Such a behavior is allegedly forbidden by a 
+theorem known as the Quantum Inequalities for quantum fields without external 
+conditions (i.e., "undeformed," or "undisturbed," vacuum states). The theorem states 
+that regions with sub-vacuum fluctuations must be followed by regions with greatly 
+increased vacuum fluctuations no matter what the state of the quantum field is. This 
+has only been verified for single-mode squeezed light, see, e.g., Figures 1 and 14. A 
+major consequence of this theo rem is that sub-vacuum fluctuations, and their 
+corresponding sub-vacuum (negat ive) energy density, cannot persist for long times. 
+What is surprising here is that Marecki (private communication, Leipzig University, 
+Germany, 2010) claims that the Quantum Inequalities should also apply to the case of 
+static sub-vacuum fluctuations, and their corresponding static sub-vacuum (negative) 
+energy density, inside Casimir cavit ies. The efficacy of the Quantum Inequalities 
+theorem in its application to curved spacetime physics, and more specifically faster­
+than-light spacetime geometries, has been argued in the literature in which serious 
+theoretical shortcomings of the theorem have been identified by several investigators 
+(see Reference [1] for the deta ils). Therefore Marecki's proposed Casimir cavity BHD 
+experiment provides a possible test of yet unexplored generic quantum field theoretic 
+effects in Casimir geometr ies, complementary to measurements of Casimir forces. We 
+hope that experimental attempts to verify his predictions will follow. 
+UNCLASSIFIED/ }FOR OFFIGl.t.k W&li 8HLY 
+42

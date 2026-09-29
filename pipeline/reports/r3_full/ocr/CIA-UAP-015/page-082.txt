@@ -1,0 +1,35 @@
+, 
+I 
+I 
+I 
+I 
+I 
+I 
+ITABLE X CHI SQUARE TEST OF REVISED KNOWNS VERSUS 
+UNKNOWNS ON THE BASIS OF SHAPE 
+I 
+x2Adjusted 
+' Number of Number of Number of (K-n) 2 I 
+Shape KNOWNS KNOWNS (K) UNKNOWNS. ( n) K 
+IElliptical 632 213 195 1. 52 
+Rocket or aircraft 72 24 33 3.37 
+Meteor or comet 9 3 1.32 IFlame 47 16 1~} 
+Teardrop, lenticular, 79 27 22 0.93 
+or conical I 
+Other 151 51 54 1. 76 
+Not stated 296 100 116 2.56 
+I 
+Total 1286 434 434 11.46 
+I 
+Degrees of freedom 5 
+I 
+5% 11. 1 
+1% 15. 1 
+I 
+I 
+I 
+I 
+I 
+I! 
+72 
+I

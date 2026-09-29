@@ -1,0 +1,33 @@
+I 
+I 
+I 
+I 
+I 
+I 
+TABLE VIII CHI SQUARE TEST OF REVISED KNOWNS VERSUS 
+IUNKNOWNS ON THE BASIS OF COLOR 
+Adjusted x2 
+' I 
+Number of Number of Number of (K-n} 2 
+Color KNOWNS KNOWNS {K} UNKNOWNS ( n) K I 
+• White 281 95 112 3.04 
+Metallic 298 101 76 6. 19 I 
+Not stated 189 64 62 0.06 
+Orange 117 39 49 2.56 
+IRed 92 31 33 0. 13 
+Yellow 90 30 31 0.03 
+Green 32 11 14 0.82 IBlue 29 10 26} 
+I
+0.57Other 158 53 31 
+Total 1286 434 434 13.40 
+I 
+Degrees of freedom 7 
+I5% 14. 1 
+1% 18. 5 
+I 
+I 
+I 
+I 
+I 
+I70 
+I

@@ -1,0 +1,35 @@
+UNCLASSIFIED/fFOR. QFFIEl.t.L: U&i QD:I! X 
+ionized wake. This techn ique for detecting hypersonic meteors is not fully developed and 
+appears to be employed only by hobby ists. 
+Since a receiver can be tuned to a specific over-the -horizon t ransmitter, it may be possible to 
+develop a network of radio receivers to provide information on high-speed objects in t he 
+atmosp here. M ultip le stat ions would allow triangulat ion of t he object to dete rmine velocity 
+and posit ion as a funct ion of time, i.e., tracking and pat h pred iction. The sound files also 
+conta in informatio n that could provide informat ion on the hypersoni c object. Detection of the 
+shock provides informat ion on the posit ion of the object while t he trans ient "whistles" 
+reflected from the ionized wake may prov ide informat ion on the Strouhal eddy frequency that 
+could directly infer the object's velocity . This detection technology should be further 
+developed. 
+Hypersonic Aircraft 
+Radio Receiver 
+The radio receiver is not in 
+line-of-sight with the 
+transmitter, yet receives 
+reflected energy from t he Transmitt er 
+transmitter by the aircraft . 
+Figure 11. Radio Reflection Detector. 
+OPTICAL METHODS 
+Sky Cameras and Photographic Methods 
+A classic example of a hypersonic object passing through t he Earth's atmosp here is a 
+meteor. Meteor ite hunte rs and astrophys icists have worked to develop met hods to detect 
+these objects as they fa ll to the Earth. Moti on-detection video systems provide information 
+on locati on and direction of meteors passing t hrough the atmosphere by detecting the ir 
+visible wake. The El Paso All Sky Camera proj ect14 is one example and even prov ides live 
+st reaming video of meteoric events. 
+Photographs of objects in orbit with diamete rs ranging from 0.1 meter to several mete rs 
+have been used to determ ine t heir expected t rajectory as meteors as they ente red and fell 
+through the Earth's atmosphere. 15 This technique was first used to monitor the Pribram 
+meteorite simultaneously by several observa tories in 1959. This techn ique was even used to 
+locate a 1. 75-kg enstat ite chondrite meteo rite called Neuschwanstein reported in 2003. The 
+UNCLASSIFIED//FQlil QlifilEIAL: Wlili O,.L'l 
+16

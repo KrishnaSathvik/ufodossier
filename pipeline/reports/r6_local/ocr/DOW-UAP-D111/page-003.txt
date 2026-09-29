@@ -1,0 +1,118 @@
+0001
+
+0004
+
+ITEM NO.
+
+SCHEDULE Continued
+
+SUPPLIES/SERVICES QUANTITY UNIT
+
+Invoicing Address:
+
+NSA Finance and Accounting Office
+P.O. Box 1685; ATTN: DF2111
+
+Ft. George G. Meade MD 20755-6856
+
+COR:|AAP Person 14
+
+Bigelow Aerospace Advanced Space Studies, Inc
+5 ad proposal dated 9/3/2008 is incorporated by
+reference.
+
+Contract Type: Firm Fixed Price
+
+Base Year: 22 September 2008 - 29 September 2009
+
+Monthly Status Reports 1.00} LO
+Quantity 12
+
+Accounting and Appropriation Data:
+
+ACRN: AA
+
+9780100.4400 1082A9 25201 S49205 1SG2 B5P196G1
+1106 610000
+
+$2,887 ,000.00
+
+Period of Performance: 09/22/2008 to 09/21/2009
+
+Project Management Plan for Tasks 3.a.1 - 3.a.12 1.00} LO
+Quantity 12
+
+Accounting and Appropriation Data:
+
+ACRN: AA
+
+9780100.4400 1082A9 25201 S49205 1SG2 B5P196G1
+1106 610000
+
+$3,600,000.00
+
+Period of Performance: 09/22/2008 to 09/21/2009
+
+Research Report for Tasks 3.4.1. - 3.a.12 1.00} LO
+Quantity 12
+
+Accounting and Appropriation Data:
+
+ACRN: AA
+
+9780100.4400 1082A9 25201 S49205 1SG2 B5P196G1
+1106 610000
+
+$2,100,000.00
+
+Period of Performance: 09/22/2008 to 09/21/2009
+
+Comprehensive Integrated Threat Assessment 1.00} LO
+
+Accounting and Appropriation Data:
+
+ACRN: AA
+
+9780100.4400 1082A9 25201 S49205 1SG2 B5P196G1
+1106 610000
+
+$240,000.00
+
+Period of Performance: 09/22/2008 to 09/21/2009
+
+Travel 1.00; LO
+
+Accounting and Appropriation Data:
+
+ACRN: AA
+
+9780100.4400 1082A9 25201 S49205 1SG2 B5P196G1
+1106 610000
+
+$50,000.00
+
+PAGE 3 OF 59 HHM402-08-C-0072
+
+UNIT PRICE
+
+2,887,000.00
+
+3,600,000.00
+
+2,100,000.00
+
+240,000.00
+
+50,000.00
+
+AMOUNT
+
+2,887,000.00
+
+3,600,000.00
+
+2,100,000.00
+
+240,000.00
+
+50,000.00

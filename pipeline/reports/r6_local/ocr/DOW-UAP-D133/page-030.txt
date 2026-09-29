@@ -1,0 +1,45 @@
+UNCLASSIFIED/ /FOR OFFl&IAk W&li 0NL¥ 
+Appendix: Glossary 
+Basis: In quantum mechanics, a choice of an observable quantity that may be 
+complementary to another variable, so that both cannot be measured at the same time. 
+An example is the choice of measuring position, which prevents the simultaneous 
+measurement of momentum. In EPR experiments, one must choose a polarization basis 
+(for example, linear polarization that may be either vertical or horizontal). Since both 
+circular polarization and 45° left/right polarization are linear superpositions of 
+vertical/horizontal polarization, they may not be measured simultaneously. In quantum 
+mechanics, the measurement causes the wave function to collapse to a particular basis 
+value, excluding other possible values . 
+Bell's Theorem: A mathematical proof by John S. Bell (Reference 8) demonstrating 
+that in a polarization-based EPR experiment, the fal loff of correlations as the basis 
+angle of a polarization measurement is changed is qualitatively different, as predicted 
+by local hidden-variable theories and by standard quantum mechanics. In particular, 
+local hidden-variable theories predict a linear falloff, while quantum mechanics predicts 
+a quadratic falloff. This difference in predictions is represented as an inequality in 
+measurement intensity ratios that all local hidden variable theories must satisfy, while 
+quantum mechanics does not. Tests of these predictions have been found to agree with 
+quantum mechanics and to falsify local hidden-variable theories. 
+Bilking Paradox: A type of back-in-time communication paradox in which an 
+inconsistent causal loop is created. A well-known example is the Grandmother Paradox, 
+a time-travel scenario from science fiction in which a time traveler travels to the past 
+and kills his grandmother before she had children. The question then arises, How could 
+he have been born if his grandmother had no children? Several works in the physics 
+literature (Reference 17, 18) have concluded that such trans -tempo ral bilking is 
+impossible, that nature will not permit inconsistent timelike loops, and that it is more 
+likely that some apparatus will fail than that a "bilk" of nature could be achieved . 
+Causality: The observation, which is regarded as a law of physics, that a cause must 
+precede its effects as viewed in any and all reference frames. Sometimes referred to as 
+"Cause and Effect" or "the Law of Cause and Effect." 
+Correlations: The mathematical connection between two variables or two measured 
+quantities. As an example, in an EPR measurement, the basis polarization of one 
+photon is selected, the basis polarization of the twin entangled photon is varied, and 
+the coincidence counting rate versus varied angle is measured to establish the 
+correlation between the two polarizations. 
+Coherence: Describes whether two waves (for example, those arriving at a pair of slits 
+or at a detector) have a definite phase relation (in which case they are completely 
+coherent), have a random phase relation (in which case they are completely 
+incoherent), or have someth ing in between. 
+Coherence-Entanglement Complementarity: The theoretical expectation and 
+experimental observation (Reference 15) that perfect coherence and perfect 
+entanglement cannot be achieved for an entangled pair of photons at the same time. 
+UNCLASSIFIED/ ,,roA 0FFI&IAI: WSE o .. L'/ 
+24

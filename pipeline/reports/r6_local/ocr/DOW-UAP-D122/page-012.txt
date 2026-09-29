@@ -1,0 +1,14 @@
+UNCLASSIFIED/ /FOlt 8PPl@IAL YSI: 8,.LY 
+Figure 8. Fermat's Principle. The grey level indicates the refractive index. In traveling from A to B, light follows 
+the path that takes the shortest time, travel ing, if possible, through regions of low index . 
+The bending of light in materials or, equivalently, the change of the spatial geometry by 
+optical mater ials is the cause of most optical illusions. For instance, the figure used to 
+illustrate Fermat's Principle shows the path of light in a mirage. The air above a hot 
+surface, hot tarmac, or desert sand is hotter than the air farther above. As hot air is 
+thinner than cooler air, the refractive index is lower above the hot surface. Light rays 
+are bent upwards, conjuring up images of water in the distance that, in reality, are 
+images of the sky. Such optical geometries may also be employed for creating the 
+ultimate illusion: invisibility. Imagine an optical material changing the geometry of 
+space, as shown in Figure 9 below. 
+UNCLASSIFIED/;CFOA OFFitl.t.k W&lii 0PUslf 
+7

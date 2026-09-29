@@ -1,0 +1,35 @@
+UNCLASSIFIED/ /fOR Offl@IAL ~SE 8,.Llf 
+• Tetryl (Nitramine, C7HsNsOs) with p = 1.93 g/cm 3. 
+• Landmine - includes plastic explosives, such as Semtex, which is made of ROX and 
+PETN, and C-4, which is made of ROX. 
+B. Nuclear Materials such as natural uranium (U-238) and weapon grade with enriched 
+(U-235). Testing can be done with this natural uranium which can be obtained without 
+special restrictions. 
+C. Drugs like Cocaine (C17H21 NO4) and Heroin ( C21H23NOs ) are of high in C and H, low 
+in O and low-medium Cl densities . 
+O. Common articles such as ethanol alcohol/wine (C2H5Q) with p = 0.789 g/cm3, 
+clothes like silk (C3H11N3Q5) w ith p = 0.789 g/cm3, and nylon (C5H11 NO) with p = 1.1 
+g/cm3, and metal utensils, including knives. 
+The list provides a guide for use of articles for simulation testing in the IEC inspection 
+station. Fortunately, the combination of sources in the integrated station provides good 
+coverage of this wide variety of items. Conventional single source units suffer " gaps" in 
+coverage. 
+Pulsed Power for the Inspection Station 
+Advanced materials and methods are used in its design to minimize weight and size. 
+This extends use of stat ionary units (e.g. at airports) to mobile platforms such as vans, 
+law enforcement vehicles or light military trucks . Figure 5.1 shows a block diagram of 
+the power control circuits . 
+Figure 5.1. Block Diagram of the IEC Pulsed Power System 
+The power is taken from the platform power system and can be either 12-48 VOC or 
+single phase 120 VAC. The high voltage power supply is a solid-state switch-mode 
+inverter followed by a voltage multiplier circuit that incrementally steps the voltage up 
+a series of capacitors fed by high voltage diodes. The energy storage unit is composed 
+of high voltage capacitor segments with a low series inductance and resistance. The 
+capacitor bank is charged and discharged at the pulse repetition rate. The custom 
+capacitor sections are engineered to withstand the mechanical stress caused by rapid 
+charge/discharge cycling. The nominal capacitor bank voltage is 120 kV at full pulse 
+power output. A triggered spark gap is used to switch rapidly a high-energy pulse of 
+current from the capacitor bank to pulse modulate the magnetron. The triggered gap is 
+a compound three -element spark gap design. The arc is sustained until the capacitor 
+UNCLASSIFIED/ /FOR OFFI&IAk W&E 8PtkY 
+49

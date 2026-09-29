@@ -1,0 +1,25 @@
+UNCLASSIFIED//&Olil O&FICIA.k Wlili QNkY 
+found that there is an optimum voltage in terms of a maximum IEC cathode current. 
+Ions supplied by the magnetron ion source are essential to maintain the hybrid (glow 
+and magnetron) discharge under low gas pressure conditions. The reason for this 
+voltage lim it is not clear. Unfortunately this effect limits the cathode voltage despite the 
+need for high voltage for neutron production near the peak energy of the fusiorn cross 
+section. Thus this issue deserves more study to optimize use of a hybrid magnetron 
+source IEC operation. Still the design worked reasonably well for the initial mine 
+detection experiments. Unfortunately, the project was terminated prematurely due to 
+financial constraints, so informat ion on optimization possibility remains incomplete. 
+The design of the ion source also depends on the ion species being injected. Sources 
+described thus far have focused on deuterium or, in some cases on trit ium. However, 
+workers at the University of Wisconsin (U. Wisc.) have had a great interest in 3He 
+reactions (both D-3He and 3He-3 He), so have developed a gun specialized to 3He ion 
+production (Reference 2.8). To maximize the ion current, a Helicon source was selected 
+since Helicons are well known for production of very high density plasmas from which 
+high ion currents can be extracted. This source is illustrated in Figure 2.6 and discussed 
+in Reference 2.8. They state that this source has produced steady-state ion currents of 
+10 mA into IEC systems with background gas pressures as low as 200 µtorr. 
+Figure 2.6. 3 He Ion Source for Use in 3 He- 3He Fusion Rate Studies at the U of Wisconsin 
+These developments are aimed at observation of the 3He-3He reaction in an IEC device. 
+Scoping calculations of beam-background fusion rates predict that a 3He-3He reaction 
+product spectrum should be distinctly observable in an IEC operating below 200 kV. 
+UNCLASSIFIED/ /FOR OFFI&Isl.k Wlili Ql'II.¥ 
+19

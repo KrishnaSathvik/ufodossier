@@ -1,0 +1,57 @@
+UNCLASSIFIED / /POfTeOFFECEE-USE-ONE
+
+THE GEM II HPM SOURCE
+
+The GEM II source was based on PCSS switch technology using GaAs bulk avalanche
+semiconductor switches (BASS). GEM II was built by Power Spectra, Inc., in the mid-
+1990s and was evaluated by the AFRL. The source was built from individual modules,
+each containing a rectangular horn output with a BASS switch at the feed point. The
+modules were assembled in a 12 x 12 array to form a planar radiator measuring 1.6 x
+1.6 x 0.85 meters. By timing the switching sequence of each BASS module, the beam
+was steerable up to 30° off center. The HPM output reached 22 kV/m at a distance of
+75 meters and was capable of repetition-rate operation at 3 kHz. The rise time of each
+module was about 200 ps, and the pulse width was about 2 ns. The major problem with
+GEM II was switch lifetime; typically, a few switches failed during each burst.
+
+THE JOLT HPM SOURCE
+
+The Jolt, shown in Figure 10, was designed especially to feed the half-IRA antenna. The
+AFRL refers to this source as hyperband, meaning the frequency band ratio is greater
+than 10. On the pulsed-power end, Jolt uses a dual-resonant transformer operating at
+1.1 MV. The transformer charges an intermediate capacitance discharged by an oil-
+insulated peaking switch at the focal point of the half IRA to two flat-plate transmission
+lines terminated at the edge of the dish. The voltage rate of rise is 5 x 1015 V/sec, and
+the repetition rate is a maximum of 200 Hz. The radiated electric field waveform
+recorded at 85 meters is shown in Figure 11. The half-power point frequencies are an
+upper frequency of 2 GHz and a lower frequency of 30 MHz.
+
+8 107
+
+6 10*
+
+410°
+
+210*
+
+Electric field (V/M)
+
+2 10*
+~410*
+-110? 0 110° 210° 310° 410° 510°? 610°
+Time (sec)
+
+Figure 11. Jolt Radiated Electric Field Waveform at
+85 Meters
+
+Figure 10. Jolt Hyperband HPM Source
+
+MESOBAND SOURCES
+
+The AFRL has defined mesoband or moderate band sources as those with a bandwidth
+ratio between one and three. These sources usually generate HPM energy between 50
+and 900 MHz. They are designed using two techniques. The first is to feed a damped
+sine wave onto a wideband antenna. The second is to switch a transient pulse onto a
+resonant transmission line connected to a wideband antenna. One such system at the
+
+24
+UNCLASSIFIED / / FOR-OFFEGIidWSE-ODLLY

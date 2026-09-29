@@ -1,0 +1,73 @@
+• Num Chaff or Cartridges: 
+• Flare Designator: 
+• Num Flares: 
+• Towed Decoy Name or Designator: 
+• Towed Decoy Software Load or Mission Data: 
+• Num Towed Decoys: 
+• Type of Radar-Guided AAM: 
+• Num Radar-Guided AAM: 
+• Type of IR-Guided AAM: 
+• Num IR-Guided AAM: 
+• Gun Name or Designator: 
+• Num Gun Rounds: 
+• Air-to-Ground Wpn to Include Num of Each: 
+• TGT Pod Name or Designator: 
+• Additional Avionics: 
+• Data Link: 
+• Gentext: (SECRET//REL TO USA, MESF) 
+Timeline 
+Takeoff 
+• Callsign: 
+• Number of Aircraft: 1 
+• Asset Type (Aircraft): 
+• Aircraft Tail Number(s): 
+• Takeoff Location (ICAO Code): 
+• Takeoff Time DTG: 281953:00ZOCT25 
+• Mode 3 (IFF Codes): 
+• Gentext/Additional Details: 
+• Mission Canceled: 
+Landing 
+• Last Land Location (ICAO Code): 
+• Last Land Time: 291605:00ZOCT25 
+• Last Engine Shutdown Time: 291615:00ZOCT25 
+• Total Mission Time: 
+• Gentext/Additional Details: 
+ISR 
+SECRET//NOFORN 
+SECRET//NOFORN 
+DECLASSIFIED
+DECLASSIFIED
+UNCLASSIFIED
+UNCLASSIFIED
+Declassified by:
+MG Richard A. Harrison
+USCENTCOM Chief of Staff
+Declassified on: 20260608
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+(b) (1) (B)
+(b) (1) (B)
+(b) (1) (B)
+-
+(b) (1) (B)
+(b) (1) (B)
+(b) (1) (B)
+(b) (1) (B)
+(b) (1) (B)
+(b) (1) (B)
+-
+-
+(b) (1) (B)
+(b) (1) (B)
+-
+3.5C. (B)(6)

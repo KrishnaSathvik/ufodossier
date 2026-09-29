@@ -1,0 +1,60 @@
+I 
+I MULTIPLE OBSERVATION was identified with the . 00 subserial number. 
+As an example, a MULTIPLE OBSERVATION consisting of six sighting
+I reports would have the following serial numbers: 
+I 
+1132. 00 representing the best report and observer 
+1132.01 representing an additional observer 
+1132. 02 representing an additional observer 
+I 
+1132. 03 representing an additional observer 
+I 
+1132. 04 representing an additional observer 
+1132. 05 representing an additional observer 
+I 
+During the course of the transcription of the data to machine card 
+form, it became obvious that certain reports could have been independent 
+observations of the same phenomenon. So, if the presentation of an 
+analysis based on one report for each sighting was valid ( the concept of
+I UNIT SIGHTINGS}, a presentation of an analysis based on one report for 
+each phenomenon should be valid also. Further, the examination of data 
+I 
+relating to the actual number of phenomena was considered to be the proper 
+basis for assessing the probability of technological developments outside 
+the range of present-day scientific knowledge. Therefore, a designation of 
+I 
+OBJECT SIGHTINGS was established, with the following definition: 
+OBJECT SIGHTING - ( 1) The group of reports consisting of
+I one report for each phenomenon. (2) The 
+I 
+questionnaire, work sheet, and IBM card 
+representing a report for each phenomenon 
+accepted for the statistical study. 
+I 
+In brief review, ALL SIGHTINGS refer to all reports, UNIT SIGHTINGS 
+refer to actual sightings, and OBJECT SIGHTINGS refer to the assumed 
+I 
+number of phenomena. 
+I 
+It must be recognized that the process of identifying OBJECT 
+SIGHTINGS was deductive, while that for UNIT SIGHTINGS was definitive. 
+A conservative approach was adopted in the determination of OBJECT 
+SIGHTINGS, using the factors of date and time of observations, location
+I of observers, duration of observations, and range, bearing, track direc­
+I 
+tion, and identification of the phenomena. Any error of selection of OBJECT 
+SIGHTINGS will tend to be in the direction of reducing the actual number of 
+phenomena observed ( several instances of UNIT SIGHTINGS that might be 
+one OBJECT SIGHTING were noted, but the evidence was not conclusive 
+I 
+enough to justify consolidation of the reports). 
+I 
+Following the determination of OBJECT SIGHTINGS, a series of 
+serial numbers, called the INCIDENT SERIAL NUMBERS, was established 
+I 
+to facilitate any future study of a specific object sighting. Each reported 
+sighting that relates to an OBJECT SIGHTING received the same incident 
+serial number, a four-digit code paralleling the major serial number 
+series.
+I 9 
+I

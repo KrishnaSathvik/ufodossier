@@ -1,0 +1,52 @@
+UNCLASSIFIED / / BOR-O.5516L4A1-055-O)H
+
+The most benefit would come from a coordinated effort spread over a number of
+different universities. Wherever possible, pre-existing assets should be utilized to
+stretch funding as far as possible. For example, if synchrotron light is needed to verify
+the Gertsenshtein effect and the Li-effect, a survey of existing national synchrotron
+light facilities should be part of the funded effort to find an appropriate host facility. The
+funding activity—that is, the National Science Foundation—would have the overall
+responsibility to coordinate this activity in an ongoing manner, through proposal review,
+contract awards, and progress reviews, and the approach should be flexible enough to
+allow the redirection of funding should a particularly promising new technology or
+invention move to the forefront.
+
+Assuming that positive laboratory results can be achieved and peer reviewed in a 10 to
+12 year timeframe, the next step would call for a period of prototype development, in
+which the device physics and engineering needed to support the technology could be
+matured. As prototypes show promise they could be transitioned to device
+development, the first time that industry would likely enter the field. Once the
+individual devices required to support GW communication technology—for example, GW
+generators and GW sensors—are in place, at that point it will be possible to begin full-
+scale development of systems applications. This is a conservative timeline, based on
+scaling from the development of previous technologies. If breakthroughs materialize, or
+if the pace of technological development quickens, progress may certainly occur more
+quickly than this.
+
+4.2 HFGW COMMUNICATIONS PREDICTIONS TO 2050
+
+In what follows, with an eye to the future, extrapolations are made concerning the
+development of a HEGW communications technology into the far future (for example,
+2050 and beyond). It is difficult to predict even ten years in advance to the time when
+we expect to have the results of the proof-of-concept test (or “Bell-Watson”
+experiment) are available and the immediate applications to HFGW communications
+completed. Speculation beyond that time will be contingent upon advanced
+development of FBAR crystals, new materials within the toroidal waveguides, and so
+forth, or even entirely new approaches such as those proposed by G. Fontana, V.
+Rudenko, R. Chiao, et al. No doubt the Li-Baker detector performance can also be
+greatly improved with stronger magnetic fields, more intense Gaussian beams, and
+better baffles as well as new detector designs yet to be developed possibly based upon
+theories developed at Birmingham University, INFN Genoa and The National
+Astronomical Observatory of Japan. Optimum designs of communication channels,
+bands and modulation are also be anticipated. Many of these advanced concepts were
+discussed at the 3rd HFGW Workshop in Huntsville in February 2009. Nanotechnology
+advances will allow for the fabrication of smaller and smaller HFGW transceivers having
+millimeter dimensions and milliwatt power requirements by 2050 and “Radio ID” or
+rather ‘“HFGW ID” nanochip tags may be ubiquitous. Gravitational wave transmissions
+would also have the advantage of being able to pierce the protective plasma shielding
+that may in the future be routinely used to protect the crew aboard manned vessels—
+that is, communications through artificial magnetospherics, a technological limit of RF
+communications.
+
+33
+UNCLASSIFIED/ (EQOR.O5ELGid-USE-ONTY

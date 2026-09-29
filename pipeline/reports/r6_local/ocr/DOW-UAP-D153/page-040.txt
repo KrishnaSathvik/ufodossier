@@ -1,0 +1,41 @@
+UNCLASSIFIED/ /FOR 0551CIAk l::181: 8HLY 
+Balanced Homodyne System for Casimir Cavities 
+What has not been experimentally measured yet are the sub-vacuum fluctuat ions and 
+their (negat ive) energy density inside a Casimir cavity. Marecki (5, 6] theoretically 
+evaluated the use of BHDs for this purpose. He proposed that a BHD can be used to 
+detect and spatially map the sub-vacuum fluctuation region inside a Casimir cavity as 
+well as measure its negative energy density spectrum. Marecki discovered that by 
+exploiting a trick with the subtraction of the output of balanced photodiodes, it is 
+possible to quant ify the fluctuations of the quantum field (even in the vacuum!), which 
+uniquely addresses Davies and Ottew ill' s [54 ] negative energy detector hypothes is. 
+The quant ity of interest (to be measured) is the fluctuat ions of the quantum electric 
+field \ Ei( l, t) Eil, t)ls (for fields restricted to the frequency w of the local oscillator) 
+~ r for squeezed and vacuum states, where E;{ x ,t) is the quantum electric field operator 
+(in ground-state representation and rest ricted in frequencies) at the point x, t 
+~ r represents the time-dependence of E;(x ,t ), and ( ... )s stands for the expectation value 
+with respect to an arbitrary initial state S (vacuum, squeezed, ground state, coherent, 
+therma l, etc.) of the quantum radiation field under study. (E;(l,t)Ej(l ,t)Js is also 
+called a two -point function . In quantum field theory, the expectation value (or matrix 
+element) computed by inserting a product of two quantum operators between two 
+states, usually the vacuum states, is called a two-point function. This quantity 
+suggests a " relation" between two states in the same dynamics, and it expresses the 
+fluctuat ions of a quantum field. The product of n-operators is called then -point 
+function which expresses the higher moments of the quantum field fluctuations. 
+The goal of the experiment is that a state S of the quantum radiation field under study 
+needs to be characte rized by its n-point functions. The typical solution in quantum 
+optics is to use well-characterized quantum systems interacting in a simple way with 
+the quantum rad iation field . The detection scheme uses the simple model of a PIN 
+junction photodiode in which a single electron interacts with the quantum radiat ion field 
+under study. This simple interaction means that the state space of the electron can be 
+severely restricted, the interaction is assumed to be linear in the quantum field, and so 
+the Born approx imation can be used (5, 6]. The PIN junction model of the 
+photodetection process is an electron in an initial state IO)@S, with its bound-state IO) 
+l
+well-localized around a certain point x0, that gets excited to the continuum of 
+scattering states I q) by the quant um field state of interest S such that the final states 
+of the system are liJ)@S .**** The excitat ion is caused by the linear (dipole 
+approximation) interaction with the quantum electric field which is 
+..,, The symbol @ denotes the tensor product of two quantum eigenstates such that Ia1, a2) =Ia1) © Ia2) for 
+factor ized eigenstat es which correspond to independent m easurements. 
+UNCLASSIFIED/ /f8tt 8fflf!IAL Y!IIE 8HLY 
+36

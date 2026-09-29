@@ -1,0 +1,54 @@
+UNCLASSIFIED/ LEQB.OEFELCI ALSO NT
+
+Specifically, it has been found that by making the mirror slightly leaky, we can actually
+increase absorption. If the reflection coefficient of a mirror is given byr,, then the
+reflection/transmission coefficients r,t through the structure are given by:
+
+216 id
+
+_hthe ges Loln€
+
+(7)
+
+lt nne?” 14+ nn”
+
+where t, =1+/,and 4, =1+74,. Note that Equation 7 turns into Equation 6 if
+r, =—|(perfectly reflecting mirror). From Equation 7 it follows that it may be possible to
+engineer the reflectivity in such a way that minimizes reflection |r while keeping
+transmission |t|? small. The remainder of the energy is guaranteed to be absorbed by
+the quarter-wavelength thick absorber.
+
+8 5
+= 5
+3 $0.
+2a @m VU.
+< oc
+0.2
+880 700 720 «+740 ~° «760 880.700. +720. +«+740~~760
+k (cm”) k (cm)
+
+Figure 22. Preliminary Attempts to Design a Better Absorber Using Complementary MetaMaterials (U-
+shaped CMM). Note that only 40 percent absorptivity is possible with a smooth gold film. Paradoxically, this
+absorptivity increases to 75 percent when the metal mirror is made “leaky” by perforating it with an array of CMMs
+(left panel).
+
+The design process for engineering r, using the simplest CMMs, U-shaped apertures,
+
+has been started. Some of the preliminary results are shown in Figure 22. Figure 22
+illustrates how the (relatively low) 40 percent absorptivity of the SiC film covered by a
+smooth Au mirror (black line) can be boosted up to 75 percent by patterning the mirror
+using CMMs. We call such a “leaky mirror” patterned by CMMs a MetaMirror. It is clear
+from Figure 23 that a MetaMirror can be used for making absorptivity polarization-
+dependent (if that is desirable for applications demanding a reflector-polarizer).
+MetaMirror can also be used for shifting the absorption wavelength which would be
+highly desirable for developing broadband absorbers. We have found that there are two
+mechanisms capable of making MetaMirrors: (a) excitation of the Long Range Surface
+Plasmon Polaritons (LR-SPPs) on the patterned MetaMirror, and (b) excitation of highly-
+localized (shape-dependent but period-independent) SPPs. An example of the
+mechanism (a) is shown in Figure 23, but we also have preliminary results indicating
+that both mechanisms can be operational in the same MetaMirror for close-by
+frequencies resulting in multiple dips of the reflectivity coefficient | 7, |.By comparing
+
+25
+
+UNCLASSIFIED /+-5OR-OFFECEAE USE ONET

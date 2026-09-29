@@ -1,0 +1,21 @@
+UNCLASSIFIED/ /FOR OPPICl"L U.!I! Grit t 
+• May have near-term applications to replace current satellite ion thrusters and 
+extend applicat ion to interplanetary flight. 
+• Requires extensive technology development for air and near-space applications. 
+• Will not be pract ical beyond the solar system unless breakthrough propulsion 
+physics can assist the flight to the next stellar system, where fusion "ion 
+thrusters" can then be used. 
+Despite the attent ion propulsion has gotten from the scientific community, the problem 
+has been insufficiently addressed by the space science community. Although it is 
+certainly true that the fusion drive train must be successful from a theoretical and 
+experimental perspective before consideration for adaptation to the space environment, 
+many critical aspects such as Earth-based launch, space-based assembly, space 
+materials science, safe flight operations, and mission success need to be introduced 
+early in the design phase. More importantly, now that these fusion propulsion concepts 
+are start ing to look both feasible and attract ive, the transition to space and the inherent 
+aerospace application development need considerable focus. 
+Toward this consideration, we now begin with a background on plasma physics that 
+includes fusion efficiencies and confinement schemes for aneutronic fusion, which leads 
+us to the applicat ion to the propulsion concept discussions that follow. 
+UNCLASSIFIED/ /fOR: 8ffl@IAL l:JSE ONLY 
+2

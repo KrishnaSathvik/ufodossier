@@ -1,0 +1,57 @@
+UNCLASSIFIED/fFOR. QFFIEl.t.L: Uii QD:I! X 
+Chapter 2: Hypersonic Compressible Flow Theory 
+Hypersonic flow is typically assumed to apply to objects traveling at M > 5. Figure 6 shows 
+that, for Mach numbers above 5, the ratio of Mach numbers across the shock approaches a 
+constant value of 0.378, although temperature and pressure ratios cont inue to increase. In 
+hypersonic flow, the bow shock, or Mach angle, /3, approaches the half-angle, 0, of slender 
+airfoils and the drag coefficient reaches a constant value that does not change with Mach 
+number. The drag coefficient actually becomes a simple function of the half-angle of the 
+airfoil, and the boundary layer is squeezed between the shockwave and the airfoil surface. 
+150 
+• 
+I
+• 
+-
+' -
+-~..-+---+----+-----ie-----+---+----+----+--'---l -
+' -
+.. • ..... -
+·--.. , ·-···-·•--1111--- .. 
+.. • • • • • "' • • • • • • • • • .-
+-
+:::::::::l:±::t ::c J-
+-
+OL J d 
+09 
+0.8 
+0.7100 
+06 
+Tnllio(M ) 
+0.5 M z(M ) 
+P,mio(M ) ... 
+0.4 
+50 
+03 
+0.2 
+.-~-. -;;;-·· -~·--~----~·-····-,~· o. J 
+I 2 3 4 5 6 7 9 1S 
+M 
+Figure 6. Ratios of Mach Number, Temperature, and Pressure Across a Normal Shock 
+In hyperson ic f low, the Rankine-Hugoniot equations, which are based on the perfect gas law 
+(p = pRT), fail to predict the real behavior of air at extremely high temperatures. Equation 
+12, for example, predicts a temperature of 29, 787° C in the air near the surface of a blunt 
+obj ect traveling at the reentry Mach number of 26.5, while the actual temperature only 
+reaches 7,600° C. The reason for this discrepancy is due to ionization of molecu les of air as 
+electrons are stripped away by the high temperatures tha t exist across the shock. Some 
+energy is used to produce this ionization, and above temperatures of 550° C, equation 15 
+does not accurately predict air temperatures due to shocks. Ionization is responsible for the 
+glowing wake that follows reentry vehicles and meteors as electrons rush to recombine with 
+ions releasing x-rays and visible light. The ionization also interferes with radio transmissions, 
+but provides a convenient way to identify hypersonic objects due to the emitted light. A 
+"rule of thumb" is that the peak shock layer temperature in degrees kelvin is 1,000 times 
+larger than the aircraft speed in km/s. By this standard, a reentry vehicle at 8 km/s 
+(Mach 26.5) would have a maximum shock layer temperature of 8,000 K. At temperatures 
+above 2,000 K, nitrogen and oxygen gas in the form of 02 and N2 will disassociate into 
+individual ions, consuming more energy from the flow. 
+UNCLASSIFIED//EQA: QlililEl.t.L: W&&: O,.L'l 
+10

@@ -1,0 +1,48 @@
+UNCLASSIFIED/ /FOR OFFICIAL U.!I! er•tY 
+instances, the determinant of the radiated signal characteristics. Sidelobes generated 
+using TEM antennas tend to fall off sharply and are accompanied by a stretch ing of the 
+original pulse duration. The distance from the antenna to where the far field region 
+begins is defined such that the travel time of the differential distance is less than the 
+rise time of the pulse. Parameters such as gain and beam width for UWB antennas are 
+difficult to define because these concepts are from the narrowband world, where the 
+definitions are for a single frequency. For UWB antenna comparisons, the community 
+uses the previously described figure of merit concept to aid with this problem. The FOM 
+is the peak electric field measured at some distance multiplied by that distance, thus 
+the unit for FOM is volts. Using this concept, gain for UWB antennas is defined as: 
+UWB gain = FOM/Vp 
+where: Vp is the peak voltage of the driving pulse. 
+Typical gains are 3-4 but with extreme designs can reach 6 and above. These are the 
+antennas of choice for impulse radars since they can be small and lightweight but 
+radiate UWB pulses quite well. However, sidelobe pulse stretching makes the aiming 
+accuracy of the transmitting and receiving antennas crucial. 
+Another technique of interest in WB/UWB antennas uses a log-periodic antenna 
+designed with dispersion characteristics such that, when driven with the proper input 
+signal, it produces the fast rise time pulse required. The drive signal in this technique 
+must have a strong increase in frequency from start to end. No high-power designs 
+using this technique appear to have been accomplished. 
+A new type of antenna, the impulse radiating antenna (IRA), incorporates a parabolic 
+dish as a main component of the design (in fact, it is debatable whether this is actually 
+a new design because it incorporates a parabolic dish). The distingu ishing feature of an 
+IRA is its use of a final fast switch located at the focal point of the dish to provide a 
+spherical waveform to the dish. The design also must include a high-voltage 
+transmission line to feed the peaking switch, which in all probability will not be 
+dispersionless. However, the frequency content of the feed signal most likely will be 
+less than that of the wave front from the peaking switch. The design also must include 
+some number of conical transmission lines from the peaking switch back to the dish, 
+providing something close to an impedance match for the feed pulser. The crucial 
+criterion here is that the IRA be driven by a spherical TEM wave front, in which case the 
+phase center of the wave is then fixed and the IRA is dispers ionless. There is also a 
+much smaller pre-pulse that is radiated from the front side of the switch and is not 
+reflected from the dish. This signal will be radiated two focal lengths ahead of the main 
+pulse. For a 4-meter dish, the pre-pu lse arrives about 10 ns before the main pulse. 
+Fast-acting semiconductor protection devices could in principle be effective in negating 
+the effects of the main pulse. The peaking switch at the focal point must be contained 
+in some insulating media and, thus, there is a reflection associated with the transition 
+to air . The wave front generally is not spherical as it enters the air beyond the peaking 
+switch owing to the physical dimens ions of the switch and high-voltage insulation 
+requirements. Successful IRA designs use the switch insulating media and container to 
+form a lens designed to give a spherical wave at the air interface. The IRA, like the TEM 
+horn, transmits a differentiated signal from the applied pulse. This is why the rise time 
+of the driving pulse is so important to antenna response. 
+UNCLASSIFIED/ /FOR OFFICIO! 1!iii ODIL¥ 
+28

@@ -1,0 +1,40 @@
+UNCLASSIFIED/ /POI\ OPPlelA:L liSI: 8,.LY 
+REFERENCES 
+4.1 W.M. Nevins, Can inertial electrostatic confinement work beyond the ion-ion 
+collisional time scale?" Phys. Plasmas, Vol. 2, No. IO, October (1995) pp. 3804-3819. 
+4.2 L. Chacon, G. H. Miley, D. C. Barnes, and D. A. Knoll, "Energy gain calculations 
+in Penning fusion systems using a bounce-averaged Fokker- Planck modelz" Phys. of 
+Plasmas, vol. 7, no. 11, (2000) p. 4547. 
+4.3 T .N. Tiouririne and D. C. Barnes, Optimization of SCIF Fusion Systems", Bull. 
+Am. Phys. Soc., vol. 40 (1995) pp. 1665. 
+4.4 I.V. Tzonev, J. M. DeMora, G.H. Miley, "Effect of Large Ion Angular Momentum 
+Spread and High Current on Inertial Electrostatic Confinement Potential Structures", 
+Proc. 16th IEEENPSS Symp. On Fusion Engr. (Miley ,and Elliott, eds.) IEEE paper 
+95CH35852, 1476-1481 (1996). 
+4.5 G.H. Miley and H. Momota, "Virtual Cathode in a Stationary Spherical Inertia l 
+Electrostatic Confinement", Fusion Science and Technology, Vol. 40, July (2001) . 
+4.6 H.J. Kim, "Instability Studies on a Spherical Inert ial Electrostatic Confinement", 
+Dissertation, Submitted in partial fulfil lment for the requirements of degree of Doctor of 
+Philosophy, NPRE Department, University of Illinois at Urbana-Champaign, Illinois 
+(2006). 
+4.7 T.H. Rider, "A general critique of inertial-electrostatic confinement fusion 
+systems", Phys. Plasmas, Vol. 2, No. 6, June (1995) p. 1853. 
+4.8 G.H. Miley, John M. DeMora, Brian E. Jurczyk, Martin Nieto, "Computational 
+Studies of Collisional Processes in Inertial Electrostatic Glow Discharge Fusion Devices," 
+18th Symposium on Fusion Engineering, ( 1999) p 23. 
+Section V. Potential Applications 
+The ultimate application for IECs is for electrica l power production . This is discussed 
+further in Section VI. Section V concentrates on various near-term "spin off" 
+applications of neutron/proton/x-ray sources and also non-electrical power applications 
+such as space propulsion . 
+NEUTRON / PROTON/XRAY SOURCES 
+As seen from the discussion to this point, the main application of the IEC to date has 
+been as a small portable neutron source for NAA. In addition, since both D-D and D-3He 
+reactions can be used for proton production, IECs have also been pursed for medial 
+isotope and PET scan isotope production. However, due to the need for high source 
+strengths to fully compete in this arena, that use is still undergoing research. Another 
+novel application noted earlier is the use of the IEC to simulate implantation of D+ and 
+He+in candidate fusion re.actor first wall materials. Yet another novel use involves 
+running the IEC with reverse polarity such that the trapped electrons produce soft x-
+46 
+UNCLASSIFIED/ /5i0A 05i5ilQIAk Wli& 0NLY

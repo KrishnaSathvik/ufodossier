@@ -1,0 +1,48 @@
+UNCLASSIFIED/ /FAQ OFFI&ilAl YSIE 8HtY 
+several nitrogen-containing bases consisting of deoxyribonucleic acid (DNA). By the late 
+1940s the scientific community widely accepted DNA as the carrier of genetic information. 
+But, it wasn't until 1977 that Fred Sanger developed the first dideoxynucleotide chain 
+termination bottom up assembly method for DNA. (84) This technique would later usher in a 
+new age of nucleic acid research and open the door for the modern era of biotechnology. 
+With the advent of the Polymerase Chain Reaction (PCR) (85) technology a virtual treasure 
+trove of capabilities now exist for genetic and biochemical engineers to create customized 
+DNA strands. This revolutionary process has created a multidisciplinary field of work within 
+nanotechnology that intersects at the crossroads of computer science, biochemistry, material 
+science, and engineering. This section on DNA-based nanosystems and computing will 
+introduce several state of the art research applications and concepts currently being 
+employed to produce DNA-based devices. 
+It is crucial to formulate a basic understanding of the structure and chemical principles of the 
+DNA molecule to fully grasp its potential as a building material for DNA-based nanosytems. 
+For the lay reader we have constructed a simplistic outline to illustrate the general principles 
+of the DNA molecule that hold true to their biochemical properties as they apply to bottom­
+up nanostructure assemblies. 
+1. DNA consists of two long polymers made of simple units called nucleotides, with 
+backbones made of sugars and phosphate groups joined by ester bonds. These two 
+strands run in opposite directions to each other and are therefore anti-parallel. The 
+double strands of DNA form a double helical structure. 
+2. The information in DNA is stored as a code made up of four chemical bases: adenine (A), 
+guanine (G), cytosine (C), and thymine (T). The order, or sequence, of these bases 
+determines the information available for building and maintaining an organism. These 
+nucleotides bind through a chemical bonding process known as Watson and Crick base 
+pairing . A bonds with T, and G bonds with C - a given sequence of such nucleotides will 
+always bond with the complementary sequence.P 
+3. In its double helical configuration, DNA is a relatively rigid molecule. This rigidity can be 
+further enhanced by bundling several double helixes to form DNA lattices and tiles to 
+form synthesized nanoarchitechtures (87)(88)(89). 
+4. The Watson and Crick base-pairing principles have created predictable binding affinities in 
+bench top applications. This knowledge of the intra- and inter-molecular physical 
+properties of the DNA molecule enable the programming of desired interactions within the 
+sequences to produce a customized sequence of DNA. 
+5. The ease in sequencing DNA based on the Sanger technique, which today has evolved 
+into advanced automated processes, have made designer DNA strands readily available. 
+Customized strand lengths or oligonucleotides (strands typically 100-200 base pairs long) 
+can be easily ordered from various sequencing services or produced within the lab at 
+relatively low costs with high throughput and quality. 
+6. Today biotechnologists can employ a library of unique restriction enzymes that can cut 
+the DNA strand between specific nucleotides leaving "sticky ends", or single stranded 
+P Sometimes transcription errors will result in an incorrect bond, such as A with G. These are single nucleotide 
+polymorph isms, or SNPs (pronounced "snips"). SNPs are not uncommon in the human genome and have important 
+implications in disease; however, in the current treatise we consider such "wrong" pairings to be errors that need 
+correction . 
+UNCLASSIFIED/ /FOR: orr1e11tt U:!E OHt I 
+24

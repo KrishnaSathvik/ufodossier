@@ -1,0 +1,46 @@
+UNCLASSIFIED/ fFOA OFFIEIA~ W&li QPI~¥ 
+Appendix A 
+STATIC RADIAL ELECTRIC & MAGNETIC FIELDS 
+It is beyond the scope of this report to include all the technical configurations by which 
+one can generate static, radially-dependent electric or magnetic fields. However, there 
+remains the problem of engineering these fields to produce a borderline exotic energy 
+state because classical electromagnetic theory states that every observer will see a 
+non-negat ive energy density that is oc E2 +B2 , where the electric field (£) and magnetic 
+field (B) strengt hs are measured in any observer's reference frame. It is not known how 
+to increase th e tension in these fields using current physics, but some new physics may 
+provide an answer. This techn ical problem must be left for future investigation . 
+SQUEEZED QUANTUM VACUUM 
+Substantial theoretical and exper imental work has shown that in many quantum 
+systems the limits to measurement precision imposed by the quantum vacuum zero­
+point fluctuations (ZPF) can be breached by decreasing the noise in one observable (or 
+measurable quantity) at the expense of increasing the noise in the conjugate 
+observable; at the same time the variations in the first observable, say the energy, are 
+reduced below the ZPF such that the energy becomes "negative." "Squeezing" is thus 
+the control of quantum fluctuations and corresponding uncerta inties, whereby one can 
+squeeze/reduce the variance of one (physically important) observab le quant ity provided 
+the variance in the (physically unimportant) conjugate var iable is stretched/increased. 
+The squeezed quantity possesses an unusually low variance, meaning less variance 
+than would be expected on the basis of the equipartition theorem. One can in principle 
+exploit quantum squeezing to extract energy from one place in the ordinary vacuum at 
+the expense of accumulating excess energy elsewhere (Reference 21) . 
+The squeezed state of the electromagnetic field is a primary example of a quantum field 
+that has negative energy density and negative energy flux. Such a state became a 
+physical reality in the laboratory as a result of the nonlinear-optics technique of 
+"squeezing"-that is, of moving some of the quantum-fluctuations of laser light out of 
+the cos[w(t - z/c)] part of the beam and into the sin[ w(t - z/c)] part (Reference 77-
+82) .15 The observable that gets squeezed will have its fluctuations reduced below the 
+vacuum ZPF. The act of squeezing transforms the phase space circular noise profile 
+characteristic of the vacuum into an ellipse, whose semimajor and semiminor axes are 
+given by unequal quadrature uncertainties (of the quantized electromagnetic field 
+harmonic oscillator operators). This applies to coherent states in general, and the usual 
+vacuum is also a coherent state with eigenvalue zero. As this ellipse rotates about the 
+origin with angular frequency, w, these unequal quadrature uncertainties manifest 
+themse lves in the electromagnetic field oscillator energy by periodic occurrences, which 
+are separated by one quarter cycle, of both smaller and larger fluctuations compared to 
+the unsqueezed vacuum. 
+Morris and Thorne (Reference 21) and Caves (Reference 83) point out that if one 
+squeezes the vacuum-that is, if one puts vacuum rather than laser light into the input 
+port of a squeezing device-then one gets at the output an electromagnetic field with 
+15 w is the angular frequency of light, tis time, and z denotes the z-axis direction of beam propagation . 
+UNCLASSIFIED/ /FOA OFFI&IAk Yi& 8,.k\f 
+29

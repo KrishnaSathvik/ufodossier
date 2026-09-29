@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { releaseLabel } from "@/lib/labels";
 
 export function IncidentRow({ incident }: { incident: any }) {
   const date = incident.occurred_at ?? incident.occurred_at_text ?? null;
@@ -23,6 +24,11 @@ export function IncidentRow({ incident }: { incident: any }) {
 
       {/* Branch + Status */}
       <span className="flex items-center gap-3 shrink-0 sm:ml-4">
+        {incident.tranche_number ? (
+          <span className="text-xs font-mono text-ink-faint uppercase">
+            {releaseLabel(incident.tranche_number)}
+          </span>
+        ) : null}
         {branch && (
           <span className="text-xs font-mono text-ink-faint uppercase">
             {branch}

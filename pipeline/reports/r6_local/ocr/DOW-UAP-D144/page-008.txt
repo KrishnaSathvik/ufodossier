@@ -1,0 +1,27 @@
+UNCLASSIFIED/ ,'FOR OFFI@IAL WSE QptLY 
+a single joystick with six degrees of freedom, some sort of gesture-based system, or 
+one that has those degrees of freedom dispersed across multiple pilot inputs (e.g ., head 
+motion, legs and feet, and arms and hands) remains open for future study. As a 
+provisional baseline, th is report chooses the option of having a pair of six-degree-of­
+freedom joyst icks, one for both the left and right hands and located at the edge of the 
+cockpit chair's arm rests. 
+Three equally avallable recti linear axes of motion Three equally available rotational axes of motion 
+Figure 1, Six Independent Degrees of Freedom. [Graphic : A. Szames] Note : the vehicle shown is strictly 
+hypothet ical and is a combination of three 1960s science fiction vehicles: Seaview submarine, Galileo shuttle, and 
+Amtronic car. 
+Simi lar to requiring new control methods, new display methods are also required to 
+convey more information than in legacy cockpits. In addition to the complete six 
+degrees of freedom, these motions will take place near the Earth's surface, in orbit, and 
+in deep space. A key difference spanning those regimes is the traditional role played by 
+a gravitational field as a reference for orientation and motion. Since a gravitational 
+reference will not always be present, and yet is extremely important when it is present, 
+the new display system must accommodate all regimes in a way that feels natural to 
+the pilots. These particular challenges are addressed in the section on Mixed 
+Operational Regimes. 
+Separation of Internal and External Environments 
+Probably the most significant and perplexing difference for breakthrough-era cockpits is 
+that the sensat ions of motion inside the vehicle will not necessarily match the motion of 
+the vehicle itself. This is both a consequence of the method of propulsion as well as 
+cockpit features designed to ensure crew survival. 
+UNCLASSIFIED/fFOA: OFFICIO la Plili Oralla¥ 
+3

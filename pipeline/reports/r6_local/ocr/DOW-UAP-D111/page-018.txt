@@ -1,0 +1,58 @@
+Determination and Education Ass i stance Act (Pub . L . 93-268 ; 25 U. S . C . 450(c) )) ; or an economic 
+e nterprise (as defined in section 3 (e ) of the Indian Fina ncing Act of 19 74 (Pub . L . 93 -3 62 ; 25 
+U. S . C . 1452(e) )) wh ether such econom i c enterp rise is o r ganize d for profit o r nonp r o fit p u rposes ; 
+which has an agree ment with t he Defense Logistics Agency to furnis h procurement technical assista nce 
+to b u siness entities. 
+(End of c l ause ) 
+(b) The Contractor shall prov i de coope rat i ve a g reemen t ho l ders , upon their request , with a list 
+of those appro priate e mployees or off i ces responsible for enteri ng into s ubcontracts under defense 
+contracts . The list shal l i nc lude the bus ine ss address , tel ephone number , and area of resp ons i b ility 
+of e a c h employee or office . 
+(c ) The Contractor need not provide t he listing to a particular cooperative agree ment holder more 
+f requent l y than once a y ea r . 
+I . 4 252 . 211- 7000 ACQUI SITI ON STREAMLI NING (DEC 1991) 
+(a ) The Gover nment's acq ui sition streamli n ing objectives are to-­
+(1 ) Acqu ire s ys tems that meet stated p e r for mance requireme nts ; 
+(2 ) Avoid over-spec i fica t ion ; a nd 
+(3 ) Ens ure that cost - e ffect ive requirements are inc l u ded i n 
+fut u re acq ui sit i ons . 
+(b) The Contractor s hall --
+(1 ) Prepare and submit acq uisit i on streamlining recommendations 
+i n a ccorda nce with the stateme nt of work of this co nt rac t ; 
+and 
+(2 ) For mat an d submit t he reco mmendatio ns as prescribe d b y data 
+requ irements on the contract dat a requ ireme nts l ist of this 
+contract . 
+(c ) Th e Gov ern ment has the r i g h t to accept , modify , o r reject t h e Cont ractor's recommen dations . 
+(d ) The Contractor s hall insert t h is cla u se , including t h is paragraph (d ), in all subcontracts over 
+$1 mi lli on, awarde d i n t h e performa nce of this cont ract . 
+(En d of c l ause ) 
+I . 5 252 . 211- 7001 AVAI LABI LI TY OF SPECI FICATIONS , STANDARDS, DATA I TEM DESCRIP TIONS NOT LIS TED IN THE 
+ACQUISITION STREAMLINING AND STANDARDIZATION INFORMATION SYSTEM (ASSIST) , AND PLANS, DRAWINGS , AND 
+OTHER PERTI NENT DOCUMENTS (MAY 2006) 
+Offero r s may obta i n t he specificati ons , standards , p lan s , drawings , data i tem descriptions, a n d 
+other pertinent documents cited i n this solic i tation by s ubmitti ng a req uest to : 
+Inc l ude t he numbe r of t he sol i citation and the title an d numbe r of t he specif i cat i on , standard , 
+plan , dra wi ng , or other perti nent doc ument . 
+(End of provision ) 
+I . 6 252 . 2 11 -7 00 2 AVAILABILITY FOR EXAMI NATION OF SPECIFICATIONS , STANDARDS, PLANS, DRAWINGS , DATA 
+ITEM DESCRIPTIONS , AND OTHER PERTIN ENT DOCUMENTS (DEC 1 991 ) 
+The specifica t ions , s t andards , p l ans , drawings , data it e m d escr i ptions , and othe r p ert i nent 
+docume nts cit ed i n thi s solicitat i on a r e not avai lab l e for distrib u tion but ma y be e xamin e d at t he 
+following l ocatio n : 
+(End of p rovis ion) 
+I . 7 252 . 211- 7003 I TEM IDENTI FICATI ON AND VALUATION (AUG 2 008 ) 
+(a) "Defin itions ." As used i n this clause- -
+(1 ) For i t ems t hat a r e serialized within the e nterprise iden tif ier , the lin k i ng toget her of 
+the u niqu e i de ntifier data elements in order of the issuing agency code , enterprise identifier , a nd 
+unique ser i al number within t h e e nt erpri se i dentif ier ; or 
+"Enterprise " mea n s the e ntity (e . g ., a manufacturer or vendor) responsible for assigning unique 
+item identif i ers to items . 
+"Automatic identificatio n device " means a dev i ce , such as a reader or interrogator , used to retrieve 
+data encoded on machi ne -readable media . 
+"Concatenated un i que i tem i de ntifi er " mea ns--
+(2 ) For items t hat are serialized with i n t he origi nal part , lot , or batch number , the l inking 
+together of the un i que identif i er da t a elements i n order of t he is su i ng agency code ; enter pr i se 
+identifier ; origi nal part , lot , or batch number ; an d serial number within the origina l part , l ot , or 
+batch number. 
+PAGE 18 OF 59 HHM402-08-C-0072

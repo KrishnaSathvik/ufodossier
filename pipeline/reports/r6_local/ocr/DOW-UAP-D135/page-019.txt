@@ -1,0 +1,36 @@
+UNCLASSIFIED/ fFOA OFFIEIAk W&i 0Pilk¥ 
+(15) 
+whereby this term now behaves like the stress-energy tensor of the vacuum, Tv~; , 
+which acts as a gravitational source: 
+T r,v - Ac4 r,v (16) 
+vac - 87tG g 
+One should note that the absence of a preferred frame in special relativity means that 
+r;.; must be the same (that is, isotropic or invariant) for all observers. There is only 
+one isotropic tensor of rank 2 that meets this requirement: riµv (the Minkowski flat 
+spacetime metric tensor in locally inertial frames). So in order for r;.; to remain 
+invariant under Lorentz transformations, the only requirement is that it must be 
+proportional to ri µv . But this generalizes in a straightforward way from inert ial 
+coordinates to arbitrary coordinates by replacing ri µv with gµv , thus justifying the curved 
+spacetime metric tensor in Equation (16). By comparing Equation (16) with the perfect­
+fluid stress-energy tensor in Equation (12), one finds that the vacuum looks like a 
+perfect fluid with an isotropic pressure P vac opposite in sign to the energy density P v•c • 
+Therefore, the vacuum must possess a negative-pressure equation of state (according 
+to the first law of thermodynamics): 
+P vac = -Pvac (17) 
+The vacuum energy density should be constant throughout spacetime, since a gradient 
+would not be Lorentz invariant. So by substituting Equation ( 17) into PE + 3p, the 
+following is produced 
+P vac + 3 P vac = P vac + 3 ( - P vac ) 
+(18)=-2Pvac 
+< 0. 
+The vacuum equation of state is therefore manifestly negative. Last, when incorporating 
+pva c into the Einstein field equation as a gravitational source term, and comparing its 
+corresponding (Lorentz invariant) stress-energy tensor P vacg• " ' with Equation (16), then 
+the usual ident ification (or definition) is made that: 
+A c4 
+(19)P vac = S1tG 
+Thus the terms "cosmological constant" and "vacuum energy" are essentially 
+interchangeable in this perspective and mean the same th ing (whereupon P vac = p.,..), 
+which is seen in the present-day cosmological literature. 
+UNCLASSIFIED/ /FOA OFFI&IAb Yi&: 8,.bY 
+14

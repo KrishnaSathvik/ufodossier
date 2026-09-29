@@ -1,0 +1,24 @@
+M-913-65-04 
+a. Leakage 
+b. Proof pressure 
+c. 02 compatibility 
+d. Ejection envelope 
+e. Cold temperature 
+f. Rapid decompression 
+g. Life cycling 
+h. Visor testing 
+Should the 25-foot long tether fail in some manner, the pilot will be carrying 
+a chestpack that has been compatibility qualified with the G4C suit and con­
+sists principally of an emergency oxygen bottle with automatic valving. 
+It should be emphasized that both the primary and backup flight crews have 
+undergone 40 minutes cabin depressurization with the hatches open at a 
+simulated altitude of 150,000 feet in the chambers at McDonnell, St. Louis 
+during which time they practiced opening and closing the hatches, taking 
+pictures, and other actions that will take place during EVA. 
+The extravehicular maneuvering will be accomplished using a zero g Integral 
+Propulsion (ZIP) Unit as shown in Figure 5. This device is handheld and 
+accomplishes propulsion by jetting oxygen out through a single forward firing 
+nozzle and two aft firing nozzles as selected and aimed by the operator. It 
+includes a camera mounted for convenient extravehicular photography. 
+FIG. 5 
+6/1/65 Page 5

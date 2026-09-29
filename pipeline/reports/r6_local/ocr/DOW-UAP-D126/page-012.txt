@@ -1,0 +1,35 @@
+UNCLASSIFIED/ /P91t 9ffl@IAL YSE &P•tlf 
+Because the 6 charged fusion products are accompanied by 9 electrons, they have to 
+share their kinetic energy with 9 electrons. This reduces the maximum specific impulse 
+by the factor .J(6+9)/6 =m to ~ = 0.95 x 109cm/s. 
+A reduction of the specific impulse does not occur if the electrons have enough time to 
+escape the burning plasma behind the detonation front; that is, in a time shorter than 
+the time for them to be heated by the charged fusion products. 
+The time needed for the electrons to be heated by the charged fusion reaction products 
+can be computed from the range Ao of the charged fusion products and their velocity v 
+in a plasma at the temperature T. For the He4 fusion products, the range is given by 
+(kT) 312 
+Ao= _a_ . - , a = 2.S x 1034 [cgs] (8) 
+n 
+This time is 
+' = Ao = a(kT) 312 
+(9) 
+v n v 
+It then has to be compared with the time the electron can escape the burning plasma 
+behind the detonation front, given by 
+(10) 
+where ro is the rad ius of the burning deuterium cylinder, and ve the electron velocity. 
+One thus has 
+t e,c V nr0 - = ----------
+T V e a(kT) 312 (11) 
+Putting n = 1023 cm-3, T ~ 108 K with Ve~ 109 cm/s, V~109 cm/s, one finds tescl-r~ 
+2.5 'o . Therefore, tesc < r requires that 'o < 0.4 cm. 
+To reach the highest specific impu lse possible, one should make the deuterium cylinder 
+as thin as possible. 
+Magnetic Entrapment of the Charged Fusion Products and 
+the Stopping of the Proton Beam in Dense Deuterium 
+If a fission bomb is used to trigger a thermonuclear detonation, so much energy is 
+available that almost any radiation implosi on configuration is likely going to work. As an 
+example, one may place a fission bomb and a sphere of solid deuter ium in a shell of 
+UNCLASSIFIED/ fFOR OFFI&I.t.k Y&E 8HLY 
+6

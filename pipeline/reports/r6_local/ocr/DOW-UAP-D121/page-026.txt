@@ -1,0 +1,40 @@
+UNCLASSIFIED/ j POK eFFICIAL Y§liii Ql'.L¥ 
+ray production, and beam breakup. The combination of x-rays and the high base 
+pressures has led to breakdowns in the cavities and unstable beam propagation. 
+SPLIT-CAVITY OSCILLATORS 
+Split-cavity oscillators (SCOs) utilize transit-time bunching of the beam to generate 
+microwave energy. They can generate microwave pulses of about 100 MW for durations 
+on the order of 100 nanoseconds (ns) . The SCO can be very compact since no magnetic 
+field is required and low beam quality requiring only basic pulse power sources is 
+adequate. Complete systems, including a power supply and mode -converting antenna, 
+have been built on roll -around laboratory carts. 
+VIRTUAL CATHODE OSCILLATORS 
+Virtual cathode oscillators (vircators) operate because of a phenomenon of intense 
+beam physics. They have no convent ional counterpart. They have operating frequencies 
+tunable from 300 MHz to 40 GHz, no required magnetic field, simple construction, and 
+low efficiency. Power output varies from 200 MW to 15 GW, and efficiencies range from 
+1 to 10 percent. Operation is typically in a TM mode in a cylindrical geometry with 
+mode conversion necessary for efficient radiation. The frequency of oscillation of a free­
+running vircator is related to the relat ivistic beam plasma frequency and typically chirps 
+upward during the pulse. Plasma closure effects limit the pulse length. Containing the 
+oscillating beam in a resonant cavity can stabilize the frequency . If the resonant cavity 
+is driven by an external source, the vircator can be made to lock to the external signal. 
+Although vircators' simplicity is a major advantage, their very low efficiency poses real 
+problems for weaponization . They have been used as sources for testing, where 
+efficiency and size are not an issue. 
+MAGNETRONS 
+HPM magnetrons are basically relativistic, cold-cathode versions of their conventional 
+counterparts . They are characterized by relatively high efficiency, low power densities 
+internal to the tube, robust operation, and compact size. Their modulators and power 
+supplies are simple and inexpensive compared with BWOs, TWTs, and RKAs. Relativistic 
+magnetrons have achieved efficiencies of 10-30 percent in the bands from 0.5 to 10 
+GHz at power levels of about 5 GW. Pulse widths are on the order of 100 ns, limited by 
+plasma closure of the anode-cathode gap. Magnetrons may be phase locked for higher 
+output power. 
+The magnetically insulated line oscillator {MILO) is essentially a magnetron that uses 
+the magnetic field of the beam current to prov ide magnetic insulation between the 
+cathode and anode. This elim inates the need for pulsed magnets and their power 
+supplies while also reducing the size and weight of the system. No mode conversion is 
+required with the MILO. 
+UNCLASSIFIED/ ,sroR. OFFl&IAI:: Y&liii 91\tl::lf 
+18

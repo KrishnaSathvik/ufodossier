@@ -1,0 +1,49 @@
+UNCLASSIFIED/ /FOR OFFICIAL l:191!! 6HL'f 
+CONCLUSION 
+Future aerospace platforms may have propulsion systems that modify their surrounding 
+spacetime geometry to implement faster-than-light spaceflight (via traversable 
+wormholes or warp drives) or produce levitation via antigravity. To engineer such a 
+modification of local spacetime requires the use of quantum sub-vacuum fluctuations 
+and their associated sub-vacuum ( or negative) energy density. There are two key 
+examples of specially prepared quantum vacuum states that are known to produce 
+small amounts of sub-vacuum (negative) energy density in the laboratory. These are 
+the well-known Casimir effect and squeezed light. There are several other examples of 
+special quantum vacuum states or particle states that produce sub-vacuum (negative) 
+energy density, but they are still under theoretical study. 
+We already make small amounts of sub-vacuum (negative) energy in the laboratory via 
+the Casimir effect and squeezed light, but we do not yet know if we can access larger 
+amounts for extended periods of time over extended spatial distributions. The 
+Quantum Inequalities theorem suggests that producing large amounts of sub-vacuum 
+(negative) energy in "deformed" vacuum states for extended periods of time in flat or 
+curved spacetimes may not be possible. This claim remains as yet untested by 
+experiment while several investigators have strong arguments showing the theorem is 
+in error in these particular cases. 
+Quantum optical homodyne tomography can detect and quantify the fluctuations in a 
+variety of ("undisturbed") vacua as well as the sub-vacuum fluctuations found in both 
+squeezed light and Casimir cavities. Squeezed light has time-dependent, alternating 
+regions of sub-vacuum fluctuations (a.k.a. two-point functions) of the quantum electric 
+field. Casimir geometries provide environments with non-trivial position- and 
+frequency-dependent, time-independent, often sub-vacuum fluctuations (two-point 
+functions) of the quantum electric field. Balanced homodyne detectors (BHD) with local 
+oscillators are amplifiers that are capable of providing detailed measurements of the 
+sub-vacuum fluctuations (the two- and n-point functions) of the states of the quantum 
+electromagnetic field. 
+Nearly a decade ago, Hansen et al. [4] reported on their experimental time-domain (or 
+pulsed) BHD device that they developed to make precise measurements of the quantum 
+electric field quadratures of pulsed optical quantum states (e.g., squeezed light). A 
+master laser produced the local oscillator for this device. The device demonstrated a 
+high level of common mode suppression and low electronic noise, which provided large 
+enough signal-to-noise ratio to measure the quantum noise of individual pulses. The 
+device exhibited over 90% quantum efficiency. However, their device was not designed 
+to directly measure the energy density of the individual pulses. We recommend that a 
+research and development program be implemented to modify the design and operation 
+of the time-domain BHD device in order provide this important data. It will be 
+necessary to develop and commercialize a portable time-domain BHD device for the 
+purpose of detecting, measuring, and spatially mapping the sub-vacuum (negative) 
+energy regions produced by a putative pulsed (or "AC") negative energy generator that 
+might be used for engineering the spacetime surrounding an aerospace platform for 
+propulsion purposes. A number of modified time-domain BHD devices could also be 
+assembled in a sensor array for surveillance and detection of any anomalous aerospace 
+platforms that might use engineered spacetime effects for propulsion. 
+UNCLASSIFIED//FAR AEEICl\k W&li 8HLY 
+43

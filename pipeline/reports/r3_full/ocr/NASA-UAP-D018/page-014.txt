@@ -1,0 +1,43 @@
+M-913-65-04
+
+batteries will be required, radial thrusting TCA's and burst diaphragms in the "B"
+package that were removed for GT-3 are both installed on GT-4, and will act
+through the Spacecraft Centers of Gravity. An HF antenna has been added to the
+adapter section for orbital use and the HF transciever there has been removed.
+The C-band phase shifter now has its own inverter, the recovery flashing light
+
+can now be turned off during daylight hours, the HF antenna on the cabin section
+has been redesigned, and the adapter S-band transponder in the adapter section has
+been replaced with a C-band transponder which will have a different pulse spacing
+from the one in the spacecraft. In the GT-4 mission S/C, urine will be dumped
+directly overboard from the urine bellows through a shut-off and selector valve, a
+solenoid valve and a heated line. Redundancy is provided by the capability to
+dump urine through the launch cooling heat exchanger (water boiler). The main
+chute disconnect cartridge has been changed from a 22-second time delay to a
+zero second delay and new long-life attitude thrusters have been installed.
+
+EXPERIMENTS
+
+The 13 experiments are depicted and described on the following pages:
+
+1. D-1, Basic Object Photography
+In conducting this experiment, the as- |D-1 BASIC OBJECT
+
+tronauts will employ elaborate photo- PHOTOGRAPHY
+
+optical equipment to investigate the
+technical problems associated with
+observing, evaluating, and photo-
+graphing objects in space. These
+objects include the 2nd stage of
+the launch vehicle and natural
+celestial bodies such as the moon.
+Data from this experiment will be
+used to evaluate the astronauts’
+ability to view and track objects,
+and to maintain object-camera
+orientation by maneuvering the
+spacecraft. Equipment which will
+be used is illustrated in Figure 3.
+
+5/24/65

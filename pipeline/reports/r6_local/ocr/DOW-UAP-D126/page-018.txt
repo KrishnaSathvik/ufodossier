@@ -1,0 +1,48 @@
+UNCLASSIFIED / /FOfOFFECEALUSE-CNET
+
+To estimate the order of magnitude of what is needed, we consider a spacecraft with a
+mass of M, =10°ton =10’g, to be accelerated by one g =10°cm/s?, with a thrust
+
+T = M,g = 10" dyn. To establish the magnitude and number of fusion explosions needed
+to propel the spacecraft to a velocity of v= 100 km/s = 10’ cm/s, we use the equation
+
+dm
+T =c— 22
+Tt (22)
+
+where we set c=10*cm/s, equal to the expansion velocity of the fusion bomb plasma.
+
+We thus have
+
+MO Sc 10*g/s = 10 kg/s (23)
+dt c¢
+The propulsion power is given by
+c dm ec
+= — —— =-—T
+2 dt 2 al
+
+which in our example is P=5~x10'°erg/s.
+
+With E=4x10" erg equivalent to the explosive energy of one kiloton of TNT, P is
+equivalent to about one nuclear kiloton bomb per second.
+
+From the rocket equation
+
+M
+
+»=¢ln| — 25
+v M, (25)
+
+where My is the initial and M, the final mass, and setting M,_ My. AM , where
+
+AM <<Mo is the mass of all used up bombs, one has
+
+yscin( 1M agit (26)
+_ 0 7 M,
+
+Here v is the velocity reached by the spacecraft after having used up all the bombs of
+mass AM. If one bomb explodes per second, its mass according to equation (23) is mo
+= 107g,
+
+12
+UNCLASSIFIED / /+OR-OFFE6EA-USE-ONET

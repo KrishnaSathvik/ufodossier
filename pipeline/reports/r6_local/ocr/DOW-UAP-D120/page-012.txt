@@ -1,0 +1,50 @@
+UNCLASSIFIED// POI\ OPPICl"L U.!I! Oflt I 
+in materials with small annual sales volume, so even licensing the new material to one 
+of these companies may not be commercially feasible . 
+This foregoing discussion highlights a commonly encountered inconsistency between 
+technical innovation and commercial progress. Until a production-scale source exists, 
+pricing of new materials is at best highly uncertain and potentially unstable over time. 
+This is in part due to the uncertainty surrounding demand and the associated volume of 
+material that will be required. Taken together, these factors act as a clear deterrent to 
+the adoption of new materials of literally all classes (polymers, metals, and ceramics). 
+For heavily loaded structures or structures that will experience temperatures higher 
+than about 200 °Celsius, Ti alloys are the preferred material class. Ti alloys are about 
+half as dense as steel or Ni-base alloys and possess a density-corrected strength and 
+stiffness competitive with that of other metallic materials. Numerous grades of Ti alloys 
+are in use today, and a strong domestic industrial base of suppliers exists for nearly all 
+these grades . Ti alloys for structural applications can be divided into three groups based 
+on their metallurgy: near a alloys, a+p alloys, and metastable p alloys (commonly called 
+p alloys for short) . Both the aircraft and propulsion original equipment manufacturers 
+and several private engineering firms have extensive design experience with Ti alloys. 
+Although most of this experience is with Ti-6Al-4V (Ti-6-4 ), other alloys also are widely 
+used, particularly in jet engines and liquid-fueled rocket engines. The alloy most likely 
+to be used in a launch vehicle, Ti-6-4, has been available and in use for more than 40 
+years but is still highly competitive with newer grades in large part because of its 
+versatility. Potential applications of other alloys that have particularly attractive 
+characteristics, such as a higher temperature capability, are discussed in the Reusable 
+Reentry Vehicle and Propulsion Systems sections of this document. 
+The most commonly used structural grade of Ti alloy today, Ti-6-4, can be readily 
+fusion welded, formed both by forging and as a sheet product, and conventionally 
+machined, although each of these operations requires special precautions. In addition, 
+the feasibility of friction stir weld ing has been demonstrated. Ti-6-4 also can be 
+superplastically formed and diffusion bonded, enabling synthesis of innovative ly shaped 
+components. For launch vehicles, the most likely application for Ti alloys is in the 
+structure that carries the reactions from the propulsion system to the vehicle itself. 
+These applications typically involve heavy sections to accommodate the large loads, 
+and the main property requirements are high strength, fatigue resistance, and fracture 
+toughness. Ti alloys have been used in both military and commercial aircralt. Heavily 
+loaded components in service today include the wing box of the B-1B bomber (Ti-6-4), 
+the landing gear beam in the B-747 (Ti-6-4), and the landing gear truck beam in the B-
+777 (higher strength Ti-10V-2Fe-3AI [Ti-10-2-3]). The choice of Ti-10-2-3 for the 
+landing gear truck beam reflects the time-based maturation of the newer p-Ti alloys, 
+such as Ti-10-2-3. These alloys have the advantage of being "deep hardenable"­
+compared with Ti-6-4, they can develop full strength in thicker sections during heat 
+treatment . For example, that the B-777's truck beam is up to 6 inches thick in some 
+locations factored significantly in the choice of Ti-10-2-3. Because Ti alloys are about 
+half as dense as steel, they are very competitive on a density-corrected basis. However, 
+mass is not the only driver for some applications; the volume of a component also must 
+be compatible with the space available for it. This factor also is a considerat ion in the 
+choice ofTi -10-2-3 for the B-777 truck beam. And it also applies to an application such 
+as landing gear, because it is retracted into the fuselage for aerodynamic reasons. 
+7 
+UNCLASSIFIED/ f FOR. OFFl&IAI:: W&li &Ptl::lf

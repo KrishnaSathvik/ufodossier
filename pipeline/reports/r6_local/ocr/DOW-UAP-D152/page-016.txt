@@ -1,0 +1,22 @@
+UNCLASSIFIED/ /P'OR. 8FFIEil1'1.k lellii Ql'II.¥ 
+s 
+Figure 3. Circular motion of a pole-dipole particle. 
+Because it is self-accelerating the circular motion will eventually reach the velocity of 
+light. The connection with Schrodinger's analysis is reached if one puts in Planck's 
+constant and m as the electron mass 
+h r 
+c 
+=--
+2mc' (37) 
+whereby the circular motion around S produces just the angular momentum h/2 as in 
+Dirac's equation. 
+The velocity-of-light result was first obtained by Breit [6], according to which Dirac's 
+equation predicts a local electron velocity equal to the velocity of light. Even though its 
+time-averaged velocity is always less than the velocity of light, this means that the 
+electron, represented by the pole-dipole configuration, makes a circular luminal motion 
+onto which a subluminal motion of the center of mass Sis superimposed. The trajectory 
+of the resulting motion is a screw-line, but it is the motion of Sonly which one identifies 
+with the (time-averaged) electron velocity. The result derived from this simple pole­
+dipole model is in beautiful agreement with Schrodinger's analysis of the Dirac equation, 
+UNCLASSIFIED//P'Olll OPPIEll<L tt!II!! or~LY 
+12

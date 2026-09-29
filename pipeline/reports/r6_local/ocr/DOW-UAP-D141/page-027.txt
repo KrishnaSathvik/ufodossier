@@ -1,0 +1,51 @@
+UNCLASSIFIED/ (FOR OFEICI0k YSE 8Htt 
+prospect is not too farfetched because scattering in mid-infrared by atmospheric gases 
+is essentially zero. For such a remote powering scenario to be feasible, one would need 
+a highly efficient absorber at the specific wavelength corresponding to that of the 
+source. Moreover, as the space platform is moving, it is desirable that the absorption 
+remain high even for non-normal incidence angles. 
+The second application is for thermophotovoltaics (TPV) (Reference 35). Some type of 
+thermophotovoltaic converter will almost undoubted ly be installed on the advanced 
+aerospace platforms of the future. Presently even advanced ( experimental) electric cars 
+are using TPV cells to convert the heat from their engines into electricity. Such 
+converters have already been shown to be capable of increasing the range of electric 
+vehicles by a factor of 3. We believe that metamaterials could play an important role in 
+developing highly efficient TPV cells. By virtue of Kirchhoff's law, emissivity of a thermal 
+emitter approaches the blackbody limit only if the absorptivity approaches unity. 
+Moreover, wavelength-selective radiators can dramatically improve the efficiency of 
+curre nt generat ion in a TPV cell if their emission spectrum is matched to the bandgap of 
+the TPV converter. For example, a typical TPV converter, GaSb, has the bandgap of EG 
+= 0. 7 eV that would be ideally suited to a wavelength-select ive radiator operating in 
+near infrared around A= 1.7 µm. 
+ReHecllcn from SiC on Au Absorption vs. n, and ni for 1'.=13µm (ro=760cm-') 
+2.5~--~--~--~--~--~ 
+2 SIC 
+07 
+_i!;'0.6 - 1.5C _;,, 
+'oiiii 0.5 
+'ii .§" 
+a: 0.4 1 
+03 
+0.5 0.2 
+· · ••·Toeory0.1 
+- Experimental data 
+oL------------=========l 6 6.5 7 7.5600 700 600 900 1000 I 100 1200 Real(n) k(cm"'l 
+Figure 21. (Left) Experimental Result, Reflectivity Versus Wavelength, that Inspired the Proposed 
+Effort: A Modestly Absorbing Material (SIC) Turns Into a "Perfect Mid-IR Absorber" When a A/4 -Thick 
+SiC Film Is Backed by a Metal Mirror. (Right): Theoretical Plot - Constant Reflectivity Contours Plotted 
+in the (Real(n), Imag(n)) Space. High material absorptivity Imag(n) is required to achieve perfect absorption 
+(R=O). Posed question : can a metamaterials-based semi-transparent mirror enhance absorption and result in an 
+almost-perfect ultra-thin absorber? 
+The perfect absorbers shown in Figures 17-19 may be too complex for practical 
+applications. Metamaterials tend to be lossy because of the large field concentration in 
+the metal. Therefore, work has recently started working on a new type of metamaterial 
+(so-called CMMs mentioned in the Introduction), that could potentially make weakly­
+absorbing semiconductors (that is, Si in the visible) absorb much stronger. The goal 
+here is to make a thin (although not necessari ly a very sub-wavelength) absorber 
+backed up by a sheet of CMMs which would prevent reflections and result in a very high 
+absorption. Applications that are considered are essentially the same as for the 
+"perfect" absorbers described above. For example, satellites can use the Earth glow for 
+nighttime battery recharging. The collected power is quite high; 1 m2 of black surface at 
+23 
+UNCLASSIFIED/ {fQR OFEICl.t.ls: 1.181!! 8flti 
+8

@@ -1,0 +1,63 @@
+K
+
+“Meteors” (A Symposium on Meteor Physics): Special Supplement (Vol. 2) to J. Atmosph. Terr. Phys. (1955)
+
+Meteor Ionization in the E-region -
+
+Maurice Dvusin
+Air Force Cambridge Research Center, U.S.A.
+
+ABSTRACT ;
+
+The theories of meteoric interaction with the atmosphere have been reviewed to determine the total
+contribution by meteors to the ionization content of the H-region. From Herlofson’s theoretical
+treatment of this interaction, and Watson’s distribution of the size and numbers of meteoric particles
+entering the atmosphere per day, the number of electrons produced at various altitudes in the H-region
+was computed. These computations indicated that most of the ionization at higher altitudes resulted
+from meteors of large visual magnitude. Since, as Whipple has shown, the ablation process would probably
+not occur in the case of micrometeorites because of heat loss by radiation, the collision processes for
+ionization were reviewed; it seems that the ionization process is mainly a function of the relative energy
+of the collision, and therefore ablation prior to ionization would not be required for small particles.
+Using the value (of GREENHOW and Hawkins, 1952) for the efficiency of the ionization process and the
+recently revised value for the amount of meteoric material entering the atmosphere per day, the rate of
+production lof electrons was found to be 20 electrons/ce sec. From this value and the recombination
+coefficients in the H-region, the equilibrium electron density in the H-region was found to be between
+2.x 104 and 7 x 104 electrons/ce. It is therefore proposed that the night-time value for the electron
+density in the #-region results from meteoric bombardment, and that sporadic H is caused by the same
+process on the assumption that the distribution of meteoric particles in space is non-isotropic and
+contains centres of high density. Perhaps, also, the interaction of charged micrometeorites with the
+earth’s magnetic field, may be considered as a mechanism for the production of magnetic storms.
+
+1. INTRODUCTION
+
+Meteors, as commonly known, are extra-terrestrial particles of only a few milli-
+grams, which enter the earth’s atmosphere at relatively high velocities. In their
+interaction with the air, they are vaporized by the heat generated and are respon-
+sible for the emission of light and production of ions along the meteor trail. The
+major portion of the kinetic energy of the meteoric particles is absorbed in the
+altitude region between 80 and 120 km. It is attempted below to consider whether
+the integrated effects of this meteoric interaction might contribute to the structure
+of the #-region.
+: 2. THEORY
+
+HERLOFSON (1948) has constructed a model for the interaction of meteoric particles
+with the atmosphere. It is assumed that in the region of meteoric flash, the mean
+free path of the molecule is much greater than the radius of the meteor. Under
+such conditions, the front surface of the meteor is bombarded by single air mole-
+cules and the major portion of them is trapped in the metal surface. The kinetic
+energy relative to the meteor which is given up to the meteor suffices to bring the
+temperature to that of evaporation. The meteor atoms evaporate off the meteor
+(ablation) with velocities appropriate to the temperature and the relative velocity
+of the meteor with respect to the air.
+
+From consideration of the physical interaction. of the meteor with the air mass,
+using the differential form of the conservation of energy and momentum, HERLOFSON
+determined the equation for the rate of evaporation at any point along the trail.
+
+n = $%max(P/Pmax) [1 — 3(p/Pmax)]? (1)
+where mmax = 7 X 107% 7,2 = the maximum rate of evaporation.
+p =the pressure at any point along the trail.
+Pmax = 4 X 10-*r,, = pressure along the trail where mmax occurs.
+’,. = the initial radius of the meteoric particle.
+
+lil

@@ -1,0 +1,43 @@
+UNCLASSIFIED/ /FOR OFFICIO ls. W&li QNkY 
+AFRL, called the Matrix, is simply a quarter-wave, high-voltage coax line that is 
+switched onto a half-I RA antenna by a high-pressure hydrogen switch. This produces a 
+damped sinusoid with a frequency variable from 180 to 600 MHz by means of different 
+coax line lengths. 
+DIEHL Munit iossysteme in Germany manufactures several mesoband sources for sale to 
+the public. One is a suitcase-sized system using a compact 600-kV Marx generator to 
+provide an impulse to a loop antenna. It is made tunable by changing the size of the 
+loop antenna and can radiate a damped sinusoid at 70 kV/m at 2 meters' distance. 
+BAE Systems in the United Kingdom also sells mesoband sources made using nonlinear 
+transmission lines and solid-state modulators . These are repetition-rate operated to 
+more than 1 kHz. 
+HPM Antennas 
+Many types of antennas are used for radiating HPM signals, and the choice of which to 
+use depends on many factors, including power level, bandwidth, size constraints, 
+efficiency and range requirements, and fratricide concerns. This section discusses the 
+most common antennas used for high-power applications: horns, parallel -plate 
+antennas, and impulse radiating varieties. 
+NARROWBAND ANTENNAS 
+HPM narrowband antennas have typically been extrapolations of conventional types 
+modified in some way to prevent air breakdown and to support higher electric fields. 
+Antenna arrays are in development, albeit mainly for phase-locked multioscillator 
+systems. The obstacle to using arrays in single-oscillator systems is that little has been 
+done to develop the required antenna subelements (phase shifters and phase splitters) 
+capable of high-power operation. Eventually, however, antenna arrays will be dominant 
+in narrowband HPM because higher powers will require larger area antennas to prevent 
+breakdown and arrays are the only antennas that are compatible with electronic control 
+for tracking targets. To achieve good effectiveness and gain, the array size should be 
+larger than the wavelength to be radiated. The beam width is approximately 2A/L, and 
+the gain is L2/V . Also of importance is the separation between elements in the array. 
+Larger distances between elements cause grating lobes offcenter from the main beam. 
+If the distance between elements can be reduced to less than the wavelength, grating 
+lobes will be minimal. In practice, however, breakdown constraints make this hard to 
+accomplish. 
+In practice, only a very small number of antenna types have been used in narrowband 
+HPM with any success. By far the most common type is the horn in its many forms, 
+including transverse electromagnetic (TEM), pyramidal, and conical. One advantage of 
+horn antennas for narrowband use is that the radiation pattern and the gain can be 
+calculated precisely. 
+For TEM and pyramidal horns, the gain is given by: 
+G = 2nab/ A2 
+UNCLASSIFIED/ /fOR. 8ffl@IAI:: W&lii 8PUzlf 
+25

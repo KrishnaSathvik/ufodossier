@@ -1,0 +1,62 @@
+UNCLASSIFIED/ LEQB.OEFELICIAL-USE-O NET
+
+amplitudes ( A(k,) and A(k,)). Therefore, a new concept has to be developed, and the
+multi-detector technique is such a concept.
+
+The concept requires two detectors and two coherent laser beams. The two beams are
+formed using a beam-splitter and a variable delay line imparting a phase shift to the
+two beams (see the actual experimental photograph in Figure 13 where the beam-
+splitter BS and the Delay Line are shown). We have theoretically demonstrated that the
+
+intensity dependences of the two detector intensities /,(y) and /,(y)as a function of
+the phase delay y provides enough information to recover both A(k,) and A(k,).
+
+Unequal grating phase interference: , 2" orders
+
+100 nm Au
+220 nm SiO,
+
+440 nm SiC
+
+220 nm SiO,
+100 nm Au
+
+_
+
+D,= 2.94 ym
+
+Detector intensity (normalized to 0"" order transmission)
+
+| Delay Line» O 20 40 60 80 100 120 140 160 180 200 220 240
+1 J Example "micrometer position” not correlated to phase
+
+Figure 12. (Left): Schematic for 2-Beams/2-Detectors Interferometric Measurement. (Right):
+Numerical Simulation: intensity on the two detectors as a function of the phase delay between beams A and B
+produced by the interference between the zeroth and first diffractive orders of the bottom diffractive grating
+(numerical simulation). The second detector provides the necessary second data point which is necessary for
+separating the contributions of different diffractive orders.
+
+Two sets of experiments demonstrating the feasibility of the concept are conducted.
+None of these experiments constitutes imaging per se. However, without demonstrating
+the two key milestones described below, proper imaging experiments cannot be
+attempted.
+
+The first milestone involves demonstrating that IPM indeed supports propagating (non-
+evanescent) sub-diffraction waves. Figure 11 shows the experimental schematic (left
+panel) and experimental results. The bottom grating “imprints” its Fourier components
+(zeroth, first, second, third, and so forth) onto the incident laser pulse thereby
+generating electromagnetic waves that are launched into the SiC-based IPM. The zeroth
+harmonic is inside the radiation zone (that is, it is not sub-diffraction), while the first,
+second, and so forth sub-diffraction. These EM waves scatter off the top grating having
+a slightly different period and are released into the far field. Because the direction in
+which waves are released depend on the Fourier harmonic’s number, we can
+experimentally separate and measure them. Clearly, the relative magnitudes of these
+diffractive orders dramatically vary as a function of the laser wavelength. For example,
+
+the zeroth diffraction order clearly dominates in the ¢, <0,¢, > O frequency range.
+
+However, in the ¢, >0,é&, < Ofrequency range the first diffractive order becomes larger
+
+14
+
+UNCLASSIFIED/ LEQB.OEELGI=SEONTY

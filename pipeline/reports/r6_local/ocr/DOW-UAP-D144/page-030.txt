@@ -1,0 +1,45 @@
+UNCLASSIFIED/ ,'FOR OFFI@IAI:: WSE ONl::Y 
+A key feature of virtua l displays will be the inclus ion of augmented reality. This means 
+that key elements in the field of view are highlig hted with color or framing to draw 
+attention 37 to them. This includes adding obvious border lines to objects for which the 
+pilot needs to be aware . Similarly, a virtual display of the environment outside the craft 
+could be augmented to reveal characteristics outside the range of normal human vision 
+such as infrared and ultraviolet light, or objects too small or fast to normally be noticed. 
+Graphical and Alphanumeric Representations 
+Pictorial displays in combinat ion with alphanumeric displays have been found to be an 
+effective way to convey information to a pilot. A pictorial representation of the item or 
+condition being controlled (maps, artificial horizons, graphica l representations of vehicle 
+stores, and othe rs) takes advantage of the interpretation paradigm of physical models, 
+and thus enhances comprehension and allows features to be recognized with less effort. 
+Although reading alphanumeric displays are more time consum ing and workload 
+intensive, they prov ide more accurate values and are more easily relayed verbally to 
+secondary users (i.e., the value can be read aloud). It has also been found effective to 
+place the alphanumeric values in the upper-right corner of the graph ical display. Other 
+lessons include the following: 38 
+• Using consistent text, format, placements, axes, and other parameters. 39 
+Consistency has been found to be more desirable than optimized displays. 40 
+• Displaying parameters relative to their expected values rather than just displaying 
+the alphanumeric value. Some indication of the criticality of an off-nominal reading 
+also needs to be displayed. 
+• Using zero-value points as a reference and showing range settings on graphical 
+displays to indicate how a given value compares to the desired or predicted value; 
+all ranges should be roughly the same size if possible. 
+• Displaying nonessential symbols as half-intensity helps declutter displays. 
+Enunciators 
+Histor ically , all the major alarm indicators for a system were grouped together into 
+what is called the "enunciator panel." Usually, this panel is an array of rectangular 
+lights with each represent ing a possible alarm or critical-state variable (e.g ., 5 x 5 
+arrays of 25 discrete alarm channels). Frequently, the lights use the tripart ite color 
+convention, blink to alert, and are connected to an audible alarm. There is usually some 
+means to acknow ledge the alarm and thus stop the distracting blinking and noise 
+without canceling the alert status indication (e.g., goes from blinking with audible alarm 
+to just lit in red or yellow). 
+Old hardware displays unintentionally maintained a manageable number of alarm states 
+as an inadvertent, but positive, consequence of the difficulty of adding enunciator 
+segments. With computer ized systems, however, th is number can grow to be 
+overwhelming. Conversely, with computerized systems, analysis of vehicle operations 
+can reduce a large number of variab les into a composite key status variable for alarm 
+states and offer pre-determined options of emergency responses to the pilot. Hence, 
+the concept of an enunciator can be quite useful if following these recommendations: 
+25 
+UNCLASSIFIED/fFOA. OFFICIO ls. Plili ONls.¥

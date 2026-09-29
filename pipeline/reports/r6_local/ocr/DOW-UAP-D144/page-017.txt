@@ -1,0 +1,47 @@
+UNCLASSIFIED / /F@R-OFFECEAE-USE-ONEY
+
+system that conveys the spacecraft's orientation relative to the external space will have
+to be clear enough to overcome this prejudicial sense of orientation.
+
+Notice, for example, that in almost all science fiction stories, spacecraft move /aterally
+(forward) relative to the vehicles' internal sense of “up” (Figure 7). Motion along the z-
+axis is seldom mentioned. Although this is a natural extension of how we move relative
+to the surface of the Earth, it is not the only scenario. In contrast, consider a rocket
+whose 1i-g orientation is aligned with its major axis of motion. This is a consequence of
+its propulsive thrust. In other words, at least two conventions for direction during deep-
+space flight are possible: the notion of lateral motion across a landscape (where the
+internal 1 g is at right angles to flight), or vertical motion with an astronomical range
+(where the internal 1 g is coincident with the direction of flight).
+
+Conveniently matching film studio conditions, the interiors of fictional spacecraft
+provide a comfortable 1-g environment for the crew. They also follow the terrestrial
+convention of motion: their major direction of motion is forward (a lateral motion),
+even though they are experiencing an acceleration force of 1 g upward (their internal,
+synthetic gravity). These two directions, up and forward, are at a right angle. In
+contrast, the thrusting direction and the internal g-axis of a rocket are in the same
+direction. The choice of orientation for rea/ deep-space motion is a subject for further
+study.
+
+UP
+same as
+
+FORWARD uP
+(Internally)
+
+FORWARD
+(Externally)
+
+Figure 7. Typical Science Fiction Orientations. [Images: A. Szames]
+
+Since propulsion breakthroughs have not yet been discovered, there is no way of
+knowing if the propulsion methods themselves will dictate the choice of orientation.
+Therefore, to plan for the uncertain future, this is a choice worthy of deeper study. Is
+the natural human instinct for forward-dominated motion a better human-machine
+interaction than the upward-dominated motion that might be dictated by the propulsion
+method? Such an assessment must also consider how well the convention works when
+transitioning from deep-space flight into orbit, then landing, and then back again to
+deep-space flight. Once any convention is set into place, it will be difficult to change
+later.
+
+12
+UNCLASSIFIED /-602-O5ELGLAL-USE-ONL

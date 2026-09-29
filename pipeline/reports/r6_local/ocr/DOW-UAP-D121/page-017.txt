@@ -1,0 +1,40 @@
+UNCLASSIFIED/ /FOR 8ffl@IJllt l:191!! l>flt I 
+VELVET 
+Velvet has been an explosive electron emission standard for more than 20 years. This 
+mater ial works by means of the dielectr ic-m etal surface flashover mechanism 
+mentioned earlier. 
+Five steps are involved in the explosive emission process for dielectric fibers: 
+• Surface flashover generates a cold, dense plasma/gas column. 
+• The applied electric field extracts a space-charge-limited current flow. 
+• The flow of current resistively heats the gas column. 
+• The gas columns expand at a rate determ ined by the gas temperature. 
+• The gas continues to expand into the anode-cathode gap. 
+Velvet has several desirable properties that have endeared it to the pulsed power 
+community and kept it a useful material for all this time. First, it emits at relatively low 
+field strengths (~10 kV/cm), allow ing a w ider range of use than do many other 
+materials. Second, it has a fast turn-on time. Third, the insulating nature of the velvet 
+fibers provides a sort of built -in ballast during operation. Velvet also has a wide range 
+of vacuum compatibility (pressures from 10-3 to 10-s Torr), easing the expense of 
+vacuum hardware. Finally, velvet is inexpensive and readily available. All these factors 
+combined have made velvet cathodes common for the past two decades. 
+However, velvet cathodes also have drawbacks . First, velvet outgases heavily, 
+especially during and after explosive emission. Significant amounts of material are 
+released from the velvet during this process. The increased pressure inside the HPM 
+device then leads to gap closure (conductive bridg ing of the anode -cathode region) and 
+early termination of the RF output from the device. The closure rate can be estimated 
+from: 
+Velocity of closure (m/s) = 100 (d* /d) 213 Vd1/ 2 
+where: d is the diode gap, d* is the velvet tuft density, and Vd is the diode voltage. 
+Second, velvet has a very limited lifetime, partly owing to the material lost during each 
+shot. Some material lasts for only about 100 shots in single-shot mode. Third, because 
+of the increase in pressure after each shot, the repetition rate is very limited. Finally, 
+lack of control over the manufacturing process resu lts in a wide variation in 
+performance. Results are not reproducible, even between one roll and the next from the 
+same manufacturer . 
+CARBON 
+Carbon cathodes have been used in diodes for more than three decades and have some 
+appealing characteristics. The outgassing characteristics of carbon cathodes are much 
+better than those of velvet, although the threshold voltage for emission is generally 
+much higher. The primary materia l given off during outgassing from carbon cathodes 
+UNCLASSIFIED/ ,CfOlil OFFIQIAk Uili QPlk¥ 
+9

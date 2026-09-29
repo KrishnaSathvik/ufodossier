@@ -1,0 +1,57 @@
+..c 
+UNCLASSIFIED/ /fOR Offl@IAL Wfi& 0PU1¥ 
+bJ) 
+C 
+-
+~ en 
+a) 
+4..... en 
+C 
+a)
+..... 2 a)..... 
+c,;j 
+E..... 
+-5
++-' 
+a) 
+"O :::J 4 ..... 
+;.::: 
+0.. 
+8 2 
+c,;j 
+en en 
+a) 
+0.01tl 
+Dendritic composite 
+...... -- - - --
+High-strength steel 
+ingle-pha e 
+metallic gla 
+a ..... 
+Cl') 
+Number of cy le to failure 
+Figure 5. Fatigue Limit of Metallic Glasses and Metallic-Glass-Matrix Composites. Fatigue life data for 
+single-phase zirconium -based metallic glass (red) and a dendrltlc metallic glass matrix composite (blue). 
+Representative data for steel (300 -M) of similar tensile strength are shown for comparison .17 16 19 
+Wear Resistance 
+Because of their high yield strength, metallic glasses also have very high hardness. 
+This, in turn, implies they might have good tribological behavior, which would be of 
+particular interest when combined with the good corrosion resistance of some alloys 
+(see below), opening up potential applications such as coatings on dry bearings for 
+space applications. 20 However, the tendency of metallic glasses to form shear bands 
+and (in some cases) partially crystallize owing to deformation means their wear 
+resistance is perhaps not as good as their high hardness would suggest. Nevertheless, 
+the wear resistance of metallic glasses can still be quite good, and in fact one of the 
+principal current markets for amorphous al loys is as wear- and corrosion-resistant 
+coatings for tools such as drill bits. 
+Corrosion and Stress -Corrosion Cracking 
+It is frequently stated that metallic glasses have excellent corrosion resistance, but this 
+is not always true. The lack of grain boundaries and second-phase particles makes 
+some metallic glasses extreme ly resistant to corrosion, but th is is not true of all alloys 
+(some of which oxidize rapidly in air). Broadly speaking, the corrosion resistance of 
+nickel- and iron-based metallic glasses is better than that of alloys based on zirconium, 
+titanium, and copper (particularly in environments containing chloride ions) .21 Some 
+alloys are susceptible to localized pitting corrosion, probably facilitated by the presence 
+of crystalline inclusions. 
+10 
+UNCLASSIFIED/ /5i0A: 05i5ilCIOP !!SF ON! X

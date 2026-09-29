@@ -1,0 +1,32 @@
+UNCLASSIFIED/ /fOK OfflEIAL ~SE 8PtLY 
+Other Properties: Magnetic, Electrical, Optical, Thermal , and Acoustic 
+Although most of the current interest in metallic glasses centers on their mechanical 
+properties, it is appropriate to consider other properties of potential utility. Of these, 
+the magnetic properties of ferromagnetic metallic glasses stand out. 24 A variety of 
+ferromagnetic glass-forming alloys exist, mostly based on transition metals (iron, 
+nickel, and cobalt). The presence of alloying elements (necessary to make the material 
+glass-forming) means the saturation magnetization of metallic glasses is not as large as 
+that of the pure elements . However, some amorphous alloys have very low coercivity (a 
+measure of how strong a magnetic field must be to change the direction of 
+magnetization of the material) owing to the lack of crystalline defects (such as grain 
+boundaries) and magnetocrystalline anisotropy. In addition, the relatively high electrical 
+resistivity of amorphous alloys (see below) minimizes eddy current losses caused by 
+high-frequency magnetization/demagnetization. Some amorphous alloys also have 
+strong magnetoelastic effects (coupling between magnetic properties such as 
+susceptibility or magnetization and elastic strain). Current and potential future 
+applications of these magnetic properties are discussed below. 
+Like crystalline alloys, metallic glasses have conduction electrons that make them both 
+electrically and thermally conductive,25 although their structural disorder and high alloy 
+content make them poor conductors. In addition, in a behavior that is useful in some 
+applications, the conductivity of metallic glasses is not very sensitive to temperature; 
+an exception is near absolute zero, where some amorphous alloys become 
+superconducting. 
+Another consequence of tlhe amorphous structure of metallic glasses is that they tend to 
+have very low acoustic damping. This may be useful in applications such as vibrating ­
+structure gyroscopes for vehicle orientation. 26 
+A common misperception among those hearing about metallic glasses for the first time 
+is to think they are transparent. This is not the case; amorphous alloys are highly 
+reflective, with a shiny luster similar to that of other metals (Figure 7). This is a result 
+of the presence of the conduction electrons, which scatter and absorb incident light. 
+12 
+UNCLASSIFIED/ /EAR O551£1.t.k W&li 8PtLY

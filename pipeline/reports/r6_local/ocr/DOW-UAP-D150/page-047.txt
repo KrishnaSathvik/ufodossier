@@ -1,0 +1,20 @@
+UNCLASSIFIED//FOR OFFICIAL USE 014Li 
+Simple organic computing based on DNA tiles will be real ized in the next 20 years. On the 
+40-year time horizon, useful DNA-based devices will be essential space exploration tools. 
+These could take the form of orbital-delivered wireless sensors searching planeta ry/ astero id 
+features or for essential compounds such as high concentrations of water. DNA computers 
+will be realized on the 40-year timeline. Their advantage over solid state devices will be the 
+ability to repair nanoscale elements damaged in normal use or by cosmic radiation. These 
+will not be the fastest systems in the astro-arsenal, but they may be the most robust. 
+CONCLUSION 
+We have presented an introduction to quantum computing and the technologies that 
+comprise the current state-of-the-art. In the 10-20 year horizon, we will see optical and 
+DNA-based computers realized on small production scales, but their readiness level for space 
+travel will be lacking. On the 40-year horizon four major advances in space-ready technology 
+will be seen: devices developed for optical computing will allow an all-optical computer to 
+augment or replace general purpose computers; optical communication will play an essential 
+role in hybrid designs of space-based quantum computers along with quantum dots; DNA 
+devices will perform simple distributed sensor data analyses; and fault tolerant DNA 
+computers will be available for mission-critical analysis tasks. 
+UNCLASSIFIED/ ,{EQR OEEICI\L W&E 8HtY 
+46

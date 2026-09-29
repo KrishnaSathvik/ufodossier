@@ -1,0 +1,188 @@
+MARCH 19, 1948
+
+THICKNESS RATIO
+
+Fig. 23.—Increase of zero lift profile drag with thickness ratio
+of symmetrical aerofoil sectidn. The saving in profile drag is
+one of the advantages of disc wings because of their thinner
+aerofoil section. (Data from Gerber, Zurich Report No. 6).
+
+explain the extraordinary ability of the reported “ Flying
+Saucers " to be able to fly very fast and high, and also to hover,
+ascend and descend with practically no forward speed. No
+other aircraft is known to do that. On the other hand, it is
+inconceivable that whole squadrons of such unconventional
+aircraft could already be observed at air exercises. It is rare
+for military developments to progress as quickly as all that.
+
+For operation with gas turbines a speed range from, zero
+(i.e., hovering flight) to more than 500 m.p.h. has been claimed
+for the Chance-Vought-Zimmermann __helicopter-aeroplane.
+Technically, there is little reason to doubt that such an amazing
+speed range can be attained with the combination power plant
+mentioned.
+
+Incidentally, as there is not as yet a standard term for the
+combination of an aeroplane with an helicopter, the name
+“ helicoplane ” is tentatively suggested. i
+
+The other line of engineering approach which has led to
+the disc-wing aeroplane of near-saucer appearance derives
+from the trend towards very high flying speeds within the sonic
+range of velocities, and in particular, at great altitudes. As now
+commonly realized, the compressibility of the gaseous medium
+sets a speed limit for conventional aeroplanes. This limit is
+reached when the speed of flight approaches sufficiently to the
+velocity at which sound is propagated through the air. This
+* acoustic velocity * depends solely on the air temperature, and
+is, therefore. lower at altitude. Hence, compressibility effects
+begin to be felt at lower speeds when flying at altitude.
+
+When the “ shock stall,” due to the compressibility of the
+air, sets in, the lift is catastrophically decreased (hence the
+justification for the expression “ shock stall”), the drag rises to
+enormous values, and the longitudinal stability is grossly
+impaired by a rapid backwards shift of the aerodynamic centre
+as well as by fluctuations in the flow pattern at the wing. The
+experience of phenomena of such distressing nature has given
+rise to two distinct aims in aeronautical research. One is
+to delay the onset of the phenomena to higher Mach Numbers;
+the other aim is to find wings which would permit flight within
+or through the trans-sonic regime. The alternative, “ within or
+through,” is still a necessary impediment of definition, since
+we do not know yet if stable, steady flight will be at all
+possible within the trans-sonic regime (extending from about
+0.8 to 1.2 Mach Number) while there is certainly that beyond
+this trans-sonic regime, i.e., within the supersonic regime, stable,
+steady flight can be predicted. ;
+
+Two simple means have become known which delay the
+occurrence of the “shock stall” until much higher (but still
+subsonic) flying speeds are attained. One is sweep of the
+leading edge of the wing, either as sweep back or as sweep
+forward. The other—a Farnborough discovery of nearly
+30 years ago, when high top speeds of airscrews were investi-
+gated—is the adoption of very thin aerofoil sections. The
+latter leads, as we have pointed out already, straight to aerofoils
+of low aspect ratio when, for reasons of structural stiffness,
+a certain wing thickness is required.
+
+In the discussion of the “ Stalling Characteristics of Tailless
+Aeroplanes” (THe AeropLane for April 25, 1947), it was
+shown that at low speeds, i.e., during take-off and landing,
+swept-back wings suffer from the disadvantage of instability
+at the stall. With pronounced sweep-back, swept-back wings
+of normal aspect ratios exhibit the vice of “ self-stalling,” due to
+premature tip stall. It was also shown that this vice can be
+remedied by reducing the aspect ratio, and a curve based on
+extensive wind-tunnel tests (THE AEROPLANE for July 11, 1947,
+p. 47, Fig. 8) proved that there is a distinct relation between
+aspect ratio and angle of sweep-back in this connection.
+
+wv
+
+THE AEROPLANE
+
+M. B. Morgan has recently communicated the following
+values for the limit of stability at the stall from this graph:—
+
+Upper limit of the Angle of Sweep-back (referred
+to the 4 chord) beyond which self-stall can be Aspect Ratio Required
+expected
+
+Degrees
+65
+
+Saeonon=
+
+It is thus advisable to combine sweep-back with low-aspect
+ratio when safe stalling is required.
+
+Considerations of high speed lead to a similar combination,
+since both features tend to delay the shock stall. We have,
+as a result, the rare case of two quite different aspects of an
+engineering problem pointing to an identical solution.
+
+The inevitable result has been the development of arrow-
+shaped, more or less triangular, disc wings, termed “ Delta-
+Wings,” for flight at speeds which are trespassing into the
+trans-sonic velocity régime. Another advantage of such
+wings is that when the shock stall occurs, the backward shift of
+the centre of pressure is less than with normal wings. The
+induced drag does not count quantitatively at these high speeds.
+
+Development of such abnormal aeroplane types began in
+Germany during the War, following the progress accomplished
+in jet and rocket propulsion since 1937, which had shown that
+flight at sonic velocity was a practical proposition. A few
+experimental delta-wing types had been brought to initial flying
+tests when the War came to a close.
+
+The German development had two distinct aims, resulting
+in two separate lines of approach. The immediate target neces-
+sitated by the Allied bombing raids, was the creation of very
+fast jet fighters or fighter-bombers which could surpass in speed
+even the Me 262. Secondly, there was the long-term develop-
+ment of a supersonic aeroplane capable of flying over very long
+distances, such as from Europe to America and back, and
+dropping a bomb or two on the way. It is perhaps not too
+fantastic to surmise that this development had some connection
+with the research on atomic bombs and bacteriological warfare
+instituted by the Hitler Gang.
+
+For the immediate target, orders for interceptor-fighters were
+placed with enterprising sc notably with the Horten brothers
+and Messerschmitt (both pets of the Reichsluftministerium), with
+the Gotha Works, Henschel, Junkers, Heinkel and Arado (a
+Government enterprise), etc. In order to facilitate experiments
+with rather unusual aircraft types and to enable an exchange of
+ideas and experiences, a epbéial restate aerodrome was built at
+Oranienburg (near Berlin) with all facilities for flight testing
+(in particular, very long wide runways and workshops for
+repairs and modifications were provided). This was placed
+under the command of a capable technician, Lf.-Col. Knemeyer.
+
+On this aerodrome, all the initial and development tests with
+novel prototypes had to be made. When the Russians collected
+the aerodrome, they were agreeably surprised to discover some
+of the most progressive aircraft ever constructed, It has since
+become certain that they have made intelligent use of this aero-
+nautical treasure as well as of the technicians collected then and
+afterwards. Of the German firms interested in the develop-
+ment, at least one, the well-known Junkers works at Dessau, has
+been completely transferred to Russia, lock, stock and barrel.
+Most of the scientists and designers were urged to volunteer for
+development work in Russia. Few could afford to refuse.
+
+According to reliable information, among the interceptor
+prototypes at Oranienburg, at the time of the Occupation.
+were the following:—One Horten tailless delta-wing, which had
+been damaged during tests and was undergoing repair; another
+Horten tailless jet-fighter was just ready for its first tests.
+There was also the latest version of the Lippisch-Junkers’
+development of the Me 163-C; another advanced Junkers
+design; an experimental Gotha, and several research gliders.
+
+- Hitler's Last Secret Weapon
+
+The German long-term development of an aeroplane capable
+of reaching truly supersonic speeds discarded the gas-turbine
+jet engine. It was based on the ram-jet or aerodynamic pro-
+pulsive duct (“ Athodyd ")—the simplest engine ever invented.
+
+The ram-jet, a widely discussed invention by the genial Réné
+Lorin in 1912, had been experimented with in Germany, notably
+by the Austrian Eugen Saenger (for whom a special laboratory
+had been built by the German authorities in 1938), by Otto
+Pabst, of Focke-Wulf, and by others. Following a suggestion
+made by Alexander Lippisch (formerly known as an eminent
+sailplane designer and research worker on tailless aeroplanes),
+progress had been made with the combustion of solid fuel in
+ram-jets. Such fuel took the form of solid blocks of specially
+prepared coal which lined the walls of the duct. This develop-
+ment had been perfected by the German Research Institute
+for Soaring Flight.
+
+(To be continued.)
+
+NND 927545

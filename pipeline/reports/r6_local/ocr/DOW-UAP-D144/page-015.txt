@@ -1,0 +1,32 @@
+UNCLASSIFIED/ ,'FOR OFFI@IAL WSE QptLY 
+Outer Hull Inner Hull 
+Crew Safe Zone 
+Figure 6. Inertial Frame Bias Drive and Vehicle Zones. [Credit : M. Millis] 
+To be explicit, the physics and engineering to create such situations do not yet exist. 
+The related physics can be categorized as still being at steps one and two of the 
+scientific method: defining the problem and collecting data. 8 Among many other issues 
+eluding discovery and resolution, major issues include momentum conservation, the 
+role played by inertial frames, and methods to affect gravitational and inertial 
+properties of matter and space. 
+Secondary Consequences 
+Pertinent to cockpit design, the normal sensations of motion inside the cockpit will likely 
+not be the same. In contrast to the advantage of shielding the crew from harsh 
+maneuvers, this shielding removes sensations of motion (seat-of-pants feeling) that 
+pilots use to help judge the motion of their vehicle. This detriment is compounded by 
+the likelihood of inducing motion sickness, since the visual cues of the vehicle's real 
+mot ion will be different from that felt by the pilot . A difference between visual and 
+vestibular cues is a cause of motion sickness. The option of allowing a certain portion of 
+the vehicle's g-loading to be transferred to the cockpit can be considered as a 
+mitigation strategy. Accordingly, cockpit controls to affect such changes are required. 
+Also, it is likely that this double-hull notion would prevent direct visual contact between 
+the occupants and the environment outside the vehicle, or perhaps distort such visual 
+cues beyond easy interpretation. In other words, do not expect windows. Without the 
+famil iar visual and vestibular cues directly available to the pilot, it becomes vitally 
+important for the cockpit displays to provide reliable and instinctive cues for the pilot to 
+aptly judge the position, orientation, and motion of the vehicle. 
+Mixed Operational Regimes 
+A major desirable feature sought from propulsion breakthroughs is the ability to move 
+from the surface of the Earth directly into space. This implies that the vehicle's displays 
+and controls must readily encompass motion near the Earth's surface, ascent into space, 
+UNCLASSIFIED/fFOA: OFFICIO la Plili Oralla¥ 
+10

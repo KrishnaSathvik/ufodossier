@@ -1,0 +1,29 @@
+UNCLASSIFIED/ fFOR OFFI@IAI:: HSE OPtl::Y 
+• Navigational information sources: 
+- Position: 
+• Master reference taken relative to starting position (Sun-Earth system). 
+• Current location taken from the following: 
+o Star tracker: 
+• Modified to handle 3D database of star locations for deep-space 
+motion (yet less than 100-light-year radius around the Sun). 
+• Predictive trajectories (to extrapolate positions for FTL travel). 
+• Note: Can only take star tracker readings at sublight speed. 
+o First integration on measured velocity and relative to point of 
+departure. 
+o Second integration on measured accelerations since point of departure. 
+- Velocity: 
+• Directly measured from cosmic microwave background Doppler shifts, 
+where velocity is relative to the mean rest frame of the universe. 
+• First integration on measured accelerations since point of departure. 
+- Accelerations: 
+• Linear: 
+o Accelerometers with corrections calculated based on the influence of 
+the propulsion methods that affect gravitational and inertial forces. 
+o Differentiation of velocity changes as measured using the cosmic 
+microwave background. 
+• Rotational: 
+o Gyros (e.g., ring laser gyros) with correction inputs from the 
+propulsion methods that affect gravitational and inertial forces. 
+o Orientation as inferred from star tracker measurements. 
+UNCLASSIFIED/fFOA. OFFICIO ls. Plili Olhlls.¥ 
+17

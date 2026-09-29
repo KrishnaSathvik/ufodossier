@@ -1,0 +1,73 @@
+UNCLASSIFIED / +@R-OFEL62A4L-USE-ORs
+
+studies (Reference 30) on sputtered cobalt-copper (Co/Cu) multilayers revealed
+magnetoresistances at room temperatures 3 to 4 times larger than those for iron-
+chromium and 13 times greater than those for the permalloy films that were used as
+magnetoresistive sensors in magnetic reading heads at that time. The much higher
+numbers observed in magnetic multilayers predetermined the fate of GMR in magnetic
+recording technology.
+
+The current understanding is that GMR R4&
+observed in magnetic multilayers arises
+from the dependence of the resistivity
+on their internal magnetic configuration
+and the role of the external magnetic
+field to change this configuration. Figure
+2b illustrates GMR in the simple limit
+where the electron mean-free-path is
+much longer than the layer thicknesses.
+The electrical transport properties of the
+
+Rar
+
+bee
+
+system are described in terms of the so- Ma vate Field
+
+called two-current model (Reference 9
+
+31), based on the suggestion by Mott Fi Fe Fi Fe F1 F2
+(Reference 32) that, at temperatures | | | f _ { { -
+lower than the Curie temperature, the = - +323 |
+spin-up and spin-down electrons will be | oe | cso—— - =
+almost independent and carry current in 1 '
+
+parallel. Electrons are much more
+
+strongly scattered by a magnetic layer if 4 R R " Rf +t r
+they and the local magnetization spin in a
+
+opposite rather than the same direction =} ct
+(R > r). For simplicity, the figure is R R R
+drawn with scattering only at interfaces; Figure 2. (a) Resistance of a magnetic multilayer R
+however, there is also scattering within versus magnetic field. (b) Origin of GMR in terms of
+
+the layers. At zero magnetic field, spin-dependent electron scattering: F1 and F2 are
+
+. : ‘ ferromagnetic layers with a nonmagnetic layer in
+where the magnetizations of adjacent between, At zero magnetic field, the magnetizations
+
+magnetic layers are aligned in F1 and F2 are aligned antiparallel (center panel)
+antiparallel—for example, because of and can be switched to parallel orientation by an
+
+' applied field. (c) The equivalent resistance circuits
+exchange coupling between the layers corresponding to the three magnetic configurations
+(Reference 29)—the spin-down shown in (b). See text for details.
+
+electrons are weakly scattered in layer
+
+F1 but strongly scattered in F2. In contrast, the spin-up electrons are weakly scattered
+in layer F2 but strongly scattered in F1. As a result, two channels are equivalent,
+leading to a total resistance in this “antiferromagnetic” configuration Rar = (R+r)/2 (see
+the corresponding resistance circuit in Figure 2c).
+
+When the magnetizations of the two F layers are set into parallel configuration by an
+applied magnetic field, the spin-up electrons are weakly scattered in both layers and
+form a low-resistivity channel, whereas the spin-down electrons are strongly scattered
+in all the layers and form a high-resistivity channel. The reversal of magnetic field just
+interchanges the roles of spin-up and spin-down channels. The current’s shunting by
+the low-resistivity channel produces a low total resistance Re = 2Rr/(R+r) in this
+“ferromagnetic” configuration. The size of the GMR is defined as (Rar-Rr)/Rar = (R-
+
+2
+UNCLASSIFIED / /&02-O5516LALUSE.ONLLY

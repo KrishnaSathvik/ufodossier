@@ -1,0 +1,54 @@
+UNCLASSIFIED / /®OR-OFFf6E-USE-ONE
+
+ram/scramjet combustors if alkali vapor is added to the gas. In those regions,
+MHD interactions can be promising for electric power generation or acceleration
+of the flow, as well as for flow control. However, at Mach numbers below about
+12 (and excluding the combustor or the region just downstream of it), the air is
+too cold for a significant thermal ionization even with alkali seeding. The required
+level of ionization then has to be created and sustained by nonequilibrium
+(nonthermal) means and is associated with a very substantial power budget and
+additional heating. Therefore, the efficiency of ionization (which can vary by
+orders of magnitude depending on the particular means of ionization) is of first-
+order significance for the entire operation and efficiency of the device. Energy
+used to ionize and excite the gas molecules can be considered as loss in the
+system since this energy is rarely recovered in the form of directed kinetic or
+thrust energy. Note that in this regard, ionization by high-energy electron beams
+or by repetitive high-voltage nanosecond pulses are promising as the most
+energy-efficient means of nonequilibrium ionization.*>-57
+
+Even with the most efficient ionization techniques, the power budget and
+additional heating associated with the ionizer normally limit the achievable level
+of ionization. To have a substantial MHD effect,® 9 one has to either use a very
+strong magnetic field (which is associated with some practical issues) or use the
+MHD interaction in a localized and transient regime (e.g., for boundary layer
+control).
+
+As for EHD interaction,!® 14 it relies upon non-neutrality of the plasma and an
+electric field to impart momentum to the gas. Although EHD (or “ion wind”)
+phenomena have been known for many years, the last several years saw a surge
+of new interest to this type of interaction. This new boom is due to the
+asymmetric dielectric barrier discharge (DBD)—a remarkably simple device that
+has been demonstrated to be very effective in delaying and controlling flow
+separation and perhaps even laminar-turbulent transition. Although details of the
+physics of DBD plasma actuators are still incompletely understood, the simplicity
+of these devices, their low power consumption, and the striking effectiveness in
+separation control bring these systems to the top of the list of plasma
+aerodynamics and plasma-assisted propulsion technologies that have near-term
+application prospects.
+
+Combustion
+
+Another area where nonequilibrium (nonthermal) weakly ionized plasmas are
+very promising is plasma-assisted combustion. Although heating induced by
+plasmas can ignite combustible mixtures, as mentioned above, it is the presence
+of “hot” electrons in a cold gas that makes nonequilibrium plasmas quite
+interesting for promoting chemical processes such as combustion. Electron-
+impact dissociation, excitation, and ionization of molecules can generate
+chemically active species such as radicals and excited atoms and molecules, and
+those species can initiate or accelerate chemical reactions that would otherwise
+be nonexistent or slow at low temperature. A number of novel techniques,
+including (but not limited to) high-voltage nanosecond pulses and the so-called
+“gliding arc” have been shown to be quite effective in plasma-assisted
+combustion. Investigation of detailed mechanisms (often quite complex and
+
+UNCLASSIFIED /EQR.O55162i-USE-ONE

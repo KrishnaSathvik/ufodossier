@@ -1,5 +1,6 @@
 import type { MetadataRoute } from "next";
 import { getSupabaseServer } from "@/lib/supabase";
+import { listReleases, listSources } from "@/lib/corpus/catalog";
 
 export const revalidate = 3600; // regenerate hourly
 
@@ -51,11 +52,34 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
   const staticPages: MetadataRoute.Sitemap = [
     { url: BASE, changeFrequency: "daily", priority: 1.0, lastModified: new Date() },
+    { url: `${BASE}/incidents`, changeFrequency: "daily", priority: 0.8, lastModified: new Date() },
     { url: `${BASE}/collections`, changeFrequency: "weekly", priority: 0.8, lastModified: new Date() },
+    { url: `${BASE}/releases`, changeFrequency: "weekly", priority: 0.8, lastModified: new Date() },
+    { url: `${BASE}/sources`, changeFrequency: "weekly", priority: 0.8, lastModified: new Date() },
     { url: `${BASE}/map`, changeFrequency: "weekly", priority: 0.8, lastModified: new Date() },
     { url: `${BASE}/media`, changeFrequency: "weekly", priority: 0.6, lastModified: new Date() },
+    { url: `${BASE}/audio`, changeFrequency: "weekly", priority: 0.5, lastModified: new Date() },
+    { url: `${BASE}/ask`, changeFrequency: "monthly", priority: 0.5, lastModified: new Date() },
     { url: `${BASE}/about`, changeFrequency: "monthly", priority: 0.4, lastModified: new Date() },
   ];
 
-  return [...staticPages, ...collectionEntries, ...incidentEntries];
+  let catalogEntries: MetadataRoute.Sitemap = [];
+  try {
+    catalogEntries = [
+      ...listReleases().map((release) => ({
+        url: `${BASE}/releases/${String(release.release).padStart(2, "0")}`,
+        changeFrequency: "weekly" as const,
+        priority: 0.6,
+      })),
+      ...listSources().map((source) => ({
+        url: `${BASE}/source/${encodeURIComponent(source.externalId)}`,
+        changeFrequency: "monthly" as const,
+        priority: 0.4,
+      })),
+    ];
+  } catch {
+    catalogEntries = [];
+  }
+
+  return [...staticPages, ...collectionEntries, ...catalogEntries, ...incidentEntries];
 }

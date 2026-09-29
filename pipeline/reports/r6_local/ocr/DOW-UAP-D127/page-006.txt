@@ -1,0 +1,33 @@
+UNCLASSIFIED/ /fOR OFFI&IAk Wlii QPU,¥ 
+3 6 R2 hEf ff (N) Ca!a, y _ ,stance = VN C (5)
+VN 
+where the positive constant C is defined by 
+C =V6 R ~ala.,y h ca /axy ,., 28845 light years . (6) 
+Equations (5) and (6) are the starting point to understand the orig in of the Drake 
+equat ion that we discuss in detail in Section 3 of th is paper . 
+Let us just complete this section by pointing out three different numerical cases of the 
+distance law (5): 
+• We know that we exist, so N may not be smaller than 1, i.e., N ~ 1. Suppose then 
+that we are alone in the galaxy, i.e., that N=l. Then the distance law (5) yields as 
+dista nce to the nearest civilization from us just the constant C, i.e., 28,845 light 
+years. This is about the distance in between ourselves and the center of the galaxy 
+(i. e. the Galactic Bulge) . Thus, this result seems to suggest that, if we do not find 
+any extraterrestrial civilizat ion around us in these outskirts of the galaxy where we 
+live, we should look around the Galactic Center first. And this is indeed what is 
+happening, i.e., many SETI searches are actually pointing the antennas towards the 
+Galactic Center, looking for beacons (see, for instance ref. [1]). 
+• Suppose next that N=l000, i.e. there are about a thousand extraterrest rial 
+communicating civilizat ions in the whole galaxy right now. Then the distance law (5) 
+yields an average distance of 2,885 light years. This is a distance that most 
+radiotelescopes in Earth may not reach for SETI searches right now: hence the need 
+to build larger radiotelescopes, like ALMA, LOFAR and the SKA. 
+• Suppose finally that N=l00000O, i.e., there are a million communicating civilizat ions 
+now in the galaxy. Then the distance law (5) yields an average distance of 288 light 
+years. This is with in the (upper) range of distances that our current radiotelescopes 
+may reach for SETI searches, and that justifies all SETI searches that have been 
+done so far in t he first fifty years of SETI (1960-2010). 
+In conclusion, interpolating the above three special cases of N, we may say that the 
+distance law (5) yields t he following key diagram of the average ET distance vs. the 
+assumed number of communicating civilizations, N, in the galaxy right now (Figure 1): 
+UNCLASSIFIED/ J'FOA. OFlilCI0 I. P !SE ON! X 
+6

@@ -1,0 +1,58 @@
+UNCLASSIFIED/ /FOR OFFICIAL USE ONLY 
+B 
+I I I I 
+I I I I I 
+I I I 
+! I I I I 
+~.,.. ' I -.-_ , I 
+V j I I I' I 
+~ I I I "' , I I 
+' 
+j I 
+'I I I 
+'I I 
+- ·- - ... .' 
+I - I j I 
+---
+--- ...- -\ 
+I 
+I 
+'I 
+I\. - 1-- ,--- -i--
+_,_,_ I ,_ ... I .,, 
+i,... I I .. >-- I I 
+~· ... • 
+I I I I I I I 
+I I I I I I I 
+I I I I I I 
+I I I I I I I 
+Figure 17. Fundamental Problem of Transformation-Based Cloaking Devices 30 
+The device creates the illusion of the empty virtual space A where light travels along 
+straight lines, whereas in reality light rays are curved by the coordinate transformation 
+from virtual space to real space B. If the light waves are indistinguishable from light 
+propagating through empty space, the speed of light in the cloaking device must be 
+larger than the speed of light in the surrounding material-air, for instance-to make up 
+for the longer path on the detour through the cloak. To make matters worse, the speed 
+of light must be infinitely large at the inner lining of the invisibility cloak. To understand 
+this, consider a light ray that just straddles the red point in the virt ual space shown in 
+A. In real space, B, this point is enlarged to a finite volume that contains the hidden 
+core of the cloaking device. Now, if for light propagation virtual space and real space 
+are indistinguishable, the light ray should pass the extended path along the inner lining 
+in precisely the time it takes to pass a single point, zero time. Consequently, the speed 
+of light must approach infinity near the core of the cloaking device. The following 
+argument shows that this is possible in principle, but also that such devices would be 
+completely useless as a cloaking device in practice. 
+In wave propagation, one distingu ishes between the phase velocity and the group 
+velocity. The phase velocity is the velocity at which the phase fronts of waves appear to 
+move. For light, the wave fronts are the features of oscillations across space and time; 
+by themselves they do not transport energy or information. On the other hand, the 
+phase fronts are orthogonal to the paths of light rays; if they are ti lted, rays are 
+refracted. Therefore, the refraction of light, the bending of light rays, is controlled by 
+the phase velocity. The refractive index that enters Fermat's princip le of the shortest 
+optical path is the phase index, the ratio between the speed of light in vacuum and the 
+phase velocity in the material. The group velocity is the speed at which wave packets, 
+pulses, and most information travels; it is the velocity of a wave group. Such a group 
+consists of a range of single-frequency waves that, by their interference, establ ish the 
+group, t he wave packet, as Figure 18 below shows. 
+UNCLASSIFIED/ /FOR. OFFI@IAL l:t!H!! 9HL'I" 
+16

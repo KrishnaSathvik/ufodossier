@@ -1,0 +1,49 @@
+UNCLASSIFIED1/FOR 8ffl@IAL tt.!! 8flt I 
+Chapter 5: Future Developments 
+There have been significant advancements in ultracapacitor technology in the last few 
+years. Increased understanding of the physical mechanism behind th is technology, 
+combined wit h advancements in mate rials science, part icularly on the nanoscale, has 
+led to a rapid increase in capability. Improvements to ultracaps in the next 10 years 
+(2010-20) will focus on electrodes, better electrolytes, packaging, and alternative 
+designs. Electrode improvements will most likely include migration away from activated 
+carbon, for both electrodes. Asymmetric electrodes will eliminate carbon on one side, 
+and new carbon materials will provide better performance at a competitive price . 
+Electrolytes will likely move toward additional organic materials and ultracaps with high 
+temperatu re performance requirements likely will use ionic liquids. 
+In the near term, a transition to the asymmetric design is expected. Continued 
+improvements to the electrodes and cell design will prov ide better capacitance. Many of 
+the short-term improvements will likely be directed toward manufactur ing capacity . 
+Ultracapacitors are becoming more common, and as improvements to performance and 
+cost make them more accessible to multip le applications, this trend will continue. Over 
+the next few years, it is expected that the market for ultracaps will increase 
+dramat ically . Trends in materials for ultracaps will continue forward with improvements 
+and utilization of activated carbons, thinner current collectors, and improved cell design 
+and packaging. Research being done at universities and national labs will continue, but 
+these will not become common materia ls for ultracapacitors in the next few years. 
+However, as the demand for ultracapacitors increases, specialty materials will begin to 
+see utility for some applicat ions, driving down manufacturing costs, which in turn will 
+enable their use in more systems. Significant use will be made in integrating into power 
+converters to reduce size, mass, and cost. Both th in-film and MCap devices will become 
+prevalent. If MCaps achieve lithium ion specific energy their adoption will be rapid and 
+revolutionary as has occurred with LiFePO4 (lithium-iron-phosphate) batteries for both 
+transportation and extremely high pulsed-power systems such as lasers. 
+Within the next 10 years, ult racaps will begin to see the incorporat ion of advanced 
+carbon materials and electrodes designed with features on the nanometer scale. Carbon 
+nanotubes, graphene, and porous carbons all have extreme ly high potent ial to unseat 
+activated carbon as the electrode of choice. The replacement of carbon systems being 
+used today (including activated carbon, aerogels, and carbon cloths) will occur as cost 
+reductions take place in the manufactur ing of nanostructured carbonaceous mater ials. 
+The tradeoff between surface area and pore size can be exploited at the nanoscale. 
+Optimization of these parameters will likely yield fairly significant improvements to the 
+capacitance and result in higher power and better energy density. 
+The mid-range (2020 -30) developme nt of ultracapacitors wil l most likely be the full 
+incorporatio n of advanced carbons and hybrid systems . It is hard to anticipate which 
+technology has the most to offer, as there are unique benefits and hurdles for each. 
+Hybrid systems will be common, utilizing a battery-like electrode combined with one of 
+the advanced carbon electrodes. The pseudocapacitive electrode options will become 
+diversified, with manufacturers using unique materials to differentiate their product. An 
+alternative electrode to the ruthenium oxide (RuO2) used today will be used for both 
+performance and economical reasons. Supply issues will drive electrode materia ls 
+toward those with larger availability. 
+UNCLASSIFIEO/fFOA OFFl€il.t.k YSE O,.Llf 
+25

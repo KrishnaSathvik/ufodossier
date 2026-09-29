@@ -1,9 +1,10 @@
-import { TopBar } from "@/components/TopBar";
+import { HeaderShell } from "@/components/HeaderShell";
 import { Footer } from "@/components/Footer";
 import { IncidentList } from "@/components/IncidentList";
 import { JsonLd } from "@/components/JsonLd";
 import { RedactedExcerpt } from "@/components/RedactedExcerpt";
 import { getSupabaseServer } from "@/lib/supabase";
+import { getCorpusStats } from "@/lib/corpus/catalog";
 import Link from "next/link";
 import Image from "next/image";
 import type { Metadata } from "next";
@@ -12,13 +13,13 @@ export const revalidate = 300; // 5 min
 
 export const metadata: Metadata = {
   alternates: { canonical: "/" },
-  description: "A searchable archive of UAP incidents extracted from declassified U.S. government documents. Every claim sourced. Every document linked.",
+  description: "A searchable, source-grounded archive of publicly released U.S. government UAP records.",
 };
 
 async function getStats() {
   const sb = getSupabaseServer();
   const { data } = await sb.from("v_stats").select("*").single();
-  return data ?? {
+  const base = data ?? {
     incident_count: 0,
     source_file_count: 0,
     unresolved_count: 0,
@@ -26,13 +27,32 @@ async function getStats() {
     earliest: null,
     latest: null,
   };
+
+  // Public case-file count is unflagged incidents. Flagged duplicate excerpts stay out.
+  const { count: curated } = await sb
+    .from("incidents")
+    .select("id", { count: "exact", head: true })
+    .eq("flagged", false);
+  const { count: unresolvedCurated } = await sb
+    .from("incidents")
+    .select("id", { count: "exact", head: true })
+    .eq("flagged", false)
+    .eq("resolution_status", "unresolved");
+
+  return {
+    ...base,
+    incident_count: curated ?? base.incident_count,
+    unresolved_count: unresolvedCurated ?? base.unresolved_count,
+  };
 }
 
 async function getAllIncidents(limit = 30) {
   const sb = getSupabaseServer();
   const { data } = await sb
     .from("v_incident_full")
-    .select("id, slug, title, occurred_at, occurred_at_text, branch, source_agency, location_text, country, region, resolution_status, sensor_types, image_url, video_url, summary, raw_excerpt, case_id")
+    .select("id, slug, title, occurred_at, occurred_at_text, branch, source_agency, location_text, country, region, resolution_status, sensor_types, image_url, video_url, summary, raw_excerpt, case_id, tranche_number")
+    .eq("flagged", false)
+    .order("tranche_number", { ascending: false, nullsFirst: false })
     .order("occurred_at", { ascending: false, nullsFirst: false })
     .limit(limit);
   return data ?? [];
@@ -40,49 +60,28 @@ async function getAllIncidents(limit = 30) {
 
 async function getFeatured() {
   const sb = getSupabaseServer();
-  // Priority 1: unresolved with real image
   const { data } = await sb
     .from("v_incident_full")
     .select("*")
+    .eq("flagged", false)
     .eq("resolution_status", "unresolved")
-    .not("image_url", "is", null)
+    .not("tranche_number", "is", null)
+    .order("tranche_number", { ascending: false, nullsFirst: false })
     .order("occurred_at", { ascending: false, nullsFirst: false })
     .limit(1);
-  if (data?.[0]) return data[0];
-
-  // Priority 2: unresolved with cover image
-  const { data: withCover } = await sb
-    .from("v_incident_full")
-    .select("*")
-    .eq("resolution_status", "unresolved")
-    .not("cover_image_url", "is", null)
-    .order("occurred_at", { ascending: false, nullsFirst: false })
-    .limit(1);
-  if (withCover?.[0]) return withCover[0];
-
-  // Priority 3: any unresolved
-  const { data: fallback } = await sb
-    .from("v_incident_full")
-    .select("*")
-    .eq("resolution_status", "unresolved")
-    .order("occurred_at", { ascending: false, nullsFirst: false })
-    .limit(1);
-  return fallback?.[0] ?? null;
+  return data?.[0] ?? null;
 }
 
 export default async function HomePage() {
-  const [stats, incidents, featured] = await Promise.all([
+  const [stats, incidents, featured, corpus] = await Promise.all([
     getStats(),
     getAllIncidents(),
     getFeatured(),
+    Promise.resolve(getCorpusStats()),
   ]);
 
   const earliestYear = stats.earliest ? parseInt(stats.earliest.split("-")[0]) : 1947;
   const latestYear = stats.latest ? parseInt(stats.latest.split("-")[0]) : 2025;
-  const unresolvedPct =
-    stats.incident_count > 0
-      ? Math.round((stats.unresolved_count / stats.incident_count) * 100)
-      : 0;
 
   return (
     <>
@@ -90,7 +89,7 @@ export default async function HomePage() {
         "@context": "https://schema.org",
         "@type": "Dataset",
         name: "UFO Dossier — Declassified UAP Archive",
-        description: `A searchable archive of ${stats.incident_count} UAP incidents extracted from ${stats.source_file_count} declassified U.S. government source documents.`,
+        description: `A searchable archive of publicly released U.S. government UAP records. ${corpus.fragments.toLocaleString()} checked passages and ${corpus.canonicalEvents.toLocaleString()} sightings, drawn from ${corpus.officialRecords.toLocaleString()} official files across ${corpus.releases} PURSUE releases.`,
         url: "https://www.ufodossier.com",
         license: "https://creativecommons.org/publicdomain/zero/1.0/",
         creator: { "@type": "Organization", name: "UFO Dossier" },
@@ -101,36 +100,36 @@ export default async function HomePage() {
           encodingFormat: "application/xml",
         },
       }} />
-      <TopBar active="archive" />
+      <HeaderShell active="archive" showBanner />
 
       <main className="max-w-content mx-auto px-4 md:px-6">
         {/* Hero */}
-        <section className="pt-16 md:pt-24 pb-10 md:pb-14">
+        <section className="pt-16 md:pt-24 pb-10 md:pb-14 border-b border-rule">
           <h1 className="font-serif text-[clamp(32px,5vw,56px)] font-medium leading-[1.1] tracking-tight mb-5 max-w-[720px]">
-            Every UAP incident in the U.S. government&apos;s declassified&nbsp;files.
+            A searchable, source-grounded archive of publicly released U.S. government UAP&nbsp;records.
           </h1>
           <p className="text-lg md:text-xl text-ink-dim max-w-prose leading-relaxed">
-            A searchable archive of {stats.incident_count.toLocaleString()} incidents
-            extracted from {stats.source_file_count} source documents spanning {earliestYear}&ndash;{latestYear}.
-            Every claim sourced. Every document linked.
+            {corpus.fragments.toLocaleString()} checked passages and {corpus.canonicalEvents.toLocaleString()} sightings,
+            drawn from {corpus.officialRecords.toLocaleString()} official files across {corpus.releases} releases from PURSUE,
+            the Pentagon program that published these unidentified anomalous phenomena (UAP) records.
+            One sighting can be described in more than one passage.
+            The case files below are the ones published on this site.
           </p>
-        </section>
-
-        {/* Stats strip */}
-        <section className="flex flex-wrap gap-x-8 gap-y-3 py-5 border-y border-rule text-sm">
-          <StatPill label="Incidents" value={stats.incident_count.toLocaleString()} />
-          <StatPill label="Countries" value={String(stats.country_count)} />
-          <StatPill label="Unresolved" value={`${stats.unresolved_count.toLocaleString()} (${unresolvedPct}%)`} />
-          <StatPill label="Years" value={`${earliestYear}\u2013${latestYear}`} />
-          <StatPill label="Sources" value={String(stats.source_file_count)} />
         </section>
 
         {/* Featured case */}
         {featured && (
           <section className="py-10 md:py-14 border-b border-rule">
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-8 md:gap-12">
+            <div className={
+              featured.image_url || featured.video_url || featured.cover_image_url || featured.source_cover_image_url
+                ? "grid grid-cols-1 md:grid-cols-2 gap-8 md:gap-12"
+                : ""
+            }>
               <div>
-                <p className="text-xs font-mono uppercase tracking-tracked text-ink-faint mb-3">Featured case</p>
+                <p className="text-xs font-mono uppercase tracking-tracked text-ink-faint mb-3">
+                  Featured case
+                  {featured.tranche_number ? ` · Release ${String(featured.tranche_number).padStart(2, "0")}` : ""}
+                </p>
                 <h2 className="font-serif text-2xl md:text-3xl font-medium leading-snug mb-4">
                   {featured.title}
                 </h2>
@@ -190,7 +189,7 @@ export default async function HomePage() {
         {/* Incident list */}
         <section className="py-10 md:py-14">
           <h2 className="font-serif text-xl font-medium mb-6">
-            Recent incidents
+            Latest releases
           </h2>
 
           <div>
@@ -210,14 +209,5 @@ export default async function HomePage() {
 
       <Footer />
     </>
-  );
-}
-
-function StatPill({ label, value }: { label: string; value: string }) {
-  return (
-    <div className="flex items-baseline gap-2">
-      <span className="text-ink-faint">{label}</span>
-      <span className="font-medium tabular-nums">{value}</span>
-    </div>
   );
 }

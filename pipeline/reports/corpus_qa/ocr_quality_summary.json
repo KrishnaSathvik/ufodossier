@@ -1,0 +1,109 @@
+{
+  "pages_total": 7119,
+  "pages_ocrd": 3414,
+  "ocr_failures": 315,
+  "files_gt_20pct_ocr_failure": [
+    {
+      "filename": "CIA-UAP-009.pdf",
+      "release": "03",
+      "ocr_failed": 1,
+      "pages": 1,
+      "rate": 1.0
+    },
+    {
+      "filename": "DOW-UAP-D084.pdf",
+      "release": "03",
+      "ocr_failed": 15,
+      "pages": 25,
+      "rate": 0.6
+    },
+    {
+      "filename": "DOW-UAP-D085.pdf",
+      "release": "03",
+      "ocr_failed": 5,
+      "pages": 7,
+      "rate": 0.714
+    },
+    {
+      "filename": "DOE-UAP-D004.pdf",
+      "release": "04",
+      "ocr_failed": 11,
+      "pages": 25,
+      "rate": 0.44
+    },
+    {
+      "filename": "DOW-UAP-D093.pdf",
+      "release": "04",
+      "ocr_failed": 16,
+      "pages": 67,
+      "rate": 0.239
+    },
+    {
+      "filename": "DOW-UAP-D094.pdf",
+      "release": "04",
+      "ocr_failed": 8,
+      "pages": 34,
+      "rate": 0.235
+    },
+    {
+      "filename": "DOW-UAP-D096.pdf",
+      "release": "04",
+      "ocr_failed": 75,
+      "pages": 220,
+      "rate": 0.341
+    },
+    {
+      "filename": "DOW-UAP-D099.pdf",
+      "release": "05",
+      "ocr_failed": 2,
+      "pages": 8,
+      "rate": 0.25
+    },
+    {
+      "filename": "FBI-UAP-D027.pdf",
+      "release": "05",
+      "ocr_failed": 3,
+      "pages": 5,
+      "rate": 0.6
+    },
+    {
+      "filename": "FBI-UAP-D038.pdf",
+      "release": "05",
+      "ocr_failed": 1,
+      "pages": 1,
+      "rate": 1.0
+    },
+    {
+      "filename": "FBI-UAP-D042.pdf",
+      "release": "05",
+      "ocr_failed": 1,
+      "pages": 1,
+      "rate": 1.0
+    }
+  ],
+  "unrecoverable_thumbnails": [
+    "CIA-UAP-009.pdf"
+  ],
+  "files_native_only_good_text": [
+    "CIA-UAP-006.pdf",
+    "DOW-UAP-D077.pdf",
+    "DOW-UAP-D078.pdf",
+    "DOW-UAP-D079.pdf",
+    "DOW-UAP-D081.pdf",
+    "DOW-UAP-D082.pdf",
+    "DOW-UAP-D090.pdf",
+    "DOW-UAP-D091.pdf",
+    "EOP-UAP-D001.pdf",
+    "FBI-UAP-D024.pdf",
+    "FBI-UAP-D026.pdf",
+    "FBI-UAP-D033.pdf",
+    "FBI-UAP-D037.pdf",
+    "DOW-UAP-D109.pdf",
+    "DOW-UAP-D154.pdf",
+    "LLE-UAP-D001.pdf",
+    "LLE-UAP-D002.pdf",
+    "LLE-UAP-D003.pdf",
+    "LLE-UAP-D004.pdf"
+  ],
+  "documents_measured": 154
+}

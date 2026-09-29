@@ -1,0 +1,27 @@
+White 
+McDivitt 
+• 15 
+I didn't think you noticed it earlier when we 
+were working. 
+Well, I did notice it a little bit in that first 
+orbit, but it wasn't distracting at all. It would 
+just drift off a little bit and I'd whop it and 
+it would be back . At SEX:;0 + 30, I used the trans­
+lation thrusters to damp the booster-spacecraft 
+rates . One of them was a little higher than the 
+other, although they were both down in the order 
+of a half of a degree/second . I did fire one 
+thruster one time or possibly two times to damp 
+the rate. I don't know if it was pitch or yaw. 
+You know, you are working in spacecraft pitch and 
+booster yaw and spacecraft yaw and booster pitch. 
+I was getting my coordinate system transformed 
+around in my mind, going from booster coordinate 
+system to the spacecraft . I don't remember 
+whether it was yaw or pitch, but I did thrust 
+once or twice. By the way , I could hear those 
+thrusters fire. At SEC0 + 30 I said, "Thrusting , " 
+and I started thrusting. "Separate" , and Fd 
+punched the SPACE.CRAFT SEPARATE. We were in Direct 
+and I thrusted straight ahead for about 5 seconds. 
+Then I went back into Rate Command. Separat i on was

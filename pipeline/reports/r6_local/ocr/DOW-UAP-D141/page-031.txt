@@ -1,0 +1,41 @@
+UNCLASSIFIED/ /fOR. Offl@IAL WS& 9Nk¥ 
+Nonlinear Non-Reciprocal Chiral Metamaterials: For 
+Developing Novel Optical Isolators and "One-Way" 
+Microwave Mirrors 
+Optical isolators play a pivotal role in fiber-optic communication systems by protecting 
+their active components ( for example, optical amplifiers) from unwanted reflected 
+signals that could potentially destabilize them. Such protection is especially important in 
+the context of advanced aerospace platforms, where repairs must be avoided at all 
+costs . At the core of isolator design is an element which provides non-reciprocity by 
+breaking time reversal symmetry . Non-reciproc ity can only be caused by magnetic 
+fields or nonlinearities. The most common approach using magnetic Faraday rotators 
+results in a rather bulky implementation of an isolator . It is believed that metamaterials 
+are uniquely positi oned to enhance the other approach of breaking non-reciprocity: use 
+of nonlinear effects. It is very natural to use metamater ial i n the context of enhancing 
+nonlinearity. As was explained previously, metamaterials can be used to slow down 
+light and, therefore, compress electromagnetic energy. Any intensity enhancement 
+increases nonlinear effects, and larger nonlinear effects translate into more compact 
+devices. Another aspect that makes metamaterials very appealing for non-reciprocal 
+applications is the ability to make their properties tunable to almost any frequency 
+range. 
+One concept that is being explored (still unpub lished) relies on the nonlinearity and 
+several other aspects of engineered chiral metamaterials. A novel type of a nonlinear 
+optical isolator based on adiabatic time-irreversible mode conversion (ATIMC) between 
+two electromagnetic modes supported by the chiral metamaterial is envisioned. As an 
+example of such metamaterial, a twisted optical fiber shown in Figure 24 is used. It 
+supports a tightly-confined core mode (CoM) which can be coupled to/converted into a 
+loosely confined cladding mode (CIM) of the same fiber. Coupling and conversion 
+between the core and cladding modes is accomplished by twisting the fiber with a 
+variable pitch A(z) =2,r/ /3,,. Time irreversibility is achieved due to the combination of 
+the Kerr nonlinearity of the core material (resulting in the intensity-dependent 
+propagation constant of the CoM) and small but finite loss of the CIM. As a result, the 
+CoM, when injected in the forward direction, passes through the isolator with a 
+negligible conversion into the CIM. If subsequently reflected back into the isolator (this 
+is equivalent to time reversal), it gets entirely converted into the CIM and subsequently 
+damped as illustrated by Figure 25. Preliminary simulations indicate that, for sufficiently 
+large nonlinear ity, one can find the loss rate a for the CIM such that two conditions are 
+satisfied: (a) a is small enough so that virtually no power is lost in the forward 
+direction, and (b) a is large enough so that the time-reversal is strongly violated, 
+resulting in near-perfect optical isolation. 
+UNCLASSIFIED/ {EAR OFEICl.t.k W81!! 8flti 
+27

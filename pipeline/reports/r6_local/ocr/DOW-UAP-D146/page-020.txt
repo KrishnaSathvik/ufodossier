@@ -1,0 +1,47 @@
+UNCLASSIFIED/ /FOR 0551Cl.t.l 1481!! er•tt 
+double layer designs, and the VASIMR thruster. Such systems typically have larger 
+specific impulses (up to ~10,000 seconds) but have lower thrust per kW expended . 
+Magnetoplasmadynamic Thrusters 
+The magnetoplasmadynam ic (MPD) thruster uses a gaseous fuel that is ionized in one 
+chamber and then fed into an acceleration chamber . Electric and magnetic fields then 
+propel the plasma through the exhaust chamber. The specific impulse and thrust both 
+increase with power input, while the thrust per kW decreases. Exhaust velocities can 
+reach 110,000 m/s, about 20 times greater than liquid rockets. 
+Electrodeless Plasma Thrusters 
+In this design, the plasma is accelerated by magnetized ponderomotive forces, for 
+which nonuniform static magnetic fields and high-frequency electromagnetic fields are 
+applied. The ponderomotive force accelerates positive ions and electrons in the same 
+direction; thus, no dedicated exhaust neutralizer is needed. Since there are no grids 
+and there is no physical contact between the plasma and electrodes, corrosion and 
+spacecraft contaminat ion issues are minimized. Because of the multiple stages involved, 
+the thruster at constant power can also be varied to deliver either higher specific 
+impulse and/or higher thrust. 
+One form of electrodeless thruster is the Pulsed Inductive Thruster (or PIT). A PIT uses 
+perpend icular electric and magnetic fields to accelerate an ionized gas. Capacitors 
+release an approx imately 10-µsec pulse of electr ic current, which generates a radial 
+magnetic field. A circular electrical field is thus induced in the gas, causing ions to travel 
+in the direction opposite that of the original current pulse. Since this motion is 
+perpend icular to the magnetic field, the ions are then accelerated outward to provide 
+thrust. 
+Helicon Double Layer 
+This design introduces gas into a tube (open at one end), which is then converted into a 
+high-dens ity plasma through the use of a helical antenna. Solenoid coils are also used 
+to confine the created plasma. In the case of the helicon double layer, the plasma is 
+then accelerated to supermagnetosonic speeds by traversing an electric double layer, 
+which is created very close to the open end of the tube by a rapidly expanding 
+magnetic field. The European Space Agency (ESA) has tested this design using argon 
+gas and found that the double layer is stable enough to reliably accelerate ions. ESA is 
+currently pursuing this technology for possible use in future missions. 
+VASIMR Thruster 
+The Variable Specific Impulse Magnetoplasma Rocket (VASIMR) is an electromagnetic 
+thruster for spacecraft propulsion. This design is an electrodeless configuration and 
+operates in three stages. The first stage uses RF helicon antennas to transform the gas 
+into a plasma. The second stage uses an ion cyclotron resonance frequency (again in 
+the radio band) to energize the plasma. The third stage uses electromagnets to create a 
+magnetic nozzle, which converts the thermal energy of the plasma into thrust . Magnetic 
+shielding protects all parts of the VASIMR from direct contact with the contained plasma, 
+mitigat ing corrosion . The method for heating plasma in VASIMR was originally 
+developed as a result of research into nuclear fusion. With the energy used for RF 
+heating and the amount of propellant delivered for plasma generation, VASIMR is 
+UNCLASSIFIED// FOR OPPICIJlcL YSE &PU,¥ 
+15

@@ -1,0 +1,53 @@
+UNCLASSIFIED/ LEQB.OEFELCI ALSO NT
+
+In general, metamaterials offer a new way of designing electromagnetic structures with
+arbitrary values of permittivity/permeability tensors, as well as other parameters (such
+as bi-anisotropy coefficient). In many instances, metamaterials enable us to
+considerably minimize sizes of resonators, transmission lines, and so forth. Such
+miniaturization is possible due to the resonant nature of the individual unit cells.
+Specifically, the structures shown in Figure 3 have high capacitance; therefore, their
+individual sizes are very sub-wavelength. That enables arrangement within sub-
+wavelength units that can be densely packed and result in strongly miniaturized
+components. It is this miniaturization that makes metamaterials interesting for
+aerospace application where small weight and size are essential.
+
+While the most spectacular progress in the field of electromagnetic metamaterials has
+so far occurred in the microwave range, it is the optical (visible, infrared, mid-infrared)
+spectral regions that hold most promise for revolutionary applications. Electromagnetic
+metamaterials have a tremendous potential for revolutionizing propagation, storage,
+and conversion of electromagnetic waves across the entire Electromagnetic Spectrum.
+In our opinion, the most exciting applications that are relevant for aerospace
+applications include energy harvesting, developing novel optical devices with unusual
+yet practically important capabilities (for example, non-reciprocal devices), enhancing
+the efficiency of nonlinear optical devices, developing novel imaging modalities capable
+of breaking the diffraction limit (for example, super-lenses, hyper-lenses, far field
+super-lenses), and developing novel lithographic techniques.
+
+Optical metamaterials are still a very new area. Just a handful of experimental
+demonstrations of multi-layer (truly bulk) optical metamaterials exist at the moment.
+Among the most recent ones are (a) demonstration of the negative index optical
+metamaterial at the telecommunications wavelength (Reference 10) that used the so-
+called fishnet structure shaped as a prism for demonstrating Snell’s Law, and (b)
+demonstration of the Indefinite Permittivity Material (IPM) and negative refraction
+(which, in the context of anisotropic metamaterials, is not the same as negative
+refractive index) in the mid-infrared part of the spectrum (Reference 11). These
+structures have the distinction of being multi-layer (or bulk). Most previous examples of
+optical metamaterials have dealt with single or double-layer substances which cannot
+be, strictly speaking, characterized as metamaterials. The difficulty in obtaining strong
+magnetic activity in optical metamaterials has been explained in several recent reviews
+(References 12, 13). In a nutshell, the issue is that the magnetic moment of most
+structures (including atomic systems) is very small, much smaller than the electric
+moment. Therefore, it is difficult to observe any optical effects that can be clearly
+assigned to magnetic activity. This is especially true for the structures that are much
+smaller than one wavelength. Exceptions, such as artificially constructed split rings, are
+possible. However, such structures cannot be operated at very high frequency because
+of the excitation of electrostatic resonances (Reference 12). In other words, when the
+resonant frequency is too high (or the dielectric permittivity of a metal is not sufficiently
+large), electrostatic resonances disrupt magnetic activity. More specifically, the energy
+inside and in the vicinity of a metamaterial element (for example, Split Ring Resonator)
+becomes predominantly electrostatic, (that is, in the form of the kinetic energy of
+oscillating electrons). The recently described multi-layer fishnet (Reference 10) is not
+an exception: its unit cell (that is, the lateral period) is only one-half of the operating
+wavelength.
+
+UNCLASSIFIED/ LEQB.OEELGI=SEONTY

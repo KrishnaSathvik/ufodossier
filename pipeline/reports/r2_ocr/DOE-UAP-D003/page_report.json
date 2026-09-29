@@ -1,0 +1,35 @@
+{
+  "filename": "DOE-UAP-D003.pdf",
+  "generated_at": "2026-09-25T14:27:57.476413+00:00",
+  "page_count": 1,
+  "usable_text_chars": 562,
+  "stats": {
+    "native_good": 0,
+    "native_thin": 0,
+    "needs_ocr": 1,
+    "ocr_failed": 0,
+    "ocr_succeeded": 1,
+    "pages_ocrd": 1
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "native_quality": {
+        "page_number": 1,
+        "native_char_count": 578,
+        "printable_ratio": 0.991,
+        "alpha_ratio": 0.612,
+        "word_count": 82,
+        "replacement_char_count": 4,
+        "category": "native_good",
+        "reason": "ocr_replaced_native (high replacement/mojibake density)"
+      },
+      "final_category": "native_good",
+      "text_method": "tesseract",
+      "char_count": 547,
+      "text": ""
+    }
+  ],
+  "combined_path": "pipeline/reports/r2_ocr/DOE-UAP-D003/combined.txt",
+  "production_writes": false
+}

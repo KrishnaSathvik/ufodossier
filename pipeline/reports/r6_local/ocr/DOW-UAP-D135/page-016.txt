@@ -1,0 +1,54 @@
+UNCLASSIFIED / 4POR-OFFL6PA4-USE-OP
+
+vehicle. This particular case study will serve as a useful illustrative comparison with the
+Newtonian antigravity case discussed in Section II-A.
+
+Interest is only in the slow (non-relativistic) motion, weak (gravity) field regime that
+characterizes the physics of the Earth, Sun, other forms of solar system matter, most
+interstellar matter (excluding compact dense stars and black holes), and small test
+masses. In this case the time-time component of the Ricci curvature tensor (R,y) is
+given by Roo ~ Gp/c* = (7.41 x 10°28)p m~. This is the primary quantity inside the
+general relativistic field equation® that encodes and measures the curvature of
+spacetime around a source of matter and characterizes the weak or strong gravity field
+regime for all forms of astronomical mass density (p). For example, the Earth’s mass
+density is 5,500 kg/m? so Roo ~ 4.08 x 10-24 m-2, which indicates that an extremely flat
+space surrounds the Earth and thus the system is within the weak field regime.
+Gravitational physics in the weak field regime is completely described by the standard
+Schwarzschild spacetime metric, which leads to the usual Newtonian and post-
+Newtonian gravitational physics.
+
+Two simple approaches can be used to determine the negative energy density required
+to counteract the Earth’s gravitational field: a) integrate the Einstein general relativistic
+field equation, or b) use an already derived result from general relativity that gives the
+repulsive force acceleration in terms of the spacetime metric components. For the first
+case, the generalized gravitational Poisson equation from the Einstein field equation is:
+
+4nG
+Ry V-800 =~ Tr(Tw) 8a
+
+4nG
+= cf i So (7)
+
+_4nG .
+
+4 7?
+c
+
+where the definition
+P: = T I-80
+
+is used, pe’ = rest-energy density + compressional potential energy (a.k.a. pressure),
+200 = goo(r) is the time-time component of the metric tensor g,,, and 77(Tyw)= 7, is the
+trace (sum of diagonal matrix elements) of the stress-energy-momentum tensor 7,, (a
+matrix quantity that encodes the density and flux of a matter source’s energy and
+momentum). Using tensor identities and grinding the algebra, Equation (7) can be re-
+written as
+
+V' V-800 ~~ Pe (8)
+
+° The Einstein field equation is: G,, = Rw — (1/2) 9wR = -(8xG/c*)T,,,, where G,, is the Einstein curvature tensor and
+R=R#, (the matrix trace of R,,.) is the Ricci scalar curvature. In simplest terms, this relation states that gravity is a
+manifestation of the spacetime curvature (G,,) induced by a source of matter (T,.).
+
+11
+UNCLASSIFIED / /+OR-OFFL6HH-USE-ONEY—

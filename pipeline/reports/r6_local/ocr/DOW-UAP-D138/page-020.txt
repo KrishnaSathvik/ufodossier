@@ -1,0 +1,38 @@
+UNCLASSIFIED/ /F8R 8FFl@IJIIL tt!I! 6HLY 
+quantum fields is divergent, as is the infin ite summation over the extra-dimensional KK 
+modes; however , as ment ioned earlier, dimens ional regularization (a form of 
+renormal ization) can be used to extract a finite result. This equation differs from 
+Equation (4.1) in that the quantum field that we consider has both mass and a degree 
+of freedom in the higher dimension. Working with a scalar field, the result can later be 
+extended simply for the case of more phenomenolog ically viable fields (fermions, for 
+example). 
+Our own research focuses upon explor ing a new way to handle the infinities arising 
+from Equation (6.1), and after performing a novel regularization it was discovered that: 
+(6.2) 
+where ( is the Riemann zeta function, and Ks12(2mrn) is the modified Bessel funct ion of 
+the second kind. Although the summation is infinite, t he function converges rapidly and 
+so a good approximation is obta ined by performing the sum up to n = 10. Since 
+discovering this formu la, the result agrees with derivat ions of this energy based on 
+different regularizat ion methods and so one is confident in the valid ity of Equation 
+(6 .2). 
+It is relatively straightforward to calculate the contributions to the vacuum energy 
+density coming from each field in the Standard Model of particle physics. For example, 
+the electron is a fundamental quantum field whose ubiquitous ground state energy 
+contr ibutes to the vacuum energy density. Similarly, the photon is a fundamental 
+quantum field whose ubiquitous ground state energy also contr ibutes to the vacuum 
+energy density. In fact, all Standard Model fields contribute a finite and calculable 
+component to the overa ll energy density of space. 
+Equation (5.1) expresses the vacuum energy density for a periodic massive scalar field . 
+Using knowledge of supersymmetry multiplets it is possible to enumerate th is energy 
+for all fields occurring in the Standard Model (Reference 49) : 
+vf:rmioil r) = -4V +(r) I 
+15 
+v ;,,,mion(r) = -v+(r) ,,, 4 
+(6 .3)v;,:gg,(r ) = 2v +(r ) . 
+Also, know ledge of the vacuum energy density for a massless field : 
++ 3(( 5) 
+V,i wssless = - 2 4 t (6.4)641t r 
+will allow one to fully articulate the energy density of the vacuum in terms of the 
+build ing blocks of nature. This is expressed algebra ically as: 
+UNCLASSIFIED/ /FOR 9FFl611.tL W&i O~lkY 
+13

@@ -1,0 +1,17 @@
+{
+  "distribution": {
+    "historical_case_file": 25,
+    "incident_report": 21,
+    "correspondence": 12,
+    "administrative": 5,
+    "transcript": 17,
+    "contract": 9,
+    "other": 33,
+    "analysis": 9,
+    "media_metadata": 1,
+    "personnel_record": 1,
+    "research_paper": 21
+  },
+  "anomaly_count": 0,
+  "anomalies": []
+}

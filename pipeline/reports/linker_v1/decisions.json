@@ -1,0 +1,275 @@
+{
+  "generated_at": "2026-09-28T17:24:36.113049+00:00",
+  "decisions": [
+    {
+      "decision_id": "dec-0059",
+      "relationship": "same_event",
+      "status": "auto_supported",
+      "left": "UNDATED-FBI-82CCDD",
+      "right": "UNDATED-FBI-15D04A",
+      "evidence": [
+        "intra-source continuity cues grouped phase rows into one episode",
+        "episode size=4",
+        "source=DOW-UAP-D082.pdf"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "dec-0061",
+      "relationship": "same_event",
+      "status": "auto_supported",
+      "left": "UNDATED-FBI-FEDFE7",
+      "right": "UNDATED-FBI-578E28",
+      "evidence": [
+        "intra-source continuity cues grouped phase rows into one episode",
+        "episode size=5",
+        "source=DOW-UAP-D082.pdf"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "dec-0166",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "DOW-UAP-D077.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog pdf_pairing series label: Western US Event",
+        "series membership does not imply same_event",
+        "episodes from DOW-UAP-D077.pdf: 0"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "dec-0167",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "DOW-UAP-D078.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog pdf_pairing series label: Western US Event",
+        "series membership does not imply same_event",
+        "episodes from DOW-UAP-D078.pdf: 3"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "dec-0168",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "DOW-UAP-D079.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog pdf_pairing series label: Western US Event",
+        "series membership does not imply same_event",
+        "episodes from DOW-UAP-D079.pdf: 4"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "dec-0169",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "DOW-UAP-D080.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog pdf_pairing series label: Western US Event",
+        "series membership does not imply same_event",
+        "episodes from DOW-UAP-D080.pdf: 3"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "dec-0170",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "DOW-UAP-D081.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog pdf_pairing series label: Western US Event",
+        "series membership does not imply same_event",
+        "episodes from DOW-UAP-D081.pdf: 1"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "dec-0171",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "DOW-UAP-D082.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog pdf_pairing series label: Western US Event",
+        "series membership does not imply same_event",
+        "episodes from DOW-UAP-D082.pdf: 5"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "dec-0172",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "DOW-UAP-D083.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog pdf_pairing series label: Western US Event",
+        "series membership does not imply same_event",
+        "episodes from DOW-UAP-D083.pdf: 5"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "dec-0173",
+      "relationship": "media_for_event",
+      "status": "auto_supported",
+      "left": "FBI-UAP-D003.pdf",
+      "right": "evt-0032",
+      "evidence": [
+        "catalog PDF Pairing links FBI-UAP-D003 \u2192 FBI-UAP-D002",
+        "official catalog PDF pairing",
+        "primary narrative source FBI-UAP-D002.pdf"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "dec-0174",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "DOW-UAP-D077.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog series identifier western-us-event-2023",
+        "series membership does not imply same_event",
+        "episodes from DOW-UAP-D077.pdf: 0"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "dec-0175",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "DOW-UAP-D078.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog series identifier western-us-event-2023",
+        "series membership does not imply same_event",
+        "episodes from DOW-UAP-D078.pdf: 3"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "dec-0176",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "DOW-UAP-D079.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog series identifier western-us-event-2023",
+        "series membership does not imply same_event",
+        "episodes from DOW-UAP-D079.pdf: 4"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "dec-0177",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "DOW-UAP-D080.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog series identifier western-us-event-2023",
+        "series membership does not imply same_event",
+        "episodes from DOW-UAP-D080.pdf: 3"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "dec-0178",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "DOW-UAP-D081.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog series identifier western-us-event-2023",
+        "series membership does not imply same_event",
+        "episodes from DOW-UAP-D081.pdf: 1"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "dec-0179",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "DOW-UAP-D082.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog series identifier western-us-event-2023",
+        "series membership does not imply same_event",
+        "episodes from DOW-UAP-D082.pdf: 5"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "dec-0180",
+      "relationship": "same_series",
+      "status": "auto_supported",
+      "left": "DOW-UAP-D083.pdf",
+      "right": "western-us-event-2023",
+      "evidence": [
+        "catalog series identifier western-us-event-2023",
+        "series membership does not imply same_event",
+        "episodes from DOW-UAP-D083.pdf: 5"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    },
+    {
+      "decision_id": "dec-0181",
+      "relationship": "analysis_of_event",
+      "status": "auto_supported",
+      "left": "ICA-UAP-D001.pdf",
+      "right": "evt-0032",
+      "evidence": [
+        "analysis source text shares specific place token(s): ['cheyenne', 'cheyenne mountain']",
+        "target incident UNDATED-USA-599D8B from FBI-UAP-D002.pdf",
+        "place_prominence=lede_or_repeated"
+      ],
+      "score_band": "strong",
+      "auto_merged": false,
+      "incidents_rewritten": false
+    }
+  ]
+}

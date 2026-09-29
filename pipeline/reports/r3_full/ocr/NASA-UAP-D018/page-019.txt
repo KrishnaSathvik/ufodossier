@@ -1,0 +1,52 @@
+M-913-65-04
+
+6 10. MSC-3, Tri-Axis Magnetometer
+In this experiment, the
+direction and magnitude
+of the earth's magnetic
+field with respect to the
+
+spacecraft will be measured. MSC-3 TRI-AXIS 3
+A tri-axis fluxgate magneto- MAGNETOMETER :
+
+meter, mounted in the adapter
+assembly of the spacecraft will
+be used. The equipment installa-
+tion is shown in Figure 12.
+
+11. MSC-10, Two-Color Earth's
+Limb Photos MSC-10 TWO-COLOR
+The astronaut will obtain photo- EARTH’S LIMB PHOTOS
+
+graphs of the earth's limb using
+
+a hand-held camera, black and
+white film, and a special filter
+mosaic which will allow each
+picture to be taken partly
+
+through a red filter and partly
+through a blue filter. After
+
+the flight, the negative will
+
+be subjected to careful measure-
+ments, and the resulting data
+
+will be used in statistical
+
+analyses to evaluate the limb
+radiance. These studies will
+
+be used to determine if the
+
+sun-lit earth's limit can be
+
+reliably observed in the short-
+visible or near-ultraviolet spectral
+region. The camera to be used for
+this experiment is shown in Figure 13.
+
+MG5-8105
+
+5/24/65

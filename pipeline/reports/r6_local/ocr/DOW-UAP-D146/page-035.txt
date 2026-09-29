@@ -1,0 +1,30 @@
+UNCLASSIFIED/ /FOR OFFICl,CL tl.!l!! 8HLY 
+Chapter 7: Conclusions 
+Much of the groundwork (literally) for aneutronic fusion propulsion has been 
+accomplished, including conducting fusion experiments, development of design 
+concepts, and the analysis of applications to aerospace propulsion. Transitioning these 
+concepts to space is an immense challenge given the large mass, power requirements, 
+and support engineering for power conversion, energy recovery, and fuel storage. This 
+transition, however, may depend upon the success of the developments of privately 
+funded ventures attempting to develop terrestrial power. Notwithstanding such 
+developments, their application for both military and space or near-space applications 
+requires a much lower threshold for return on investment than terrestrial power. 
+Pulsed-powered DPF or IEC aneutronic fusion thrusters may have near-term 
+applications to replace current satellite ion thrusters. This could be extended to the very 
+high-power domain of beam-assisted FRC for manned interplanetary flight. The near­
+space domain will require major improvements in technology to reduce system mass 
+since the size enters the MW range. The application to the aircraft domain will require 
+further developments in technology to reduce system mass and/or the use of DT fuels, 
+which present other potential safety issues. Aneutronic fusion propulsion will not be 
+practical beyond the solar system unless breakthrough propulsion physics is developed 
+that can assist the flight to the next stellar system where fusion thrusters can then be 
+used. 
+Whether it is reducing rows and rows of capacitor banks to pulse generators, shrinking 
+immense superconducting magnets to a more compact and lightweight geometry, or 
+engineering integrated fusion propulsion systems to fit onto a booster rocket, the 
+physicists who pioneered much of the reactor and propulsion technology must now 
+work side-by-side with the space systems companies to explore viable propulsion 
+systems from implementation to on-orbit maintenance and attitude control. The future 
+needs to be focused more on science and engineering and less on science fiction. 
+UNCLASSIFIED/ /FOR OFFICIA.k lal&E 8HL'I 
+30

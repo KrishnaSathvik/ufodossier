@@ -1,0 +1,45 @@
+UNCLASSIFIED/ ,'FOR OFFI@IAI:: ~SE OPtl::Y 
+transitions into and out of orbits, and long-duration sustained cruising in a 0-g 
+environment. 
+As alluded to earlier, this deviates from prior displays where the Earth's gravitational 
+field is available from which to gauge orientation. Similarly, the notion of an altimeter 
+takes on a whole new meaning in this context. While visual cues for "up" are 
+instinctively clear near the surface of the Earth (or even in closed rooms where 1 g is 
+present), for a true breakthrough vehicle, these will be special conditions amongst a 
+greater span of possibilities. 
+A particular consequence of these added operational regimes is that unfamiliar 
+situations are presented that must be made easy for the pilot to comprehend. Human 
+instincts of motion and perception are honed from living in a 1-g environment with the 
+majority of motions constrained to the (comparatively) two-dimensional ground. Also, 
+lacking eyes in the back of our heads, our natural sense of attention is focused forward. 
+While these instinctual characterist ics serve well in travel near the ground, they do not 
+apply to orbits or to deep-space flight. 
+Orbit 
+Orbits around the Earth-or any gravitating body, for that matter-present stable, 
+constant energy situations. Orbits are convenient parking locations. A vehicle does not 
+need to expend energy to stay in orbit indefinitely (unless drag forces from the 
+atmosphere or long extensions of the vehicle come into play). Orbits, therefore, are 
+common trajectories to select when loitering near gravitating bodies. But so far in the 
+course of human evolution, developing an innate sense of placing a vehicle into an orbit 
+does not exist. Although a human can instinctively run at just the right speed and 
+direction to catch a ball thrown toward them, such natural instincts do not apply to 
+placing a vehicle in orbit. Therefore, display systems will be required to provide readily 
+interpretable cues for the pilots to transition into orbital flight. This implies presenting 
+the natural relations between orbital altitude and orbital speed. This challenge is 
+compounded since such cues must naturally blend with the motion cues used when 
+flying near the surface. 
+Deep-Space and Interstellar Flight 
+Deep-space flight adds yet another challenge; namely, the almost total absence of 
+familiar cues for motion, position, and orientation. Given the extremely large distances 
+between astronomical objects and that relativistic effects do not become significant 
+(>1% distortions) until reaching beyond 10% of light speed, the view outside the craft 
+will appear stationary-even when traveling at 60 million miles per hour (9% c). The 
+display systems that are tied to the navigation references (to be discussed later) must 
+convey motion to the pilots in a natural manner despite the absence of familiar human 
+cues. 
+Compounding the absence of a sense of motion, there is an absence of orientation. 
+There is no dominant direction for "up" during deep-space flight. If some form of 
+artificial or synthetic gravity is provided for long-duration crew healt h, then that 
+internal 1 g will create the most dominant sense of "up" for the crew, and the display 
+UNCLASSIFIED/fFOA. OFFICIO ls. Plili ONls.¥ 
+11

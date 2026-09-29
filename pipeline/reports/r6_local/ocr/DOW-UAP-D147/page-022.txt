@@ -1,0 +1,49 @@
+UNCLASSIFIED1/FOR 8ffl@IAL tt91! e"t I 
+Chapter 4: Recent Developments 
+There have been several recent advances in ultracapacitors focused on increasing 
+energy density by using different active materials 24 and designs, 25 activated carbons, 26 
+polymers, 27 and metal oxides. 28 Conducting polymers have good performance, 29 but 
+lack microfabrication protocols. Oxide-based thin-fi lm ultracaps have shown high 
+performance, approaching the theoretical limit for capacitance ( ~1,000 F/g for MnO2). 30 
+However, the poor electrical conductivity and high impedances associated with surface 
+intercalation redox reactions of these oxides have limited practical film thicknesses to a 
+few microns. Carbon nanotubes have been added to the films to increase the electrical 
+conductivity, but the complexity of manufacturing limits practical applications of such 
+composite electrodes. In th is section we will discuss advances in application of CNT and 
+advanced carbons to ultracapacitor materials, the application of thin-film manufacturing 
+processes, and a revolutionary new super capacitor using a giant magneto capacitive 
+effect. 
+CNTS AND ADVANCED CARBONS 
+Carbon electrodes constitute both electrodes in a symmetric ultracapacitor and one of 
+the electrodes in an asymmetric, or pseudocapacitive, design. Improvements to the 
+carbon electrode rely upon increasing the specific capacitance (in Farads per gram). 
+These improvements come by tailoring the surface area and porosity to achieve the 
+best balance that maximizes the interaction with the electrolyte. There is a linear 
+relat ionship to the surface area and the capacitance up to a point where capacitance 
+plateaus with activated carbons. By controlling the porosity and surface area, it is 
+possible to increase the capacitance beyond this plateau. Carbon nanotubes could 
+provide performance increases with aligned CNT forests of tailored sizes. The 
+characteristics of an ultracapacitor are highly dependent on the nanostructure of the 
+carbon used for the thin-film electrodes. Advanced carbons will provide better control 
+over the pore size and distribut ion, leading to an expected 50- to 100-percent 
+improvement over the carbons in use today . 
+Carbon nanotubes can be produced with a wide variety of properties. Depending on 
+synthesis parameters, nanotubes can be single walled or multiwalled, with varying 
+numbers of tubes. CNT diameters can be tailored from a few nanometers to tens of 
+nanometers, with lengths up to hundreds of microns. CNTs can be grown in random 
+orientations or as aligned forests . CNTs have a fully accessible surface area and very 
+high electrical conductivity. Methods for incorporating CNTs into electrodes for ultracaps 
+include using CNTs as an additive for conductivity enhancement, creating dense mats of 
+randomly oriented tubes, and creating electrodes from vertically aligned forests of 
+tubes . Initial results of CNT-enable d ultracaps tended to show much lower capacitance 
+than expected, which has been attributed to the hydrophobic nature of the CNT walls. 
+Surface functionalization is a common approach to mitigating the hydrop hobicity issues 
+and thus enabling higher capacitance. Another benefit of the functionalization is the 
+ability to introduce and control pseudocapacitance. 
+Most efforts in CNT ultracaps are directed toward vertica lly aligned forests. It is possible 
+to controllably grow a dense, aligned forest that is perpendicular to the current collector. 
+The size and density of the tubes and the number of walls can be controlled with 
+catalyst design and reaction parameters. Manipulation of the CNT forest leads to 
+increased capacitance by fine -tuning the distance between tubes. Additionally, fine-
+UNCLASSIFIEO/fFOA OFFI&I:.l.b YS& ONLY 
+17

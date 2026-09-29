@@ -1,0 +1,59 @@
+UNCLASSIFIED / / BOR-O.5516L4A1-055-O)H
+
+received signal, S, is (1.48x10!*)/(7x 10°)? = 3 Wm~, more than adequate for an
+effective communication system.
+
+With this configuration, the width of the needle-like, narrow HFGW beam at the receive
+end is (2.3x10°4) x (7x106) = 1.6 km, and multiple HFGW carrier frequencies can be
+used, so the signal is very difficult to intercept, and is therefore useful as a low-
+probability-of-intercept (LPI) signal, even with widespread adoption of the technology.
+From Equation (2) the amplitude A of the HFGW at 7,000 km with the HFGW frequency
+(twice the IR frequency of vew = 1.2x10!4 s) given by: A = 1.28x107!8 (S/vew )” =
+1.8x 10-32 (in dimensionless units or m/m), which would be detectable by the currently
+designed Li-Baker HFGW detector. Since the exact frequency and phase of the HFGW
+signal is known (unlike the stochastic relic HFGWs, for which the Li-Baker detector was
+designed), a much more sensitive, optimized HFGW detector will likely be developed.
+
+As shown in Figure 8, from Grishchuk (2008), there will be negligible relic HFGW noise
+at the IR HFGW generator’s frequency of 1.2x1014 st and no other cosmic sources at
+these frequencies are currently hypothesized. Prior to the proof-of-concept test, one
+can assume a noise figure at the Li-Baker detector of 10°° Wm.
+
+5 4 ; 1
+2 = : ‘
+ae 8 ie! _— 2
+o & io! oy 2 ‘Es a
+He i os ins ow
+me #2. - 20 SE Ze
+4 o 0S io = 1 sf
+10 = i 26 ia & 335
+a He ar ot F = So
+25s od 3s age a=
+— BS (at a 5 ‘es Es
+= a § 2) v= (SE 5
+“~S 10° SE 1&1 i =
+f=) 2 . 3
+c = : 3
+8
+10
+-10
+10
+“12 F
+10 '
+:
+:
+n
+-14 iat
+10 -
+'
+'
+6
+
+a Pr, 0 5 10
+10°" 10°° 10°° 10° 40 10 40
+Frequency v, Hz
+
+Figure 8. Predicted Relic GW Energy Density as a Function of Frequency
+
+11
+UNCLASSIFIED/ /EQR.OGELGEALUSE-ONET-

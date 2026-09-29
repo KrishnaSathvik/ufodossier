@@ -1,0 +1,57 @@
+• Towed Decoy Software Load or Mission Data: 
+• Num Towed Decoys: 
+• Type of Radar-Guided AAM: 
+• Num Radar-Guided AAM: 
+• Type of IR-Guided AAM: 
+• Num IR-Guided AAM: 
+• Gun Name or Designator: 
+• Num Gun Rounds: 
+• Air-to-Ground Wpn to Include Num of Each: 
+• TGT Pod Name or Designator: 
+• Additional Avionics: 
+• Data Link: 
+• Gentext: 
+Timeline 
+Takeoff 
+• Callsign: 
+• Number of Aircraft: 1 
+• Asset Type (Aircraft): 
+• Aircraft Tail Number(s): 
+• Takeoff Location (ICAO Code): 
+• Takeoff Time DTG: 291734:00ZJUL25 
+• Mode 3 (IFF Codes): 
+• Gentext/Additional Details: 
+• Mission Canceled: 
+Landing 
+• Last Land Location (ICAO Code): 
+• Last Land Time: 301411:00ZJUL25 
+• Last Engine Shutdown Time: 301426:00ZJUL25 
+• Total Mission Time: 
+• Gentext/Additional Details: 
+ISR 
+• Time-on Station DTG: 292236:01ZJUL25 
+• Time-off Station DTG: 300930:00ZJUL25 
+• Aircraft Callsign: 
+• Msn Type: 
+SECRET//NOFORN 
+SECRET//NOFORN 
+DECLASSIFIED
+DECLASSIFIED
+UNCLASSIFIED
+UNCLASSIFIED
+Declassified by:
+MG Richard A. Harrison
+USCENTCOM Chief of Staff
+Declassified on: 20260710
+(b) (1) (B)
+(b) (1) (B)
+(b) (1) (B)
+(b) (1) (B)
+(b) (1) (B)
+(b) (1) (B)
+(b) (1) (B)
+(b) (1) (B)
+(b) (1) (B)
+(b) (1) (B)
+(b) (1) (B)
+3.5C. (B)(6)

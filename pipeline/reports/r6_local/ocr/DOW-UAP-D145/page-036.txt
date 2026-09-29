@@ -1,0 +1,48 @@
+UNCLASSIFIED (/ FO? -OFFECEALUSE-ONE~
+
+doubled that of typical chemical rocket designs. The largest NERVA rocket tested
+generated 867 kN of thrust using liquid hydrogen propellant. NERVA rockets were
+proposed for the Manned Mars Mission using a tethered cabin to protect the crew from
+reactor radiation. The NERVA project was cancelled in 1972.
+
+LEO TO THE MOONS OF JUPITER AND SATURN (460 TO 940 MILLION
+MILES)
+
+Project Prometheus, 2003-2005, concentrated on nuclear electric and nuclear thermal
+propulsion for unmanned missions to the moons of Jupiter. For manned flight, the
+nuclear thermal systems based on NERVA still provide high thrust, reasonable values of
+specific impulse, and a technology that requires no major breakthroughs in order to be
+achieved. For manned flights, tethered systems will likely be necessary to minimize
+radiation exposure to the crew from the reactor. For the next 30 years, nuclear
+thermal propulsion can be used to explore locations throughout the solar system based
+on new engineered designs with no unresolved scientific hurdles.
+
+Fusion reactors or fusion propulsion can be developed for missions throughout the solar
+system, but there are many unresolved issues in their use. The fusion propulsion
+technology that may show promise in the far-term are pulsed propulsion systems.
+These concept designs include large sails or collectors that absorb the energy from
+thermonuclear explosions initiated at a specific distance from the collector. Each
+explosion generates a pulse that accelerates the vehicle forward. Design challenges
+include protection of the crew from the radiation of the nuclear blast, cushioning the
+crew from the incredible “jerk” or change in acceleration that occurs during each blast,
+and the design of a suitable collector.
+
+LEO TO ALPHA CENTAURI (4.22 LIGHT-YEARS OR 24.8 TRILLION
+MILES)
+
+Alpha Centauri contains three of the closest stars to our solar system. Alpha Centauri A
+and B are binary stars orbiting one another, yet each one is approximately the same
+size as the Sun. Alpha Centauri C, or Proxima Centauri, is the closest at 4.22 light-
+years and is a red dwarf. There is a limited possibility that Alpha Centauri has Earth-
+like planets.
+
+Rockets optimal for flights to these stars and destinations of similar distance would
+require high specific impulse propulsion. Depending on other mission requirements, the
+thrust may be kept low since the application of a small, but continuous thrust over a
+long period of time leads to high velocities. Since aerobraking may not be possible, the
+spacecraft can accelerate for half the trip and must decelerate for the second half.
+Spacecraft acceleration can be low, and most designs for human flight focus on a
+continuous acceleration of 1 g (Earth gravity) to provide optimal crew conditions.
+
+28
+UNCLASSIFIED / +O R-OFFt6EA-USE-ONE

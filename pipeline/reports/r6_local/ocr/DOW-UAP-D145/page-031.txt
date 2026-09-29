@@ -1,0 +1,26 @@
+UNCLASSIFIED//POlt Offl@IAL WS& &NkY 
+heat and particles are collected by an electron beam generator that heats 
+hydrogen . The hydrogen is used as a propellant gas that is exhausted through a 
+Laval nozzle to generate thrust. 
+The Farnsworth-Hirsch Fusor is a proven technology that is used in tabletop 
+experiments to demonstrate nuclear fusion. This device is an example of inertial 
+electrostatic confinement (ICF) . Scaling this device up to production of ions for a 
+propulsion system is a major task for EMC2 and Dr. Bussard. 
+LH, 
+Propellant 
+Tank 
+Figure 11. QED Rocket Design by Dr. Robert Bussard and EMC2. 
+2. ESA Advanced Concepts Team 
+The European Space Agency (ESA), an international research consortium, has 
+assembled their Advanced Concepts Team (ACT) to develop space propulsion 
+systems based on nuclear fusion in open magnetic confinement. This system, an 
+example of magnetic confinement fusion, uses gas dynamic mirrors (GDM) to 
+constrain an ion plasma. 
+3. JPL, Rocketdyne, Rockwell 
+Design of an inertial confinement fusion source for manned missions to Mars was 
+conducted for this joint project where a magnetic thrust chamber was to be used 
+to minimize contact between the plasma and the walls of the thrust chamber. 
+With a 100-ton payload and a total vehicle launch mass of 6,000 tons, this 
+spacecraft would deliver manned missions to Mars in 100 days. 
+UNCLASSIFIED/fF&A &FFI&I:.l.k W&li &NkY 
+23

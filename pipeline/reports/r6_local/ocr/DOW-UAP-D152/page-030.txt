@@ -1,0 +1,43 @@
+UNCLASSIFIED / /FOR-OFFECGHH-USE-OAL
+
+or
+62"
+
+2 (93)
+—
+
+Apart from the factor m/e, this is same as (84).
+
+For weak gravitational fields produced by slowly moving matter, Einstein’s linearized
+
+gravitational field equations permit the gauge condition (replacing the Lorentz gauge)
+
+HOD Ah i
+c Ot
+aA 9
+Ot
+
+With the gauge transformation for Mand A
+
+o'=0
+
+~ A 94
+A’=A+grad f a
+where f has to satisfy the potential equation
+
+vFf=0, (95)
+
+For a stationary gravitational field the vector potential changes phase of the
+
+Schrédinger wave function according to
+y' =y exp " f
+= Te 96
+this (96)
+leading to phase shift on a closed path
+
+m A
+5p = —— a’ 4
+
+26
+
+UNCLASSIFIED S/POROPPICTAL USE ONET

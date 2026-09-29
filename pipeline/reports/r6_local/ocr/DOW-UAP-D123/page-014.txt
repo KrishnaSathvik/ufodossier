@@ -1,0 +1,51 @@
+1
+UNCLASSIFIED/} FOR OFFICIICL tl.!l!!! 8HLY 
+Table 1. GLOW for Chemical SSRV 21 
+Vehicle Component 
+&ru cture 
+Thermal Protection 
+Propulsion (4 engines) 
+Electronics 
+TOTAL DRY MASS 
+15% Margin + Unused Propellants 
+Payload 
+BURNOUT MASS 
+TOTAL PROPELLANT 
+GLOW 
+25,700 kg 
+12,300 kg 
+14,900 kg 
+7,600 kg 
+60,500 kg 
+11,400 kg 
+11.340 kg (24,948 lbs) 
+83,240 kg 
+3681300 kg 
+451 ,540 kg (993,388 lbs) 
+Table 2. GLOW for Positron SSRV 22 
+Vehicle Component Mass 
+Structure 
+Thermal Protection 
+Propulsion (4 engines) 
+Electronics 
+TOTAL DRY MASS 
+15% Margin + Unused Propellants 
+Payload 
+BURNOUT MASS 
+TOTAL PROPELLANT 
+GLOW 
+25,700 kg 
+12,300 kg 
+14,900 kg 
+7,600 kg 
+60,500 kg 
+11,400 kg 
+11,340 kg (24,948 lbs) 
+83,240 kg 
+1761000 kg 
+259,240 kg (590,328 lbs) 
+The GLOW of the positron SSRV is 43 percent less than that of the chemica l SSRV 
+owing to reduced prope llant mass. The PTRE will dramatically increase the affordability 
+of space transportation by increasing the useful payload. 
+UNCLASSIFIED/ /EOR OfifilEIAk W&li 8HLY 
+9

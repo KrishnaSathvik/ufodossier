@@ -1,0 +1,36 @@
+UNCLASSIFIED / /F@R-OFFECGE-USE-ONE—
+
+~ 10 times the weight of the Casimir plates, and so forth), an estimate of the
+achievable power might be obtained. Based on the described parameters, and assuming
+a switching from a purely conductive state to a dielectric constant of K = 4, yields a
+figure of merit of = 35 x f(MHz) W/kg (f = switching rate) for the power density
+(Reference 29). This can be compared to the power density of ~ 5 W/kg achieved by
+current radioisotope thermoelectric generators. The predicted output power per unit
+area for this experimental device is = 10-© f (MHz)/4[d(um)]? W/cm2.
+
+Spacing, d (jum)
+
+» oS 0.6 0.7 0.8 0.9 1.0
+> 6S
+&
+5
+—
+J
+S 10
+=
+x
+&
+¥
+a 35
+aed
+i
+2»
+E
+~
+25
+30
+
+Figure 9. Tunable Casimir Effect: Conductor vs. Dielectric
+
+1
+UNCLASSIFIED/ AEQROEEICIALUS EO ble

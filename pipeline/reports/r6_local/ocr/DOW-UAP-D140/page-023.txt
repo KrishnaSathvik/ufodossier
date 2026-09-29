@@ -1,0 +1,37 @@
+UNCLASSIFIED//EOR OEEICI0L Llili QI\IL¥ 
+Coherent Versus Stochastic SOL 
+The question under consideration in this paper is whether or not the Li-Baker detector, 
+Figure 14, is quantum-limited when detecting relic HFGW. In other words, does the 
+standard quantum limit (SQL) interfere with the sensitivity of the Li-Baker detector 
+design? The answer will be negative if the SQL is less than 10-32 m/m. Grishchuk (1977, 
+2007) has calculated the SQL for GW detectors in general, which for a coherent GW is 
+hdet = (1/Q)(nwJE/ 12 (5) 
+and for a stochastic GW is: 
+(6) 
+where hdet is the metric (strain) detection limit in m/m, w is the frequency of sensed 
+gravitational waves (typically around 10 GHz in the Li-Baker detector), Eis the effective 
+energy contained within the detector cavity summed over the detection averaging time, 
+and Qis the quality factor or selectivity of the signal over noise. 
+The SQL depends on the values of these parameters. For the remainder of th is paper, 
+we will consider the SQL of only the stochastic signal detection case. In the following 
+subsections the best possible value of the SQL using current technology will be 
+estimated to determine the fundamental limitations of the Li-Baker detector as now 
+envisioned. 
+Impact of Contained Energy Levels on SOL 
+First attempt to estimate a realistic best case for the energy contained within the 
+detection process, E. Typically it is expected that for a refrigerated microwave resonant 
+cavity the best possible electrical quality factor will be around 2nx105. Assuming a "best 
+efforts" value of 1000 W for the power of the Gaussian beam in a laboratory 
+installation, the effective tota l RF energy stored in the microwave resonant cavity of the 
+Li-Baker detector, summed over the system averaging time, is estimated to be given by 
+(Grishchuk, 2007): 
+ERF = (10 3 W) x (1000s) x (21tx105/21t) = 1011] (7) 
+over a typical 1000 s averaging time. Both the Li-Baker detector and a detector using 
+the Gertsenshtein effect use a large static magnetic field B. For the present suggested 
+outline design for the Li-Baker detector, the nominal value of B = 3 T, so that the 
+magnetic energy density is given by 
+(8) 
+The interaction volume in a practical laboratory-based detector is likely to be a 
+maximum of around 1 m3 • So, the effective total stored energy from the Gaussian 
+UNCLASSIFIED/ /FOR OEEICIJ.b HSI!! Dflti 
+18

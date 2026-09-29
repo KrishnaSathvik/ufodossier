@@ -1,0 +1,48 @@
+UNCLASSIFIED/ /FAA QFFl&IAL l:191! 614[1 
+case of dielectric media. These particular cases will not be considered further since 
+there are technical subtleties involved that complicate the calculations and application 
+of the different approaches. 
+As a final note, negative energy can be created by a single moving reflecting 
+(conducting) surface (a.k.a. a moving mirror) via the dynamical Casimir effect. A 
+mirror moving with increasing acceleration generates a flux of negative energy that 
+emanates from its surface and flows out into the space ahead of the mirror [23, 52]. 
+This is essentially the simple case of an infinite plane conductor undergoing acceleration 
+perpendicular to its surface. If the acceleration varies with time, the conductor will 
+generally emit or absorb photons (i.e., exchange energy with the vacuum), even 
+though it is neutral. This is an example of the well-known quantum phenomenon of 
+parametric excitation. The parameters of the quantum electromagnetic oscillators 
+(e.g., their frequency distribution function) change with time owing to the acceleration 
+of the mirror [53]. However, this effect is known to be exceedingly small, and it is not 
+the most effective way to produce negative energy for our purposes. We will not 
+consider this scheme any further. 
+QUANTUM OPTICAL HOMODVNE TOMOGRAPHY 
+Observing Negative Energy in the Lab 
+Negative energy should be observable in lab experiments. A generic, non-optical 
+scheme for detecting negative energy in experiments was recently reported by Davies 
+and Ottewill [54] who studied the response of switched particle detectors to static 
+negative energy densities and negative energy fluxes. Their model is based on a free 
+(massless) scalar field in flat 4-dimensional Minkowski spacetime and utilized a simple 
+generalization of the standard monopole detector, which is switched on and off to 
+concentrate the measurements on periods of isolated negative energy density (or 
+negative energy flux). The detector model includes an explicit switching factor whereby 
+five different switching functions (based on data windowing theory) are defined and 
+evaluated. 
+In order to isolate the effects of negative energy, a comparison is made for the 
+response of a detector switched on and off during a period of negative energy density 
+(or negative energy flux) and that switched on and off in the vacuum. The results shed 
+light on the response of matter (detectors) to pulses of negative energy of finite 
+duration, and they showed that negative energy should have the effect of enhancing 
+de-excitation (i.e., induce cooling) of the detector. This is the opposite of our 
+experience with detectors that undergo excitation when encountering "normal" matter 
+or energy, and isolated detectors placed in a vacuum naturally cool due to the usual 
+thermodynamic reasons. But Davies and Ottewill point out that the enhanced cooling 
+effect they discovered cannot be used to draw a thermodynamic conclusion because 
+their modeling was restricted to first order in perturbation theory. It is not possible at 
+first order to determine whether the enhanced cooling effects are due to the small 
+violation of energy conservation expected in any process in which a general quantum 
+state collapses to an energy eigenstate, or whether they predict a systematic reduction 
+in the energy of the detector which has serious thermodynamic implications. However, 
+Davies and Ottewill point out that their results are model dependent and they found for 
+their standard monopole detector model that there is not always a simple relationship 
+UNCLASSIFIED/ /fl61t 6flfllelslct l:l!lfI 8,.LY 
+15

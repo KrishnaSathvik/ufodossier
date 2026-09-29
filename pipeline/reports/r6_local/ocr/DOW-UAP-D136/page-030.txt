@@ -1,0 +1,35 @@
+UNCLASSIFIED/ /P'OR: OP'Pl@IAL WS& 0NI.¥ 
+Over the years, investigators have figured out how to interpret precursor bioelectrical 
+events in the brain involved in planning of movements. The result is that if enough 
+recording electrodes are placed in the brain in the motor cortex area, it is possible to 
+determine planned muscle motion. This works even if the muscles ultimately do not 
+move, as in the case of a quadriplegic with spinal cord injury. 
+Thus quite a remarkable possibility presents in that a computer program can be taught 
+to interpret large numbers of bioelectrodes signals and so can determine a person's 
+intent to move and then, for example, control a robotic limb that actually performs the 
+operation. 
+Crude forms of these thought-controlled devices have been shown in research 
+laboratories to be feasible, even if they are at present not practical. Among other 
+things, the electrode interface to the brain is not yet sufficiently developed to provide 
+large numbers of functioning electrodes that can work over prolonged periods of time. 
+MICROELECTRODE ARRAY FABRICATION 
+Neuroengineering applications in the brain can require tens to hundreds of electrodes to 
+make contact with a similarly large numbers of cells in the brain. Large numbers of 
+electrodes in arrays inserted into the surface of the brain cortex thus become sensitive 
+to the timing and patterns of cell firings. 
+BioMEMS has been a critical part of this development. The electrode array in Figure 20 
+is made by a electrochemical process of using a long but stiff wire that acts like a 
+machine tool. Electrical discharge machining (EDM) is a process that makes use of 
+computer -aided design (CAD), that runs under computer numerical control (CNC), and 
+that is capable of batch processing. 
+A block of titanium metal that will ultimately be the array is placed in an electrolyte 
+solution and the working electrode initiates a submerged electrochemical arc. It finely 
+removes metal by a chemical process that does not involve a lot of heat. It can 
+generate intricate features with high aspect ratios and is capable of machining a large 
+variety of conductive materials. 
+In this case, the electrode shaft thicknesses are on the order of 50-100 microns and the 
+entire device is less than a centimeter square with 96 electrode channels. When this 
+device is encapsulated in a polymer at its base and pressed into the brain cortex, each 
+electrode then records from a specific set of neurons that are local to its placement. 
+UNCLASSIFIED/ {FOR OFFICIO! !PEii ODIi.¥ 
+24

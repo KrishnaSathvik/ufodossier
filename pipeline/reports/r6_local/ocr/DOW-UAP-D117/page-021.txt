@@ -1,0 +1,29 @@
+UNCLASSIFIED/ /P'OR OP'P'l@IAL WS& &Nia¥ 
+Figure 8. Microstructure of In Situ Metallic Glass Matrix Composite. With ductile crystal line dendrites . 
+(a) Scanning electron micrograph showing the dendrites (light gray) in the glassy matrix (dark gray) . 
+(b) Composite after plastic deformation; note the multiplicity of slip steps, indicating extensive 
+interaction of shear bands with the dendrltes .33 
+The key limitat ion of these in situ composites is that not every alloy system is capable 
+of forming them. While any alloy will form crystalline phases at elevated temperatures, 
+usually the crystalline phases that form are brittle intermetallics that degrade rather 
+than enhance the mechanical properties. To be effective in controlling shear bands, the 
+precipitated phase needs to be ductile, have a shear modulus lower than that of the 
+glassy matrix, and (preferably) form as dendrites. To date, the only published reports 
+of systems that satisfy these criteria concern alloys based on early transition metals, 
+notably zirconium and titanium. Whether in situ composites can be developed in other 
+alloy systems remains to be seen. 
+MECHANICAL PROPERTIES OF COMPOSITES 
+The ability to produce mixed amorphous -crystalline microstructure provides the ability 
+to control the formation and propagation of shear bands. The resulting materials can 
+have good fracture and fatigue resistance while retaining the high strength and 
+processing flexibility associated with metallic glasses. 
+The origin of these effects is related to the development of a region of plastic 
+deformation at the tip of an advancing crack. For a crack opening under tensile loading, 
+the size of the plastic region is approximately given by: 
+(Equation 1) 
+where Kie is the plane-strain fracture toughness (mentioned above) and crv is the yield 
+strength. The size of the plastic zone varies from ~1 µm for "int rinsically britt lle" 
+metallic glasses to ,.., 1 mm for glasses capable of some plastic deformation. 34 If the 
+material has structure on this length scale (or if the sample itself is of this size), the n 
+15 
+UNCLASSIFIED/ /FQB OFFICIO! 1!&'Ii QNLY

@@ -1,0 +1,44 @@
+UNCLASSIFIED/;'POR: OPPICIAE USE 014Lf 
+- K"" 1.5.t 
+• Electron Beam: 
+- Photocathode injector creates picosecond electron pulses at 7 MeV. * 
+- Superconducting accelerator increases electron energy to 100 MeV. 
+- Peak current: 1100 A. 
+- Average current: 0.5 A. 
+- Length: 0.1 mm. 
+- Radius: 0.1 mm. 
+- Electron beam recirculated for energy recovery. 
+• Optical resonator based on short Rayleigh length optical mode (see Figure 32): 
+- Cavity length (resonator mirror separation distance), 5: 16 m. 
+- Optical waist (natural mode width), wo: 0.1 mm. 
+- Mirror radius of curvature, w: 2.6 cm. 
+- Rayleigh length, zo: 2 cm. 
+• Optical (Laser Beam) Output: 
+- Power: 2 MW. 
+- Wavelength, i: 1 µm (tunable by controlling electron beam, undulator and 
+resonator properties). 
+• Short Rayleigh length§ (SRL) optical mode gives several advantages: 
+- Reduces optical intensity on resonator mirrors to avoid mirror damage. 
+- Single optical wavefront is amplified giving excellent beam quality. 
+- FEL interaction is altered with SRL mode. 
+- SRL intensifies interaction at mode focus. 
+• Rapidly changing optical amplitude and phase. 
+- SRL accelerates electron bunching and energy extraction 
+• Electrons interact with optical radiation field along undulator. 
+• Electrons "see" intense optical electr ic field at mode focus. 
+• Electrons "see" rapidly changing optical radiation phase at mode focus. 
+• Natural mode width/optical waist (for 5 ~meters & laser beam i ~microns) is 
+millimeters. 
+• High-power lasers typically run in multiple transverse modes; however: 
+- High-power FEL requires short Rayleigh length and small optical waist. 
+- High-power FEL amplifies single mode without damage to gain medium (a 
+vacuum). 
+• FEL efficiency increases as Rayleigh length decreases. 
+• For megawatt-class FEL system, high operating current plus active mirror 
+alignment system acts to stabilize optical mode against Naval warship vibrations, 
+t K = eBrmsAund/2rcmc<, where e is the electron charge, Brm, is the root-mean-square magnetic field strength, Aund 
+is the undulator period, m is the electron mass, and c is the speed of light. 
+' MeV = Mega-electron Volt. 
+§SRL = distance for the area of the beam waist to double. 
+UNCLASSIFIED'I i'FAA: 061i1Clali.k W&& 8PtLY 
+61

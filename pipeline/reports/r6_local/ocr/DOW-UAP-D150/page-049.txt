@@ -1,0 +1,49 @@
+UNCLASSIFIED/ /FOR OFFI&IAl l::181: 8HLY 
+REFERENCES 
+1. Turing A. On Computable Numbers, with an Application to the 
+Entscheidungsproblem. Proceedings of the London Mathematical Society 
+1937 ;42: 230-65. 
+2. Cho K, George AD, Subramaniyan R. Fault-tolerant parallel algorithms for adaptive 
+matched-field processing on distributed array systems. Journal of Computational 
+Acoustics. 2005;13(4):667-87. 
+3. Cho K, George AD, Subramaniyan R, Kim K. Fault-tolerant matched-field processing 
+in the presence of element failures. Journal of Computational Acoustics. 
+2006; 14(3): 299-319. 
+4. Einstein A. Zur Quantentheorie der Strahlung (On the Quantum Theory of Radiation). 
+Physikalische Zeitschrilt. 1917;18:121-8. 
+5. Ladd TD, Jelezko F, Laflamme R, Nakamura Y, Monroe C, O'Brien JL. Quantum 
+computers. Nature. 2010 Mar 4;464(7285) :45-53. 
+6. Shor PW, editor. Algorithms for Quantum Computation: Discrete Logarithms and 
+Factor ing. 35th Annual Symposium on the Foundations of Computer Science; 1994: 
+IEEE Computer Society Press, Los Alamitos, CA. 
+7. Grover LK. Quantum mechanics helps in searching for a needle in a haystack. 
+Physical Review Letters. 1997 Jul;79(2):325-8. 
+8. Grover LK. Fixed-point quantum search. Physical Review Letters. 2005 Oct;95(15). 
+9. Bennett CH, Brassard G, Popescu S, Schumacher B, Smolin JA, Wootters WK. 
+Purification of noisy entanglement and faithful teleportation via noisy channels. 
+Physical Review Letters. 1996 Jan;76(5):722-5. 
+10. Gottesman D, Chuang IL. Demonstrating the viability of universal quantum 
+computation using teleportation and single-qubit operations. Nature. 1999 
+Nov;402(6760): 390-3. 
+11. Feynman RP. Simulating Physics with Computers. International Journal of 
+Theoretical Physics. 1982;21(6-7):467-88. 
+12. Ortiz G, Gubernatis JE, Knill E, Laflamme R. Simulating fermions on a quantum 
+computer. Computer Physics Communicat ions. 2002;146(3):302 -16. 
+13.Knill E, Laflamme R. Theory of quantum error-correcting codes. Phys Rev A. [Article]. 
+1997 Feb;55(2) :900 -11. 
+14. Li YF, Dumer I, Pryadko LP. Clustered Error Correction of Codeword-Stabilized 
+Quantum Codes. Physical Review Letters. [Article]. 2010 May;104(19):4. 
+15. Mizel A, Lidar DA, Mitchell M. Simple proof of equivalence between adiabatic 
+quantum computation and the circu it model. Physical Review Letters. 2007 
+Aug;99(7). 
+16. Raussendorf R, Briegel HJ. A one-way quantum computer. Physical Review Letters . 
+2001 May;86(22):5188-91. 
+17.Raussendorf R, Harrington J, Goyal K. A fault-to lerant one-way quantum computer. 
+Annals of Physics. 2006 Sep;321(9):2242 -70. 
+18. B. Trauzettel, D.V. Bulaev, D. Loss, G. Burkard. Spin qubits in graphene quantum 
+dots, Nat Phys 3, 192-196 (2007). 
+19. WeinsteinY S, Hellberg C S and Levy J 2005 Quantum-dot cluster-state comput ing 
+with encoded qubits Phys. Rev. A 72 020304. 
+20.A.N. Jordan, B. Trauzettel, G. Burkard. Weak-measurement theory of quantum-dot 
+spin qub its, Phys. Rev. B 76, 155324 (2007). 
+UNCLASSIFIED/ /FOA QFFl&IAL Y!H!! f>flt I 48

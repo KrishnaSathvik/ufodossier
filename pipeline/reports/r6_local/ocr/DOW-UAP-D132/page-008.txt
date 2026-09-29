@@ -1,0 +1,26 @@
+UNCLASSIFIED/ /FOR 8Ffl@IAL tl.!I!! er•t a 
+TIMEINTERVAL , FREQUENCY, ENERGY 
+Begin by considering the case where ~ < 1, typical for an altered spacetime metric in 
+the vicinity of, say, a stellar mass, as expressed by the leading term in Equation (4). 
+Local measurements with physical clocks within the altered spacetime yield a time 
+interval ..[i";;dt < dt; thus an interval of time dt between two events in an undistorted 
+spacetime remote 1 from the mass-say, 10 seconds-would be judged by local (proper) 
+measurement from within the altered spacetime to occur in a lesser time interval, 
+.[i";;;dt <dt-say, 5 seconds. From this one can rightly infer that, relatively speaking, 
+clocks (atomic processes and so forth) within the altered spacetime run slower. Given 
+this result, a physical process (for example, interval between clock ticks, atomic 
+emissions) that takes a time !:::.t in unaltered spacetime slows to !).t ➔ M/.ji;, when 
+occurring within the altered spacetime. Conversely, under condit ions (for example, 
+metric engineering) for which Ji;; > 1, processes within the spacetime-altered region 
+are sped up. Thus the first entry for a table of physical effects (see Table 1) is made. 
+Given that frequency measurements are the reciprocal of time duration measurements, 
+the associated expression for frequency w is given by m➔ m.Jg;; , our second entry in 
+Table 1. This accounts, for example, for the redshifting of atomic emissions from dense 
+masses where ..[i";; < 1. Conversely, under conditions for which Ji;; > 1, blueshifting of 
+emissions would occur. In addition, given that quanta of energy are given by E = hm, 
+energy scales with Jg;; , as does frequency, E ➔ E.jg;,, our third entry in the table. 
+Depending on the value of .Ji: in the spacetime-altered region, energy states may be 
+raised or lowered relative to an unaltered spacetime region. 
+1 An observer at "infinity ." 
+UNCLASSIFIED/ j POI\ OPPIEIICL tl.!I!! BHLY 
+3

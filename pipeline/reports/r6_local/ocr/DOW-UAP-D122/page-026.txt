@@ -1,0 +1,15 @@
+UNCLASSIFIED/ /FOR: errl@IAL YSIE 8HLY 
+coordinate transformations). This is not a cloaking device: it compresses an extended 
+region of space to a reflecting plate; the interior is hidden behind the plate, but the 
+plate is clearly visible. Such a device conceals the extension and shape of the hidden 
+region but not the fact of hidi ng itself. 
+B 
+Figure 22. Coordinate Transformation Implemented by a Ground-Plate Cloak 
+In order to implement the ground -plate cloak, thousands of cells with split-ring 
+resonators with individual, tailor-made electromagnetic properties were designed, as 
+Figure 23 shows. 
+0. 0.8 12 6 
+mm) 
+Figure 23. Implementation of the Ground-Plate Cloak 38 
+UNCLASSIFIED//EOR QFFIEIAk WS& 8HLY 
+21

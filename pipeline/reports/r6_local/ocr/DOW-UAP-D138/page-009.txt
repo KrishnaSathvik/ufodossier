@@ -1,0 +1,42 @@
+UNCLASSIFIED//P61t 6Pfl@IIIIL tf!JIE 8HL\S 
+2.1 WARP DRIVE REQUIREMENTS 
+Implementation of FTL interstellar travel via warp drives requires engineering of 
+spacetime into very specialized local geometries as shown by Equation (2.1). The 
+analysis of these via the general relativistic field equation plus the resultant source 
+matter equat ions of state demonstrates that such geometries require the use of 
+"exotic" matter in order to produce the requis ite FTL spacetime modification. Exotic 
+matter is generally defined by genera l relativity (GR) physics to be matter that 
+possesses (renormalized) negative energy density and/or negative stress-tension (= 
+positive outward pressure, aka gravitational repulsion). The term is widely 
+misunderstood and misapplied by the non-GR community. Also, it has been claimed 
+that FTL spacetimes are not plausible because exotic matter violates the general 
+relativistic energy conditions. 2 However, this has been shown to be a spurious issue 
+(Reference 11). 
+The energy density for the Alcubierre (Reference 1) warp drive that is derived from the 
+general relativistic field equation is complex, so we instead use a more simple formu la 
+to express the net energy required, E.varp , to build a warp bubble around a spaceship 
+(Reference 12): 
+v2 c4 R2 cr=_ warp 
+Ewarp G (2.3) 
+=-( l.21 x 1044 ) v:,,up R2 cr, 
+where G is Newton's universal gravitation constant (6.673 x 10-11 N·m2/kg 2), Vwarp is the 
+dimens ionless speed of the warp bubble, R (> 0) is the radius of the warp bubble, and cr 
+(> 0) is proportional to the inverse of the warp bubble wall th ickness L'. (i.e., cr ~ 1/L'.). 
+Equation (2.3) characterizes the amount of negative energy that one needs to localize 
+in the walls of the warp bubble . Table 2 presents a tabulation of the required negat ive 
+energy as a function of the "warp factor," Vwarp , One can compare the values of E.varp in 
+the table with the (positive) rest-energy contained in the Sun (1.79 x 1047 J). The 
+consequence of Equation (2.3) and Table 2 is that if one wants to travel at hyperlight 
+speeds, then the warp bubble energy requirement will be an enormous negative 
+number. And this remains true even if one engineers an arbitrarily low sublight speed 
+warp bubble. Engineering a warp drive bubble is quite daunting given these results. 
+2 The condition for ordinary, classical (non -exotic) forms of matter that we are fami liar with in nature is that PE > p 
+and/or PE ;:: 0, where PE is the energy density and p is the pressure/stress-tension of some source of matter. These 
+condit ions represent two examples of what are variously called the "standa rd" energy conditions : Weak Energy 
+Condition (WEC: PE.?: 0, PE + p .?: 0), Null Energy Condition (NEC: PE + p ~ 0), Dominant Energy Condition (DEC), 
+and Strong Energy Condition (SEC). These energy conditions forbid negative energy density between mater ial 
+objects to occur in nature, but they are mere hypotheses . The energy condit ions were developed to establish a 
+series of mathematical hypotheses governing the behavior of collapsed-matter singularit ies in the study of 
+cosmology and black holes. 
+UNCLASSIFIED/ /FOR OFFICIAL W&i OIUl.:Y 
+2

@@ -1,0 +1,45 @@
+UNCLASSIFIED/ /FOR OFFIEil.t.k W~i Q~lls¥ 
+million or even billions in the optimist's opinion. A lot of uncertainty is thus affecting our 
+knowledge of N as of 2010. In all cases, however, the final result about N has always 
+been a sheer number, i.e., a positive integer number ranging from 1 to millions or 
+billions . This is precisely the aspect of the Drake equation that th is author regarded as 
+"too simpl istic" and improved mathematically in his paper #IAC-08-A4.1.4, entit led 
+"The Statistical Drake Equation" and presented on October 1st , 2008, at the 59th 
+International Astronautical Congress (IAC) held in Glasgow, Scotland, UK, September 
+29th thru October 3rd, 2008. That paper is attached herewith as Appendix B. Newcomers 
+to SETI and to the Drake equat ion, however, may find that paper too difficult to be 
+understood mathematically at a first reading. Thus, I shall now explain the content of 
+that paper "by speaking easily." I thank the reader for his or her attention . 
+5. The Statistical Drake Equation 
+We start by an examp le. 
+Consider the first independent variable in the Drake equation (7), i.e., Ns, the number 
+of stars in the Milky Way galaxy. Astronomers tell us that approximately there should 
+be about 350 millions stars in the galaxy. Of course, nobody has counted (or even seen 
+in the photographic plates) all the stars in the galaxy! There are too many practical 
+difficulties preventing us from doing so: just to name one, the dust clouds that don't 
+allow us to see even the Galactic Bulge (i.e. the central region of the galaxy) in the 
+visible light (although we may "see it" at radio frequencies like the famous neutral 
+hydrogen line at 1420 MHz). So, it doesn't make any sense to say that Ns = 350 x 106, 
+or, say (even worse) that the number of stars in the galaxy is (say) 354,233,321, or 
+similar fanciful exact integer numbers. That is just silly and non-scientific. Much more 
+scient ific, on the contrary, is to say that the number of stars in the galaxy is 350 million 
+plus or minus, say, 50 millions (or whatever values the astronomers may regard as 
+more appropriate, since this is just an example to let the reader understand the 
+difficulty). 
+Thus, it makes sense to REPLACE each of the seven independent variables in the Drake 
+equation (7) by a MEAN VALUE (350 millions, in the above example) PLUS OR MINUS A 
+CERTAIN STANDARD DEVIATION (SO millions, in the above examp le). 
+By doing so, we have made a great step ahead: we have abandoned the too-simplistic 
+equat ion (7) and replaced it by something more sophisticated and scientifically more 
+serious: the STATISTICAL Drake equation. In other words, we have transformed the 
+classical and simp listic Drake equation (7) into an advanced statistica l tool for the 
+investigation of a host of facts hardly known to us in detail. In other words still: 
+• We replace each independent variable in (7) by a RANDOM VARIABLE, labeled 
+D, (from Drake). 
+• We assume that the MEAN VALUE of each D, is the same numerical value previously 
+attributed to the corresponding independent variable in (7). 
+• But now we also ADD A STANDARD DEVIATION cr0; on each side of the mean value, 
+that is provided by the knowledge gathered by scientists in each discipline 
+encompassed by each D,. 
+UNCLASSIFIED//FQA QFFICilOL. !!ii ONI X 
+11

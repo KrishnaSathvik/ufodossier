@@ -1,0 +1,22 @@
+UNCLASSIFIED/ /POlt 8FFl@IAL lel§li 8PUs:lf 
+refractive materials than for the metamaterials of cloaki ng devices. So the graph 
+indicates the possible progress toward optical cloaking. 
+1000 
+100 
+10 
+0.01 
+• 
+2000 001 00 001 
+Figure 14. Advances in Metamaterials. The solid symbo ls denote mater ials with negative refrac tion; the open 
+symbols denote optical materials with negative magneti c response . Orange : data from structures based on th e 
+double split-ring resonator (SRR); green : data from U-shaped SRRs; blue : data from pairs of metal lic nanorods ; 
+red : data from the "fishnet" structure . The four insets give pictures of fabr icated structures in different frequency 
+regions.22 
+On the other hand, cloaking devices require bulk metamaterials with varying cell 
+structures. The first moderately bulk negatively refracting materials 23 , 24 were made 
+only recently. 
+The most severe practical problem of the currently discussed cloaking devices is not the 
+technology for manufacturing and structuring the required metamate rials but a problem 
+at the core of their principal design .25 
+UNCLASSIFIED/ f FOA OFFI&I.t.k Uili Ql"lk¥ 
+13

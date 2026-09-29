@@ -1,0 +1,44 @@
+UNCLASSIFIED/ /FOR OFFICl,CL l:ISI!!! 8HLY 
+breakdown. One solution to these difficulties has been transformer-coupling the load by 
+having the FCG drive the primary of a transformer. The load for HPM product ion is 
+typically some type of loop antenna with very small inductance and driven directly from 
+the generator . Much research has been done on the effectiveness of th is type of 
+antenna, and one method of improving the operation is to fuse the loop along its length 
+such that at peak current, the fuses open and radiate large voltage dl/dt spikes. 
+Pulsed High-Power Microwave Sources 
+Pulsed HPM sources can be divided into two types: 
+• Pulsed electron beam sources - these are typically narrow-band HPM sources such 
+as relativistic klystron amplifiers, backward wave oscillators, traveling wave tubes, 
+split-cavity oscillators, reltron and super reltron, virtual cathode oscillators, 
+magnetrons, gyrotrons, and the magnetically insulated line oscillator. 
+• Impulse HPM sources - these are typically wideband or ultrawideband sources such 
+as SNIPER, EMBL, Phoenix, Jolt, Thor, GEM II, and the H series. 
+PULSED ELECTRON BEAM SOURCES 
+In pulsed electron beam sources, the RF source includes an electron beam generator, a 
+beam transport, and a wave structure. These sources work by converting the kinetic 
+energy of an electron beam into EM energy. 
+BWOs, TWTs, AND RKAs 
+HPM tubes, such as backward wave oscillators (BWOs), travel ing wave tubes (TWTs), 
+and relativistic klystron amplifiers (RKAs), are also very similar in concept to their 
+conventional counterparts. The main differences lie in the techniques of beam 
+formation; the use of pulsed, large magnitude axial magnetic fields for beam transport; 
+and the application of relativistic voltages and very high beam currents. BWO 
+efficiencies as high as 35 percent have been obtained at moderate power levels, but as 
+power levels are increased, the output levels tend to saturate, and the radiated spectra 
+tends to broaden. These effects are due to beam breakup and turbulent transport. To 
+maintain high beam quality, large magnetic fields are required for high-power 
+operation. An approximately 25- to 50-kG applied axial field implies that mechanically 
+strong solenoidal magnets are required with pulsed capacitor banks to drive them. 
+These requirements in turn dictate a much larger and heavier HPM source. TWTs can be 
+made using many of the same techniques as BWOs. The difference is that the beam­
+wave interaction is with a forward wave. Thus, TWTs have many of the same issues and 
+limitations as BWO sources. RKAs use cavities for beam bunching and power extraction 
+rather than continuous slow wave structures as in BWOs and TWTs. Some RKA designs 
+use extended structures for power extraction to reduce the power densities and to 
+increase efficiency. They use high beam currents where space charge forces become 
+dom inant in the bunching process. Tubes have been developed at the 10-GW power 
+level. They use 0.5 to 1 MeV beams guided by axial magnetic fields of about 10 kG. 
+Efficiencies are on the order of 40-50 percent. Some of the issues with these tubes are 
+beam transport, beam loading of the cavities, base pressure of the vacuum system, x-
+UNCLASSIFIED/ /liOA: OfililCllL: Uiliii 0PU..Y 
+17

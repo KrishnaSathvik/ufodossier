@@ -1,0 +1,45 @@
+UNCLASSIFIED/ ,'POI\ OP'P'ICIAL USE ONLf 
+parallels can be drawn with thermoplastic forming of polymers, but there are certain to 
+be many differences as well . 
+Continued developments in this area are highly likely to result in the ability to produce 
+complex net-shape parts in a single processing step. This ease of processing could 
+offset the higher raw materials costs for metallic glasses, making them competitive in a 
+much wider range of applications. Furthermore, as noted above, the ability to replicate 
+extremely small features ( < 20 nanometers) in metallic glasses is likely to be exploited 
+in the manufacture of nanostructured devices.48 49 
+Finally, development of metallic glass foams will continue and will be aided by improved 
+understanding of thermophysical properties . It is highly likely that foams will be 
+produced in a wide range of glass-form ing alloys, and that techn iques will be developed 
+for precise control of the porosity, pore size, ligament size, and connectivity. This will 
+allow the properties of these foams to be tailored to particular applications. 
+COMPOSITES AND THE QUEST FOR DUCTILITY 
+From the point of view of structural applications, localization of plastic deformation into 
+shear bands is the single biggest challenge because this tendency limits the tensile 
+ductility, fracture toughness, and fatigue crack resistance of metallic glasses. There 
+may well be no solution to this problem for monolithic metallic glasses, for the simple 
+reason that they lack any microstructure to interact with shear bands. 
+Progress is likely to occur on two fronts. First, it is now well established that some 
+alloys are inherently brittle, in the sense that they experience very little plastic 
+deformation around a crack tip, while other alloys show extensive plastic deformation 
+(albeit localized into shear bands). The precise reason for this difference is not 
+understood at present, but it seems likely that it willl be resolved with continued work 
+on fundamental aspects of plastic deformat ion and fracture . This is likely to lead to 
+development of new alloys with reasonable fracture toughness, although not to tensile 
+ductility . However, even this will be an important step if such alloys can be used as 
+matrices for composites. 
+Second, in order to achieve tensile ductility, it appears to be necessary to have some 
+microstructural features to interact with shear bands. Furthermore, the length scale of 
+the microstructure is clearly a critical parameter in arresting shear band propagation. 
+Again, the precise reasons for this are not known, but continued research quite likely 
+will lead to an improved understand ing of the interactions between second-phase 
+particles and shear bands. 
+At present, the most promising approach to producing composite materials with the 
+proper microstructural length scale is the formation of dendritic composites, as 
+discussed above. A critica 'I limitation is that this process has been demonstrated in only 
+two, closely related alloys and does not appear to be a general phenomenon . 
+Unfortunately, our understanding of thermodynamics and phase formation in complex 
+multicomponent alloys is not such that we can predict a priori which alloys are capable 
+of producing ductile dendrites in a glass-forming matrix. Until that understanding is 
+developed, discovery of new dendritic composite materials will remain a matte r of trial 
+21 
+UNCLASSIFIED/ /FOR OFFICIO! 11SF AN! X

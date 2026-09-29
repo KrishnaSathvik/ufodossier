@@ -1,0 +1,41 @@
+UNCLASSIFIED/ fFOA OFFI€il.t.k YSE &P•tv 
+FIBER LASERS 
+Fiber lasers are also solid-state lasers but are frequently considered separately due 
+their many differences in implementation. They are made of the same materials listed 
+in Figure 4 and lase at the same wavelengths. A fiber laser can be visualized as a rod 
+laser which has been stretched many meters with a resulting diameter about the size of 
+a human hair. The fundamental reason is to improve heat dissipation. The ratio of a 
+fiber's surface area to its volume is much greater than a rod or slab and the distance 
+which heat must travel to the edge of the lasing medium is reduced by orders of 
+magnitude . The lasing fiber is surrounded by a concentric, larger diameter undoped 
+fiber into which pump light is injected (usually at the ends) and then allowed to leak 
+into the lasing fiber along the entire length. Fiber lasers are manufactured or "pulled" 
+in much the same way as conventional optical communications fibers. Because the 
+fibers are so thin, the power which can be generated in any one lasing fiber before the 
+onset of damage is currently quite limited. New approaches to injecting the pump light 
+and controlling the laser beam as it is generated or amplified are occurring almost daily. 
+Fibers have been constructed using multiple cores, photonic crystals and air spaces in 
+order to increase the power of individual fiber lasers with good beam quality and in 
+ways to combine the beams. 
+The smallest diameter fiber lasers, which produce single mode beams with very good 
+wavelength control and stable polarization, have demonstrated a few hundred watts 
+and are currently thought to have a damage threshold upper bound of about 10 kW. 
+Small numbers of these beams have been coherently combined using techniques which 
+match wavelength, phase and polarization of each fiber laser in the cluster. The 
+bandwidths of these laser/amplifier chains must be extremely narrow ( << 1 GHz) to 
+maintain polarization and to then be coherently phased to about 01. ). rms. It remains 
+to be seen how much total power can be generated with good beam quality and what 
+are the fundamental limits to coherent combining. Phasing research into mechanical 
+techniques which use deformable mirrors and passive approaches which use stimulated 
+Raman scattering are both being aggressively pursued. These combining techniques, 
+when applied to fiber lasers, are in their infancy and offer the potential for weapons 
+with fairly long tactical ranges. 
+Other single mode fiber lasers have been produced which generated as much as 5 kW. 
+Although their outputs are of good beam quality, they lase over a wavelength band 
+which is too broad to maintain polarization and cannot be coherently combined. 
+However, these types of beams can be combined incoherently by individually focusing 
+them onto the same spot (Figure 6), similar to incoherent combination of slab laser 
+beams or by physically splicing the output fibers of the individual lasers onto a larger 
+undoped fiber (Figure 7) which can accommodate the higher total power. 
+UNCLASSIFIED/ fFOA QFFI&I.t.k YSE 8,.L\f 
+8

@@ -1,0 +1,43 @@
+UNCLASSIFIED/ /POI\ OPPl@IAL li!E 8,.Llf 
+with sharp peaks were observed. In Tzonev's study, spread-out potential extremisms 
+are observed due to the high angular momentum spread. The virtual anode is defined 
+as that position where the potential increases from its minimum value at the real 
+cathode up to about 95 percent of its maximum value. The virt ual cathode is defined as 
+the position where the potential is 95 percent as deep as its minimum value in the 
+center of the IEC device. The depth of the "inner" potential minimum, more frequently 
+called the double well. Depth is defined as a percentage of the height of the "outer" 
+potential maximum. For the case shown, the double well has a depth of about 60 
+percent. 
+1BC cathode I rid 
+·-:: -
+I!. 
+0 
+Virtual 
+·albo<l 
+Radiu [m] 
+Vinual 
+anode 
+Figure 4.5. The Definition of the Double Well Figure 4.6. The Definition of the Parallel and 
+Depth: Double Well Depth [%] = -dV /V10t x 100. Perpendicular Velocities at the IEC Cathode Grid 
+The case shown assumes 30-keV inject ion. 
+The definition of angular momentum is also illustrated in Figure 4.6. In spherical 
+geometry, the velocity component perpendicular to the radius axis represents the 
+angular momentum. 
+TZONEV ET AL. - DEEP WELL STUDY 
+Tzonev et al. (Reference 4.4) used the IXL (ion accelerated code), a 1-D electrostatic 
+Poisson-Vlasov equation solver for use in spherical geometry. IXL was originally 
+developed by Mission Research Corporation for R.W. Bussard. The primary purpose of 
+the code is to determine an electrostatic potential consistent with the dynamics of the 
+charged particles with in that same potential, and to determine the charged particle 
+density distribution inside of the spherical cathode. While IXL neglects collisional 
+effects, it still provides an important limiting case where space charge effects dominate. 
+The boundary conditions for each part icle population are characterized by five 
+parameters: injected beam current, average injection energy, energy spread associated 
+with the velocity component in both parallel and perpendicular directions, and the 
+number of recirculations through the core. 
+Tzonev et al. found that deep double electrostatic potential wells can occur at high ion 
+and electron currents (30 A-60 A); high perpendicular ion energy spread (3 keV-14 
+keV); low perpendicular electron energy spread (3 eV), and low radial ion energy 
+spread (0.1 eV-0.5 eV). An example is given in Figure 4.7. 
+UNCLASSIFIED/ /FOA &FFI&IAL WSE 8,.LY 
+39

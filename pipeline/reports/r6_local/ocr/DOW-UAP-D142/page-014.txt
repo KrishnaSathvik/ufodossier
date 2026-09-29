@@ -1,0 +1,33 @@
+UNCLASSIFIED/ /FOR OFFIEIAk WS& OPtkY 
+fluctuations). Theoretically, the spectrum of voltage fluctuations, S(ro,T), of a resistive 
+circuit is given by (Reference 21): 
+S(w T) = R(w ,T) hw coth( hw) (2) 
+' 1t 2 2kT 
+where R(w,T) is the total resistance (ohmic plus radiative), ro is the (angular) frequency, 
+and Tis the absolute temperature. The resistance R(ro,T) is temperature dependent 
+through its ohmic contribution. 6 Note the similar hyperbolic cotangent functions 
+appearing in Equation (2) and in the second line of Equation (1). The postulate of 
+Blanco et al. is that the total resistance must include the radiation resistance of the 
+circuit (Reference 21): 
+R(ro,T) =l\hmic(ro, I)+ l\act(ro) (3) 
+Under the assumption that the wavelengths of the ZPF modes of interest are larger 
+than the dimensions of the circuit, the radiation resistance of a coil is given by 
+(Reference 21): 
+R ( ) = ~ 1t2N 2 ( aw J4 (4)rad 0) 
+3 C C 
+where N is the number of coil turns, and a is the radius of the coil winding. 
+According to Blanco et al., large enhancements in ZPF-induced voltage fluctuations are 
+possible. By reducing the temperature to minimize ohmic resistance, making the coil of 
+many turns and large radius, and performing measurements at high frequency, it 
+should be possible to investigate this amplification effect. The predicted coil-enhanced 
+voltage spectrum can readily be computed. The result is shown in Figure 4 for a 1 cm 
+diameter coil of 2000 turns, made of 38 AWG tungsten wire, and kept at a temperature 
+of 3 K. In Figure 4, the upper (blue) curve represents the predicted voltage spectral 
+density for the combined ohmic plus radiation resistance. The lower (red) curve is the 
+predicted result when radiation resistance is ignored. If the postulate of Blanco et al. is 
+correct, the enhancement in voltage fluctuations due to the antenna-like nature of the 
+coil should be easily measured at frequencies as low as 100 MHz (where the coil 
+enhancement effect is~ 100-fold for tungsten). 
+6 The radiation resistance depends only on frequency . 
+UNCLASSIFIED/ /FOR OFFICIO! P!ili QIU.,¥ 
+8

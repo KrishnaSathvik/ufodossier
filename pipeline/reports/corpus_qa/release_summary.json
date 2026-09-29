@@ -1,0 +1,69 @@
+{
+  "generated_at": "2026-09-28T21:20:39.927222+00:00",
+  "official_records": 450,
+  "buckets": {
+    "pdf_processed": 142,
+    "pdf_source_only": 125,
+    "video_metadata_only": 134,
+    "audio_metadata_only": 16,
+    "unrecoverable": 3,
+    "image_metadata_only": 30
+  },
+  "bucket_sum": 450,
+  "releases": [
+    {
+      "release": "R1",
+      "records": 158,
+      "pdfs": 116,
+      "media": 42,
+      "extract": 75,
+      "source_only": 38,
+      "accepted": 380
+    },
+    {
+      "release": "R2",
+      "records": 64,
+      "pdfs": 6,
+      "media": 58,
+      "extract": 4,
+      "source_only": 2,
+      "accepted": 12
+    },
+    {
+      "release": "R3",
+      "records": 72,
+      "pdfs": 53,
+      "media": 19,
+      "extract": 39,
+      "source_only": 14,
+      "accepted": 150
+    },
+    {
+      "release": "R4",
+      "records": 40,
+      "pdfs": 14,
+      "media": 26,
+      "extract": 8,
+      "source_only": 6,
+      "accepted": 16
+    },
+    {
+      "release": "R5",
+      "records": 41,
+      "pdfs": 22,
+      "media": 19,
+      "extract": 9,
+      "source_only": 13,
+      "accepted": 10
+    },
+    {
+      "release": "R6",
+      "records": 75,
+      "pdfs": 59,
+      "media": 16,
+      "extract": 7,
+      "source_only": 52,
+      "accepted": 15
+    }
+  ]
+}

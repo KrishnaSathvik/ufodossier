@@ -1,0 +1,33 @@
+UNCLASSIFIED/ /FAA: QFFI&il.t.k YSIE 8HtY 
+Deoxyribozyme-based Boolean Automata 
+The deoxyribozyme logic gates were applied to the construction of the first DNA-based 
+Boolean automata capable of autonomously responding to human inputs: "MAYAs" are 
+automata playing a game of tic-tac-toe against a human player. In tic-tac-toe there are a 
+maximum of 4 moves by the human player when MAYA has the first move. The initial MAYA 
+automaton played a simplified game, always claiming the center first, and the first human 
+move is symmetry-restricted to one corner or one side move. These simplifications led to a 
+representation of the game as a series of Boolean formulae that compute the automaton's 
+output in each well, based on the human inputs present in all wells. These formulae were 
+mapped to 23 deoxyribozyme-based logic gates by arranging gates in the individual wells 
+around a common substrate. These "hard-wired" automata give the human no chance to win 
+(Figure 22, Figure 23). (120, 122) One, two and three input deoxyribozyme-based logic 
+gates are allosterically modulated by 32 human-operated input oligonucleotides: 97 logic 
+gates distributed across 9 wells which calculate automaton moves, and 32 gates (boxed) 
+display human moves by implementation of a two-color fluorogenic output system. Even 
+though this mechanism is simplistic in nature, it has performed flawless Boolean calculations. 
+rA-T--A-"f-C.--A-C-t:--F 
+d 
+It i:, ;, 0 
+0 0 0 0 
+1 0 0 0 
+0 , 0 0 
+, , 0 I 
+0 0 1 0 
+1 0 1 0 
+0 I 1 0 
+1 1 1 0 
+Figure 22. Basic gate structures, derived from allosterically regulated deoxyribozyme E6, for playing tic-tac­
+toe against a human opponent. The truth tables constructed are sufficient to ensure the human player cannot 
+win the game. (120) 
+UNCLASSIFIED//EAA: QFFiliCiliOI. l'ii QPII.¥ 
+39

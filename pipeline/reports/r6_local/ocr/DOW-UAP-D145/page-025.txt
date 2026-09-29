@@ -1,0 +1,33 @@
+UNCLASSIFIED//POlt Offl@IAL WS& &NkY 
+it collapses and generates a magnetic pinch for a fraction of a second that has high 
+enough temperatures to generate fusion in the diffuse gas. The production of neutrons 
+in D-T fusion can be on the order of 1013 neutrons. While this production may seem 
+high, if this pulsed system were fired 10 times in 1 second, and all of the energy of the 
+electrons and ions could be captured, the energy production would amount to only 280 
+watts. 
+MUON-CATALYZED FUSION 
+This method, sensational ized by Steven Jones at the University of Utah in the 1980s, 
+makes use of the fact that certain materia l crystal shapes (hexagonal close pack, or 
+HCP) tend to "hide" atoms of hydrogen in the inte rstitial space between atomic planes 
+in the crystal. By diffusing deuterium into the crystal through electro lysis, fusion could 
+be achieved. The famous scientist Sakarov observed this phenomenon as a way to 
+account for the presence of He-3 in platinum. Platinum, palladium, and titanium are 
+the materials that were used most often to demonstrate this technique. Initiating 
+fusion by this method has been very poor. 
+CAVITATION (BUBBLE) FUSION 
+In water, vapor bubbles are produced when pressures drop below 2,300 pascals ( ~2% 
+of atmospheric pressure) through a process called "cavitation." When these cavitation 
+bubbles collapse, they produce high temperatures and pressures for a short period of 
+time. Cavitation has been shown to release enough energy to pit ship propeller blades. 
+In addition, heavy water (D2O) and deuterated acetone have been used to demonstrate 
+that cavitation can cause particles from fusion. Unfortunately, to date, the performance 
+of cavitation fusion systems has been low. 
+ROCKET DESIGN USING FUSION ENERGY 
+While nuclear fusion releases large amounts of energy for a m inimal quantity of fuel, 
+initiat ion of the fusion reaction means that fusion ignition dictates the design of the 
+system . Possible spacecraft designs include pulsed nuclear explosions wit h impact 
+plates or sails; plasma confinement methods that generate charged particles used 
+directly for propulsion; and confinement methods that heat a propellant, like liquid 
+hydrogen, to be ejected through a Laval nozzle. 
+UNCLASSIFIED/fF&A &FFI&I:.l.k W&li &NkY 
+17

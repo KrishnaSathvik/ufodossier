@@ -1,0 +1,36 @@
+UNCLASSIFIED/ fFOA OFFI&il.t..k Y&& 8Ptk\f 
+gravitational field is squeezing the vacuum). The corresponding local vacuum state 
+energy density is: pE-gsvac = -211h1c!A4. 
+The general result of the gravitational squeezing effect is that as the gravitational field 
+strength increases, the negative energy zone (surrounding the body) also increases in 
+strength. Table 1 shows when gravitational squeezing becomes important for sample 
+bodies and their associated pE-gsvac. The table shows that in the case of the Earth, 
+Jupiter and the Sun, the squeezing effect is extremely feeble because only ZPF mode 
+wavelengths above 0.2 m to 78 km are affected, each having very minute pE-gsvac. For a 
+solar mass black hole (radius of 2.95 km), the effect is still feeble because only ZPF 
+mode wavelengths above 78 km are affected. But note that Planck mass bodies will 
+have an enormously strong negative energy zone surrounding them because all ZPF 
+mode wavelengths above 8.50 x 10-34 m will be squeezed, in other words, all 
+wavelengths of interest for vacuum fluctuations. Protons will have the strongest 
+negative energy zone in comparison because the squeezing effect includes all ZPF mode 
+wavelengths above 6.50 x 10-53 m. Furthermore, a body smaller than a nuclear 
+diameter (;::: 10-16 m) and containing the mass of a mountain (;::: 1011 kg) has a fairly 
+strong negative energy zone because all ZPF mode wavelengths above 10-15 m will be 
+squeezed. In each of these cases, the magnitude of the corresponding pE-gsvac is very 
+large. 
+However, the estimates for the wavelengths in Table 1 might be too small. Ford 
+(private communication, 2007) argues that Reference 21 is in error because spacetime 
+is flat on scales smaller than the local radius of curvature, which is defined by the 
+inverse square root of the typical Riemann curvature tensor component in a local 
+orthonormal frame, or Ac;::: (?c2/GM) 112 . According to Ford, only ZPF modes with A ;;;;: Ac 
+will be squeezed by the gravitational field. This leads to a different local vacuum state 
+energy density (for r >> rs) (Reference 15): 
+2n2hc 
+PE-gsvac = - ~ 
+2n2hc 
+== - -l- 4- (7) 
+c 
+2n2hG2M 2 
+(JI m3) 
+UNCLASSIFIEQ { {FOR OFFICIAL W&& 8HLY 
+17

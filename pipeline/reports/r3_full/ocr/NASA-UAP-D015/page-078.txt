@@ -1,0 +1,30 @@
+Scientific Debriefing -15-
+Bill: The spread of light isn't too great. 
+J ', 
+Coope~: It is pretty hard to Judge the ; light 
+Mercer: Did .you see the ·stars during this • ~'l 
+, I 
+Cooper: Not this particular ··orbit. No I didn't. 
+I I 
+(Second Experiment • Balloon J?.ra,g) 
+Dey: Mr. Carmines will you give . us a quick run-down on ·.the -balloon ·expe 
+failure? 
+Carmines: I tal.ked with Instrumentation people and everyone agreed that 
+we really don't know what happened. We had one relay actuateo There are · 
+several possibil.ities • . To me the most l.ikely place of trouble is the final • 
+plug. The pins are on the pigtail and in putting this together you can bend 
+' \ I '
+these pins and get a misalignment. W~ checked the plug :and.in this case the 
+:pin is near ·the case ~d if it ~ent it could ground .. 
+I . • 
+Bill: The squibs were in parallel and a number ·of ·tests showed' eithe:x: • one '.- ·• 
+.. I ' 
+of the squib would fire the latch. The most probable cause , is in ·the circ,uitry.,
+I 
+'-
+I ' 
+(Discussion oon ·G~ound Light _Observation) , 
+Bill Armstrong: How hard wa.s it to pick up the light when .you .first 
+Did you have -trouble picking ·up this ground light at all? 
+, I , , • - ' ,' '·. . . .. -. , . ---: -, :, • , • • • . . ' I , 
+-· l ,

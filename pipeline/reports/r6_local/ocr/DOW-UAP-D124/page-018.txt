@@ -1,0 +1,52 @@
+UNCLASSIFIED / 42OR-OFEL6Hi-USE-Oh
+
+Glide angle of attack
+
+Complex very high ~ 45° compared
+curved TPS to 15° for high L/D design
+system
+
+NASA Langley
+Wing-Cylinder
+Configuration Concept -
+
+WB-004 _ Unsymmetrical
+Inadequate ~ ele can .
+lateral-directional produce supe
+stability and “\ sonic control
+control problems
+Cylinder heating
+extends up to
+55° to 60°
+Wing training Poor hypersonic
+edge controls lift-to-drag ratio
+provide limited Thin wings limits glide range
+control capability encounter
+for a military severe heating
+maneuver vehicle from both sides
+
+i.e. “hot structure”
+
+Figure 9. NASA Langley Wing-Body Configuration WB-004 With Generally Critical Areas for Wing Bodies
+Identified
+
+With a high entry angle of attack, the cross flow over the cylinder produces high
+heating rates beyond the mid-cylinder line. With a lower L/D ratio, the down and cross
+ranges are limited as to what might be achieved but more in line with NASA one-
+missed-orbit criterion. The thin wings are heated on both sides to create added thermal
+problems, as well as added surface area to increase drag.
+
+Al Draper and his team, together with Bob Masek’s team at McDonnell Douglas
+Astronautics, worked long and diligently to arrive at the FDL-7/Model 176
+configurations shown in Figure 10. The insert photo is Dale Reed’s model of the FDL-
+7MC radio-controlled model at NASA Dryden. The AFFDL and MDC configurations were
+inherently stable at all operational angles of attack from at least mach 22 to landing
+speed. The remainder of this report will focus on the characteristics of this class of
+lifting body. The statements in Figure 10 were all based on wind tunnel data. A real
+advantage of the trapezoidal shape was not only flat metallic shingles but heating on
+the sides and upper surface that was at least three-fifths that of the conventional
+shapes. The glide range was such that this configuration could land in CONUS from any
+location on any inclination orbit from its current orbit with no waiting.
+
+11
+UNCLASSIFIED / /FO@R-OFFt62441-US5-O01LY

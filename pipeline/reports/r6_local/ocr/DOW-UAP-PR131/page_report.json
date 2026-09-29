@@ -1,0 +1,36 @@
+{
+  "filename": "DOW-UAP-PR131.pdf",
+  "generated_at": "2026-09-28T20:55:16.579549+00:00",
+  "page_count": 1,
+  "usable_text_chars": 25,
+  "stats": {
+    "native_good": 0,
+    "native_thin": 0,
+    "needs_ocr": 1,
+    "ocr_failed": 0,
+    "ocr_succeeded": 1,
+    "pages_ocrd": 1,
+    "ocr_unrecoverable_thumbnail": 0
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "native_quality": {
+        "page_number": 1,
+        "native_char_count": 10,
+        "printable_ratio": 1.0,
+        "alpha_ratio": 0.2,
+        "word_count": 0,
+        "replacement_char_count": 0,
+        "category": "native_thin",
+        "reason": "ocr_replaced_native (below native usability thresholds)"
+      },
+      "final_category": "native_thin",
+      "text_method": "tesseract",
+      "char_count": 10,
+      "text": ""
+    }
+  ],
+  "combined_path": "/Users/krishnasathvikmantripragada/Webapps/ufo-dossier/pipeline/reports/r6_local/ocr/DOW-UAP-PR131/combined.txt",
+  "production_writes": false
+}

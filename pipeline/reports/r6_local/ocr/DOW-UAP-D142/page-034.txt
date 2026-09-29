@@ -1,0 +1,46 @@
+UNCLASSIFIED/ /FOR OFFI@IAb WSE 9Ptb¥ 
+Given the heuristic value of certain aspects of SED modeling, but with the shortcomings 
+outlined above noted, SED theorists de la Pena and Cetto have proposed a modification 
+to SED they call LSED {linear SED) (Reference 74). The modification consists of the 
+addition of three new constraining principles that result in a form of convergence with 
+non relativistic quantum mechanics while retaining some of the appealing attributes of 
+standard SED (for example, quantum states being stable on the basis of a dynamic 
+balance between absorption and emission of background vacuum fluctuation fields). 
+The added constraints (for example, an added constraint t hat invokes detailed energy 
+balance for separate frequencies) result in correcting several known problems with 
+standard SED. For example, now the equilibrium spectrum is Planck's, not Rayleigh­
+Jeans, and wavelike behavior of matter and nonlocality issues can be addressed, and so 
+forth. The issue of continuous vacuum energy convers ion has yet to be addressed in 
+this new formalism, however, so that remai ns for the future. 
+QED Without Second-Quantized Fields 
+As yet another alternative to canonical second-quantized QED, Barut (Reference 75) 
+has proposed that effects attributable to vacuum ZPF can be derived with a theory in 
+which there are source (matter) fluctuation fields but no vacuum fluctuation fields, and 
+that even the former can be eliminated. Barut's approach is developed in considerable 
+detail as an independent, self-consistent, formulation of QED in its own right. Barut 
+argues that effects normally attributed to vacuum fluctuations in the second-quantized, 
+linear theory of the radiation field can be equally well computed within the framework 
+of a non-second-quant ized, nonlinear theory which is based entirely on matter wave 
+functions alone. His program is to assess how far one can go in understanding radiative 
+processes without second quantization or vacua that fluctuate. Barut and his 
+collaborators have successfully applied the theory to the Lamb shift and spontaneous 
+emission (Reference 76, 77), problems of cavity QED (Reference 78), Casimir-Polder 
+and van der Waals forces (Reference 79), calculations of the electron's ge- 2 factor 
+(Reference 80-82), 12 and the Davies-Unruh effect (Reference 83) among others. 
+Given that the formalism of second-quantized field operators are not used at all in the 
+Barut approach, the seemingly quantized properties of fields are take n to simply reflect 
+first quantization of the sources. Therefore, in the absence of the independe nt existence 
+of second-quantized field fluctuations, the QED arguments concerning immutability and 
+nondegradab ility of quantized vacuum fluctuation fields, and the corollary proscription 
+against potential conversion of energy from such fields, do not apply. As in the 
+neoclassical approach, the question of the conversion of quantum ZPE to other forms 
+must be diverted to consideration of the global properties of matter fluctuation 
+interactions in the as-yet -incomplete development of the Barut approach. 
+EXAMPLES OF DEGRADABLE OF DECAYING VACUUM 
+In closing, several examples of a degradable vacuum that are predicted by quantum 
+field theory, quantum field theory in curved spacetime, and the Standard Model of 
+elementary particle physics will be reviewed. It turns out that the vacuum in QED 
+theory is in fact degradable in spite of its " hardwired" ZPF modes. 
+12 ge is the electron 's gyromagnetic ratio. 
+UNCLASSIFIED/ /FOR OFFICI0L: !Pili QDII.¥ 
+28

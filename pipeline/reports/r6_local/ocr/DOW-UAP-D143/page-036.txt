@@ -1,0 +1,23 @@
+UNCLASSIFIED/;'POR: OPPICIAL USE O14Lf 
+Table 3. Estimated Costs for Hybrid Rocket and Lightcraft Launch Vehicles for 
+ETO Flight l26 l. 
+100 Flights 
+3-Stage Hybrid Rocket 1.0 kg 5.0 kg 10 kg 
+Launch Vehicle Payload Payload Payload 
+Payload($) 24,948 124,740 250,128 
+Boosters ($) 399,503 440,927 477,131 
+Integration ($) 96,163 101,441 123,941 
+Total($) 520,615 667,108 851,200 
+Lightcraft Vehicle.+ 1.0kg 5.0 kg 10 kg 
+Ground Based Laser Payload Payload Payload 
+Lightcraft ($) 24,948 124,740 250,128 
+Lightcraft Fuel {$) 2,495 12,474 25,013 
+Laser Power ($) 500 2,500 5,000 
+Laser Refurb. ($) 3,000 3,000 3,000 
+Total($) 30,943 142,714 283,141 
+Rocketcraft Cost 
+Lightcraft Cost 16.82 4.67 3.00 
+1982 dollars multiplied by 1.62 
+(2.7% annual inflation) for 2000 dollars 
+UNCLASSIFIED,'fFOA QFFISIAL 1!181!! 8HLY 
+32

@@ -1,0 +1,24 @@
+UNCLASSIFIED/ /P'OR. 8FFIEil1'1.k lellii Ql'II.¥ 
+Inserting (3-6) into Einstein's nonlinear gravitational field equations, one obtains four 
+nonlinear partial different ial equations ( K =S;r y / c4 ) given by 
+(7) 
+(8) 
+(9) 
+arp arp aa 
+- K T. p =2-- - r­. (10) - awoa% a% 
+I n solving these equations Bondi assumes that <p is small, which then also implies that 
+because of (5) and (6) cr is small by the second order, reducing the solution of the 
+problem to the linear Laplace equation of the scalar Newtonian potential in empty space. 
+Making this assumption, Bondi can r eproduce the uniform acceleration of the mass 
+dipole, as it is expected from an elementa ry analysis. It is here that we must disagree 
+with Bondi1 , because it can be shown that the nonlinearity of the gravitational field 
+equation leads to a very different result. The nonlinearity also sheds light on why it is 
+so difficult to separate negative from positive masses, whereby negative masses are all 
+around us, but imprisoned by positive masses. 
+1 The author had the pleasure to meet Prof. Bondi on a common flight from Graz, 
+Austria in 1993 (we both are membe rs of an academy which had a meet ing in that 
+year in Graz), and ask him how his solution can be correct since it does not include 
+the field of the positive gravitational field mass of a mass dipo le. This problem will 
+be analyzed in the next section, and its solution has far reaching consequences. 
+UNCLASSIFIED/fFOA OFFI&il.t.k lellii OJi,k¥ 
+5

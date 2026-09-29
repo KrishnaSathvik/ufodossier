@@ -1,0 +1,49 @@
+UNCLASSIFIED/ /FOR OFFI@IsT.tk WS& OPtklf 
+Assume then that the fiber coils of Figure 10 remain rolled up and stored in a corner of 
+the laboratory and that the source can be made strong enough so that the average rate 
+at which the entangled photon pairs are detected is 10 MHz (which would correspond to 
+the efficient detection of about 3 nW of 702-nm photons) . This would require a source 
+of entangled photons considerably stronger than is achievab le with the "bulk" BBO or 
+Lil0 3 crystals used in the Ghost Interference and Dopfer exper iments, which produce a 
+usable entangled photon pair from only about 1 in 1010 pump photons. 
+Fortunately, a recently emerging technology makes the production of entangled photon 
+pairs much more efficient through the use of "periodically poled" nonlinear crystals. In 
+"bulk" nonlinear crystal there is a "walk-out" phenomenon that limits the distance 
+within the crystal over which phase matching holds, permitting entangled pairs to be 
+produced efficiently by down-conversion. However, nonlinear crystals like potassium 
+titanyl phosphate (KTiOPQ4 or KTP) have very large nonlinear coefficients and are also 
+ferroelectric, with a large electr ic dipole moment. By using a large pulsed electric field 
+during crystal production, one can "write" on KTP crystals to change the orientation of 
+their local dipole moment over small distances (a few tens of wavelengths) periodically 
+along the pump direction through the crystal, so that the phase drift regularly reverses 
+and cancels out as the pump radiation progresses through the crystal. This is called 
+"periodic poling." With this kind of crystal, the walk-out is suppressed, and one can use 
+very long crystals that efficiently produce entangled pairs of photons over their ent ire 
+length. The IQOQI group of Anton Zeilinger in Vienna, using a periodically polled KTP 
+crystal 25-mm long, has measured the entangled pair production rate at 2. 73 x 105 
+pairs per second per mW of pump radiation per nm of wavelength 20. Such a source 
+should be easily able to produce the 10-MHz detection rate assumed above. 
+Now consider that the "sending" detector system and the "rece iving" camera are in the 
+same room and separated by a distance of 1 meter or less. If the switch is set on the 0 
+or 1 position, the " message" that it is in that position begins to arrive at the camera 50 
+µs before the switch position is moved. If 100 photon counts constitute a signal, then, 
+even allowing for the latency in signal recept ion, the message could be received 40 µs 
+before it was sent . This would be a direct demonstration of retrocausal signaling using 
+nonlocal communication and would constitute a direct violation of the principle of 
+causality. 
+IX. Paradoxes and Nonlocal Communication 
+The setup described above, with its retrocausal communication link, raises some time ­
+communication paradoxes. First, let us consider the issue of "bilking." Suppose we 
+construct a million linked systems of the type shown in Figure 10 (or use 107 km of 
+nonattenuating fiber). Then the transmitted message would be received 40 seconds 
+before it was sent. Now suppose a tricky observer receives a message from himself 40 
+seconds in the future and then decides not to send it. This produces an inconsistent 
+timelike loop, which has come to be known as a "bilking paradox." Could this happen? 
+If not, what would prevent it? 
+There are discussions of such bilking paradoxes in the physics literature by Wheeler and 
+Feynman (Reference 22), who were considering the retrocausal aspects of the advanced 
+waves of absorber theory, and by Kip Thorne and colleagues (Reference 23), who were 
+considering the paradoxes that might arise from timelike wormholes. The general 
+consensus of both groups is that nature will forbid it and will require a consistent set of 
+UNCLASSIFIED/ /P91l err1e1At U.!I!! er•t I 
+18

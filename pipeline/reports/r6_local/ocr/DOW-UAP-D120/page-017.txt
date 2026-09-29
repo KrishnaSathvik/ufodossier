@@ -1,0 +1,37 @@
+UNCLASSIFIED/ fFOA OFFI€1Ak Ulilii ONkY 
+ensure that any outgassing that occurs in space would not liberate any of this toxic 
+material-at least not where it could be ingested by the crew. 
+Al Matrix Composites 
+Al matrix composites (AMCs) are typically made by mixing short fibers or even 
+particulate silicon carbide (SiC) with Al alloy powder and hot-pressing or mechanically 
+consolidating the mixture by extrusion or forging. AMCs have higher modulus and 
+strength but suffer ductility losses owing to the hard, nondeforming SiC second phase. 
+They also are much better in fatigue because the SiC particles or short fibers mitigate 
+the effects of planar slip in precipitation-hardening alloy matrices. Machining, fusion­
+welding, or cold-forming AMCs is difficult. Mechanical fastening is possible, but drilling 
+fastener holes is difficult and expensive because the wear caused by the hard, 
+reinforcing phases shortens tool life. 
+Most of the AMCs produced to date have used relatively simple Al matrix alloys such as 
+6061 and 5083. This presumably is because of the conventional wisdom that AMCs are 
+not heat treatable and the perception that no benefit is gained by using more complex 
+alloy matrices. This is probably the case for a conventional solution treat-and-age 
+approach. Consequently, there has been little effort to optimize AMC systems. For the 
+right application where AMCs could provide a significant benefit, this could present an 
+opportunity. For example, using the high-temperature Al-Fe-Co-Ce alloy powder as the 
+matrix could prove interesting and might permit use of AMCs at up to 200 °Celsius-a 
+temperature at which Ti alloys do not provide any significant advantage, but one that is 
+too high for conventional Al alloys to be suitable. 
+In sum, while AMCs are not really a commercial materials system today, sufficient 
+research has been performed to establish proof of concept. If an adequate market for 
+AMCs were to emerge, the time and cost to make them commercially available could 
+prove acceptable. 
+Ti Alloys 
+Ti alloys also have been discussed earlier, but mainly in the context of heavy-section, 
+large-load-bear ing applications for launch vehicles. Here, the potential of Ti alloys for 
+lighter gauge applications in the warm structure and the TPS is considered. Table 1 
+shows that at intermediate temperatures, Ti alloys are attractive in all aspects except 
+for specific stiffness. What this table does not capture is Ti alloys' propensity to react 
+with oxygen in the air to form an oxygen-stabilized a phase layer on the surface known 
+as a case. An example of a case is shown in Figure 3. 
+12 
+UNCLASSIFIED/ /FOA OFFICiI>k n&'lii ODIL¥

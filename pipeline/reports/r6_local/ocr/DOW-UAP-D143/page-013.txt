@@ -1,0 +1,44 @@
+UNCLASSIFIED/ /fOR. 8FFl&IAk W&li ,HIia¥ 
+plastic; fiber reinforced plast ic; flat stock composite construction; and carbon 
+nanotubes (a.k.a. "Buckytubes") or carbon nanotubes compos ited with other materials. 
+The material will be selected based on mass, cost, manufacturab ilit y, ease of assembly 
+and integration, and suitab ility for the space environment. 
+Streaml ined testing is needed for up to 100 or 1000 nanosats per mission. Performing 
+a complete test program on each unit would be prohib iti vely expensive and time 
+consuming. We need to reduce the quantity of testing required while assuring product 
+quality to meet program cost and schedule goals. Lot test ing and statistical quality 
+control methods should be developed to verify quality and structural performance by 
+testing a small subset of the total number of nanosats. 
+INSTRUMENTS 
+Instruments for in-situ and remote measurements must be miniatu rized to fit within the 
+mass and volume constraints of a nanosat. Power consumption must also be scaled 
+down accordingly. Instrument sensitivities cannot be compromised in the process. 
+Instrument electronics need to be combined with nanosat subsystem electronics to 
+achieve higher degrees of integration yield ing reduced mass and volume. Instrument 
+software will be designed to evaluate the onboard data and adjust instrument data 
+rates and modes to efficiently capture the data of highest priority. 
+GROUND SYSTEMS 
+The large number of nanosats in a constellation is a challenge to the ground system in 
+getting all of the data to the users. In a typical baseline mission, there are times when 
+up to ten (or more) nanosats would be within communications range of a ground 
+station at a single time. A minimal model for the ground station contacts shows that 
+they can support a nanosat constellation with only two ground stations located on 
+opposite sides of the Earth. The schedulers will prioritize the contacts, with the 
+nanosats in the higher peri od orbits getting priority. Nanosats in the lower period orbits 
+have more opportunities to dump their data, and therefore can have lower priority 
+without risking any data loss. 
+Since the nanosats are autonomous, the operations concept for a mission requi res only 
+a few operators to determine the nanosat orbits, schedule the ground stations, and to 
+investigate anomalies on the spacecraft. Automated systems will monitor the 
+housekeeping data from the spacecraft and they will flag problems for the spacecraft 
+engineers to investigate. The large number of nanosats allows the risk management to 
+be different for this mission than for single spacecraft missions. 
+Except for commands to initiate the data downlink, the ground system will not 
+command the nanosats for normal operations. The only commands that the ground 
+system sends would be program loads to resolve or work around problems and failures. 
+The large number of nanosats in a constellation is a configuration contro l challenge for 
+the data tracking, the schedules, the command loads, the science or intelligence data, 
+and the engineering data. The ground system will use IDs, colorcoded user interfaces, 
+and other techniques to ensure that the operators and users can keep track of the data 
+UNCLASSIFIED//FOR 061ilCl.li.k W&& 8Ptl'l 
+9

@@ -1,0 +1,55 @@
+UNCLASSIFIED/ 420 R-OFFt6H-USE-ONEE—
+
+e Gravitationally squeezed vacuum electromagnetic zero-point fluctuations (Reference
+21).
+
+e Casimir effect, i.e., the Casimir vacuum in flat, curved, and topological spaces
+(Reference 22-28).
+
+e Other quantum fields/states/effects. In general, the local energy density in quantum
+field theory can be negative due to quantum coherence effects (Reference 12).
+Other examples that have been studied are Dirac field states: the superposition of
+two single particle electron states and the superposition of two multi-electron-
+positron states (Reference 29, 30). In the former (latter), the energy densities can
+be negative when two single (multi-) particle states have the same number of
+electrons (electrons and positrons) or when one state has one more electron
+(electron-positron pair) than the other.
+
+Cosmological inflation (Reference 3), cosmological particle production (Reference 3),
+classical scalar fields (Reference 3), the conformal anomaly (Reference 3), and
+gravitational vacuum polarization (Reference 14-17) are among many other examples
+that also violate the energy conditions. Since the laws of quantum field theory place no
+strong restrictions on negative energies and fluxes, then it might be possible to produce
+exotic phenomena such as faster-than-light travel (Reference 31-33), traversable
+wormholes (Reference 1-3), violations of the second law of thermodynamics (Reference
+34, 35), and time machines (Reference 2, 3, 36). There are several other exotic
+phenomena made possible by the effects of negative energy, but they lie outside the
+scope of the present study. This section will review the previously listed items 1 thru 4
+and examine their applicability and technical maturity. Dirac field states are currently
+under study by investigators. Also, the issue of capturing and storing negative energy is
+not considered in what follows because free-space negative energy sources appear to
+be a more desirable option for inducing traversable wormholes than stored negative
+energy, and because there is very little technical literature that addresses how to
+capture and store negative energy (see, e.g., Reference 10). The issue of capturing and
+storing negative energy will be left for future investigations.
+
+B. GENERATING NEGATIVE ENERGY IN THE LAB
+1. Static Radial Electric & Magnetic Fields
+
+It is beyond the scope of this study to include all the technical configurations by which
+one can generate static, radially-dependent electric or magnetic fields. Suffice it to say
+that ultrahigh-intensity tabletop lasers have been used to generate extreme electric and
+magnetic field strengths in the lab. Ultrahigh-intensity lasers use the chirped-pulse
+amplification (CPA) technique to boost the total output beam power. All laser systems
+simply repackage energy as a coherent package of optical power, but CPA lasers
+repackage the laser pulse itself during the amplification process. In typical high-power
+short-pulse laser systems, it is the peak intensity, not the energy or the fluence, which
+causes pulse distortion or laser damage. However, the CPA laser dissects a laser pulse
+according to its frequency components, and reorders it into a time-stretched lower-
+peak-intensity pulse of the same energy (Reference 37-39). This benign pulse can then
+be amplified safely to high energy, and then only afterwards reconstituted as a very
+short pulse of enormous peak power - a pulse which could never itself have passed
+safely through the laser system. Made more tractable in this way, the pulse can be
+
+11
+UNCLASSIFIED LLEOR_OSEIGIALHUSE-ONEY

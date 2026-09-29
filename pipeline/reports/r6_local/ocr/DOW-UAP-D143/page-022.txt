@@ -1,0 +1,45 @@
+--- ------ ------
+UNCLASSIFIED/ /fOR. 8FFl&IAk W&li Qlhll.¥ 
+propulsion requires a modest 0.1 to 10 MW of total beam power. The ground-based 
+megawatt-class laser beam generator is state-of-the-art technology. The cost of 
+generating electrical power for the ground-based laser beam generator is ~$0.10/kWh, 
+which translates to < $2/kg of payload. An SDIO study [10, 11] showed that all launch 
+to orbit conditions for a Lightcraft could be satisfied by a single, high -power ground ­
+based laser - with or without the aid of a low altitude laser relay mirror or space-based 
+laser beam generator system. The majority of the system mass required to launch a 
+payload to orbit is left on the ground in the form of the beam generators and their 
+electrical power sources. The dry spacecraft mass can be further reduced by two 
+orders of magnitude, and thus the operating costs reduced by a factor of 10 (to < 
+$2/kg of payload), if Buckytubes are used to construct the vehicle and its subsystems. 
+LIGHTCRAFT NANOSATELLITE CONFIGURATION 
+As shown in Figure 7, the Lightcraft nanosat configurat ion consists of: 1) a conically 
+shaped "forebody" for lift and aerodynamic compression of ingested airflow (prior to its 
+detonat ion by laser heating during atmospheric flight); 2) an annular "cowl" or "shroud" 
+with in which air detonation or propellant ablation (by intense laser heat ing) occurs; and 
+3) a parabola-shaped "afte rbody" whose mirrored surface focuses beamed laser energy 
+into regions of sufficient smallness for intense air or prope llant heating to occur. And as 
+shown in Figure 8, the vehicle is powered by laser airbreathing propu lsion (by 
+detonation of air) until hypersonic speed within the sensible atmosphere is reached; 
+and then the vehicle is powered by laser rocket propulsion (by heating of prope llant) 
+during flight above the sensible atmosphe re, until cut-off velocity for orbital flight is 
+reached. 
+Shroud (Cowl): 
+within which Laser • Laser Airbreath ing Flight 
+Heating ofAirflow from Zero Velocity to 
+and Propellant Hypersonic Speed 
+Occurs 
+Afterbody : with 
+Mirrored Surface 
+for Focusing Laser 
+Energy into the Laser 
+Shroud (Cowl) 
+\ 
+Beam 
+.______ ___ __ _________ }__ 
+Forebody: for Lift 
+and Compression • Laser Rocket Flight from 
+of Airflow during Hyperson ic to Orbital 
+Atmospher ic Flight Axi-Symmetric Body Speed 
+Figure 7. Lightcraft Concept 126 1. 
+UNCLASSIFIED{fFOA QFFI&IAL ~8! 8HLY 
+18

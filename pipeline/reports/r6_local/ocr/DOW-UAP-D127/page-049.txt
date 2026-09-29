@@ -1,0 +1,100 @@
+UNCLASSIFIED / / FOR-OFFEGHH-USE-OA
+
+Our next goal is to find the cumulants of the
+ET_Distance. In principle, we could compute all
+the cumulants K; from the generic i-th moment
+
+i by virtue of the recursion formula (see ref. [8])
+
+ie fs
+
+‘ i—1 ‘
+
+Ki=Hi- Do (f 4) Hn-k: (126)
+k=l
+
+In practice, however, here we shall confine
+ourselves to the computation of the first four
+cumulants because they only are required to find
+the skewness and kurtosis of the distribution (113).
+Then, the first four cumulants in terms of the first
+four moments read:
+
+Ky =“
+i en (127)
+K; = My —3K, K, — Kj
+K, = 44 —4K, K, -3K? —6K, K? — Ky.
+These equations yield, respectively:
+He
+K, =Ge' 3.38. (128)
+2u of of
+K,=C’e 3 e%/e® -1}. (129)
+o So* o
+K,=C’e“|e? -3e!8 +2e6 |. (130)
+K,= (131)
+fu 8a" 50° 40° o 20°
+=Cre 3le% -4e 9 -3e 9 +12e3 —6e 9
+
+From these we derive the skewness
+
+K,
+
+(K;)
+
+rm} we
+
+49
+
+r ‘ ,
+o 50° rad
+ols 2 -3¢ 18 42¢6
+
+80° 5c” 4a? a 207 \2
+Cle % -4e% -3e 9 +12¢3 -6e 9
+
+and the kurtosis
+
+y
+
+K 40° a 20°
+—4+_=e 9 +2¢343e% -6. (133)
+(K,)°
+
+Next we want to find the mode of this
+distribution, i.e. the abscissa of its peak. To do so,
+we must first compute the derivative of the
+probability density function fey pistane(") of (113),
+and then set it equal to zero. This derivative is
+actually the derivative of the ratio of two functions
+of r, as its plainly appears from (113). Thus, let us
+set for a moment
+
+E()=s=——. (134)
+
+where “E” stands for “exponent,” Upon
+
+differentiating,
+one gets
+3
+E (r)= _ 2] In ss ul 2 c? .(-3)-r“
+20° r Cc
+
+fof S]-} ca. (135)
+o a e
+
+But the probability density function (113) now
+reads
+
+3 e Al)
+
+FET _Distane (r ) = ono .
+
+(136)
+
+So that its derivative is
+
+afer vistne (7) = 3
+
+dr V2n0 , r
+
+UNCLASSIFIED / SFO OFFECEAL-USE-ONEY

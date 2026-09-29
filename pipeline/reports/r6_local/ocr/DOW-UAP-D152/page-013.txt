@@ -1,0 +1,28 @@
+UNCLASSIFIED/ /P'OR. 8FFIEil1'1.k lellii Ql'II.¥ 
+or </J =-, 
+my 
+r 
+the same as in Newton's theory. 
+For a sphere of constant density p one obta ins the solution 
+If/ = sinh kr k2 = 4,ryp 
+kr ' c2 
+Hence, 
+<P = c2 ln [ sin:, kr] _ 
+For small values of r one has 
+with the force per unit mass 
+lgl= -IV </JI= (41r/3) ypr, 
+as in Newton's theory. 
+In general one has 
+(27) 
+(28) 
+(29) 
+(30) 
+(31) 
+(32) 
+which in the limit r - oo becomes a constant: 
+(33) 
+which implies the self-shielding of a large mass by the negative mass of its own 
+gravitational field surround ing the mass. The shielding becomes important at the 
+distance 
+UNCLASSIFIED/fFOA OFFI&il.t.k lellii OJi,k¥ 
+9

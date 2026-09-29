@@ -1,0 +1,58 @@
+UNCLASSIFIED/ /FOR 8Ffl@IAL tl.!I!!! er•t a 
+Hydrogen H2 as a Neutron Moderator to Increase the Neutron Absorption Cross Section of Boron, With 
+the Neutrons Released From Deuterium Cylinder d. 
+As noted earlier, in comets there is a large amount of deuterium readily available for 
+min ing. And we know comets also conta in nitrogen and carbon . From th is knowledge 
+we can assume that very likely other light elements, such as boron, exist in relatively 
+high concentrations in comets. 
+Although the waste heat radiator remains a problem, it favors large explosions, because 
+most of the waste heat accompan ies the propellant into space. Droplet radiators, with 
+the droplets slowly evaporating, are unlikely to work . Placing the neutron-absorbing 
+radiators near the shock absorber, permitting them to get red-hot, and thermally 
+insulating the rest of the spacecraft from the radiators may solve the problem . 
+Delivery of a Gev Proton Beam Onto the Deuterium Fusion 
+Explosive 
+The spacecraft is inductively charged 
+against an electron cloud surrounding the 
+craft, and, with a magnetic field on the 
+order of 104 G, easily reached by 
+superconduct ing currents flowing in an 
+azimutha l direction around the craft, is 
+magnetically insulated against the 
+electron cloud up to GeV potentials. The 
+spacecraft and its surrounding electron 
+cloud form a virtual diode with a GeV 
+potential difference. To generate a proton 
+beam, it is proposed to attach a miniature 
+hydrogen-filled rocket chamber R to the 
+deuterium bomb target at the position 
+where the proton beam hits the fusion 
+explosive (see Figure 2) . A pulsed laser 
+beam from the spacecraft is shot into the 
+rocket chamber, vaporiz ing the hydrogen, 
+which is emitted through the Laval nozzle 
+as a supersonic plasma jet. If the nozzle 
+is directed toward the spacecraft, a 
+conducting bridge is established, rich in 
+protons between the spacecraft and the 
+fusion explosive. Protons in th is bridge 
+are then accelerated to GeV energies, 
+hitting the deuterium explosive. Because 
+of the spacecraft's large dimensions, the 
+jet does not have to be aimed at the 
+spacecraft very accurately. 
+The orig inal idea for the electrostatic 
+energy storage on a magnetically 
+" 
+Figure 4. Superconducting "Atomic" Spaceship, 
+Positively Charged to GeV Potential, With 
+Azimuthal Currents and Magnetic Mirror M By 
+Magnetic Field B. F fusion minibomb in position to be 
+ignited by intense ion beam I, SB storage space for the 
+bombs, BS bioshield for the payload PL, C coils pulsed 
+by current drawn from induction ring IR. e electron flow 
+neutralizing space charge of the fusion explosion 
+plasma. 
+insulated conductor was to charge up a levitated superconducting ring to GeV 
+UNCLASSIFIED/ }FOA OFFICIO ls: Pili ODIi.¥ 
+15

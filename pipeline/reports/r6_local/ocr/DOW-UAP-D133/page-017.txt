@@ -1,0 +1,49 @@
+UNCLASSIFIED/ /FOR 8FFI@IsT.tk WSE 8Hk¥ 
+viewed from the slits will have reduced coherence. The path length difference at the 
+slits is, to a good approximation, inversely proportional to Lxs, Therefore, making Lxs 
+large-that is, placing the slits some distance from the source volume-can reduce the 
+path length differences to a value that increases coherence and allows observation of a 
+sharp two-slit interference pattern signal at detector D1. Alternatively, placing a thin, 
+double-concave diverging lens at point P of Figure 6 can have the same effect by 
+causing the shorter path lengths to pass through a greater thickness of lens glass. Such 
+a lens would also demagnify the source, producing the equivalent of a longer path 
+length and smaller source solid angle. 
+However, increasing source coherence has another consequence. The momentum 
+entanglement of photons from the source arises from momentum conservation. 
+Restricting the solid angle of the source, as viewed from the slits, means fewer photon 
+pairs can be entangled and still satisfy the geometrical constraints of the experimental 
+configuration. The Saleh group at Boston University has shown that there is a 
+complementary relation between source coherence and two-photon entanglement 
+(Reference 18). As the source-slit distance Lxs is increased, there are smooth transitions 
+from one-slit to two-slit interference patterns and from a highly entangled source to a 
+highly coherent source. We note, as mentioned above, that the parametric down­
+conversion technology used in the Ghost Interference and Dopfer experiments was 
+fairly inefficient and noisy, with fairly improbable production of entangled pairs 
+competing with much more probable production of unentangled "noise" photons of the 
+same wavelength from pumped fluorescence in the crystal. This would tend to limit the 
+entanglement of the source. 
+Nonlocal communication using momentum entanglement requires source coherence. 
+Source coherence is needed in order to observe the "signal" of a two-slit interference 
+pattern and two-photon entanglement so that a measurement of one of the photons 
+"connects" with the interference pattern produced by the other photon. Where there is 
+coherence without entanglement or entanglement without coherence, nonlocal 
+communication with momentum-entangled photons is not possible. An unresolved issue 
+that requires further theoretical consideration and experimental testing is whether there 
+is a "sweet spot" in the experimental design that embraces both partial coherence and 
+partial entanglement and that permits the transmission of nonlocal signals. 
+VI. Nonlocal Communication Versus Signaling 
+The possibility of nonlocal communication is an unresolved issue. It is perhaps likely 
+that the coherence-versus-entanglement tradeoff is nature's way of preventing nonlocal 
+signaling, but that has not been demonstrated. In this section, we assume that nonlocal 
+signaling is possible and will examine its implications. As will be seen, they are so far 
+reaching that they could be taken as a strong indication that nature would not allow 
+such things and therefore nonlocal signaling must be impossible. 
+Figure 7 shows a variation of the Ghost Interference experiment (Reference 16) in 
+which the slit-imaging technique of the Dopfer experiment (Reference 17) is used to 
+ensure that entangled photon pairs passing through slits reach both detectors, and that 
+those intercepted by the opaque regions of the slits reach neither detector. In 
+particular, a lens of focal length f is placed in the path alter the BBO crystal and before 
+the polarization splitter so that both entangled photons pass through this lens. A pair of 
+slits S1 is placed at a path distance f beyond the lens in the path of the "o" photons, 
+UNCLASSIFIED/ /f81l Offl@IAL WSIE 8HLY 
+11

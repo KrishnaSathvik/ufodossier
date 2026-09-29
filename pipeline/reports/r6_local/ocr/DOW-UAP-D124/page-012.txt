@@ -1,0 +1,33 @@
+UNCLASSIFIED/ fFOR OFFl&IAL YSIE er•tv 
+Whatever goes into orbit must enter the atmosphere many t imes if it is to be a 
+sustained-use vehicle . If it is to be a comme rcial vehicle, then the flex ibility to land 
+wherever the commercial customers are is essential. Consider how successful FedEx, 
+UPS, or DHL would be if there were only two pickup and delivery sites in the United 
+States and a few more elsewhere in the world. A ballistic capsule has even fewer 
+landing opt ions, and a saltwater landing and recovery is too costly to be commercially 
+feasible. What is needed is a hypersonic glider with the flexibility to enter when 
+necessary, without waiting, and to land at different operational bases, just as a 
+transport might. There were three serious competitors in the United States with 
+respect to hypersonic glider configurations: the AFFDL at Wright-Patterson Air Force 
+Base, the McDonnell Douglas Corporation (MDC), and the Lockheed Corporation. 
+NASA Ames and NASA Langley were also generating hypersonic configurations, but 
+NASA's views on hypersonic gliders (fundamentally research and development projects) 
+and their glide range requirements differed from those of the three organizat ions listed 
+above. That difference is clearly exemplified by the difference between the operational 
+requirements of an experimental aircraft (such as X-1, X-2, X-10, X-15, or X-20) that 
+flies infrequently and at the convenience of the research organization and those of an 
+operational Air Force or Navy aircraft that must be able to fly on any day in almost any 
+weather when needed (also a Russian spacecraft operational rule). From the middle of 
+the 1960s to the early 1970s, the U.S. Air Force and NASA had disagreements over the 
+operational capability of these aircraft and their requirements. As a result, each went 
+its own development direct ion, and much of the originality and pract icality of the AFFDL 
+concepts has not been reflected in the space access configurations developed by NASA. 
+There was a final attempt to apply the AFFDL's philosophy of a high lift-to-drag (L/D) 
+ratio delta planform configuration to the NASA space shuttle, as detailed in the article 
+"A Delta Shuttle Orbiter" in the January 1971 issue of Astronautics and Aeronautics. 7 
+Figure 5 shows the array of delta planform configurations the AFFDL considered during 
+the 1958-68 timeframe. 
+Figures. Delta-Lifting Body Designs. Array of delta -lifting body designs shows configuration is not limited to 
+high hypersonic lift-to -drag ratios, high cross range, and large size.8 
+UNCLASSIFIED/ ,<FOR OFFI&IAL YSIE 8HLY 
+5

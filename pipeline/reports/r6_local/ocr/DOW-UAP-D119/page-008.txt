@@ -1,0 +1,50 @@
+UNCLASSIFIED/ /FOR OFFICIAL USE Oiltt 
+Biomaterials for Biosensors 
+Implantable biosensors for the human body place some of the greatest functional 
+demands on biomaterials. Biosensors monitor the physiologic state of tissues for 
+medical therapeutics or for assessing human performance. Sensors for glucose, oxygen, 
+blood pH, adrenal hormones, nervous activity, heart performance, and blood pressure 
+monitors are all of interest. 
+Blood biochemistry sensors are the most difficult sensors to keep functioning over time 
+primarily because the sensor interface materials provoke low-level foreign-body 
+reactions in tissues. These types of responses are not specifically important to 
+implantable devices that have structural rather than sensing functions, such as heart 
+valves, but they can completely render a biosensor for blood glucose, for example, 
+useless after a few days. 
+Chemically sensitive biosensor interfaces to tissue and body environments employ 
+membranes in an effort to protect the biosensor active-sensing surface from possible 
+body reactions. The membrane allows small molecules of interest to pass through its 
+pores while excluding larger proteins, blood-formed elements, and cells like 
+macrophages that would engulf the sensor. 
+The membrane's biomaterial composition, pore size, and long-term physical integrity 
+are critical components in the functioning of the sensor . If the biomater ial chosen 
+retards the adhesion of proteins and does not provoke a biological response, then this 
+improves sensor longevity. Figure 3 shows some representative biomembranes. 
+No one biomaterial is best for all 
+sensor applications, primarily because 
+different biomaterials behave 
+differently relative to the substance 
+being sensed. Membranes that pass 
+glucose, for example, may not pass 
+oxygen that is needed for a sensor to 
+function. Membrane biofouling starts 
+immediately upon contact of the 
+sensor with the body cells. Proteins 
+and other biological components 
+adhere to the sensor surface, and in 
+some cases, impregnate the pores of 
+the material. This process retards 
+diffusion of the molecules of interest 
+to the sensor surface and either slows 
+the sensor's response to changes in 
+concentration or reduces the overall 
+response to the point where the 
+sensor falls out of calibration. 
+The design of sensor membrane materials has been found to be critically dependent on 
+subtle features of the membrane's chemistry, material thickness, and porosity, as well 
+as, more generally, where in the human body the sensor is located. The blood stream is 
+UNCLASSIFIED/ /fiiOA OFFI&IAk WSE 8rtt'f 
+Figure 3. Biomaterials Such as Polycarbonates, 
+Cellulose, and Silicones Used in Membranes for 
+Sensors, Dialyzers, and Oxygenators 
+1

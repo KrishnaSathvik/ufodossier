@@ -1,0 +1,32 @@
+20 
+McDivitt 
+White 
+McDivitt 
+White 
+McDivitt 
+White 
+McDiv.itt 
+Let me ask you a question ? 
+Yes. 
+When you turned on the RCS heaters , did you turn 
+on the heate r s on both r ings , or did y ou turn on 
+the RCS Heater Switch and then turn off the cir cui t 
+breaker on the ot her ring? 
+I turned the heaters on and then I checke d to see 
+which ring it was that was ac tua lly heat ing up by 
+using the circuit breakers . The first tim e I went 
+ahead and left them on and then the other ring 
+came on . I fel t that one of them was about as 
+cold as the other, so I left the heaters on both 
+rings throughout the heating cycles . 
+Good. 
+They were in perfect sequence--A and B, A and B, 
+and about 15 minutes apart . The regulari ty was 
+surprising. The temperatures at the time when 
+these lights came on were indicating about 63 or 
+64 degre es and it seemed like it would come up a 
+little bit, and then come right back down and pop 
+back on again. I felt it was not an act ual 
+temperature probl em . 
+I used Rate Command, Reentry Rate Command and Pulse 
+control modes. I didn ' t use Direct . They a ll

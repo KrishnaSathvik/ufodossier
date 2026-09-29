@@ -1,0 +1,55 @@
+UNCLASSIFIED / /+OR-OFFECEALUSE-ONET
+
+Chapter 1: Concept Overview
+
+A flight vehicle's speed and altitude limit its available propulsion options.
+Traditional air-breathing systems (propeller, turbofan, and turbojet) are typically
+limited to altitudes below 80,000 feet. The existing and planned high-altitude
+vehicles utilize either high-speed propulsion with ramjet and scramjet engines or
+slow-speed systems with large propellers. Chemical rockets can operate at all
+altitudes but have limited burn times and require both fuel and oxidizer to be
+carried onboard.
+
+High-speed air-breathing propulsion, based on ram/scramjet engines, have well-
+known difficulties: external and internal flow compression and shock control;
+shock-shock and shock-boundary layer interactions in the propulsion flowpath;
+mixing, ignition, and flameholding in the combustor; incomplete combustion and
+chemical energy release; and very high temperatures and wall heat fluxes in the
+combustor. There are limits to what can be done about these problems with
+conventional technologies, which is why the use of plasma (ionized gas) with or
+without electric and magnetic fields can offer additional opportunities for control
+and propulsion enhancement.
+
+Onboard generation and storage of electric power is one of the main problems
+encountered with respect to high-altitude, high-speed flight. Hypersonic vehicles,
+both air-breathing and unpowered reentry “gliders,” have no rotating
+turbomachinery to which an electrical generator could be connected. An
+attractive power option can be offered by magnetohydrodynamic (MHD) devices.
+For example, placing an MHD generator immediately downstream of a scramjet
+combustor can, given the high velocities and temperature of the flow and with
+metallic additives to the fuel, provide high power (from tens of kW to several
+MW) with no moving parts. For reentry vehicles, both external (i.e., surface-
+integrated) and internal-duct MHD generators can generate high power also
+without moving parts. Employing additional equipment like electrical generators
+imposes a weight penalty that must be optimized with vehicle performance.
+
+The use of electric and magnetic systems can open new potential areas for
+aerospace propulsion. While chemical energy sources are limited by the energy
+available for particular reactions and are limited to operating conditions that are
+conducive to combustion, electromagnetic energy can be added to the flow over
+a much wider range of operating conditions. For example, at very high altitudes
+(>150 kft), it is difficult to get reliable combustion in hypersonic air-breathing
+engines. In an electrothermal system, the combustor would be replaced with an
+electrical heating source that can easily and reliably add enthalpy to the flow
+even at low pressure. The flow can also be accelerated by manipulating body
+forces (electric and magnetic) on charged particles (ion and electrons) within the
+flow.
+
+Outside the atmosphere, we note that operation in space almost always requires
+rocket propulsion whether it be chemical, electric, or nuclear. The exceptions
+would be sails and tethers. Spacecraft are rapidly transitioning from chemical
+rockets to electric (plasma) for most space-based operations.! The higher
+specific impulse (Isp) available for electric systems (2 to 100 times that of
+chemical) has a dramatic impact on the vehicle design and operation. Although
+
+UNCLASSIFIED /FOR UFFICTAL USt-OnNE=

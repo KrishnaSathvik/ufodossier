@@ -1,0 +1,54 @@
+UNCLASSIFIED F/P OR OPPICTAL USE ONLY
+
+e Terminal seeker guidance for hit-to-kill accuracy against missiles and
+maneuvering aircraft.
+
+e Axial-/lateral-propulsion and control for missile and maneuvering aircraft
+interception.
+
+e Additional mass along Lightcraft centerline for hardened target penetration.
+
+LIGHTCRAFT MISSION INVESTIGATIONS: SUMMARY AND
+CONCLUSIONS
+
+Ground/Sea to Space (ETO) [261
+
+If laser propulsion can provide nearly all Lightcraft Av needed to reach LEO, then
+Lightcraft nanosat systems, which combine both launch vehicle and nanosat
+subsystems within a single vehicle, may be achievable with launch masses in the 2 kg
+to 10 kg range; and such Lightcraft nanosat systems appear capable of reaching LEO at
+1/5 to 1/10" the cost required using multistage chemical rocket systems.
+
+Air to Space (Air to Orbit) [261
+
+If hypersonic magnetohydrodynamic (MHD) airbreathing propulsion research and
+development currently underway at the NSF, NASA and the AFRL (Dayton, OH) is
+successful, then Lightcraft dry masses as heavy as 100 kg can be launched from
+aircraft flying at Mach 10 to 12 at about 30 km above the Earth. Such Lightcraft could
+be propelled by laser power as high as 100 MW that can be generated from the
+electrical power of ionized-air-slowing by interacting electric and magnetic fields within
+hypersonic MHD airbreathing engines.
+
+Air to Space (Ballistic Missile Interception) [2°
+
+Sufficient impact energy for destruction of high-speed ballistic missiles above the
+atmosphere is possible with chemical propulsion and uncooled IR detectors (for semi-
+active homing and axial/lateral acceleration during end-game) integrated into Lightcraft
+vehicles for an approximate 100% dry mass increase (from 1.0 kg to 2.0 kg). But
+multiple target interception within allowable time is limited by relatively long beam-
+riding time needed for the Lightcraft to reach and destroy each target.
+
+Although laser-propelled Lightcraft appear capable of performing certain Air Force
+tactical missions, and are much less expensive than missiles currently used for such
+missions, the laser and aircraft costs associated with Lightcraft launches are much
+greater. Also, clouds impair Lightcraft air-to-ground and air-to-air effectiveness while
+air-to-air and air-to-space effectiveness is limited by long Lightcraft beam-riding times.
+Thus, no truly attractive Lightcraft combat mission was found. On the other hand,
+Lightcraft were found to be extremely attractive, compared to chemical rockets, in
+boosting microsats, nanosats, and picosats to LEO whereby the Lightcraft plus
+ground/sea-based laser costs are significantly less than multistage chemical rocket
+costs. Thus, the selected Lightcraft missions are launch vehicle missions involving
+
+29
+
+UNCLASSIFIED L4502.055160i-USE-ONEY

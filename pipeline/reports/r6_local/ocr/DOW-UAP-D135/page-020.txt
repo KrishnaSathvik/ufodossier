@@ -1,0 +1,57 @@
+UNCLASSIFIED / 4POR-OFFL6PA4-USE-OP
+
+By substituting Equation (19) into Equation (17), one observes that a positive A will act
+to cause a large-scale repulsion of space (because this gives a negative vacuum
+pressure), whereas a negative A (giving a positive vacuum pressure) will cause a large-
+scale contraction of space. Because A is a constant, the vacuum energy is a constant
+(that is, time independent). This then implies a problem with energy conservation in an
+expanding universe since one expects that energy density decreases as a given volume
+of space increases, which is the case for the ordinary matter and cosmic microwave
+background that is observed in extragalactic space. In other words, the matter and
+radiation energy densities decay away as the universe expands while the vacuum
+energy density remains constant.
+
+The cure for this apparent energy conservation problem is the vacuum equation of state
+given by Equation (17). A negative pressure is something like a tension in a rubber
+band. It takes work to expand the volume rather than work to compress it. The proof of
+this is as follows (Reference 51): the energy created in the vacuum by increasing
+(expanding) space by a volume element dV is pyadV, which must be supplied by the
+work done by the vacuum pressure —pyadV during the expansion of space, therefore pyc
+= —Pyac. IN other words, the work done by the vacuum pressure maintains the constant
+vacuum energy density as space expands. Therefore, the vacuum acts as a reservoir of
+unlimited energy that provides as much energy as needed to inflate any region of space
+to any given size at constant energy density.
+
+Dark Energy
+
+Dark energy is an easily misunderstood form of energy in cosmology. There are two
+sets of evidence pointing toward the existence of something else beyond the radiation
+and (ordinary and dark) matter itemized in the overall cosmic energy budget.® The first
+comes from a simple budgetary shortfall. The total energy density of the universe is
+very close to critical. This is expected theoretically and it is observed in the anisotropy
+pattern of the cosmic microwave background (CMB). Yet, the total matter density
+inferred from observations is 26 percent of critical.” The remaining 74 percent of the
+energy density in the universe must be in some smooth, unclustered form that is
+dubbed “dark energy.” The second set of evidence is more direct. Given the energy
+composition of the universe, one can compute a theoretical distance vs. redshift
+diagram. This relation can then be tested observationally.
+
+Riess et al. (Reference 52) and Perlmutter et al. (Reference 53) reported direct
+evidence for dark energy from their supernovae observations. Their evidence is based
+on the difference between the luminosity distance in a universe dominated by dark
+matter and one dominated by dark energy. They showed that the luminosity distance is
+larger for objects at high redshifts in a dark energy-dominated universe. Therefore,
+objects of fixed intrinsic brightness will appear fainter if the universe is composed of
+dark energy. The two groups measured the apparent magnitudes of a few dozen Type
+Ia supernovae at redshifts z < 0.9, which are known to be standard distance candles
+(meaning they have nearly identical absolute magnitudes at any cosmological redshift-
+
+® Dark matter and dark energy are not to be confused. Dark matter is a non-luminous, non-absorbing, non-
+baryonic form of matter that only interacts with all other forms of matter via gravitational and weak nuclear forces.
+Dark matter has a positive rest-energy density and a nearly negligible positive pressure. Thus, it has no beneficial
+application for breakthrough propulsion physics.
+
+7 26% total matter density = 4% ordinary (baryonic) matter + 22% dark matter.
+
+15
+UNCLASSIFIED / /+OR-OFFL6HH-USE-ONEY—

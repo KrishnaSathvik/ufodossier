@@ -1,0 +1,39 @@
+UNCLASSIFIED//POlt OPPIEIJct t:191!!! BHL'f 
+payload would be 15,228 lb-well within the payload capacity. The operating 
+parameters for the station were a nominal 21-person crew with provisions for up to 27. 
+This study determined that 47,000 lb (21,315 kg) of resources were required per 
+crewmember per year. So for 1 year and a 21-person complement, 448 metric tons of 
+supplies would need to be lifted to the station for crew support, not counting 
+propellants to maintain the station orbit. With 21 crewmembers, 4 flights per year 
+would be required to meet the 6-month assignment requirement. To lift the crew 
+supplies to the station would require 64 flights per year, not counting propellant- and 
+hardware-replacement missions, which might require another 5 to 6 flights per year. 
+The minimum number of flights to a large station would be 74 flights per year. From a 
+military mission analysis, that would require a fleet of 10 aircraft (without operational 
+spares) flying 7 times a year for 15 years and a 100-flight operational life. The 
+spacecraft and systems considered in the study were: 
+• Ballistic, derivative Apollo capsule, Rockwell. 
+• HL-10 lifting body, NASA Langley. 
+• Wing body, X-20 derivative, Boeing. 
+• Variable-geometry lifting body, Model 176, McDonnell Douglas. 
+• Operations and logistics requirements, Lockheed, NAS-9-1422. 
+• Manned Orbiting Laboratory (MOL), Lockheed, NAS-9-1688. 
+• Manned Orbiting Research Laboratory (MORL), McDonnell Douglas, NAS-1-362. 
+This summary report contained a large number of recommendations and conclusions. 
+Those that were pertinent to the Saturn 1B and Saturn V rocket launchers and the 
+rotating space station are not listed. Only those related to the vehicle and propulsion 
+system are given. 
+• Among the lifting-body spacecraft, the variable-geometry spacecraft provides the 
+best combination of hypersonic maneuvering and landing performance. 
+• A 9- to 12-passenger payload with equipment is recommended. 
+• An abort system for both low-altitude and high-altitude abort and escape is required. 
+• Structural concepts and materials applicable to the loads and heating of lifting 
+spacecraft are within the present (that is, 1965) state of the art. 
+• The weight factor for lifting spacecraft results primarily from a larger surface area 
+and only secondarily from the associated spacecraft environment. 
+• Radiation-cooled structures are generally lighter than other structural concepts. 
+• For surface temperatures above 2,200 °F (1,204 °C), refractory metals are required, 
+and coating life is the major refractory metal limitation (applies to carbon-carbon 
+today). 
+UNCLASSIFIED,';'FOA OFFI&il.t.k W&li &rtllf 
+44

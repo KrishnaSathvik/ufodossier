@@ -1,0 +1,47 @@
+UNCLASSIFIED// FOR OFFICIAL tt!I! 8,.LY 
+One way to quantify the ability of a metallic alloy to be produced in glassy form is 
+through the critical cooling rate - the slowest rate at which a metallic liquid may be 
+cooled and still produce a fully amorphous structure, as shown in Figure 2(a). The 
+critical cooling rate for a variety of metallic glass-forming alloys is shown in Figure 2(b). 
+Early metallic glasses (discovered in the 1960s and 1970s) were binary alloys with 
+critical cooling rates typically on the order of 104 to 107 K/s. Achieving such high 
+cooling rates requires specialized techniques (such as melt spinning) and limits the 
+maximum thickness of the metallic glass to < 100 µm because of the need to rapidly 
+extract heat from the melt. As a result, these early metallic glasses could be produced 
+in only a limited range of forms, including ribbons, foils, wires, and powders. 
+Extensive research efforts in alloy design over the past two decades have resulted in 
+the development of multi-component alloys with much lower critical cooling rates (0.1 
+K/s or even lower). This has enabled the production of metallic glass specimens in 
+larger sizes-in some cases exceeding 1-cm section thickness. Common practice in the 
+field is to refer to any alloy capable of being cast into a section at least 1-mm thick as a 
+"bulk" metallic glass. These alloys may be cast or molded into forms suitable for 
+structural applications. 
+At present, it is not possible to predict a priori the glass-forming ability of an alloy of 
+arbitrary composition. A variety of empirical rules for selecting alloying elements and 
+compositions have been proposed, and techniques have been demonstrated for efficient 
+searching of composition space. But identification of alloys with good glass-forming 
+ability is still mostly a matter of trial and error. As a result, the number of truly 
+outstanding glass-forming alloys (loosely defined as being able to be cast as a glass to 
+a thickness of at least 1 cm) is quite limited (see Table 1). 
+Table 1. Selected Bulk Glass-Forming Alloys. Selected alloys reported to have 
+excellent glass forming ability, quantified here as the maximum thickness of a 
+fully amorphous casting. 2 3 4 s 6 7 s 
+Composition Maximum Thickness 
+(mm) Reference 
+MgGsCu 1sAgsPdsGd10 10 2 
+Zr41.2Ti13.sCu 12.sNi10 Be22.s 50 3 
+Pd40Cu30N i 10P:w 72 4 
+CU41Zr4sAg4Al4 10 5 
+Pts1.sCU14_7N is.J P22.s 16 6 
+Ti40Zr2sNi3Cu12Be20 14 7 
+Fe4sCr1sM014Er2C1sBG 12 8 
+Moving from the laboratory to industrial practice, it is important to note that factors 
+besides alloy composition can affect glass-forming ability. In particular, some alloys are 
+sensitive to the presence of impurities; for example, the glass-forming ability of some 
+zirconium-containing alloys is dramatically reduced by the presence of oxygen. 
+Processing conditions also influence the ability to make a glass; these may include the 
+material and surface finish of the mold and the temperature of the liquid prior to 
+casting . Finally, glass-forming ability can be quite sensitive to small variations in 
+composition, which may be difficult to control in indust rial practice. 
+3 
+UNCLASSIFIED/ /FOR OFFI&IAk WSE 8Hk¥

@@ -1,0 +1,47 @@
+UNCLASSIFIED/ /FOR OFFI@IAL YSE OHLY 
+Pulsed High-Power Microwave Source Technology 
+Summary 
+This paper provides an overview of the major types of high-power microwave 
+(HPM) sources and the critical technologies required to build them. Pulsed 
+HPM technology has been of scientific and military interest for several decades. 
+Originally, the interest focused on the area of high-altitude electromagnetic 
+pulse (HEMP) concerns. 
+HEMP is produced when a nuclear weapon is detonated high above the earth's 
+surface, creating gamma radiation that interacts with the atmosphere to 
+create an intense electromagnetic (EM) energy field that is harmless to people 
+as it radiates outward but can overload computer circuitry with effects similar 
+to, but causing damage more swiftly than, a lightning strike. HEMP effects 
+became fully known in 1962, when a high-altitude nuclear test (codenamed 
+"Starfish Prime") over the Pacific Ocean disrupted radio stations and 
+electronic equipment 800 miles away in Hawaii. The HEMP effect can span 
+thousands of miles, depending on the altitude, design, and power of the 
+nuclear burst. It is speculated that a single device detonated at high altitude 
+over the central United States could affect the entire country, since the HEMP 
+would be picked up by conductors, such as wires and power cables, acting as 
+antennas to conduct the electrical energy into various electronic systems. This 
+EM radiation was found to have field levels on the order of several hundreds of 
+kilovolts per meter with onset or rise times of a few nanoseconds and a 
+duration of nearly a microsecond. Fields of these magnitudes were found to 
+have severe detrimental effects on numerous electrical systems and items, 
+such as the power grid, automobiles, communications equipment, and aircraft. 
+Much testing was done in the 1960s and 1970s to determine vulnerabilities 
+and to find mitigation solutions. The HEMP is essentially a wideband 
+microwave pulse, and several EMP simulators were devised and built for use in 
+testing its effect on various electronic systems. In addition, several programs 
+were established to investigate the possibility of generating and radiating 
+other spectrums of EM radiation that may have some of these same effects 
+without requiring a nuclear detonation. This was the impetus for the 
+advancement of pulsed HPM technologies for weapons. 
+HPM radiation is composed of shorter waveforms at higher frequencies than is 
+HEMP, which makes it highly effective against electronic equipment and more 
+difficult to harden against. Whereas HEMP weapons are large in scale and 
+require a nuclear capability along with technology to launch high-altitude 
+missiles, HPM weapons are smaller in scale, involve a much lower level of 
+technology, and are within the capability of almost any state. HPMs can 
+damage computers and electronics similar to the way HEMP can, although the 
+effects are limited to a much shorter range. Technical accessibility, lower cost, 
+and the vulnerability of U.S. electronic equipment could make small-scale HPM 
+weapons attractive to terrorist groups. HPM devices are now categorized as 
+directed-energy weapons. 
+UNCLASSIFIED/ /POlt 8FFI@IAL Y&liii 0PIL¥ 
+vi

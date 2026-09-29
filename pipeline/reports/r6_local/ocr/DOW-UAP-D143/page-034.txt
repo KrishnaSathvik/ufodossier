@@ -1,0 +1,46 @@
+UNCLASSIFIED S/F OR OPPICTAT USE ONLY
+
+ground, sea and air launches of Lightcraft to LEO with air launch occurring at either
+subsonic or hypersonic speed.
+
+Lightcraft Ground/Sea to Space Investigation
+
+The current Air Force Lightcraft vehicle concept has been designed for not only placing
+nanosats into LEO at low cost (Figure 14), but also for performing much of the nanosat
+function as well. In this concept the precision optics system that focuses ground/sea-
+based laser light into the Lightcraft’s cowl area for propulsion is also used as a space
+telescope for viewing military targets on Earth and in space. And structural panels on
+the Lightcraft forebody are also used as solar panels that are unfurled in orbit for
+generation of satellite power. Thus, the current Lightcraft’s design allocates only 0.1 kg
+of its 1.0 kg dry mass for exclusively nanosat functions. There is a military need for 1.0
+kg to 2.0 kg nanosats with optical sensors for visual inspection of unknown objects in
+space and on Earth.
+
+Since conventional expendable rockets could conceivably be an alternative to laser-
+powered Lightcraft for the rapid placement of military nanosats in LEO, a cursory
+comparison of Lightcraft and conventional rockets was made by Froning and Davis [26]
+to get some idea of their comparative costs. Hybrid rocket sizing and costing was
+based upon tactical strategic missile sizing and costing information possessed by H. D.
+Froning. This information related costs (in 1982 dollars) to rocket and payload
+characteristics. Lightcraft sizing assumed a propellant mass fraction of 0.5 and 1.0 MW
+of laser power per pound of payload (dry mass) placed into orbit. Costs for laser power
+and refurbishment were based upon AFRL estimates (amortized over a fewer number of
+flights). Although these Lightcraft and laser costs are higher (based upon much fewer
+flights) than those of previous AFRL estimates, they are believed to be consistent with
+the conventional rocket costs, and therefore applicable for relative cost comparisons.
+More detailed future Lightcraft/conventional rocket designs and cost comparisons are,
+of course, needed before a strong argument can be made for either design.
+
+Shown in Table 2 is the estimated performance and weights (masses) for 3-stage
+hybrid rocket launch vehicles and single-stage laser-powered launch vehicles that are
+capable of placing nanosats of 1.0 kg, 5.0 kg, and 10 kg into LEO. And Table 3 shows
+estimated costs for hybrid rockets and laser-powered Lightcraft assuming 100 flights
+over a 10-year period. These estimated costs indicate that Lightcraft could boost
+nanosats in the 2.0 kg to 5.0 kg range into LEO at about 1/10" to 1/5‘ the cost of
+expendable rockets. But Lightcraft cost superiority over conventional rockets is less
+overwhelming for satellites that are significantly heavier. Thus Lightcraft appear
+extremely attractive for satellite delivery missions only if Lightcraft dry masses,
+including the satellites being carried, are less than about 5.0 kg.
+
+30
+UNCLASSIFIED &+60R-OFF26FAE-USE-ONET

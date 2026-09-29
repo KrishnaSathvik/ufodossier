@@ -1,0 +1,35 @@
+{
+  "note": "Hints only. No auto-link and no merge.",
+  "production_writes": false,
+  "counts": {
+    "media_for_event": 1,
+    "analysis_of_event": 1
+  },
+  "hints": [
+    {
+      "auto_linked": false,
+      "auto_merged": false,
+      "relationship": "media_for_event",
+      "source_filename": "FBI-UAP-D003.pdf",
+      "target_filename": "FBI-UAP-D002.pdf",
+      "target_case_ids": [
+        "UNDATED-USA-599D8B"
+      ],
+      "signal": "catalog_pdf_pairing"
+    },
+    {
+      "auto_linked": false,
+      "auto_merged": false,
+      "relationship": "analysis_of_event",
+      "source_filename": "ICA-UAP-D001.pdf",
+      "target_filename": "FBI-UAP-D002.pdf",
+      "target_case_ids": [
+        "UNDATED-USA-599D8B"
+      ],
+      "signal": "source_text_place",
+      "matched_tokens": [
+        "cheyenne"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+UNCLASSIFIED/ fFOA. OFFI€il.t.L YSE er•tv 
+25 to 50 fibers have been combined into an even larger fiber with a resultant output 
+power of 50 kW and an effective beam quality of about 30. Highly reliable commercial 
+welders and cutters are made today with fiber lasers which combine beams by splicing 
+laser fibers together to increase output power. Some of these devices operate at a 
+reported wall plug to light-out efficiency > 30 percent but these numbers do not include 
+any power required for cooling. As a weapon, these off-the-shelf lasers could produce 
+useful beams for short distances. 
+A significant advantage of fiber lasers is the ir inherent ruggedness when compared to 
+slab or rod lasers. Most of the optical functions (such as wavelength and polarization 
+control, beam splitters and combiners) which are required to produce a high-power 
+beam with good beam quality can be integrated into the fibers while slab laser systems 
+require discrete components which must be kept clean and held in mechanical 
+alignment. 
+Given the immaturity and rate of advance of fiber lasers today, it is impossible to 
+predict where they will go. Current power scaling research has been centered on 
+Yb:YAG and Nd:YAG fibers at 1 µm with limited effort at 1.5 µm and 2 µm. Although 
+lagging the maturity of 1 µm fibers, they offer potential for increased eye safety . 
+If the maturation process continues as it has, fiber lasers will offer the best promise for 
+high power and good beam quality with inherent ruggedness and reliability. Militarized 
+devices at the 50 kW to 100 kW should be available within the next 15 years and it's 
+not difficult to imagine MW systems within 20 to 30 years. 
+ULTRA-SHORT PULSE LASERS 
+Ultra-Short Pulse (USP) lasers, somet imes called femtosecond (fs) lasers, produce 
+pulses of light shorter than 1 picosecond (10-12 second). Some USP lasers have 
+produced pulses less than 10 fs which is a length of 3 microns and equivalent to only a 
+few cycles of visible light (by comparison, a human hair is about 100 microns in 
+diameter). They were developed in the 1970s using long pulse lasers to illuminate 
+chemical dyes which then produced the short pulses; today USP lasers employ slabs 
+such as Titanium:Sapphire or a variety of fibers and table-top size devices are 
+commercially available. Although the average power of these devices is typically sub­
+watt, the short pulses result in peak powers which can range from a terawatt (10 12 
+watts) to a petawatt (10 15 watts). The extremely high power contained in very short 
+pulses has proven useful for precision machining, drilling tiny holes, and selective 
+material remova l in a wide variety of materials. In addition to commercial machining 
+applications, medical uses such as eye surgery and cancer cell destruction have been 
+developed. When propagated in the atmosphere, these ultra short pulses do not obey 
+the usual laws of diffraction spreading and can (under certain circumstances) remain 
+tightly focused over long distances. This techno logy remains in its infancy and research 
+is ongoing to increase average power (generally with a higher pulse rate), to better 
+understand the physics of USP propagation, and to explore material interactions with 
+USP. Much of the USP research today is found in world-wide academic institutions. 
+Other than the potential for inflicting sensor damage, the military potent ial of these 
+devices is yet to be determined. 
+UNCLASSIFIED/ fFOA QFFI€il.t.L YSE 8,.L\f 
+10

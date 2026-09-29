@@ -1,0 +1,51 @@
+UNCLASSIFIED//FQR QFFIOlsllL WSE QHL\f 
+understanding and experimentation with warp drive technology. To understand how, 
+first discuss an analogy with energy w > 1. 
+In a handful of labs scattered around the country, petawatt lasers are being built and 
+tested. These are lasers of profound capability, able to generate short laser pulses of 
+2 3 
+, ,intensity>> 10
+15 
+W/m with peak focused power densities of>> 10
+27 
+W/m and 
+energy densities of > > 1016 J/m 3 . If it were possible to construct an exotic device 
+whose energy output had w < 1, then using calculations identical to those to generate 
+Table 3, it would seem straightforward to show that the energy density produced by an 
+analogous dark energy laser would translate into a local expansion of space 
+corresponding to Vwarp = 10-13 or~ 10-5 m/s for every meter of space that the laser 
+travels. It may be possible to construct an experiment that could measure the modified 
+expansion of space along the length of such a laser to test the predictions of this paper. 
+7.6 THE DEVELOPMENT OF THE TECHNOLOGY 
+Although a practical warp drive could be many years away from realization, there are a 
+number of technological developments that may, in fact, be necessary in order to allow 
+prototype experiments to begin. First, a more complete understanding of dark energy is 
+of paramount importance. As mentioned earlier, dark energy contributes approximately 
+70 percent of the overall energy density of the universe, and is responsible for the 
+expansion of space. As one acquires deeper understanding of this energy, attempts to 
+generate dark energy in the lab would no doubt be a critical component to a working 
+warp drive. 
+Other crucial developments include determining whether extra dimension are, in fact, 
+real. Once this has been determined with absolute certainty, the role of extra 
+dimensions and their relationship with the universe that we are more familiar with will 
+become a more serious focus of scientific research and attention. 
+As has been discussed, the stabilization of the extra dimensions and the accelerated 
+expansion of the remaining four dimensions can be realized via the Casimir energy. The 
+acceleration of the 3-dimensional subspace is a naturally occurring phenomenon which 
+occurs when the extra dimensions are stabilized. 
+An important feature of the higher dimensional model is the dependence of the dark 
+energy density on the size of the extra dimensions. In models with large extra 
+dimensions, the interaction of the graviton KK tower with the Standard Model fields are 
+suppressed by the higher dimensional Planck scale and the correspond ing couplings are 
+inverse TeV in strength. This can be seen more clearly when we consider the expansion 
+of the metric tensor in models with large extra dimensions computed with in linearized 
+gravity models: 
+1 7.7 
+gMN = TfMN + M D/1- 1 hMN ' 
+D 
+where the capital letter indices indicate summation over the higher dimensions, M is 
+the modified Planck mass, TfMN corresponds to flat (Minkowski) spacetime and h MN 
+corresponds to the bulk graviton fluctuations. The graviton interaction term in the 
+action is expressed by: 
+23 
+UNCLASSIFIED//FOR OFFIOlsllL WSIE 8Ht,•

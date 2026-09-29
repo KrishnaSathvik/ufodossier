@@ -1,0 +1,48 @@
+UNCLASSIFIED/ /POlt err1e1J1tt U.!I! er\tt I 
+The "attraction" of modifying gravity-whether your own, your spacecraft's, or that of a 
+nearby large mass-for propulsive purposes lies in two general categories of effect: 
+• The modifying, neutralizing, or negating of the gravitational attraction of a nearby 
+body, typically Earth. 
+• The provision of propulsive force or impulse to a spacecraft based on manipulation 
+of the same underlying physical phenomenon that forms the basis of gravity. 
+The theoretical and experimental attempts outlined in this paper deal with both these 
+possibilities . 
+In experiments designed to produce a gravity -like force or to interact directly with a 
+local gravity field, the researcher has to be looking for extremely small deviations from 
+a null result. Observations to date demonstrate that interactions between gravity and 
+electromagnetic fields, given the field densities and strengths available to even the 
+most well-equipped laboratory, are many orders of magnitude smaller than those 
+required to begin to see such forces. Braginski et al. (Reference 8) showed that 
+ordinary matter cannot be used to generate measurable gravitational fields in the 
+laboratory. The standard edict against such things as gravity shields can be summed up 
+by noting the absence of negative grav itational mass, at least in this sector of the 
+universe, resulting in the relative "gravitational permittivity/permeability" being unity in 
+normal matter. Therefore, demonstrating that a new force, whether gravitational or 
+not, has been discovered in the laboratory will require an intense effort to provide 
+proof. This implies being able to distinguish between true gravity-like forces and gravity 
+interactions and a host of prosaic effects masquerading as these forces . A list of 
+potent ial artifacts attendant on such exper iments can be found in Reference 9. 
+General relativity introduces a metric tensor theory of gravity, and while it does not 
+explain the fundamental physical basis of the gravitational attraction between two 
+bodies, it does allow the prediction of a large range of interactions between bodies. 
+Simi larly, Maxwell's vector equat ions do not explain the fundamental basis for 
+electromagnetic interactions but do allow us to predict the outcomes of such 
+interactions. It is possible to reformulate the tensor format of GR into a simple vector 
+format that is valid only for a subset of GR conditions, namely in the weak field 
+approximation and for nonrelativistic velocities. Using perturbation theory, for example, 
+to compute the equations of motion in the simplified GR equations results in terms that 
+have direct analogs in Maxwell equations where electrical current flow is replaced by 
+mass flow, for example. Forward (Reference 10, 11) was among the first to investigate 
+this analog. One term is analogous to the Biot-Savart-like magnet ic field and is 
+generally referred to as the "gravitomagnetic field" (and also sometimes as 
+"gravitational frame dragging" or the "Lense-Th irring Effect") and has the dimensions of 
+s-1 . Another term is analogous to the electrostatic coulomb field and is referred to as 
+the "gravitoelectric field." Essentially, the gravitomagnetic field produces a force 
+between currents of flowing matter, while the gravitoelectric field produces a force 
+between masses themselves (the Newtonian gravitational field). Sometimes the term 
+"gravitoelectromagnetic field" is used to refer to both the gravitoelectric and 
+gravitomagnetic fields. 
+Gravity is thus composed of a (Newtonian) velocity-independent field and a 
+(gravitomagnetic) velocity-dependent field analogous to the electr ic and magnetic fields 
+2 
+UNCLASSIFIED/ /fOll Offl@IAL YSE 8HLY

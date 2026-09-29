@@ -1,0 +1,47 @@
+UNCLASSIFIED (/ FO? -OFFECEALUSE-ONE~
+
+1*7D + 19T > o!n [14.1 MeV] + 24He [3.5 MeV]
+17D + 12D > o'n [2.45 MeV] + 23He [0.82 MeV]
+17D + 12D > 1!p [3.02 MeV] + 13T [1.01 MeV]
+1*7D + 22He > i'p [14.7 MeV] + 24He [3.6 MeV]
+
+PT + 32T > 2x o!n + 24He + [11.3 MeV split between the neutrons and helium]
+Figure 7. Low Temperature Fusion Reactions.
+
+LE+O1 7
+
+L.E+00
+
+LE01
+
+1.£-02
+
+Cross Section (barns)
+
+1£-03
+
+LEO4 +
+
+1E-05 +
+
+Deuteron Energy (keV)
+
+Figure 8. Fusion Ignition Energies for D-T, D-D, and D-He3.
+
+Figure 8 shows the probabilities of these reactions occurring, expressed in units of
+barns (1 b = 1078 m’). The D-T reaction becomes increasingly probable as the energy
+of the deuterium nucleus (deuteron) reaches about 5 keV. In terms of temperature,
+this equals about 10 million degrees kelvin. At 10 keV (100 million degrees kelvin), the
+two D-D reactions listed in Figure 7 become more probable and D-He3 fusion becomes
+viable at 30 keV (300 million degrees kelvin). There are several ways to achieve these
+temperatures in a controlled manner. For example, Edward Teller and Stanislow Ulam
+developed a design for a fusion, or thermonuclear bomb, that used a plutonium fission
+atomic bomb to reach the ignition temperature for fusion. Deuterium is the most useful
+fuel for low-temperature fusion reactors, and there is a limitless supply available by
+centrifuging ordinary tap water to separate out heavy water (D20).
+
+Because of deuterium’s availability, a strong incentive exists to develop manageable
+ways to initiate nuclear fusion, concentrating on the fusion schemes outlined in Figure 6;
+
+15
+UNCLASSIFIED / +O R-OFFt6EA-USE-ONE

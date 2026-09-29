@@ -1,0 +1,45 @@
+UNCLASSIFIED/ /FOR OFFI&IAk W&E 8Ptklf 
+Hirsch approach, using electrostatic grids to form a t rap with ions that then brought 
+electrons in. He realized that this approach could result in a very attractive low level 
+neutron source for neutron activation applications, and began that development. Such 
+work was soon taken up in several other laboratories, including Los Alamos Nationa l 
+Laboratory (LANL), University of Wisconsin and Kyoto University. Meanwhile Bussard's 
+work continued with strong funding from the military. However, little was published or 
+known about this until 2008 when he made public appeals on "YouTube" to regain 
+funding stopped just when the experiment achieved a major success. Subsequ,ently, 
+funding resumed but R. W. Bussard passed away shortly thereafter due to a long battle 
+with cancer. His company and work were then taken over by R. Nebel who took leave 
+from LANL to undertake this new work. That effort is now in progress and represents 
+the largest IEC power oriented project in the US or elsewhere (but still modest with a 
+half dozen senior scientists involved). Meanwhile, laboratories elsewhere working on 
+IEC neutron sources have continued while the U of Wisconsin has added an IEC proton 
+source as an option using similar technology. The labs, including the UIUC, have fusion 
+power as an ultimate goal, but must focus on their funded near-term "spin-off" 
+projects. 
+At this point the IEC still receives no funding from DOE which remains focused on the 
+Tokomak route to fusion power. Thus, with little funding, slow progress has been made 
+in answering the key question of whether or not the IEC can be developed for fusion 
+power. If it can, the device would be simpler and smaller than a Tokamak, malking it an 
+extremely attractive option. In addition, its beam-like reactions (highly non-Maxwellian) 
+make the IEC very well suited for burning alternate ("advanced") fuels like D-3He and 
+p-11B which are much more environmentally favorable than conventional DT fusion . 
+Unfortunately Tokomaks are not well equipped to go forward to such fuels. 
+On the other hand, the use of non-power-producing IECs for other applications, such as 
+small neutron, proton, and x-ray sources, has been .amply demonstrated. Now, the 
+issue is how well and in what applications the IEC sources compete commercia lly with 
+other options such as accelerator target sources. 
+This report is intended to provide the reader with important insight into the physics and 
+technology of IECs relative to both power and neutron/proton/x-ray sources. With this 
+background, hopefu lly the reader can formulate an opinion about the potential for IEC 
+applications. Due to the limited funding for IEC research to date, much more has to be 
+done to actually demonstrate its application, especially for power production. Thus that 
+opinion must remain a personal one for the reader. 
+One other limitation of this report is that it largely provides details based on the 
+author's work on IECs over the last decade. Thus it will not do justice to the ongoing 
+work by others, notably at EMC2 on the Bussard Polywell device or the advanced 
+gridded IEC neuron/proton source development work at the U of Wisconsin, Kyoto 
+University, and Tokyo Institute of Technology. Some insight into these efforts is given 
+in comments and in references supplied, but the reader is encouraged to discuss that 
+work with those individuals directly. 
+UNCLASSIFIED/ /POI\ 0rr1e1At l?ISE 8Ptklf 
+4

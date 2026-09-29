@@ -1,0 +1,56 @@
+UNCLASSIFIED / / FO R-OFELGHi-USE-OPi
+
+rise time is the time required to heat the gas channel to full conductivity, and the
+inductive rise time is the delay caused by the addition of the switch into the circuit.
+There are two contributions to the inductive rise time, with L-e being the spark channel
+inductance and Ln the housing inductance. A shorter switch gap reduces the inductive
+time by lowering the channel inductance but also increases the electric field in the gap,
+reducing the resistive time and resulting in a faster rise time. Even though the switch
+electrodes are usually designed for minimal cross-sectional area at a given current, the
+very short electrode separation required can still result in high interelectrode switch
+capacitance. As mentioned earlier, it is also preferable to charge the switch very quickly
+to achieve an overvolted switching condition, and, therefore, very fast switches always
+have some level of pre-pulse. Because the PRR is also of great importance, hydrogen
+has been chosen most often for high-speed gas switching in UWB HPM sources.
+Switches of this type have achieved rise times of just over 100 picoseconds (ps) and
+PRRs of 1,500 pulses per second.
+
+Another type of gas switch meriting mention for its utility and indispensability in the
+HPM pulsed-power driver circuits is the hydrogen thyratron. The thyratron is a partial
+vacuum switch. Figure 1 shows what is known as the Paschen curve for air; however,
+all gases exhibit the same curve characteristics. At some product of pressure and
+electrode spacing, a minimum value of breakdown voltage is reached. While high-
+pressure gas switches operate in the region on the right side of the Paschen minimum,
+the hydrogen thyratron operates on the left side, beyond the Paschen minimum. The
+physics of voltage breakdown in this region results in smaller electrode spacing holding
+off higher voltages and reduced pressure at the same spacing enabling greater voltage
+holdoff. The single-stage thyratron operates at only tens of kilovolts, while high-
+pressure gas switches may operate at several hundreds of kilovolts. When coupled with
+a good pulse transformer, a properly chosen thyratron forms the heart of an excellent
+driver for HPM sources. The thyratron also has the capability to initiate breakdown
+using modest trigger levels (~1 kilovolt) and with nanosecond timing, allowing the use
+of multiple switches to share current.
+
+Breakdown Voltage vs. Pressure x Gap
+
+(Air)
+100000 —
+2 =
+= =
+® 10000 |_|
+£ =
+Ss -
+€ 4
+= 1000 =
+8 =
+= i pe
+© 1
+=“ 400 HEH il
+1. 00E-02 1.00E-01 1.00E+00 1.00E+01 1.00E+02 1.00E+03 1. OO0E+04
+
+Pressure x Gap - Torr Inches
+
+Figure 1. Paschen Curve for Air
+
+13
+UNCLASSIFIED / / FO. OFFECTAL USE-OnNtTT

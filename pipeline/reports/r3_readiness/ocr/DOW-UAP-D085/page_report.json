@@ -1,0 +1,137 @@
+{
+  "filename": "DOW-UAP-D085.pdf",
+  "generated_at": "2026-09-25T18:53:03.783151+00:00",
+  "page_count": 7,
+  "usable_text_chars": 169,
+  "stats": {
+    "native_good": 0,
+    "native_thin": 0,
+    "needs_ocr": 7,
+    "ocr_failed": 5,
+    "ocr_succeeded": 2,
+    "pages_ocrd": 7
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "native_quality": {
+        "page_number": 1,
+        "native_char_count": 10,
+        "printable_ratio": 1.0,
+        "alpha_ratio": 0.9,
+        "word_count": 1,
+        "replacement_char_count": 0,
+        "category": "ocr_failed",
+        "reason": "ocr returned empty; keeping native"
+      },
+      "final_category": "ocr_failed",
+      "text_method": "native",
+      "char_count": 10,
+      "text": ""
+    },
+    {
+      "page_number": 2,
+      "native_quality": {
+        "page_number": 2,
+        "native_char_count": 0,
+        "printable_ratio": 0.0,
+        "alpha_ratio": 0.0,
+        "word_count": 0,
+        "replacement_char_count": 0,
+        "category": "ocr_failed",
+        "reason": "ocr returned empty; keeping native"
+      },
+      "final_category": "ocr_failed",
+      "text_method": "empty",
+      "char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 3,
+      "native_quality": {
+        "page_number": 3,
+        "native_char_count": 0,
+        "printable_ratio": 0.0,
+        "alpha_ratio": 0.0,
+        "word_count": 0,
+        "replacement_char_count": 0,
+        "category": "native_thin",
+        "reason": "ocr_replaced_native (empty native text)"
+      },
+      "final_category": "native_thin",
+      "text_method": "tesseract",
+      "char_count": 8,
+      "text": ""
+    },
+    {
+      "page_number": 4,
+      "native_quality": {
+        "page_number": 4,
+        "native_char_count": 0,
+        "printable_ratio": 0.0,
+        "alpha_ratio": 0.0,
+        "word_count": 0,
+        "replacement_char_count": 0,
+        "category": "ocr_failed",
+        "reason": "ocr returned empty; keeping native"
+      },
+      "final_category": "ocr_failed",
+      "text_method": "empty",
+      "char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 5,
+      "native_quality": {
+        "page_number": 5,
+        "native_char_count": 0,
+        "printable_ratio": 0.0,
+        "alpha_ratio": 0.0,
+        "word_count": 0,
+        "replacement_char_count": 0,
+        "category": "ocr_failed",
+        "reason": "ocr returned empty; keeping native"
+      },
+      "final_category": "ocr_failed",
+      "text_method": "empty",
+      "char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 6,
+      "native_quality": {
+        "page_number": 6,
+        "native_char_count": 0,
+        "printable_ratio": 0.0,
+        "alpha_ratio": 0.0,
+        "word_count": 0,
+        "replacement_char_count": 0,
+        "category": "native_thin",
+        "reason": "ocr_replaced_native (empty native text)"
+      },
+      "final_category": "native_thin",
+      "text_method": "tesseract",
+      "char_count": 34,
+      "text": ""
+    },
+    {
+      "page_number": 7,
+      "native_quality": {
+        "page_number": 7,
+        "native_char_count": 0,
+        "printable_ratio": 0.0,
+        "alpha_ratio": 0.0,
+        "word_count": 0,
+        "replacement_char_count": 0,
+        "category": "ocr_failed",
+        "reason": "ocr returned empty; keeping native"
+      },
+      "final_category": "ocr_failed",
+      "text_method": "empty",
+      "char_count": 0,
+      "text": ""
+    }
+  ],
+  "combined_path": "pipeline/reports/r3_readiness/ocr/DOW-UAP-D085/combined.txt",
+  "production_writes": false
+}

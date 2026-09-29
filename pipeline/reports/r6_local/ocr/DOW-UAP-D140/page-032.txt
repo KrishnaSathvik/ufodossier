@@ -1,0 +1,35 @@
+... .
+· .
+UNCLASSIFIED//&Olil OiiiilCI0L Llili QPIL¥ 
+device. Therefore mobile devices, such as portable remote spaceborne terminals could 
+be typical users of such a navigational service. An example is depicted in Figure 19. 
+....... .., ........... 
+/II \ ' ./ I \ -..._'\. 
+/ ' \ ......i' I .., \ 
+~:.·.·.:··••......................................................... ................. !.. ........ I \ \\
+"·•••······· ~ .,.................................\..................~ 
+··• . ·•. .... " I \ ·~ 
+····•••..... .:·····............. (So/,-150) / \ (60,\20)
+',<::: I I 1 \ 
+Figure 19. HFGW Supplemented Remote Terminal Design 
+The navigational sensitivity of the HFGW receiver would depend on the frequencies 
+used in the HFGW FTS system, as the received CW HFGW signal would act as the 
+remote terminal's "built-in" frequency standard, replacing the need for internal crystal 
+oscillators or Cesium or Rubidium standards. An HFGW FTS carrier wave with a 
+frequency of 300 GHz with a wavelength of 1 mm would result in 3 pico-second type 
+time accuracy. The use of TDOA with these accuracies would allow for arbitrarily small 
+navigational errors. 
+3.3.1 Improvements Accruing from a HFGW Time Standard 
+The cost of the FTS infrastructure must be more than balanced by the benefit resulting 
+from that infrastructure if the cost is to be just ified . Given that the GPS already 
+provides adequate navigation services for most applications, navigational benefits alone 
+would not justify the cost of an HFGW FTS system. However, in the case of a universal 
+HFGW FTS, there are additional benefits associated with applying the frequency and 
+time standards to standard telecommunications problems. The universa l nature of the 
+HFGW frequency and time standards are especially helpful. The following 
+telecommunication benefits of an HFGW FTS system will be described in this section: 
+improvement in acquisit ion time from search space improvements, improvements in 
+modulation and coding efficiency from phase noise improvements, and improvements in 
+bandwidth efficiency from frequency noise improvements. 
+UNCLASSIFIED/ /FOR OiiiilCl.t.k HSI!! eflti 
+27

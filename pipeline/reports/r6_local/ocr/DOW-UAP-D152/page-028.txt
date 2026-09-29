@@ -1,0 +1,21 @@
+UNCLASSIFIED/ /fOR. 8FFI61.t..k W&i QJsll,¥ 
+(82) 
+leaving invariant the probability density If* lj/ . 
+To give gauge invariance a hydrodynamic interpretation, we compare (81) with the 
+force acting on a test body of mass m placed into the moving Planck aether. This force 
+follows Euler's equation and is 
+dv [av (v2) ]F=m-=m -+grad - - vxcurlv (83)dt 8t c • 
+Complete analogy between (81) and (83) is established if one sets 
+(84)meA :::: --v 
+e 
+According to (78) and (82), <I> and A shift the phase of a Schrodinger wave by 
+liq, = _ !!_ . A ds . (85) 
+C 
+The corresponding expressions for a gravitational field can be directly obtained from the 
+equivalence principle [3]. If 8v/8t is the acceleration and w the angular velocity of the 
+universe relative to a reference system assumed to be a rest, the inertial forces in this 
+system are 
+(86)F::::m[: +c&xr-rox(roxr)-&<2ro l 
+For (86) we write 
+UNCLASSIFIED//POlt orr1e11tt tt!II!! or~LY 
+24

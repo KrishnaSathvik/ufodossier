@@ -1,0 +1,25 @@
+UNCLASSIFIED// POR: OPPlelAL liSE 8PtLY 
+Figure 14. Schematic of Pulse Compression in Magnetized Plasma ...................... 16 
+Figure 15. Trapped Rainbow: A Waveguide With Negative Index Core Can Stop 
+Light .................................................................................................... 17 
+Figure 16. "Plasmonic Molecule" Exhibiting EIT ................................................... 18 
+Figure 17. True Multi-Layer Metamaterial With a Unit Cell Shown in Figure16: 
+Radiative Antenna (Single Metal Strip) Coupled to a Dark Antenna 
+(Two Perpendicular Metal Bars) .......................................................... 19 
+Figure 18. "Perfect" Narrow-Band Microwave Absorber ....................................... 20 
+Figure 19. Wide-Angle Plasmonic Absorber Based on Negative Index 
+Metamaterial ....................................................................................... 21 
+Figure 20. Specific Design of a Wide-Angle Plasmonic Absorber Based on Negative 
+Index Meta material Operating at A= 1550 nm ..................................... 22 
+Figure 21. Experimental Reflectivity vs. Wavelength and Theoretical Plot of 
+Reflectivity Contours ........................................................................... 23 
+Figure 22. Preliminary Attempts to Design a Better Absorber Using Complementary 
+MetaMaterials (U-shaped C-MM) ......................................................... 25 
+Figure 23. Engineering the Complex Reflectivity Coefficient Using the Concept of a 
+MetaMirror .......................................................................................... 26 
+Figure 24. Example of a Generic Chiral Metamaterial ........................................... 28 
+Figure 25. Example of Time-Irreversibility of Light Propagation Inside the Twisted 
+Fiber Core ............................................................................................ 29 
+Figure 26. THz Properties of an Electric Split Ring Resonator .............................. 31 
+UNCLASSIFIED/ {EAR OFEICll.k WSI!! eNti 
+iv

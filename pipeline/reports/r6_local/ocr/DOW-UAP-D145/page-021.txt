@@ -1,0 +1,36 @@
+UNCLASSIFIED//POlt Offl@IAL HS& QptkY 
+Chapter 2: Nuclear Fusion Rocket Design 
+CLASSIC NUCLEAR FUSION SCHEMES 
+Nuclear fusion, which powers the Sun and the stars, begins with the collision of two 
+lightwe ight atomic nuclei to create two new part icles with the release of energy. As an 
+example, if two specific isotopes of hydrogen (tritium and deuterium) were to collide, 
+the reaction would produce a neutron plus an alpha particle (ionized helium nucleus). 
+(2.1) 
+The 17.6 MeV of energy is split between the kinetic energy of the neutron (14.1 MeV) 
+and the helium nucleus (3.5 MeV) based on conservat ion of energy and conservation of 
+momentum. The kinetic energy is eventually converted into heat in a fusion reactor. 
+The 14.1 -MeV neutron will penetrate far into lead or steel shielding and can cause 
+considerable material damage. The ionized helium nucleus, however, will not go very 
+far through any material without being absorbed and dissipating its energy as heat. 
+There is a novel way to capture the energy from the ionized nucleus. As shown in 
+Error! Reference source not found., a magnetohydrodynamic (MHD) generator can b 
+e used to harness the energy from the helium ions and convert it directly into electricity. 
+The electricity could be used to power an ion drive on a spacecraft or provide power for 
+life support. Equation 2.2, known as the Lorentz force equation, illustrates which 
+parameters are involved and how they are related: 
+F =e (Vx B) (2.2) 
+Electodes on the Top and 
+Bottom of the Channel 
+Carry Electri cal Curre nt 
+Away 
+Di rection of the Magnet ic Field, B 
+Path of Ions 
+Between the 
+Magnets 
+Generate the Magnetic Field 
+Figure 5. Schematic Design of a Magnetohydrodyanamic (MHD) 
+Generator. 
+The velocity (V) of the ions interacts with the magnetic field (B) and forces positively 
+charged ions to move downward in the channel to an electrode where they impart an 
+UNCLASSIFIED/fF&A 9FFI€il.t.k Y&li QptkY 
+13

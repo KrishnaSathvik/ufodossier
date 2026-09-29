@@ -1,0 +1,44 @@
+UNCLASSIFIED/ /FOR OFFl@IAL 1!191!! 8HLY 
+Chapter 4: Summary and Predictions 
+The principal reason for attractiveness of plasma/MHD propu lsion concepts is 
+that they could in principle reach beyond the limits of conventional propulsion, 
+power, and aerodynamic technologies. It is thus near or beyond those limits that 
+novel plasma technolog ies will likely find their application. 
+The principal difficulties or flaws associated with the plasma and MHD 
+technologies are as follows: 
+• Weight and complex ity, especially if there is a need for a strong (>1 Tesla) 
+magnetic field in large volumes, and if electron beams are needed for 
+ionization. 
+• For MHD accelerator/thruster, power requirements could be overwhelm ing. 
+• MHD operation is accompanied not only by the work of ampere forces, but 
+also by irrevers ibilities and entropy generation due to Joule dissipation. This 
+reduces thrust and l sp of propulsion systems. 
+• In the absence of thermal ionization (i .e., at Mach< 12), complex ity and 
+power budget associated with nonequilibrium ionization all but make MHD 
+propulsion systems impossible. 
+In contrast, applications to reentry, global-strike hypersonic gliders, and 
+aeroassisted orbital maneuvering look very promising in the near future. The 
+"free" thermal ionization enables MHD devices with very modest B field and the 
+abilit y of plasma/MHD system to provide L/D far beyond that possible 
+conventionally; together, it makes these applications both feasible and desirable 
+for national defense. However, these types of applications are also likely to 
+attract attention of other nations, including (but not limited to) Russia, China, 
+and Japan, that have proven knowledge and experience required to accomplish 
+such missions and technologies. These nat ions have the capabilit y to develop 
+such novel technologies within several years and deploying those technologies 
+perhaps within 10 years. 
+The fortunes of MHD propulsion could increase dramatically if high-speed 
+(hypersonic) vehicles begin to carry powerful onboard electricity sources, such as 
+nuclear (fission or fusion) reactors. Since deployment of onboard nuclear power 
+is mostly a political rather than a technological issue, it is difficult to predict if 
+this going to occur and, if yes, when. 
+For spacecraft, the current tre nd of replacing chemical rockets with electric 
+propulsion systems will continue and probably will become the standard. Electric 
+systems can provide a much wider ra nge of operation (e.g., low-thrust fine 
+positioning/pointing, more frequent or nontradit ional maneuvers, and longer 
+times on station) than chemical systems can. The trend to larger spacecraft 
+power levels will further accelerate this trend. Ultimately, the high power levels 
+required (hundreds of kW to multi-megawatts) for certain missions will lead to 
+revisiting the use of nuclear fission reactors in space. 
+UNCLASSIFIEDf,F&R &FFl&IAI: W&E OHi:?/ 
+25

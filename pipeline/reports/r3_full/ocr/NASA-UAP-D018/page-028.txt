@@ -1,0 +1,83 @@
+M-913-65-04
+
+TRACKING AND DATA ACQUISITION
+
+The ground support network for GT-4 will be the Gemini Manned Space Flight
+Network (MSFN) illustrated in Figure 22 and tabulated in Table V. There will
+be, however, some minor modifications to the MSFN for the GT-4 mission.
+These changes for the GT-4 flight are primarily in locating the range tracking
+ships in positions most advantageous for the orbits to be flown.
+
+TABLE V - NETWORK REQUIREMENTS FOR GT-4
+
+Tracking Telemetry ade ;
+‘ - ,|Gemini launch Cc id
+Radar] Mistram | Acq. aid eae i
+Network aeary Mistram | Acq. a vehicle meses seine Manned
+
+Ground Station C | or others as listed FM Links = 16
+ ascg | OT others as listed. [Pom fem “inks |e [D/A] RsDP* [DCS] Tone] UHF| HE] Sites
+a aa
+
+erritt Island |MILA X
+Cape Kennedy/ |CNV/ GE-Mod III-G X Lx | xe | x} x | xi x] xx X
+Mission Control] MCC
+Patrick AFB _|PAFB ae eel ee ee
+
+Grand Bahamas | GBI
+Grand Turk GTl
+Antigua
+alkaria, Fla.
+Eleuthera Island
+Bermuda
+Canary Island
+T
+Rose Knot Victor
+Coastal Sentry
+Range Tracker T
+Pt Arguello, Cal] CA
+White Sands, NM| WH
+Eglin AFB
+
+MSC, Houston }|MCC
+elemetry Aircraft (d)
+
+NOTES:
+
+“vn
+
+mm OVFIOIZIAOIZTINa ls IA
+Alm > a|>
+
+6)
+Z\<
+
+,
+
+| xXof fT Xf
+
+ee ee ee ee ee es:
+=e
+
+a - Record Only c - Remoted to and from the MCC
+b - Remoted to MCC d - Three telemetry aircraft in primary recovery area
+* Remote Site Data Process (RSDP)
+
+a
+A
+
+The ground network support facilities include the MCC-Houston, Cape Kennedy
+(CNV), Air Force Eastern Test Range (AFETR) downrange stations, the MSFN,
+and Goddard Space Flight Center (GSFC). Real time tracking and the acqui-
+sition of data for post flight evaluation will be provided by optical and photo-
+graphic systems, MISTRAM, GE Mod III radar, C-band radar, and the Impact
+Predictor (IP) 7094. The network as listed in Table V will monitor spacecraft
+and launch vehicle PCM telemetry. The flight controller-manned stations, as
+shown in Table V will display selected spacecraft data for real-time evaluation
+and transmit these data to the MCC via teletype. The MCC will use both the
+Digital Command System (DCS) for transmitting commands. All the remote sites
+that are flight controller-manned, except for GYM, will have the DCS command
+capability. Tone commands for use by the Range Safety Officer will be used for
+manual fuel cutoff (MFCO), auxiliary second stage cutoff (ASCO), and Destruct.
+
+5/24/65

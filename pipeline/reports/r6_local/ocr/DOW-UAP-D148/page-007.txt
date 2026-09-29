@@ -1,0 +1,41 @@
+UNCLASSIFIED/fFOR. QFFIEl.t.L: Uii QD:I! X 
+Chapter 1: Theory Governing Objects in Flight 
+Many of the detection technologies for hypersonic aircraft are based on the properties of the 
+air flow around the object. The fluid mechanics affecting supersonic and hypersonic aircraft 
+are well described in textbooks on compressible flow by J.D. Anderson;2 •3 subsonic flow, 
+including the affect of boundary layers, is covered in the textbook by F. M. White. 4 
+Hypersonic flow usually refers to the regime where objects are moving faster than Mach 5, 
+but technically refers to the Mach range where pressure, temperature, and density ratios 
+across shock waves reach constant values, and this does happen at about Mach 5. Fluid flow 
+changes dramatically at Mach 1 defined at the point where the velocity of a projectile, V, 
+equals the local speed of sound, a, in the atmosphere: 
+M ='!_ (1) 
+a 
+Flow regimes are defined by the following: 
+• M < 1, subsonic flow 
+• M = 1, sonic flow 
+• M > 1, supersonic flow 
+• M > 5, hypersonic flow 
+The speed of sound varies with temperature and with t he type of gases in the atmosphere. A 
+simple equation for the speed of sound includes the rat io of specific heats, y, the gas 
+constant, R, and the temperature, T: 
+a=.JyRT (2) 
+For air at room temperature, y = 1.4, R = 287 J/kg -K, and T = 20° C or 293 K. The 
+subsequent speed of sound is 343 m/s (1,125 ft/s or 767 mph). It is easier for a projectile 
+to exceed the speed of sound at higher elevations since the temperature of the atmosphere 
+is lower, reducing the speed of sound and the subsequent velocity necessary to break the 
+sound barrier. 
+The viscosity of the fluid flowing around an object induces drag and retards its forward 
+motion. Supersonic flow has some of the viscous characteristics of subsonic flow, but adds in 
+the complication of shock waves. To understand the nature of how a projectile affects the 
+flow of fluid around it, consider the case of a subsonic projectile. 
+SUBSONIC FLOW AND DRAG 
+Subsonic flows, such as the flow shown in Figure 1, are heavily influenced by collisions 
+between molecules of air and the surface of the projectile. The equations for this interaction 
+were first developed by Sir Isaac Newton in the seventeenth century, where he determined 
+that fluids have a property called "viscosity" that is the cause of drag on projectiles. The key 
+parameter that affects subsonic fluid flow is the ratio of viscous forces to inertial forces, 
+where inertial forces are associated with the tendency for a moving fluid to keep moving in 
+the same direction. The ratio of these two forces is defined as the Reynolds Number, Re. 
+UNCLASSIFIED//FQA: QlililEl.t.L: W&li ONL'l 
+3

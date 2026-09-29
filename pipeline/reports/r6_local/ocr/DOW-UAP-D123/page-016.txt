@@ -1,0 +1,25 @@
+UNCLASSIFIED/ ,,roR 8FFI@IAL l:l!H! 9HLY 
+Figure 10. Artist's Rendition of a Four-Engine Positron SSRV (courtesy of Positronics Research LLC)26 
+Positron-Powered Rockets 
+A positron rocket offers significant advantages over nuclear fission and antiproton 
+rockets. 27 Nuclear fission reactors contain enormous amounts of highly toxic radioactive 
+material, and antiproton rockets produce radioactivity in surrounding materials by 
+interactions of high-energy mesons and gamma rays from antiproton annihilation. The 
+proposed nuclear fission gas core rocket and antiproton adaptations would release 
+radioactive fission fragments into the atmosphere. In contrast, positron rockets are 
+totally radioactivity free. 
+Second, in the event of an accidental detonation of the positron fuel, the prompt 
+(nanoseconds) burst of gamma rays can be shielded from humans on spacecraft. The 
+1/e absorption length of a 511-keV gamma ray in lead is 5.6 millimeters. A 13-
+centimeter (cm)-thick shield thus reduces the gamma ray flux by a factor 8.3 x 10-11 . 
+To illustrate, a human behind such a shield at a distance of 10 meters from a 100-mg 
+source of annihilating positrons would experience a whole-body radiation dose of 2 rem 
+(roentgen equivalent man), which is within the annual tolerance for radiation workers in 
+the United States. 
+The following sections investigate three positron rockets: solid core, gas core, and 
+photon. 28 In a solid-core positron rocket, positrons heat a hydrogen working fluid 
+through an attenuating solid such as tungsten. In a gas-core positron rocket, gamma 
+rays directly heat propellant through a one- or two-fluid process. In a photon positron 
+rocket, solid propellant is ablated from a surface bombarded by gamma rays. 
+UNCLASSIFIED/ ,'FOR. OFFI@IAL l:ISIE OHL\« 
+11

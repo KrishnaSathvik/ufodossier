@@ -1,0 +1,40 @@
+UNCLASSIFIED//P61t 6ffl@IIIIL HS£ 8HL\S 
+strong nuclear forces could also be described using QFT. The full theory, called the 
+Standard Model of particle physics, is arguably the most successful physical theory to 
+date. 
+Despite the successes of the Standard Model, incorporating gravitational interactions 
+using the methods of QFT has proven to be one of the most challenging problems facing 
+theoretical physics today. String theory is currently the best candidate for a quantum 
+theory of gravity (Reference 29). The divergences associated with point particle 
+gravitational interactions are removed in string theory via the extended nature of the 
+string. A review of string theory falls far outside the scope of this paper; however, the 
+theory contains numerous compelling features that deserve mention here. One of the 
+most discussed aspects of string theory is its prediction that additional dimensions of 
+space exist, and are indeed required for string theory to work. One of the predictions of 
+string theory is that these additional dimensions are extremely small, on the order of 
+10-35 m. However, there are also popular models which attempt to explain certain 
+aspects of nature that involve large extra dimensions which we will briefly introduce. 
+5.2 LARGE EXTRA DIMENSIONS 
+Models with large extra dimensions have enjoyed a revived interest in physics. This 
+began with the Arkani-Hamed, Dimopoulos, and Dvali (ADD) proposal to lower the 
+quantum gravity scale to the 10 to 100 TeV scale10 (accessible to the next generation 
+of particle accelerators) by embedding the Standard Model fields in a 3+ 1 dimensional 
+brane existing in a higher dimensional bulk spacetime (Reference 30, 31). Gravity is 
+free to propagate in the bulk, which effectively dilutes its strength. This idea was 
+inspired by M-theory, where it was recognized that the scale of quantum gravity could 
+be lowered from the Planck energy scale to the Grand Unification Theory (GUT) energy 
+scale (Reference 32-35). 11 The assumptions underlying the ADD model are: 
+• n-extra dimensions compactified on a torus with volume V,, = (2nr)'1 . 
+• Standard Model fields are localized to the brane. 
+• Gravity can propagate in the bulk. 
+• There is no cosmological constant in the bulk or on the boundary. 
+• The brane is stiff. 
+The bulk action for this model can be given by: 
+(5.2) 
+where g is the matrix determinant of the metric and the two tilde-quantities are the 
+4+n dimensional Planck mass and Ricci scalar, respectively. By integrating out the 
+extra dimens ions, it is simple to show that: 
+10 1 TeV = 1012 eV (1 eV = 1 .602 x 10-19 J) is a mass-energy scale used in elementary part icle physics. 
+11 Planck energy (flc5/G) 112 " 1028 eV; GUT energy > 1014 GeV (1 GeV = 109 eV). 
+10 
+UNCLASSIFIED/ ;roR OPFICIJ!ct tJ9I! e,~tv

@@ -1,0 +1,29 @@
+UNCLASSIFIED/ /FOR OFFI@IAk WSE 9Ptk\f 
+Figure 6. Apparatus for Ground State Figure 7. Alternative Apparatus for Ground State Energy 
+Energy Suppression: Casimir Segmented Suppression: Casimir Strip and Spacer-Channels 
+Tunnels 
+Microcavity fabrication to match the atomic ground states is daunting because there will 
+potent ially be fabrication irregularities that cause edge and surface effects which act 
+upon the part icles as they enter or exit the Casimir region. And it is not possible to drill 
+1.3 billion tunnels having diameters of 0.1 µm. However, it should be feasible to use 
+microchip technology to etch holes into the individual layers first and then assemble the 
+stack . Extremely fine coregistration and alignment of stacks would be an issue, but a 
+surmountable one. A much smaller number of layer pairs and tunnels would suffice for 
+a measurable demonstration of release of ZPE by this process. If such a small-scale 
+demonstration succeeds, larger versions that convert more energy could be built that 
+also take advantage of more efficient thermal-to-electrical energy conversion methods. 
+Also if successful, such apparatuses could be used to explore for secondary effects of 
+converting quantum vacuum energy into thermal, then electrical energy. 
+Further investigation by Puthoff et al. (Reference 28) was based on the prem ise that 
+the above principle is broadly applicable to other than just atomic ground states. In 
+their experiment, H2 gas was passed through a 1 µm Casimir cavity to suppress the ZPE 
+radiation at the vibrational ground state of the H2 molecule. The anticipated signature 
+for such a process would be an increase in the dissociation energy of the molecule. 
+Initial experiments, shown in Figure 8, were carried out at the Synchrotron Radiation 
+Center at the University of Wisconsin at Madison, where an intense UV beam is 
+available to disassociate gas molecu les. Unfortunately, problems with the synchrotron 
+beam (un related to the experiment) prevented a defin itive result from being obtained, 
+so the efficacy of this ZPE-extraction approach remains undetermined at the present 
+time. Further experimentat ion to investigate this hypothesis has yet to be completed. 
+UNCLASSIFIED/ /FOR OFFICI0L: 11ili QIU.,¥ 
+13

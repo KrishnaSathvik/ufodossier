@@ -1,0 +1,32 @@
+UNCLASSIFIED/fFOR. QFFIEl.t.L: Uii QD:I! X 
+St= 10/V 
+0 -~~----+--~ ............f--~~-~f-- .......... -~~-+---~~ ...... 
+1.E+0l 1.E+02 1.E+03 1.E+04 1.E+05 1.E+06 1.H07 
+Re 0 =VD/ v 
+Figure 3. Strouhal Frequency as a Function of Reynolds Number for 
+Flow Over a Circular Cylinder. 
+The high velocities present in the wake generate low pressures on the downstream side of 
+the projectile that pull the project ile backwards into the wake . This is defined as "wake" or 
+"form" drag and is a predominant cause of drag forces on aircraft or on any obj ect moving 
+through the atmosphere. The viscous forces that create the boundary layers on the surface 
+of a projectile also contribu te a small amount of drag, usually referred to as "skin friction." 
+Boundary layers and wakes also affect supersonic flow, but the effect of shock waves tends 
+to be the predominant mechan ism affecting flow around supersonic projec ti les. T otal drag 
+force, Fo, exerted on projectiles or aircraft is usually summarized by th is equation: 
+(4) 
+The drag force is dependent upon the density of the air, p, the frontal area of the aircraft, Ar, 
+the aircraft velocity, V, and the drag coeffic ient, Co. The drag coeffic ient is a function of the 
+geometry of the aircraft and the two "dimensionless" groups, Mach number, M, and Reynolds 
+number, Reo, that relate inertial, viscous, and elastic forces in the flow: 
+C0 =f (Re 0 , M , geoni et ry) (5) 
+Drag coefficients for various types of aircraft and projectiles are obtained from theory, from 
+computational fluid mechanics, or, most commonly, from experiments in wind tunnels. 
+These coefficients are usually presented in tables or in graphical form. 5, 6, 7 
+SUPERSONIC FLOW 
+Air is predominantly made up of molecules of nitrogen (78%) and oxygen (21 %). At room 
+temperature, air behaves as an ideal gas where the density, p, the pressure, p, and the 
+temperature, T, are related through a gas constant, R, which is a property of the air. The 
+ideal gas law gives the relationship between these values. The gas constant for air is 
+R = 287 J/kg-K. 
+UNCLASSIFIED//FOR QlililEl.t.L: W&li ONL'l 
+6

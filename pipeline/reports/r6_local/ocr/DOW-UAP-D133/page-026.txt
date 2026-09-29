@@ -1,0 +1,42 @@
+UNCLASSIFIED/ /FOR OFFI@IAI! WSE OHi!:¥ 
+lightlike interval, and in particu lar is never separated by a timelike interval that can go 
+backwards down the t ime stream, then t imelike loops are avoided, along with the 
+paradoxes they imply. 
+Figure 11 shows such a system. Entangled photons in the two arms of the system are 
+propagated through fiber-optic cables of equal length. Therefore, in the reference frame 
+of the system, the send and receive events are simultaneous, and, aside from the 
+latency associated with the reception of enough photons to estab lish the reception of a 
+signal bit, the communication is instantaneous but does not create a timelike loop. 
+BBO 
+litt.age Slits 
+Path to Le..,. - f 1km 
+1km 
+IR Pas s 
+Filur 
+I 
+I 
+IR Pass 
+Filter 
+Object Slits 
+Pa:th to Le:ns - f 
+VLP 
+351 
+Camera 
+n>tt 
+Figure 11. A Superluminal Nonlocal Communication System in Which the Communication Spans a 
+Spacelike Interval 
+XI. Example: Real-Time Earth Control of Mars Rover 
+Now consider the application of a " rover " operated at interplanetary distances, with 
+nonlocal communications used to provide rea l-t ime "virtual reality" control of the mobile 
+device . Figure 12 shows a schematic of the Earth-based operation of a Mars rover. A 
+base station on Mars would contain a high-intensity source of entang led photon pairs. 
+One stream of photons from the entangled pairs, after passing through image slits, 
+would be transmitted from the probe to an Earth control station, allowing a nonlocal 
+signal to be "sent" from the control station by a time sequence of choices of whether to 
+detect the stream of arriving photons as waves or particles . The other stream of 
+photons from the entangled pairs, after passing through object slits, would be detected 
+locally at the Mars base stat ion near the source and analyzed for the presence or 
+absence of an interference pattern, thereby "receiving" the nonlocal signal as a logical 
+"0" or "1," respectively. 
+UNCLASSIFIED/ /fOll Offl@IAI! WSIE OHi!:¥ 
+20

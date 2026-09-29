@@ -1,0 +1,188 @@
+--- PAGE 1 ---
+CLASSIFIED (+ FOR“FFt6? =
+
+Defense
+
+Intell nce
+Reference
+Document
+
+A SCéefense Futures
+
+01 November 2010
+
+ICOD: 20 July 2010
+
+-08-1011-003
+
+Aneutronic Fusion Propulsion
+
+CLASSIFIED//FOR FFICIAL E_ LY
+
+--- PAGE 2 ---
+
+
+--- PAGE 3 ---
+UNCLASSIFIED/,'P81t 8ffl01ilrt YSE 8HLlf 
+Aneutronic Fusion Propulsion 
+The Defense Intelligence Reference Document provides nonsubstant ive but 
+authoritative reference information related to intelli ence to ics or methodo lo ies. 
+Prepared by: 
+Technology Warning Division (DW0-4 ) 
+Defense Warning Office 
+Directorate for Analysis 
+Defense Intelligence Agency 
+Author: 
+AAP Person 83 
+Administrative Notes: 
+(U) COPYRIGHT WARNING: Further dissemination of the photographs in this publication is not 
+authorized. 
+This product is one in a series of advanced technology reports produced in FY 2010 under the Defense 
+Intelligence Agency, Defense Warning Office's Advanced Aerospace Weapon System Appl ications....-- ....... 
+(AAWSA) Program. Comments or questions pertai ning to this document should be addressed to ( · ---14A-.E..!'erson 
+IAAP Person 1 j AAWSA Program Manager , Defense Intelligence Agency, ATTN: JUIAF - DI/DWb-3,i' - • 
+"'Bfclg 6000, Washington, DC 20340-5100. 
+UNCLASSIFIED//FQA QFFIGltliL W&& 9HL¥
+
+--- PAGE 4 ---
+UNCLASSIFIED//POlt Offl@IAL WS& &NkY 
+Contents 
+Introduction ............................................................................................................ v 
+Chapter 1: Theory ................................................................................................. 1 
+Rocket Propulsion .............................................................................................. 1 
+Comparison of Specific Impulse for Various Rocket Designs .............................. 5 
+Radiation Shielding ............................................................................................ 6 
+Subatomic Particle Mass, Velocity, and Energy .................................................. 9 
+Nuclear Fission Rockets .......................................................................................................................... 10 
+Chapter 2: Nuclear Fusion Rocket Design ............................................................ 13 
+Classic Nuclear Fusion Schemes ....................................................................... 13 
+Fusion Initiation Methods ................................................................................. 14 
+Gravitational Confinement ............................................................................... 16 
+Magnetic Confinement Fusion (MCF) ................................................................ 16 
+Inertial Confinement Fusion (ICF) ................................................................... 16 
+Muon-Catalyzed Fusion .................................................................................... 17 
+Cavitation (Bubble) Fusion ............................................................................... 17 
+Rocket Design Using Fusion Energy ................................................................. 17 
+Chapter 3: Aneutronic Nuclear Fusion Schemes .................................................. 18 
+Chapter 4: Antimatter Propulsion ........................................................................ 20 
+Chapter 5: Aneutronic Fusion Propulsion Projects ............................................... 21 
+Nuclear Pulse Propulsion ................................................................................. 21 
+Other Aneutronic Rocket Designs ..................................................................... 22 
+Commercial Development .................................................................................... 22 
+Chapter 6: Speculation on Research Needs Over the Next 30 Years ..................... 25 
+Surface to Low-Earth Orbit (100 miles) .................................................................................................. 26 
+LEO to Mars (34 to 249 million miles) .............................................................. 27 
+UNCLASSIFIED/fF&A &FFI&I:.l.k W&li &NkY 
+ii
+
+--- PAGE 5 ---
+UNCLASSIFIED//POR. Offl@IAL WSli Qptk\f 
+LEO to the Moons of Jupiter and Saturn (460 to 940 million miles) .................. 28 
+LEO to Alpha Centauri (4.22 light-years or 24.8 trillion miles) ......................... 28 
+Chapter 7: Conclusions ........................................................................................ 29 
+Appendix A: Relativistic Rockets ......................................................................... 30 
+Appendix B: Aneutronic Fusion Rocket ................................................................ 32 
+Appendix C: Antimatter Annihilation Rocket ........................................................ 36 
+Appendix D: Relativistic Rocket Worksheet ......................................................... 38 
+Appendix E: Endnotes .......................................................................................... 41 
+Figures 
+Figure 1. Liquid-Fueled Chemical Rocket . ....................................................... vi 
+Figure 2. Mass Ratio Increases as Objects Approach Speed of Light ........ .. ...... 2 
+Figure 3. Spherical Radiation Shield Surrounding Point Source ....................... 8 
+Figure 4. Nuclear Fission Rocket Design ........................................................ 11 
+Figure 5. Schematic Design of a Magnetohydrodynamic (MHD) Generator ..... 13 
+Figure 6. Nuclear Fusion of Deuterium and Tritium ....................................... 14 
+Figure 7. Low-Temperature Fusion Reactions ................................................ 15 
+Figure 8. Fusion Ignition Energies for D-T, D-D, and D-He3 ........................... 15 
+Figure 9 . Aneutronic Fusion Schemes ............................................................ 18 
+Figure 10. Fusion of Hydrogen-1 and Boron-11 Produces 3 Alpha Particles .. 19 
+Figure 11. QED Rocket Design ....................................................................... 23 
+Figure 12. Time Dilation at Relativistic Velocities .......................................... 31 
+Figure 13. Maximum Achievable Velocity Versus Fuel Usage ......................... 33 
+Figure 14. Acceleration and Rocket "Clock" Ratio Vs Mission Time on Earth .. 33 
+Figure 15. Spreadsheet for Sample Mission to Alpha Centauri ........................ 34 
+Figure 16. Antihydrogen Atom ........................................................................ 36 
+UNCLASSIFIED/fF9A 9FFI&I:.l.k W&li Qptk\f 
+iii
+
+--- PAGE 6 ---
+UNCLASSIFIED //FOR-OFFECEALUSE-ONE~
+
+Tables
+
+Table 1: Specific Impulse for Various Rocket Engine Types .......:scscseseseseeeneeeees S
+
+Table 2: Rest Mass of Various Subatomic Particles .........:scseseseeeeseseeeeeeeeeneeenes 10
+
+Table 3: Specific Impulse for Selected Drives.........scssecssssenseeseeeeeeecescesseneeeeenes 35
+iv
+
+UNCLASSIFIED / +O R-OFFt6EA-USE-ONE
+
+--- PAGE 7 ---
+UNCLASSIFIED//POlt Offl@IAL WS& 9Nk¥ 
+Aneutronic Fusion Propulsion 
+Introduction 
+Space exploration is limited by existing propulsion technology. Up to now, chemical 
+rockets have been used to reach low-Earth orbit, the Moon, and the outer regions of the 
+solar system. Chemical rockets can use either solid or liquid fuel. Regardless of the 
+type of fuel, their design is similar to that shown in Figure 1. Oxygen is combined with 
+hydrogen or a hydrocarbon fuel in a combustion chamber where high temperatures and 
+pressures cause the exhaust to be ejected through a supersonic nozzle to provide 
+thrust to the rocket. The momentum of the fuel ejected through the nozzle provides 
+the force or thrust that accelerates the rocket forward. 
+There are many variations of chemical rockets, but they all suffer from the need to 
+carry copious amounts of fuel. Other methods have been proposed to decrease the 
+need to carry such a significant mass of fuel into space. Ion drives, for example, are 
+used to provide the very low thrust required to mainta in satellites in Earth orbit. The 
+"fuel" that they carry is xenon gas accelerated by electric fields. 
+Nuclear fission propuls ion has been proposed for space missions, and therma l nuclear 
+fission reactor rockets were constructed and tested at the Nevada Test Site through 
+Project Rover between 1956 and 1971. 1 In these rockets, a nuclear reactor provides 
+heat to liquid hydrogen through nuclear fission and ejects the hydrogen gas through a 
+Laval nozzle to generate thrust. While these rockets must still carry hydrogen fuel as a 
+propellant, these rockets can provide more than twice the performance of chemical 
+rockets by using heat through fission rather than reactive chemicals. The results of the 
+72 reactor tests conducted under Project Rover were very promising and culminated in 
+the successful 12-minute test of the Phoebus-2A NERVA (Nuclear Engine for Rocket 
+Vehicle Application) reactor that generated over 4 gigawatts of thermal power. One 
+problem associated with nuclear fission rockets is radioactive contaminants. These 
+contaminants in the exhaust make this technology impossible to use in launching 
+payloads from Earth. Additio nally, for applications in space, radiat ion protect ion must 
+be provided for the crew by adding heavy shielding materials or by locating the crew as 
+far as possible from the reactor propulsion system. 
+Nuclear fusion, as opposed to fission, provides another potential propulsion technology. 
+In a fusion propulsion system, isotopes of light elements are fused together under 
+extreme conditions to form heavier elements, releasing large amounts of thermal 
+energy. This thermal energy can be used to heat liquid hydrogen to high temperatures 
+and expand it through a Laval nozzle to provide thrust in a manner similar to that 
+shown in Figure 1. Typically, isotopes of hydrogen and helium would be used in fusion 
+propulsion systems. Deuterium is an isotope of hydrogen and can be separated from 
+the hydrogen in water. Fusion reactions are difficult to initiate due to the high 
+temperatu res and pressures required. Thermonuclear bombs, for example, combine a 
+fusion device with a nuclear fission bomb to provide the high temperatures required to 
+initiate the fusion reaction. Regardless of the conditions required to induce nuclear 
+fusion, the energy release is large. From propulsion standpoint, an advantage of fusion 
+over fission is that for a given amount of thrust, the fusion reaction requires less fuel 
+than either fission or chemical propulsion systems. 
+Fusion reactors using deuterium or trit ium fuels are easiest to initiate; however, they 
+generate significant amounts of neutron radiation. This is a hazard for the crew on a 
+UNCLASSIFIED/fF9A 9FFI&I:.l.k W&li 9Nk¥ 
+V
+
+--- PAGE 8 ---
+UNCLASSIFIED//POR. Offl@IAI:: ~S& Qptk\f 
+space ship, and there is a high probability that neutrons produced by fusion reactors 
+would escape into space without providing much of their energy to a hydrogen 
+propellant. Other fusion reactions using isotopes of helium and lithium will generate 
+only charged particles, such as protons, that travel very short distances before giving 
+up all of their energy as heat. These "aneutronic fusion" reactions take place without 
+neutron production and decrease the need to carry large amounts of radiation shielding 
+material for the crew. The energy from charged particles generated by aneutronic 
+fusion can also be captured in conductive coils and converted directly into electricity. 
+Aneutronic fusion promises to be an important mechanism for future space propulsion, 
+although novel accelerator or laser systems must be researched and developed in order 
+to initiate, sustain, and control the fusion reaction. 
+Another futuristic method of spacecraft propulsion involves the use of antimatter. 
+Antimatter includes antiprotons, ant ineutrons, and positrons (anti-electrons). Although 
+this propulsion process may be the most efficient, antimatter has

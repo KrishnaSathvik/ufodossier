@@ -1,0 +1,46 @@
+UNCLASSIFIED/ /f8R 8FFIGI/Jk W&li QIIL¥ 
+Contents 
+Chapter 1: Nanosatellite Technologies .................................................................. 3 
+Chapter 2: Laser Lightcraft Nanosatellite Propulsion .............................................. 11 
+Chapter 3: Laser Lightcraft Weapon Mission Selection Study .................................. 27 
+Chapter 4: Summary of Multi-Megawatt Laser Study for Lightcraft Propulsion 
+Applications ..................................................................................................... 42 
+Chapter 5: Conclusion ...................................................................................... 68 
+References ....................................................................................................... 71 
+Figures 
+Figure 1. Air Force X-25LR Laser Lightcraft .......................................................... 12 
+Figure 2. AFRL Test Vehicle in Vertical Flight ................................ ........................ 14 
+Figure 3. Time-Lapse Photo of a Lightcraft Undergoing an Outdoor Vert ical Flight Test 15 
+Figure 4. Lightcraft Flight -Test Vehicle Used in Horizontal Guide -Wire Flight Tests ...... 16 
+Figure 5. Lightcraft Undergoing Horizontal Guide-Wire Flight Test ........................... 16 
+Figure 6. Lightcraft Undergoing Horizontal Guide-Wire Flight Test ........................... 17 
+Figure 7. Lightcraft Concept .......... ...... ................ ... .......... ........... .......... ............ .18 
+Figure 8. Lightcraft Trajectory and Associated Pointing Angles ................................. 19 
+Figure 9. Lightcraft Vehicle Evolution ... ................. ..... ........ ............. .......... ........... 20 
+Figure 10. Attenuation Effects on Captured Laser Beam Power................................ 22 
+Figure 11. Influence of Trajectory and Laser Wavelength on Captured Power ............. 22 
+Figure 12. Captured Laser Power vs. Increasing Range from 11.2 µm CO2 Laser ........ 23 
+Figure 13. Influence of Lightcraft Range and Pointing Angles on Captured Power........ 24 
+Figure 14. Ground/Sea-to-Space Concept ............................................................. 27 
+Figure 15. Air-to -Space Concept . ........................................ .......... ............ ......... .28 
+Figure 16. Schematic of Power Oscillator Optics .................................................... 44 
+Figure 17. Schematic of MOPA ............................................................................ 45 
+Figure 18. Schematic of the Laser N2/CO2/H2 Gas Flow System ................................ 45 
+Figure 19. Northrop Grumman's Joint High Power Bulk Slab Solid-State Laser .......... .48 
+Figure 20. DARPA's High Energy Liquid Laser Area Defense System ......................... 50 
+Figure 21. Phase Change Materials Allow Storage of Large Intermittent Heat Loads 
+While Slow Regeneration Removes Heat from Aircraft ............................................ 52 
+Figure 22. Typ ical HPFL MOPA Design ... ...................................... ......................... 54 
+Figure 23. Fiber Laser Beam Combining Techniques ............................................... 54 
+Figure 24. Pumping Fiber Lasers ......................................................................... 56 
+Figure 25. Large and Small Diameter Fiber Lasers ................................................. 56 
+Figure 26. Single Mode Fiber Laser Modules .......................................................... 57 
+Figure 27. Multimode HPFLs ................................ ............................................... 57 
+Figure 28. Free-Electron Laser............................................................................ 58 
+Figure 29. Free-Electron Laser Mechanism ............................................................ 58 
+Figure 30. Free-Electron Laser Electron Beam Phase-Space Evolution ....................... 59 
+Figure 31. Recirculating-Beam FEL System ........................................................... 60 
+Figure 32. High-Power FEL Optical Resonator ........................................................ 62 
+Figure 33. Notional Long Range HEL Beam Control System ..................................... 64 
+UNCLASSIFIED,tfFQA QFFIGIAI:: 1!181: 8HLY 
+iii

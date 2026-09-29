@@ -61,6 +61,20 @@
     border: 1px solid var(--rule);
     color: var(--ink-dim);
   }
+
+  .stamp {
+    display: inline-block;
+    font-family: var(--font-mono), ui-monospace, monospace;
+    font-weight: 700;
+    font-size: 11px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    padding: 5px 10px;
+    border: 2px solid var(--critical);
+    color: var(--critical);
+    line-height: 1;
+    white-space: nowrap;
+  }
 }
 
 /* Hide MapLibre zoom/nav controls on mobile */

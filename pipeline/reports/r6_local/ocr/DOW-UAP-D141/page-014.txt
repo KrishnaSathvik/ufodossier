@@ -1,0 +1,35 @@
+UNCLASSIFIED/ (FOR OFEICI0k YSE 8Htt 
+Note that the hyper-lens concept does not require employing a bulky near-field 
+scanning optical microscope. However, the practical implementation of the hyper-lens is 
+by no means simple. The original implementation required depositing the sample on the 
+curved surface of the hyper-lens. A more practical implementation of the super-lens has 
+been theoretically proposed by another group (Reference 26). The concept is shown in 
+Figure 8. The hyper-lens involves an array of thin metallic wires converging towards the 
+tip. As is demonstrated, a dense array of metal wires separated by much less than the 
+wavelength constitutes a metamaterial with the indefinite perm ittivity tensor. 
+Specifically, the tensor component along the wires is given by: 
+(3) 
+where the z component is along the wires and perpendicular direction is normal to the 
+wires. Because the only propagating waves are the TEM waves satisfying the 
+o/ =k; c2 dispersion relation, this meta-medium is strongly anisotropic and supports 
+sub-wavelength waves which perform imaging. The spatial resolution is given by the 
+spacing between wires. Figure 8 (right panel) shows the magnified image of a small 
+('A/25) object placed at the tip of the hyper-lens. The magnification factor is Sx. 
+5 
+30-
+20. 2 
+15-
+5-. 
+0 
+-4 :· 
+-5--------------------1 o __. 0 X !L0-5 5 
+5 
+-5 -5 
+Figures. Hyper-Lens Based on a Converging Array of Metal Wires. A small object can be placed at the tip, 
+illuminated from the top, and magnified by the expanding array of wires. Left panel : schemat ic. Right panel: A./25 
+object magnified by a factor Sx by the expanding hyper-lens. This hyper-lens can operate at mid-IR frequencies . 
+(Reference 26) 
+Another concept for sub-wavelength imaging employing metamaterials is the so-called 
+Far-Field Super-Lens (FSL). The concept is pioneered in Reference 27. The idea is 
+10 
+UNCLASSIFIED/ {EAR OFFICI.IJ.k W81!!! Britt

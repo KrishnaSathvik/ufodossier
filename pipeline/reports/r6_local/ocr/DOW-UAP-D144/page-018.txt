@@ -1,0 +1,65 @@
+UNCLASSIFIED/ ,'FOR OFFI@IAI:: WSE ONl::Y 
+Crew Size Considerations 
+The last aspect to take into account as a consequence of mixed operati onal r egimes is 
+that of the crew size. For short-dura ti on missions (less than a few hours) , it is 
+reasonable to conceive of vehicles with only one pilot. For more comp lex missions, 
+addit ional crew will be required, and thus addit ional displays and contro ls specific to 
+thei r tasks will be required . F inally, for long-dura tion missions, sufficient crew will be 
+required to carry out its mission and maintain opt imal vehicle performa nce. These 
+changes-for accommodat ing the roles and responsibilit ies of crew in relat ion to the 
+overall mission-are likely to be the same as those disti nctions in trad itional vehicles 
+(e.g. , cars versus c ruise ships). Those changes typ ically include a hiera rchical 
+organization, which is independe nt of the issues of propuls ion physics. 
+Essential elements will include monitor ing and controll ing the 1-g internal life-support 
+environmen t as well as ensuri ng the long- term health of the crew . 
+Full Span of Speeds 
+I n addition to inertial effects previously addressed, the implicat ions due to high speed 
+remain. Accommodating the react ion time of the pilot is critical. The extreme high 
+speed of breakthrough spacecraft will demand that automated flight contro ls take 
+precedence over the pilot's manua l flig ht control. 
+Automated contro ls for aircraft and even for automobiles are an ever -improving 
+technology. For breakthrough flight, these technologies will be mandatory and will also 
+have to include options for maneuvering near ground, into orbits, and t hrough deep 
+space. This should come as no surp rise, since the advantages of having automated 
+flight contro ls warrant their use even if pilot react ion times were not an issue. 
+Table 1. Comparing Reaction Time to Distance Traversed at Various Speeds 1 
+Speed Distance Traversed in l Second 
+mph km/h C Feet Meters Miles Km 
+Walking 2 3 3 1 
+Driving Around Town 40 64 60 18 
+Commercial Air Flight 500 800 730 220 
+Hypersonic Flight 
+Low Earth Orbit 
+4,000 
+17,500 
+6,400 
+28,000 
+0.00001 
+0.00003 
+5,900 
+26,000 
+1,800 
+7,800 
+1 
+5 
+2 
+8 
+Deep -Space Probe 35,000 56,000 0.00005 51,000 16,000 10 16 
+Nonrelat ivistic Flight 60 
+Million 
+97 
+Million 0.09 89 Million 27 Million 17,000 27,000 
+Relat ivistic Flight 400 
+Million 
+650 
+Million 0.60 590 Million 180 Million 110 
+Thousand 
+180 
+Thousand 
+1 The distances traversed while waiting for the pilot to react are reasonable for speeds slower than hypersonic 
+fl ight . If traveling at hypersonic speeds near the ground, however, the situation is different . At some point, 
+regardless of the skill of the pilot, an automated system will be needed. Also note the huge disparity between the 
+fastest achieved speeds (deep-space probe) in comparison to nonrelativistic flight. This disparity of three orders of 
+magnitude is a clear statement about the state of our technology when contemplating deep-space flight. 
+UNCLASS IFIE D/fFOA. OFFICIO ls. Plili ONls.¥ 
+13

@@ -1,0 +1,21 @@
+UNCLASSIFIED/,'rOR: orrlCIAL USE O14Lf 
+SUMMARY OF EMERGENT HIGH-POWER SOLID-STATE AND FREE­
+ELECTRON LASER TECHNOLOGIES 
+Bulk Slab Solid-State Laser 
+Under the auspices of the Joint High Power Solid-State Laser (JHPSSL) program, 
+Northrop Grumman broke the all-important 100 kW beam power threshold in early 
+2009 by firing a 7-amplifier chain bulk slab solid-state laser (BSSSL) that produced a 
+beam output power of almost 106 kW (see Figure 19). Each amplifier chain is 
+assembled with several high-gain power modules. The laser operated for more than 
+five minutes, achieved electro-optical efficiency of 19.3%, and reached full power in 
+less than 0.6 seconds with a beam quality of better than 3.0, Whereas the test 
+demonstration saw five minutes of continuous operation for the laser, altogether the 
+system has been operated at above 100 kW beam power for a total duration of more 
+than 85 minutes. Adding an eight amplifier chain that the system was designed for will 
+increase the beam power to 120 kW. 
+Figure 19. Northrop Grumman's Joint High Power Bulk Slab Solid-State Laser (courtesy of 
+the Directed Energy Professional Society). 
+Even though 100 kW beam power has long been the proof-of-principle sought for 
+weapons -class lasers, it should be noted that many militarily useful effects can be 
+UNCLASSIFIED{fFOA 9FFH31AL ~8! 8HLY 
+48

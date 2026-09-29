@@ -1,0 +1,105 @@
+(6) Original part number (if there is serialization within the original part number) .++
+
+(7) Lot or batch number (if there is serialization within the lot or batch number) .++
+
+(8) Current part number (optional and only if not the same as the original part number) .++
+(9) Current part number effective date (optional and only if current part number is used) .++
+(10) Serial number (if concatenated unique item identifier is used) .++
+
+(11) Description.
+
+++ Once per item.
+
+(f) The Contractor shall submit the information required by paragraphs (d) and (e) of this
+clause in accordance with the data submission procedures at http://www.a cq.osd.mil/dpap/pdi/uid/
+
+data_submission_information.html.
+
+(g) Subcontracts. If the Contractor acquires by subcontract, any item(s) for which unique item
+identification is required in accordance with paragraph (c) (1) of this clause, the Contractor shall
+include this clause, including this paragraph (g), in the applicable subcontract (s).
+
+(End of clause)
+
+I.8 252.211-7004 ALTERNATE PRESERVATION, PACKAGING, AND PACKING (DEC 1991)
+
+(a) The Offeror may submit two unit prices for each item--one based on use of the military
+preservation, packaging, or packing requirements of the solicitation; and an alternate based on use
+of commercial or industrial preservation, packaging, or packing of equal or better protection than
+the military.
+
+(b) If the Offeror submits two unit prices, the following information, as a minimum, shall be
+submitted with the offer to allow evaluation of the alternate--
+
+(1) The per unit/item cost of commercial or industrial
+preservation, packaging, and packing;
+
+(2) The per unit/item cost of military preservation, packaging,
+and packing;
+
+(3) The description of commercial or industrial preservation,
+packaging, and packing procedures, including material
+specifications, when applicable, to include--
+
+(1) Method of preservation;
+
+(ii) Quantity per unit package;
+
+(iii) Cleaning/drying treatment;
+
+(iv) Preservation treatment;
+
+(v) Wrapping materials;
+
+(vi) Cushioning/dunnage material;
+
+(vii) Thickness of cushioning;
+
+(viii) Unit container;
+
+(ix) Unit package gross weight and dimensions;
+
+(x) Packing; and
+
+(xi) Packing gross weight and dimensions; and
+(4) Item characteristics, to include--
+
+(i) Material and finish;
+
+(ii) Net weight;
+
+(iii) Net dimensions; and
+
+(iv) Fragility.
+
+(c) If the Contracting Officer does not evaluate or accept the Offeror’s proposed alternate
+commercial or industrial preservation, packaging, or packing, the Offeror agrees to preserve,
+package, or pack in accordance with the specified military requirements.
+
+(End of provision)
+
+I.9 252.211-7006 RADIO FREQUENCY IDENTIFICATION (FEB 2007)
+
+(a) Definitions. As used in this clause-
+
+"Advance shipment notice" means an electronic notification used to list the contents of a shipment
+of goods as well as additional information relating to the shipment, such as order information,
+product description, physical characteristics, type of packaging, marking, carrier information, and
+configuration of goods within the transportation equipment.
+
+"Bulk commodities" means the following commodities, when shipped in rail tank cars, tanker trucks,
+trailers, other bulk wheeled conveyances, or pipelines:
+
+(1) Sand.
+
+(2) Gravel.
+
+(3) Bulk liquids (water, chemicals, or petroleum products).
+
+(4) Ready-mix concrete or similar construction materials.
+
+(5S) Coal or combustibles such as firewood.
+
+(6) Agricultural products such as seeds, grains, or animal feed.
+
+PAGE 21 OF 59 HHM402-08-C-0072

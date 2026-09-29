@@ -1,0 +1,39 @@
+UNCLASSIFIED/ /FOR OFFI@IAL WSE QptLY 
+J., ~ -11111
+0 _o 
+,. 0 ]' 
+1 
+b b 
+______,___________ 1·---+---~--------- 7· 
+E out 
+Figure S. Energy Released from Ground State Suppression of Hydrogenic Atom in a Microcavity. (rb = 
+free-space Bohr orbit radius, fb' = suppressed Bohr orbit radius, ,, = resonant wavelength of Bohr orbit, and E out = 
+released energy) . 
+Consider the possibility that the decay to a new sub-Bohr ground state would involve 
+gradual release of energy in the form of heat, rather than a sudden optical radiation 
+signature. Since the binding energy of the electron is 13.6 eV, 8 it is estimated that the 
+amount of energy released in this process could be on the order of 1 to 10 eV for 
+injection of the hydrogen atom into a Casimir cavity of d = 250 A. Furthermore, 
+consider the possibility that when the electron exits the cavity it would reabsorb energy 
+from the zero-point field and be re-excited to its normal state. If these conjectures 
+were to be verified by experiment, then the energy extracted in the process comes at 
+the expense of the zero-point field, which in the SEO interpretation propagates at the 
+speed of light throughout the universe. In effect the energy would be extracted locally 
+and replenished globally. The secondary consequences on other phenomena, if this 
+energy conversion were to succeed, have not yet been investigated. However, on a 
+cautionary note, the conflicts between SEO and QED theories (discussed in Section V) 
+raise questions as to whether the conjectured approach discussed here is viable. This 
+issue is perhaps best addressed by experiment for its resolution. 
+In terms of an experimental test, consider using monatomic gases or liquids flowing in 
+a block with Casimir tunnels, which has the following attributes: 1) no dissociation 
+process is required for monatom ic gases or liquids, 2) heavier element atoms are 
+approximately two to four times larger than hydrogen and thus can utilize and be 
+affected by a larger Casimir cavity, 3) heavier elements have numerous outer shell 
+electrons, several of which may be simultaneously affected by the reduction of zero­
+point radiation in a Casimir cavity. 
+All of the noble gas elements contain ns electrons. He (Z = 2, r = 1.2 A) has two ls 
+electrons. Ne (Z = 10, r = 1.3 A) has two each of ls and 2s electrons. Ar (Z = 18, r = 
+1.6 A) has two each of ls, 2s, and 3s electrons. Kr (Z = 36, r = 1.8 A) has two of each 
+8 1 eV = 1.602 x 10-19 J. 
+UNCLASSIFIED/ /FOR OFFICI0L: 11ili QIU.,¥ 
+11

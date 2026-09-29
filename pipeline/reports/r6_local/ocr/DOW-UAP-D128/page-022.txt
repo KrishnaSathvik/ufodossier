@@ -1,0 +1,49 @@
+UNCLASSIFIED/}FOR: OFFIEIAL 1.tSE o••tlf 
+non-thermal, effects, and so much of the current literature is of little relevance for this 
+review [37]. That said, the Standards of the FCC (Federal Communications 
+Commission), WHO (World Health Organization), and other relevant industrial hygiene 
+and safety organizations comprehend the effects {at the high end} of acute exposures. 
+From [37] we see some interesting comments {Table One} 
+Table 1. LIMITS FOR MAXIMUM PERMISSIBLE EXPOSURE 
+Frequency Electric Field Magnetic Field Power Density Averaging 
+Range (MHz) Strength (E) Strength (H) (S) Time [E]2 [H]2 
+(V/m) (A/m) (mW/cm2) or S (minutes) 
+0.3-3.0 614 1.63 (100)* 6 
+3.0-30 1842 4.89 (900)* 6 
+30-300 61.4 0.163 1.0 6 
+300-1500 6 
+1500-100000 5 6 
+*Plane-wave equivalent power density 
+NOTE: Occupational/controlled limits apply in situations in which persons are exposed 
+as a consequence of their employment, provided these persons are fully aware of the 
+potential for exposure and can exercise control over their exposure. Limits for 
+occupational/controlled exposure also apply in situations when an individual is transient 
+through a location where occupational/controlled limits apply provided he or she is 
+made aware of the potential for exposure. In the United States, the FCC enforces limits 
+for both occupational exposures in the workplace and public exposures. The exposure 
+limits are variable according to the frequency in megahertz and the duration of 
+exposure time {6 minutes for occupational and 30 minutes for public exposures}. Table 
+One shows exposure limits for occupational and uncontrolled public access to 
+radiofrequency radiation such as is emitted from AM, FM, television and wireless 
+sources through the air. As an example, 583 microwatts/cm 2 (µW/cm 2) is the public 
+limit for the 875 MHz cell phone wireless frequency and 1000 µW/cm 2 is the limit for 
+PCS frequencies in the 1800 - 1950 MHz range averaged over 30 minutes. 
+That is: we understand well that for 6 minutes {the same order of magnitude for which 
+we are interested in and concerned about unintended effects} of anomalous near-field 
+exposures ...six minutes at the above levels constitute the point at which {from other 
+unquoted industrial hygiene definitions} for RF & NIEMR tissues heating of less than 0.5 
+degree C, locally to the dermis, will occur. Thus, when one hears reports that definitive 
+heating and even erythema and later second-degree burns are suffered, one can 
+reasonably infer these levels have been surpassed! [2,4, & Green, 2009 Technical 
+Study 10]. 
+Also, in June, 2007, the WHO ELF (Extremely Low Frequency) Environmental Health 
+Criteria Monograph, EMF Program released its ELF Health Criteria Monograph. In the 
+report, they stated: "Acute biological effects have been established for exposure to ELF 
+electric and magnetic fields in the frequency range up to 100 kHz that may have 
+adverse consequences on health. The metric for measurement is specific absorption 
+rate (SAR) and is expressed in watts per kilogram of tissue." 
+The limit for absorption of radiofrequency radiation is limited to 1.6 W/kG within 1 gram 
+of human tissue. The SAR criteria to be used are specified below and apply for portable 
+devices transmitting in the frequency range from 100 kHz to 6 GHz. The limits used for 
+UNCLASSIFIED/fFOA OFFIQI.t.k Wili Qfslk¥ 
+15

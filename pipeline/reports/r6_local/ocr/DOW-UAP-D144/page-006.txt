@@ -1,0 +1,43 @@
+UNCLASSIFIED/ ,'FOR OFFI@IAL WSE QptLY 
+Chapter 1: Predicting Implications of Propulsion 
+Breakthroughs 
+MARCH OF PROGRESS: REVOLUTIONARY PROPULSION PHYSICS 
+Breakthroughs in propulsion physics (such as the control over gravitational or inert ial 
+forces, propellant-less space drives, and even faster-than-light travel) are not 
+imm inent; however, enough progress has been made to allow for thoughtful 
+speculation about their nature and implications. As a preview, the implicat ions to 
+cockpit design include added degrees of motion, combination of operat ional regimes 
+(near ground, orbit, and beyond), greater range of speed (from zero-speed hover to 
+beyond light speed), and loss of familiar motion cues (pilot's inertia and visual cues) 
+result ing from the separat ion of external and internal environments . 
+The primary reference used to predict these possibilities is the book Frontiers of 
+Propulsion Science [Millis & Davis, 2009], 1 particu larly chapters 3, 4, and 15. This book 
+may be the first-ever scholarly compilation of science pertaining to breakthrough 
+flight-methods sufficiently advanced to enable human voyages to other star systems. 
+The book examines a wide range of works, offering introductory explanations and 
+comparisons between approaches and identifying high -priority unknowns needing 
+deeper study. References to specific ideas and issues cite that book and other original 
+works. 
+Setting Ideal Performance as Design Target 
+This report focuses on the most significant likely differences between contemporary 
+cockpits and cockpits in the era of breakthrough flight. Possibilities that imply the most 
+demanding changes are considered first, and explanations of the correlations between 
+the propuls ion characteristics and resulting cockpit features are provided . Looking to 
+the far future, this study evaluates the impact of having achieved the following 
+breakthrough advancements: 
+• Control over grav itational and inertial forces: 
+- The craft is propelled by interacting with the properties of the space-time and/ or 
+inertial frames surrounding the craft - and can accelerate at g levels beyond 
+human endura nce. 
+- The environment inside a craft can be sustained anywhere between 0 g and 1 g 
+(m inimum range) without regard for either the motion of the craft or its outside 
+gravitational environment. 
+• Faster-than -light (FTL) speeds are possible by having maste red control over those 
+aspects of nature that impose the light-speed limit. However, due to reasonable 
+relativist ic projections of the energy required for propulsion coupled with the limits 
+of the human lifespan, it is reasonable to expect that travels will be limited to within 
+our galaxy. For the sake of bracketing the scope of coverage, this study assumes 
+that practical star flight will be limited to a 100-l ight -year radius around our Sun. 
+Even with this constraint, thousands of star systems are within that range. 
+UNCLASSIFIED/fFOA: OFFICIO la Plili Oralla¥ 
+1

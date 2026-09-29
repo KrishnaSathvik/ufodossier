@@ -1,0 +1,51 @@
+UNCLASSIFIED/ /EAR OEFIClt.k WSIE ertt I 
+THE CLOSED BOX AND FAULT TOLERANCE 
+In traditional silicon transistor circuits, once a bit is set to 1 or O by a gate or other device 
+locking the output voltage, that value is expected to remain through subsequent clock cycles 
+until deterministically changed.h Additionally, traditional circuits behave by the same rules for 
+each clock cycle; that is, as more information is processed, repeated gate operation does not 
+deteriorate the bit latching mechanism. This behavior is achieved by constantly providing 
+energy to the circuits. Any interruption in this constant need for power from the outside and 
+the integrity of the information in the computing circuit is lost. 1 
+A fundamental principle of quantum mechanics is that any external influence on a system 
+necessarily disturbs the state of that system. This influence could be external disruption or 
+internal leakage - either interaction will change the internal quantum state. This destructive 
+process is known as decoherence. External influences will disturb the system and thus the 
+circuits need to be isolated from the rest of the universe, also known as the 'closed box' 
+requirement. 
+Trial to trial variations in a quantum circuit produce an increasing deviation from an initial 
+phase as the wave function evolves. This trial-to-trial deviation causes decoherence on a 
+timescale termed T2*. Although a single trial in a quantum circuit could retain coherence 
+longer than T2*, absent external influence the isolated internal circuit components must 
+eventually come to thermal equilibrium through random processes: this occurs on timescale 
+TL Moreover, the closed box cannot be perfect since a useful device requires some kind of 
+input and output, thus some small interaction with the external environment is necessary. 
+Random interactions with the environment from this isolation 'leakage' will dephase internal 
+signals on timescale T2. These three time constants that describe the internal signal decays 
+are very similar to the same named quantities in nuclear magnetic resonance (NMR). NMR is 
+indeed a technology path under development for quantum circuits. Each technology and 
+hardware design will be characterized in its isolation from external and internal influences by 
+T2* (stable repeatability), Tl (resistance to entropy), and T2 (isolation from the rest of the 
+universe). 
+No design can be completely free of decoherence and the next consideration is how much 
+decoherence is acceptable, or more precisely, what is the fault tolerance threshold for 
+successful operation? Fault tolerance isn't much of a consideration in traditional processing 
+architecture,i although it is a major consideration in storage and communication of 
+information. To illustrate fault tolerance, consider a scheme of hard disk storage 
+configuration where each 8-bit byte is written across 9 disks in a stripe-set configuration 
+(one bit per disk, read in parallel). The extra disk holds parity information about the byte. 
+Consecutive bytes shift the location of all bits one disk so the parity information isn't all 
+stored on the same disk.k In the event one disk fails, each byte can be reconstructed from 
+the other 8 disks using a software algorithm that automatically starts when the disk failure is 
+detected. The broken hardware ca n be replaced and the data reconstructed while the system 
+is operating in this slower 'limp' mode. This storage system is said to be fault tolerant. The 
+h For those new to quantum phenomena, it may seem redundant to use the phrase "deterministically changed ." The 
+phrase emphasizes the point that absent any error, classical circuits are always changed by intent, while quantum circuits 
+include the element of random occurrence . 
+; Here we refer to the processing circuits themselves. Some types of memory and long term storage can of course hold 
+information in isolation indefinitely . 
+J A non-determ inistic result in processing hardware causes a fatal error in current des igns. 
+k The bitwise stripe-set is instructive on the principle at hand, but for engineering considerations , more complex 
+configurations are used in practice. See Wikipedia "RAID" for actual data distribution schemes . 
+UNCLASSIFIED// FOR OFFICIAL YSE 8P.k¥ 
+11

@@ -1,0 +1,33 @@
+UNCLASSIFIED/ /FOA QFFI&IAL ~!ii: f>HLY 
+In this RF gun, a graded index magnetic field is used to increase the ionization 
+efficiency. A key component is the magnetic focusing lens at the extraction port. This 
+allows very efficient differential pumping between the high pressure gun chamber and 
+the low pressure IEC chamber. It also provides some control of the angular vellocity of 
+entering ions. 
+The UIUC RF ion-injector is shown attached to an IEC chamber in Figure 1.6, and a 
+photograph of the focal spot achieved with injection from this single injector is shown in 
+Figure 1.7. Note that ion scattering off of the center dense plasma "core" causes 
+noticeable (but "faint") recirculating ion beams observed in the photograph of the 
+discharge. With additional injectors, the recirculation pattern should become quite 
+symmetrical about the center. These studies did include differential pumping so that 
+number of recircu lating passes, ~. by an ion was very low, roughly 2. The injected ion 
+current, I, was about 50 mA. Still, based on measurements of neutrons emitted using 
+deuterium fuel, the Q (fusion energy gain/energy in) was remarkable for such a small 
+device, order of 10·6. Based on these results, an aggressive p- 11B breakeven 
+experiment using this type of IEC is discussed in Section VI. 
+Figure 1.6. RF Gun Attached to an IEC Chamber in Figure 1.7. Photo of Center Spot Formation. The 
+the UIUC Laboratory main beam observed is a direct path along the injector 
+angle. Other faint light channels indicate beams for 
+scattering of the central core region. 
+CLOSING REMARKS 
+As seen, a wealth of information has been developed in studies of gridded IEC devices. 
+However, the beam-background fusion used in these devices involves important 
+differences in physics compared to what is needed for future beam-beam IEC reactors. 
+Most notable is the need to maintain an extremely low background pressure to prevent 
+interactions with background neutrals. Further, physica l grids are subject to damage at 
+high power levels. As pointed out, some studies show grids can survive at modest 
+powers. But, for aggressive power units such as the p-11B plant of Section VI, they 
+must be replaced with virtual electrode surfaces creating a deep potential well for ion 
+confinement. Upscattering out of the well must be minimized while electron 
+UNCLASSIFIED/ /liOA: OlililCI0L: !Pi'li ODIL:¥ 
+12

@@ -1,0 +1,47 @@
+UNCLASSIFIED/ j POI\ OFFICIAL l:ISE 8Ptllf 
+data is averaged over several electrodes time-locked to a stimulus (Reference 19). Both 
+the previous methods record summed electrical activity of nominally 50,000 local 
+neurons, thus large coherent group spiking activity 7 is required to produce appreciable 
+signal. 
+EEG 
+EEG-based BMI systems use pattern recognition among the several electrodes to 
+transmit information. In closed-loop systems, audio or visual feedback is utilized. 
+Training on the system and adaptation by the processing software can increase target 
+detection efficiency, though some recent work shows that systems can be produced 
+that nearly work right out of the box. Blankertz demonstrated a system that required 
+only 20 minutes of training on naNe subjects (Reference 20). 
+Development is partially being driven by the need to provide a means of communication 
+or action on the environment to patients that have lost control of their body. Much of 
+this clinically-orientated research has focused on 'locked-in' patients, who suffer from 
+total paralys is following brainstem stroke or degenerat ive diseases such as amyotrophic 
+lateral sclerosis (ALS) (Reference 21). The goal has been to extract control signals 
+either from surface EEG signals or from electrodes implanted near or within the cerebral 
+cortex: ECoG (see next section on invasive technologies for details on ECoG). ALS 
+deteriorates peripheral motor function before progression to cognitive areas. This 
+greatly reduces a primary source of bioelectric noise, cranial and facial muscle action, 
+and thus provides a reduced signal processing problem to decode neural signals. 
+Successful communication has been established via EEG BMI in several studies based 
+on both spiking activity and P300 signals (References 22-25). The response time to 
+execute a command using these systems is measured in seconds. The results from ALS 
+patients represent a best-case scenario for what could be accomplished using EEG-only 
+sensors in a normal, healthy human who would have significant muscle noise to sift 
+through. 
+The number of electrodes and the time-consuming application of conduct ing gel make 
+EEG arrays bulky and slow to put on. An improvement would be a reduction in the 
+number of electrodes, typically a few dozen for traditional EEG, and electrodes that 
+could operate without conducting gel. Commercial versions of dry-electrode devices are 
+being released on the market from companies such as Neurosky, OCZ Technology, and 
+Emotiv. 8 The Neurosky and Emotive systems claim proprietary processing algor ithms, 
+lack peer-reviewed literature support ing their claims, and even discuss using facial 
+muscle movement to send signals (References 26, 27), raising doubt about whether 
+neural signals are being measured at all. The NIA, for Neural Impulse Actuator, from 
+OCZ clearly states that the electrodes pick up a combination of EEG, EMG, and EOG,9 
+and that the algorithm is only interpreting the net signal patterns instead of trying to 
+sort out the EEG component. 
+7 Spiking activity is the term used for recognition of action potentials. Spikes are fast and easy to recognize with 
+electron ic triggering circuits, while more complex waveforms require additional processing . 
+8 Websites www .emotiv.com , www.ocztechnology .com, and www.neurosky .com, last accessed 12 May 2009. 
+9 The electrco-myogram (EMG) reads signals from muscle activity, in this case facial muscles. The electro­
+oculogram (EOG) measures electrical signals arising from muscles associated with the eyes. 
+7 
+UNCLASSIFIED/ fFOR OFFI&I.t.L W&E 8Pttlf

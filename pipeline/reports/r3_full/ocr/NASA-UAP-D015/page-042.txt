@@ -1,0 +1,35 @@
+LOS ALAMOS SCIENTIFIC LABORATORY
+UNIVERSITY OF CALIFORNIA
+LOS ALAMOS, NEW MEXICO
+
+DATE: July 13, 1962
+
+For the following I will assume that the concentration of absorbing molecules
+in the region of interest can be described adequately by an exponential decrease
+with altitude above the bottom,of the layer, hence, can be represented by
+
+H
+
+where Y is the scale height in the layer and H mst lie in the layer. Then the
+
+number of molecules per cm* is found to be
+
+N (Basssuies ) -| o(H) al
+em
+
+-14\{1 + (2)? + of sin ©
+a Y R R
+N ® po e ;
+
+4 [a+ \Vi4y? +2y sine |
+= Roo |e dy
+
+(Ye=
+
+where the integral is over the range of y desired (usually 0 +).
+
+For a vertical view (sin © = 1) path, the solution is simply
+
+Ni m YpPo
+
+where po is the density at the base of the layer.

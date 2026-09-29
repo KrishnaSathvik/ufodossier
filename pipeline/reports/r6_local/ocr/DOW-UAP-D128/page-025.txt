@@ -1,0 +1,44 @@
+UNCLASSIFIED//POlt OPPICliltL t.tSI! OHL¥ 
+biology ... two recent examples will be given. Both are from papers published in tier one 
+medical journa ls, and both were published in the same month, and both were in the 
+same species {shown to biochemica lly be a good surrogate for man} utilizing similar 
+application methods in rat brain. 
+Case One: [43] 
+Fifteen minutes of a high dose {6W/kg} @ UHF {900 MHz} was applied. Endpoints 
+were measured acutely and sub-acute ly, for ten days follow ing a single exposure. 
+Reactivity of the support ing and nutr ient cellular matrix (the glia) was seen at two 
+days, and less so at three days post exposure. The injury was of the form of an 
+inflammatory reaction and increased elaborat ion of new protein {possibly a repair 
+mechanism} . The areas affected were primar ily t he frontal cortex, and deeper areas of 
+the brain {caudate, putamen, and cerebellum} and cerebellum where the cerebellum is 
+responsible for signal integrat ion. 
+Case Two: [ 44] 
+Ten minutes of a high dose {SW/kg} @ UHF {1439 MHz} was applied. Endpoints were 
+measured acutely. Blood-brain barr ier {glial interface} permeability, leukocyte 
+behavior, microcircu latory rate and volume changes, and vessel diamete r were 
+observed. There were no effects on these microcirculatory parameters. 
+These two cases are typical of hundreds this aut hor has reviewed, and while confusing 
+initially, they are actually consistent with observations made in patient examinations of 
+real-world human cases: 
+• Contact {exceptionally near-field} effects at these frequencies negate any 
+conclusions as to wave-length effect: coupling may not occur in a "traditional" sense 
+of induced current or voltage causing cell transport effects. 
+• Generalized heating does occur, which dissipates over 48 hours. This is consistent 
+with human effects, and could mean that near field effects of EM of propu lsion 
+systems at cm distances from the brain are served by the same mechanism of 
+surface heating. Also, the decrease {not absence} in neurological effects in 72 hours, 
+as reported frequent ly, may be supported by these animal experiments. 
+• The inflammatory reaction is not the result of increased microcirculation, and this 
+also may explain the paucity of data in human cases for acute and subacute 
+evidence for brain edema. 
+• One can hypothesize that in humans signs of erythema, but lack of overt burns and 
+blisters, presence of cognit ive clouding for 48 hours {relative frontal cortical 
+sensitivity} and prolonged generalized sleep and anxiety complaints {but not 
+respiratory, hypertensive, or other deep nuclei other than caudate and putamen} 
+and muscle fascicu lation's and minor parasthesiae and motor coordination 
+{cerebellar} are consistent with the animal studies at UHF. 
+• The chron icity of neuropsychiatric and paucity of acute neurological signs continue 
+support of the hypothesis of a [relatively!] narrow HF through EHF, non-ionizing, RF 
+band of exposure. 
+UNCLASSIFIED/fFOA OFFIQI.t.k Wili Qfslk¥ 
+18

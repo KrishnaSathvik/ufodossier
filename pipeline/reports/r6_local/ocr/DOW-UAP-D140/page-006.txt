@@ -1,0 +1,45 @@
+UNCLASSIFIED//&Olil OiiiilCI0L Llili QPIL¥ 
+1.0 Introduction 
+1.1 INTRODUCTION 
+Of the applications of high-frequency gravitational waves (HFGWs), communication 
+appears to be the most important and most immediate. Gravitational waves have a 
+very low cross section for absorption by normal matter, so high-frequency waves could, 
+in principle, carry significant information content with effectively no absorption unlike 
+electromagnetic (EM) waves. Multi-channel HFGW communications can be both point­
+to -point (for example, to deeply submerged submarines) and point-to-multipoint, like 
+cell phones. HFGWs pass through all ordinary material things without attenuation and 
+represent the ultimate wireless system. One could communicate directly through t he 
+Earth from Moscow in Russia to Caracas in Venezuela-without the need for fiber optic 
+cables, microwave relays, or satellite transponders. Antennas, cables, and phone lines 
+would be things of the past. A timing standard alone, provided by HFGW stations 
+around the globe, could result in a multi-billion dollar savings in conventional telecom 
+systems over ten years, according to the recent analysis of Harper and Stephenson 
+(2007). The communication and navigation needs of future magneto hydrodynamic 
+(MHD) aerospace vehicles, such as the MHD aerodyne (www .mhdprospects.com), which 
+is high in electromagnetic interference, similar to plasma interfe rence seen at reentry, 
+would be another possible applications area for HFGW communications. 
+1.2 DEFINITION OF HIGH-FREQUENCY GRAVITATIONAL WAVES 
+Visualize the luffing of a sail as a sailboat comes about or tacks. The waves in the sail's 
+fabric are similar in many ways to gravitational waves (GWs), but instead of sailcloth 
+fabric, gravitational waves move through a "fabric" of space. Einstein called this fabric 
+the "space-time continuum" in his 1915 work known as General Relativity (GR). 
+Although his theory is very sophisticated, the concept is relatively simple. This fabric is 
+four-dimensional: it has the three usual dimensions of space-east-west, north-south, 
+and up-down -plus the fourth dimension of time. Here is an example: we define a 
+location on this "fabric" (Einstein, 1916) as 5th Street and Third Avenue on the fourth 
+floor at 9 AM. No one can see this "fabric," just as no one can see wind, sound, or 
+gravity. Nevertheless, those elements are real, and so is this "fabric." If one could 
+generate ripples in this space-time fabric, many applications would become available. 
+Much like radio waves can be used to transmit informatio n through space, gravitational 
+waves could be used to perform analogous functions. Gravitational waves are the 
+subject of extensive current researc h, which so far has focused on low frequencies. 
+High-frequency gravitational waves, as defined by physicists Douglass and Braginsky 
+(1979), are gravitational waves having frequencies higher than 100 kHz. Low-frequency 
+gravitational waves (LFGWs), such as those detectable by interferometr ic GW detectors 
+(for example, the Laser Interferometer Gravitational Observatory, or UGO) are not 
+applicable to communications due to their very long wavelengths, ofte n thousands of 
+kilometers in length and, even more importantly, t he inability to generate them 
+effectively in the laboratory. Furthermore LFGW detectors cannot detect HFGWs 
+(Shawhan, P. S., 2004). 
+UNCLASSIFIED/ /FOR OiiiilCl.t.k HSI!! eflti 
+1

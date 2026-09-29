@@ -1,0 +1,49 @@
+—Secret NOFORN—
+
+Chapter 6
+
+296
+
+Two more A-12s were lost in later testing. On 9 July 1964, arti-
+cle 133 crashed while landing when a pitch-control servo device
+froze, rolling the plane into a wing-down position. Ejecting from an
+altitude of 120 feet, the pilot was blown sideways out of the craft.
+Although he was not very high off the ground, his parachute did open
+and he landed during the parachute’s first swing. Fortunately he was
+unhurt, and no news of the accident filtered out of the base. Eighteen
+months later, on 28 December 1965, article 126 crashed immediately
+after takeoff because of an improperly wired stability augmentation
+system. As in the previous crash, the pilot ejected safely. and there
+was no publicity connected with the crash. An investigation ordered
+by DCI McCone determined that the wiring error had resulted trom
+negligence, not sabotage.”*
+
+The A-12 made its first long-range, high-speed flight on 27
+January 1965. The flight lasted 100 minutes. 75 minutes of which
+were flown at speeds greater than Mach 3.1, and the aircraft covered
+2.580 miles at altitudes between 75,600 and 80,000 feet. By this time,
+the OXCART was performing well. The engine inlet, camera, hydrau-
+lic, navigation, and flight-control systems all demonstrated acceptable
+reliability.
+
+Nevertheless, as the OXCART began flying longer, faster, and
+higher, new problems arose. The most serious of these problems in-
+volved the aircraft’s wiring. Continuing malfunctions of the inlet con-
+trols, communications equipment, ECM systems, and cockpit
+instruments were often attributable to wiring failures. Wiring connec-
+tors and components had to withstand temperatures above 800’F,
+structural flexing, vibration, and shock. Such demands were more
+than the materials could stand. Not all of the OXCART’s problems
+could be traced to materiel failures, however, and Agency officials
+believed that careless maintenance by Lockheed employees also con-
+tributed to malfunctions.”
+
+Concerned that Lockheed would not be able to meet the
+OXCART's schedule for operational readiness, the Office of Special
+Activities’ Director of Technology, John Parangosky, met with Kelly
+Johnson on 3 August 1965 to discuss the project’s problems. Johnson
+not only assigned more top-level supervisors to the project but also
+
+“ tbid., pp. 80-81 (TS Codeword); Minnich. “OXCART Story,” pp. 17-18 (S).
+
+“ OSA History, chap. 20, p. 94 (TS Codeword).

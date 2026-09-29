@@ -1,0 +1,168 @@
+{
+  "haiku_calls": 198,
+  "r3_note": "R3 haiku_calls include the original D088/D013 attempts. Truncation-fix calls are additional and supersede those outputs.",
+  "accepted_local_r2_r6": 203,
+  "accepted_by_file_high_yield": [
+    {
+      "filename": "DOE-UAP-D004.pdf",
+      "accepted": 10
+    },
+    {
+      "filename": "DOW-UAP-D082.pdf",
+      "accepted": 12
+    },
+    {
+      "filename": "DOW-UAP-D088.pdf",
+      "accepted": 67
+    },
+    {
+      "filename": "DOW-UAP-D154.pdf",
+      "accepted": 9
+    },
+    {
+      "filename": "FBI-UAP-D012.pdf",
+      "accepted": 14
+    }
+  ],
+  "extract_zero_accepted": [
+    {
+      "filename": "CIA-UAP-004.pdf",
+      "candidates": 0,
+      "disposition": "explained_no_encounter"
+    },
+    {
+      "filename": "CIA-UAP-005.pdf",
+      "candidates": 0,
+      "disposition": "explained_no_encounter"
+    },
+    {
+      "filename": "CIA-UAP-007.pdf",
+      "candidates": 0,
+      "disposition": "explained_no_encounter"
+    },
+    {
+      "filename": "CIA-UAP-008.pdf",
+      "candidates": 1,
+      "quote_rejected": 0,
+      "evidence_insufficient": 1,
+      "disposition": "explained_quote_or_evidence_gate"
+    },
+    {
+      "filename": "CIA-UAP-012.pdf",
+      "candidates": 1,
+      "quote_rejected": 0,
+      "evidence_insufficient": 1,
+      "disposition": "explained_quote_or_evidence_gate"
+    },
+    {
+      "filename": "CIA-UAP-015.pdf",
+      "candidates": 0,
+      "disposition": "explained_study_prose_no_incident"
+    },
+    {
+      "filename": "CIA-UAP-019.pdf",
+      "candidates": 0,
+      "disposition": "explained_ocr_unusable"
+    },
+    {
+      "filename": "CIA-UAP-D020.pdf",
+      "candidates": 1,
+      "quote_rejected": 1,
+      "evidence_insufficient": 0,
+      "disposition": "explained_quote_or_evidence_gate"
+    },
+    {
+      "filename": "DOE-UAP-D005.pdf",
+      "candidates": 1,
+      "quote_rejected": 1,
+      "evidence_insufficient": 0,
+      "disposition": "explained_quote_or_evidence_gate"
+    },
+    {
+      "filename": "DOW-UAP-D084.pdf",
+      "candidates": 0,
+      "disposition": "explained_ocr_noise"
+    },
+    {
+      "filename": "DOW-UAP-D101.pdf",
+      "candidates": 1,
+      "quote_rejected": 1,
+      "evidence_insufficient": 0,
+      "disposition": "explained_quote_or_evidence_gate"
+    },
+    {
+      "filename": "FBI-UAP-D001.pdf",
+      "candidates": 1,
+      "quote_rejected": 1,
+      "evidence_insufficient": 0,
+      "disposition": "explained_quote_or_evidence_gate"
+    },
+    {
+      "filename": "FBI-UAP-D006.pdf",
+      "candidates": 3,
+      "quote_rejected": 3,
+      "evidence_insufficient": 0,
+      "disposition": "explained_quote_or_evidence_gate"
+    },
+    {
+      "filename": "FBI-UAP-D011.pdf",
+      "candidates": 1,
+      "quote_rejected": 0,
+      "evidence_insufficient": 1,
+      "disposition": "explained_quote_or_evidence_gate"
+    },
+    {
+      "filename": "FBI-UAP-D026.pdf",
+      "candidates": 1,
+      "quote_rejected": 1,
+      "evidence_insufficient": 0,
+      "disposition": "explained_quote_or_evidence_gate"
+    },
+    {
+      "filename": "FBI-UAP-D028.pdf",
+      "candidates": 1,
+      "quote_rejected": 1,
+      "evidence_insufficient": 0,
+      "disposition": "explained_quote_or_evidence_gate"
+    },
+    {
+      "filename": "LLE-UAP-D002.pdf",
+      "candidates": 1,
+      "quote_rejected": 1,
+      "evidence_insufficient": 0,
+      "disposition": "explained_quote_or_evidence_gate"
+    },
+    {
+      "filename": "NASA-UAP-D016.pdf",
+      "candidates": 1,
+      "quote_rejected": 0,
+      "evidence_insufficient": 1,
+      "disposition": "explained_quote_or_evidence_gate"
+    }
+  ],
+  "high_quote_rejection": [
+    {
+      "filename": "FBI-UAP-D006.pdf",
+      "candidates": 3,
+      "quote_rejected": 3
+    },
+    {
+      "filename": "FBI-UAP-D024.pdf",
+      "candidates": 4,
+      "quote_rejected": 2
+    }
+  ],
+  "extraction_failed": 0,
+  "truncations_in_fix": 9,
+  "page_subdivisions_in_fix": 9,
+  "release_reported": {
+    "r2_smoke_accepted": 8,
+    "r2_odni_accepted": 4,
+    "r3_metrics_accepted_before_truncation_fix": 75,
+    "r3_truncation_fix_accepted": 75,
+    "r4_accepted": 16,
+    "r5_accepted": 10,
+    "r6_accepted": 15
+  },
+  "extract_zero_unexplained": 0
+}

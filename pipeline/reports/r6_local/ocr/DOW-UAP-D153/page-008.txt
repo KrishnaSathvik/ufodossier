@@ -1,0 +1,57 @@
+UNCLASSIFIED/ (POR OPPICTAL USE Ont
+
+collapsed-matter singularities in their study of cosmology and black hole physics. More
+specifically, classical general relativity allows one to prove lots of general theorems
+about the behavior of matter in gravitational fields.
+
+However, real physical matter is not “reasonable” because the energy conditions are in
+general violated by semiclassical quantum effects (occurring at order n) [9].* More
+specifically, quantum effects generically violate the average NEC (ANEC). Furthermore,
+it was discovered in 1965 that quantum field theory has the remarkable property of
+allowing states of matter containing local regions of negative energy density or negative
+fluxes [3]. This violates the WEC, which postulates that the local energy density is non-
+negative for all observers. And there are also general theorems of differential geometry
+that guarantee that there must be a violation of one, some, or all of the energy
+conditions (meaning exotic matter is present) for all FTL and antigravity spacetimes.
+However, all of the energy condition hypotheses have been experimentally tested in the
+laboratory and experimentally shown to be false - 25 years before their formulation
+[11].
+
+In quantum field theory, negative energy is a manifestation of what is now called the
+“sub-vacuum” levels of the quantum zero-point (or vacuum ground state) fluctuations
+that correspond to any particular quantum field of matter under study. Hence, the
+energy corresponding to sub-vacuum quantum fluctuations is now called “sub-vacuum
+energy”: sub-vacuum energy = negative energy. Further investigation into this technical
+issue showed that violations of the energy conditions are widespread for all forms of
+both “reasonable” classical and quantum matter [12-16]. Furthermore, Visser [9]
+showed that all (generic) spacetime geometries violate all the energy conditions. So
+the condition that pe > pi and/or pr 2 0 must be obeyed by all forms of matter in nature
+is spurious. Negative energy has been produced in the laboratory and this will be
+discussed in the following sections.
+
+Examples of Negative (Sub-Vacuum) Energy Found in Nature
+
+The exotic (energy condition-violating) fields that are known to occur in nature are:
+
+1. Static, radially-dependent electric or magnetic fields. These are borderline exotic,
+if their tension were infinitesimally larger, for a given energy density [10, 17].
+
+2. Squeezed quantum vacuum states: electromagnetic and other (non-Maxwellian)
+quantum fields [8, 18].
+
+3. Gravitationally squeezed electromagnetic vacuum fluctuations [19].
+
+4. Casimir effect, i.e., the Casimir vacuum in flat, curved, and topological spaces
+[20-28].
+
+5. Other quantum fields/states/effects. In general, the local energy density in
+quantum field theory can be negative due to quantum coherence effects [3].
+Other examples that have been studied are Dirac field states: the superposition
+of two single particle electron states and the superposition of two multi-electron-
+positron states [29, 30]. In the former (latter), the energy densities can be
+negative when two single (multi-) particle states have the same number of
+
+* Planck’s reduced constant, n = 1.055 x 104 Js.
+
+4
+UNCLASSIFIED / /$02R-OFF26EA-USE-ONTT

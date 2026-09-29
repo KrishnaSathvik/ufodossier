@@ -1,0 +1,57 @@
+UNCLASSIFIED/ fFOA OFFl&I.t.k YSE &P•tv 
+3 
+10 
+.._ Visible 
+0 • Near IR 
+"'
+,-.. 
+10s 
+~ 
+r,i 
+QI 
+"3 
+0 
+'-'
+"""' QJ 
+500- 700 nm 
+1.05 µm to 1.15 
+1.2 µm to 1.4 
+400-450 nm-3I,.. .I 
+r,i= 10 •••• ., 
+0 
+Ae, I 
+. 
+'i 
+~ 
+QI 
+400-700 nm 
+. . t 
+-6 •= I,.. 
+0 10 .: ... ... u 
+A 
+-15 -12 ·9 -6 -3 0 3 
+10 10 10 10 10 10 10 
+Time (seconds) 
+Figure 18. Single Pulse Maximum Permissible Exposure 
+Vulnerability of Spacecraft to Laser Radiation 
+Man-made objects in space, whether in earth-orbit or beyond and manned or 
+unmanned, have attributes which lead to unique laser radiation vulnerabilities: 
+• Whole-body vulnerability - Spacecraft operate in a delicate thermal equilibrium 
+which requires maintenance of an overall, long-term temperature fairly close to 70 
+°F for the survival of electronics and personnel. They are heated by absorbed solar 
+radiation, onboard electronics, mechanical and propulsion systems, internal heating 
+systems, internal cooling systems, and any personnel on-board. Because of the 
+surrounding vacuum, black-body radiation and material ejection are the only 
+available methods of removing heat. If laser radiation were to permanently alter 
+the solar absorption or black-body emission characteristics (referred to as the aif. 
+ratio) of a significant portion of the spacecraft's external surface, this thermal 
+balance could be destroyed with slow, but catastrophic results. This damage could 
+conceivably be inflicted rapidly from a large earth-based laser weapon, if the 
+spacecraft were in earth orbit, or inflicted more slowly by a smaller laser weapon 
+which was onboard a much closer spacecraft. 
+• Alternately, if a large earth-based laser system were to flood -load a spacecraft with 
+a total power of megawatts for a few minutes (the typical duration of a low-earth 
+orbit pass over a fixed location on earth), the spacecraft could potentially be heated 
+to the point of failure. 
+UNCLASSIFIED/ fFOA OFFI&I.t.k YSE 8,.L\f 
+22

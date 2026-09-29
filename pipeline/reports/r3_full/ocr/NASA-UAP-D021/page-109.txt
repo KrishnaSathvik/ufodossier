@@ -1,0 +1,26 @@
+99 
+Borman 
+little background information on it. How else could we 
+know it was going to be good for 24 hours, and what had 
+they done to prove it would be good for 24 hours? They 
+read it to us over CS~, it eased my mind a lot because I 
+wasn ' t anxious to miss the WASP. On the 13th day, I 
+wanted to be able to go the full 24 hours rather than have 
+to land in the Pacific. So the whole story of the electri­
+cal monitoring, as far as I a.m concerned, was great work by 
+the ground. 
+The main batteries held constant between 22.5 and 22.7 amps 
+for the entire mission, and we checked them once a day at 
+the GO/NO GO stations. When we turned them on · 2 hours 
+before retrofire they carried their share of the load and 
+were operating fine when we were i n the water . We turned 
+off the squib batteries about the 10th day and used the bus 
+tie switches. We ran entirely on fuel cell power for the 
+last five days. When t he squibs came back on, the voltage 
+was 25.5 after they had been turned off for five days. 
+They operated properly for the last 2 hours of the flight. 
+s.7 Onboard computer 
+During t he l aunch it was absolutely a nominal case. The 
+pitch status, yaw status , and roll status , w ere zeroed 
+except for a brief period at guidance initiate when they went 
+out about 2 to 3 degrees , and then zeroed. We had no violent

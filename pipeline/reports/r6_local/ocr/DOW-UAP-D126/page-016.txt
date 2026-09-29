@@ -1,0 +1,46 @@
+UNCLASSIFIED/ /FOR 8FFI@IAL 1::191!! 8HL'I 
+cylinder, compressing it to high densities, while the bulk of the proton beam energy 
+heats and ignites the deuterium cylinder at its end, launching in it a detonation wave. 
+If the GeV -10 7-ampere proton beam passes through background hydrogen plasma with 
+a particle number density n, it induces in the plasma a return current carried by its 
+electrons, where the electrons move in the same direction as the protons. But because 
+the current of the proton beam and the return current of the plasma electrons are in 
+opposite directions, they repel each other. Since the stagnation pressure of the GeV -
+107-ampere proton beam is much larger than that of the electron return current, the 
+return current electrons will be repelled from the proton beam toward the surface of the 
+proton beam. 
+The stagnation pressure of a GeV proton beam is (MH proton mass) 
+(19) 
+6 3 
+3 3 
+, •For n b = 2 x l0
+1 
+cm- one obtainsp ; = 3 xl0
+1 
+dyn/cm For the electron return current, 
+one has (m electron mass) 
+(20) 
+With the return current condition neeve =n;ev; , where for GeV protons v; =c, one has 
+(21) 
+Taking the value n e =5 x 1022 cm-3, valid for uncompressed solid deuterium, one obtains 
+2
+ve =10
+4 
+cm/sand hence Pe =5x 10
+3 
+dyn/cm This is negligible against p;, even if n e is• 
+103 times larger, as in highly compressed deuterium. The assumption that the magnetic 
+field of the proton beam is sufficiently strong to entrap the charged fusion products 
+within the deuterium cylinder is therefore well justified. 
+Solution in Between Two Extremes 
+With chemical propulsion, manned space flight to the Moon is barely possible and only 
+with massive multistage rockets. For manned space flight beyond the Moon, nuclear 
+propulsion is indispensible. Nuclear thermal propulsion is really not much better than 
+advanced chemical propulsion. Ion propulsion, using a nuclear reactor to drive an 
+electric generator, has a much higher specific impulse but not enough thrust for short 
+interplanetary transit times needed for manned missions. This leaves propulsion by a 
+chain of fission bombs (or fission-triggered fusion bombs) as the only credible option. 
+There the thrust and specific impulse are comparatively huge, but a comparatively 
+small explosive yield is desirable . Making the yield too small, the bombs become 
+UNCLASSIFIED/ /fOll Offl@IAk l::l&li 8Ptk¥ 
+10

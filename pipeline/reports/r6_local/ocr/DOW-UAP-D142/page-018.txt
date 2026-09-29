@@ -1,0 +1,41 @@
+UNCLASSIFIED/ /FOR OFFIEIAk WS& OPtkY 
+of ls, 2s, 3s, and 4s electrons. Xe (Z = 54, r = 2.05 A) has two of each of ls, 2s, 3s, 
+4s and 5s electrons. Larger Casimir cavities would also be expected to have an effect on 
+the energetics of the outer electron shells (at larger radii). One could therefore expect 
+that a Casimir cavity having d = 0.1 µm could have an effect on reducing the energy 
+levels of the outermost pair of s electrons, and possibly also p electrons and 
+intermediate shell s electrons as well. 
+Continuing with this model, it is reasonable to expect that a 0.1 µm Casimir cavity could 
+result in a release of 1 to 10 eV for each injection of a He, Ne, Ar, Kr or Xe atom into 
+such a cavity. According to Maclay (Reference 26), a long cylindrical Casimir cavity 
+results in an inward force on the cavity walls due to the exclusion of interior ZPF 
+modes. In the "exclusion of modes" interpretation of the Casimir force, this implies that 
+a cylindrical cavity of diameter 0.1 µm could yield the desired decay of outer shell 
+electrons and subsequent release of energy. If one lets the length of the cylinder be 
+100 times the width, this results in "A. = 10 µm for the length of the Casimir tunnel. 
+Taking advantage of this effect, Puthoff (private communication, 2004) and Haisch and 
+Moddel (Reference 27) propose a segmented tunnel consisting of alternating conducting 
+and non-conducting materials, each 10 µm in length. In a length of 1 cm, there could 
+be 500 such pairs in segments, resulting in 500 energy releases (each yielding 1 to 10 
+eV) for each transit of an atom through the entire 1 cm-long Casimir tunnel. 
+Now consider a 1 cm3 block that is built up of 10 ~1m thick alternating layers as 
+described above (see Figure 6 for an illustration of this apparatus). Assume that tunnels 
+of 0.1 µm diameter could be drilled through the cube perpendicular to the layers (this is 
+not physically possible, of course; tunnel manufacture must be done differently). If 10 
+percent of the cross section comprises entrance to some 1.3 billion tunnels, then the 
+amount of energy released wou ld be proportional to the flow rate of the gas through 
+the tunnels (for the number of entrances and exits through Casimir segments). A flow 
+rate of 10 cm/s through a total cross sectional area of 0.1 cm2 yields 1 cm3 of gas per 
+second flowing through the tunnels, which at STP would be 2.7 x 1019 atoms. A very 
+simple sealed, closed-loop pumping system could maintain such a continuous gas flow. 
+Since each atom interacts 500 times during its passage, there would be 1.3 x 1022 
+trans iti ons per second in the entire cube of 1 cm3. An energy release of 1 to 10 eV per 
+transition corresponds to 2,150 to 21,500 W of power released from the entire Casimir 
+cube of tunnels. This can also be achieved by using a pair of plates with conducting 
+strips creating Casimir cavities (via 5000 strip pairs) that are separated by 0.1 µm 
+spacers, through which Hg liquid or monatomic gases (for example, He, Ne, Ar, Kr, or 
+Xe) flow (Reference 27). See Figure 7 for an illustration of this apparatus. However, 
+again, all of this assumes that the chain of conjectures detailed above is correct. 
+Fortunately, this can be experimentally tested. 
+UNCLASSIFIED/ /FOR OFFICIO! P!ili QIU.,¥ 
+12

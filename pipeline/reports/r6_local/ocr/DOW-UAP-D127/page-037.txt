@@ -1,0 +1,74 @@
+UNCLASSIFIED/ /fOR OFFI&IAk Wlii QPU,¥ 
+(36) 
+Thus , the characteristic function of the natural log 
+of the Drake uniform random variable D; is given by 
+3.3 STEP 7: FINDING THE 
+PROBABILITY DENSITY 
+FUNCTION OF N, BUT ONLY 
+NUME RICALLY NOT 
+ANALYTICALLY 
+Having found the characteristic functions 
+<l>y/s) of the logs of the seven input random 
+variables D; , we can now immediately find the 
+characteristic fu □ ctio □ of the random variable Y = 
+ln(N) defined by (5). 1n fact, by virtue of (4), of the 
+well-known Fourier transform property stating that 
+"the Fourier transform of a convolution is the product 
+of the Fourier transforms", and of (37), it 
+immediately follows that <l>y(() equals the product 
+of the seven Cf> y1 (s): 
+The next step is to invert this Fourier transform in 
+order to get the probability density function of the 
+random variable Y = ln(N). In other words, we must 
+compute the following inverse Fourier transform 
+-oo 
+oo [ 7 bl+)( i+ j( l= - 1 fe -i(y IT ;_ - a;_ dc;'.(39) 
+2n - co i= I (b; a;)(l+ Js) 
+This author regrets that he was unable to compute the 
+last integral analytically . He had to compute it 
+numerically for the particular values of the 14 a; and 
+b; that follow from Table 1 and equations 17. The 
+result was the probability density function for Y = 
+ln(N) plotted in the following Figure 2. 
+...>- PROB. DENSITY FUNCTION OF Y=ln(N) 
+0 0.4 
+C 
+0 ·.:::, 
+..2 
+Q 0.3 
+-f 0.2 
+ii 
+"' ~ 0.1 
+:z; 
+..8 
+• 
+~I....-
+, 
+/ 'I \ 
+\ 
+O O I 2 3 4 5 6 7 8 9 10 11 12e 
+ll, 
+Independent variable Y = ln(N) 
+Figure 2. Probability density function of Y = ln(N) 
+computed numericaJly by virtue of the integral (39). 
+The two "funny gaps" in the curve are due to the 
+numeric limitations in the MathCad numeric solver 
+that the author used for this numeric computation. 
+We are now just one more step from finding the 
+probability density of N, the number of 
+ExtraTerrestrial Civilizations in the Galaxy predicted 
+by our Statistical Drake equation (3). The point here 
+is to transfer from the probability density function of 
+Y to that of N, knowing that Y = ln(N) , or 
+alternatively, that N=exp(Y), as stated by (6). We 
+must thus resort to the transformation law of random 
+variables (9) by setting 
+(40) 
+This, upon inversion, yields the single root 
+(41) 
+On the other hand, differentiating ( 40) one gets 
+(42) 
+where (41) was already used in the last step. The 
+general transformation law (9) finally yields 
+UNCLASSIFIED/ /EAR AFFJCJA 1 1!SF QN 1Y 
+37

@@ -1,0 +1,41 @@
+UNCLASSIFIED//POlt Offl@IAL WS& &NkY 
+Chapter 1: Theory 
+ROCKET PRO PU LSI ON 
+It is difficult to compare propulsion technology without talking about how objects are 
+accelerated in space. Within Earth's atmosphere, aircraft use the air to generate lift 
+and thrust. Propellers or turbofans move a mass of air rearward and Newton's second 
+and third laws require that the momentum in this exhausted air is equal to a thrust in 
+the opposite direction. In equation form, the thrust, F, is equal and opposite to the 
+change in momentum over time. 
+m d(mv'F =- _ ' / e ..x.lrausr ( 1.1)
+dt 
+The momentum of the exhausted air is equal to the mass of air times its velocity and is 
+provided by the propulsion system. The thrust can be used to accelerate a payload 
+according to the following equation: 
+w m 
+F = m payload a (1.2) 
+Here, thrust is equal to the payload mass times its acceleration. 
+This method of momentum transfer works well for aircraft operating within the Earth's 
+atmosphere; however, operating in space presents special problems. Space is nearly a 
+complete vacuum, and there is no air mass to accelerate, i.e., no "reaction mass" that 
+can be accelerated and exhausted at high speeds. In space, the reaction mass is 
+carried by the rocket in the form of propellant mass, which is expended as the rocket 
+accelerates. 
+m m dm m F = ma +-V (1.3)
+dt 
+In this equation, the thrust is provided by the momentum ejected from the rear of the 
+rocket, but the total mass of the rocket is decreasing as the fuel is burned up and as 
+propellant is lost. Examining equation 1.3, we see that there are two ways to increase 
+rocket thrust. The first is to increase the mass flowrate, dm/dt, typically measured in 
+kg/s (if mass flowrate is given in kg/s, then thrust, F, is given in newtons to maintain 
+consistency). Unfortunately, this requires carrying increasing quantities of fuel. For 
+flights to Mars, the outer planets, or to other star systems, it would not be possible to 
+carry such large quantities of propellant. 
+A second choice would be to increase V, i.e., the velocity of the ejected propellant 
+reaction mass. There is an upper limit, however, to how fast we can eject the propellant. 
+In his Special Theory of Relativity, Albert Einstein demonstrated that no object that has 
+any mass when at rest can be accelerated beyond the speed of light or 2.998 x 108 m/s 
+in a vacuum. Einstein's relationship between an object's mass (m), its velocity (v), and 
+the speed of light, (c) is given in equation 1.4: 
+UNCLASSIFIED/fF&A &FFI&I:.l.k W&li &NkY 
+1

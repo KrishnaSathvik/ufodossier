@@ -1,0 +1,35 @@
+UNCLASSIFIED/ /F@R-OFFECEAL-USE-ONEY
+
+Flight-Mode Control
+
+In contemporary aircraft, the flight-mode control panel is often located prominently in
+the glare shield. It contains displays and controls for the autopilot and for setting
+headings, speeds, and other operational parameters. In breakthrough-era craft, there
+will likely be no need for a glare shield, since all images of the exterior will be projected
+indirectly; thus, the intensity of the light can be limited. Nonetheless, having a
+prominent location for the flight-mode display is critical.
+
+Vehicle Status Indicators
+
+The status of critical operating parameters of the vehicle, such as its fuel level and
+engine temperature, is essential. Note the prominence of those displays in the center of
+the flight deck. However, other than knowing that similar displays and controls will be
+required for breakthrough-era cockpits, it is too early to speculate on their details.
+
+Joystick, Throttles, and Keypads
+
+Some sort of physical controls are required to fly the aircraft. On contemporary aircraft,
+these include the joystick (side-mounted), rudder pedals, and throttle controls. Fine-
+tuning controls that manage features such as trim settings and flight heading can be
+located on separate panels. The details of these controls are dependent on the methods
+of flight. For a breakthrough craft, it is reasonable to speculate that six-degree-of-
+freedom controls will be accommodated by whatever method is most natural for pilots.
+
+—
+
+Figure 12. Space Cockpit Visions Circa 1959. Taken directly from Seifert’s 1959 book, Space Technology, this
+is an artist’s rendering of a "space travel control station.” It is offered here to convey the provisional nature of far-
+future speculations, including the speculations offered in this report.
+
+31
+UNCLASSIFIED /-OR-O5ELGDALAW SEO Re

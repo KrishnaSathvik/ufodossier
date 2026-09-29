@@ -1,0 +1,33 @@
+UNCLASSIFIED/ /P'OR: OP'P'l@IAL WS& 0Nk¥ 
+concentration of glucose) and thus causes a change in one of these fundamental 
+quantities . Electrical sensors can be inherently small and so we have a combination 
+device with biology and electrical sensing in a small and compact form. 
+When compared to much larger bench top machines, microscale configurations of 
+sensors usually have a superior performance because they are less prone to various 
+interferences such as power-line noise and they have much shorter diffusion distances 
+for sensed molecules. Some physical quantities such as micro-degrees of temperature 
+change are much easier to measure over small distances. 
+BioMEMS Implantable Sensors 
+Biosensors placed inside the body, or in-vivo, measure biological parameters such as 
+blood pH, oxygen, carbon dioxide, and blood glucose. (Blood pH is a measure of the 
+acidity of the blood.) These parameters are the most important in medicine since these 
+are all independent blood chemistries that give a moment-to-moment insight into the 
+physiological state of a living being. 
+Since the early days of the space program NASA has been interested in ways of 
+noninvas ively monitoring these blood parameters in astronauts for the instant 
+assessment of their physiological condition. Until recently, blood withdrawal was the 
+only accurate and reliable way to obtain such information. Indwelling sensors that use 
+needle penetrations are now available but still have trouble with accuracy and 
+longevity . 
+The military has also been inte rested in the assessment of the state of readiness of a 
+soldier which is reflected in his blood chemistry. An exhausted solider will show a highly 
+acidic blood pH (less than about 7.3). Remote electronic readout of biosensor 
+informat ion of a soldier to a central command center is presently the stuff of science 
+fiction movies but reflects real desires of the military. 
+Figure 7 shows a photo of a pH sensor (which measures concentration of hydrogen 
+ions). It is designed as a needle for tissue insertion or placement at the end of a 
+catheter for introduction into the blood stream. The pointed tip is inserted into the 
+medium to be measured, and t he electrical signal and power supply are connected to 
+the device at the gold film contacts at the base. 
+UNCLASSIFIED/ {FOR OFFICIO! !PEii QDlk¥ 
+10

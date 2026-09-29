@@ -1,0 +1,44 @@
+UNCLASSIFIED/fFOA OFFIEIAk U&li ,u1k¥ 
+Therefore, instabilities that cause time-dependent reductions in toughness must be 
+understood before these materials can be considered candidates for future TPS 
+applications. 
+Titanium Aluminides 
+Titanium aluminides are intermetallic compounds that form between Ti and Al. There 
+are three such compounds-T bAI, TiAI and AbTi-but the one of princ ipal interest is 
+TiAI, often referred to as gamma titanium aluminide or y-TiAI. This compound contains 
+about 35 weight% Al, but ternary and quaternary alloys based on TiAI typically contain 
+somewhat less than th is amount. y-TiAI is interest ing for intermediate-temperature 
+applications for several reasons. These include a lower density, at least a 125 °Celsius 
+higher temperature capability, and better surface stability (oxidation resistance) 
+compared with conventional Ti alloys. The surface scale that forms during oxidation of 
+y-TiAI is Al rich and is more protective than the TiO2 scale that forms on conventiona l Ti 
+alloys. Like most other intermetallic compounds, y-TiAI has very limited ductility at 
+temperatures up to about 600 °Celsius but is not brittle in the classical sense; that is, it 
+has the capability to deform plastically before fracturing. The ductility increases as 
+temperatures increase and is quite good at normal service temperatures. 
+y-TiAI alloys' limited ductility poses manufacturing problems for any wrought products. 
+These issues are manageable but reduce product yields, which in turn impacts cost. 
+Recent work in Austria has demonstrated that some y-TiAI alloys can be made into 
+sheet. This is particularly relevant to applications such as metallic TPS. Other work has 
+demonstrated that some y-TiAI alloys can be conventionally forged, albeit with care. 
+Should one or more of the efforts currently under way to produce low-cost, prealloyed 
+Ti powder prove successful, the availability of affordable y-TiAI alloy powder could be a 
+major cost breakthrough. 
+The development and maturation of y-TiAI alloys has taken more than 30 years. This is 
+in part due to the lack of actual production applications because of designer's concerns 
+regarding the limited low-temperature duct ility of all the y-TiAI alloys. Today, finally, 
+there are several applications of alloys based on y-TiAI, the most significant of which are 
+two stages of low-pressure turbine blades in the engine General Electric is providing for 
+the Boeing 787 and the growth 747 (called the 747-8). These blades are cast to near 
+net shape and will operate at temperatures up to about 750 °Celsius. Another 
+application is a cast y-TiAI turbocharger rotor Mitsubishi uses in a production auto 
+because it has half the mass of an equivalent Ni-base alloy component. 
+A potentially ideal, high-volume application of y-TiAI alloys is exhaust valves for autos. 
+If the low-cost powder mentioned earlier becomes a reality, th is factor, coupled with 
+the current pressure to improve fuel consumpt ion in American cars, could make this 
+prospect a reality. The point of this short discussion of non-space-related applications of 
+y-TiAI alloys is that realization of any or all of these applications will create a stronger 
+production base for this class of alloy, which in turn will make their introduction into 
+future space platforms easier and more cost effective. 
+20 
+UNCLASSIFIED{;6FOA: OFFICI0L Pili 011! X

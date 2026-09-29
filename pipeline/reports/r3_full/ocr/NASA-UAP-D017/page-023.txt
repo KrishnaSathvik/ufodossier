@@ -1,0 +1,29 @@
+I 
+• 17 
+White 
+McDivitt 
+8.3 RCS 
+McDivitt 
+was 127 feet/second which, incidently, happened 
+to come out exactly 2 minutes and 40 seconds. 
+suspect that we selected OAMS retrofire on the basis 
+of time, rather than on the basis of t::,.V. 
+Very convenient , wasn't it? 
+Very convenient. It -was obvious there is no more 
+difficulty in timing 2 minutes 40 seconds during 
+our OAMS retrofire than it is during any other 
+thing. We had no trouble with it . I was convinced 
+that when we got through with it, that was really 
+the proper conversion factor between t::,.V and t::,. T. 
+We had exactly 127 feet/second, and we sure had 
+the time nailed down. 
+The operational checks that we did on the RCS 
+occurred at about TR minus an hour. When I checked 
+the system out it seemed like I had a lot less 
+authority and a lot sloppier Rate Command than I 
+had in OAMS . The operational check consisted of 
+pitching up and down , yawing left and right, 
+rolling lef+ and right on each ring in Rate Command 
+and Direct. Direct worked as I expected it to. 
+In Rate Coremand, however, as I pitched up and down 
+I noticed that my top left yaw thru s ter was doing

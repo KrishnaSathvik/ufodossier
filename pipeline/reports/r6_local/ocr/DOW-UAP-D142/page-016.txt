@@ -1,0 +1,42 @@
+UNCLASSIFIED/ /FOR OFFI@IAL WSE QptLY 
+four orders of magnitude larger. Commercial equipment readily allows measurements of 
+the voltage spectrum in the GHz regime. Therefore, given a cost tradeoff of copper vs. 
+tungsten coil fabrication, the use of copper coils may be preferred. Suitable coils can be 
+fabricated by a custom coil-winding vendor. A second coil can be used in a contro l 
+experiment constructed with the same parameters as the first coil, but with half of its 
+turns wound in the reverse direction. This wil l make the coil non-inductive so that its 
+voltage spectral density should correspond to the lower red curve in Figure 4. 
+ZPF ENERGY EXTRACTION BY GROUND STATE ENERGY REDUCTION 
+As first analyzed by Boyer (Reference 22), and later refined by Puthoff (Reference 23), 
+the follow ing paradox was addressed: even though atomic ground states involve 
+electrons in accelerated motion, such states are nonetheless radiationless in nature -
+even though it is well known from classical electrodynamics that charged particles 
+undergoing acceleration must always emit radiation. For the standard Bohr ground 
+state orbit of the hydrogen atom, this was interpreted as an equilibrium process in 
+which radiation by the electron in its ground state orbit was compensated by absorption 
+of radiation from the background vacuum electromagnetic ZPE. This interpretation has 
+recently been strengthened by the analyses of Cole and Zou (Reference 24, 25) using a 
+SED model for the vacuum ZPE. Since the balance between emitted orbital-accelerat ion 
+radiation and absorbed ZPE radiation is modeled as taking place primarily at the ground 
+state orbital frequency, one can consider the possibility of using this feature in some 
+type of mechanism to extract energy from the ZPF. One fundamental difference 
+between the SED interpretation and that of quantum mechanics is that in quantum 
+mechanics the ls state of the electron is regarded as having zero angular momentum, 
+whereas in the SED interpretation the electron has an angular momentum of 
+mp~I 137 .7 
+The Bohr radius of the hydrogen atom in the SED view is 0.529 A. This implies that the 
+wavelength (A) of zero-point radiation responsib le for sustaining the orbit is 2n •0.529 • 
+137 = 455 A(or 0.0455 µm). It has been conjectured by Puthoff and Haisch (private 
+communication, 2004) that suppression of zero-point radiation at this wavelength (and 
+at shorter wavelengths) inside a Casimir microcavity could result in the decay of the 
+electron to a lower energy state determined by a new balance between classical 
+emission of an accelerated charge and absorption of zero-point radiation at 'A, < 455 A, 
+where ;i_ depends on the microcav ity plate separation (d) . Since the frequency of this 
+orbit is 6.6 x 1015 Hz, no matter how quickly the atom were to be injected into a 
+Casimir microcavity, one would assume that the decay process would be a slow one as 
+experienced by the orbiting electron. Figure 5 shows a schematic representation of a 
+hydrogenic atom in free space and inside a microcavity. 
+7 me = electron mass (9.11 x 10-31 kg), re = electron radius, atomic fine structure (a.k.a . QED coupling) constant er. 
+=1/137, and c/137 is the classical orbital velocity of the ground state electron. 
+UNCLASSIFIED/ /FOR OFFICI0L: 11ili QIU.,¥ 
+10

@@ -1,0 +1,21 @@
+UNCLASSIFIED/, P'OR. OP'P'l@IAL W&lii QPilL¥ 
+POSITRON ENERGY CONVERSION FOR ONBOARD POWER 
+Research was conducted on positron utilization in a standalone, closed-loop, high-power 
+system. 42 A Brayton cycle engine (Figure 14) was investigated with output power of 100 
+kW, consistent with Mars Reference Mission specifications. 43 • 44 Results show effici encies 
+of 25-30 percent and positron consumpt ion of 7 µg/hour. 
+Such a power system would have practical meaning for fast transits to Mars where 
+positron consumption does not dominate rocket positron consumption. 
+l 
+Figure 14. Closed Brayton Cycle Using Positron Annihilation (courtesy Positronics Research LLC}45 
+In addition, a small, 110-watt, positron-driven generator (Figure 15) for small, onboard 
+tasks was designed around the NASA Glenn Research Center Stirling Radioisotope 
+Generator, 46 with heat provided by Ps gamma rays. 
+SIJrfing Convertor 1 (55 We) S1irting Convertor 2 (55 We)
+- ---------- ~----------- -
+Eleclric Power Oullel 
+Mag,,ollcSloev 
+Figure 15. Conceptual 110-Watt Positron Closed-Cycle Generator Based on the NASA Glenn Research 
+Center Stirling Radioisotope Generator4 7 (courtesy Positronics Research LLC} 48 
+UNCLASSIFIED/ /FOR 8FFIEl>L 1!55 ON! X 
+18

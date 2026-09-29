@@ -1,0 +1,45 @@
+UNCLASSIFIED/ /FOA OFfilCIOls. 115'5 ON! X 
+Optical Cloaking 
+Cloaking in the optical range of the spectrum poses several challenges. The present 
+design of non-Euclidean cloaking devices still requires materials where, in some parts of 
+the device, the speed of light is larger than in the environment of the device, which, in 
+practice, means larger than the speed of light in vacuum. Most probably, this problem 
+can be circumvented by inventing new designs and new geometrical forms of suitable 
+curved spaces, because there is no mathematical reason why non-Euclidean cloaking 
+should be limited in this way. However, solving this problem takes imagination and 
+mathematical creativity; it cannot be planned by a clear roadmap, but it can be 
+encouraged and stimulated. It could take 1 or 2 years or a much longer time until such 
+designs are invented; truly imaginative research is unpredictable. This research takes a 
+specific mindset, clear mathematical thinking combined with playfulness and physical 
+intuition, a stimulating environment, and freedom. The greatest challenge for turning 
+invisibility from an idea into a workable device is not technology but imagination. The 
+only way to solve this problem is to follow the Solomonic advice to invest in the right 
+people. 
+The technology for cloaking will depend on the design of such advanced cloaking 
+devices. Probably they will require highly anisotropic materials, but perhaps liquid 
+crystals could be sufficient. Maybe metamaterials are not needed after all. In this case, 
+invisibility could become a feasible technology within a generation. If optical 
+metamaterials are needed, they will rely on structuring on extremely short scales, 
+possibly on sub-nanometer distances. The technology for making such structures will be 
+developed because the silicon-electronics industry will need them; but whether large­
+scale devices with sub-nanometer structures can be made remains to be seen. 
+Another practical challenge is impedance managing. Ideal cloaking devices require 
+materials with equal electric and magnetic response because they implement 
+geometries and geometries are universal-they act on both the electric and the 
+magnetic fields of electromagnetic waves like light. In practice, broadband optical 
+materials mostly respond to the electric field but not to the magnetic one. Optical 
+magnetism has been demonstrated with metamaterials, 39 but only in narrow regions of 
+the spectrum. If the electric response differs from the magnetic response, the 
+electromagnetic impedance is mismatched, which results in reflections. One could 
+reduce such reflections by using smooth refractive-index profiles as appropriate 
+antireflection coatings. 
+Most probably, cloaking devices will be rigid shells; to make them flexible like wearable 
+invisibility cloaks poses a significant challenge. The reason is that their optical 
+properties must be adjusted to their geometrical shapes, as the refractive-index profile 
+of a cloaking device depends on its shape. If the shape changes, the index-profile must 
+follow suit. The required optical properties should be calculated in real time, and the 
+material should change accordingly. Liquid crystals could adjust their optical properties, 
+but controlling a large, complicated array of liquid crystals with possibly several layers 
+appears to be difficult, despite the progress made in liquid-crystal displays. 
+UNCLASSIFIED/ /FOA OFFI&I.t.k W&li &P•kY 
+22

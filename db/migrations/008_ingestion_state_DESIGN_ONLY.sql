@@ -1,0 +1,33 @@
+-- DESIGN DRAFT. Applied in production on 2026-09-29.
+-- The runnable copy is db/migrations/011_canonical_and_ingestion.sql.
+-- Do not execute this commented file.
+--
+-- Intended later: track ingestion lifecycle on source_records without
+-- overloading ocr_text presence as the only state signal.
+
+-- ALTER TABLE source_records
+--   ADD COLUMN IF NOT EXISTS storage_status text
+--     CHECK (storage_status IN (
+--       'pending', 'cached_local', 'uploaded', 'failed', 'skipped'
+--     )),
+--   ADD COLUMN IF NOT EXISTS ingestion_state text
+--     CHECK (ingestion_state IN (
+--       'discovered',
+--       'classified',
+--       'source_only',
+--       'ocr_ready',
+--       'extracted',
+--       'validated',
+--       'embedded',
+--       'flagged_review'
+--     )),
+--   ADD COLUMN IF NOT EXISTS document_class text,
+--   ADD COLUMN IF NOT EXISTS contains_incidents boolean,
+--   ADD COLUMN IF NOT EXISTS classification_confidence text,
+--   ADD COLUMN IF NOT EXISTS classification_reason text,
+--   ADD COLUMN IF NOT EXISTS classified_at timestamptz;
+
+-- COMMENT ON COLUMN source_records.storage_status IS
+--   'Asset cache/upload state; independent of OCR/extraction.';
+-- COMMENT ON COLUMN source_records.ingestion_state IS
+--   'Pipeline lifecycle. source_only = classified non-incident, keep as source.';

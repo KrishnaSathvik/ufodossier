@@ -1,0 +1,86 @@
+CODE 57-58 ELEVATION
+CODE 56 DISAPPEARANCE BEARING WITH RESPECT TO GROUND, DEGREES
+
+X ~ Disappeared suddenly
+XY
+
+O-N
+
+1 - NE
+
+2-5
+
+3 - SE
+
+4-S
+
+5 = SW
+
+6-W
+
+- NW
+
+OBANAUE WA HO HB
+
+CODE 61 OBJECT ORIENTATION
+Apparent inclination of principal
+axis of object from horizontal
+
+Initial Final
+Variable X Variable
+Y
+0-9 0 Q-9
+10-19 1 10-19
+20-29 2 20—29
+30=39 3 30+39
+40-49 4 40-49
+50-59 § 50-59
+60-69 6 60-69
+W=T9 7 W-79
+80-89 8 80-89
+9
+
+QDE 62-63-64 CIVILIAN OCCUPATION
+
+X Variable Dictionary of Occupational Titles,
+Y Vol. II, 2nd Edition, pp. XIX-XXVI.
+0 +90 to 60 U.S. Department of Labor, Bureau of
+1 +60 to 30 Employment Security. U.S. Government
+2 #30 to 10 Printing Office, Washington, D. C., 1949.
+3 +10 to O See pp. XIX~-XXVI.
+4 0
+5 0 to -10
+6 -10 to -30
+7 -30 to -60
+8 -60 to -90
+9
+
+CODE 65 SERVICE ; CODE 66 DUTY
+
+xX X
+
+Y Y
+
+QO Arny O Pilot
+
+1 Navy 1 Weather tech.
+
+2 Marine 2 Radar tech.
+
+3 Air Force 3 Tower op.
+
+4 Coast Guard 4 Balloon obs.
+
+5 Merchant 5 Tech. spec,
+
+6 Commercial Air 6 Guards, lookouts
+
+7 CAA 7 Ground or deck crews
+
+8 Gov't. Contractor 8 Navig. or bombardier
+
+9 Other 9 Other
+
+294
+
+q

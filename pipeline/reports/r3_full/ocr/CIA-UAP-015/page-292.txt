@@ -1,0 +1,93 @@
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+CODES 
+CODE 1. GENERAL 
+a. Every column must have at least one entry. If no data are 
+available for any column, the Y should be used. 
+b. If a number in any column is used to enter data, then X 
+qualifies the data as indicated in the Code for the specific 
+column. 
+CODE 25 DURATION UNITS 
+X 
+y 
+O Days 
+1 Hours 
+2 Minutes 
+3 Seconds 
+4 
+5 
+6 
+7 
+8 
+9 
+CODE 41 POSITION 
+X Variable 
+y 
+0 
+1 In car 
+2 Outdoors 
+3 In plane 
+4 In building 
+5 
+6 
+7 
+8 
+9 Other 
+CODE 28 IA T ITUDE 
+X South latitude y 
+0 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+CODE 32 LONGITUDE 
+X East longitude y 
+0 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+CODE 42·MOVEMENT OF OBSERVER 
+X 
+y 
+0 Wasn't moving 
+1 Was moving - stopped 
+2 Was moving - didn't stop 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+291

@@ -1,0 +1,44 @@
+UNCLASSIFIED/ /FOR OFFI@IAk WSE OPtklf 
+observer signaling (Reference 12), because one would need to deduce from the arriving 
+photons the polarization basis that was being used in the distant measurements. This is 
+an aspect of the parameter independence mentioned above. While each observer is free 
+to choose a parameter that specifies the polarization basis (for example, circular 
+right/left, linear at any angle) for the measurement, he is not free to force the photon 
+into a particular state of that basis, as would be required for nonlocal communication. 
+However, measuring polarization correlations in a system with angular momentum 
+constraints is not the only way to demonstrate the nonlocal connection between the 
+entangled separated parts of a quantum system. Below, EPR experiments that use 
+momentum entanglement are discussed, and the question of whether such quantum 
+systems might provide a better vehicle for observer-to-observer nonlocal 
+communication is explored, because by using momentum entanglement, an observer is 
+able to force the photon into particle-like or wave-like behavior. 
+II. The Quantum No-Signal Theorems 
+As Einstein implied with his well-known "spooky actions at a distance" comment, 
+enforcement of quantum correlations across spacelike and negat ive timelike intervals 
+by nonlocality is very counterintuitive. It appears to imply the twin possibilities of 
+superluminal commun ication and of reverse causation through back-in-time 
+communication between observers. However, a number of authors (Reference 13) have 
+presented "proofs" that such nonlocal observer-to-observer communication is 
+impossible within the formalism of standard quantum mechanics. These theorems 
+assert that in separated measurements involving entangled quantum systems, the 
+quantum correlations will be preserved, but there will be no effect apparent to an 
+observer in one sub-system if the character of the measurement is changed in the 
+other sub-system . Thus, it is asserted, nonlocal signaling is impossible. 
+As mentioned above, EPR experiments can be viewed (Reference 5, 6) as 
+demonstrating violations of outcome independence or parameter independence or both. 
+Outcome independence cannot be used for nonlocal signaling, while parameter 
+independence can. Thus, any test of nonlocal signaling is, in effect, a test of the 
+parameter independence of quantum phenomena, and the no-signal theorems are 
+"proofs" of parameter independence. 
+Do these no-signal "proofs" really have the status of mathematical theorems? Perhaps 
+not. Recently it has been pointed out (Reference 14) that at least some of these 
+"proofs" ruling out nonlocal signaling are tautological, assuming that the measurement 
+process and its associated Hamiltonian are local, thereby building the final conclusion of 
+no signaling into their starting assumptions. Standard quantum mechanical Bose­
+Einstein symmetrization in systems of bosons has been raised as a counter-example, 
+shown to be inconsistent with the initial assumptions of some of these "proofs." 
+Therefore, at least from some perspectives, the possibility of nonlocal communication in 
+the context of standard quantum mechanics remains open and appropriate for 
+experimental testing. 
+UNCLASSIFIED/ /FOR OFFI@IAk WSE OHkl/ 
+4

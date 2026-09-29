@@ -1,0 +1,32 @@
+UNCLASSIFIED/
+
+Figure 2. Pure Deuterium Fusion Explosion Ignited With an Intense Ion Beam. D deuterium rod, h
+hohlraum, I ion beam, B magnetic field, R miniature target rocket chamber, Hz solid hydrogen, L laser beam to
+heat hydrogen in miniature rocket chamber.
+
+Because the condition for thermonuclear burn and detonation depends only on the
+critical current (Reference 15) and not on the radius of the deuterium cylinder, one may
+wish to make the diameter of the deuterium cylinder as small as possible, because as it
+was shown above, the specific impulse can become largest, with the electrons not
+taking away kinetic energy from the charged fusion products. Therefore, the yield of the
+deuterium fusion explosions can be made much smaller, eliminating the need for Orion-
+type shock absorbers, but the thrust there is also much smaller. For very-deep-space
+missions, that would not be a disadvantage.
+
+A problem in either case is that 38 percent of the energy is released as neutrons. In
+hitting the spacecraft, they lead to its heating, requiring a presumably large radiator.
+For a long and thin deuterium rod, this problem can likely be reduced by a boron
+diaphragm on the deuterium rod, as shown in Figure 3, because boron is a good
+neutron absorber. It can be enhanced by a hydrogen moderator, because the
+absorption cross section for neutrons is greatly increased with a reduced neutron kinetic
+energy. Both the boron and the hydrogen there simply become part of the propellant,
+reducing the specific impulse but increasing the thrust.
+
+_
+
+-“~ n
+
+Figure 3. Screening of the Spacecraft, SC, Against the Neutrons, n, By a Boron Diaphragm, b, With Solid
+
+14
+UNCLASSIFIED/

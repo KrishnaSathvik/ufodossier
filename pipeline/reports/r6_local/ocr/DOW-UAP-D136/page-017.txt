@@ -1,0 +1,32 @@
+UNCLASSIFIED/ /P'OR: OP'P'l@IAL WS& 0Nk¥ 
+Vgs 
+1: reference 
+2: gate oxide 
+3: insulating resin b) 
+4: channnel 
+S: source 
+D: drain 
+B: bulk Vgs 
+a) 
+V r Vdr 
+MOSFET ISFET 
+Figure 7. An ISFET (Ion Sensitive Field Effect Transistor) Needle-Type pH Sensor for Monitoring Tissue 
+Physiologic Status (http://www .ee.seikei .ac.jp/ ~seiichi/lecture/Biomedical/09/09 -biosensor .html) 
+The sensor element is an ion sensitive field effect transistor (ISFET). This device is 
+micromachined from silicon by using standard semiconductor photolithography 
+processes. The actual active sensor surface is near the tip of the device where there is 
+a thin film of silicon nitride covering the gate region of the transistor. The gate is 
+sensit ive to very small changes in electric field, and these in turn cause relatively large 
+changes (or gain) in the current flow through the transistor. 
+At the center in Figure 7 is a standard transistor diagram showing the gate and its 
+relation to the other contacts. On the right is shown the pH sensitive ISFET system that 
+measures an electric field change across the nitride membrane. The membrane is 
+placed directly in contact with the liquid to be measured. It is not known the exact 
+process that occurs at the membrane that gives rise to electric field shifts on the gate. 
+Presumably hydrogen ions reversibly adsorb onto the interface between the nitride 
+membrane and the solution causing local electric field changes on the gate. 
+This device is not meant for permanent implantation but rather short term applications 
+in research or medical surgery where the sensor is used over just a few hours. Proteins 
+and other biological molecules adhere to the gate region of the ISFET and cause a slow 
+UNCLASSIFIED/ {FOR OFFICIO! !PEii QDlk¥ 
+11

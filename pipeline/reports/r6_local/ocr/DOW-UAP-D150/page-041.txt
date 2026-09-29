@@ -1,0 +1,18 @@
+UNCLASSIFIED/ j FOR OFFICiltL tJ!lf! 8HL¥ 
+Figure 23. First Generation (MAYA I} DNA-based Logic Circuit that plays tic-tac-toe . 
+Robotic Bases (The DNA Robot) 
+Illustrated thus far are various structures that can be built by DNA-based approaches, and 
+such components can be combined into even more complex systems at a nanoscale. As an 
+example of the integration of different DNA components, we present here an approach that 
+that will eventually lead to the design of DNA "robots." In order to make such robots, we 
+must integrate three, up to now separate, molecular functions into either the molecule itself, 
+or into the interactions between the molecule and the environment it traverses. These three 
+functions are sensing, informati on processing, and movement. In principle, DNA provides us 
+with all these functions, and we should be able to build functional units that could be 
+jus t ifiab ly called molecular robots solely out of nucleic acids. We hope that DNA robots will 
+enable us to approach on a molecular scale, the important issues in the field of 'ordinary' 
+robotics such as; evolution, learning, multi-robot inte raction, self-replications, and self-repair. 
+Sensing devices are necessary to extract information from the environment such as 
+existence of a specific molecular species in the solution and shape and properties of the 
+UNCLASSIFIED//EAR OfiFI&ilAL Y!II!!! 8fltt 
+40

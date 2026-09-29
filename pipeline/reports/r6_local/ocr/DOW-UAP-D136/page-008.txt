@@ -1,0 +1,28 @@
+UNCLASSIFIED/ /P'OR: OP'P'l@IAL WS& 0Nk¥ 
+Varieties of BioMEMs and Sensors 
+--- ---· 
+·-•· ---
+. I . . I . 
+---· ---· ---· 
+Figure 1. Varietie .s of BioMEMS and Sensors. These BioMEMS devices were made at Arizona State University 
+(ASU). They represent many of the areas of BioMEMS research. 
+CHARACTERISTICS OF BIOMEMS 
+Conceiving and designing BioMEMS devices requires a different perspective of the 
+physical world. These devices can operate on principles such as capillary force, van der 
+Waals forces, and electric-field forces. These forces become relatively strong when the 
+size scale reaches very small dimensions. In the realm of the very small, the force of 
+gravity is far less important than electrical charge and viscosity. 
+From the perspective of microscale devices, engineers need to think about 
+accomplishing tasks on an extremely subtle scale but with an exceptionally effective 
+result. BioMEMS employs engineering sciences in ways that are more than just scaling 
+down familiar devices used in biomedical applications. Rather, employment of new 
+structures and new materials including polymers and biological components is 
+necessary. In addition we need to be concerned about things like biocompatibility (the 
+effect of the device on body tissue) as well as the degradation effects of tissues and 
+body fluids on the device itself. 
+Development of a new product that is targeted for implantatio n into the human body is 
+particularly expensive due to federal regulation of medical devices. Devices must be 
+shown to be effective for their intended use, and above all devices must be proved safe. 
+Bringing a new device to market is not unlike the development of a new drug. In order 
+UNCLASSIFIED/ {FOR OFFICIO! !PEii QDlk¥ 
+2

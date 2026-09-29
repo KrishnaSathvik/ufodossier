@@ -1,0 +1,69 @@
+UNCLASSIFIED / LEORWOSELGi=SE-ONET-
+
+To perform as logic gates analogous to silicon ones, a technology must produce specific
+outputs in response to a variety of inputs. DNA enzymes and recognition modules
+provide these output and input functions for a system based on DNA in solution.
+
+OUTPUT ENZYME
+
+A DNA enzyme called a de
+
+oxyribozyme (top) consists of
+
+single-stranded DNA folded
+
+into a “core” structure with
+
+arms at each end that can
+
+bind to a substrate DNA
+
+strand that has the comple-
+
+mentary sequences of bases
+
+separated by a specific se »
+
+quence of three other bases al a) ce —
+
+(dark gray). The enzyme EN oo " ae i ‘o "
+Cleaves the strand into two dvd a af
+
+pieces (bottom), The process : a0 c i‘ x
+
+can be monitored by attach-
+ing a fluorescent molecule
+at one end of the substrate
+strands and a quencher mol-
+equle at the other end. The -
+quencher molecule blocks TiC TALCITP ASRS
+fluorescence until the deav-
+
+ing of the strand takes it GTAP ARG gAtGE
+
+out of range.
+
+Fluorescent Substrate
+group
+
+Cleaved substrate
+
+INPUT SENSOR
+
+In a DNA structure called a stem-loop, the DNA folds onto itself and zips together to form
+a double-stranded stem with a single-stranded loop (/eft). When a matching input strand
+binds to the loop, it pries the stem apart (right)
+
+CLOSED STEM-LOOP OPEN STEM-LOOP
+
+SENSOR GATE
+
+Astem-loop attached to the arm of an enzyme blocks the enzyme’s function (7) until an input DNA
+strand opens the controller and exposes the arm (2), enabling the enzyme to bind and cleave sub
+strates (2). This structure is also called a YES gate because it signals, "Yes, the inputis present.”
+
+F oP pd
+
+Figure 20. Functional design of a DNA based logic gate.
+
+UNCLASSIFIED / /POROCPFECTHE SEO

@@ -1,0 +1,51 @@
+UNCLASSIFIED / ,EQR.O551GAi-USE-O NEY
+
+MID-TERM DEVELOPMENTS
+
+Mid-term developments for the timeframe 2020 to 2030 will include engineering
+designs and ground testing of the selected aneutronic reactor concepts that have the
+highest probability of success. Universities, national labs, and private companies all
+contribute designs. Some will be further along by 2020 than others due to funding,
+investments, scientific breakthroughs, or evolutionary modifications. Systems
+engineering analysis for aerospace applications must accompany the ground-based
+experiments, material science, and physical analysis to achieve a solution that can
+transition to viable aerospace engineering prototypes from plasma fusion propulsion
+research.
+
+Development of high-temperature superconductors that can be machined into multi-
+Tesla capable confinement magnets is a current area of research. Recent advances in
+high-temperature superconductors are driven by the sensitivity of semiconductor
+quantum interference device (SQUID) circuits, the desire for improvements in MRI,
+improved energy storage, transformers and delivery systems for utility companies, and
+generators and motors for submarines for the Navy.
+
+Here, the materials must not only be compatible with lightweight cryogenics (such as
+pulse tube compressors), but they must be less brittle and capable of molding into coil
+geometries with material compatibilities across a broad range of temperatures and
+stress loads. A suitable substitute for the Nb3SnCu or NbTi in ground-based reactor
+designs with lighter weight components for both the superconducting materials and the
+above critical temperature conductor substrates must be found. Building a one-of-a-
+kind coil geometry large enough to integrate into a plasma fusion engine and able to
+survive the local environment will likely be an expensive proposition. In the near term,
+although scale models are useful, the physics and densities change with size. Although
+this estimate may be optimistic, with concerted efforts by the magnet companies it
+should be achievable.
+
+Energy efficiency is paramount to effective propulsion, fuel consumption, and
+affordability. Experiments for direct energy conversion might include the following:
+
+e Strategic electrode placement to recover power from unconfined charge particle
+emanation.
+
+e Inductive coils for recovery of excess magnetic field energy.
+
+e Channeling of thermal energy to heat exchangers or augmented electric power
+generators.
+
+Fusion experiments such as Vlasov modeling, magnetohydrodynamic (MHD) models,
+and electrodynamic relaxation models for particle transport, fluid/plasma dynamics,
+collision-dominated transport, and fusion cross-section predictions need to be applied.
+Figure 19 summarizes all of these proposed development paths.
+
+27
+UNCLASSIFIED / / F6R-OFFtGEE-USE-ONE

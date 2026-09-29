@@ -1,0 +1,41 @@
+UNCLASSIFIED/ /P'OR: OP'P'l@IAL WS& 0Nk¥ 
+move through the channels where processes of separation, filtering, mixing, heating, 
+reaction, and waste disposal can occur in a programmed sequence . Color changes after 
+a sequence of chemica l steps might be used to indicate the presence and concentration 
+of an analyte. Optical absorbance or transparency can be read by a simple light 
+emitting diode (LED) and photodetector system that measures light passing through the 
+glass sample cell. 
+LAB CHIPS 
+A class of microflu idic devices known as lab-chips or Lab-on-a-Chip (LOC) have made 
+their appearance in the market place. These devices are miniature chemical analysis 
+systems that replace many of the manual and laborious steps associated with analytical 
+chemistry. They are generally produced by MEMS techniques and often, but not always, 
+incorpora te electrical systems on the devices. 
+Automated MEMS-based lab-on-a-chip platforms have become an established system 
+for basic life science research and drug discovery. They are used to assess the 
+characteristics of isolated DNA or prote ins. 
+One of the most useful products of bioMEMS instrumentation is the ability to manipulate 
+small quantities of DNA using microfluidic pathways to perform chemistry with only the 
+content from a single cell. BioMEMs enable new techniques in genomics (the study of 
+sets of genes, gene products, and their interact ions) and proteomics (the study of 
+proteins, the expression of genes in health and disease). 
+These systems are being made now by companies includ ing Affymetix, Caliper, 
+Nanogen, and Agilent for processing samples on a microflu idic chip for separation and 
+detection. Figure 31 shows the variety of such systems currently on the market. 
+Such devices can replace a number of gel electrophoresis operations and substantially 
+improve work flow sample handling and analysis, lower per sample analys is by 10X and 
+minimize sample and reagent use. 
+The physics of these microfluidic systems enable some unique features, including 
+smooth laminar flow t hrough the microchannels, high surface area to volume ratios, 
+small thermal mass, and strong effects by electric fields. Microfluidic devices also lend 
+themse lves to enhancements for single cell detection, fluorescence detection, sorting 
+schemes, and unique fluid separation methods. 
+The advantages of lab-on-chip devices include: 
+• Improved fluid transport by electrokinetic effects and miniaturized pumps. 
+• Efficient molecular and particle separation and immob ilizatio n. 
+• Smaller sample requirements and carrier volumes. 
+• Reduced reagent consumption and expense. 
+• Integration of channels, mixers, separators, reaction chambers, electrodes, and 
+detectors into single devices. 
+UNCLASSIFIED/ {FOR OFFICIO! !PEii QDlk¥ 
+33

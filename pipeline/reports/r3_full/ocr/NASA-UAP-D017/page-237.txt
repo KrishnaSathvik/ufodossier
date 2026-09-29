@@ -1,0 +1,37 @@
+229
+
+11.4 Electrostatic Charge (MS C-1)
+
+McDivitt
+
+I think what we could say here is that we turned
+MSC-1 on and off when it said in the flight plan
+
+and when directed by the people on the ground.
+
+11.5 Proton-Electron Spectrometer and Tri-Axis Flus-Gate Magnetometer
+(MSC-2 and MSC~3)
+
+MecDivitt
+
+White
+
+We turned off MSC-2 and -3 accoréing to real-
+time flight planning from the ground and when-
+ever the flight plan in the air called for it.
+We had one time when I ran a double small-end-
+forward set of runs through the Anomaly. The
+first time, I felt that the heading had not been
+accurate enough for the small~end-forward
+requirement. We were doing it without the
+platform on the stars, and the first time
+through I wasn't satisfied with it. So I called
+down to the ground and told them that I wasn't
+satisfied with the run and that I'd make ae
+repeat run the next time. This I did, and I
+left the equipment on throughout both runs and
+for an hour after that. So,we effectively have
+
+two small-end runs through the South Atlantic
+
+Anomaly.

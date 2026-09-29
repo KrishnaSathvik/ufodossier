@@ -1,0 +1,42 @@
+UNCLASSIFIED/ /POil Offl@IAL YSE &P•tlf 
+Assuming the spacecraft reaches a velocity of v = 100 km/s = 107 emfs, the velocity 
+needed for fast interplanetary travel, one has !),,Af = 108 g, requiring N = D.M/ m0 =104 1-
+kiloton fusion bombs, releasing the energy E h = 5x 1019 x 104 = 5 x 1023 erg. By 
+comparison, the kinetic energy of the spacecraft E,. = (1/2)M0 v 2 = 5 x 1022 erg is 10 
+times less. In reality it is still smaller, because a large fraction of the energy released 
+by the bomb explosions is dissipated into space. 
+One can summarize these estimates by concluding that a very large number of nuclear 
+explosions are needed, which for fission explosions, as well as for deuterium-tritium 
+explosions, would become very expensive. This strongly favors deuterium, which is 
+more difficult to ignite than a mixture of deuterium with tritium but is abundantly 
+available. The following text tries to show how bomb propulsion solely with deuterium 
+might be possible. 
+The Nonfission Ignition of Small Deuterium Nuclear 
+Explosives 
+With no deuterium-tritium (DT) microexplosions yet ignited, the nonfission ignition of 
+pure deuterium (DD) fusion explosions seems to be a tall order. An indirect way to 
+reach this goal is by staging a smaller DT explosion with a larger DD explosion. There 
+the driver energy, but not the driver, may be rather small. A direct way requires a 
+driver with order of magnitude larger energies. 
+The generation of GeV potential wells, made possible with magnetic insulation of 
+conductors levitated in ultrahigh vacuum (in a laboratory on Earth), has the potential to 
+lead to order of magnitude larger driver energies (Reference 1). It is the ultrahigh 
+vacuum of space that enables this to be achieved without levitation. Therefore, the 
+spacecraft, acting as a capacitor, can be charged up to GeV potentials. 
+If the spacecraft is charged to a positive GeV potential, a gigajoule intense relativistic 
+ion beam below the Alfven current limit can be released from the spacecraft and 
+directed to the deuterium explosive for its ignition. If the current needed for ignition is 
+below the Alfven limit for ions, the beam is "stiff." The critical Alfven current for protons 
+is IA =3.1 x 107 ,By [A], where j3 =vI c , r = (1 - /32 t'12 , with v the proton velocity and c the 
+velocity of light. For GeV protons, I A is well in excess of the critical current (Reference 
+15) to entrap the DD fusion reaction products, the condition for detonation (Reference 
+13). 
+In a possible bomb configuration shown in Figure 2, the liquid (or solid) D explosive has 
+the shape of a long cylinder, placed inside a cylindrical "hohlraum" h. A GeV proton 
+beam I coming from the left, in entering the hohlraum, dissipates part of its energy into 
+a burst of X-rays compressing and igniting the D bomb-cylinder. With its gigajoule 
+energy lasting less than 10-7 seconds, the beam power is greater than 1016 watts, 
+sufficiently large to ignite the D explosive. The main portion of the beam energy is 
+focused by the cone onto the deuterium rod, igniting at its end a detonation wave. 
+UNCLASSIFIED/ /FOR 8FFI&I.t.k Y&li &P•tY 
+13

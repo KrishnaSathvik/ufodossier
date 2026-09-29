@@ -1,0 +1,50 @@
+UNCLASSIFIED/ fFOA OFFI&il.t..k Y&& 8Ptk\f 
+include models for the super-radiant amplification of photons with particular 
+emphasis on its dynamics and the optimization of the involved parameters. 
+Experimental concepts being pursued will try to reveal directly the presence of a 
+non-empty vacuum by using a specifically designed device to amplify the virtual 
+vacuum photons and produce real electromagnetic radiation via the parametric 
+amplification of the vacuum fluctuations in an electromagnetic cavity. The 'amplifier' 
+is a boundary undergoing an oscillation, and hence radiates energy due to the 
+dissipative action against the vacuum photons. This line of investigation could serve 
+as a very useful probe to explore the possibility of generating large fluxes of 
+negative energy. It may be expected that a laboratory demonstration of the 
+dynamical Casimir effect will occur before 2012. 
+• Dirac field states: As described in Section III-A, this involves either the 
+superposition of two single particle electron states or the superposition of two multi­
+electron-positron states (Reference 29, 30). This is still a nascent topic of study in 
+quantum field theory. However, mankind already possesses a great deal of 
+technology that is dedicated to the manipulation and storage of electrons and 
+positrons via solid state/condensed matter devices and particle accelerators. This 
+research topic should be supported in order to establish how it could contribute to 
+an experimental traversable wormhole program. 
+• Quantum coherence effects: Other types of quantum coherence effects not already 
+identified or invented should be theoretically developed and explored for the 
+possibility of finding new free-field or interacting field configurations that produce a 
+significant magnitude of negative energy which could be produced by technological 
+means. 
+• Detecting Negative Energy in the Lab: In Section IV-C this paper identified 
+proposals for observing negative energy in outer space and in the laboratory, but 
+further work is needed to downscale astronomical techniques for use at the lab scale, 
+and we need to firm up our understanding of how lab detectors will respond to 
+negative energy in situ. A first step in the latter direction was recently proposed by 
+Marecki (Reference 79) who generalized the analysis of the output of balanced 
+homodyne detectors (BHDs). The most important feature of these devices is their 
+ability to quantify the quantum vacuum fluctuations of the electric field because the 
+output of BHDs provides information on the one- and two-point functions of 
+arbitrary states of quantum fields. Marecki computed the two-point function and the 
+associated spectral density for the ground state of the quantum electric field in 
+Casimir geometries, and predicts a position- and frequency-dependent pattern of 
+BHD responses if a device of this type is placed inside a Casimir cavity. The 
+proposed device allows for the direct detection of quantum vacuum fluctuations and 
+provides a spatial mapping of the negative energy contained inside the cavity. This 
+offers a potential new characterization of ground states in Casimir geometries, which 
+would provide an understanding of the negative energy densities present in some 
+regions in these geometries. 
+• Trapping and Storing Negative Energy: Ford and Roman (Reference 10) have only 
+superficially addressed this topic, and there is very little technical literature that 
+addresses it fully. A theoretical program to develop the physics and technology of 
+trapping and storing negative energy will need to be supported, and such a program 
+should be guided by the use of laboratory detectors such as the one proposed in the 
+UNCLASSIFIEQ { {FOR OFFICIAL W&& 8HLY 
+28

@@ -1,0 +1,44 @@
+UNCLASSIFIED/fFOR. QFFIEl.t.L: Uii QD:I! X 
+Electromagnetic Spectrum 
+Wavelength Type of 
+Radiation 
+1nm x-rays 
+10nm 
+100nm Ultraviolet (UV) 
+lµm Visible Light {0.4 to 0.7 µm) 
+l0µm Near Infrared 
+lOOµm Thermal Infrared 
+1mm Far Infrared 
+10mm Microwaves 
+100mm Radar 
+lm Rad io Waves 
+10m 
+100m AM Radio 
+Figure 9. Electromagnetic Spectrum as a Function of Wavelength. 
+ELECTROMAGNETIC METHODS 
+RADAR (Reflected Energy) 
+RADAR, or "radio detection and ranging," has been heavily used since World War II for the 
+detection of aircraft and sea vessels. First patented by Christian Hulsmeyer in 1904, this 
+technique was first demonstrated by Nikola Tesla in 1917; RADAR was exploited in the 
+defense of Britain through the Chain Home RADAR network initiated in the late 1930s. 8 
+RADAR uses an antenna or a dish to transmit pulses of microwaves or radio waves toward a 
+potential target. Energy reflected from the target is collected by the antenna and the time of 
+flight of the transmitted and reflected signals yields the distance to the target. Early RADAR 
+systems emitted radiation in the high-frequency band (HF) from about 10 to 30 MHz. 
+Modern systems can operate well above 300 GHz. 
+As a single pulse travels at the speed of light toward a target, the time delay between the 
+generation of the pulse and the time that its echo is received is 2L/c where L is the distance 
+to the target and c is the speed of light. For a target located 30 km from the source, the 
+time delay is 200 microseconds, an easily measurable delay. By using microwave radiation 
+emitted from a dish, target distance and bearing can both be measured. 
+While it was possible to use low-frequency radio waves (~30 MHz) for RADAR systems in the 
+1940s, the wavelength of these waves (100 meters) made it difficult to resolve small targets, 
+including aircraft. This made it desirable to develop systems that could operate at higher 
+frequencies. UHF energy (300 to 1,000 GHz, 0.3- to 1-meter wavelength) radiation is used 
+for long-range surveillance, includi ng the detection of intercontinental ballistic missiles. Air 
+traffic control uses the L band (1 to 2 GHz, 0.15- to 0.3-me ter wavelength). X-band (8 to 
+12 GHz, 25- to 37-millimeter wavelength) energy is now used for airport RADAR where the 
+range to aircraft is short. Higher frequency radiation is used for imaging systems and for 
+meteorological data acquisition. 
+UNCLASSIFIED//EQA: QlililEl.t.L: W&&: O,.L'l 
+13

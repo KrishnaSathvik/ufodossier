@@ -1,0 +1,24 @@
+UNCLASSIFIED/ /P'OR. 8FFIEil1'1.k lellii Ql'II.¥ 
+To make a tunnel, a cylindrical, rather than spherical, volume of crushed rocks is 
+desired. For this reason a thermonuclear shape charge or an explosive lens is better 
+suited to shatter the rocks. 
+In the center of the moon the temperature is several thousand degrees centigrade. 
+With the heat diffusion equation given by 
+(109) 
+where x is the heat diffusion coefficient, the diffusion time for a layer of thickness x is 
+(110) 
+For lunar rocks one has x~4x10 -3 cm2/s. Taking the example x =20m =2xl0 3cm, 
+one finds that r = 109s ~ 30yr, and at the high rock temperatures the heat diffusion 
+time would be uncomfortably long. 
+The situation is drastically changed for a layer of crushed rocks, because there it is 
+possible to remove heat by a coolant pumped through the porous medium of the 
+crushed rocks. At the high temperatures of several thousand degrees centigrade, a 
+liquid alkali metal, for example lithium, abundantly available on the moon, could be 
+used as a coolant. The velocity the coolant diffuses into the crushed rocks is determined 
+by Darcy's law 
+v=-Dgradp, (111) 
+where p is the pressure, D =Kj pg, with K ~ 1 cm/s a typical value. If the pressure 
+gradient is provided by the gravitational force one has gradp =pg and hence 
+lvl = K ~1 cm/s. (112) 
+UNCLASSIFIED//P'Olll OPPIEll<L tt!II!! or~LY 
+34

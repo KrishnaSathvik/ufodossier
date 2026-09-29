@@ -1,0 +1,42 @@
+UNCLASSIFIED/ ;'FOR OFFI@IAL YSE OHL¥ 
+SILICONE CHEMISTRY 
+Silicone is actually a common name 
+for the chemical compound 
+polydimethylsiloxane (PDMS), a class 
+of synthetic polymers with repeating 
+units of silicon and oxygen. Figure 5 
+shows the polymeric repeating 
+structure of medical silicones. Various 
+functional groups-often methy l-can 
+be attached to that backbone to 
+change the material properties. 
+Silicone polymers can easily be 
+transformed into linear or cross­
+linking materials without using any 
+toxic plastic izers. The resulting 
+materials are elastic at body 
+temperature. 
+The simultaneous presence of Figures. Silicone Chemical Groups 
+different groups attached to the 
+silicon-oxygen backbone gives silicones a range of viscous and mechanical properties 
+that allow their use as fluids, emulsions, compounds, resins, and elastomers in 
+numerous applications. Thus, silicone is a versatile polymer, although its use is often 
+limited by its relatively poor mechanical strength. However, this limitat ion can be 
+overcome by reinforcing silicone with a silica filler or by chemically modifying the 
+backbone . 
+The stability, lack of toxicity, and excellent biocompatibility of PDMS make these 
+materials well suited for use in personal care, pharmaceutical, and medical device 
+applications. Silicone is easily molded and cast using room tempe rat ure curing (known 
+as RTV) or through the use of an organic catalyst. 
+SILICONE IN BIOMEDICAL PRODUCTS 
+Silicone membranes are made by casting the silicone liquid precursor into thin sheets. 
+Such membranes are often used in oxygen and carbon dioxide blood biosensors 
+because membranes made of this material are highly transmissive to these gases while 
+they block most other chemical substances present in the blood stream. In addition, 
+silicone's resistance to prote in adhesion and its excellent overall biocompat ibility make 
+it one of the most commonly used materials for encapsulating biosensors for tissue or 
+blood contact. 
+Recent formu lations of silicone can be patterned with ultraviolet light and, thus, lend 
+themselves to manufacture with biosensors made by photolithography. 
+UNCLASSIFIED/ /EOR OFFICilAk YSE 8HLY 
+4

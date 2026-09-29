@@ -1,0 +1,32 @@
+UNCLASSIFIED/ /FOR: orr1e1At l:ISI!! e .. tv 
+Figure 11. Two symmetric DNA nanomotifs and the crystals grown using them. {a) 
+and {d) show a symmetric cross motif and a three-point-star motif, respectively. 
+Images {b) and {e) are atomic force micrographs showing the crystal structure, 
+and (c) and (f) are fluorescence microscopy images of DNA 2D crystals assembled 
+from the DNA motifs {86). 
+8. Another widely accepted bottom up method to construct DNA nanosystems is through a 
+process known as strand displacement or branched migration . This assembly method 
+displaces one DNA strand and selectively replaces it with a strong complementary strand 
+which usually consists of more Watson Crick base pairs. This method can be utilized to 
+correct sequence errors made during strand synthesis and DNA tile assembly and in 
+complex logic gates, and for controll ing DNA motors. 
+In 1996, Winfree devised a theoretical proposal that addressed how crystal morphology and 
+patterning can be programmed by tile design in an inherently asynchronous assembly 
+process, in which it was addressed by the abstract Tile Assembly Model (aTAM) . (90) Winfree 
+explored how physical parameters, such as tile concentration and temperature, affect crystal 
+growth and influence error rates, based on reversible tile associat ion and dissociation rates 
+(91). This work was built on previous efforts by Wang 's (92)(93) embedding of computation 
+in geometrical tiles showing that two-dimens ional (20) self-assembly of DNA can perform 
+Turing-universal computation. This implies that any algorithm can in princip le be embedded 
+in, and guide, a potentially aperiodic crystallization process. In this "algorithmic self­
+assembly" paradigm, a set of molecu lar "Wang tiles" is viewed as the program for a 
+particular computation or molecular fabrication task. 
+Later collaboration between Winfree and Seeman resulted in the first successful fabrication of 
+a two-dimensional DNA lattice structure that util ized the mathemat ical principle of tiling (94) . 
+The self named DX (double crossover) molecule has two double helical motifs that are rigidly 
+bound together by several single strands that are organized in a double crossover pattern 
+forming a rigid structure of DNA. These DNA strands are oriented in a parallel direction. This 
+method allows for the production of DNA based lattices by exploiting the use of sticky ends at 
+four ends. These ends can then be further constructed to build up a scaffold of DNA based on 
+UNCLASSIFIED/ ,{FOR OFFICIO .. Uii 8PtLY 
+26

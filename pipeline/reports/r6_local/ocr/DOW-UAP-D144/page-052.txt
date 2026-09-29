@@ -1,0 +1,69 @@
+UNCLASSIFIED / /F@R-OFFECEAE-USE-ONEY
+
+Excerpt (15 pg) NASA and Kallsman Instrument Corporation (Syosset, NY) discuss how stellar charts
+change over distances traveled and address Doppler shifts.
+
+Oran, Daniel. (1991). Apply Psychology to Product Design. Machine Design. Nov. 7, 37-40.
+
+Article (4 pg) Illustrates how to use different switch locations, groupings, and shapes to more readily
+convey functions.
+
+Paviovic', V. I., Sharma, R. & Huang, T. S. (1997). Visual Interpretation of Hand Gestures for Human-
+Computer Interaction: A Review. In IEEE Transactions on Pattern Analysis and Machine Intelligence, 19,
+677-695
+
+Article (36 pgs) Summarizes recent progress toward using gestures of the arms and hands to interact with
+computers. Hand gestures, including those with different finger positions, can be used. These features
+are likely to mature soon into commercial products.
+
+Russo, D., Tillman, B., & Pickett, L. (2009), Human Factors Engineering Standards at NASA, Presented at
+the Human Factors and Ergonomics Society Conference (22-26 Sep. 2008, Manhattan, NY). NASA Johnson
+Space Center, Houston TX.
+
+Quoting Abstract: "NASA has begun a new approach to human factors design standards. For years NASA-
+STD-3000, Manned Systems Integration Standards, has been a source of human factors design guidance
+for space systems. In order to better meet the needs of the system developers, NASA is revising its
+human factors standards system. NASA-STD-3000 will be replaced by two documents: set of broad human
+systems design standards (including both human factors and medical topics) and a human factors design
+handbook. At the present time the standards document is in final review with some disagreement on
+several critical issues. The handbook is progressing with November 2008 as the anticipated completion
+date."
+
+Potter, S. S. & Woods, D. D. (1991). Event Driven Timeline Displays: Beyond Message Lists in Human-
+Intelligent System Interaction. In Conference Proceedings 1991 IEEE International Conference on Systems,
+Man, and Cybernetics, 1283-1288.
+
+Article (6 pg) Examines lessons and trends of fault monitoring, suggesting that timelines of events be
+visually conveyed, including causal connections.
+
+Potter, S. S. et al. (1992). Visualization of Dynamic Processes: Function-Based Displays for Human-
+Intelligent System Interaction. In Proceedings 1992 IEEE International Conference on Systems, Man, and
+Cybernetics, 1283-1288.
+
+Article (6 pg) Although in the context of monitoring processes, it suggests that visual models of the
+processes (instead of alphanumeric displays) are crucial.
+
+Proffitt, D. & Kauiser, M. (1991). Observer Properties for Understanding Dynamical Displays: Capacities,
+Limitations, and Defaults. NASA TM 102812. Ames Research Center, Moffett Field, CA.
+
+Report (15 pg) Examined human ability to understand and predict motion in the display of dynamic
+systems. They found that both physics-educated people and naive people perform about equally on the
+intuitive level: particle motion is relatively accurate, but rotational kinematics, especially that concerning
+moments of inertia, is relatively poor.
+
+Reason, J. (1990). Human Error. Cambridge, UK: Cambridge University Press.
+
+Book (316 pg) By examining major accidents, the correlation between psychology and the operation of
+hazardous technologies is described. As such, it presents a wealth of lessons of mistakes to avoid.
+
+Sarter, N. & Woods, D. (1992). Mode error in supervisory control of automated systems. In Proceeding of
+the Human Factors Society 36'" Annual Meeting. Atlanta GA, Oct.
+
+Report (5 pg) Illustrates and defines mode error: "When an action entirely appropriate for a situation is
+performed, except that this is not the current situation." -Norman 1981. Describes how systems that
+have command sequences, which change their pattern in different operating modes, is a problem.
+
+Seifert, H. (Ed). (1959). Space Technology. New York, NY: Wiley & Sons.
+
+47
+UNCLASSIFIED (4502-05 5L6L4A1L-1055-O21—=

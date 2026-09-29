@@ -1,0 +1,29 @@
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+TABLE VI CHI SQUARE TEST OF KNOWNS VERSUS 
+UNKNOWNS ON THE BASIS OF SPEED I 
+Adjusted x2 , 
+Number of Number of Number of {K-n) 2 I 
+Speed KNOWNS KNOWNS (K) UNKNOWNS ( n) K 
+I 
+Stationary 249 61 53 1. 05 
+Less than 100 mph 154 38 26 3.79 
+100 to 400 mph 181 45 58 3.76 I 
+Over 400 mph 403 99 145 21. 37 
+Meteor-like 83 20 16 0.80 INot stated 695 171 136 7. 16 
+Total 1765 434 434 37. 93 I 
+Degrees of freedom 5 I 
+5% 11. 1 
+I1% 15. 1 
+I 
+I 
+I 
+I 
+I 
+66 I 
+I

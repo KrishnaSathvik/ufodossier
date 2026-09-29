@@ -1,0 +1,48 @@
+UNCLASSIFIED/ /FOR OFFIEIAk WS& OPtkY 
+When the plates in a Casimir cavity are put into non-u niform accelerated motion, it is 
+possible in principle to create real photons out of the vacuum. This effect is referred to 
+in the literature as the "dynamica l Casimir effect, " or motion-induced radiation 
+(Reference 62, 91). One version of the dynamical Casimir effect provides a way to 
+degrade the vacuum whereby negative vacuum energy is produced by a single moving 
+reflecting (conduct ing) surface (a.k.a. a moving mirror). A mirror moving with 
+increasing acceleration generates a flux of negative vacuum energy that emanates from 
+its surface and flows out into the space ahead of the mirror (Reference 4, 92). This is 
+essentially the simple case of an infinite plane conductor undergoing accelerat ion 
+perpend icular to its surface . If the acceleration varies with time, the conducto r will 
+generally emit or absorb photons (that is, exchange energy with the vacuum), even 
+though it is neutral. This is an example of the well-known quantum phenomenon of 
+parametric excitation. The parameters of the electromagnetic field oscillators (for 
+example, the ir frequency distribution functio n) change with time owing to the 
+acceleration of the mirror (Reference 93). 
+Analogs of the Casimir effect also exist for fields other than the electromagnetic field. 
+When considering the vacuum state of other fields, one must consider boundary 
+conditions that are analogous to the perfect-conductor boundary condit ions for the 
+electromagnet ic field at the surfaces of the plates (Reference 1-3, 62, 91). Other fields 
+are not electromagnetic in nature; that is to say they are non-Maxwellian, and so the 
+perfect -conductor boundary conditions do not apply to them. It turns out that complete 
+manifolds exhibit what is called the "topologica l Casimir effect" for any non-Maxwellian 
+fields. In order to define boundary conditions for other fields replace the conductor 
+boundary conditio ns and Minkowsk i spacetime by a manifo ld of the form mx I (that is, 
+a product space), where 91 is the real line defining the time dimension for this particular 
+product space and I is a flat 3-dimensional manifold having any one of the following 
+topologies: ~H2 x 51, mx T2, T3, 91 x K2, and so forth, ~1 being the real line that defines 
+any linear space dimension (for example, !H = line, 912 = 2-dimensional plane), Tn being 
+the n-torus, K2 the 2-dimens ional Klein bott le, 51 the circle, and so forth. 
+The case I = 91 2 x 5 1 has the closest resemblance to the electromagnetic Casimir effect, 
+the difference being that instead of imposing conductor boundary conditions, one 
+imposes period ic boundary conditions on some of the space coordinates in the 3-
+dimens ional manifo ld. When imposing this topological constraint on the field theoretic 
+calculation of the topological Casimir effect (for linear massless fields), one finds that 
+the generic expression for the energy density is also PcE = - Actrhc[4 , where 
+Adr = ±dr(ri:2 /90), df is the number of degrees of freedom (for example, helicity states) 
+per spatial point, the plus sign holds for boson fields (givi ng a negative energy density) 
+and the negative sign for fermion fields (giving a positive energy density). 
+If one were to admit spin structure in the manifolds described above and the field is 
+spinorial, then there is anothe r important subt lety that must be taken into account 
+when evaluating r:~; . However, this introduces an addit ional complexity involv ing the 
+relat ionship between the spin structure and the global structure (that is, the 
+configuration space or fibre bundle) of the field in question whereby the topology not 
+only of the base manifold, but of the fibre bundle itself has an effect on r :,:: . In addition 
+to this, there are (compactified) extra-space dimensional quantum field (that is, D-
+UNCLASSIFIED/ /FOR OFFICIO! P!ili QIU.,¥ 
+31

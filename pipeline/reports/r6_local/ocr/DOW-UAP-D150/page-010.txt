@@ -1,0 +1,49 @@
+UNCLASSIFIED/ /FOR: 8FFl@IJIIL tt9I!!! er•t I 
+pitch.d By comparison, atomic diameters range from around 0.1 nm to 0.5 nm, with silicon 
+~0.2 nm, or only a factor of 100 smaller. 
+As circuit elements decrease in size, the number of atoms making up the bulk materials 
+decreases and ignoring individual quantum effects becomes problematic. This is the 
+mesoscopic scale. At this size, quantum effects can introduce noise into the circuit as the 
+unpred ictable e nature of the underlying wave functions. Once the circuit size shrinks to only a 
+few atoms, quantum effects will emerge from the noise domain to dominate the electrical 
+behavior. It is thought that exploiting rather than avoiding quantum phenomena may prove 
+useful in this regime for inorganic technologies. 
+Following Moore's law, in less than 10 years inorganic circuit elements will be less than 5x5 
+molecules in 2-D extent. (Molecular machines built of organic components, primarily DNA, 
+are discussed in a later section.) Shrinking traditional silicon-based general-processing 
+technology to this microscopic scale is one motivation for developing new types of machines 
+based on quantum phenomena, but it is not the only one. Smaller circuit elements decreased 
+the settling time of transistors and thus gates on CPUs, allow ing increasing clock speed (the 
+CPU can execute the next instruction with shorter delay from the last instruction). CPUs 
+today get most of their performance with parallel architecture, executing several instructions 
+at once in different pipelines. Using smaller circuitry in general consumes less power, and 
+this allows more parallel elements to be packed into a reasonable wattage package. The 
+march toward smaller circuitry is continuing unabated so plann ing for the eventual quantum­
+dominant characteristics is essential. 
+It is common to use the analogy of the laser to elucidate the application developments 
+possible with quantum computing. In one sense, the laser is just another hardware 
+technology that makes light. Earlier light technologies include organic-fueled fire (~50,000 
+BC), incandescent bulbs (early 19th c.), and fluorescent chambers (mid-19 th c.). The light 
+source to utilize is not governed by the highness of the technology, but by requirements of 
+the application. One can read by laser light, but older and cheaper incandescent light will 
+provide superior perceptible illumination to a page. Traditional semiconductor-based 
+computing is cheap and plenty powerful for controlling navigation or driving ship status 
+displays. 
+The laser analogy is further revealing in that it is quantum effects producing a special kind of 
+light that is coherent. Coherent light is single wavelength with all photons travelling in the 
+same direction .f This coherence is a natural consequence of conservation of momentum in 
+the absorption/emission process. (4) Coherent light is very useful for some applications that 
+require low dispersion; for example, bouncing a beam off of a mirror on the moon, or the 
+more pedestrian pinpoint highlight of a projected PowerPoint presentation. 
+The practical uses of the laser are not universally bigger or smaller, faster or slower, or more 
+or less energy efficient than the other hardware technologies that produce light, they are just 
+different. Similarly, when we think of what hardware and applications will arise for quantum 
+computing, they too are not necessarily bigger, smaller, or faster than traditional methods; 
+they are just different, and many could not be accomplished with traditional technologies. (5) 
+d Pitch is the distance between repeat circuit elements. What is most interesting about the 22 nm technology is that it was 
+produced with 192 nm lithography. 
+• At the mesoscopic scale, indiv idual wave functions are not prepared a priori or controlled in their propagati on. Some of 
+the noise components are correlated . 
+'Laser light is actually very narrow bandwidth rather than single-valued. 
+UNCLASSIFIED/ /FOR OFFI&Iit.k W&E OHkY 
+9

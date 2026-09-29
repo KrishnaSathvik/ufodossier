@@ -1,0 +1,46 @@
+UNCLASSIFIED &-F@R-OFF262AL-US5-O11LY
+
+ll. Definition of Units
+
+il
+MPH = ——~
+hr
+h = 6.62606896 10 “ty “S Planck's Cons tant.
+=93 J
+k = 1.3806504- 10 = Boltzmann Constant.
+
+_ 8 m
+a= arene a Speed of light in a vacuum.
+
+Ill. Properties of Atmospheric Air
+A. Fundamental properties.
+
+Ratio of specific heats for air.
+
+Rair = 287: kg-K Gas constant for air.
+
+B. U.S. Standard Atmosphere
+
+1. The raw data is included in the matrix "data."
+2. Functions will be developed from a cubic spline interpolation of the data
+
+data = csort(data, 0)
+‘a
+
+height = (io%data ‘m
+
+) D
+
+pressure = ( 10 data/ -Pa
+
+(2)
+
+temperature = data ~ -K
+k
+density = data. 18
+
+m
+press ures, = cspline(height, press ure)
+
+37
+UNCLASSIFIED £4502-05516241-USE-ONEE-

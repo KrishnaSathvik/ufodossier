@@ -1,0 +1,34 @@
+UNCLASSIFIED/ fFOA. OFFI€il.t.L YSE er•tv 
+Table 1: Laser Systems lrradiance Calculations 
+Spot 
+Range Laser Power Area lrradiance 
+(km) (MW) (cmA2) (kW/cmA2) 
+1000 10 50000 0.1 
+350 10 500 1 
+350 1 50000 0.1 
+100 1 500 1 
+100 0.1 500 0.1 
+35 0.1 50 1 
+10 0.1 5 10 
+These irradiance levels show what could be delivered with laser powers from 100 kW to 
+10 MW at ranges from 10 to 1,000 km. This spans a wide range of realistic powers and 
+potentia l engagement ranges. The effectiveness of these irradiances against candidate 
+spacecraft designs will need to be determ ined through analyses and experiments. 
+Recommendations 
+If there are concerns about the potential vulnerability of future spacecraft to laser 
+radiation, then the following recommendations are offered: 
+• Optical components, such as horizon sensors, should have their telescopes baffled 
+and shielded to preclude the entrance of off-axis scattered light. Front shutters can 
+be installed and kept closed when the sensor is not in use or if excess optical energy 
+is detected. 
+• Antennas should be made with maximum reflectivity to UV, visible and near IR 
+wavelengths. They should also have as much thermal mass as possible. Coax 
+cables and power lines should be inside shields. 
+• Solar cells are more difficult to protect although some types are more tolerant of 
+laser radiation and thermal overload than others. They should be wired such that a 
+short or open in one area does not disable others. Cables should be shielded. 
+• Windows should have covers and potentially be coated to reflect laser wavelengths 
+of concern. Shutters that close automat ically if laser radiation is detected might 
+also be useful. 
+UNCLASSIFIED/ fFOA QFFI€il.t.L YSE 8,.L\f 
+25

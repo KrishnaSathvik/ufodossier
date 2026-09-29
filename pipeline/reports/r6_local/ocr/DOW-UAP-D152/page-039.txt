@@ -1,0 +1,29 @@
+UNCLASSIFIED/ /P'OR. 8FFIEil1'1.k lellii Ql'II.¥ 
+The time needed for the liquid metal to pass through a ~20 m thick layer is then ~2 x 
+103 seconds ~1 hour. The specific heat per unit volume of the coolant is pc., ~ 3 x 107 
+erg/cm 3K, and for T = 3 x 103 Kone has pc,,T ~1011 erg/cm 3 . 
+The heat per unit volume which has to be removed from the crushed rocks is of the 
+order p, where p is the rock pressure. In the center of the moon where p = 5 x 1010 
+2 10 3 
+, .dyn/cm this energy is 5 x 10 erg/cm It thus follows that the volume of the liquid 
+coolant must be about ½ of the rock volume to be cooled. For a rock volume of (20 
+cm) 3 ~ 104 m3, a coolant volume of about 5 x 103 cm3 would be needed. The same 
+coolant can be used many times over after the heat is removed from it, which could be 
+done on the surface of the moon by radiation or perhaps better by heat exchangers 
+transferring the heat to lunar sand. Without a thick layer of shattered rocks surrounding 
+the tunnel, the pressure acting on the tunnel wall would be large, in particular in the 
+center of the moon. Because of friction between particles of the shattered rock, large 
+shear stresses can be sustained changing the pressure distribution in the rock and 
+reducing the pressure gradient and hence the pressure on the tunnel wall. 
+A more detailed calculat ion [15) for the pressure distribution in the shattered rock 
+tunne l wall gives 
+p = (r/ro)9, (113) 
+where ro is the radius of the tunnel. 
+Integrating eqn (108) one obtains for the pressure distr ibution in the moon 
+,. 
+p(r) = - pgofrdr = _ Pgo (R2 - r 2) (114)
+R RR 
+for which one can also write 
+(115) 
+UNCLASSIFIED/fFOA OFFI&il.t.k lellii OJi,k¥ 
+35

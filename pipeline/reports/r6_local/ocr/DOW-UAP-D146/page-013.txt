@@ -1,0 +1,31 @@
+UNCLASSIFIED// FOR OFFICIAL l:ISI: 8HLY 
+The perennial challenge for developing such a device into a power reactor is the feat of 
+manufacturing and compressing 10 such 1-mm DT fuel pellets per second. One 
+significant problem is maintaining equal pressure on the pellets repeatedly to permit 
+energy production. 
+ELECTROSTATIC CONFINEMENT 
+This simple method of confinement is composed of concentric spheres (or sometimes 
+cylinders) acting as anode and cathode in a vacuum known as a Farnsworth-Hirsch 
+Fusor or, more commonly, Inertial Electrostatic Confinement (IEC). As shown in Figure 
+5, the inner sphere (cathode) is not solid, but rather is composed of a wire grid. Ions 
+entering the vacuum chamber between the anode and cathode are accelerated through 
+a large potential difference toward the cathode. Passing through the cathode, the ions 
+collide in the central region, with a small portion of the plasma population undergoing 
+fusion. 1• 2, 3 However, using this simple setup, it has been argued that net energy 
+production is not viable for anything other than deuterium-tritium fusion, in part 
+because the fusion-collision cross section is several orders of magnitude smaller than 
+the Coulomb-collision cross section. 4 An additional difficulty is that some of the plasma 
+interacts directly with the cathode, contaminating the plasma with heavy sputtered ions. 
+A method for mitigating this problem is to eliminate the cathode grid and instead use 
+magnetic (and electrostatic) fields to create a virtual cathode composed of electrons. 
+Such devices include the Polywell5 and the Penning trap. 6 One such Penning trap design 
+developed at Los Alamos injects electrons into the central region in such a manner as to 
+produce a harmonic oscillator potential. Called a Periodically Oscillating Plasma Sphere 
+(POPS), ions in this chamber then also undergo harmonic oscillations and can become 
+phase-locked with the use of an externally applied radiofrequency electric field.71 8 This 
+allows the ions to reach very high densities and temperatures as they collide at the 
+center of the chamber. This promising design eliminates any power loss due to Coulomb 
+collisions and substantially increases the efficiency of fusion-power generation. 
+Figure S. IEC Fusor and Polywell Confinement Configurations 
+UNCLASSIFIED//FOR OSSICI0~ Ui&i &NL¥ 
+8

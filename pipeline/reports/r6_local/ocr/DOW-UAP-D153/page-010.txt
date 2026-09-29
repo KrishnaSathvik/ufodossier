@@ -1,0 +1,39 @@
+UNCLASSIFIED/ /FOR 8FFl&IAk le:ISE 8Hk¥ 
+but depends on the state of u(x,t). This state exists even if literally nothing is in the 
+mode chosen by the observer. In this case, the light is just in the vacuum state. § 
+However, this "nothing" can indeed cause significant physical effects as will be 
+discussed in later sections. 
+To make all this more precise, we postulate that the electric field strength Eof the light 
+field is given by E=u*(x, t)a +u(x, t)a 1 and that the amplitude operator a is a bosonic** 
+annihilation operator that obeys the quantum mechanical commutation relation 
+[a, at]= 1, where u*(x,t) is the complex conjugate of u(x,t) and at is the adjoint (or 
+conjugate) of acalled the creat ion operator .tt The hat symbol appear ing over 
+quantities denotes that they are quantum operators (or observables). Another key 
+element of quantum-oscillator physics is the photon number operator fi, which 
+accounts for the number of photons (quantized light particles) in the chosen u(x,t) and 
+is given by the quantum mechanical counterpart of a classical modulus-squared 
+amplitude: n= a t cz. 
+Let us now introduce a pair of operators, q and p, called quadratures. They are 
+defined as q= 2- 112 (at+ a) and jJ = i2-I12 ( at - a) ,which can be inverted to provide the 
+additional useful definitions a= T 112 ( q+ip) and at =T I12 ( q- ip). In optics q and jJ 
+correspond to the in-phase and the out -of-phase component of the electric field 
+amplitude of u(x,t) (with respect to a reference phase). The bosonic commutat ion 
+relation demonstrates that q and /J are canonically conjugate observables, [q, p] =ih. 
+The quadratures q and p can be regarded as the position and the momentum of the 
+quantum electromagnetic oscillator. They do not appear in real space but in the phase 
+space spanned by the complex vibrational amplitude aof the quantum electromagnetic 
+oscillator, and they have nothing to do with the position and the momentum of a 
+photon. However, the canonical commutation relation entitles us to treat q and p as 
+perfect examples of position- and momentum-like quantities in quantum optics. Finally, 
+we express the photon number operator n in terms of the quadratures q and p and 
+obtain, using the bosonic commutation relation, the standard Hamiltonian (or total 
+energy) of the quantum harmonic ( electromagnetic) oscillator with unit mass and 
+frequency: 
+" - " 1 H ose= n+2 
+(1) 
+§ Here we always mean by "vacuum" simply "no light " and not an evacuated system. 
+•· Boson or bosonic refers to quantum particles that have integer quantum spin . 
+., In quantum mechanics, the vacuum is defined to be a state of no (or zero) particles and is denoted by the 
+quantum state eigenvector I0) . By definition a"annihilates" the vacuum state: aI0) =0 . 
+UNCLASSIFIED/ /FOA OFFIGIAk lel&E 8Ptk\S 
+6

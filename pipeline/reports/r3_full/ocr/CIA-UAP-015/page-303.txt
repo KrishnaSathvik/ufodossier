@@ -1,0 +1,112 @@
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+CODE 47 GROUP CLASSIFICATION 
+(Derived from the angle of elevation) 
+CODE 48-51 SUN BEARING ANGLE 
+(Calculated) 
+CODE 51 SUN BEARING ANGLE 
+X 
+y 
+0 
+l -79,99° to+ 79.99° 
+2 +80,00° to +89,99° 
+3 +90,00° to +100.00° 
+4 +100,01° to 130.00° 
+X East of the Meridian y 
+0 
+1 
+2 
+3 
+4 5 +130.01° to +180,00 and -180,00° to -100,01° 
+6 -100.00° to -90.01° 
+5 
+6 
+7 -90.00° to -80,00° 
+8 
+9 
+CODE 52 DURATION Tl1'iE UNITS 
+X 
+y 
+0 Days 
+1 Hours 
+2 Minutes 
+3 Seconds 
+4 5 
+6 
+7 
+8 
+9 
+CODE 56 OBSERVATION METHOD 
+X Variable y 
+0 Naked eye 
+1 Eye glasses 
+2 Window 
+3 Windshield 
+4 Binocular 
+5 Telescope 
+6 Theodolite 
+7 Radar 
+8 Photographic 
+9 Other 
+X 
+y 
+0 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+7 
+8 
+9 
+CODE 55 DURATION GROUP CLASSIFICATION 
+X 
+y 
+0 5 second and less 
+l 6 - 10 seconds 
+2 11 - 30 seconds 
+3 31 - 60 seconds 
+4 61 seconds - 5 minutes 
+5 6 - 30 minutes 
+6 Over 30 minutes 
+7 
+8 
+9 
+CODE 57 SOUND CODE 58 OBJECT COLOR 
+Variable X Variable 
+y 
+Motors 0 Metallic 
+Jets or rockets 1 Light., glow., luminous 
+Explosion 2 Red 
+Unlike aircraft 3 Orange 
+Hiss, swishing, whining 4 Yellow 
+Rumbling 5 Green 
+Humming or buzzing 6 Blue 
+None 7 Violet 
+8 Black 
+Other 9 White 
+305

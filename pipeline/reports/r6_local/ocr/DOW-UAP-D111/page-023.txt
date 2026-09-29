@@ -1,0 +1,97 @@
+(I) Defense Distribution Depot, Hill, UT: DoDAAC SW3210.
+
+(Q) Defense Distribution Depot, Tobyhanna, PA: DoDAAC W25G1W or SW3114.
+
+(J) Defense Distribution Depot, Jacksonville, FL: DoDAAC SW3122.
+
+(K) Defense Distribution Depot, Oklahoma City, OK: DoDAAC SW3211.
+
+(L) Defense Distribution Depot, Norfolk, VA: DoDAAC SW3117.
+
+(M) Defense Distribution Depot, Puget Sound, WA: DoDAAC SW3216.
+
+(N) Defense Distribution Depot, Red River, TX: DoDAAC W45G19 or SW3227.
+
+(0) Defense Distribution Depot, Richmond, VA: DoDAAC SW0400.
+
+(P) Defense Distribution Depot, San Diego, CA: DoDAAC SW3218.
+
+(R) Defense Distribution Depot, Warner Robins, GA: DoDAAC SW3119.
+
+(S) Air Mobility Command Terminal, Charleston Air Force Base, Charleston, SC: Air Terminal
+Identifier Code CHS.
+
+(T) Air Mobility Command Terminal, Naval Air Station, Norfolk, VA: Air Terminal Identifier
+Code NGU.
+
+(U) Air Mobility Command Terminal, Travis Air Force Base, Fairfield, CA: Air Terminal
+Identifier Code SUU.]
+
+(V) A location outside the contiguous United States when the shipment has been assigned
+Transportation Priority 1.
+
+(2) The following are excluded from the requirements of paragraph (b) (1) of this clause:
+(i) Shipments of bulk commodities.
+(ii) Shipments to locations other than Defense Distribution Depots when the contract includes
+
+the clause at FAR 52.21301, Fast Payment Procedures,
+
+(c) The Contractor shall ensure that-—
+
+(1) Ensure that the data encoded on each passive RFID tag are unique (i.e., the binary number is
+never repeated on any and all contracts) and conforms to the requirements in paragraph (d) of this
+clause;
+
+(2) Use passive tags that are readable; and
+
+(3) Ensure that the passive tag is affixed at the appropriate location on the specific level of
+packaging, in accordance with MIL-STD-129 (Section 4.9.2) tag placement specifications.
+
+(d) Data syntax and standards. The Contractor shall encode an approved RFID tag using the
+instructions provided in the EPC# Tag Data Standards in effect at the time of contract award. The
+EPC# Tag Data Standards are available at http://www.epcglobalinc.org/standards/.
+
+(1) If the Contractor is an EPCglobal subscriber and possesses a unique EPC# company prefix, the
+Contractor may use any of the identity types and encoding instructions described in the most recent
+EPC Tag Data Standards document to encode tags.
+
+(2) If the Contractor chooses to employ the DoD Identity Type, the Contractor shall use
+its previously assigned Commercial and Government Entity (CAGE) Code and shall encode the tags
+in accordance with the tag identity type details located at http://www.acq.osd.mil/log/rfid/
+
+tag_data.htm. If the Contractor uses a third party packaging house to encode its tags, the CAGE code
+of the third party packaging house is acceptable.
+
+(3) Regardless of the selected encoding scheme, the Contractor is responsible for ensuring that
+each tag contains a globally unique identifier.
+
+(e) Receiving report. The Contractor shall electronically submit advance shipment notice(s) with
+the RFID tag identification (specified in paragraph (d) of this clause) in advance of the shipment
+in accordance with the procedures at http://www.acq.osd.mil/log/rfid/advance_shipment_ntc.htm.
+
+(End of clause)
+
+I.10 252.219-7001 {252.219-7001} [RESERVED]
+I.11 252.219-7002 {252.219-7002} [RESERVED]
+
+I.12 252.219-7003 SMALL BUSINESS SUBCONTRACTING PLAN (DOD CONTRACTS) (APR 2007)
+
+This clause supplements the Federal Acquisition Regulation 52.219-9, Small Business Subcontracting
+Plan, clause of this contract.
+
+(a) "Definitions."
+
+"Historically black colleges and universities," as used in this clause, means institutions
+determined by the Secretary of Education to meet the requirements of 34 CFR Section 608.2. The
+term also means any nonprofit research institution that was an integral part of such a college or
+university before November 14, 1986.
+
+"Minority institutions," as used in this clause, means institutions meeting the requirements of
+Section 1046(3) of the Higher Education Act of 1965 (20 U.S.C. 1135d-5(3)). The term also includes
+Hispanic-serving institutions as defined in Section 316(b) (1) of such Act (20 U.S.C. 1059c(b) (1)).
+
+(b) Except for company or division-wide commercial items subcontracting plans, the term "small
+disadvantaged business," when used in the FAR 52.219-9 clause, includes historically black colleges
+and universities and minority institutions, in addition to small disadvantaged business concerns.
+
+PAGE 23 OF 59 HHM402-08-C-0072

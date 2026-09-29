@@ -1,0 +1,39 @@
+UNCLASSIFIED/ /fOR. Offl@IAL WS& 8PU:¥ 
+An added long-term potential advantage of developing the !EC-jet thruster is that the 
+concept can eventually be extended to an ultra high impulse fusion power/propulsion 
+unit. Indeed, the thruster concept arose from work on a fusion based IEC (Reference 
+3.5). To move to fusion power, however, would require advances such as discussed for 
+terrestrial IEC power plants as Section VI. 
+JET Extraction From a Spherical IEC 
+A plasma jet can be extracted from the gridded spherical IEC by enlarging a grid 
+opening. This forms the basis for various exciting applications including a jet thruster 
+and various plasma processing uses such as gasification of municipal wastes and future 
+materials recycle. Here, to illustrate this asymmetrical geometry, we briefly consider 
+the IEC jet thruster for use in satellite operations and maneuvering (Reference· 3.6). 
+Description of the IEC let Thruster 
+For convent ional star mode operation, such as discussed earlier, the IEC grid is 
+designed to be highly symmetric so that the microchlannel beams are also symmetric, 
+providing good convergence. However, experiments have demonstrated that enlarging 
+one of the grid openings distorts the potential surfaces. This results in the creation of a 
+very intense, tightly coupled space-charge-neutralized ion jet directed outward from the 
+central core plasma region (see Figure 3.2) (Reference 3. 7), and it is this mode of 
+operation (star with jet) that would be employed for the proposed thruster. 
+Enmtters 
+Xenon 
+Electron 
+Guide 
++ IOOV 
+~ 
+(a) (b) 
+Figure 3.2. (a) Jet Operational Mode in Experimental IEC Device and (b) Jet Set-up 
+The jet formation has been explained theoretically (Reference 3.5) in terms of the large 
+distortion of the potential surface at the enlarged grid opening. The local gradient 
+initiates electron flow that in turn drags ions out across the surface. The result is the 
+formation of the intense space charge neutralized ion beam (or "plasma jet") at that 
+location. Such operation has been routinely obtained in laboratory IEC devices under 
+steady-state operation, with the plasma jet being maintained for hours. The power 
+carried by the jet has been demonstrated by heating a target plate placed in its path. 
+Over half of the energy imparted to the ions by the accelerating grid is effectively 
+funneled into the jet, and no major losses of ions to the vacuum chamber wall or grid 
+UNCLASSIFIED/ /FOA 9FFIEIAL: P Pili OIILY 
+24

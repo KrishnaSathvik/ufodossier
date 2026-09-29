@@ -1,0 +1,107 @@
+UNCLASSIFIED ++FO@R-OFFECIAL-USE-ONET
+Chapter 7: Endnotes
+
+' Tecate Group website
+
+2B. E Conway, Electrochemical Supercapacitors: Scientific, Fundamentals, and Technological Applications, Kluwer,
+New York (1999).
+
+3 Wikipedia Commons
+
+43. R. Miller, P. Simon, Fundamentals of Electrochemical Capacitor Design and Operation; ECS Interface, 17, Spr.
+2008, 31-33
+
+> EPCOS White Paper on UltraCap Technology
+
+® P, Simon, A. Burke, Nanostructured Carbons: Double-Layer Capacitance and More; ECS Interface, 17, Spr. 2008,
+38-43
+
+? EPCOS White Paper on UltraCap Technology
+
+® D. Tuite, Get the Lowdown On Ultracapacitors; Electronic Design, Nov 2007.
+
+2). R. Miller, A. F. Burke, Electrochemical Capacitors: Challenges and Opportunities for Real-World Applications;
+ECS Interface, 17, Spr. 2008, 53-57
+
+109, R. Miller, A. F. Burke, Electrochemical Capacitors: Challenges and Opportunities for Real-World Applications;
+ECS Interface, 17, Spr. 2008, 53-57
+
+9, R. Miller, A. F. Burke, Electrochemical Capacitors: Challenges and Opportunities for Real-World Applications;
+ECS Interface, 17, Spr. 2008, 53-57
+
+12 K, Naoi, P. Simon, New Materials and New Configurations for Advanced Electrochemical Capacitors; ECS
+Interface, 17, Spr. 2008, 34-37
+
+13 Burke, Ultracapacitor Technologies and Application in Hybrid and Electric Vehicles; International Journal of
+Energy Research; July 2009
+
+143, R. Miller, P. Simon, Fundamentals of Electrochemical Capacitor Design and Operation; ECS Interface, 17, Spr.
+2008, 31-33
+
+15 Pp, Simon, A. Burke, Nanostructured Carbons: Double-Layer Capacitance and More; ECS Interface, 17, Spr. 2008,
+38-43
+
+16 EPCOS White Paper on UltraCap Technology
+
+17 Pp. Simon, Y. Gogotsi, Charge Storage Mechanism in Nanoporous Carbons and Its Consequence for Electrical
+Double Layer Capacitors, Phil. Trans. R. Soc. A, 368, 3457 (2010)
+
+18 CN. R. Rao, A. K. Sood, R. Voggu, K. S. Subrahmanyam, Some Novel Attributes of Graphene, J. Phys. Chem.
+Lett., 1, 572 (2010)
+
+19S, Park, R. Ruoff, Chemical Methods for the Production of Graphenes; Nature Nanotechnology; 4, 217 (2009)
+
+20 J, Chmiola, G. Yushin, Y. Gogotsi, C. Portet, P. simon, P. L. Taberna, Anomalous Increase in Carbon Capacitance
+at Pore Sizes Less than 1 Nanometer; Science, 313, 1760 (2006)
+
+21 P. Simon, A. Burke, Nanostructured Carbons: Double-Layer Capacitance and More; ECS Interface, 17, Spr. 2008,
+38-43
+
+22 D. Tuite, Get the Lowdown On Ultracapacitors; Electronic Design, Nov 2007.
+
+23 _D. Tuite, Get the Lowdown On Ultracapacitors; Electronic Design, Nov 2007.
+
+24 A, S. Arico, P. Bruce, B. Scrosati, J.-M. Tarascon,W. van Schalkwijk, Nat. Mater. 4, 366 (2005).
+
+25S, W. Lee, B.-S. Kim, S. Chen, Y. Shao-Horn, P. T. Hammond, J. Am. Chem. Soc. 131, 671 (2009).
+
+26 D. Pech et al., J. Power Sources 195, 1266 (2010).
+
+27 W. Sun, X. Y. Chen, Microelectron. Eng. 86, 1307 (2009).
+
+28 J, Wang, J. Polleux, J. Lim, B. Dunn, J. Phys. Chem. C 111, 14925 (2007).
+
+2° K, Naoi, P. Simon, New Materials and New Configurations for Advanced Electrochemical Capacitors; ECS
+Interface, 17, Spr. 2008, 34-37
+
+30H, J. Ahn, W. B. Kim, T. Y. Seong, Electrochem. Commun. 10, 1284 (2008).
+
+31C, N. R. Rao, A. K. Sood, R. Voggu, K. S. Subrahmanyam, Some Novel Attributes of Graphene, J. Phys. Chem.
+Lett., 1, 572 (2010)
+
+32M. D. Stoller, S. Park, Y. Zhu, J. An, R. S. Ruoff, Graphene-Based Ultracapacitors, Nano Lett, 8, 3498 (2008)
+33M, D. Stoller, S. Park, Y. Zhu, J. An, R. S. Ruoff, Graphene-Based Ultracapacitors, Nano Lett, 8, 3498 (2008)
+
+34. J, Chmiola, G. Yushin, Y. Gogotsi, C. Portet, P. simon, P. L. Taberna, Anomalous Increase in Carbon Capacitance
+at Pore Sizes Less than 1 Nanometer; Science, 313, 1760 (2006)
+
+35 D. Pech et al., J. Power Sources 195, 1266 (2010).
+
+36 J, Leis, M. Arulepp, A. Kuura, M. Latt, E. Lust, Carbon 44, 2122 (2006).
+
+37 A, Janes, E. Lust, J. Electrochem. Soc. 153, A113 (2006).
+
+38 E, N. Hoffman, G. Yushin, B. G. Wendler, M. W. Barsoum,Y. Gogotsi, Mater. Chem. Phys. 112, 587 (2008).
+
+3°. R, K. Dash, G. Yushin, Y. Gogotsi, MicroporousMesoporous Mater. 86, 50 (2005).
+
+40 7. G. Cambaz, G. N. Yushin, Y. Gogotsi, K. L. Vyshnyakova, L. N. Pereselentseva, J. Am. Ceram. Soc. 89, 509
+(2006)
+
+41 J, Chmiola, C. Largeot, P. Taberna, P.Simon, Y.Gogotsi, Monolithic Carbide-Derived Carbon Films for Micro-
+Supercapacitors, Science,328, 480 (2010)
+
+42 A, Janes, E. Lust, J. Electrochem. Soc. 153, A113 (2006).
+
+28
+UNCLASSIFIED --6OR-OFFE6EA-USE-ONEY
