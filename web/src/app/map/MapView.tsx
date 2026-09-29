@@ -5,32 +5,12 @@ import maplibregl from "maplibre-gl";
 import "maplibre-gl/dist/maplibre-gl.css";
 import { MapPanel } from "@/components/MapPanel";
 
-function rasterStyle(variant: "dark_all" | "light_all"): maplibregl.StyleSpecification {
-  return {
-    version: 8,
-    sources: {
-      carto: {
-        type: "raster",
-        tiles: [
-          `https://a.basemaps.cartocdn.com/${variant}/{z}/{x}/{y}@2x.png`,
-          `https://b.basemaps.cartocdn.com/${variant}/{z}/{x}/{y}@2x.png`,
-          `https://c.basemaps.cartocdn.com/${variant}/{z}/{x}/{y}@2x.png`,
-          `https://d.basemaps.cartocdn.com/${variant}/{z}/{x}/{y}@2x.png`,
-        ],
-        tileSize: 256,
-        attribution:
-          '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions">CARTO</a>',
-      },
-    },
-    glyphs: "https://demotiles.maplibre.org/font/{fontstack}/{range}.pbf",
-    layers: [{ id: "carto-basemap", type: "raster", source: "carto" }],
-  };
-}
-
-function getMapStyle(): maplibregl.StyleSpecification {
+function getMapStyle(): string {
+  // OpenFreeMap styles need no API key. CARTO basemap CDN now watermarks
+  // unauthenticated tile requests with "API KEY REQUIRED".
   return document.documentElement.classList.contains("dark")
-    ? rasterStyle("dark_all")
-    : rasterStyle("light_all");
+    ? "https://tiles.openfreemap.org/styles/dark"
+    : "https://tiles.openfreemap.org/styles/positron";
 }
 
 export interface MapIncident {
