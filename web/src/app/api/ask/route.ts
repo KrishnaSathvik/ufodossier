@@ -1,6 +1,7 @@
 import { createHash, randomBytes } from "crypto";
 import { NextRequest } from "next/server";
 import { buildUserMessage } from "@/lib/rag/context";
+import { getCachedExample } from "@/lib/rag/exampleCache";
 import { generateGroundedAnswer } from "@/lib/rag/generate";
 import { isOffTopic, OFF_TOPIC_TEXT } from "@/lib/rag/guard";
 import { RAG_PROMPT_VERSION, RETRIEVAL_VERSION } from "@/lib/rag/prompt";
@@ -117,6 +118,20 @@ export async function POST(req: NextRequest) {
         controller.enqueue(encoder.encode(`data: ${JSON.stringify(obj)}\n\n`));
       const started = Date.now();
       try {
+        const cached = getCachedExample(question);
+        if (cached) {
+          send({ type: "replace", text: cached.answer });
+          send({ type: "citations", citations: cached.citations });
+          send({
+            type: "citation_status",
+            status: cached.citation_status,
+            invalid: [],
+          });
+          send({ type: "slug", slug: randomBytes(5).toString("hex").slice(0, 8) });
+          controller.close();
+          return;
+        }
+
         if (isOffTopic(question)) {
           send({ type: "replace", text: OFF_TOPIC_TEXT });
           send({ type: "citations", citations: [] });

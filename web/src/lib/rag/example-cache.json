@@ -1,0 +1,287 @@
+{
+  "What did the FBI investigate in 1947?": {
+    "answer": "There are 33 FBI records from 1947; eight are shown here. They concern reports of flying discs and other unusual objects, including the June 24 Mount Rainier/Mount Adams reports [1947-FBI-0292] [1947-FBI-33B6], sightings near Bakersfield, Boise, Hackensack, and Twin Falls [1947-FBI-22AF] [1947-FBI-3A2E52] [1947-FBI-0E20EB] [1947-FBI-1E3E2B], and photographs taken in Phoenix [1947-FBI-54799C].\n\nThe FBI and Navy also examined a reported disc that landed on a Seattle roof. They found a constructed device made with plywood, radio tubes, and an oil container [1947-FBI-589206]. Several of the other reports remain unresolved in the records shown.",
+    "citations": [
+      {
+        "id": "1947-FBI-0292",
+        "slug": "1947-gov-kenneth-arnold-flying-disc-sighting-0292",
+        "case_id": "1947-FBI-0292",
+        "title": "Kenneth Arnold flying disc sighting near Mount Rainier",
+        "occurred_at": "1947-06-24",
+        "location_text": "Near Mount Adams/Mount Rainier, Idaho/Washington area",
+        "href": "/incident/1947-gov-kenneth-arnold-flying-disc-sighting-0292"
+      },
+      {
+        "id": "1947-FBI-33B6",
+        "slug": "1947-gov-f-m-johnson-mt-adams-33b6",
+        "case_id": "1947-FBI-33B6",
+        "title": "F.M. Johnson Mt. Adams sighting",
+        "occurred_at": "1947-06-24",
+        "location_text": "Mt Adams district",
+        "href": "/incident/1947-gov-f-m-johnson-mt-adams-33b6"
+      },
+      {
+        "id": "1947-FBI-22AF",
+        "slug": "1947-gov-richard-rankin-bakersfield-sighting-22af",
+        "case_id": "1947-FBI-22AF",
+        "title": "Richard Rankin Bakersfield sighting",
+        "occurred_at": "1947-06-14",
+        "location_text": "1806 South M Street, Bakersfield, California",
+        "href": "/incident/1947-gov-richard-rankin-bakersfield-sighting-22af"
+      },
+      {
+        "id": "1947-FBI-3A2E52",
+        "slug": "1947-gov-united-airlines-crew-boise-sighting-3a2e",
+        "case_id": "1947-FBI-3A2E52",
+        "title": "United Airlines crew Boise sighting",
+        "occurred_at": "1947-07-04",
+        "location_text": "over Boise, Idaho",
+        "href": "/incident/1947-gov-united-airlines-crew-boise-sighting-3a2e"
+      },
+      {
+        "id": "1947-FBI-0E20EB",
+        "slug": "1947-fbi-hackensack-nj-flying-disc-sighting-0e20",
+        "case_id": "1947-FBI-0E20EB",
+        "title": "Hackensack, NJ Flying Disc Sighting",
+        "occurred_at": "1947-08-03",
+        "location_text": "HACKENSACK, NJ",
+        "href": "/incident/1947-fbi-hackensack-nj-flying-disc-sighting-0e20"
+      },
+      {
+        "id": "1947-FBI-1E3E2B",
+        "slug": "1947-gov-twin-falls-idaho-multiple-observations-1e3e",
+        "case_id": "1947-FBI-1E3E2B",
+        "title": "Twin Falls, Idaho multiple observations",
+        "occurred_at": "1947-08-19",
+        "location_text": "Twin Falls, Idaho",
+        "href": "/incident/1947-gov-twin-falls-idaho-multiple-observations-1e3e"
+      },
+      {
+        "id": "1947-FBI-54799C",
+        "slug": "1947-fbi-william-rhoads-arizona-photographs-5479",
+        "case_id": "1947-FBI-54799C",
+        "title": "William Rhoads Arizona photographs",
+        "occurred_at": "1947-07-07",
+        "location_text": "Phoenix, Arizona",
+        "href": "/incident/1947-fbi-william-rhoads-arizona-photographs-5479"
+      },
+      {
+        "id": "1947-FBI-589206",
+        "slug": "1947-fbi-seattle-disk-landing-on-roof-5892",
+        "case_id": "1947-FBI-589206",
+        "title": "Seattle disk landing on roof, July 16, 1947",
+        "occurred_at": "1947-07-15",
+        "location_text": "Seattle, Washington",
+        "href": "/incident/1947-fbi-seattle-disk-landing-on-roof-5892"
+      },
+      {
+        "id": "DOW-UAP-D097",
+        "slug": null,
+        "case_id": "DOW-UAP-D097",
+        "title": "DOW-UAP-D097, Project Sign Progress Report, 1948",
+        "occurred_at": null,
+        "location_text": null,
+        "href": "/source/DOW-UAP-D097"
+      },
+      {
+        "id": "DOW-UAP-D100",
+        "slug": null,
+        "case_id": "DOW-UAP-D100",
+        "title": "DOW-UAP-D100, Air Materiel Command Report on Unidentified Flying Objects, 1947-1948",
+        "occurred_at": null,
+        "location_text": null,
+        "href": "/source/DOW-UAP-D100"
+      }
+    ],
+    "citation_status": "valid"
+  },
+  "Which incidents involved radar detection?": {
+    "answer": "Thirty-three records mention radar. The incidents described in the records shown are:\n\n- January 1947, North Sea: Radar detected a fast object that an RAF fighter could not intercept. [1947-USN-7828E5]\n- April 18, 1948: Air-search radar tracked a target; its location is not stated. [1948-USAF-A09FD8]\n- March 1–4, 1950, Oak Ridge: Stuart Adcock reported repeated radar returns. Investigators could not verify them and questioned his equipment’s reliability. [1950-USAF-ABC2] [1950-USAF-3455]\n- June 29, 1950, Phoenix: An object seen by witnesses was also tracked by radar and pursued by a B-29. [1950-USAF-B40F]\n- October 12, 1950, Oak Ridge: Ground radar indicated at least eleven objects. An intercepting fighter reported no visual or onboard-radar contact. [1950-USAF-A022]\n- December 14, 1950, Oak Ridge: Radar showed a group of targets; a fighter intercept produced no visual identification. [1950-USAF-0972]\n- December 20, 1950, Oak Ridge: Radar detected a slow-moving return. An F-82 intercepted and circled a small smoke cloud. [1950-USAF-1E05]\n- July 1955, near Newfoundland: A KC-97 crew’s sighting coincided with ground-radar returns. A USAF committee could not explain both, according to DOW-UAP-D095, Joint U.S.-Canadian Aviation Projects and UFO Sighting Reports, 1954-1955.\n- November 19, 1964, near Puerto Rico: A Navy pilot reported an object, and USS Gyatt recorded a radar track. CIA-UAP-D022, Unidentified Flying Object Reported near Puerto Rico, 1965, and CIA-UAP-D023, Briefing Notes for Mr. Walter Elder, describe the same incident.",
+    "citations": [
+      {
+        "id": "1947-USN-7828E5",
+        "slug": "1947-usn-north-sea-radar-detection-raf-7828",
+        "case_id": "1947-USN-7828E5",
+        "title": "North Sea radar detection - RAF Mosquito interception attempt",
+        "occurred_at": "1947-01-01",
+        "location_text": "North Sea",
+        "href": "/incident/1947-usn-north-sea-radar-detection-raf-7828"
+      },
+      {
+        "id": "1948-USAF-A09FD8",
+        "slug": "1948-usaf-radar-contact-18-april-1948-a09f",
+        "case_id": "1948-USAF-A09FD8",
+        "title": "Radar Contact - 18 April 1948",
+        "occurred_at": "1948-04-18",
+        "location_text": null,
+        "href": "/incident/1948-usaf-radar-contact-18-april-1948-a09f"
+      },
+      {
+        "id": "1950-USAF-ABC2",
+        "slug": "1950-usaf-radar-detection-over-oak-ridge-abc2",
+        "case_id": "1950-USAF-ABC2",
+        "title": "Radar detection over Oak Ridge, Tennessee",
+        "occurred_at": "1950-03-01",
+        "location_text": "Oak Ridge, Tennessee",
+        "href": "/incident/1950-usaf-radar-detection-over-oak-ridge-abc2"
+      },
+      {
+        "id": "1950-USAF-3455",
+        "slug": "1950-usaf-oak-ridge-radar-detections-march-3455",
+        "case_id": "1950-USAF-3455",
+        "title": "Oak Ridge radar detections - March 1950",
+        "occurred_at": "1950-03-04",
+        "location_text": "Oak Ridge, Tennessee",
+        "href": "/incident/1950-usaf-oak-ridge-radar-detections-march-3455"
+      },
+      {
+        "id": "1950-USAF-B40F",
+        "slug": "1950-usaf-phoenix-arizona-radar-and-aircraft-b40f",
+        "case_id": "1950-USAF-B40F",
+        "title": "Phoenix, Arizona radar and aircraft pursuit",
+        "occurred_at": "1950-06-29",
+        "location_text": "Phoenix, Arizona; last sighted near Blythe, California",
+        "href": "/incident/1950-usaf-phoenix-arizona-radar-and-aircraft-b40f"
+      },
+      {
+        "id": "1950-USAF-A022",
+        "slug": "1950-usaf-oak-ridge-radar-detection-october-a022",
+        "case_id": "1950-USAF-A022",
+        "title": "Oak Ridge radar detection, October 12, 1950",
+        "occurred_at": "1950-10-12",
+        "location_text": "Oak Ridge, Tennessee, controlled area of Atomic Energy Commission installation",
+        "href": "/incident/1950-usaf-oak-ridge-radar-detection-october-a022"
+      },
+      {
+        "id": "1950-USAF-0972",
+        "slug": "1950-usaf-oak-ridge-december-14-1950-0972",
+        "case_id": "1950-USAF-0972",
+        "title": "Oak Ridge December 14, 1950 radar event",
+        "occurred_at": "1950-12-14",
+        "location_text": "Oak Ridge, Tennessee, government Atomic Energy Commission projects",
+        "href": "/incident/1950-usaf-oak-ridge-december-14-1950-0972"
+      },
+      {
+        "id": "1950-USAF-1E05",
+        "slug": "1950-usaf-oak-ridge-december-20-1950-1e05",
+        "case_id": "1950-USAF-1E05",
+        "title": "Oak Ridge December 20, 1950 radar intercept",
+        "occurred_at": "1950-12-20",
+        "location_text": "Oak Ridge, Tennessee, controlled area",
+        "href": "/incident/1950-usaf-oak-ridge-december-20-1950-1e05"
+      },
+      {
+        "id": "CIA-UAP-D022",
+        "slug": null,
+        "case_id": "CIA-UAP-D022",
+        "title": "CIA-UAP-D022, Unidentified Flying Object Reported near Puerto Rico, 1965",
+        "occurred_at": null,
+        "location_text": null,
+        "href": "/source/CIA-UAP-D022"
+      },
+      {
+        "id": "CIA-UAP-D023",
+        "slug": null,
+        "case_id": "CIA-UAP-D023",
+        "title": "CIA-UAP-D023, Briefing Notes for Mr. Walter Elder",
+        "occurred_at": null,
+        "location_text": null,
+        "href": "/source/CIA-UAP-D023"
+      },
+      {
+        "id": "DOW-UAP-D095",
+        "slug": null,
+        "case_id": "DOW-UAP-D095",
+        "title": "DOW-UAP-D095, Joint U.S.-Canadian Aviation Projects and UFO Sighting Reports, 1954-1955",
+        "occurred_at": null,
+        "location_text": null,
+        "href": "/source/DOW-UAP-D095"
+      }
+    ],
+    "citation_status": "valid"
+  },
+  "What happened near Washington D.C.?": {
+    "answer": "Several reports concerned Washington, D.C. In 1950, a resident reported a high-altitude, silvery, cigar-shaped object moving east; the case remained unresolved [1950-FBI-6552].\n\nRecords describing July 1951 say radar operators and commercial pilots observed unidentified objects over Washington for about six hours. A later radar report says jets were dispatched; one pilot saw lights that disappeared as he approached. Both cases remained unresolved [UNDATED-USAF-F28F86] [UNDATED-USAF-D173A2].\n\nIn 1952, a couple noticed an unexplained spot in a photograph taken near the Smithsonian. They had seen nothing unusual when they took it, and the case had insufficient data [1952-FBI-4C50B6].",
+    "citations": [
+      {
+        "id": "1950-FBI-6552",
+        "slug": "1950-fbi-douglas-harrison-washington-d-c-6552",
+        "case_id": "1950-FBI-6552",
+        "title": "Douglas Harrison Washington D.C. sighting",
+        "occurred_at": "1950-06-25",
+        "location_text": "Washington, D.C., 2337 Ashmead Place, N.W.",
+        "href": "/incident/1950-fbi-douglas-harrison-washington-d-c-6552"
+      },
+      {
+        "id": "UNDATED-USAF-F28F86",
+        "slug": "undated-usaf-washington-d-c-radar-and-f28f",
+        "case_id": "UNDATED-USAF-F28F86",
+        "title": "Washington D.C. Radar and Pilot Sightings - July 20, 1951",
+        "occurred_at": null,
+        "location_text": "Washington, D.C.",
+        "href": "/incident/undated-usaf-washington-d-c-radar-and-f28f"
+      },
+      {
+        "id": "UNDATED-USAF-D173A2",
+        "slug": "undated-usaf-washington-d-c-radar-and-d173",
+        "case_id": "UNDATED-USAF-D173A2",
+        "title": "Washington D.C. Radar and Interceptor Engagement - July 26, 1951",
+        "occurred_at": null,
+        "location_text": "Washington, D.C.",
+        "href": "/incident/undated-usaf-washington-d-c-radar-and-d173"
+      },
+      {
+        "id": "1952-FBI-4C50B6",
+        "slug": "1952-gov-narvel-reece-photograph-over-washington-4c50",
+        "case_id": "1952-FBI-4C50B6",
+        "title": "Narvel Reece Photograph Over Washington D.C.",
+        "occurred_at": "1952-10-05",
+        "location_text": "Washington D.C., near Smithsonian Institute",
+        "href": "/incident/1952-gov-narvel-reece-photograph-over-washington-4c50"
+      }
+    ],
+    "citation_status": "valid"
+  },
+  "Are there any NASA-related sightings?": {
+    "answer": "Yes. There are 31 NASA records; eight are shown here. During Gemini 7, astronauts reported a “bogey” and hundreds of particles. The case identifies the bogey as debris or particles [1965-NASA-EE52BC]. The account appears in NASA-UAP-D003, Gemini 7 Transcript, 1965.\n\nNASA-UAP-D004, Apollo 11 Technical Crew Debriefing, 1969 describes an object seen on the way to the Moon; the crew speculated it might be a rocket stage. During Apollo 12, an astronaut reported flashes and particles of light that seemed to sail into space [1969-NASA-E575D5].",
+    "citations": [
+      {
+        "id": "1965-NASA-EE52BC",
+        "slug": "1965-nasa-gemini-7-bogey-at-ten-ee52",
+        "case_id": "1965-NASA-EE52BC",
+        "title": "Gemini 7 Bogey at Ten O'Clock High",
+        "occurred_at": "1965-12-15",
+        "location_text": "In orbit during Gemini 7 mission",
+        "href": "/incident/1965-nasa-gemini-7-bogey-at-ten-ee52"
+      },
+      {
+        "id": "1969-NASA-E575D5",
+        "slug": "1969-nasa-apollo-12-lm-lights-and-e575",
+        "case_id": "1969-NASA-E575D5",
+        "title": "Apollo 12 LM lights and particles observation",
+        "occurred_at": "1969-05-19",
+        "location_text": "Moon, lunar orbit",
+        "href": "/incident/1969-nasa-apollo-12-lm-lights-and-e575"
+      },
+      {
+        "id": "NASA-UAP-D003",
+        "slug": null,
+        "case_id": "NASA-UAP-D003",
+        "title": "NASA-UAP-D003, Gemini 7 Transcript, 1965",
+        "occurred_at": null,
+        "location_text": null,
+        "href": "/source/NASA-UAP-D003"
+      },
+      {
+        "id": "NASA-UAP-D004",
+        "slug": null,
+        "case_id": "NASA-UAP-D004",
+        "title": "NASA-UAP-D004, Apollo 11 Technical Crew Debriefing, 1969",
+        "occurred_at": null,
+        "location_text": null,
+        "href": "/source/NASA-UAP-D004"
+      }
+    ],
+    "citation_status": "valid"
+  }
+}

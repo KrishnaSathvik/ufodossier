@@ -20,6 +20,7 @@ interface Turn {
   citations: Citation[];
 }
 
+/** Must match keys in web/src/lib/rag/example-cache.json */
 const EXAMPLES = [
   "What did the FBI investigate in 1947?",
   "Which incidents involved radar detection?",
