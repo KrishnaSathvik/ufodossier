@@ -67,8 +67,8 @@ export default async function SourcesPage({ searchParams }: { searchParams: Prom
         ) : (
           <ul className="divide-y divide-rule border-y border-rule [overflow-wrap:anywhere]">
             {sources.map((source) => (
-              <li key={source.externalId}>
-                <Link href={`/source/${source.externalId}`} className="block py-3 px-2 hover:bg-bg-elev">
+              <li key={source.slug}>
+                <Link href={`/source/${source.slug}`} className="block py-3 px-2 hover:bg-bg-elev">
                   <div className="font-serif">{source.title}</div>
                   <div className="text-xs font-mono text-ink-faint mt-1">
                     {releaseLabel(source.release)} · {source.agency} · {recordTypeLabel(source.type)} · {documentClassLabel(source.classification)} · {processingStateLabel(source.processingState)}

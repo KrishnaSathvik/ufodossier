@@ -3,7 +3,8 @@ import path from "path";
 import type { CanonicalContext } from "@/lib/rag/types";
 
 export type SourceRecord = {
-  externalId: string;
+  externalId: string | null;
+  slug: string;
   identityKey: string;
   release: number;
   agency: string;
@@ -52,7 +53,7 @@ export type FragmentRecord = {
 };
 
 type CoverageRow = {
-  external_id: string;
+  external_id: string | null;
   identity_key: string;
   release: number;
   agency: string;
@@ -66,7 +67,8 @@ type CoverageRow = {
 };
 
 type OfficialRow = {
-  external_id: string;
+  identity_key: string;
+  external_id: string | null;
   title?: string;
   description?: string;
   original_url?: string;
@@ -263,20 +265,25 @@ function loadCatalog(): Catalog {
     canonical_events: [],
     event_series: [],
   });
-  const officialById = new Map(official.map((row) => [row.external_id, row]));
+  // The official snapshot reuses an ID for the FBI PDF and image; type
+  // distinguishes their metadata. Coverage gives the image a suffixed identity.
+  const officialByIdentity = new Map(official.map((row) => [`${row.identity_key}:${row.source_type}`, row]));
   const checksums = loadChecksums();
   const fragments = loadFragments();
 
   const sources: SourceRecord[] = coverage.records.map((row) => {
-    const meta = officialById.get(row.external_id);
-    const sum = checksums.get(row.external_id);
+    const meta = officialByIdentity.get(`${row.identity_key}:${row.type}`)
+      ?? (row.external_id ? officialByIdentity.get(`pursue:${row.external_id}:${row.type}`) : undefined);
+    const sum = row.external_id ? checksums.get(row.external_id) : undefined;
     return {
       externalId: row.external_id,
+      // Preserve existing external-ID URLs and give anonymous files stable URLs.
+      slug: row.identity_key.replace(/^pursue:/, "").replace(/:/g, "-"),
       identityKey: row.identity_key,
       release: row.release,
       agency: row.agency,
       type: row.type,
-      title: row.title || meta?.title || row.external_id,
+      title: row.title || meta?.title || row.identity_key,
       description: meta?.description ?? null,
       originalUrl: meta?.original_url ?? null,
       sha256: sum?.sha256 ?? meta?.sha256 ?? null,
@@ -307,7 +314,7 @@ function loadCatalog(): Catalog {
   const sourceOnlyIds = new Set(
     sources
       .filter((source) => source.externalId && !source.containsIncidents)
-      .map((source) => source.externalId.toUpperCase()),
+      .map((source) => source.externalId!.toUpperCase()),
   );
 
   cached = {
@@ -404,16 +411,20 @@ export function sourceFacets() {
 
 export function getSource(externalId: string): SourceRecord | null {
   const decoded = decodeURIComponent(externalId);
-  return loadCatalog().sources.find((source) => source.externalId === decoded) ?? null;
+  return loadCatalog().sources.find((source) => source.slug === decoded) ?? null;
 }
 
-export function fragmentsForSource(externalId: string): FragmentRecord[] {
-  return loadCatalog().fragments.filter((fragment) => fragment.sourceExternalId === externalId);
+export function fragmentsForSource(slug: string): FragmentRecord[] {
+  const source = getSource(slug);
+  if (!source?.externalId || !source.containsIncidents) return [];
+  return loadCatalog().fragments.filter((fragment) => fragment.sourceExternalId === source.externalId);
 }
 
-export function eventsForSource(externalId: string) {
+export function eventsForSource(slug: string) {
   const catalog = loadCatalog();
-  const needle = externalId.toLowerCase();
+  const source = getSource(slug);
+  if (!source?.externalId || !source.containsIncidents) return [];
+  const needle = source.externalId.toLowerCase();
   return catalog.events
     .filter((event) =>
       (event.source_roles ?? []).some((role) => role.filename.toLowerCase().includes(needle)),

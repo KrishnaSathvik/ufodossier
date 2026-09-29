@@ -14,8 +14,8 @@ export async function generateMetadata({ params }: { params: Promise<{ id: strin
   if (!source) return { title: "Source" };
   return {
     title: source.title,
-    description: source.description?.slice(0, 180) || `Official source record ${source.externalId}.`,
-    alternates: { canonical: `/source/${source.externalId}` },
+    description: source.description?.slice(0, 180) || `Official source record ${source.externalId ?? source.title}.`,
+    alternates: { canonical: `/source/${source.slug}` },
     openGraph: { title: source.title, description: source.description?.slice(0, 180) ?? source.title },
   };
 }
@@ -24,8 +24,8 @@ export default async function SourcePage({ params }: { params: Promise<{ id: str
   const { id } = await params;
   const source = getSource(id);
   if (!source) notFound();
-  const fragments = fragmentsForSource(source.externalId);
-  const events = eventsForSource(source.externalId);
+  const fragments = fragmentsForSource(source.slug);
+  const events = eventsForSource(source.slug);
   const jsonLdType = source.type === "video" ? "VideoObject" : source.type === "audio" ? "AudioObject" : source.type === "image" ? "ImageObject" : "Article";
   const back = source.type === "audio"
     ? { href: "/audio", label: "Audio", nav: "audio" }
@@ -38,7 +38,7 @@ export default async function SourcePage({ params }: { params: Promise<{ id: str
         "@type": jsonLdType,
         name: source.title,
         description: source.description ?? undefined,
-        url: `https://www.ufodossier.com/source/${source.externalId}`,
+        url: `https://www.ufodossier.com/source/${source.slug}`,
         ...(source.originalUrl ? { contentUrl: source.originalUrl } : {}),
       }} />
 

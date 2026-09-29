@@ -444,7 +444,7 @@ function SourceFileName({ filename }: { filename?: string | null }) {
   }
   if (source) {
     return (
-      <Link href={`/source/${source.externalId}`} className="text-accent hover:underline">
+      <Link href={`/source/${source.slug}`} className="text-accent hover:underline">
         {filename}
       </Link>
     );

@@ -47,8 +47,8 @@ export default async function ReleaseDetailPage({ params }: { params: Promise<{ 
         </p>
         <ul className="divide-y divide-rule border-y border-rule [overflow-wrap:anywhere]">
           {sources.map((source) => (
-            <li key={source.externalId}>
-              <Link href={`/source/${source.externalId}`} className="block py-3 hover:bg-bg-elev px-2">
+            <li key={source.slug}>
+              <Link href={`/source/${source.slug}`} className="block py-3 hover:bg-bg-elev px-2">
                 <div className="font-serif">{source.title}</div>
                 <div className="text-xs font-mono text-ink-faint mt-1">
                   {source.externalId} · {recordTypeLabel(source.type)} · {source.agency} · {processingStateLabel(source.processingState)}

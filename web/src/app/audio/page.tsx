@@ -45,17 +45,17 @@ export default function AudioPage() {
           <div className="media-grid">
             {records.map((record) => (
               <VideoCard
-                key={record.externalId}
+                key={record.slug}
                 video={{
-                  id: record.externalId,
+                  id: record.slug,
                   filename: record.title,
-                  url: record.dvidsId ? `https://www.dvidshub.net/video/${record.dvidsId}` : `/source/${record.externalId}`,
+                  url: record.dvidsId ? `https://www.dvidshub.net/video/${record.dvidsId}` : `/source/${record.slug}`,
                   embed_url: record.dvidsId ? `https://www.dvidshub.net/video/embed/${record.dvidsId}` : "",
                   thumbnail_url: null,
                   agency: record.agency,
                   blurb: record.dvidsId ? null : "No playable file is published for this recording.",
                   release: record.release,
-                  href: `/source/${record.externalId}`,
+                  href: `/source/${record.slug}`,
                 }}
               />
             ))}

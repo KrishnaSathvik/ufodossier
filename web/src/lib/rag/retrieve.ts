@@ -337,12 +337,12 @@ function scopeFiles(question: string): SourceRecord[] {
 
 function toRetrievedFile(source: SourceRecord): RetrievedFile {
   return {
-    id: source.externalId,
+    id: source.slug,
     title: source.title,
     agency: source.agency,
     kind: source.type,
     note: source.description ? source.description.slice(0, 1400) : null,
-    href: `/source/${source.externalId}`,
+    href: `/source/${source.slug}`,
   };
 }
 

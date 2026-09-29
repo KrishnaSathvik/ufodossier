@@ -1,6 +1,6 @@
 import type { MetadataRoute } from "next";
 import { getSupabaseServer } from "@/lib/supabase";
-import { listReleases, listSources } from "@/lib/corpus/catalog";
+import { listFragments, listReleases, listSources } from "@/lib/corpus/catalog";
 
 export const revalidate = 3600; // regenerate hourly
 
@@ -14,12 +14,13 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   let from = 0;
   const batchSize = 200;
   while (true) {
-    const { data } = await sb
+    const { data, error } = await sb
       .from("incidents")
       .select("slug, extracted_at")
       .not("slug", "is", null)
       .order("id")
       .range(from, from + batchSize - 1);
+    if (error) throw new Error(`Sitemap incidents query failed: ${error.message}`);
     if (!data || data.length === 0) break;
     allIncidents.push(...data);
     if (data.length < batchSize) break;
@@ -36,10 +37,12 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   }));
 
   // Fetch collections
-  const { data: collections } = await sb
+  const { data: collections, error: collectionsError } = await sb
     .from("collections")
     .select("slug, created_at")
     .order("sort_order");
+
+  if (collectionsError) throw new Error(`Sitemap collections query failed: ${collectionsError.message}`);
 
   const collectionEntries: MetadataRoute.Sitemap = (collections ?? []).map((c) => ({
     url: `${BASE}/collections/${c.slug}`,
@@ -63,23 +66,24 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     { url: `${BASE}/about`, changeFrequency: "monthly", priority: 0.4, lastModified: new Date() },
   ];
 
-  let catalogEntries: MetadataRoute.Sitemap = [];
-  try {
-    catalogEntries = [
-      ...listReleases().map((release) => ({
-        url: `${BASE}/releases/${String(release.release).padStart(2, "0")}`,
-        changeFrequency: "weekly" as const,
-        priority: 0.6,
-      })),
-      ...listSources().map((source) => ({
-        url: `${BASE}/source/${encodeURIComponent(source.externalId)}`,
-        changeFrequency: "monthly" as const,
-        priority: 0.4,
-      })),
-    ];
-  } catch {
-    catalogEntries = [];
-  }
+  const catalogEntries: MetadataRoute.Sitemap = [
+    ...listReleases().map((release) => ({
+      url: `${BASE}/releases/${String(release.release).padStart(2, "0")}`,
+      changeFrequency: "weekly" as const,
+      priority: 0.6,
+    })),
+    ...listSources().map((source) => ({
+      url: `${BASE}/source/${encodeURIComponent(source.slug)}`,
+      changeFrequency: "monthly" as const,
+      priority: 0.4,
+    })),
+  ];
 
-  return [...staticPages, ...collectionEntries, ...catalogEntries, ...incidentEntries];
+  const localIncidentEntries: MetadataRoute.Sitemap = listFragments().map((fragment) => ({
+    url: `${BASE}/incident/${encodeURIComponent(fragment.slug)}`,
+    changeFrequency: "monthly",
+    priority: 0.7,
+  }));
+  const entries = [...staticPages, ...collectionEntries, ...catalogEntries, ...localIncidentEntries, ...incidentEntries];
+  return [...new Map(entries.map((entry) => [entry.url, entry])).values()];
 }
