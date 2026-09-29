@@ -111,6 +111,16 @@ function readJson<T>(rel: string): T {
   return JSON.parse(readFileSync(path.join(repoRoot(), rel), "utf8")) as T;
 }
 
+function readJsonOptional<T>(rel: string, fallback: T): T {
+  try {
+    return readJson<T>(rel);
+  } catch (error) {
+    const code = (error as NodeJS.ErrnoException).code;
+    if (code === "ENOENT") return fallback;
+    throw error;
+  }
+}
+
 const EXCLUDED_R3_SOURCES = new Set(["DOW-UAP-D088.pdf", "FBI-UAP-D013.pdf"]);
 
 function externalIdFromFilename(filename: string | null): string | null {
@@ -240,7 +250,10 @@ function loadCatalog(): Catalog {
   const coverage = readJson<{ generated_at?: string; records: CoverageRow[] }>(
     "pipeline/reports/corpus_qa/source_coverage.json",
   );
-  const official = readJson<OfficialRow[]>("pipeline/snapshots/pursue/2026-09-18-official/records.json");
+  const official = readJsonOptional<OfficialRow[]>(
+    "pipeline/snapshots/pursue/2026-09-18-official/records.json",
+    [],
+  );
   const graph = readJson<Graph>("pipeline/reports/corpus_qa/linker/full_graph.json");
   const officialById = new Map(official.map((row) => [row.external_id, row]));
   const checksums = loadChecksums();
