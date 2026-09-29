@@ -1,12 +1,10 @@
-import { HeaderShell } from "@/components/HeaderShell";
-import { Footer } from "@/components/Footer";
 import Link from "next/link";
 
 export default function NotFound() {
   return (
     <>
-      <HeaderShell />
-      <main className="max-w-content mx-auto px-4 md:px-6 py-24 md:py-32 text-center">
+
+      <main className="site-shell py-24 md:py-32 text-center">
         <p className="text-xs font-mono uppercase tracking-tracked text-ink-faint mb-4">
           File not found
         </p>
@@ -24,7 +22,7 @@ export default function NotFound() {
           Return to archive &rarr;
         </Link>
       </main>
-      <Footer />
+
     </>
   );
 }

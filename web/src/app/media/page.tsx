@@ -1,5 +1,3 @@
-import { HeaderShell } from "@/components/HeaderShell";
-import { Footer } from "@/components/Footer";
 import { JsonLd } from "@/components/JsonLd";
 import { getMediaIncidents, getVideosForMedia, getDocumentsForMedia } from "@/lib/incidents";
 import { MediaGrid } from "./MediaGrid";
@@ -12,6 +10,15 @@ export const metadata: Metadata = {
   title: "Source Media",
   description: "Source images, videos, and document covers from the U.S. government's declassified UAP files.",
   alternates: { canonical: "/media" },
+  openGraph: {
+    title: "Media — UFO Dossier",
+    description: "Images, video, and supporting visual records from the archive.",
+    images: [{ url: "/og/media.png", width: 1200, height: 630, alt: "Media — UFO Dossier" }],
+  },
+  twitter: {
+    card: "summary_large_image",
+    images: ["/og/media.png"],
+  },
 };
 
 export default async function MediaPage() {
@@ -31,9 +38,9 @@ export default async function MediaPage() {
         url: "https://www.ufodossier.com/media",
         isPartOf: { "@type": "WebSite", name: "UFO Dossier", url: "https://www.ufodossier.com" },
       }} />
-      <HeaderShell active="media" />
-      <main className="max-w-content mx-auto px-4 md:px-6 py-10 md:py-14">
-        <h1 className="font-serif text-2xl md:text-3xl font-medium mb-2">Source media</h1>
+
+      <main className="site-shell py-10 md:py-14">
+        <h1 className="lg:text-4xl font-serif text-2xl md:text-3xl font-medium mb-2">Source media</h1>
         <p className="text-ink-dim mb-8 max-w-prose">
           Images, videos, and document covers from the released files.{" "}
           <Link href="/audio" className="text-accent hover:underline">Official audio</Link>{" "}
@@ -42,7 +49,7 @@ export default async function MediaPage() {
 
         <MediaGrid images={images} videos={videos} documents={documents} />
       </main>
-      <Footer />
+
     </>
   );
 }

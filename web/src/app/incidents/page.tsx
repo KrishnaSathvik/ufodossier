@@ -1,5 +1,3 @@
-import { HeaderShell } from "@/components/HeaderShell";
-import { Footer } from "@/components/Footer";
 import { IncidentList } from "@/components/IncidentList";
 import { getSupabaseServer } from "@/lib/supabase";
 import type { Metadata } from "next";
@@ -37,9 +35,9 @@ export default async function IncidentsPage() {
 
   return (
     <>
-      <HeaderShell active="archive" />
-      <main className="max-w-content mx-auto px-4 md:px-6 py-10 md:py-14">
-        <h1 className="font-serif text-2xl md:text-3xl font-medium mb-2">
+
+      <main className="site-shell py-10 md:py-14">
+        <h1 className="lg:text-4xl font-serif text-2xl md:text-3xl font-medium mb-2">
           All incidents
         </h1>
         <p className="text-sm text-ink-faint mb-8">
@@ -47,7 +45,7 @@ export default async function IncidentsPage() {
         </p>
         <IncidentList incidents={incidents} showSearch paginated />
       </main>
-      <Footer />
+
     </>
   );
 }

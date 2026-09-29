@@ -5,13 +5,8 @@ import maplibregl from "maplibre-gl";
 import "maplibre-gl/dist/maplibre-gl.css";
 import { MapPanel } from "@/components/MapPanel";
 
-function getMapStyle(): string {
-  // OpenFreeMap styles need no API key. CARTO basemap CDN now watermarks
-  // unauthenticated tile requests with "API KEY REQUIRED".
-  return document.documentElement.classList.contains("dark")
-    ? "https://tiles.openfreemap.org/styles/dark"
-    : "https://tiles.openfreemap.org/styles/positron";
-}
+// OpenFreeMap liberty — richer roads/labels than positron/dark, no API key.
+const MAP_STYLE = "https://tiles.openfreemap.org/styles/liberty";
 
 export interface MapIncident {
   id: string;
@@ -71,8 +66,6 @@ function toGeoJSON(incidents: MapIncident[]): GeoJSON.FeatureCollection {
 }
 
 function addSourceAndLayers(map: maplibregl.Map, incidents: MapIncident[]) {
-  const isDark = document.documentElement.classList.contains("dark");
-
   map.addSource("incidents", {
     type: "geojson",
     data: toGeoJSON(incidents),
@@ -108,7 +101,7 @@ function addSourceAndLayers(map: maplibregl.Map, incidents: MapIncident[]) {
       "text-allow-overlap": true,
     },
     paint: {
-      "text-color": isDark ? "#0a0a0a" : "#ffffff",
+      "text-color": "#0a0a0a",
     },
   });
 
@@ -128,7 +121,7 @@ function addSourceAndLayers(map: maplibregl.Map, incidents: MapIncident[]) {
       ],
       "circle-radius": 7,
       "circle-stroke-width": 1.5,
-      "circle-stroke-color": isDark ? "#0a0a0a" : "#ffffff",
+      "circle-stroke-color": "#ffffff",
       "circle-opacity": 0.9,
     },
   });
@@ -165,7 +158,7 @@ export function MapView({ incidents }: { incidents: MapIncident[] }) {
 
     const map = new maplibregl.Map({
       container: mapContainer.current,
-      style: getMapStyle(),
+      style: MAP_STYLE,
       center: [-98, 39],
       zoom: 4,
       maxZoom: 14,
@@ -176,7 +169,14 @@ export function MapView({ incidents }: { incidents: MapIncident[] }) {
       map.addControl(new maplibregl.NavigationControl(), "top-left");
     }
 
+    // Keep canvas sized to the layout container (split panes, window resize, etc.)
+    const resizeObserver = new ResizeObserver(() => {
+      map.resize();
+    });
+    resizeObserver.observe(mapContainer.current);
+
     map.on("load", () => {
+      map.resize();
       addSourceAndLayers(map, incidentsRef.current);
       sourceReady.current = true;
 
@@ -239,24 +239,8 @@ export function MapView({ incidents }: { incidents: MapIncident[] }) {
 
     mapRef.current = map;
 
-    // Watch for theme changes (dark class toggled on <html>)
-    const observer = new MutationObserver(() => {
-      if (!mapRef.current) return;
-      const newStyle = getMapStyle();
-      const center = mapRef.current.getCenter();
-      const zoom = mapRef.current.getZoom();
-      mapRef.current.setStyle(newStyle);
-      // Re-add source + layers after style swap
-      mapRef.current.once("style.load", () => {
-        addSourceAndLayers(mapRef.current!, incidentsRef.current);
-        mapRef.current!.setCenter(center);
-        mapRef.current!.setZoom(zoom);
-      });
-    });
-    observer.observe(document.documentElement, { attributes: true, attributeFilter: ["class"] });
-
     return () => {
-      observer.disconnect();
+      resizeObserver.disconnect();
       map.remove();
       mapRef.current = null;
       sourceReady.current = false;
@@ -264,7 +248,7 @@ export function MapView({ incidents }: { incidents: MapIncident[] }) {
   // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
-  // Update GeoJSON source when incidents change (filtering)
+  // Update GeoJSON source when incidents change
   useEffect(() => {
     if (!mapRef.current || !sourceReady.current) return;
     const source = mapRef.current.getSource("incidents") as maplibregl.GeoJSONSource;

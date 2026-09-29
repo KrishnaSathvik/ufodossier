@@ -49,32 +49,23 @@ function sourcesFor(text: string, citations: Citation[]): Citation[] {
   return citations;
 }
 
-function InlineText({ text, citations }: { text: string; citations: Citation[] }) {
-  const byCase = new Map(citations.map((citation) => [citation.case_id.toUpperCase(), citation]));
-  const parts = text.split(/(\[[A-Za-z0-9-]+\])/g);
-
-  return (
-    <>
-      {parts.map((part, index) => {
-        const match = part.match(/^\[([A-Za-z0-9-]+)\]$/);
-        const citation = match ? byCase.get(match[1].toUpperCase()) : undefined;
-        if (!citation) return <span key={index}>{part}</span>;
-        return (
-          <Link
-            key={index}
-            href={citation.href ?? `/incident/${citation.slug ?? citation.id}`}
-            className="text-accent hover:underline"
-          >
-            {part}
-          </Link>
-        );
-      })}
-    </>
-  );
+// Keep source selection based on the original answer; simplify only its display.
+function answerText(text: string, citations: Citation[]): string {
+  const caseIds = new Set(citations.map((citation) => citation.case_id.toUpperCase()));
+  return stripTrailingCitations(text)
+    .replace(/\[([^\]]+)\]\([^\s)]+\)/g, (_, label: string) =>
+      caseIds.has(label.toUpperCase()) || /^\d{4}-[A-Za-z]+-[A-Za-z0-9-]+$/.test(label) ? "" : label
+    )
+    .replace(/\[([A-Za-z0-9-]+)\]/g, (marker, id: string) =>
+      caseIds.has(id.toUpperCase()) || /^\d{4}-[A-Za-z]+-[A-Za-z0-9-]+$/.test(id) ? "" : marker
+    )
+    .replace(/[ \t]+([.,;:!?])/g, "$1")
+    .replace(/[ \t]{2,}/g, " ")
+    .trim();
 }
 
 function AnswerBody({ text, citations }: { text: string; citations: Citation[] }) {
-  const blocks = stripTrailingCitations(text).split(/\n{2,}/).filter((block) => block.trim());
+  const blocks = answerText(text, citations).split(/\n{2,}/).filter((block) => block.trim());
 
   return (
     <div className="space-y-4">
@@ -92,7 +83,7 @@ function AnswerBody({ text, citations }: { text: string; citations: Citation[] }
             >
               {lines.map((line) => (
                 <li key={line}>
-                  <InlineText text={line.replace(/^(?:[-*]|\d+[.)])\s+/, "")} citations={citations} />
+                  {line.replace(/^(?:[-*]|\d+[.)])\s+/, "")}
                 </li>
               ))}
             </ListTag>
@@ -104,7 +95,7 @@ function AnswerBody({ text, citations }: { text: string; citations: Citation[] }
             {lines.map((line, lineIndex) => (
               <span key={lineIndex}>
                 {lineIndex > 0 ? " " : null}
-                <InlineText text={line} citations={citations} />
+                {line}
               </span>
             ))}
           </p>
@@ -125,12 +116,12 @@ export function AskForm() {
   const [question, setQuestion] = useState("");
   const [turns, setTurns] = useState<Turn[]>([]);
   const [loading, setLoading] = useState(false);
-  const scroller = useRef<HTMLDivElement>(null);
+  const latestTurn = useRef<HTMLDivElement>(null);
   const field = useRef<HTMLTextAreaElement>(null);
 
   useEffect(() => {
-    scroller.current?.scrollTo({ top: scroller.current.scrollHeight, behavior: "smooth" });
-  }, [turns, loading]);
+    latestTurn.current?.scrollIntoView({ block: "start", behavior: "smooth" });
+  }, [turns.length]);
 
   async function handleAsk(text?: string) {
     const asked = (text ?? question).trim();
@@ -145,7 +136,9 @@ export function AskForm() {
     ]);
     setLoading(true);
 
+    let receivedText = false;
     const write = (payload: { type?: string; text?: string; citations?: Citation[]; slug?: string }) => {
+      if (payload.text?.trim()) receivedText = true;
       setTurns((current) => current.map((turn) => (turn.id === id ? applyEvent(turn, payload) : turn)));
     };
 
@@ -190,6 +183,7 @@ export function AskForm() {
           }
         }
       }
+      if (!receivedText) write({ type: "replace", text: "No answer was returned. Please try again." });
     } catch {
       write({ type: "replace", text: "Something went wrong. Please try again." });
     } finally {
@@ -199,91 +193,74 @@ export function AskForm() {
   }
 
   return (
-    <div className="flex flex-1 flex-col min-h-0">
-      <div ref={scroller} className="flex-1 overflow-y-auto min-h-0">
-        <div className="max-w-prose mx-auto px-4 md:px-6 py-6 md:py-10">
+    <div>
+      <div className="flex items-start justify-between gap-4 mb-3">
+        <h1 className="font-serif text-2xl md:text-4xl font-medium">Ask the archive</h1>
+        {turns.length > 0 && <button type="button" disabled={loading} onClick={() => { setTurns([]); setQuestion(""); field.current?.focus(); }} className="shrink-0 text-sm text-ink-dim hover:text-ink underline underline-offset-4 disabled:opacity-40 disabled:cursor-not-allowed">New chat</button>}
+      </div>
+      <p className="text-ink-dim mb-8 max-w-prose">
+        Ask about a sighting, a place, a year, or a file in this archive.
+      </p>
+      <section aria-label="Archive chat">
+        <div className="space-y-8">
           {turns.length === 0 && (
-            <div className="pt-6 md:pt-16">
-              <h1 className="font-serif text-2xl md:text-4xl font-medium mb-3">Ask the archive</h1>
-              <p className="text-ink-dim mb-8 max-w-md">
-                Ask about a sighting, a place, a year, or a file in this archive.
-              </p>
-              <div className="flex flex-col gap-2">
+            <div className="py-4">
+              <h2 className="font-serif text-xl mb-4">What would you like to explore?</h2>
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
                 {EXAMPLES.map((example) => (
-                  <button
-                    key={example}
-                    type="button"
-                    onClick={() => handleAsk(example)}
-                    className="text-left text-sm text-ink-dim hover:text-ink border border-rule px-3 py-2.5 hover:border-ink-faint transition-colors"
-                  >
-                    {example}
-                  </button>
+                  <button key={example} type="button" onClick={() => handleAsk(example)} className="text-left text-sm lg:text-base text-ink-dim hover:text-ink border border-rule rounded-lg px-4 py-3 hover:bg-bg-elev hover:border-ink-faint transition-colors">{example}<span aria-hidden="true" className="text-accent ml-2">↗</span></button>
                 ))}
               </div>
             </div>
           )}
-
-          <div className="space-y-8">
-            {turns.map((turn) => {
-              const answer = stripTrailingCitations(turn.answer);
-              const sources = answer ? sourcesFor(answer, turn.citations) : [];
-              return (
-                <div key={turn.id} className="space-y-4">
-                  <div className="flex justify-end">
-                    <div className="max-w-[90%] sm:max-w-[80%] border border-rule bg-bg-elev px-4 py-3">
-                      <p className="text-[10px] font-mono uppercase tracking-tracked text-ink-faint mb-1">You</p>
-                      <p className="text-sm md:text-[15px] leading-relaxed">{turn.question}</p>
-                    </div>
-                  </div>
-
-                  <div>
-                    <p className="text-[10px] font-mono uppercase tracking-tracked text-ink-faint mb-2">Archive</p>
-                    {answer ? (
-                      <div className="font-serif text-[17px] md:text-lg leading-[1.7] text-ink">
-                        <AnswerBody text={answer} citations={turn.citations} />
-                      </div>
-                    ) : (
-                      <p className="text-sm text-ink-faint">Reading the records...</p>
-                    )}
-
-                    {sources.length > 0 && (
-                      <div className="mt-4">
-                        <p className="text-[10px] font-mono uppercase tracking-tracked text-ink-faint mb-1">Sources</p>
-                        <p className="text-sm text-ink-dim mb-2">Opened from the records used in this answer.</p>
-                        <ul className="space-y-1.5">
-                          {sources.map((citation) => (
-                            <li key={citation.id}>
-                              <Link
-                                href={citation.href ?? `/incident/${citation.slug ?? citation.id}`}
-                                className="text-sm text-accent hover:underline"
-                              >
-                                {citation.title}
-                              </Link>
-                            </li>
-                          ))}
-                        </ul>
-                      </div>
-                    )}
-
+          {turns.map((turn, index) => {
+            const answer = stripTrailingCitations(turn.answer);
+            const sources = answer ? sourcesFor(answer, turn.citations) : [];
+            const answering = loading && index === turns.length - 1;
+            return (
+              <div key={turn.id} ref={index === turns.length - 1 ? latestTurn : undefined} className="space-y-5 scroll-mt-40">
+                <div className="flex justify-end">
+                  <div className="max-w-[90%] md:max-w-[75%] rounded-2xl rounded-tr-sm bg-bg-quiet px-4 py-3 md:px-5 [overflow-wrap:anywhere]">
+                    <p className="text-xs font-medium text-ink-dim mb-1">You</p>
+                    <p className="text-base leading-relaxed whitespace-pre-wrap">{turn.question}</p>
                   </div>
                 </div>
-              );
-            })}
-          </div>
+                <div className="max-w-[95%] md:max-w-[85%] rounded-2xl rounded-tl-sm border border-rule px-4 py-4 md:px-5 [overflow-wrap:anywhere]">
+                  <p className="text-xs font-medium text-ink-dim mb-3">Archive assistant</p>
+                  {answer && <div className="reading-column text-base leading-relaxed text-ink"><AnswerBody text={answer} citations={turn.citations} /></div>}
+                  {answering && (
+                    <div role="status" className={`flex items-center gap-2.5 text-sm text-ink-dim ${answer ? "mt-4" : ""}`}>
+                      <span aria-hidden="true" className="h-4 w-4 rounded-full border-2 border-rule border-t-accent motion-safe:animate-spin" />
+                      <span>{answer ? "Writing answer…" : "Searching the archive…"}</span>
+                    </div>
+                  )}
+                  {sources.length > 0 && (
+                    <div className="mt-5 pt-4 border-t border-rule">
+                      <p className="text-xs font-medium text-ink-dim mb-2">Source records</p>
+                      <ul className="space-y-2">{sources.map((citation) => (
+                        <li key={citation.id}><Link href={citation.href ?? `/incident/${citation.slug ?? citation.id}`} className="text-sm text-accent hover:underline">{citation.title} ↗</Link></li>
+                      ))}</ul>
+                    </div>
+                  )}
+                </div>
+              </div>
+            );
+          })}
         </div>
-      </div>
 
       <form
         onSubmit={(event) => {
           event.preventDefault();
           handleAsk();
         }}
-        className="border-t border-rule bg-bg"
+        className="mt-8"
       >
-        <div className="max-w-prose mx-auto px-4 md:px-6 py-3">
-          <div className="flex items-end gap-2">
+        <div>
+          <label htmlFor="archive-question" className="sr-only">Your message</label>
+          <div className="flex items-end gap-2 rounded-lg border border-rule bg-bg p-2 focus-within:border-accent">
             <textarea
               ref={field}
+              id="archive-question"
               value={question}
               rows={1}
               onChange={(event) => {
@@ -292,28 +269,29 @@ export function AskForm() {
                 event.target.style.height = `${Math.min(event.target.scrollHeight, 128)}px`;
               }}
               onKeyDown={(event) => {
-                if (event.key === "Enter" && !event.shiftKey) {
+                if (event.key === "Enter" && !event.shiftKey && !event.nativeEvent.isComposing) {
                   event.preventDefault();
                   handleAsk();
                 }
               }}
               placeholder="Ask about a case, a place, or a year"
               disabled={loading}
-              className="flex-1 resize-none bg-bg border border-rule focus:border-accent px-3 py-2.5 text-sm text-ink outline-none max-h-32"
+              className="min-w-0 flex-1 resize-none bg-bg px-2 py-2 text-sm lg:text-base text-ink outline-none max-h-32"
             />
             <button
               type="submit"
               disabled={loading || !question.trim()}
-              className="shrink-0 border border-rule px-4 py-2.5 text-sm text-ink hover:border-accent hover:text-accent disabled:opacity-30 transition-colors"
+              className="shrink-0 rounded-md bg-ink text-bg px-4 py-2 text-sm lg:text-base font-medium hover:opacity-80 disabled:opacity-30 disabled:cursor-not-allowed transition-opacity"
             >
-              Ask
+              Send
             </button>
           </div>
-          <p className="mt-2 text-[11px] text-ink-faint">
+          <p className="mt-2 text-[11px] lg:text-xs text-ink-faint">
             Answers stay tied to the released records. Enter sends. Shift+Enter adds a line.
           </p>
         </div>
       </form>
+      </section>
     </div>
   );
 }

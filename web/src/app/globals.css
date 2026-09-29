@@ -4,6 +4,10 @@
 
 @layer base {
   :root {
+    /* Fluid outer canvas; bounded document content and prose. */
+    --content-max: 1240px;
+    --reading-max: 760px;
+    --page-gutter: clamp(24px, 3.2vw, 64px);
     --bg: #faf8f3;
     --bg-elev: #f3f0e8;
     --bg-quiet: #ece9e0;
@@ -39,6 +43,12 @@
     transition: background-color 0.2s ease, color 0.2s ease;
   }
 
+  /* Scale rem-based type consistently on desktop, including navigation,
+     metadata and controls; mobile keeps the original 16px foundation. */
+  @screen lg {
+    html, body { font-size: 18px; }
+  }
+
   ::selection {
     background: var(--accent);
     color: var(--bg);
@@ -51,6 +61,86 @@
 .no-scrollbar::-webkit-scrollbar { display: none; }
 
 @layer components {
+  /* App surfaces share viewport space with the same header and footer. */
+  .site-frame-app > footer { margin-top: 0; }
+
+  /* Retain the existing mobile/tablet geometry. */
+  .site-shell {
+    @apply w-full max-w-content mx-auto px-4 md:px-6;
+  }
+
+  .reading-shell, .document-shell {
+    @apply max-w-prose mx-auto px-4 md:px-6;
+  }
+
+  .featured-text-layout { @apply max-w-prose; }
+
+  /* Desktop expansion is centralized; prose never inherits the canvas width. */
+  @screen lg {
+    .site-shell, .document-shell, .reading-shell {
+      width: calc(100% - var(--page-gutter) * 2);
+      padding-inline: 0;
+      max-width: none;
+    }
+
+    .reading-shell > *, .reading-column { max-width: var(--reading-max); }
+    .document-shell > h1 { overflow-wrap: anywhere; }
+    .content-region { max-width: var(--content-max); }
+
+    /* Homepage hierarchy: editorial copy, archive index, selected file. */
+    .homepage .archive-intro {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) minmax(260px, 320px);
+      gap: clamp(48px, 6vw, 96px);
+      align-items: start;
+    }
+    .archive-intro-copy > h1 { max-width: 26ch; }
+    .archive-intro-copy > p { max-width: 65ch; }
+    .archive-index { border-left: 1px solid var(--rule); padding-left: 32px; }
+    .homepage .home-feature { border-bottom: 0; padding-bottom: 0; }
+    .featured-file {
+      border: 1px solid var(--rule);
+      background: var(--bg-elev);
+      padding: 32px 40px;
+    }
+    .featured-rail { border-bottom: 1px solid var(--rule); margin-bottom: 24px; }
+    .featured-file .featured-label { color: var(--ink-dim); }
+    .featured-file .featured-text-layout { max-width: none; }
+    .featured-file .featured-summary { max-width: 80ch; }
+    .featured-file .featured-excerpt { max-width: 85ch; }
+    .featured-file .featured-meta { border-top: 1px solid var(--rule); padding-top: 20px; margin-top: 24px; }
+    .home-latest .incident-row:hover > :nth-child(2),
+    .home-latest .incident-row:focus-visible > :nth-child(2) { text-decoration: underline; text-underline-offset: 3px; }
+
+    .incident-row {
+      display: grid;
+      grid-template-columns: minmax(160px, 19%) minmax(0, 1fr) 350px;
+      column-gap: 24px;
+      align-items: baseline;
+    }
+    .incident-date { width: auto; overflow-wrap: anywhere; }
+    .incident-metadata {
+      display: grid;
+      grid-template-columns: 102px 90px minmax(0, 1fr);
+      gap: 12px;
+      margin-left: 0;
+      overflow-wrap: anywhere;
+    }
+    .incident-release { grid-column: 1; }
+    .incident-agency { grid-column: 2; }
+    .incident-status { grid-column: 3; }
+    .source-metadata { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+    .related-records { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 24px; }
+    .related-records > :not([hidden]) ~ :not([hidden]) { margin-top: 0; }
+  }
+
+  .media-grid {
+    @apply grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 wide:grid-cols-4 gap-6;
+  }
+  .collection-grid {
+    @apply grid grid-cols-1 md:grid-cols-2 wide:grid-cols-3 gap-5;
+  }
+
   .tag {
     display: inline-block;
     font-family: var(--font-mono), ui-monospace, monospace;

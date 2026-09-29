@@ -1,5 +1,3 @@
-import { HeaderShell } from "@/components/HeaderShell";
-import { Footer } from "@/components/Footer";
 import { JsonLd } from "@/components/JsonLd";
 import { listReleases } from "@/lib/corpus/catalog";
 import Link from "next/link";
@@ -11,6 +9,15 @@ export const metadata: Metadata = {
   title: "PURSUE Releases",
   description: "The six public PURSUE releases of U.S. government UAP records.",
   alternates: { canonical: "/releases" },
+  openGraph: {
+    title: "Releases — UFO Dossier",
+    description: "Browse records by official public release.",
+    images: [{ url: "/og/releases.png", width: 1200, height: 630, alt: "Releases — UFO Dossier" }],
+  },
+  twitter: {
+    card: "summary_large_image",
+    images: ["/og/releases.png"],
+  },
 };
 
 export default function ReleasesPage() {
@@ -25,9 +32,9 @@ export default function ReleasesPage() {
         description: "Public PURSUE releases indexed by UFO Dossier.",
         url: "https://www.ufodossier.com/releases",
       }} />
-      <HeaderShell active="releases" />
-      <main className="max-w-content mx-auto px-4 md:px-6 py-10 md:py-14">
-        <h1 className="font-serif text-2xl md:text-4xl font-medium mb-3">PURSUE releases</h1>
+
+      <main className="site-shell py-10 md:py-14">
+        <h1 className="lg:text-4xl font-serif text-2xl md:text-4xl font-medium mb-3">PURSUE releases</h1>
         <p className="text-ink-dim max-w-prose mb-8">
           Official files grouped by the government release they arrived in.
           A file count is not a sighting count. Checked passages are quotes verified against the original file.
@@ -58,7 +65,7 @@ export default function ReleasesPage() {
           </div>
         )}
       </main>
-      <Footer />
+
     </>
   );
 }

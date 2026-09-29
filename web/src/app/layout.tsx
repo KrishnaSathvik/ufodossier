@@ -2,6 +2,8 @@ import type { Metadata, Viewport } from "next";
 import { Inter, JetBrains_Mono, Newsreader, Special_Elite } from "next/font/google";
 import { Analytics } from "@vercel/analytics/react";
 import "./globals.css";
+import { StatusBanner } from "@/components/StatusBanner";
+import { SiteFrame } from "@/components/SiteFrame";
 
 const sans = Inter({
   subsets: ["latin"],
@@ -59,11 +61,20 @@ export const metadata: Metadata = {
       "A searchable, source-grounded archive of publicly released U.S. government UAP records.",
     type: "website",
     siteName: "UFO Dossier",
+    images: [
+      {
+        url: "/og/archive.png",
+        width: 1200,
+        height: 630,
+        alt: "UFO Dossier — Archive",
+      },
+    ],
   },
   twitter: {
     card: "summary_large_image",
     title: "UFO Dossier",
     description: "Declassified UAP archive. Claims stay tied to the released record.",
+    images: ["/og/archive.png"],
   },
 };
 
@@ -91,7 +102,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         />
       </head>
       <body>
-        {children}
+        <SiteFrame banner={<StatusBanner />}>{children}</SiteFrame>
         <Analytics />
       </body>
     </html>

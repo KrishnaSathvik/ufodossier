@@ -24,9 +24,11 @@ module.exports = {
         serif: ["var(--font-serif)", "Georgia", "serif"],
         type: ["var(--font-type)", "Courier Prime", "monospace"],
       },
+      screens: { wide: "1440px" },
       maxWidth: {
-        prose: "680px",
-        content: "1080px",
+        // Editorial measure — wide enough to breathe, narrow enough to read.
+        prose: "40rem",
+        content: "1120px",
       },
       letterSpacing: {
         tracked: "0.08em",

@@ -1,5 +1,3 @@
-import { HeaderShell } from "@/components/HeaderShell";
-import { Footer } from "@/components/Footer";
 import { JsonLd } from "@/components/JsonLd";
 import type { Metadata } from "next";
 
@@ -20,10 +18,10 @@ export default function AboutPage() {
         url: "https://www.ufodossier.com/about",
         isPartOf: { "@type": "WebSite", name: "UFO Dossier", url: "https://www.ufodossier.com" },
       }} />
-      <HeaderShell active="about" />
 
-      <article className="max-w-prose mx-auto px-4 md:px-6 pt-10 md:pt-16 pb-14 md:pb-20">
-        <h1 className="font-serif text-2xl md:text-4xl font-medium mb-3">
+
+      <article className="reading-shell pt-10 md:pt-16 lg:pt-14 pb-14 md:pb-20">
+        <h1 className="lg:text-4xl font-serif text-2xl md:text-4xl font-medium mb-3">
           About this archive
         </h1>
         <p className="text-ink-dim mb-10 max-w-md leading-relaxed">
@@ -31,7 +29,7 @@ export default function AboutPage() {
           anything you read here against the original record.
         </p>
 
-        <div className="space-y-10 text-[16px] leading-[1.75] text-ink">
+        <div className="space-y-10 text-[16px] lg:text-base leading-[1.75] text-ink">
           <section>
             <h2 className="font-serif text-xl font-medium mb-3">What this archive is</h2>
             <p className="mb-4">
@@ -116,7 +114,6 @@ export default function AboutPage() {
         </div>
       </article>
 
-      <Footer />
     </>
   );
 }

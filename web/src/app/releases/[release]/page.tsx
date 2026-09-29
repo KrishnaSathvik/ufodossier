@@ -1,5 +1,3 @@
-import { HeaderShell } from "@/components/HeaderShell";
-import { Footer } from "@/components/Footer";
 import { JsonLd } from "@/components/JsonLd";
 import { getRelease, listSources } from "@/lib/corpus/catalog";
 import { processingStateLabel, recordTypeLabel } from "@/lib/labels";
@@ -39,15 +37,15 @@ export default async function ReleaseDetailPage({ params }: { params: Promise<{ 
         url: `https://www.ufodossier.com/releases/${String(number).padStart(2, "0")}`,
         creator: { "@type": "Organization", name: "U.S. Department of War" },
       }} />
-      <HeaderShell active="releases" />
-      <main className="max-w-content mx-auto px-4 md:px-6 py-10 md:py-14">
+
+      <main className="site-shell py-10 md:py-14">
         <Link href="/releases" className="text-sm text-ink-faint hover:text-ink">&larr; Releases</Link>
-        <h1 className="font-serif text-3xl md:text-4xl font-medium mt-4 mb-3">{row.label}</h1>
+        <h1 className="lg:text-4xl font-serif text-3xl md:text-4xl font-medium mt-4 mb-3">{row.label}</h1>
         <p className="text-ink-dim max-w-prose mb-6">
           {row.records.toLocaleString()} official files, {row.pdfs.toLocaleString()} PDFs,{" "}
           {row.media.toLocaleString()} media files, {row.acceptedFragments.toLocaleString()} checked passages.
         </p>
-        <ul className="divide-y divide-rule border-y border-rule">
+        <ul className="divide-y divide-rule border-y border-rule [overflow-wrap:anywhere]">
           {sources.map((source) => (
             <li key={source.externalId}>
               <Link href={`/source/${source.externalId}`} className="block py-3 hover:bg-bg-elev px-2">
@@ -61,7 +59,7 @@ export default async function ReleaseDetailPage({ params }: { params: Promise<{ 
           ))}
         </ul>
       </main>
-      <Footer />
+
     </>
   );
 }

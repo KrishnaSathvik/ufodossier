@@ -1,5 +1,3 @@
-import { HeaderShell } from "@/components/HeaderShell";
-import { Footer } from "@/components/Footer";
 import { JsonLd } from "@/components/JsonLd";
 import { listAudio } from "@/lib/corpus/catalog";
 import { VideoCard } from "@/components/VideoCard";
@@ -11,6 +9,15 @@ export const metadata: Metadata = {
   title: "Audio Records",
   description: "Official audio from the PURSUE releases, played from the same DVIDS recordings.",
   alternates: { canonical: "/audio" },
+  openGraph: {
+    title: "Audio — UFO Dossier",
+    description: "Official recordings and audio excerpts from the released files.",
+    images: [{ url: "/og/audio.png", width: 1200, height: 630, alt: "Audio — UFO Dossier" }],
+  },
+  twitter: {
+    card: "summary_large_image",
+    images: ["/og/audio.png"],
+  },
 };
 
 export default function AudioPage() {
@@ -25,9 +32,9 @@ export default function AudioPage() {
         description: "Official audio source records from the PURSUE releases.",
         url: "https://www.ufodossier.com/audio",
       }} />
-      <HeaderShell active="audio" />
-      <main className="max-w-content mx-auto px-4 md:px-6 py-10 md:py-14">
-        <h1 className="font-serif text-2xl md:text-4xl font-medium mb-3">Audio</h1>
+
+      <main className="site-shell py-10 md:py-14">
+        <h1 className="lg:text-4xl font-serif text-2xl md:text-4xl font-medium mb-3">Audio</h1>
         <p className="text-ink-dim max-w-prose mb-8">
           {records.length.toLocaleString()} official audio recordings from the government releases.
           Press play to hear the same recording published on DVIDS. The text under the title is the government description, not a transcript.
@@ -35,7 +42,7 @@ export default function AudioPage() {
         {records.length === 0 ? (
           <p className="text-ink-faint">No audio recordings are listed yet.</p>
         ) : (
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+          <div className="media-grid">
             {records.map((record) => (
               <VideoCard
                 key={record.externalId}
@@ -55,7 +62,7 @@ export default function AudioPage() {
           </div>
         )}
       </main>
-      <Footer />
+
     </>
   );
 }

@@ -8,7 +8,7 @@ export default function ErrorPage({
   reset: () => void;
 }) {
   return (
-    <div className="min-h-screen bg-bg flex flex-col items-center justify-center px-4 text-center">
+    <div className="site-shell py-24 md:py-32 bg-bg flex flex-col items-center justify-center px-4 text-center">
       <span className="font-mono text-xs uppercase tracking-tracked text-critical border border-critical px-3 py-1 mb-6 inline-block transform -rotate-2">
         System fault
       </span>

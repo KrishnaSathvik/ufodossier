@@ -1,5 +1,3 @@
-import { HeaderShell } from "@/components/HeaderShell";
-import { Footer } from "@/components/Footer";
 import { listSources, sourceFacets } from "@/lib/corpus/catalog";
 import { documentClassLabel, processingStateLabel, recordTypeLabel, releaseLabel } from "@/lib/labels";
 import Link from "next/link";
@@ -11,6 +9,15 @@ export const metadata: Metadata = {
   title: "Source Records",
   description: "Official files from the PURSUE releases, filtered by release, agency, file type, and document type.",
   alternates: { canonical: "/sources" },
+  openGraph: {
+    title: "Sources — UFO Dossier",
+    description: "Official files, documents, recordings, and released source records.",
+    images: [{ url: "/og/sources.png", width: 1200, height: 630, alt: "Sources — UFO Dossier" }],
+  },
+  twitter: {
+    card: "summary_large_image",
+    images: ["/og/sources.png"],
+  },
 };
 
 type Search = Record<string, string | string[] | undefined>;
@@ -37,9 +44,9 @@ export default async function SourcesPage({ searchParams }: { searchParams: Prom
 
   return (
     <>
-      <HeaderShell active="sources" />
-      <main className="max-w-content mx-auto px-4 md:px-6 py-10 md:py-14">
-        <h1 className="font-serif text-2xl md:text-4xl font-medium mb-3">Source records</h1>
+
+      <main className="site-shell py-10 md:py-14">
+        <h1 className="lg:text-4xl font-serif text-2xl md:text-4xl font-medium mb-3">Source records</h1>
         <p className="text-ink-dim max-w-prose mb-6">
           {sources.length.toLocaleString()} files match these filters. A file can be a sighting report,
           program paperwork, or a photo, video, or audio recording.
@@ -58,7 +65,7 @@ export default async function SourcesPage({ searchParams }: { searchParams: Prom
         {sources.length === 0 ? (
           <p className="text-ink-faint">No source records match these filters.</p>
         ) : (
-          <ul className="divide-y divide-rule border-y border-rule">
+          <ul className="divide-y divide-rule border-y border-rule [overflow-wrap:anywhere]">
             {sources.map((source) => (
               <li key={source.externalId}>
                 <Link href={`/source/${source.externalId}`} className="block py-3 px-2 hover:bg-bg-elev">
@@ -72,16 +79,16 @@ export default async function SourcesPage({ searchParams }: { searchParams: Prom
           </ul>
         )}
       </main>
-      <Footer />
+
     </>
   );
 }
 
 function Select({ name, label, value, options }: { name: string; label: string; value: string; options: [string, string][] }) {
   return (
-    <label className="block">
+    <label className="block min-w-0">
       <span className="block text-xs font-mono uppercase tracking-tracked text-ink-faint mb-1">{label}</span>
-      <select name={name} defaultValue={value} className="w-full bg-bg border border-rule px-2 py-2 text-ink">
+      <select name={name} defaultValue={value} className="w-full min-w-0 max-w-full bg-bg border border-rule px-2 py-2 text-ink">
         <option value="">Any</option>
         {options.map(([id, text]) => (
           <option key={id} value={id}>{text}</option>

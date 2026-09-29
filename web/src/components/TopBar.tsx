@@ -32,20 +32,23 @@ function NavLinks({ active, className }: { active: string; className: string }) 
 
 export function TopBarNav({ active = "archive" }: { active?: string }) {
   return (
-    <div className="max-w-content mx-auto px-4 md:px-6">
-      <div className="h-14 flex items-center justify-between gap-4">
-        <Link href="/" className="text-sm font-sans font-semibold tracking-tracked text-ink uppercase shrink-0">
+    <div className="site-shell">
+      <div className="h-14 lg:h-16 flex items-center justify-between gap-4">
+        <Link
+          href="/"
+          className="shrink-0 text-ink hover:opacity-90 transition-opacity text-sm lg:text-lg font-sans font-semibold tracking-tracked uppercase"
+        >
           UFO Dossier
         </Link>
-        <div className="flex items-center gap-4">
-          <nav className="hidden sm:flex items-center gap-4">
-            <NavLinks active={active} className="text-sm" />
+        <div className="flex items-center gap-4 lg:gap-6">
+          <nav className="hidden sm:flex items-center gap-4 lg:gap-6">
+            <NavLinks active={active} className="text-sm lg:text-base" />
           </nav>
           <ThemeToggle />
         </div>
       </div>
       <nav className="sm:hidden flex items-center justify-between pb-3">
-        <NavLinks active={active} className="text-sm" />
+        <NavLinks active={active} className="text-sm lg:text-base" />
       </nav>
     </div>
   );
@@ -55,10 +58,9 @@ export function TopBarNav({ active = "archive" }: { active?: string }) {
 export function TopBar({ active = "archive" }: { active?: string }) {
   return (
     <>
-      <header className="fixed top-0 left-0 right-0 bg-bg z-50 border-b border-rule">
+      <header className="sticky top-0 shrink-0 bg-bg z-50 border-b border-rule">
         <TopBarNav active={active} />
       </header>
-      <div className="h-[5.5rem] sm:h-14" />
     </>
   );
 }

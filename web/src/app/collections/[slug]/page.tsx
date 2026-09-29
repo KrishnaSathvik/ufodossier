@@ -1,5 +1,3 @@
-import { HeaderShell } from "@/components/HeaderShell";
-import { Footer } from "@/components/Footer";
 import { JsonLd } from "@/components/JsonLd";
 import { IncidentList } from "@/components/IncidentList";
 import { getSupabaseServer } from "@/lib/supabase";
@@ -89,11 +87,11 @@ export default async function CollectionPage({ params }: { params: Promise<{ slu
           url: "https://www.ufodossier.com",
         },
       }} />
-      <HeaderShell active="collections" />
 
-      <main className="max-w-content mx-auto px-4 md:px-6">
+
+      <main className="site-shell">
         {/* Breadcrumb */}
-        <nav className="pt-8 text-xs text-ink-faint font-sans">
+        <nav className="pt-8 lg:pt-14 text-xs text-ink-faint font-sans">
           <Link href="/" className="hover:text-ink transition-colors">Archive</Link>
           <span className="mx-1.5">/</span>
           <Link href="/collections" className="hover:text-ink transition-colors">Collections</Link>
@@ -101,8 +99,8 @@ export default async function CollectionPage({ params }: { params: Promise<{ slu
           <span className="text-ink-dim">{collection.title}</span>
         </nav>
 
-        <section className="pt-8 md:pt-12 pb-8">
-          <h1 className="font-serif text-3xl md:text-[52px] font-medium leading-tight mb-4">
+        <section className="pt-8 md:pt-12 lg:pt-4 pb-8">
+          <h1 className="lg:text-4xl font-serif text-3xl md:text-[52px] font-medium leading-tight mb-4">
             {collection.title}
           </h1>
           <p className="font-serif italic text-lg md:text-xl text-ink-dim max-w-[600px]">
@@ -125,7 +123,6 @@ export default async function CollectionPage({ params }: { params: Promise<{ slu
         </section>
       </main>
 
-      <Footer />
     </>
   );
 }

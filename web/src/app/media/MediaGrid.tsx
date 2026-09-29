@@ -49,7 +49,7 @@ function MediaGridInner({
             No images are listed yet.
           </p>
         ) : (
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+          <div className="media-grid">
             {images.map((item: any) => (
               <MediaCard key={item.id} incident={item} type="image" />
             ))}
@@ -61,7 +61,7 @@ function MediaGridInner({
             No videos are listed yet.
           </p>
         ) : (
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+          <div className="media-grid">
             {videos.map((item: any) => (
               <VideoCard key={item.id} video={item} />
             ))}
@@ -72,7 +72,7 @@ function MediaGridInner({
           No document covers are listed yet.
         </p>
       ) : (
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+        <div className="media-grid">
           {documents.map((doc: any) => (
             <DocumentCard key={doc.id} document={doc} />
           ))}

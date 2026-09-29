@@ -1,5 +1,3 @@
-import { HeaderShell } from "@/components/HeaderShell";
-import { Footer } from "@/components/Footer";
 import { JsonLd } from "@/components/JsonLd";
 import { RedactedExcerpt } from "@/components/RedactedExcerpt";
 import { ShareRow } from "@/components/ShareRow";
@@ -181,14 +179,14 @@ export default async function IncidentPage({ params }: { params: Promise<{ slug:
           },
         } : {}),
       }} />
-      <HeaderShell />
 
-      <article className="max-w-prose mx-auto px-4 md:px-6 pt-10 md:pt-16 pb-12">
+
+      <article className="reading-shell pt-10 md:pt-16 lg:pt-14 pb-12">
         <BackLink href="/" />
 
         {/* Header */}
         <header className="mt-6 mb-8">
-          <h1 className="font-serif text-2xl md:text-4xl font-medium leading-snug mb-4">
+          <h1 className="lg:text-4xl font-serif text-2xl md:text-4xl font-medium leading-snug mb-4">
             {incident.title}
           </h1>
 
@@ -298,13 +296,13 @@ export default async function IncidentPage({ params }: { params: Promise<{ slug:
         )}
 
         {/* Summary */}
-        <p className="text-ink-dim leading-relaxed mb-8 text-[17px]">
+        <p className="text-ink-dim leading-relaxed mb-8 text-[17px] lg:text-base">
           {incident.summary}
         </p>
 
         {/* Verbatim excerpt */}
         <blockquote className="border-l-2 border-accent pl-5 py-3 my-8">
-          <p className="font-serif italic text-[17px] leading-relaxed text-ink">
+          <p className="font-serif italic text-[17px] lg:text-base leading-relaxed text-ink">
             &ldquo;<RedactedExcerpt text={incident.raw_excerpt} />&rdquo;
           </p>
           <cite className="block mt-3 text-xs text-ink-faint font-mono not-italic">
@@ -418,7 +416,7 @@ export default async function IncidentPage({ params }: { params: Promise<{ slug:
                   href={`/incident/${s.slug || s.id}`}
                   className="block py-3 border-b border-rule hover:bg-bg-elev transition-colors -mx-2 px-2"
                 >
-                  <div className="font-serif text-[15px] text-ink mb-1">{s.title}</div>
+                  <div className="font-serif text-[15px] lg:text-base text-ink mb-1">{s.title}</div>
                   <div className="text-xs text-ink-faint font-mono">
                     {s.occurred_at ?? "Undated"}{s.branch ? ` / ${s.branch}` : ""}
                   </div>
@@ -429,7 +427,6 @@ export default async function IncidentPage({ params }: { params: Promise<{ slug:
         )}
       </article>
 
-      <Footer />
     </>
   );
 }

@@ -1,5 +1,3 @@
-import { HeaderShell } from "@/components/HeaderShell";
-import { Footer } from "@/components/Footer";
 import { getSupabaseServer } from "@/lib/supabase";
 import Link from "next/link";
 import type { Metadata } from "next";
@@ -10,6 +8,15 @@ export const metadata: Metadata = {
   title: "Collections — UFO Dossier",
   description: "Curated collections of declassified UAP incidents, organized by agency, era, and theme.",
   alternates: { canonical: "/collections" },
+  openGraph: {
+    title: "Collections — UFO Dossier",
+    description: "Curated groups of published case files, organized by theme.",
+    images: [{ url: "/og/collections.png", width: 1200, height: 630, alt: "Collections — UFO Dossier" }],
+  },
+  twitter: {
+    card: "summary_large_image",
+    images: ["/og/collections.png"],
+  },
 };
 
 async function getCollections() {
@@ -42,14 +49,14 @@ export default async function CollectionsPage() {
 
   return (
     <>
-      <HeaderShell active="collections" />
 
-      <main className="max-w-content mx-auto px-4 md:px-6">
-        <section className="pt-16 md:pt-24 pb-10 md:pb-14">
-          <h1 className="font-serif text-3xl md:text-5xl font-medium leading-tight mb-4">
+
+      <main className="site-shell">
+        <section className="pt-16 md:pt-24 lg:pt-14 pb-10 md:pb-14">
+          <h1 className="lg:text-4xl font-serif text-3xl md:text-5xl font-medium leading-tight mb-4">
             Collections
           </h1>
-          <p className="font-serif italic text-lg text-ink-dim max-w-prose">
+          <p className="font-serif italic text-lg lg:font-sans lg:not-italic lg:text-base text-ink-dim max-w-prose">
             Curated groups of published case files, organized by agency, era, and sensor.
           </p>
         </section>
@@ -59,7 +66,7 @@ export default async function CollectionsPage() {
             No collections are listed yet.
           </p>
         ) : (
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-6 pb-14">
+          <div className="collection-grid pb-14">
             {collections.map((c) => (
               <Link
                 key={c.slug}
@@ -69,7 +76,7 @@ export default async function CollectionsPage() {
                 <h2 className="font-serif text-[22px] font-medium leading-snug mb-2 group-hover:text-accent transition-colors">
                   {c.title}
                 </h2>
-                <p className="font-serif italic text-sm text-ink-dim line-clamp-2 mb-3">
+                <p className="font-serif italic text-sm lg:text-base text-ink-dim line-clamp-2 mb-3">
                   {c.standfirst}
                 </p>
                 <span className="text-xs text-ink-faint font-sans">
@@ -81,7 +88,6 @@ export default async function CollectionsPage() {
         )}
       </main>
 
-      <Footer />
     </>
   );
 }
