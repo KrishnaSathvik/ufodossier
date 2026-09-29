@@ -156,29 +156,33 @@ export async function POST(req: NextRequest) {
           .filter((incident) => generated.cited.includes(incident.case_id.toUpperCase()))
           .map((incident) => incident.id);
 
-        await recordTelemetry({
-          provider: generated.result.provider,
-          model: generated.result.model,
-          reasoningEffort: generated.result.reasoningEffort,
-          attemptRole: generated.result.attemptRole,
-          promptVersion: RAG_PROMPT_VERSION,
-          retrievalVersion: config.evidenceSource === "local" ? "local-lexical-v1" : RETRIEVAL_VERSION,
-          question,
-          retrievedIncidentIds: retrieved.incidents.map((incident) => incident.id),
-          citedIncidentIds: citedIds,
-          citationValidationStatus: generated.status,
-          inputTokens: generated.result.usage.inputTokens,
-          outputTokens: generated.result.usage.outputTokens,
-          reasoningTokens: generated.result.usage.reasoningTokens,
-          retrievalLatencyMs: retrieved.latencyMs,
-          generationLatencyMs: generated.result.latencyMs,
-          totalLatencyMs: Date.now() - started,
-          estimatedCostUsd: estimateCostUsd(
-            generated.result.model,
-            generated.result.usage.inputTokens,
-            generated.result.usage.outputTokens,
-          ),
-        });
+        try {
+          await recordTelemetry({
+            provider: generated.result.provider,
+            model: generated.result.model,
+            reasoningEffort: generated.result.reasoningEffort,
+            attemptRole: generated.result.attemptRole,
+            promptVersion: RAG_PROMPT_VERSION,
+            retrievalVersion: config.evidenceSource === "local" ? "local-lexical-v1" : RETRIEVAL_VERSION,
+            question,
+            retrievedIncidentIds: retrieved.incidents.map((incident) => incident.id),
+            citedIncidentIds: citedIds,
+            citationValidationStatus: generated.status,
+            inputTokens: generated.result.usage.inputTokens,
+            outputTokens: generated.result.usage.outputTokens,
+            reasoningTokens: generated.result.usage.reasoningTokens,
+            retrievalLatencyMs: retrieved.latencyMs,
+            generationLatencyMs: generated.result.latencyMs,
+            totalLatencyMs: Date.now() - started,
+            estimatedCostUsd: estimateCostUsd(
+              generated.result.model,
+              generated.result.usage.inputTokens,
+              generated.result.usage.outputTokens,
+            ),
+          });
+        } catch (telemetryError) {
+          console.warn("[ask] telemetry skipped:", (telemetryError as Error).message);
+        }
 
         send({ type: "slug", slug });
         controller.close();
